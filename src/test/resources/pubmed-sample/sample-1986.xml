@@ -1,0 +1,373 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sports (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Sports (Basel)</journal-id><journal-id journal-id-type="publisher-id">sports</journal-id><journal-title-group><journal-title>Sports</journal-title></journal-title-group><issn pub-type="epub">2075-4663</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29910292</article-id><article-id pub-id-type="pmc">5968879</article-id><article-id pub-id-type="doi">10.3390/sports4030044</article-id><article-id pub-id-type="publisher-id">sports-04-00044</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Star Excursion Balance Test in Young Athletes with Back Pain</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Appiah-Dwomoh</surname><given-names>Edem Korkor</given-names></name><xref rid="c1-sports-04-00044" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>M&#x000fc;ller</surname><given-names>Steffen</given-names></name></contrib><contrib contrib-type="author"><name><surname>Hadzic</surname><given-names>Miralem</given-names></name></contrib><contrib contrib-type="author"><name><surname>Mayer</surname><given-names>Frank</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>de Bruin</surname><given-names>Eling Douwe</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-sports-04-00044">Clinical Exercise Science, Faculty of Health Science, University Outpatient Clinic, Potsdam 14469, Brandenburg, Germany; <email>stefmue@uni-potsdam.de</email> (S.M.); <email>mhadzic@uni-potsdam.de</email> (M.H.); <email>fmayer@uni-potsdam.de</email> (F.M.)</aff><author-notes><corresp id="c1-sports-04-00044"><label>*</label>Correspondence: <email>appiahdw@uni-potsdam.de</email>; Tel.: +49-151-4343-7393; Fax: +49-331-977-1296</corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>8</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2016</year></pub-date><volume>4</volume><issue>3</issue><elocation-id>44</elocation-id><history><date date-type="received"><day>11</day><month>6</month><year>2016</year></date><date date-type="accepted"><day>16</day><month>8</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors.</copyright-statement><copyright-year>2016</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The Star Excursion Balance Test (SEBT) is effective in measuring dynamic postural control (DPC). This research aimed to determine whether DPC measured by the SEBT in young athletes (YA) with back pain (BP) is different from those without BP (NBP). 53 BP YA and 53 NBP YA matched for age, height, weight, training years, training sessions/week and training minutes/session were studied. Participants performed 4 practice trials after which 3 measurements in the anterior, posteromedial and posterolateral SEBT reach directions were recorded. Normalized reach distance was analyzed using the mean of all 3 measurements. There was no statistical significant difference (<italic>p</italic> &#x0003e; 0.05) between the reach distance of BP (87.2 &#x000b1; 5.3, 82.4 &#x000b1; 8.2, 78.7 &#x000b1; 8.1) and NBP (87.8 &#x000b1; 5.6, 82.4 &#x000b1; 8.0, 80.0 &#x000b1; 8.8) in the anterior, posteromedial and posterolateral directions respectively. DPC in YA with BP, as assessed by the SEBT, was not different from NBP YA.</p></abstract><kwd-group><kwd>young athletes</kwd><kwd>back pain</kwd><kwd>star excursion balance test</kwd></kwd-group></article-meta></front><body><sec id="sec1-sports-04-00044"><title>1. Introduction</title><p>Back pain, particularly occurring in the lumbar region, has been considered rare in children and adolescents [<xref rid="B1-sports-04-00044" ref-type="bibr">1</xref>]. However, the most recent studies suggest it is a problem not only in children and adolescents [<xref rid="B2-sports-04-00044" ref-type="bibr">2</xref>,<xref rid="B3-sports-04-00044" ref-type="bibr">3</xref>], but also in young athletes (YA) [<xref rid="B4-sports-04-00044" ref-type="bibr">4</xref>,<xref rid="B5-sports-04-00044" ref-type="bibr">5</xref>,<xref rid="B6-sports-04-00044" ref-type="bibr">6</xref>,<xref rid="B7-sports-04-00044" ref-type="bibr">7</xref>,<xref rid="B8-sports-04-00044" ref-type="bibr">8</xref>]. Back pain causes a disruption of postural control [<xref rid="B9-sports-04-00044" ref-type="bibr">9</xref>] and can alter trunk muscle activity in chronic [<xref rid="B10-sports-04-00044" ref-type="bibr">10</xref>,<xref rid="B11-sports-04-00044" ref-type="bibr">11</xref>] and acute [<xref rid="B12-sports-04-00044" ref-type="bibr">12</xref>] patients. Therefore, there is the need for periodic assessment and monitoring, so as to identify and appropriately rehabilitate the impaired posture and alteration in trunk muscle activity.</p><p>To evaluate initial deficits resulting from injury, risk of injury and improvement after the intervention for an injury, postural control assessments are used. This can be carried out statically or dynamically depending on the task performed. In the general population, Ruhe et al. [<xref rid="B13-sports-04-00044" ref-type="bibr">13</xref>], using static measures, confirmed increased postural instability in individuals with low back pain compared to healthy controls. In athletes, however, static assessments are unable to challenge the postural control system and fail to obtain useful information [<xref rid="B14-sports-04-00044" ref-type="bibr">14</xref>]. Hence, there is a need for dynamic assessment. This form of assessment should involve some level of movement around a base of support and closely replicates the demands of physical activity in sports participation [<xref rid="B15-sports-04-00044" ref-type="bibr">15</xref>].</p><p>In assessing dynamic postural control (DPC), one test that has captured the attention of researchers and clinicians is the Star Excursion Balance Test (SEBT). Here, DPC is determined by how far a participant can reach while maintaining a base of support [<xref rid="B16-sports-04-00044" ref-type="bibr">16</xref>]. It is a simple, inexpensive, reliable tool that does not require special equipment and is effective in measuring multi-planar excursion and postural control [<xref rid="B15-sports-04-00044" ref-type="bibr">15</xref>]. The premise of this test is to determine if, while standing on an injured or affected limb to maintain stability, a deficit is produced in the reaching distances, indicating a deficiency in DPC that might be associated with the pathologic condition in the stance limb [<xref rid="B15-sports-04-00044" ref-type="bibr">15</xref>]. </p><p>In people with a history of back pain (BP), there is a delay in the feed-forward postural response leaving the spine unprotected when movement of the lower limb occurs [<xref rid="B17-sports-04-00044" ref-type="bibr">17</xref>]. As such, one can assume that the vulnerability of the spine to further injuries would limit how far the limb would move in a dynamic test, such as the SEBT. As BP influences the trunk as well as lower limb movement [<xref rid="B18-sports-04-00044" ref-type="bibr">18</xref>], there is the possibility of detecting deficit in DPC using the measure of reach distance. In the only published article on the use of the SEBT to measure dynamic posture among low back pain subjects in the general population, Ganesh et al. [<xref rid="B19-sports-04-00044" ref-type="bibr">19</xref>] concluded that it is an effective tool to identify and measure reach deficits in this group of patients. Therefore, application of this tool in young athletes may prove a more challenging task that could help further assess and monitor DPC deficits in YA with BP. </p><p>To the best of our knowledge, there is currently no published literature investigating dynamic posture in YA with BP using the SEBT. Therefore, this study aimed to determine if DPC, measured by SEBT reach distance, in YA with BP is different than NBP YA. The hypothesis was that there is a difference in the reach distance in BP and NBP YAs as measured by the SEBT.</p></sec><sec id="sec2-sports-04-00044"><title>2. Materials and Methods</title><sec id="sec2dot1-sports-04-00044"><title>2.1. Subjects </title><p>A total of 53 YA with BP (14.7 &#x000b1; 1.2 years, 62.4 &#x000b1; 13.6 kg, 171.9 &#x000b1; 10.5 cm, 6.1 &#x000b1; 2.7 training years, 7.8 &#x000b1; 3.3 training session/week, 108.5 &#x000b1; 30.2 training minutes/session) and 53 YA NBP (14.5 &#x000b1; 1.2 years, 59.6 &#x000b1; 10.8 kg, 170.5 &#x000b1; 10.5 cm, 5.7 &#x000b1; 2.7 training years, 7.8 &#x000b1; 3.3 training sessions/week, 102.3 &#x000b1; 28.8 min/session) participated in the study. The athletes were from 13 different sports (boxing, athletics, rifle shooting, rowing, canoeing, judo, football, handball, cycling, wrestling, horse riding, gymnastics and volleyball). The 53 BP subjects were matched with 53 NBP according to age, height, weight, training years, training sessions/week and training minutes/session but not sports discipline. Subjects were recruited at a health check for YA applying to or already in an elite school of sports in Brandenburg, Germany. A pain questionnaire consisting of a numeric rating scale of 1 (no pain) to 5 (most severe pain) in the form of smiley faces was used to allocate participants into control or BP groups [<xref rid="B20-sports-04-00044" ref-type="bibr">20</xref>]. BP was not confined to a specific back region. Subjects with lower and upper limb injuries, head injuries, vision problems and any other complaints that could have affected balance measurement were excluded. Medical examination was carried out for all subjects before testing. The institution&#x02019;s ethics committee gave ethical approval and the parent or guardian of each participant gave written informed consent before data collection.</p></sec><sec id="sec2dot2-sports-04-00044"><title>2.2. Test Description</title><p>The SEBT is a measure of dynamic balance. The original version is composed of 8 lines extending 45&#x000b0; from the center of a grid made with an adhesive tape on the floor. Hertel et al. [<xref rid="B21-sports-04-00044" ref-type="bibr">21</xref>] reported redundancy of some of the directions and proposed a shorter version, which was used in this study. The shortened version includes the anterior, posteromedial and posterolateral directions. Excellent interrater reliability with normalized and non-normalized reach distance scores [<xref rid="B22-sports-04-00044" ref-type="bibr">22</xref>], as well as strong intra-rater reliability (ICC = 0.84&#x02013;0.87) and test&#x02013;retest reliability (ICC = 0.89&#x02013;0.93) [<xref rid="B23-sports-04-00044" ref-type="bibr">23</xref>], have been reported. There is also literature to support the construct and predictive validity of the SEBT [<xref rid="B16-sports-04-00044" ref-type="bibr">16</xref>,<xref rid="B21-sports-04-00044" ref-type="bibr">21</xref>], although no gold standard exists for measuring dynamic balance. </p></sec><sec id="sec2dot3-sports-04-00044"><title>2.3. Measurement Procedure</title><p>Age, gender, weight, height, number of training years, training days per week, training minutes per session and type of sports engaged in by subjects were recorded. Oral instructions, as well as a demonstration of how the test should be performed, were given to the participants. The SEBT directions were constructed by affixing 3 tape measures with a centimeter scale on the laboratory floor. The first reach direction was aligned anterior to the apex; the other two were oriented 135&#x000b0; to the first in posteromedial and posterolateral directions [<xref rid="B24-sports-04-00044" ref-type="bibr">24</xref>]. The order of the starting limb was randomized and the chronology of the directions was defined (1. Anterior; 2. Posteromedial; 3. Posterolateral). The subject&#x02019;s starting foot is placed at the convergence of the reach directional lines of the SEBT [<xref rid="B24-sports-04-00044" ref-type="bibr">24</xref>]. In the process the lateral malleolus is positioned at the intersection point of the 3 directions with the foot&#x02019;s longitudinal axis oriented at the anterior direction. The starting position is a bilateral stand. Subjects stood with socks while keeping their hands on their hips. Maintaining a single leg stance, they were instructed to reach out as far as possible with the non-stance limb along the marked tape, point to the most distal portion with their great toe and return the limb back to the starting position [<xref rid="B25-sports-04-00044" ref-type="bibr">25</xref>]. Subjects practiced each direction 4 times before the main test in order to minimize learning effect [<xref rid="B23-sports-04-00044" ref-type="bibr">23</xref>,<xref rid="B26-sports-04-00044" ref-type="bibr">26</xref>]. This was followed by the recording of 3 successful trials in each direction for both legs, always with a 10-s rest between each test [<xref rid="B21-sports-04-00044" ref-type="bibr">21</xref>]. The limb length of subjects was then taken with a measuring tape. This was defined as the distance from the anterosuperior iliac spine to the medial malleolus [<xref rid="B27-sports-04-00044" ref-type="bibr">27</xref>]. Maximum reach distance was visually read by the same examiner for all subjects. The examiner is a final year doctoral student with 5 years working experience as a physiotherapist and 4 additional years of working with young athletes as part of the doctoral studies. Prior to testing the examiner received training at the University of Potsdam Outpatient Clinic, a licensed medical examination center of the German Olympic Sports federation. A trial was considered invalid if the reaching foot did not return to the starting position, touched down while reaching out, the support limb shifted, the heel of the support foot did not stay in contact with the ground or if the hands were removed from the hips (<xref ref-type="fig" rid="sports-04-00044-f001">Figure 1</xref>). </p></sec><sec id="sec2dot4-sports-04-00044"><title>2.4. Outcome Measure</title><p>Outcome measures of interest were the mean normalized reach distance of the 3 trials, and a composite reach distance score (CRDS) [<xref rid="B28-sports-04-00044" ref-type="bibr">28</xref>]. For normalization, the mean reach distance of the 3 trials was divided by limb length (cm) and multiplied by 100 for a percentage score. The composite reach distance was calculated using the sum of the 3 normalized reach distances divided by 3 times the limb length, multiplied by 100 [<xref rid="B28-sports-04-00044" ref-type="bibr">28</xref>].</p></sec><sec id="sec2dot5-sports-04-00044"><title>2.5. Data and Statistical Analysis</title><p>Relevant data for analysis was handwritten into a case report form after which computation was performed. Data was first descriptively analyzed (mean &#x000b1; standard deviation), followed by independent <italic>t</italic>-tests, paired <italic>t</italic>-tests and Mann-Whitney U tests for normally and non-normally distributed data, respectively. Post hoc power analysis was carried out using G*Power 3.1.9.2 [<xref rid="B29-sports-04-00044" ref-type="bibr">29</xref>] to determine whether the research was adequately powered. Effect size was calculated using the formula (mean of BP group&#x02014;mean of NBP group)/pooled standard deviation of both group. SPSS version 22 (SPSS Inc., Chicago, IL, USA) was used for analysis. Significance was set at &#x003b1; = 0.05.</p></sec></sec><sec id="sec3-sports-04-00044"><title>3. Results</title><p>Normalized reach distances for BP and NBP groups in each direction and composite reach distance scores (CRDS) for right lower limb (RLL) and left lower limb (LLL), are presented in <xref ref-type="table" rid="sports-04-00044-t001">Table 1</xref> and <xref ref-type="table" rid="sports-04-00044-t002">Table 2</xref>. There was no significant difference between the RLL and LLL of BP and NBP subjects for the reach distances and the CRDS. </p><p>There was no statistically significant difference between BP and NBP subjects for the RLL in all directions of the SEBT. The effect sizes for the reach distances were small (<xref ref-type="table" rid="sports-04-00044-t003">Table 3</xref>). The population means of the RLL for the BP and NBP young athletes did not show significant evidence of a difference as observed from the 95% confidence interval (<xref ref-type="fig" rid="sports-04-00044-f002">Figure 2</xref>a&#x02013;d).</p><p>The reach distances and CRDS of the LLL for BP were not statistically significantly different from the NBP subjects. The effect sizes for the reach distances were also small (<xref ref-type="table" rid="sports-04-00044-t004">Table 4</xref>). There was also no significant evidence that the population means of the LLL for the BP and NBP young athletes are different as shown by the 95% confidence interval (<xref ref-type="fig" rid="sports-04-00044-f003">Figure 3</xref>a&#x02013;d). </p></sec><sec id="sec4-sports-04-00044"><title>4. Discussion</title><p>This study aimed at determining if dynamic postural control, as measured by normalized SEBT reach distances, differed between YA with and without BP. The human postural system operates on the basis of integrated information from three independent sensory sources: visual, vestibular and somatosensory [<xref rid="B30-sports-04-00044" ref-type="bibr">30</xref>]. In order for the body to maintain balance it relies on rapid, continuous feedback from these sensory sources to execute smooth and coordinated neuromuscular actions [<xref rid="B31-sports-04-00044" ref-type="bibr">31</xref>]. Therefore, damage to sensory tissues and pain inhibition in the lumbar spine and trunk, as occurs in BP, are believed to affect the postural control mechanism [<xref rid="B10-sports-04-00044" ref-type="bibr">10</xref>,<xref rid="B32-sports-04-00044" ref-type="bibr">32</xref>]. This leads to the adoption of alternative postural control strategies in order to cope with the new demands introduced by pain [<xref rid="B10-sports-04-00044" ref-type="bibr">10</xref>]. This could be why the BP subjects performed as well as the controls in all directions. It could also be that athletes generally have superior balance ability due to sport participation [<xref rid="B33-sports-04-00044" ref-type="bibr">33</xref>] masking the effects of pain on balance. In addition to this, the visual system provides the body with visual cues for use as reference points in orienting the body in space. It also provides feedback from the reach leg during movement and allows observation of scored reach distances [<xref rid="B24-sports-04-00044" ref-type="bibr">24</xref>]. This also could have contributed to the present result in which the BP YA reached as far as their matched controls. In a dynamic task such as the SEBT, visual and vestibular inputs are important and tend to be the most reliable [<xref rid="B34-sports-04-00044" ref-type="bibr">34</xref>]. However, a reduction in vision feedback [<xref rid="B34-sports-04-00044" ref-type="bibr">34</xref>] that should occur during the posteromedial and posterolateral reaches still did not alter reach distances between the two groups of interest. According to Jacobs et al. [<xref rid="B35-sports-04-00044" ref-type="bibr">35</xref>], there is reduced proprioceptive feedback from mechanoreceptors of the trunk and hip joint as a result of altered sensory input at the site of BP. Hence one would have thought this would lead to a differentiation between the BP subjects and their matched controls. The current results could thus be a confirmation that athletes are indeed more skilled at focusing and attending to important sensory cues, when producing refined motor responses [<xref rid="B36-sports-04-00044" ref-type="bibr">36</xref>], like those during the SEBT. </p><p>The only published literature on SEBT in relation to BP is that of Ganesh et al. [<xref rid="B19-sports-04-00044" ref-type="bibr">19</xref>]. Unlike the present study, they showed a statistically significant difference between low back pain and control subjects. Their back pain subjects reported lower anterior (72.61 &#x000b1; 6.91), posteromedial (74.19 &#x000b1; 8.50) and posterolateral (63.19 &#x000b1; 1.18) reach distances compared to the present study, 87.2 &#x000b1; 5.3, 82.5 &#x000b1; 8.2 and 78.7 &#x000b1; 8.1 for the same directions respectively. The control subjects of Ganesh et al. [<xref rid="B19-sports-04-00044" ref-type="bibr">19</xref>] also recorded lower anterior (82.38 &#x000b1; 5.11) and posterolateral (76.30 &#x000b1; 9.32) but higher posteromedial (83.06 &#x000b1; 1.02) reach distances compared to the current study of 87.8 &#x000b1; 5.6, 82.4 &#x000b1; 8.0 and 80.0 &#x000b1; 8.6 for the anterior, posteromedial and posterolateral reach distances, respectively. This result adds to the knowledge that athletes generally have superior balance ability compared to the general population [<xref rid="B33-sports-04-00044" ref-type="bibr">33</xref>]. Our results, however, cannot be compared directly to the above mentioned study due to different study populations, severity of BP and limb tested. Young athletes (age range 12&#x02013;18) were measured in this study, while Ganesh et al. [<xref rid="B19-sports-04-00044" ref-type="bibr">19</xref>] measured non-athletes with an age range of 22&#x02013;50 years.</p><p>There was no significant difference between the right and left lower limbs of young athletes with and without back pain on all the reach distances of the SEBT and the CRDS. The current result, though it confirms the findings of Holden et al. [<xref rid="B28-sports-04-00044" ref-type="bibr">28</xref>] and Alonso et al. [<xref rid="B37-sports-04-00044" ref-type="bibr">37</xref>], cannot be directly compared. The aforementioned investigations worked on the dominant and non-dominant limbs of athletes (13 &#x000b1; 0.3 years) and non-athletes (26 &#x000b1; 5.0 years) respectively while the current one did not take limb dominance into consideration. In interpreting the above results, gender was not taken into consideration. There is lack of agreement on the effect of gender on the SEBT, with literature reporting no effects [<xref rid="B28-sports-04-00044" ref-type="bibr">28</xref>,<xref rid="B38-sports-04-00044" ref-type="bibr">38</xref>,<xref rid="B39-sports-04-00044" ref-type="bibr">39</xref>] and significant effects [<xref rid="B40-sports-04-00044" ref-type="bibr">40</xref>,<xref rid="B41-sports-04-00044" ref-type="bibr">41</xref>] after normalization. Hence further investigation is required in order to ascertain the effect of gender on the current results.</p><p>The 95% confidence intervals for all the reach distances and CRDS for both BP and NBP subjects include the null hypothesis means and also showed large overlaps. Hence the conclusion can be drawn that there is no statistically significant difference between the reach distances of BP and NBP young athletes for both RLL and LLL. Finally, because of the sample size (N = 53), limited statistical power may have played a role in limiting the significance of the reach distances between the BP and NBP groups. Power analysis showed that on the basis of the lowest effect size observed in the present study (d = 0.01), approximately 123,652 subjects would be needed in both BP and NBP groups to obtain statistical power at level 0.80 [<xref rid="B42-sports-04-00044" ref-type="bibr">42</xref>]. Therefore, this supports the results showing no differences. </p><sec><title>Limitations of the Study </title><p>The pain questionnaire may be considered a limitation of this study as it only assessed pain within the 7 days prior to participation in the study. Hence, the possibility of varying phases and location of BP and its effect on the current results cannot be ruled out. In addition to this, a mean pain score of 2.6 for our cohort might be too low to produce differences. Another limitation might be the varying sports disciplines considered together in the study. It would have been interesting to focus on the major sports discipline presented by our athletes, as according to Thorpe &#x00026; Ebersole [<xref rid="B43-sports-04-00044" ref-type="bibr">43</xref>], the SEBT may be sensitive to specific sport related adaptations. Also, distinct skill requirements and environmental demands of different sports likely pose different challenges to the sensorimotor systems [<xref rid="B38-sports-04-00044" ref-type="bibr">38</xref>]. Accordingly, each sport will likely require different levels of sensorimotor processes to perform skills as well as protect the neuromuscular system from injury [<xref rid="B38-sports-04-00044" ref-type="bibr">38</xref>]. Consequently, any differences that might have been present could have been masked due to the various sports disciplines involved in this study.</p></sec></sec><sec id="sec5-sports-04-00044"><title>5. Conclusions</title><p>YA with and without BP do not differ in reach distance as measured on the SEBT. Hence, deficits in dynamic postural control, as a result of BP, could not be assessed using the SEBT reach distance. Therefore, our hypothesis is rejected. This may imply that the SEBT, although a simple tool, is not effective in discriminating between YA with and without BP. Future studies should use questionnaires that assess BP longer than the previous 7 days and consider specific BP classification. Investigations comparing young athletes from different sports disciplines would be interesting.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors thank the staff of the outpatient clinic at the University of Potsdam for the great help during data collection. We also thank Adebisi Bologun and Micheal Rector for proofreading the manuscript.</p></ack><notes><title>Author Contributions</title><p>Edem Korkor Appiah-Dwomoh was tasked with the design, production, analysis, and interpretation of the results and preparation of the manuscript. Steffen M&#x000fc;ller contributed to the design, interpretation of results and correction of manuscript. Miralem Hadzic contributed to the production and correction of manuscript. Frank Mayer contributed to the design and correction of manuscript. </p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest. </p></notes><ref-list><title>References</title><ref id="B1-sports-04-00044"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balaqu&#x000e9;</surname><given-names>F.</given-names></name><name><surname>Troussier</surname><given-names>B.</given-names></name><name><surname>Salminen</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>Non-Specific low back pain in children and adolescents: Risk factors</article-title>
+<source>Eur. Spine J.</source>
+<year>1999</year>
+<volume>8</volume>
+<fpage>429</fpage>
+<lpage>438</lpage>
+<pub-id pub-id-type="pmid">10664299</pub-id></element-citation></ref><ref id="B2-sports-04-00044"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Calvo-Mu&#x000f1;oz</surname><given-names>I.</given-names></name><name><surname>G&#x000f3;mez-Conesa</surname><given-names>A.</given-names></name><name><surname>S&#x000e1;nchez-Meca</surname><given-names>J.</given-names></name></person-group>
+<article-title>Prevalence of low back pain in children and adolescents: A meta-analysis</article-title>
+<source>BMC Pediatr.</source>
+<year>2013</year>
+<volume>13</volume>
+<pub-id pub-id-type="doi">10.1186/1471-2431-13-14</pub-id>
+</element-citation></ref><ref id="B3-sports-04-00044"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>M&#x000fc;ller</surname><given-names>J</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>S</given-names></name><name><surname>Stoll</surname><given-names>J</given-names></name><name><surname>Fr&#x000f6;hlich</surname><given-names>K.</given-names></name><name><surname>Otto</surname><given-names>C.</given-names></name><name><surname>Mayer</surname><given-names>F.</given-names></name></person-group>
+<article-title>Back pain prevalence in adolescent athletes</article-title>
+<source>Scand. J. Med. Sci. Sports</source>
+<year>2016</year>
+<pub-id pub-id-type="doi">10.1111/sms.12664</pub-id>
+</element-citation></ref><ref id="B4-sports-04-00044"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>D&#x02019;Hemecourt</surname><given-names>P.A.</given-names></name><name><surname>Gerbino</surname><given-names>P.G.</given-names></name><name><surname>Micheli</surname><given-names>L.J.</given-names></name></person-group>
+<article-title>Back injuries in the young athlete</article-title>
+<source>Clin. Sports Med.</source>
+<year>2000</year>
+<volume>19</volume>
+<fpage>663</fpage>
+<lpage>679</lpage>
+<pub-id pub-id-type="doi">10.1016/S0278-5919(05)70231-3</pub-id>
+<pub-id pub-id-type="pmid">11019734</pub-id></element-citation></ref><ref id="B5-sports-04-00044"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>George</surname><given-names>S.Z.</given-names></name><name><surname>Delitto</surname><given-names>A.</given-names></name></person-group>
+<article-title>Management of athlete with low back pain</article-title>
+<source>Clin. Sports Med.</source>
+<year>2002</year>
+<volume>21</volume>
+<fpage>313</fpage>
+<lpage>320</lpage>
+<pub-id pub-id-type="doi">10.1016/S0278-5919(03)00060-7</pub-id>
+</element-citation></ref><ref id="B6-sports-04-00044"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sassmannhausen</surname><given-names>G.</given-names></name><name><surname>Smith</surname><given-names>B.G.</given-names></name></person-group>
+<article-title>Back pain in the young athlete</article-title>
+<source>Clin. Sports Med.</source>
+<year>2002</year>
+<volume>21</volume>
+<fpage>121</fpage>
+<lpage>132</lpage>
+<pub-id pub-id-type="doi">10.1016/S0278-5919(03)00061-9</pub-id>
+<pub-id pub-id-type="pmid">11877866</pub-id></element-citation></ref><ref id="B7-sports-04-00044"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haus</surname><given-names>B.M.</given-names></name><name><surname>Micheli</surname><given-names>L.J.</given-names></name></person-group>
+<article-title>Back pain in the paediatric and adolescent athlete</article-title>
+<source>Clin. Sports Med.</source>
+<year>2012</year>
+<volume>31</volume>
+<fpage>423</fpage>
+<lpage>440</lpage>
+<pub-id pub-id-type="doi">10.1016/j.csm.2012.03.011</pub-id>
+<pub-id pub-id-type="pmid">22657993</pub-id></element-citation></ref><ref id="B8-sports-04-00044"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmidt</surname><given-names>C.P.</given-names></name><name><surname>Zwingenberger</surname><given-names>S.</given-names></name><name><surname>Walther</surname><given-names>A.</given-names></name><name><surname>Reuter</surname><given-names>U.</given-names></name><name><surname>Kasten</surname><given-names>P.</given-names></name><name><surname>Seifert</surname><given-names>J.</given-names></name><name><surname>G&#x000fc;nther</surname><given-names>K.P.</given-names></name><name><surname>Stiehler</surname><given-names>M.</given-names></name></person-group>
+<article-title>Prevalence of low back pain in adolescent athletes&#x02014;An epidemiological investigation</article-title>
+<source>Int. J. Sports Med.</source>
+<year>2014</year>
+<volume>35</volume>
+<fpage>684</fpage>
+<lpage>689</lpage>
+<pub-id pub-id-type="doi">10.1055/s-0033-1358731</pub-id>
+<pub-id pub-id-type="pmid">24424960</pub-id></element-citation></ref><ref id="B9-sports-04-00044"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moseley</surname><given-names>G.L.</given-names></name><name><surname>Hodges</surname><given-names>P.W.</given-names></name></person-group>
+<article-title>Are the changes in postural control associated with low back pain caused by pain interference?</article-title>
+<source>Clin. J. Pain</source>
+<year>2005</year>
+<volume>21</volume>
+<fpage>323</fpage>
+<lpage>329</lpage>
+<pub-id pub-id-type="doi">10.1097/01.ajp.0000131414.84596.99</pub-id>
+<pub-id pub-id-type="pmid">15951650</pub-id></element-citation></ref><ref id="B10-sports-04-00044"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Radebold</surname><given-names>A.</given-names></name><name><surname>Cholewicki</surname><given-names>J.</given-names></name><name><surname>Polzhofer</surname><given-names>G.K.</given-names></name><name><surname>Greene</surname><given-names>H.S.</given-names></name></person-group>
+<article-title>Impaired postural control of the lumbar spine is associated with delayed muscle response times in patients with chronic idiopathic low back pain</article-title>
+<source>Spine</source>
+<year>2001</year>
+<volume>26</volume>
+<fpage>724</fpage>
+<lpage>730</lpage>
+<pub-id pub-id-type="doi">10.1097/00007632-200104010-00004</pub-id>
+<pub-id pub-id-type="pmid">11295888</pub-id></element-citation></ref><ref id="B11-sports-04-00044"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodges</surname><given-names>P.W.</given-names></name><name><surname>Richardson</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Inefficient muscular stabilization of the lumbar spine associated with low back pain: A motor control evaluation of transversus abdominis</article-title>
+<source>Spine</source>
+<year>1996</year>
+<volume>21</volume>
+<fpage>2640</fpage>
+<lpage>2650</lpage>
+<pub-id pub-id-type="doi">10.1097/00007632-199611150-00014</pub-id>
+<pub-id pub-id-type="pmid">8961451</pub-id></element-citation></ref><ref id="B12-sports-04-00044"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodges</surname><given-names>P.</given-names></name><name><surname>Moseley</surname><given-names>L.</given-names></name><name><surname>Gabrielsson</surname><given-names>A.</given-names></name><name><surname>Gandevia</surname><given-names>S.C.</given-names></name></person-group>
+<article-title>Acute experimental pain changes postural recruitment of the trunk muscles in pain-free humans</article-title>
+<source>Exp. Brain Res.</source>
+<year>2003</year>
+<volume>151</volume>
+<fpage>262</fpage>
+<lpage>271</lpage>
+<pub-id pub-id-type="doi">10.1007/s00221-003-1457-x</pub-id>
+<pub-id pub-id-type="pmid">12783146</pub-id></element-citation></ref><ref id="B13-sports-04-00044"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ruhe</surname><given-names>A.</given-names></name><name><surname>Fejer</surname><given-names>R.</given-names></name><name><surname>Walker</surname><given-names>B.</given-names></name></person-group>
+<article-title>Is there a relationship between pain intensity and postural sway in patients with non-specific low back pain?</article-title>
+<source>BMC Musculoskelet. Disord.</source>
+<year>2011</year>
+<volume>12</volume>
+<pub-id pub-id-type="doi">10.1186/1471-2474-12-162</pub-id>
+</element-citation></ref><ref id="B14-sports-04-00044"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harringe</surname><given-names>M.L.</given-names></name><name><surname>Halvorsen</surname><given-names>K.</given-names></name><name><surname>Renstr&#x000f6;m</surname><given-names>P.</given-names></name><name><surname>Werner</surname><given-names>S.</given-names></name></person-group>
+<article-title>Postural control measured as the center of pressure excursion in young female gymnasts with low back pain or lower extremity injury</article-title>
+<source>Gait Posture</source>
+<year>2008</year>
+<volume>28</volume>
+<fpage>38</fpage>
+<lpage>45</lpage>
+<pub-id pub-id-type="doi">10.1016/j.gaitpost.2007.09.011</pub-id>
+<pub-id pub-id-type="pmid">18023584</pub-id></element-citation></ref><ref id="B15-sports-04-00044"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gribble</surname><given-names>P.A</given-names></name><name><surname>Hertel</surname><given-names>J.</given-names></name></person-group>
+<article-title>Using the Star Excursion Balance Test to Assess Dynamic Postural Control Deficits and Outcomes in Lower Extremity Injury: A Literature and Systematic Review</article-title>
+<source>J. Athl. Train.</source>
+<year>2012</year>
+<volume>47</volume>
+<fpage>339</fpage>
+<lpage>357</lpage>
+<pub-id pub-id-type="pmid">22892416</pub-id></element-citation></ref><ref id="B16-sports-04-00044"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olmsted</surname><given-names>L.C.</given-names></name><name><surname>Carcia</surname><given-names>C.R.</given-names></name><name><surname>Hertel</surname><given-names>J.</given-names></name><name><surname>Shultz</surname><given-names>S.J.</given-names></name></person-group>
+<article-title>Efficacy of the star excursion balance tests in detecting reach deficits in subjects with chronic ankle instability</article-title>
+<source>J. Athl. Train.</source>
+<year>2002</year>
+<volume>37</volume>
+<fpage>501</fpage>
+<lpage>506</lpage>
+<pub-id pub-id-type="pmid">12937574</pub-id></element-citation></ref><ref id="B17-sports-04-00044"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodges</surname><given-names>P.W.</given-names></name><name><surname>Richardson</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Delayed postural contraction of transversus abdominis in low back pain associated with movement of the lower limb</article-title>
+<source>J. Spinal Disord.</source>
+<year>1998</year>
+<volume>11</volume>
+<fpage>46</fpage>
+<lpage>56</lpage>
+<pub-id pub-id-type="doi">10.1097/00002517-199802000-00008</pub-id>
+<pub-id pub-id-type="pmid">9493770</pub-id></element-citation></ref><ref id="B18-sports-04-00044"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>M&#x000fc;ller</surname><given-names>R.</given-names></name><name><surname>Ertelt</surname><given-names>T.</given-names></name><name><surname>Blickhan</surname><given-names>R.</given-names></name></person-group>
+<article-title>Low back pain affects trunk as well as lower limb movements during walking and running</article-title>
+<source>J. Biomech.</source>
+<year>2015</year>
+<volume>48</volume>
+<fpage>1009</fpage>
+<lpage>1014</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jbiomech.2015.01.042</pub-id>
+<pub-id pub-id-type="pmid">25700607</pub-id></element-citation></ref><ref id="B19-sports-04-00044"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ganesh</surname><given-names>G.S.</given-names></name><name><surname>Chhabra</surname><given-names>D.</given-names></name><name><surname>Mrityunjay</surname><given-names>K.</given-names></name></person-group>
+<article-title>Efficacy of the star excursion balance test in detecting reach deficits in subjects with chronic low back pain</article-title>
+<source>Physiother. Res. Int.</source>
+<year>2015</year>
+<volume>20</volume>
+<fpage>9</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="doi">10.1002/pri.1589</pub-id>
+<pub-id pub-id-type="pmid">24619777</pub-id></element-citation></ref><ref id="B20-sports-04-00044"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellert</surname><given-names>U.</given-names></name><name><surname>Neuhauser</surname><given-names>H.</given-names></name><name><surname>Roth-Isigkeit</surname><given-names>A.</given-names></name></person-group>
+<article-title>Pain in children and adolescents in Germany: The prevalence and usage of medical services. Results of the German Health Interview and Examination Survey for Children and Adolescents (KiGGS)</article-title>
+<source>Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz</source>
+<year>2007</year>
+<volume>50</volume>
+<fpage>711</fpage>
+<lpage>717</lpage>
+<pub-id pub-id-type="doi">10.1007/s00103-007-0232-8</pub-id>
+<pub-id pub-id-type="pmid">17514455</pub-id></element-citation></ref><ref id="B21-sports-04-00044"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hertel</surname><given-names>J.</given-names></name><name><surname>Braham</surname><given-names>R.</given-names></name><name><surname>Hale</surname><given-names>S.</given-names></name><name><surname>Olmsted-Kramer</surname><given-names>L.</given-names></name></person-group>
+<article-title>Simplifying the Star Excursion Balance Test: Analyses of subjects with and without chronic ankle instability</article-title>
+<source>J. Sci. Med. Sport</source>
+<year>2006</year>
+<volume>36</volume>
+<fpage>131</fpage>
+<lpage>137</lpage>
+<pub-id pub-id-type="doi">10.2519/jospt.2006.36.3.131</pub-id>
+<pub-id pub-id-type="pmid">16596889</pub-id></element-citation></ref><ref id="B22-sports-04-00044"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gribble</surname><given-names>P.A.</given-names></name><name><surname>Kelly</surname><given-names>S.E.</given-names></name><name><surname>Refshauge</surname><given-names>K.M.</given-names></name><name><surname>Hiller</surname><given-names>C.E.</given-names></name></person-group>
+<article-title>Interrater reliability of the star excursion balance test</article-title>
+<source>J. Athl. Train.</source>
+<year>2013</year>
+<volume>48</volume>
+<fpage>621</fpage>
+<lpage>626</lpage>
+<pub-id pub-id-type="doi">10.4085/1062-6050-48.3.03</pub-id>
+<pub-id pub-id-type="pmid">24067151</pub-id></element-citation></ref><ref id="B23-sports-04-00044"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hertel</surname><given-names>J.</given-names></name><name><surname>Miller</surname><given-names>J.</given-names></name><name><surname>Denegar</surname><given-names>C.R.</given-names></name></person-group>
+<article-title>Intratester and Intertester Reliability during the star excursion balance tests</article-title>
+<source>J. Sports Rehabil.</source>
+<year>2000</year>
+<volume>9</volume>
+<fpage>104</fpage>
+<lpage>116</lpage>
+<pub-id pub-id-type="doi">10.1123/jsr.9.2.104</pub-id>
+</element-citation></ref><ref id="B24-sports-04-00044"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coughlan</surname><given-names>G.F.</given-names></name><name><surname>Fullam</surname><given-names>K.</given-names></name><name><surname>Delahunt</surname><given-names>E.</given-names></name><name><surname>Gissane</surname><given-names>C.</given-names></name><name><surname>Caulfield</surname><given-names>B.M.</given-names></name></person-group>
+<article-title>A comparison between performance on selected directions of the star excursion balance test and the Y balance test</article-title>
+<source>J. Athl. Train.</source>
+<year>2012</year>
+<volume>47</volume>
+<fpage>366</fpage>
+<lpage>371</lpage>
+<pub-id pub-id-type="pmid">22889651</pub-id></element-citation></ref><ref id="B25-sports-04-00044"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Plisky</surname><given-names>P.J.</given-names></name><name><surname>Rauh</surname><given-names>M.J.</given-names></name><name><surname>Kaminski</surname><given-names>T.W.</given-names></name><name><surname>Underwood</surname><given-names>F.B.</given-names></name></person-group>
+<article-title>Star Excursion Balance Test as a predictor of lower extremity injury in high school basketball players</article-title>
+<source>J. Orthop. Sport Phys. Ther.</source>
+<year>2006</year>
+<volume>36</volume>
+<fpage>911</fpage>
+<lpage>919</lpage>
+<pub-id pub-id-type="doi">10.2519/jospt.2006.2244</pub-id>
+</element-citation></ref><ref id="B26-sports-04-00044"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robinson</surname><given-names>R.</given-names></name><name><surname>Gribble</surname><given-names>P.</given-names></name></person-group>
+<article-title>Kinematic predictors of performance on the Star Excursion Balance Test</article-title>
+<source>J. Sport Rehabil.</source>
+<year>2008</year>
+<volume>17</volume>
+<fpage>347</fpage>
+<lpage>357</lpage>
+<pub-id pub-id-type="doi">10.1123/jsr.17.4.347</pub-id>
+<pub-id pub-id-type="pmid">19160909</pub-id></element-citation></ref><ref id="B27-sports-04-00044"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Terry</surname><given-names>M.A.</given-names></name><name><surname>Winell</surname><given-names>J.J.</given-names></name><name><surname>Green</surname><given-names>D.W.</given-names></name><name><surname>Schneider</surname><given-names>R.</given-names></name><name><surname>Peterson</surname><given-names>M.</given-names></name><name><surname>Marx</surname><given-names>R.G.</given-names></name><name><surname>Widmann</surname><given-names>R.F.</given-names></name></person-group>
+<article-title>Measurement variance in limb length discrepancy: Clinical and radiographic assessment of interobserver and intraobserver variability</article-title>
+<source>J. Pediatr. Orthop.</source>
+<year>2005</year>
+<volume>25</volume>
+<fpage>197</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="doi">10.1097/01.bpo.0000148496.97556.9f</pub-id>
+<pub-id pub-id-type="pmid">15718901</pub-id></element-citation></ref><ref id="B28-sports-04-00044"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holden</surname><given-names>S.</given-names></name><name><surname>Boreham</surname><given-names>C.</given-names></name><name><surname>Doherty</surname><given-names>C.</given-names></name><name><surname>Wang</surname><given-names>D.</given-names></name><name><surname>Delahunt</surname><given-names>E.</given-names></name></person-group>
+<article-title>Dynamic Postural Stability in Young Adolescent Male and Female Athletes</article-title>
+<source>Pediatr. Phys. Ther.</source>
+<year>2014</year>
+<volume>26</volume>
+<fpage>447</fpage>
+<lpage>452</lpage>
+<pub-id pub-id-type="doi">10.1097/PEP.0000000000000071</pub-id>
+<pub-id pub-id-type="pmid">25251802</pub-id></element-citation></ref><ref id="B29-sports-04-00044"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Faul</surname><given-names>F.</given-names></name><name><surname>Erdfelder</surname><given-names>E.</given-names></name><name><surname>Buchner</surname><given-names>A.</given-names></name><name><surname>Lang</surname><given-names>A.G.</given-names></name></person-group>
+<article-title>Statistical power analyses using G*Power 3.1: Test for correlation and regression analyses</article-title>
+<source>Behav. Res. Methods</source>
+<year>2009</year>
+<volume>41</volume>
+<fpage>1149</fpage>
+<lpage>1160</lpage>
+<pub-id pub-id-type="pmid">19897823</pub-id></element-citation></ref><ref id="B30-sports-04-00044"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Massion</surname><given-names>J.</given-names></name></person-group>
+<article-title>Movement, posture and equilibrium: Interaction and coordination</article-title>
+<source>Prog. Neurobiol.</source>
+<year>1992</year>
+<volume>38</volume>
+<fpage>35</fpage>
+<lpage>56</lpage>
+<pub-id pub-id-type="doi">10.1016/0301-0082(92)90034-C</pub-id>
+<pub-id pub-id-type="pmid">1736324</pub-id></element-citation></ref><ref id="B31-sports-04-00044"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nashner</surname><given-names>L.M.</given-names></name><name><surname>Black</surname><given-names>F.O.</given-names></name><name><surname>Wall</surname><given-names>C.</given-names><suffix>III</suffix></name></person-group>
+<article-title>Adaptation to altered support and visual conditions during stance: Patients with vestibular deficits</article-title>
+<source>J. Neurosci.</source>
+<year>1982</year>
+<volume>2</volume>
+<fpage>536</fpage>
+<lpage>544</lpage>
+<pub-id pub-id-type="pmid">6978930</pub-id></element-citation></ref><ref id="B32-sports-04-00044"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brumagne</surname><given-names>S</given-names></name><name><surname>Cordo</surname><given-names>P</given-names></name><name><surname>Lysens</surname><given-names>R</given-names></name><name><surname>Verschueren</surname><given-names>S</given-names></name><name><surname>Swinnen</surname><given-names>S.</given-names></name></person-group>
+<article-title>The role of paraspinal muscle spindles in lumbosacral position sense in individuals with and without low back pain</article-title>
+<source>Spine (Phila Pa 1976)</source>
+<year>2000</year>
+<volume>25</volume>
+<fpage>989</fpage>
+<lpage>994</lpage>
+<pub-id pub-id-type="doi">10.1097/00007632-200004150-00015</pub-id>
+<pub-id pub-id-type="pmid">10767813</pub-id></element-citation></ref><ref id="B33-sports-04-00044"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hrysomallis</surname><given-names>C.</given-names></name></person-group>
+<article-title>Balance ability and athletic performance</article-title>
+<source>Sports Med.</source>
+<year>2011</year>
+<volume>41</volume>
+<fpage>221</fpage>
+<lpage>232</lpage>
+<pub-id pub-id-type="doi">10.2165/11538560-000000000-00000</pub-id>
+<pub-id pub-id-type="pmid">21395364</pub-id></element-citation></ref><ref id="B34-sports-04-00044"><label>34.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Latash</surname><given-names>M.</given-names></name></person-group>
+<source>Neurophysiological Basis of Movement</source>
+<publisher-name>Human Kinetics</publisher-name>
+<publisher-loc>Champaign, IL, USA</publisher-loc>
+<year>1998</year>
+</element-citation></ref><ref id="B35-sports-04-00044"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jacobs</surname><given-names>J.V.</given-names></name><name><surname>Henry</surname><given-names>S.M.</given-names></name><name><surname>Jones</surname><given-names>S.L.</given-names></name><name><surname>Hitt</surname><given-names>J.R.</given-names></name><name><surname>Bunn</surname><given-names>J.Y.</given-names></name></person-group>
+<article-title>A history of low back pain associates with altered electromyographic activation patterns in response to perturbations of standing balance</article-title>
+<source>J. Neurophysiol.</source>
+<year>2011</year>
+<volume>106</volume>
+<fpage>2506</fpage>
+<lpage>2514</lpage>
+<pub-id pub-id-type="doi">10.1152/jn.00296.2011</pub-id>
+<pub-id pub-id-type="pmid">21795622</pub-id></element-citation></ref><ref id="B36-sports-04-00044"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ashton-Miller</surname><given-names>J.A.</given-names></name><name><surname>Wojtys</surname><given-names>E.M.</given-names></name><name><surname>Huston</surname><given-names>L.J.</given-names></name><name><surname>Fry-Welch</surname><given-names>D.</given-names></name></person-group>
+<article-title>Can proprioception really be improved by exercises?</article-title>
+<source>Knee Surg. Sports Traumatol. Arthrosc.</source>
+<year>2001</year>
+<volume>9</volume>
+<fpage>128</fpage>
+<lpage>136</lpage>
+<pub-id pub-id-type="doi">10.1007/s001670100208</pub-id>
+<pub-id pub-id-type="pmid">11420785</pub-id></element-citation></ref><ref id="B37-sports-04-00044"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alonso</surname><given-names>A.C.</given-names></name><name><surname>Brech</surname><given-names>G.C.</given-names></name><name><surname>Bourquin</surname><given-names>A.M.</given-names></name><name><surname>Greve</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>The influence of lower-limb dominance on postural balance</article-title>
+<source>Sao Paulo Med. J.</source>
+<year>2011</year>
+<volume>129</volume>
+<fpage>410</fpage>
+<lpage>413</lpage>
+<pub-id pub-id-type="pmid">22249797</pub-id></element-citation></ref><ref id="B38-sports-04-00044"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bressel</surname><given-names>E.</given-names></name><name><surname>Yonker</surname><given-names>J.C.</given-names></name><name><surname>Kras</surname><given-names>J.</given-names></name><name><surname>Heath</surname><given-names>E.M.</given-names></name></person-group>
+<article-title>Comparison of Static and Dynamic Balance in Female Collegiate Soccer, Basketball, and Gymnastics Athletes</article-title>
+<source>J. Athl. Train.</source>
+<year>2007</year>
+<volume>42</volume>
+<fpage>42</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="pmid">17597942</pub-id></element-citation></ref><ref id="B39-sports-04-00044"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gribble</surname><given-names>P.</given-names></name><name><surname>Hertel</surname><given-names>J.</given-names></name></person-group>
+<article-title>Considerations for normalizing measures of the Star Excursion Balance Test</article-title>
+<source>Meas. Phys. Educ. Exerc. Sci.</source>
+<year>2003</year>
+<volume>7</volume>
+<fpage>89</fpage>
+<lpage>100</lpage>
+<pub-id pub-id-type="doi">10.1207/S15327841MPEE0702_3</pub-id>
+</element-citation></ref><ref id="B40-sports-04-00044"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gribble</surname><given-names>P.A.</given-names></name><name><surname>Robinson</surname><given-names>R.H.</given-names></name><name><surname>Hertel</surname><given-names>J.</given-names></name><name><surname>Denegar</surname><given-names>C.R.</given-names></name></person-group>
+<article-title>The Effects of Gender and Fatigue on Dynamic Postural Control</article-title>
+<source>J. Sport Rehabil.</source>
+<year>2009</year>
+<volume>18</volume>
+<fpage>240</fpage>
+<lpage>257</lpage>
+<pub-id pub-id-type="doi">10.1123/jsr.18.2.240</pub-id>
+<pub-id pub-id-type="pmid">19561367</pub-id></element-citation></ref><ref id="B41-sports-04-00044"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sabin</surname><given-names>M.J.</given-names></name><name><surname>Ebersole</surname><given-names>K.T.</given-names></name><name><surname>Martindale</surname><given-names>A.R.</given-names></name><name><surname>Price</surname><given-names>J.W.</given-names></name><name><surname>Broglio</surname><given-names>S.P.</given-names></name></person-group>
+<article-title>Balance performance in male and female collegiate basketball athletes: Influence of testing surface</article-title>
+<source>J. Strength. Cond. Res.</source>
+<year>2010</year>
+<volume>24</volume>
+<fpage>2073</fpage>
+<lpage>2078</lpage>
+<pub-id pub-id-type="doi">10.1519/JSC.0b013e3181ddae13</pub-id>
+<pub-id pub-id-type="pmid">20613647</pub-id></element-citation></ref><ref id="B42-sports-04-00044"><label>42.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>J.</given-names></name></person-group>
+<source>Statistical Power Analysis for Behavioural Sciences</source>
+<edition>2nd ed.</edition>
+<publisher-name>Lawerence Earlbaum Associates</publisher-name>
+<publisher-loc>Hilldale, NJ, USA</publisher-loc>
+<year>1988</year>
+</element-citation></ref><ref id="B43-sports-04-00044"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thorpe</surname><given-names>J.L.</given-names></name><name><surname>Ebersole</surname><given-names>K.T.</given-names></name></person-group>
+<article-title>Unilateral balance performance in female collegiate soccer athletes</article-title>
+<source>J. Strength. Cond. Res.</source>
+<year>2008</year>
+<volume>22</volume>
+<fpage>1429</fpage>
+<lpage>1433</lpage>
+<pub-id pub-id-type="doi">10.1519/JSC.0b013e31818202db</pub-id>
+<pub-id pub-id-type="pmid">18714247</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="sports-04-00044-f001" position="float"><label>Figure 1</label><caption><p>Testing situation: Star Excursion Balance Test in the anterior, posterolateral and posteromedial directions, respectively.</p></caption><graphic xlink:href="sports-04-00044-g001"/></fig><fig id="sports-04-00044-f002" position="float"><label>Figure 2</label><caption><p>(<bold>a</bold>) Anterior Reach Distance for RLL (Mean and CI 95%); (<bold>b</bold>) Posteromedial reach distance for RLL (Mean and CI 95%); (<bold>c</bold>) Posterolateral reach distance for the RLL (Mean and CI 95%); (<bold>d</bold>) CRDS for the RLL (Mean and CI 95%).</p></caption><graphic xlink:href="sports-04-00044-g002a"/><graphic xlink:href="sports-04-00044-g002b"/></fig><fig id="sports-04-00044-f003" position="float"><label>Figure 3</label><caption><p>(<bold>a</bold>) Anterior Reach Distance for LLL (Mean and CI 95%); (<bold>b</bold>) Posteromedial reach distance for LLL (Mean and CI 95%); (<bold>c</bold>) Posterolateral reach distance for the RLL (Mean and CI 95%); (<bold>d</bold>) CRDS for the LLL (Mean and CI 95%).</p></caption><graphic xlink:href="sports-04-00044-g003a"/><graphic xlink:href="sports-04-00044-g003b"/></fig><table-wrap id="sports-04-00044-t001" position="float"><object-id pub-id-type="pii">sports-04-00044-t001_Table 1</object-id><label>Table 1</label><caption><p>Normalized Reach Distance, Composite Reach Distance Score (CRDS) and limb length (cm) (mean &#x000b1; sd) for BP subjects.</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="4" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Normalized Reach Distance (Limb Length %) for BP Subjects</th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RLL</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LLL</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic>p</italic> Value</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Anterior</td><td align="center" valign="middle" rowspan="1" colspan="1">87.2 &#x000b1; 5.3</td><td align="center" valign="middle" rowspan="1" colspan="1">87.7 &#x000b1; 5.8</td><td align="center" valign="middle" rowspan="1" colspan="1">0.27</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Posteromedial</td><td align="center" valign="middle" rowspan="1" colspan="1">82.5 &#x000b1; 8.2</td><td align="center" valign="middle" rowspan="1" colspan="1">82.6 &#x000b1; 7.9</td><td align="center" valign="middle" rowspan="1" colspan="1">0.86</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Posterolateral</td><td align="center" valign="middle" rowspan="1" colspan="1">78.7 &#x000b1; 8.1</td><td align="center" valign="middle" rowspan="1" colspan="1">77.7 &#x000b1; 8.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.06</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">CRDS</td><td align="center" valign="middle" rowspan="1" colspan="1">91.2 &#x000b1; 10.1</td><td align="center" valign="middle" rowspan="1" colspan="1">90.9 &#x000b1; 9.8</td><td align="center" valign="middle" rowspan="1" colspan="1">0.53</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Limb length (cm)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91.3 &#x000b1; 6.3</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91.4 &#x000b1; 6.3</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.37</td></tr></tbody></table></table-wrap><table-wrap id="sports-04-00044-t002" position="float"><object-id pub-id-type="pii">sports-04-00044-t002_Table 2</object-id><label>Table 2</label><caption><p>Normalized Reach Distance, CRDS and limb length (cm) (mean &#x000b1; sd) for NBP subjects.</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="4" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Normalized Reach Distance (% Limb Length) for NBP Subjects</th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RLL</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">LLL</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic>p</italic> Value</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Anterior</td><td align="center" valign="middle" rowspan="1" colspan="1">87.8 &#x000b1; 5.6</td><td align="center" valign="middle" rowspan="1" colspan="1">88.3 &#x000b1; 6.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.22</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Posteromedial</td><td align="center" valign="middle" rowspan="1" colspan="1">82.4 &#x000b1; 8.0</td><td align="center" valign="middle" rowspan="1" colspan="1">82.1 &#x000b1; 8.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.53</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Posterolateral</td><td align="center" valign="middle" rowspan="1" colspan="1">80.0 &#x000b1; 8.8</td><td align="center" valign="middle" rowspan="1" colspan="1">79.2 &#x000b1; 8.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.19</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">CRDS</td><td align="center" valign="middle" rowspan="1" colspan="1">91.9 &#x000b1; 10.8</td><td align="center" valign="middle" rowspan="1" colspan="1">91.8 &#x000b1; 11.1</td><td align="center" valign="middle" rowspan="1" colspan="1">0.81</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Limb length (cm)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91.3 &#x000b1; 6.4</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91.3 &#x000b1; 6.5</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.63</td></tr></tbody></table></table-wrap><table-wrap id="sports-04-00044-t003" position="float"><object-id pub-id-type="pii">sports-04-00044-t003_Table 3</object-id><label>Table 3</label><caption><p>Normalized Reach Distance (% limb length), CRDS (mean &#x000b1; sd) and effect size for the RLL of subjects.</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="4" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Normalized Reach Distance (% of Limb Length) for RLL</th><th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Effect Size</th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">BP</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NBP</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic>p</italic> Value</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Anterior</td><td align="center" valign="middle" rowspan="1" colspan="1">87.2 &#x000b1; 5.3</td><td align="center" valign="middle" rowspan="1" colspan="1">87.8 &#x000b1; 5.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.63</td><td align="center" valign="middle" rowspan="1" colspan="1">0.11</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Posteromedial</td><td align="center" valign="middle" rowspan="1" colspan="1">82.5 &#x000b1; 8.2</td><td align="center" valign="middle" rowspan="1" colspan="1">82.4 &#x000b1; 8.0</td><td align="center" valign="middle" rowspan="1" colspan="1">0.65</td><td align="center" valign="middle" rowspan="1" colspan="1">0.01</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Posterolateral</td><td align="center" valign="middle" rowspan="1" colspan="1">78.7 &#x000b1; 8.1</td><td align="center" valign="middle" rowspan="1" colspan="1">80.0 &#x000b1; 8.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.44</td><td align="center" valign="middle" rowspan="1" colspan="1">0.16</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CRDS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91.2 &#x000b1; 10.1</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91.9 &#x000b1; 10.8</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.75</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.07</td></tr></tbody></table></table-wrap><table-wrap id="sports-04-00044-t004" position="float"><object-id pub-id-type="pii">sports-04-00044-t004_Table 4</object-id><label>Table 4</label><caption><p>Normalized Reach Distance (% of limb length), Composite Reach Distance Score (CRDS) and effect size for the LLL of subjects.</p></caption><table frame="hsides" rules="groups"><thead><tr><th colspan="4" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Normalized Reach Distance (% of Limb Length) for LLL</th><th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Effect Size</th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">BP</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NBP</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1"><italic>p</italic> Value</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">Anterior</td><td align="center" valign="middle" rowspan="1" colspan="1">87.7 &#x000b1; 5.8</td><td align="center" valign="middle" rowspan="1" colspan="1">88.3 &#x000b1; 6.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.61</td><td align="center" valign="middle" rowspan="1" colspan="1">0.10</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Posteromedial</td><td align="center" valign="middle" rowspan="1" colspan="1">82.6 &#x000b1; 7.9</td><td align="center" valign="middle" rowspan="1" colspan="1">82.1 &#x000b1; 8.6</td><td align="center" valign="middle" rowspan="1" colspan="1">0.79</td><td align="center" valign="middle" rowspan="1" colspan="1">0.06</td></tr><tr><td align="center" valign="middle" rowspan="1" colspan="1">Posterolateral</td><td align="center" valign="middle" rowspan="1" colspan="1">77.7 &#x000b1; 8.0</td><td align="center" valign="middle" rowspan="1" colspan="1">79.2 &#x000b1; 8.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.41</td><td align="center" valign="middle" rowspan="1" colspan="1">0.25</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CRDS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">90.9 &#x000b1; 9.8</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">91.8 &#x000b1; 11.1</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.68</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.09</td></tr></tbody></table></table-wrap></floats-group></article>

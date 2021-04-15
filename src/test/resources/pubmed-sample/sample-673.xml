@@ -1,0 +1,981 @@
+
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Physiol</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Physiol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1097-4652</journal-id><journal-id journal-id-type="publisher-id">JCP</journal-id><journal-title-group><journal-title>Journal of Cellular Physiology</journal-title></journal-title-group><issn pub-type="ppub">0021-9541</issn><issn pub-type="epub">1097-4652</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25846724</article-id><article-id pub-id-type="pmc">4832302</article-id><article-id pub-id-type="doi">10.1002/jcp.25010</article-id><article-id pub-id-type="publisher-id">JCP25010</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research Articles</subject></subj-group></article-categories><title-group><article-title>Lovastatin&#x02010;Mediated Changes in Human Tendon Cells</article-title><alt-title alt-title-type="right-running-head">STATIN&#x02010;MEDIATED CHANGES IN HUMAN TENDON CELLS</alt-title><alt-title alt-title-type="left-running-head">KUZMA&#x02010;KUZNIARSKA ET AL</alt-title></title-group><contrib-group><contrib id="jcp25010-cr-0001" contrib-type="author" corresp="yes"><name><surname>Kuzma&#x02010;Kuzniarska</surname><given-names>Maria</given-names></name><xref ref-type="aff" rid="jcp25010-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcp25010-cr-0002" contrib-type="author"><name><surname>Cornell</surname><given-names>Hannah R.</given-names></name><xref ref-type="aff" rid="jcp25010-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcp25010-cr-0003" contrib-type="author"><name><surname>Moneke</surname><given-names>Michael C.</given-names></name><xref ref-type="aff" rid="jcp25010-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcp25010-cr-0004" contrib-type="author"><name><surname>Carr</surname><given-names>Andrew J.</given-names></name><xref ref-type="aff" rid="jcp25010-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcp25010-cr-0005" contrib-type="author"><name><surname>Hulley</surname><given-names>Philippa A.</given-names></name><xref ref-type="aff" rid="jcp25010-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jcp25010-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Botnar Research Centre</named-content><named-content content-type="organisation-division">Institute of Musculoskeletal Sciences</named-content><named-content content-type="organisation-division">Nuffield Department of Orthopaedics</named-content><named-content content-type="organisation-division">Rheumatology and Musculoskeletal Sciences</named-content><institution>University of Oxford</institution><named-content content-type="city">Oxford</named-content><country country="GB">United Kingdom</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence to: Maria Kuzma&#x02010;Kuzniarska, Botnar Research Centre, Institute of Musculoskeletal Sciences, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, United Kingdom. E&#x02010;mail: 
+<email>maria.kuzmakuzniarska@gmail.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>6</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2015</year></pub-date><volume>230</volume><issue>10</issue><issue-id pub-id-type="doi">10.1002/jcp.v230.10</issue-id><fpage>2543</fpage><lpage>2551</lpage><history><date date-type="received"><day>10</day><month>9</month><year>2014</year></date><date date-type="accepted"><day>31</day><month>3</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2015 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>Journal of Cellular Physiology</italic> Published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JCP-230-2543.pdf"/><abstract><p>Statins are among the most widely prescribed drugs worldwide. Numerous studies have shown their beneficial effects in prevention of cardiovascular disease through cholesterol&#x02010;lowering and anti&#x02010;atherosclerotic properties. Although some statin patients may experience muscle&#x02010;related symptoms, severe side effects of statin therapy are rare, primarily due to extensive first&#x02010;pass metabolism in the liver. Skeletal muscles appear to be the main site of side effects; however, recently some statin&#x02010;related adverse effects have been described in tendon. The mechanism behind these side effects remains unknown. This is the first study that explores tendon&#x02010;specific effects of statins in human primary tenocytes. The cells were cultured with different concentrations of lovastatin for up to 1 week. No changes in cell viability or morphology were observed in tenocytes incubated with therapeutic doses. Short&#x02010;term exposure to lovastatin concentrations outside the therapeutic range had no effect on tenocyte viability; however, cell migration was reduced. Simvastatin and atorvastatin, two other drug family members, also reduced the migratory properties of the cells. Prolonged exposure to high concentrations of lovastatin induced changes in cytoskeleton leading to cell rounding and decreased levels of mRNA for matrix proteins, but increased BMP&#x02010;2 expression. Gap junctional communication was impaired but due to cell shape change and separation rather than direct gap junction inhibition. These effects were accompanied by inhibition of prenylation of Rap1a small GTPase. Collectively, we showed that statins in a dose&#x02010;dependent manner decrease migration of human tendon cells, alter their expression profile and impair the functional network, but do not inhibit gap junction function. J. Cell. Physiol. 230: 2543&#x02013;2551, 2015. &#x000a9; 2015 The Authors. <italic>Journal of Cellular Physiology</italic> Published by Wiley Periodicals, Inc.</p></abstract><funding-group><award-group><funding-source>Furlong Charitable Research Foundation</funding-source><award-id>401</award-id><award-id>478</award-id></award-group></funding-group><funding-group><award-group><funding-source>ENDO Stiftung</funding-source><award-id>S 02/07</award-id></award-group></funding-group><funding-group><award-group><funding-source>Arthritis Research UK</funding-source><award-id>ARUK19482</award-id></award-group></funding-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jcp25010</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.6 mode:remove_FC converted:22.04.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="jcp25010-note-0001"><p>Maria Kuzma&#x02010;Kuzniarska and Hannah R. Cornell contributed equally to this work.</p></fn><fn id="jcp25010-note-0002"><p>Conflict of interest: none.</p></fn></fn-group></notes></front><body><p>Statins are a cholesterol&#x02010;lowering drug family prescribed to reduce the risk of cardiovascular disease. By inhibiting 3&#x02010;hydroxy&#x02010;3&#x02010;methylglutaryl coenzyme A (HMG&#x02010;CoA) reductase, they supress the conversion of HMG&#x02010;CoA to mevalonic acid, an important step in cholesterol biosynthesis. Although cholesterol reduction is thought to be the primary mechanism underlying the benefits of statin therapy, statins have also been shown to act through a lipid&#x02010;independent mechanism. They prevent the first step of isoprenoid biosynthetic pathway, consequently reducing coenzyme Q and selenoprotein production, and affecting isoprenylation of proteins such as small GTPases. Many positive effects observed in statin patients are at least in part mediated through a lipid&#x02010;independent mechanism (Wang et al., <xref rid="jcp25010-bib-0035" ref-type="ref">2008</xref>; Sadowitz et al., <xref rid="jcp25010-bib-0031" ref-type="ref">2010</xref>; Zhou and Liao, <xref rid="jcp25010-bib-0039" ref-type="ref">2010</xref>; Maji et al., <xref rid="jcp25010-bib-0018" ref-type="ref">2013</xref>).</p><p>Although statins are relatively safe they display some adverse effects, which are dose&#x02010;dependent and occur across the whole drug class (Hoffman et al., <xref rid="jcp25010-bib-0010" ref-type="ref">2012</xref>). Statin&#x02010;associated complications may include hepatotoxicity and nephrotoxicity; however, muscle&#x02010;related side effects are most common. They mainly involve myalgia and myopathy. Severe adverse effects like rhabdomyolysis resulting in skeletal muscle injury are extremely rare (Maji et al., <xref rid="jcp25010-bib-0018" ref-type="ref">2013</xref>; Ahmad, <xref rid="jcp25010-bib-0001" ref-type="ref">2014</xref>). The mechanism underlying muscle&#x02010;specific side effects has not been fully characterised; however, cholesterol&#x02010;independent action of statins is believed to play a role (Maji et al., <xref rid="jcp25010-bib-0018" ref-type="ref">2013</xref>; Mosshammer et al., <xref rid="jcp25010-bib-0021" ref-type="ref">2014</xref>). Although skeletal muscles appear to be the most important site of statin&#x02010;induced manifestations, lately some potential adverse effects were also reported in tendon (Pullatt et al., <xref rid="jcp25010-bib-0027" ref-type="ref">2007</xref>; Marie et al., <xref rid="jcp25010-bib-0019" ref-type="ref">2008</xref>; Beri et al., <xref rid="jcp25010-bib-0003" ref-type="ref">2009</xref>). Tendinous complications account for about 2% of overall statin&#x02010;related adverse effects and include tendinopathy and tendon rupture (Pullatt et al., <xref rid="jcp25010-bib-0027" ref-type="ref">2007</xref>; Marie et al., <xref rid="jcp25010-bib-0019" ref-type="ref">2008</xref>; Beri et al., <xref rid="jcp25010-bib-0003" ref-type="ref">2009</xref>).</p><p>Tendons act as force transmitters between muscle and bone. They consist of bundles of collagen with cells (tenocytes) aligned in longitudinal rows separated by collagen fibres. Tenocytes are responsible for the formation and turnover of the extracellular matrix, including the major structural component of tendon, collagen I (Benjamin et al., <xref rid="jcp25010-bib-0002" ref-type="ref">2008</xref>). They develop organised actin stress fibres aligned along the line of principal strain (Ralphs et al., <xref rid="jcp25010-bib-0028" ref-type="ref">2002</xref>) as they form a network of longitudinal and lateral cell processes linked by gap junctions (McNeilly et al., <xref rid="jcp25010-bib-0020" ref-type="ref">1996</xref>). Gap junctions enable intercellular communication between tenocytes and most likely co&#x02010;ordinate the activities of individual cells in the tendon. However, their precise role has not been sufficiently studied. Recently, we showed that fluorescence recovery after photobleaching (FRAP) can be used to measure gap junction function in human tendon cells (Kuzma&#x02010;Kuzniarska et al., <xref rid="jcp25010-bib-0014" ref-type="ref">2014</xref>).</p><p>The mechanism behind tendon&#x02010;specific adverse effects in statin patients is unknown. All proposed mechanisms of tendon injury following statin treatment are hypothetical and based solely on muscle literature (Pullatt et al., <xref rid="jcp25010-bib-0027" ref-type="ref">2007</xref>; Marie et al., <xref rid="jcp25010-bib-0019" ref-type="ref">2008</xref>). The only two studies investigating tendon&#x02010;related adverse effects of statin therapy were performed in rats and concentrated on the assessment of biochemical and biomechanical changes (de Oliveira et al., <xref rid="jcp25010-bib-0007" ref-type="ref">2013</xref>, 2015). The aim of this study was therefore to explore tendon&#x02010;specific effects of statins in human primary tendon cells.</p><sec id="jcp25010-sec-0003"><title>Materials and Methods</title><sec id="jcp25010-sec-0004"><title>Human tenocyte culture</title><p>Samples of normal hamstring tendon were obtained from patients, average age 30 (19&#x02013;45y), undergoing anterior cruciate ligament reconstruction with informed consent and in full compliance with UK HTA and MREC requirements and with the Helsinki Declaration of 1975, as revised in 1983. Tenocytes were derived by standard explant protocol (Torricelli et al., <xref rid="jcp25010-bib-0034" ref-type="ref">2006</xref>). They were expanded in DMEM/F12 (Lonza, Cheltenham, UK) containing 10% foetal calf serum (FCS) (Biosera, Ringmer, UK) and maintained in DMEM/F12 5% FCS during statin treatment. Tenocytes were treated with 0.2&#x02013;2&#x02009;&#x003bc;M lovastatin (Sigma, Poole, UK) dissolved in dimethyl sulfoxide (DMSO) (Sigma) for different times. Furthermore the cells were incubated in the presence of 0.08 and 0.8&#x02009;&#x003bc;M atorvastatin (Sigma) and 0.048 and 0.48&#x02009;&#x003bc;M simvastatin (Sigma). The latter was dissolved before treatment in NaOH in ethanol. To reverse lovastatin&#x02010;induced changes 100&#x02009;&#x003bc;M mevalonate (Sigma) was added back. Vehicle controls included DMSO for lovastatin and atorvastatin, NaOH in ethanol for simvastatin and ethanol for mevalonate. Cells were used at passage 4 or below as it has been reported that tenocytes may dedifferentiate at higher passages (Yao et al., <xref rid="jcp25010-bib-0038" ref-type="ref">2006</xref>).</p></sec><sec id="jcp25010-sec-0005"><title>Cell viability</title><p>The viability of human tenocytes in presence of different statin concentrations was assessed using LIVE/DEAD&#x000ae; kit (Life Technologies, Paisley, UK). To distinguish between viable and dead cells tenocytes were co&#x02010;stained with 4&#x02009;&#x000b5;M calcein acetoxymethylester (AM) solution and 4&#x02009;&#x000b5;M ethidium homodimer&#x02010;1 (EthD&#x02010;1) for 15&#x02009;min at room temperature in serum free medium. In live cells nonfluorescent calcein AM undergoes conversion by intracellular esterases to fluorescent calcein, at the same time EthD&#x02010;1 enters only cells with damaged membranes and stains the dead cell nuclei. Images were acquired using Nikon TE300 microscope (Nikon Instruments, Tokyo, Japan) with Retiga CCD camera (QImaging, British Columbia, Canada). To quantify the viability of cells we used alamarBlue&#x000ae; assay (Life Technologies). Tenocytes were seed in 96&#x02010;well plates and cultured in presence of different concentration of lovastatin for 1, 3 and 7 days. Subsequently the cells were incubated with alamarBlue for 3&#x02009;h at 37&#x000b0;C and fluorescence intensity was measured using FLUOstar Optima (BMG LABTECH, Ortenberg, Germany). The amount of fluorescence corresponds to metabolic activity and is proportional to the number of viable cells.</p></sec><sec id="jcp25010-sec-0006"><title>Migration assay</title><p>Cells were grown to confluence in 24&#x02010;well plates and pre&#x02010;treated with different concentrations of statins for 2 days. Subsequently a 10&#x02013;200&#x02009;&#x003bc;l pipette tip was used to scratch a wound through the centre of the well. For each condition at total of 6 bright field images from 2 wells for each donor was analysed. Images were acquired immediately at 0&#x02009;h and at 16&#x02009;h after the initial scratch was performed using Nikon TE300 microscope. The drug was present in the medium throughout the assay. To calculate the changes in width of the wound ImageJ software was used.</p></sec><sec id="jcp25010-sec-0007"><title>Fluorescence recovery after photobleaching (FRAP)</title><p>The cells were grown to confluency, loaded for 15&#x02009;min with 4&#x02009;&#x000b5;M calcein AM at room temperature in serum&#x02010;free medium, subsequently washed several times with pre&#x02010;warmed medium. Zeiss LSM 710 scanhead (Zeiss GmbH, Jena, Germany) coupled to an inverted Zeiss Axio Observer.Z1 microscope (Zeiss GmbH) was used for photobleaching and fluorescence imaging. FRAP was performed as described previously (Kuzma&#x02010;Kuzniarska et al., <xref rid="jcp25010-bib-0014" ref-type="ref">2014</xref>). In brief, a region of interest (ROI) was manually drawn around whole fluorescent cells selected for bleaching and subsequently bleached at 100% laser power. Next a time&#x02010;lapse series was taken to record calcein recovery every 5&#x02009;sec up to 4&#x02009;min. To further monitor the changes in recovery, a reference unbleached cell and background, were analysed simultaneously. At least 10 cells were photobleached and imaged for each condition. Mobile fraction percentage was used to quantify the differences. The only source of fluorescent calcein in this experiment is the neighbouring cells as the dye is not present in the medium during acquisition. Cells that either do not have gap junctions or their gap junctions have been blocked by inhibitors are unable to recover after photobleaching (Kuzma&#x02010;Kuzniarska et al., <xref rid="jcp25010-bib-0014" ref-type="ref">2014</xref>).</p></sec><sec id="jcp25010-sec-0008"><title>F&#x02010;actin staining</title><p>Cells were grown on coverslips, fixed with 10% formalin for 30&#x02009;min and subsequently incubated with 0.1% Triton X&#x02010;100 in PBS for 10&#x02009;min at room temperature. F&#x02010;actin staining was performed using rhodamine&#x02010;phalloidin solution (Life Technologies) according to manufacturer's instruction. Images were acquired using Nikon TE300 microscope.</p></sec><sec id="jcp25010-sec-0009"><title>QPCR</title><p>Following standard mRNA extraction (Liang et al., <xref rid="jcp25010-bib-0016" ref-type="ref">2008</xref>), QPCR was performed using a Rotorgene 3000 and Quantitect Sybr Green with Quantitect primer assays: TBP (QT00000721), BMP&#x02010;2 (QT00012544), COL1A1 (QT00037793), COL3A1 (QT00058233). Reagents were from Qiagen (Hilden, Germany). Melt curve analysis confirmed a single product from each reaction. Absence of genomic DNA was confirmed using &#x0201c;no RT&#x0201c; controls. Samples (run in duplicate) were analysed by comparative quantification (Pfaffl, <xref rid="jcp25010-bib-0025" ref-type="ref">2001</xref>) using Rotorgene software version 1.7. TATA box binding protein (TBP) was compared with GAPDH and selected for normalization of gene expression based on greater insensitivity to lovastatin.</p></sec><sec id="jcp25010-sec-0010"><title>Western blotting</title><p>Western blotting was performed as described previously (Liang et al., <xref rid="jcp25010-bib-0016" ref-type="ref">2008</xref>). Antibodies: Unprenylated&#x02010;Rap1a (sc&#x02010;1482, Santa Cruz Biotechnology, Inc, Santa Cruz, CA), GAPDH (G9545, Sigma), anti&#x02010;goat&#x02010;HRP (Dako, Glostrup, Denmark) and anti&#x02010;rabbit&#x02010;HRP (Abcam, Cambridge, UK). Signal was captured using the Chemic Doc&#x02010;It Imaging System (UVP, Upland, CA) and VisionWorks LS software (VisionWorks LS v 6.7.4, UVP).</p></sec><sec id="jcp25010-sec-0011"><title>Statistical analysis</title><p>All experiments have been carried out on cells from at least 3 different tissue donors. Statistics were performed using GraphPad Prism version 5.0b (Mac OS X) (GraphPad Software, San Diego, CA). A <italic>P</italic>&#x02010;value lower than 0.05 was considered statistically significant.</p></sec></sec><sec id="jcp25010-sec-0012"><title>Results</title><sec id="jcp25010-sec-0013"><title>Effect of different concentrations of lovastatin on human tenocyte viability</title><p>In order to investigate the effects of lovastatin on the viability of human tenocytes, the cells were incubated with different concentrations of the drug and subsequently co&#x02010;stained with calcein (live) and EthD&#x02010;1 (dead). No dead cells were detected in any of the conditions tested following 1 day of lovastatin treatment (Fig. <xref rid="jcp25010-fig-0001" ref-type="fig">1</xref>A). Furthermore no changes in viability were observed in cells treated up to 1 week with 0.2&#x02009;&#x003bc;M lovastatin, a dose within the therapeutic range of statins (Cho et al., <xref rid="jcp25010-bib-0005" ref-type="ref">2011</xref>) (Fig. <xref rid="jcp25010-fig-0001" ref-type="fig">1</xref>A). Starting from day 3 the drug at higher concentrations caused some cells to round up in accordance with well&#x02010;described effects of lovastatin on cell morphology and cytoskeleton (Fenton et al., <xref rid="jcp25010-bib-0009" ref-type="ref">1992</xref>). The round cells were viable as they were strongly positive for calcein live stain and were not stained with EthD&#x02010;1 (Fig. <xref rid="jcp25010-fig-0001" ref-type="fig">1</xref>A, arrowheads). At the same time some dead cells were detected in the cultures treated with higher concentration of lovastatin for 3 days or longer (Fig. <xref rid="jcp25010-fig-0001" ref-type="fig">1</xref>A, arrows). To quantify the effects, tenocytes were exposed to increasing concentrations of lovastatin and analysed using alamarBlue. The fluorescence intensity of alamarBlue is directly proportional to the metabolic activity of the cells and can be used as viability indicator. As shown in the Figure <xref rid="jcp25010-fig-0001" ref-type="fig">1</xref>B no changes in fluorescence were observed after a short&#x02010;term exposure to lovastatin at any concentration tested. Similarly at day 3 no significant reduction in viability was noted but a non&#x02010;statistical decrease in fluorescence was observed at higher doses. At 1 week the viability of tenocytes was compromised in all conditions in a dose&#x02010;dependent manner reaching statistical significance at 0.5&#x02013;2&#x02009;&#x003bc;M concentration (Fig. <xref rid="jcp25010-fig-0001" ref-type="fig">1</xref>B). It is important to note that lovastatin inhibits cell proliferation (Fenton et al., <xref rid="jcp25010-bib-0009" ref-type="ref">1992</xref>) therefore the observed decrease in fluorescence does not reflect only the cytotoxic but also the cytostatic effect of the drug on tendon cells. Finally, we compared the viability of tendon cells in presence of lovastatin and simvastatin, a derivative of lovastatin linked to higher risk of adverse effects (Hoffman et al., <xref rid="jcp25010-bib-0010" ref-type="ref">2012</xref>). The therapeutic and supratherapeutic dose for both statins was selected based on the literature (Novakova et al., <xref rid="jcp25010-bib-0024" ref-type="ref">2009</xref>; Cho et al., <xref rid="jcp25010-bib-0005" ref-type="ref">2011</xref>). As demonstrated in the Figure <xref rid="jcp25010-fig-0001" ref-type="fig">1</xref>C simvastatin, similarly to lovastatin, caused rounding up of cells and reduction in viability at supratherapeutic dose only.</p><fig fig-type="Figure" xml:lang="en" id="jcp25010-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Effect of different concentrations of statins on tenocyte viability. Human tendon cells were cultured in presence of different concentrations of statins for up to 7 days. (A) Representative images of live (green) and dead (red, arrows) stained cultures treated with different concentrations of lovastatin for 1, 3 and 7 days. Note the cell rounding (arrowheads). (B) To quantify the viability of lovastatin&#x02010;treated cells alamarBlue was used. The results show mean fluorescence intensity&#x02009;&#x000b1;&#x02009;SE from 3 donors. One&#x02010;way ANOVA with Tukey&#x02018;s test was performed. *<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05, **<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001. (C) Representative images of live and dead stained human tenocytes cultured in presence of 0.2&#x02009;&#x000b5;M (therapeutic) and 2&#x02009;&#x000b5;M (supratherapeutic) lovastatin and 0.048&#x02009;&#x000b5;M (therapeutic) and 0.48&#x02009;&#x000b5;M (supratherapeutic) simvastatin for 7 days. Note the presence of numerous rounded but live stained cells (arrowheads).</p></caption><graphic id="nlm-graphic-1" xlink:href="JCP-230-2543-g001"><permissions><copyright-holder>Copyright &#x000a9; 2015 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec><sec id="jcp25010-sec-0014"><title>Lovastatin dose&#x02010;dependently decreases migration of human tenocytes</title><p>Confluent cultures of human tenocytes were pre&#x02010;treated with different concentrations of lovastatin for 2 days before they were subjected to a scratch assay. As shown in the Figure <xref rid="jcp25010-fig-0002" ref-type="fig">2</xref>A lovastatin decreased migration of tenocytes in a dose&#x02010;dependent manner. While lovastatin had no significant effect on tenocyte viability at day 3 (Fig. <xref rid="jcp25010-fig-0001" ref-type="fig">1</xref>), migratory response of the cells was affected. The impairment in migration was observed in all conditions tested and reached statistical significance at 0.5&#x02013;2&#x02009;&#x003bc;M concentration. Ultimately, we investigated the migratory capacity of tenocytes in presence of three different members of statin family, namely lovastatin, simvastatin and atorvastatin. Statin concentrations were selected based on the literature (Novakova et al., <xref rid="jcp25010-bib-0024" ref-type="ref">2009</xref>; Cho et al., <xref rid="jcp25010-bib-0005" ref-type="ref">2011</xref>). All statins tested significantly reduced migration of tenocytes at the therapeutic (low) and supratherapeutic (high) dose, confirming the negative effect of statins on migration.</p><fig fig-type="Figure" xml:lang="en" id="jcp25010-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Statins decrease migration of human tenocytes in dose&#x02010;dependent manner. Tenocytes pre&#x02010;treated with different concentrations of statins for 2 day were subjected to a scratch assay. The migration was evaluated after 16h. The drug was present in the medium during this time. (A) The graph shows the change in average width of the scratch between conditions normalised to the vehicle control. The results show mean &#x000b1;SE from 3 donors. One&#x02010;way ANOVA with Tukey&#x02018;s test was performed. *<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05, **<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001. (B) Comparison of migratory properties of human tenocytes treated with therapeutic and supratherapeutic doses of lovastatin, simvastatin and atorvastatin using a scratch assay. Following concentrations were used: 0.2&#x02009;&#x000b5;M (low) and 2&#x02009;&#x000b5;M (high) lovastatin, 0.048&#x02009;&#x000b5;M (low) and 0.48&#x02009;&#x000b5;M (high) simvastatin, 0.08&#x02009;&#x000b5;M (low) and 0.8&#x02009;&#x000b5;M (high) atorvastatin. Results were analyzed using two&#x02010;tailed, unpaired Student's <italic>t</italic>&#x02010;test and are shown as a mean&#x02009;&#x000b1;&#x02009;SE of 3 donors. Statistical differences are indicated as **<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001.</p></caption><graphic id="nlm-graphic-3" xlink:href="JCP-230-2543-g002"><permissions><copyright-holder>Copyright &#x000a9; 2015 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec><sec id="jcp25010-sec-0015"><title>Lovastatin regulates gene expression in human tenocytes</title><p>Previously a chronic treatment with simvastatin and atorvastatin has been shown to reduce collagen I expression in rat Achilles tendons (de Oliveira et al., <xref rid="jcp25010-bib-0007" ref-type="ref">2013</xref>). To evaluate the effect of statins on gene expression in human tenocytes, the cells were treated with 0.2&#x02013;2&#x02009;&#x003bc;M lovastatin for 1 week. Accordingly lovastatin dose&#x02010;dependently decreased collagen I (<italic>COL1A1</italic>) and collagen III (<italic>COL3A1</italic>) mRNA levels showing a significant down&#x02010;regulation at 0.5&#x02013;2&#x02009;&#x003bc;M concentration. Interestingly, at the same time mRNA levels of bone morphogenetic protein&#x02010;2 (<italic>BMP&#x02010;2</italic>), an osteogenic growth factor, were dose&#x02010;dependently increased in tenocytes treated with lovastatin (Fig. <xref rid="jcp25010-fig-0003" ref-type="fig">3</xref>) as previously reported for osteoblasts (Mundy et al., <xref rid="jcp25010-bib-0022" ref-type="ref">1999</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcp25010-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effect of different concentrations of lovastatin on tenocyte expression profile. Tenocytes were cultured with vehicle control, 0.2, 0.5, 1 or 2&#x02009;&#x003bc;M lovastatin for 1 week. <italic>BMP&#x02010;2</italic>, <italic>COL1A1</italic> and <italic>COL3A1</italic> mRNA levels were assessed by QPCR and normalised to <italic>TBP</italic>. One&#x02010;way ANOVA with Dunnett post&#x02010;hoc was performed. The results are shown as mean&#x02009;&#x000b1;&#x02009;SD of 4 donors. **<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01, ***<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001.</p></caption><graphic id="nlm-graphic-5" xlink:href="JCP-230-2543-g003"><permissions><copyright-holder>Copyright &#x000a9; 2015 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec><sec id="jcp25010-sec-0016"><title>Lovastatin affects gap junction&#x02010;mediated intercellular communication in human tenocytes</title><p>In order to assess intercellular communication in tenocytes treated with statins, cells were incubated for 1 week in presence of 0.5&#x02009;&#x003bc;M lovastatin, loaded with calcein and subjected to photobleaching, according to our FRAP protocol for measuring gap junction function in human tenocytes (Kuzma&#x02010;Kuzniarska et al., <xref rid="jcp25010-bib-0014" ref-type="ref">2014</xref>). A time&#x02010;lapse series was then taken to record fluorescence recovery. As shown in the Figure <xref rid="jcp25010-fig-0004" ref-type="fig">4</xref>A, cells incubated with the vehicle rapidly re&#x02010;acquired the fluorescent dye from adjacent cells, while cells treated with lovastatin demonstrated a decreased recovery suggesting impairment in gap junction&#x02010;mediated communication. Accordingly mobile fraction percentage reached about 60% in control cells and 37% in lovastatin&#x02010;treated cultures (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05) (Fig. <xref rid="jcp25010-fig-0004" ref-type="fig">4</xref>B). Since two populations of tenocytes can be distinguished in lovastatin&#x02010;treated cultures, cells that retain their fibroblastic morphology (flat) and cells that undergo rounding up (round), we decided to analyse these two populations separately. As demonstrated in the Fig. <xref rid="jcp25010-fig-0004" ref-type="fig">4</xref>C the intercellular communication was dramatically reduced in round cells (6%) when compared to flat cells (47%).</p><fig fig-type="Figure" xml:lang="en" id="jcp25010-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Lovastatin&#x02010;induced rounding of cells leads to a decrease in gap junctional communication in human tenocytes. Cells were treated with 0.5&#x02009;&#x003bc;M lovastatin for 1 week, labelled with calcein and subjected to FRAP analysis. (A) An example of a time&#x02010;lapse series recorded for FRAP. Arrows point towards bleached cells. (B) The mobile fraction percentage in untreated and lovastatin&#x02010;treated tendon cells. Note two populations of calcein&#x02010;labelled cells in lovastatin&#x02010;treated cultures: flat and round. Results were analyzed using two&#x02010;tailed, unpaired Student's t&#x02010;test and are shown as a mean&#x02009;&#x000b1;&#x02009;SE of 3 donors. Statistical differences are indicated as *<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05. (C) A comparison between gap junctional communication in flat and round cells in a culture from the same patient. Results shown are mean&#x02009;&#x000b1;&#x02009;SD.</p></caption><graphic id="nlm-graphic-7" xlink:href="JCP-230-2543-g004"><permissions><copyright-holder>Copyright &#x000a9; 2015 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec><sec id="jcp25010-sec-0017"><title>Lovastatin&#x02010;induced changes in tenocytes are accompanied by changes in F&#x02010;actin</title><p>Human tenocytes demonstrate highly organized actin stress fibres that extend the entire length of the cell (Ralphs et al., <xref rid="jcp25010-bib-0028" ref-type="ref">2002</xref>). Lovastatin disrupts actin cytoskeleton causing cell rounding (Fenton et al., <xref rid="jcp25010-bib-0009" ref-type="ref">1992</xref>). Consequently we performed phalloidin staining to confirm changes in cytoskeleton in tendon cells treated with lovastatin. As shown in the Figure <xref rid="jcp25010-fig-0005" ref-type="fig">5</xref> treatment with 0.5&#x02009;&#x003bc;M lovastatin resulted in disruption of actin organization. Adherent cells that retained a fibroblastic morphology contained less stress fibres and the remaining fibres were mainly located in the periphery of the cell. No organised actin fibres were observed in round cells.</p><fig fig-type="Figure" xml:lang="en" id="jcp25010-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Lovastatin&#x02010;induced changes in morphology are accompanied by changes in F&#x02010;actin. The cells were grown in presence of 0.5&#x02009;&#x003bc;M lovastatin for 1 week. Representative images of F&#x02010;actin stained tenocyte cultures are shown.</p></caption><graphic id="nlm-graphic-9" xlink:href="JCP-230-2543-g005"><permissions><copyright-holder>Copyright &#x000a9; 2015 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec><sec id="jcp25010-sec-0018"><title>Lovastatin&#x02010;mediated changes correlate with alterations in prenylation status of Rap1a</title><p>Statin&#x02010;mediated changes are believed to result from inhibition of HMG&#x02010;CoA reductase, with consequent reduction in prenylation of small GTPases. To confirm that observed changes in tendon cells were due to inhibition of HMG&#x02010;CoA reductase by lovastatin, add&#x02010;back experiments were performed using an excess of the downstream metabolite mevalonate. As shown in Figure <xref rid="jcp25010-fig-0006" ref-type="fig">6</xref>A lovastatin treatment caused cell rounding. Mevalonate prevented this, maintaining the fibroblastic morphology of the tenocytes. Western blotting for the unprenylated form of the small GTPase Rap1a confirmed that lovastatin at 0.5&#x02009;&#x003bc;M concentration inhibited protein prenylation (Fig. <xref rid="jcp25010-fig-0006" ref-type="fig">6</xref>B). Finally, mevalonate restored protein prenylation (Fig. <xref rid="jcp25010-fig-0006" ref-type="fig">6</xref>B) and prevented the lovastatin&#x02010;induced decrease in <italic>COL1A1</italic> (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01) and <italic>COL3A1</italic> mRNA and increase in <italic>BMP&#x02010;2</italic> (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01) (Fig. <xref rid="jcp25010-fig-0006" ref-type="fig">6</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="jcp25010-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Mevalonate prevents lovastatin&#x02010;induced changes in cell morphology, prenylation status and gene expression. Tenocytes were cultured with medium alone, vehicle control (DMSO or ethanol), 100&#x003bc;M mevalonate, 0.5&#x02009;&#x003bc;M lovastatin or lovastatin and mevalonate (Meva&#x02009;+&#x02009;Lova) for 1 week. (A) Bright field images demonstrating cell morphology are presented. (B) Unprenylated Rap1a was detected in lovastatin cultures using Western blotting. (C) <italic>BMP&#x02010;2</italic>, <italic>COL1A1</italic> and <italic>COL3A1</italic> mRNA levels were assessed by QPCR and normalised to <italic>TBP</italic>. One&#x02010;way ANOVA with Tukey post&#x02010;hoc was performed. The results are shown as mean&#x02009;&#x000b1;&#x02009;SD of 4 donors. **<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01.</p></caption><graphic id="nlm-graphic-11" xlink:href="JCP-230-2543-g006"><permissions><copyright-holder>Copyright &#x000a9; 2015 Wiley Periodicals, Inc.</copyright-holder></permissions></graphic></fig></sec></sec><sec id="jcp25010-sec-0019"><title>Discussion</title><p>Several studies have reported statin&#x02010;associated manifestations in tendons (Pullatt et al., <xref rid="jcp25010-bib-0027" ref-type="ref">2007</xref>; Marie et al., <xref rid="jcp25010-bib-0019" ref-type="ref">2008</xref>; Beri et al., <xref rid="jcp25010-bib-0003" ref-type="ref">2009</xref>). Although tendon&#x02010;specific side effects are still considered to be relatively rare, the number of patients experiencing tendon&#x02010;related manifestations has been constantly increasing in parallel with the rise in the statin prescriptions (Marie et al., <xref rid="jcp25010-bib-0019" ref-type="ref">2008</xref>). Proposed mechanisms of statin&#x02010;induced tendon injury are based on muscle literature and include destabilisation of cell membrane through reduction in cholesterol content, tenocyte apoptosis leading to tendon damage as well as impairment of tendon remodelling due to changes in MMP expression and activity (Pullatt et al., <xref rid="jcp25010-bib-0027" ref-type="ref">2007</xref>; Marie et al., <xref rid="jcp25010-bib-0019" ref-type="ref">2008</xref>). So far only one study has investigated the mechanism underlying tendon&#x02010;specific adverse effects. Accordingly de Oliveira et al. showed that chronic treatment with statins induce changes in collagen I expression and MMPs activity in rat tendons (de Oliveira et al., <xref rid="jcp25010-bib-0007" ref-type="ref">2013</xref>). The exact mechanism behind the tendon&#x02010;specific adverse effects still remains unknown.</p><p>In this study for the first time we have addressed the effects of statins on human tendon cells. Accordingly we showed that lovastatin alters cell shape, density, migration and expression profile of human tenocytes but does not directly stop intercellular communication. We demonstrated that even a short&#x02010;term exposure to statins can decrease migratory properties of tenocytes. Tenocyte motility is essential for tendon healing as the cells have to migrate to the site of injury to produce extracellular matrix and subsequently remodel the tissue (Sharma and Maffulli, <xref rid="jcp25010-bib-0032" ref-type="ref">2006</xref>). An inhibitory effect of statins on migration has been described previously in smooth muscle cells (Porter et al., <xref rid="jcp25010-bib-0026" ref-type="ref">2002</xref>; Shen et al., <xref rid="jcp25010-bib-0033" ref-type="ref">2010</xref>), rheumatoid fibroblast&#x02010;like synoviocytes (Xiao et al., <xref rid="jcp25010-bib-0037" ref-type="ref">2013</xref>) and cardiac fibroblasts (Copaja et al., <xref rid="jcp25010-bib-0006" ref-type="ref">2012</xref>).</p><p>It has been suggested that statin&#x02010;induced inhibition of migration might be mediated by gap junctions. Rat aortic smooth muscle cells (RASMCs) incubated with increasing concentrations of lovastatin showed dose&#x02010;dependent inhibition in gap junction&#x02010;mediated intercellular communication (Shen et al., <xref rid="jcp25010-bib-0033" ref-type="ref">2010</xref>). In our study we demonstrated that statin treatment impairs intercellular communication also in human tenocytes. This finding is in agreement with previous studies showing reduction in gap junction proteins Cx43 and Cx40 expression following administration of statins (Kwak et al., <xref rid="jcp25010-bib-0015" ref-type="ref">2003</xref>; Wang et al., <xref rid="jcp25010-bib-0036" ref-type="ref">2005</xref>). However gap junction&#x02010;mediated intercellular communication in tendon cells also strongly depends on number of cell&#x02010;to&#x02010;cell contacts (Kuzma&#x02010;Kuzniarska et al., <xref rid="jcp25010-bib-0014" ref-type="ref">2014</xref>). We showed that reduction in communication is at least in part caused by reduction in cell&#x02010;to&#x02010;cell contact due to reduced cell density and spreading or increased rounding induced by lovastatin. Ultimately, it is important to note that in our study as well as in the study on RASMCs only concentration higher than the therapeutic dose of the drug lead to significant decrease in gap junctional communication in the cells.</p><p>It is well accepted that inhibition of HMG&#x02010;CoA reductase by lovastatin results in suppression of protein prenylation, changes in microfilaments followed by rounding of cells as well as inhibition in proliferation though cell arrest in G1 and at high doses cytotoxic effect. In addition mevalonate, a downstream metabolite in the cholesterol biosynthesis pathway that statins inhibit, is able to reverse statin&#x02010;induced changes (Jakobisiak et al., <xref rid="jcp25010-bib-0012" ref-type="ref">1991</xref>; Fenton et al., <xref rid="jcp25010-bib-0009" ref-type="ref">1992</xref>). In our study we confirmed that lovastatin at higher concentration causes rounding of tenocytes, which is accompanied by the disruption of cytoskeleton. Furthermore, we showed that lovastatin inhibits prenylation, using small GTPase Rap1a as an example. Although many small GTPases will be affected and could be of interest, Rap1 is a Ras&#x02010;like small GTPase that plays a crucial role in cell&#x02010;cell junction formation (Kooistra et al., <xref rid="jcp25010-bib-0013" ref-type="ref">2007</xref>). Rap1 is also essential for cell motility thus silencing of Rap1a and/or Rap1b results in significant reduction of migration in endothelial cells (Carmona et al., <xref rid="jcp25010-bib-0004" ref-type="ref">2009</xref>). This is in agreement with our data showing reduction in migration of tenocytes in presence of lovastatin. Finally, we demonstrated that human tenocytes treated with lovastatin in presence of mevalonate were able to regain fibroblastic morphology and restore protein prenylation of Rap1a.</p><p>The extracellular matrix of the tensional region of tendons is composed mostly of collagen I with small quantities of other collagens including collagen III (Riley, <xref rid="jcp25010-bib-0029" ref-type="ref">2004</xref>). Previously statin treatment was demonstrated to decrease collagen I and III expression in dermal (Louneva et al., <xref rid="jcp25010-bib-0017" ref-type="ref">2006</xref>) and kidney fibroblasts (Ikeuchi et al., <xref rid="jcp25010-bib-0011" ref-type="ref">2004</xref>). Also the latest study by de Oliveira et al. showed that a low dose of atorvastatin can reduce collagen I expression in tendons of rats subjected to chronic statin treatment (de Oliveira et al., <xref rid="jcp25010-bib-0007" ref-type="ref">2013</xref>). Here, we reported that statin treatment decreases both <italic>COL1A1</italic> and <italic>COL3A1</italic> mRNA in human tendon cells. GGTI&#x02010;298, a specific inhibitor of geranylgeranyl transferase I (GGTase I) that prenylates the Rho and Rac small GTPases, was demonstrated to decrease collagen expression in dermal fibroblasts (Rosenbloom et al., <xref rid="jcp25010-bib-0030" ref-type="ref">2000</xref>), whereas RhoQ63L, a constitutively active RhoA mutant, was shown to increase the expression (Novakofski et al., <xref rid="jcp25010-bib-0023" ref-type="ref">2009</xref>). These data strongly implicate the small GTPases, particularly RhoA, in the control of tenocytic collagen matrix production. Finally, we showed that treatment with lovastatin increases <italic>BMP&#x02010;2</italic> expression in human tenocytes. Within the musculoskeletal field statins were originally reported as osteogenic agents that induced expression of BMP&#x02010;2 in osteoblasts (Mundy et al., <xref rid="jcp25010-bib-0022" ref-type="ref">1999</xref>). Whether the increase in <italic>BMP&#x02010;2</italic> may be indicative of a phenotypic switch in statin&#x02010;treated tendon cells remains however to be investigated.</p><p>In this study we examined the effects of statins on migration, gap junction function, actin cytoskeleton and expression profile of human tendon cells. Further we showed that statins can be used as biochemical tools for exploring prenylation&#x02010;sensitive pathways in tenocytes in vitro. Collectively, these findings deliver novel insight into tenocyte biology and identify pathways that may contribute to tendon&#x02010;specific adverse effects in statin therapy. Further studies are required to investigate the effects of chronic exposure to statins in human tenocytes.</p></sec></body><back><ack id="jcp25010-sec-0020"><title>Acknowledgements</title><p>The authors wish to thank patient donors and surgeons Mr Raj Rout, Mr Chethan Jayadev and Mr Andrew Price for kind provision of the hamstring tendon samples. We also thank Dr Min Liang for technical advice and discussions. This work was supported by Orthopaedic Research UK (previously Furlong Research Charitable Foundation), <italic>ENDO Stiftung</italic>, Arthritis Research UK, the National Institute for Health and Research Musculoskeletal Biomedical Research Unit and Oxford Musculoskeletal Biobank.</p></ack><ref-list id="jcp25010-bibl-0001" content-type="cited-references"><title>Literature Cited</title><ref id="jcp25010-bib-0001"><mixed-citation publication-type="journal" id="jcp25010-cit-0001">
+<string-name>
+<surname>Ahmad</surname>
+<given-names>Z</given-names>
+</string-name>. 
+<year>2014</year>
+<article-title>Statin intolerance</article-title>. 
+<source>Am J Cardiol</source>
+<volume>113</volume>:<fpage>1765</fpage>&#x02013;<lpage>1771</lpage>.
+<pub-id pub-id-type="pmid">24792743</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0002"><mixed-citation publication-type="journal" id="jcp25010-cit-0002">
+<string-name>
+<surname>Benjamin</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Kaiser</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Milz</surname>
+<given-names>S</given-names>
+</string-name>. 
+<year>2008</year>
+<article-title>Structure&#x02010;function relationships in tendons: A review</article-title>. 
+<source>J Anat</source>
+<volume>212</volume>:<fpage>211</fpage>&#x02013;<lpage>228</lpage>.
+<pub-id pub-id-type="pmid">18304204</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0003"><mixed-citation publication-type="journal" id="jcp25010-cit-0003">
+<string-name>
+<surname>Beri</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Dwamena</surname>
+<given-names>FC</given-names>
+</string-name>, 
+<string-name>
+<surname>Dwamena</surname>
+<given-names>BA</given-names>
+</string-name>. 
+<year>2009</year>
+<article-title>Association between statin therapy and tendon rupture: a case&#x02010;control study</article-title>. 
+<source>J Cardiovasc Pharmacol</source>
+<volume>53</volume>:<fpage>401</fpage>&#x02013;<lpage>404</lpage>.
+<pub-id pub-id-type="pmid">19454900</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0004"><mixed-citation publication-type="journal" id="jcp25010-cit-0004">
+<string-name>
+<surname>Carmona</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Gottig</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Orlandi</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Scheele</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Bauerle</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Jugold</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Kiessling</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Henschler</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Zeiher</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Dimmeler</surname>
+<given-names>S</given-names>
+</string-name>. 
+<year>2009</year>
+<article-title>Role of the small GTPase Rap1 for integrin activity regulation in endothelial cells and angiogenesis</article-title>. 
+<source>Blood</source>
+<volume>113</volume>:<fpage>488</fpage>&#x02013;<lpage>497</lpage>.
+<pub-id pub-id-type="pmid">18805968</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0005"><mixed-citation publication-type="journal" id="jcp25010-cit-0005">
+<string-name>
+<surname>Cho</surname>
+<given-names>KJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Hill</surname>
+<given-names>MM</given-names>
+</string-name>, 
+<string-name>
+<surname>Chigurupati</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Du</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Parton</surname>
+<given-names>RG</given-names>
+</string-name>, 
+<string-name>
+<surname>Hancock</surname>
+<given-names>JF</given-names>
+</string-name>. 
+<year>2011</year>
+<article-title>Therapeutic levels of the hydroxmethylglutaryl&#x02010;coenzyme A reductase inhibitor lovastatin activate ras signaling via phospholipase D2</article-title>. 
+<source>Mol Cell Biol</source>
+<volume>31</volume>:<fpage>1110</fpage>&#x02013;<lpage>1120</lpage>.
+<pub-id pub-id-type="pmid">21245384</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0006"><mixed-citation publication-type="journal" id="jcp25010-cit-0006">
+<string-name>
+<surname>Copaja</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Venegas</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Aranguiz</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Canales</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Vivar</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Avalos</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Garcia</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Chiong</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Olmedo</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Catalan</surname>
+<given-names>M</given-names>
+</string-name>. 
+<year>2012</year>
+<article-title>Simvastatin disrupts cytoskeleton and decreases cardiac fibroblast adhesion, migration and viability</article-title>. 
+<source>Toxicology</source>
+<volume>294</volume>:<fpage>42</fpage>&#x02013;<lpage>49</lpage>.
+<pub-id pub-id-type="pmid">22306966</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0007"><mixed-citation publication-type="journal" id="jcp25010-cit-0007">
+<string-name>
+<surname>de Oliveira</surname>
+<given-names>LP</given-names>
+</string-name>, 
+<string-name>
+<surname>Vieira</surname>
+<given-names>CP</given-names>
+</string-name>, 
+<string-name>
+<surname>Da Re Guerra</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>de Almeida Mdos</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Pimentel</surname>
+<given-names>ER</given-names>
+</string-name>. 
+<year>2013</year>
+<article-title>Statins induce biochemical changes in the Achilles tendon after chronic treatment</article-title>. 
+<source>Toxicology</source>
+<volume>311</volume>:<fpage>162</fpage>&#x02013;<lpage>168</lpage>.
+<pub-id pub-id-type="pmid">23831763</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0008"><mixed-citation publication-type="journal" id="jcp25010-cit-0008">
+<string-name>
+<surname>de Oliveira</surname>
+<given-names>LP</given-names>
+</string-name>, 
+<string-name>
+<surname>Vieira</surname>
+<given-names>CP</given-names>
+</string-name>, 
+<string-name>
+<surname>Guerra</surname>
+<given-names>FD</given-names>
+</string-name>, 
+<string-name>
+<surname>Almeida</surname>
+<given-names>MS</given-names>
+</string-name>, 
+<string-name>
+<surname>Pimentel</surname>
+<given-names>ER</given-names>
+</string-name>. 
+<year>2015</year>
+<article-title>Structural and biomechanical changes in the Achilles tendon after chronic treatment with statins</article-title>. 
+<source>Food Chem Toxicol</source>
+<volume>77</volume>:<fpage>50</fpage>&#x02013;<lpage>57</lpage>.
+<pub-id pub-id-type="pmid">25544391</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0009"><mixed-citation publication-type="journal" id="jcp25010-cit-0009">
+<string-name>
+<surname>Fenton</surname>
+<given-names>RG</given-names>
+</string-name>, 
+<string-name>
+<surname>Kung</surname>
+<given-names>HF</given-names>
+</string-name>, 
+<string-name>
+<surname>Longo</surname>
+<given-names>DL</given-names>
+</string-name>, 
+<string-name>
+<surname>Smith</surname>
+<given-names>MR</given-names>
+</string-name>. 
+<year>1992</year>
+<article-title>Regulation of intracellular actin polymerization by prenylated cellular proteins</article-title>. 
+<source>J Cell Biol</source>
+<volume>117</volume>:<fpage>347</fpage>&#x02013;<lpage>356</lpage>.
+<pub-id pub-id-type="pmid">1560030</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0010"><mixed-citation publication-type="journal" id="jcp25010-cit-0010">
+<string-name>
+<surname>Hoffman</surname>
+<given-names>KB</given-names>
+</string-name>, 
+<string-name>
+<surname>Kraus</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Dimbil</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Golomb</surname>
+<given-names>BA</given-names>
+</string-name>. 
+<year>2012</year>
+<article-title>A survey of the FDA's AERS database regarding muscle and tendon adverse events linked to the statin drug class</article-title>. 
+<source>PLoS ONE</source>
+<volume>7</volume>:<fpage>e42866</fpage>.
+<pub-id pub-id-type="pmid">22936996</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0011"><mixed-citation publication-type="journal" id="jcp25010-cit-0011">
+<string-name>
+<surname>Ikeuchi</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Kuroiwa</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Yamashita</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Hiramatsu</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Maeshima</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Kaneko</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Hiromura</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Ueki</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Nojima</surname>
+<given-names>Y</given-names>
+</string-name>. 
+<year>2004</year>
+<article-title>Fluvastatin reduces renal fibroblast proliferation and production of type III collagen: therapeutic implications for tubulointerstitial fibrosis</article-title>. 
+<source>Nephron Exp Nephrol</source>
+<volume>97</volume>:<fpage>e115</fpage>&#x02013;<lpage>e122</lpage>.
+<pub-id pub-id-type="pmid">15331935</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0012"><mixed-citation publication-type="journal" id="jcp25010-cit-0012">
+<string-name>
+<surname>Jakobisiak</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Bruno</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Skierski</surname>
+<given-names>JS</given-names>
+</string-name>, 
+<string-name>
+<surname>Darzynkiewicz</surname>
+<given-names>Z</given-names>
+</string-name>. 
+<year>1991</year>
+<article-title>Cell cycle&#x02010;specific effects of lovastatin</article-title>. 
+<source>Proc Natl Acad Sci USA</source>
+<volume>88</volume>:<fpage>3628</fpage>&#x02013;<lpage>3632</lpage>.
+<pub-id pub-id-type="pmid">1673788</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0013"><mixed-citation publication-type="journal" id="jcp25010-cit-0013">
+<string-name>
+<surname>Kooistra</surname>
+<given-names>MR</given-names>
+</string-name>, 
+<string-name>
+<surname>Dube</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Bos</surname>
+<given-names>JL</given-names>
+</string-name>. 
+<year>2007</year>
+<article-title>Rap1: A key regulator in cell&#x02010;cell junction formation</article-title>. 
+<source>J Cell Sci</source>
+<volume>120</volume>:<fpage>17</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="pmid">17182900</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0014"><mixed-citation publication-type="journal" id="jcp25010-cit-0014">
+<string-name>
+<surname>Kuzma&#x02010;Kuzniarska</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Yapp</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Pearson&#x02010;Jones</surname>
+<given-names>TW</given-names>
+</string-name>, 
+<string-name>
+<surname>Jones</surname>
+<given-names>AK</given-names>
+</string-name>, 
+<string-name>
+<surname>Hulley</surname>
+<given-names>PA</given-names>
+</string-name>. 
+<year>2014</year>
+<article-title>Functional assessment of gap junctions in monolayer and three&#x02010;dimensional cultures of human tendon cells using fluorescence recovery after photobleaching</article-title>. 
+<source>J Biomed Opt</source>
+<volume>19</volume>:<fpage>15001</fpage>.
+<pub-id pub-id-type="pmid">24390370</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0015"><mixed-citation publication-type="journal" id="jcp25010-cit-0015">
+<string-name>
+<surname>Kwak</surname>
+<given-names>BR</given-names>
+</string-name>, 
+<string-name>
+<surname>Veillard</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Pelli</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Mulhaupt</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>James</surname>
+<given-names>RW</given-names>
+</string-name>, 
+<string-name>
+<surname>Chanson</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Mach</surname>
+<given-names>F</given-names>
+</string-name>. 
+<year>2003</year>
+<article-title>Reduced connexin43 expression inhibits atherosclerotic lesion formation in low&#x02010;density lipoprotein receptor&#x02010;deficient mice</article-title>. 
+<source>Circulation</source>
+<volume>107</volume>:<fpage>1033</fpage>&#x02013;<lpage>1039</lpage>.
+<pub-id pub-id-type="pmid">12600918</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0016"><mixed-citation publication-type="journal" id="jcp25010-cit-0016">
+<string-name>
+<surname>Liang</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Russell</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Hulley</surname>
+<given-names>PA</given-names>
+</string-name>. 
+<year>2008</year>
+<article-title>Bim, Bak, and Bax regulate osteoblast survival</article-title>. 
+<source>J Bone Miner Res</source>
+<volume>23</volume>:<fpage>610</fpage>&#x02013;<lpage>620</lpage>.
+<pub-id pub-id-type="pmid">18251703</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0017"><mixed-citation publication-type="journal" id="jcp25010-cit-0017">
+<string-name>
+<surname>Louneva</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Huaman</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Fertala</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Jimenez</surname>
+<given-names>SA</given-names>
+</string-name>. 
+<year>2006</year>
+<article-title>Inhibition of systemic sclerosis dermal fibroblast type I collagen production and gene expression by simvastatin</article-title>. 
+<source>Arthritis Rheum</source>
+<volume>54</volume>:<fpage>1298</fpage>&#x02013;<lpage>1308</lpage>.
+<pub-id pub-id-type="pmid">16575855</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0018"><mixed-citation publication-type="journal" id="jcp25010-cit-0018">
+<string-name>
+<surname>Maji</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Shaikh</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Solanki</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Gaurav</surname>
+<given-names>K</given-names>
+</string-name>. 
+<year>2013</year>
+<article-title>Safety of statins</article-title>. 
+<source>Indian J Endocr Metab</source>
+<volume>17</volume>:<fpage>636</fpage>&#x02013;<lpage>646</lpage>.
+</mixed-citation></ref><ref id="jcp25010-bib-0019"><mixed-citation publication-type="journal" id="jcp25010-cit-0019">
+<string-name>
+<surname>Marie</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Delafenetre</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Massy</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Thuillez</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Noblet</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Network of the French Pharmacovigilance</surname>
+<given-names>C</given-names>
+</string-name>. 
+<year>2008</year>
+<article-title>Tendinous disorders attributed to statins: A study on ninety&#x02010;six spontaneous reports in the period and review of the literature</article-title>. 
+<source>Arthritis Rheum</source>
+<volume>59</volume>:<fpage>367</fpage>&#x02013;<lpage>372</lpage>.
+<pub-id pub-id-type="pmid">18311771</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0020"><mixed-citation publication-type="journal" id="jcp25010-cit-0020">
+<string-name>
+<surname>McNeilly</surname>
+<given-names>CM</given-names>
+</string-name>, 
+<string-name>
+<surname>Banes</surname>
+<given-names>AJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Benjamin</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Ralphs</surname>
+<given-names>JR</given-names>
+</string-name>. 
+<year>1996</year>
+<article-title>Tendon cells in vivo form a three dimensional network of cell processes linked by gap junctions</article-title>. 
+<source>J Anat</source>
+<volume>189</volume>:<fpage>593</fpage>&#x02013;<lpage>600</lpage>.
+<pub-id pub-id-type="pmid">8982835</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0021"><mixed-citation publication-type="journal" id="jcp25010-cit-0021">
+<string-name>
+<surname>Mosshammer</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Schaeffeler</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Schwab</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Morike</surname>
+<given-names>K</given-names>
+</string-name>. 
+<year>2014</year>
+<article-title>Mechanisms and assessment of statin&#x02010;related muscular adverse effects</article-title>. 
+<source>Br J Clin Pharmacol</source>
+<volume>78</volume>:<fpage>454</fpage>&#x02013;<lpage>466</lpage>.
+<pub-id pub-id-type="pmid">25069381</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0022"><mixed-citation publication-type="journal" id="jcp25010-cit-0022">
+<string-name>
+<surname>Mundy</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Garrett</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Harris</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Chan</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Chen</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Rossini</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Boyce</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhao</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Gutierrez</surname>
+<given-names>G</given-names>
+</string-name>. 
+<year>1999</year>
+<article-title>Stimulation of bone formation in vitro and in rodents by statins</article-title>. 
+<source>Science</source>
+<volume>286</volume>:<fpage>1946</fpage>&#x02013;<lpage>1949</lpage>.
+<pub-id pub-id-type="pmid">10583956</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0023"><mixed-citation publication-type="journal" id="jcp25010-cit-0023">
+<string-name>
+<surname>Novakofski</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Boehm</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Fortier</surname>
+<given-names>L</given-names>
+</string-name>. 
+<year>2009</year>
+<article-title>The small GTPase Rho mediates articular chondrocyte phenotype and morphology in response to interleukin&#x02010;1alpha and insulin&#x02010;like growth factor&#x02010;I</article-title>. 
+<source>J Orthop Res Soc</source>
+<volume>27</volume>:<fpage>58</fpage>&#x02013;<lpage>64</lpage>.
+</mixed-citation></ref><ref id="jcp25010-bib-0024"><mixed-citation publication-type="journal" id="jcp25010-cit-0024">
+<string-name>
+<surname>Novakova</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Vlckova</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Satinsky</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Sadilek</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Solichova</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Blaha</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Blaha</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Solich</surname>
+<given-names>P</given-names>
+</string-name>. 
+<year>2009</year>
+<article-title>Ultra high performance liquid chromatography tandem mass spectrometric detection in clinical analysis of simvastatin and atorvastatin</article-title>. 
+<source>J Chromatogr B Analyt Technol Biomed Life Sci</source>
+<volume>877</volume>:<fpage>2093</fpage>&#x02013;<lpage>2103</lpage>.
+</mixed-citation></ref><ref id="jcp25010-bib-0025"><mixed-citation publication-type="journal" id="jcp25010-cit-0025">
+<string-name>
+<surname>Pfaffl</surname>
+<given-names>MW</given-names>
+</string-name>. 
+<year>2001</year>
+<article-title>A new mathematical model for relative quantification in real&#x02010;time RT&#x02010;PCR</article-title>. 
+<source>Nucl Acids Res</source>
+<volume>29</volume>:<fpage>e45</fpage>.
+<pub-id pub-id-type="pmid">11328886</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0026"><mixed-citation publication-type="journal" id="jcp25010-cit-0026">
+<string-name>
+<surname>Porter</surname>
+<given-names>KE</given-names>
+</string-name>, 
+<string-name>
+<surname>Naik</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Turner</surname>
+<given-names>NA</given-names>
+</string-name>, 
+<string-name>
+<surname>Dickinson</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Thompson</surname>
+<given-names>MM</given-names>
+</string-name>, 
+<string-name>
+<surname>London</surname>
+<given-names>NJ</given-names>
+</string-name>. 
+<year>2002</year>
+<article-title>Simvastatin inhibits human saphenous vein neointima formation via inhibition of smooth muscle cell proliferation and migration</article-title>. 
+<source>J Vasc Surg</source>
+<volume>36</volume>:<fpage>150</fpage>&#x02013;<lpage>157</lpage>.
+<pub-id pub-id-type="pmid">12096273</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0027"><mixed-citation publication-type="journal" id="jcp25010-cit-0027">
+<string-name>
+<surname>Pullatt</surname>
+<given-names>RC</given-names>
+</string-name>, 
+<string-name>
+<surname>Gadarla</surname>
+<given-names>MR</given-names>
+</string-name>, 
+<string-name>
+<surname>Karas</surname>
+<given-names>RH</given-names>
+</string-name>, 
+<string-name>
+<surname>Alsheikh&#x02010;Ali</surname>
+<given-names>AA</given-names>
+</string-name>, 
+<string-name>
+<surname>Thompson</surname>
+<given-names>PD</given-names>
+</string-name>. 
+<year>2007</year>
+<article-title>Tendon rupture associated with simvastatin/ezetimibe therapy</article-title>. 
+<source>Am J Cardiol</source>
+<volume>100</volume>:<fpage>152</fpage>&#x02013;<lpage>153</lpage>.
+<pub-id pub-id-type="pmid">17599460</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0028"><mixed-citation publication-type="journal" id="jcp25010-cit-0028">
+<string-name>
+<surname>Ralphs</surname>
+<given-names>JR</given-names>
+</string-name>, 
+<string-name>
+<surname>Waggett</surname>
+<given-names>AD</given-names>
+</string-name>, 
+<string-name>
+<surname>Benjamin</surname>
+<given-names>M</given-names>
+</string-name>. 
+<year>2002</year>
+<article-title>Actin stress fibres and cell&#x02010;cell adhesion molecules in tendons: organisation in vivo and response to mechanical loading of tendon cells in vitro</article-title>. 
+<source>Matrix Biol</source>
+<volume>21</volume>:<fpage>67</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="pmid">11827794</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0029"><mixed-citation publication-type="journal" id="jcp25010-cit-0029">
+<string-name>
+<surname>Riley</surname>
+<given-names>G</given-names>
+</string-name>. 
+<year>2004</year>
+<article-title>The pathogenesis of tendinopathy A molecular perspective</article-title>. 
+<source>Rheumatology</source>
+<volume>43</volume>:<fpage>131</fpage>&#x02013;<lpage>142</lpage>.
+<pub-id pub-id-type="pmid">12867575</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0030"><mixed-citation publication-type="journal" id="jcp25010-cit-0030">
+<string-name>
+<surname>Rosenbloom</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Saitta</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Gaidarova</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Sandorfi</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Rosenbloom</surname>
+<given-names>JC</given-names>
+</string-name>, 
+<string-name>
+<surname>Abrams</surname>
+<given-names>WR</given-names>
+</string-name>, 
+<string-name>
+<surname>Hamilton</surname>
+<given-names>AD</given-names>
+</string-name>, 
+<string-name>
+<surname>Sebti</surname>
+<given-names>SM</given-names>
+</string-name>, 
+<string-name>
+<surname>Kucich</surname>
+<given-names>U</given-names>
+</string-name>, 
+<string-name>
+<surname>Jimenez</surname>
+<given-names>SA</given-names>
+</string-name>. 
+<year>2000</year>
+<article-title>Inhibition of type I collagen gene expression in normal and systemic sclerosis fibroblasts by a specific inhibitor of geranylgeranyl transferase I</article-title>. 
+<source>Arthritis Rheum</source>
+<volume>43</volume>:<fpage>1624</fpage>&#x02013;<lpage>1632</lpage>.
+<pub-id pub-id-type="pmid">10902768</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0031"><mixed-citation publication-type="journal" id="jcp25010-cit-0031">
+<string-name>
+<surname>Sadowitz</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Maier</surname>
+<given-names>KG</given-names>
+</string-name>, 
+<string-name>
+<surname>Gahtan</surname>
+<given-names>V</given-names>
+</string-name>. 
+<year>2010</year>
+<article-title>Basic science review: Statin therapy&#x02010;Part I: The pleiotropic effects of statins in cardiovascular disease</article-title>. 
+<source>Vasc. Endovascular. Surg.</source>
+<volume>44</volume>:<fpage>241</fpage>&#x02013;<lpage>251</lpage>.
+<pub-id pub-id-type="pmid">20403949</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0032"><mixed-citation publication-type="journal" id="jcp25010-cit-0032">
+<string-name>
+<surname>Sharma</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Maffulli</surname>
+<given-names>N</given-names>
+</string-name>. 
+<year>2006</year>
+<article-title>Biology of tendon injury: Healing, modeling and remodeling</article-title>. 
+<source>J Musculoskelet Neuronal Interact</source>
+<volume>6</volume>:<fpage>181</fpage>&#x02013;<lpage>190</lpage>.
+<pub-id pub-id-type="pmid">16849830</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0033"><mixed-citation publication-type="journal" id="jcp25010-cit-0033">
+<string-name>
+<surname>Shen</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>LH</given-names>
+</string-name>, 
+<string-name>
+<surname>Zheng</surname>
+<given-names>LR</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhu</surname>
+<given-names>JH</given-names>
+</string-name>, 
+<string-name>
+<surname>Hu</surname>
+<given-names>SJ</given-names>
+</string-name>. 
+<year>2010</year>
+<article-title>Lovastatin inhibits gap junctional communication in cultured aortic smooth muscle cells</article-title>. 
+<source>J Cardiovasc Pharmacol Ther</source>
+<volume>15</volume>:<fpage>296</fpage>&#x02013;<lpage>302</lpage>.
+<pub-id pub-id-type="pmid">20601591</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0034"><mixed-citation publication-type="journal" id="jcp25010-cit-0034">
+<string-name>
+<surname>Torricelli</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Fini</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Giavaresi</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Carpi</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Nicolini</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Giardino</surname>
+<given-names>R</given-names>
+</string-name>. 
+<year>2006</year>
+<article-title>Effects of systemic glucocorticoid administration on tenocytes</article-title>. 
+<source>Biomed Pharmacother</source>
+<volume>60</volume>:<fpage>380</fpage>&#x02013;<lpage>385</lpage>.
+<pub-id pub-id-type="pmid">16928425</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0035"><mixed-citation publication-type="journal" id="jcp25010-cit-0035">
+<string-name>
+<surname>Wang</surname>
+<given-names>CY</given-names>
+</string-name>, 
+<string-name>
+<surname>Liu</surname>
+<given-names>PY</given-names>
+</string-name>, 
+<string-name>
+<surname>Liao</surname>
+<given-names>JK</given-names>
+</string-name>. 
+<year>2008</year>
+<article-title>Pleiotropic effects of statin therapy: molecular mechanisms and clinical results</article-title>. 
+<source>Trends Mol Med</source>
+<volume>14</volume>:<fpage>37</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="pmid">18068482</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0036"><mixed-citation publication-type="journal" id="jcp25010-cit-0036">
+<string-name>
+<surname>Wang</surname>
+<given-names>LH</given-names>
+</string-name>, 
+<string-name>
+<surname>Chen</surname>
+<given-names>JZ</given-names>
+</string-name>, 
+<string-name>
+<surname>Sun</surname>
+<given-names>YL</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>FR</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhu</surname>
+<given-names>JH</given-names>
+</string-name>, 
+<string-name>
+<surname>Hu</surname>
+<given-names>SJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>DH</given-names>
+</string-name>. 
+<year>2005</year>
+<article-title>Statins reduce connexin40 and connexin43 expression in atherosclerotic aorta of rabbits</article-title>. 
+<source>Int J Cardiol</source>
+<volume>100</volume>:<fpage>467</fpage>&#x02013;<lpage>475</lpage>.
+<pub-id pub-id-type="pmid">15837092</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0037"><mixed-citation publication-type="journal" id="jcp25010-cit-0037">
+<string-name>
+<surname>Xiao</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Liang</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Pan</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Lian</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Lin</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Fu</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Fan</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Yang</surname>
+<given-names>X</given-names>
+</string-name>, 
+<string-name>
+<surname>Sun</surname>
+<given-names>L</given-names>
+</string-name>. 
+<year>2013</year>
+<article-title>Inhibitory effects of simvastatin on migration and invasion of rheumatoid fibroblast&#x02010;like synoviocytes by preventing geranylgeranylation of RhoA</article-title>. 
+<source>Rheumatol Int</source>
+<volume>33</volume>:<fpage>389</fpage>&#x02013;<lpage>399</lpage>.
+<pub-id pub-id-type="pmid">22451024</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0038"><mixed-citation publication-type="journal" id="jcp25010-cit-0038">
+<string-name>
+<surname>Yao</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Bestwick</surname>
+<given-names>CS</given-names>
+</string-name>, 
+<string-name>
+<surname>Bestwick</surname>
+<given-names>LA</given-names>
+</string-name>, 
+<string-name>
+<surname>Maffulli</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Aspden</surname>
+<given-names>RM</given-names>
+</string-name>. 
+<year>2006</year>
+<article-title>Phenotypic drift in human tenocyte culture</article-title>. 
+<source>Tissue Eng</source>
+<volume>12</volume>:<fpage>1843</fpage>&#x02013;<lpage>1849</lpage>.
+<pub-id pub-id-type="pmid">16889514</pub-id></mixed-citation></ref><ref id="jcp25010-bib-0039"><mixed-citation publication-type="journal" id="jcp25010-cit-0039">
+<string-name>
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, 
+<string-name>
+<surname>Liao</surname>
+<given-names>JK</given-names>
+</string-name>. 
+<year>2010</year>
+<article-title>Pleiotropic effects of statins. &#x02010; Basic research and clinical perspectives</article-title>. 
+<source>Circ J</source>
+<volume>74</volume>:<fpage>818</fpage>&#x02013;<lpage>826</lpage>.
+<pub-id pub-id-type="pmid">20424337</pub-id></mixed-citation></ref></ref-list></back></article>

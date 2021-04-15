@@ -1,0 +1,785 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Materials (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Materials (Basel)</journal-id><journal-id journal-id-type="publisher-id">materials</journal-id><journal-title-group><journal-title>Materials</journal-title></journal-title-group><issn pub-type="epub">1996-1944</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28793646</article-id><article-id pub-id-type="pmc">5458925</article-id><article-id pub-id-type="doi">10.3390/ma8115389</article-id><article-id pub-id-type="publisher-id">materials-08-05389</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Potassium Sodium Niobate-Based Lead-Free Piezoelectric Multilayer Ceramics Co-Fired with Nickel Electrodes</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kawada</surname><given-names>Shinichiro</given-names></name><xref rid="c1-materials-08-05389" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Hayashi</surname><given-names>Hiroyuki</given-names></name><xref ref-type="author-notes" rid="fn1-materials-08-05389">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Ishii</surname><given-names>Hideki</given-names></name><xref ref-type="author-notes" rid="fn1-materials-08-05389">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Kimura</surname><given-names>Masahiko</given-names></name></contrib><contrib contrib-type="author"><name><surname>Ando</surname><given-names>Akira</given-names></name></contrib><contrib contrib-type="author"><name><surname>Omiya</surname><given-names>Suetake</given-names></name></contrib><contrib contrib-type="author"><name><surname>Kubodera</surname><given-names>Noriyuki</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Pardo</surname><given-names>Lorena</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-materials-08-05389">Murata Manufacturing Co., Ltd., Nagaokakyo, Kyoto 617-8555, Japan; <email>hiroyuki_hayashi@murata.com</email> (H.H.); <email>hideki_ishii@murata.com</email> (H.I.); <email>mkimura@murata.com</email> (M.K.); <email>a_ando@murata.com</email> (A.A.); <email>sue_take@murata.com</email> (S.O.); <email>kubodera@murata.com</email> (N.K.)</aff><author-notes><fn id="fn1-materials-08-05389"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn><corresp id="c1-materials-08-05389"><label>*</label>Correspondence: <email>s_kawada@murata.com</email>; Tel.: +81-748-25-7229; Fax: +81-748-25-7248</corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>11</month><year>2015</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2015</year></pub-date><volume>8</volume><issue>11</issue><fpage>7423</fpage><lpage>7438</lpage><history><date date-type="received"><day>29</day><month>9</month><year>2015</year></date><date date-type="accepted"><day>28</day><month>10</month><year>2015</year></date></history><permissions><copyright-statement>&#x000a9; 2015 by the authors.</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Although lead-free piezoelectric ceramics have been extensively studied, many problems must still be overcome before they are suitable for practical use. One of the main problems is fabricating a multilayer structure, and one solution attracting growing interest is the use of lead-free multilayer piezoelectric ceramics. The paper reviews work that has been done by the authors on lead-free alkali niobate-based multilayer piezoelectric ceramics co-fired with nickel inner electrodes. Nickel inner electrodes have many advantages, such as high electromigration resistance, high interfacial strength with ceramics, and greater cost effectiveness than silver palladium inner electrodes. However, widely used lead zirconate titanate-based ceramics cannot be co-fired with nickel inner electrodes, and silver palladium inner electrodes are usually used for lead zirconate titanate-based piezoelectric ceramics. A possible alternative is lead-free ceramics co-fired with nickel inner electrodes. We have thus been developing lead-free alkali niobate-based multilayer ceramics co-fired with nickel inner electrodes. The normalized electric-field-induced thickness strain (<italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub>) of a representative alkali niobate-based multilayer ceramic structure with nickel inner electrodes was 360 pm/V, where <italic>S</italic><sub>max</sub> denotes the maximum strain and <italic>E</italic><sub>max</sub> denotes the maximum electric field. This value is about half that for the lead zirconate titanate-based ceramics that are widely used. However, a comparable value can be obtained by stacking more ceramic layers with smaller thicknesses. In the paper, the compositional design and process used to co-fire lead-free ceramics with nickel inner electrodes are introduced, and their piezoelectric properties and reliabilities are shown. Recent advances are introduced, and future development is discussed.</p></abstract><kwd-group><kwd>ferroelectric material</kwd><kwd>potassium sodium niobate</kwd><kwd>(K,Na)NbO<sub>3</sub></kwd><kwd>piezoelectric actuator</kwd><kwd>base metal inner electrode</kwd><kwd>multilayer structure</kwd></kwd-group></article-meta></front><body><sec id="sec1-materials-08-05389"><title>1. Introduction</title><p>Piezoelectric ceramics are widely used in various devices, such as actuators, speakers, and transducers. Lead zirconate titanate (PZT)-based ceramics are usually used in piezoelectric devices [<xref rid="B1-materials-08-05389" ref-type="bibr">1</xref>,<xref rid="B2-materials-08-05389" ref-type="bibr">2</xref>]. A multilayer structure is used for those piezoelectric applications requiring large displacement or low-voltage driving, and a silver-palladium alloy is ordinarily used as the inner electrode material for PZT-based multilayer ceramics.</p><p>For barium titanate-based multilayer ceramic capacitors, nickel inner electrodes fired in a reducing atmosphere are used [<xref rid="B3-materials-08-05389" ref-type="bibr">3</xref>,<xref rid="B4-materials-08-05389" ref-type="bibr">4</xref>]. Nickel electrodes have many advantages, such as high electromigration resistance, high interfacial strength with ceramics, and greater cost effectiveness than silver palladium. However, PZT-based piezoelectric ceramics cannot be co-fired with nickel because the lead in PZT reduces easier than nickel, and PZT-based ceramics cannot be sintered in a reducing atmosphere, which does not oxidize nickel. On the other hand, it might be possible to co-fire lead-free piezoelectric ceramics with nickel in a reducing atmosphere.</p><p>Potassium sodium niobate (KNN)-based ceramics [<xref rid="B5-materials-08-05389" ref-type="bibr">5</xref>,<xref rid="B6-materials-08-05389" ref-type="bibr">6</xref>,<xref rid="B7-materials-08-05389" ref-type="bibr">7</xref>,<xref rid="B8-materials-08-05389" ref-type="bibr">8</xref>,<xref rid="B9-materials-08-05389" ref-type="bibr">9</xref>,<xref rid="B10-materials-08-05389" ref-type="bibr">10</xref>,<xref rid="B11-materials-08-05389" ref-type="bibr">11</xref>,<xref rid="B12-materials-08-05389" ref-type="bibr">12</xref>,<xref rid="B13-materials-08-05389" ref-type="bibr">13</xref>,<xref rid="B14-materials-08-05389" ref-type="bibr">14</xref>,<xref rid="B15-materials-08-05389" ref-type="bibr">15</xref>,<xref rid="B16-materials-08-05389" ref-type="bibr">16</xref>,<xref rid="B17-materials-08-05389" ref-type="bibr">17</xref>,<xref rid="B18-materials-08-05389" ref-type="bibr">18</xref>,<xref rid="B19-materials-08-05389" ref-type="bibr">19</xref>,<xref rid="B20-materials-08-05389" ref-type="bibr">20</xref>,<xref rid="B21-materials-08-05389" ref-type="bibr">21</xref>,<xref rid="B22-materials-08-05389" ref-type="bibr">22</xref>,<xref rid="B23-materials-08-05389" ref-type="bibr">23</xref>,<xref rid="B24-materials-08-05389" ref-type="bibr">24</xref>,<xref rid="B25-materials-08-05389" ref-type="bibr">25</xref>,<xref rid="B26-materials-08-05389" ref-type="bibr">26</xref>,<xref rid="B27-materials-08-05389" ref-type="bibr">27</xref>,<xref rid="B28-materials-08-05389" ref-type="bibr">28</xref>,<xref rid="B29-materials-08-05389" ref-type="bibr">29</xref>,<xref rid="B30-materials-08-05389" ref-type="bibr">30</xref>,<xref rid="B31-materials-08-05389" ref-type="bibr">31</xref>,<xref rid="B32-materials-08-05389" ref-type="bibr">32</xref>,<xref rid="B33-materials-08-05389" ref-type="bibr">33</xref>], bismuth sodium titanate-based ceramics [<xref rid="B34-materials-08-05389" ref-type="bibr">34</xref>,<xref rid="B35-materials-08-05389" ref-type="bibr">35</xref>,<xref rid="B36-materials-08-05389" ref-type="bibr">36</xref>,<xref rid="B37-materials-08-05389" ref-type="bibr">37</xref>], bismuth potassium titanate-based ceramics [<xref rid="B37-materials-08-05389" ref-type="bibr">37</xref>,<xref rid="B38-materials-08-05389" ref-type="bibr">38</xref>], ferroelectric ceramics with a tungsten bronze structure [<xref rid="B39-materials-08-05389" ref-type="bibr">39</xref>], and bismuth layer-structured ferroelectrics [<xref rid="B40-materials-08-05389" ref-type="bibr">40</xref>,<xref rid="B41-materials-08-05389" ref-type="bibr">41</xref>,<xref rid="B42-materials-08-05389" ref-type="bibr">42</xref>,<xref rid="B43-materials-08-05389" ref-type="bibr">43</xref>,<xref rid="B44-materials-08-05389" ref-type="bibr">44</xref>,<xref rid="B45-materials-08-05389" ref-type="bibr">45</xref>,<xref rid="B46-materials-08-05389" ref-type="bibr">46</xref>,<xref rid="B47-materials-08-05389" ref-type="bibr">47</xref>,<xref rid="B48-materials-08-05389" ref-type="bibr">48</xref>,<xref rid="B49-materials-08-05389" ref-type="bibr">49</xref>,<xref rid="B50-materials-08-05389" ref-type="bibr">50</xref>,<xref rid="B51-materials-08-05389" ref-type="bibr">51</xref>] have been extensively studied as lead-free piezoelectric ceramics. Ceramics containing bismuth cannot be co-fired with nickel as well as PZT-based ceramics because the bismuth reduces easier than nickel. Furthermore, KNN-based ceramics have a relatively high piezoelectric constant and Curie temperature in lead-free materials [<xref rid="B5-materials-08-05389" ref-type="bibr">5</xref>,<xref rid="B6-materials-08-05389" ref-type="bibr">6</xref>,<xref rid="B7-materials-08-05389" ref-type="bibr">7</xref>,<xref rid="B8-materials-08-05389" ref-type="bibr">8</xref>,<xref rid="B9-materials-08-05389" ref-type="bibr">9</xref>,<xref rid="B10-materials-08-05389" ref-type="bibr">10</xref>,<xref rid="B11-materials-08-05389" ref-type="bibr">11</xref>,<xref rid="B12-materials-08-05389" ref-type="bibr">12</xref>,<xref rid="B13-materials-08-05389" ref-type="bibr">13</xref>,<xref rid="B14-materials-08-05389" ref-type="bibr">14</xref>,<xref rid="B15-materials-08-05389" ref-type="bibr">15</xref>,<xref rid="B16-materials-08-05389" ref-type="bibr">16</xref>,<xref rid="B17-materials-08-05389" ref-type="bibr">17</xref>,<xref rid="B18-materials-08-05389" ref-type="bibr">18</xref>,<xref rid="B19-materials-08-05389" ref-type="bibr">19</xref>,<xref rid="B20-materials-08-05389" ref-type="bibr">20</xref>,<xref rid="B21-materials-08-05389" ref-type="bibr">21</xref>,<xref rid="B22-materials-08-05389" ref-type="bibr">22</xref>,<xref rid="B23-materials-08-05389" ref-type="bibr">23</xref>,<xref rid="B24-materials-08-05389" ref-type="bibr">24</xref>,<xref rid="B25-materials-08-05389" ref-type="bibr">25</xref>,<xref rid="B26-materials-08-05389" ref-type="bibr">26</xref>,<xref rid="B27-materials-08-05389" ref-type="bibr">27</xref>,<xref rid="B28-materials-08-05389" ref-type="bibr">28</xref>,<xref rid="B29-materials-08-05389" ref-type="bibr">29</xref>,<xref rid="B30-materials-08-05389" ref-type="bibr">30</xref>,<xref rid="B31-materials-08-05389" ref-type="bibr">31</xref>,<xref rid="B32-materials-08-05389" ref-type="bibr">32</xref>,<xref rid="B33-materials-08-05389" ref-type="bibr">33</xref>]. Therefore, we decided to use a potassium sodium niobate-based composition to develop multilayer piezoelectric ceramics with nickel inner electrodes.</p><p>In this review, our work on KNN-based multilayer piezoelectric ceramics co-fired with nickel inner electrodes is introduced. First, a KNN compositional study of firing in a reducing atmosphere is reviewed [<xref rid="B52-materials-08-05389" ref-type="bibr">52</xref>]. Then, a study on the reliability of KNN-based multilayer ceramics co-fired with nickel inner electrodes is described [<xref rid="B53-materials-08-05389" ref-type="bibr">53</xref>]. Next, a study on the feasibility of a KNN-based multilayer piezoelectric actuator co-fired with nickel inner electrodes is discussed. Finally, further progress in improving the piezoelectric properties of KNN-based ceramics fired in a reducing atmosphere is mentioned [<xref rid="B54-materials-08-05389" ref-type="bibr">54</xref>].</p></sec><sec id="sec2-materials-08-05389"><title>2. Fabrication of KNN-Based Multilayer Piezoelectric Ceramics Co-Fired with Nickel Inner Electrodes</title><p>In the first study reviewed, single-layer KNN-based samples without inner electrodes were fabricated to evaluate the reduction resistance [<xref rid="B52-materials-08-05389" ref-type="bibr">52</xref>]. (K,Na)NbO<sub>3</sub>&#x02013;CaTiO<sub>3</sub>&#x02013; and (K,Na)NbO<sub>3</sub>&#x02013;CaZrO<sub>3</sub>&#x02013;based compositions were selected because of their superior piezoelectric properties [<xref rid="B27-materials-08-05389" ref-type="bibr">27</xref>,<xref rid="B28-materials-08-05389" ref-type="bibr">28</xref>,<xref rid="B29-materials-08-05389" ref-type="bibr">29</xref>] Three powder samples composed of high-purity (99.9%) K<sub>2</sub>CO<sub>3</sub>, Na<sub>2</sub>CO<sub>3</sub>, Nb<sub>2</sub>O<sub>5</sub>, CaCO<sub>3</sub>, TiO<sub>2</sub>, ZrO<sub>2</sub>, and MnCO<sub>3</sub> were prepared.
+<list list-type="simple"><list-item><p>Sample KNN-CT-1: 0.96(K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> &#x02212; 0.04CaTiO<sub>3</sub></p></list-item><list-item><p>Sample KLN-CZ-1: 0.96(K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> &#x02212; 0.04CaZrO<sub>3</sub></p></list-item><list-item><p>Sample KNN-CZ-2: 0.96(K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> &#x02212; 0.04CaZrO<sub>3</sub> + 0.03Zr</p></list-item></list></p><p>We added 5 mol % manganese to each sample as a sintering aid. The weighed powders were ball-milled with ethanol and calcined at 900 &#x000b0;C for 2 h in air. It was reported that calcination temperatures on the range from 700 &#x000b0;C to 850 &#x000b0;C produced well crystallized nanoparticles with a predominance of tetragonal phase and no presence of secondary phases for (K<sub>0.44</sub>Na<sub>0.52</sub>Li<sub>0.04</sub>)(Nb<sub>0.86</sub>Ta<sub>0.10</sub>Sb<sub>0.04</sub>)O<sub>3</sub> [<xref rid="B55-materials-08-05389" ref-type="bibr">55</xref>]. However, in our study, the calcination temperature of 900 &#x000b0;C produced single phase particles and calcination temperatures below 900 &#x000b0;C produced secondary phases. It is thought that the difference of compositions causes the difference of calcination temperatures to obtain single phase particles. <xref ref-type="fig" rid="materials-08-05389-f001">Figure 1</xref> shows the X-ray diffraction profile of KNN-CZ-2 powder calcined at 900 &#x000b0;C.</p><p>The calcined powders were mixed with a 10 wt % polyvinyl acetate binder and ion exchange water to prepare a tape-casting slurry. The slurry was formed into green sheets using the doctor-blade technique, and the green sheets were stacked and pressed into green bodies, which were then formed into disks with a diameter of 10 mm and a thickness of 1 mm. The disks were fired at a rate of 0.5 &#x000b0;C/min from room temperature to 400 &#x000b0;C and held for 5 h in air to remove the binder. Then, the disks were fired a rate of 3 &#x000b0;C/min to 1080 &#x000b0;C and held for 2 h in a reducing atmosphere (oxygen partial pressure of 1 &#x000d7; 10<sup>&#x02212;11</sup> to 1 &#x000d7; 10<sup>&#x02212;10</sup> MPa). Silver electrodes were then sputtered on both surfaces of each sample. Finally, the samples were poled at an electric field of 3.0 kV/mm in silicon oil at 80 &#x000b0;C for 30 min.</p><fig id="materials-08-05389-f001" position="float"><label>Figure 1</label><caption><p>X-ray diffraction profile of KNN-CZ-2 powder calcined at 900 &#x000b0;C.</p></caption><graphic xlink:href="materials-08-05389-g001"/></fig><p>The bulk densities were measured using the Archimedes&#x02019; method. The insulation resistance was measured at 100 V/mm with a digital electrometer (Advantest R8240). The dielectric constant, &#x003b5;<sub>33</sub><sup>T</sup>/&#x003b5;<sub>0</sub>, was measured at a frequency of 1 kHz, and the radial-mode electromechanical-coupling factor, <italic>k<sub>p</sub></italic>, was estimated using the resonance-antiresonance method with an impedance analyzer (Agilent 4294A). The piezoelectric constant, <italic>d</italic><sub>33</sub>, was measured with a piezoelectric <italic>d</italic><sub>33</sub> meter (Piezotest PM300). The Curie temperature was determined from the temperature dependence of the dielectric constant.</p><p>The insulation resistivity and sintered body density of single-layer disk samples are listed in <xref ref-type="table" rid="materials-08-05389-t001">Table 1</xref>.</p><table-wrap id="materials-08-05389-t001" position="float"><object-id pub-id-type="pii">materials-08-05389-t001_Table 1</object-id><label>Table 1</label><caption><p>Insulation resistivity and sintered body density of single-layer disk samples (measured temperature: 25 &#x000b0;C).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Composition</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Insulation Resistivity (&#x003a9;&#x000b7;m)</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sintered Body Density (kg/m<sup>3</sup>) *</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">KNN-CT-1</td><td align="left" valign="middle" rowspan="1" colspan="1">7.7 &#x000d7; 10<sup>4</sup></td><td align="left" valign="middle" rowspan="1" colspan="1">4.5 &#x000d7; 10<sup>3</sup> (98%)</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">KNN-CZ-1</td><td align="left" valign="middle" rowspan="1" colspan="1">1.6 &#x000d7; 10<sup>6</sup></td><td align="left" valign="middle" rowspan="1" colspan="1">4.0 &#x000d7; 10<sup>3</sup> (87%)</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">KNN-CZ-2</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.3 &#x000d7; 10<sup>8</sup></td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.5 &#x000d7; 10<sup>3</sup> (98%)</td></tr></tbody></table><table-wrap-foot><fn><p>* Relative density is indicated in parentheses ( ).</p></fn></table-wrap-foot></table-wrap><p>After the KNN-CT-1 sample was fired in a reducing atmosphere, a high-density sintered body with a relative density of 98% was obtained, but the insulation resistivity was too low (7.7 &#x000d7; 10<sup>4</sup> &#x003a9;&#x000b7;m) to enable polarization. Even though the sintered body density was sufficiently high, insulation resistivity was low. It is well known for BaTiO<sub>3</sub>, which is fired in a reducing atmosphere, that the Ti valence changes during the firing in a reducing atmosphere and the change of Ti valence creates the oxygen vacancies. Those oxygen vacancies cause a lower insulation resistance [<xref rid="B56-materials-08-05389" ref-type="bibr">56</xref>,<xref rid="B57-materials-08-05389" ref-type="bibr">57</xref>,<xref rid="B58-materials-08-05389" ref-type="bibr">58</xref>]. Therefore as same as BaTiO<sub>3</sub>, which is fired in a reducing atmosphere, the Ti valence may have changed during the firing in a reducing atmosphere and the insulation resistance became too low.</p><p>For this reason, the KNN-CZ-1 sample was fired in a reducing atmosphere in which the Ti, which has a fluctuating valence number, was replaced with Zr, which has a stable valence number. This resulted in higher insulation resistivity (1.6 &#x000d7; 10<sup>6</sup> &#x003a9;&#x000b7;m), but it still was not high enough to enable polarization. This was because the sintered body relative density was only 87%, and the low insulation resistivity was apparently due to incomplete sintering. Various additives were examined for improving the sintering density of KNN-CZ-1, resulting in the KNN-CZ-2 composition in which 0.03 mol of ZrO<sub>2</sub> was added to 1 mol of KNN-CZ-1. This improved the sintered body relative density to 98% and the insulation resistivity to 6.3 &#x000d7; 10<sup>8</sup> &#x003a9;&#x000b7;m, sufficient to enable polarization. The piezoelectric properties of a KNN-CZ-2 single-layer disk sample are shown in <xref ref-type="table" rid="materials-08-05389-t002">Table 2</xref>. The piezoelectric constant, <italic>d</italic><sub>33</sub> was 160 pC/N.</p><table-wrap id="materials-08-05389-t002" position="float"><object-id pub-id-type="pii">materials-08-05389-t002_Table 2</object-id><label>Table 2</label><caption><p>Piezoelectric properties of KNN-CZ-2 single-layer disk sample (measured temperature: 25 &#x000b0;C).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Composition</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">KNN-CZ-2</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">Grain size (&#x003bc;m)</td><td align="left" valign="middle" rowspan="1" colspan="1">0.7</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Dielectric permittivity, &#x003b5;<sub>33</sub><sup>T</sup>/&#x003b5;<sub>0</sub></td><td align="left" valign="middle" rowspan="1" colspan="1">1180</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Coupling coefficient, <italic>k</italic><sub>p</sub> (%)</td><td align="left" valign="middle" rowspan="1" colspan="1">31.8</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Piezoelectric constant, <italic>d</italic><sub>33</sub> (pC/N)</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">160</td></tr></tbody></table></table-wrap><p>The temperature dependence of the dielectric permittivity for the KNN-CZ-2 sample is plotted in <xref ref-type="fig" rid="materials-08-05389-f002">Figure 2</xref>. It is well known that in KNN-based system there are four polymorphic phases, rhombohedral (R), orthorhombic (O), tetragonal (T), and cubic (C) phases with increasing temperature [<xref rid="B59-materials-08-05389" ref-type="bibr">59</xref>]. Thus, the transition temperatures are correspondingly defined as <italic>T</italic><sub>R-O</sub> (~0 &#x000b0;C), <italic>T</italic><sub>O-T</sub> (~140 &#x000b0;C), and <italic>T</italic><sub>C</sub> (~260 &#x000b0;C) from <xref ref-type="fig" rid="materials-08-05389-f002">Figure 2</xref>.</p><fig id="materials-08-05389-f002" position="float"><label>Figure 2</label><caption><p>Temperature dependence of dielectric permittivity for KNN-CZ-2 single-layer sample.</p></caption><graphic xlink:href="materials-08-05389-g002"/></fig><p>Next, a multilayer KNN-CZ-2 sample was fabricated. A multilayer piezoelectric structure with 12 ceramic layers and 11 nickel inner electrodes was fabricated using the KNN-CZ-2 composition. Nickel paste was printed on green sheets fabricated as described above, which were then stacked and pressed into a green body, which was then fired in the same way as described above for the single-layer samples. The multilayer sample was sintered without warpage, and it turned dark brown due to the nickel inner electrodes, whereas the single-layer samples turned light brown. The obtained sample was cut by dicing, and external electrodes were formed by sputtering silver. The size of the sample was 18 mm (length) by 2 mm (width) by 0.4 mm (thickness). Its cross-section was observed with an optical microscope and its surface was observed with a scanning electron microscope (SEM). The electric-field-induced thickness strain was measured with a displacement meter (Mahr Millitron 1202D). The normalized strain (<italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub>) was calculated as the ratio of the maximum electric-field-induced thickness strain to the maximum electric field.</p><p>An optical microscope image of a cross-section of the multilayer structure is shown in <xref ref-type="fig" rid="materials-08-05389-f003">Figure 3</xref>. The thickness of each ceramic layer was about 35 &#x003bc;m, and the coverage of the nickel inner electrodes was high enough for practical use. The grain structure is shown in <xref ref-type="fig" rid="materials-08-05389-f004">Figure 4</xref>. The grain size was about 0.7 &#x003bc;m; in other words, a fine-grain ceramic was obtained.</p><fig id="materials-08-05389-f003" position="float"><label>Figure 3</label><caption><p>Optical microscope image of cross section of multilayer KNN-CZ-2 ceramic structure.</p></caption><graphic xlink:href="materials-08-05389-g003"/></fig><fig id="materials-08-05389-f004" position="float"><label>Figure 4</label><caption><p>SEM micrograph of surface of multilayer KNN-CZ-2 sample.</p></caption><graphic xlink:href="materials-08-05389-g004"/></fig><p>The induced electric field dependence on polarization for the multilayer sample is shown in <xref ref-type="fig" rid="materials-08-05389-f005">Figure 5</xref>. Typical ferroelectric polarization-electric field (P-E) hysteresis behavior was clearly observed, evidencing that the multilayer structure functioned normally. The remnant polarization and coercive field were respectively estimated to be 9.6 &#x003bc;C/cm<sup>2</sup> and 1.5 kV/mm from this P-E hysteresis curve.</p><fig id="materials-08-05389-f005" position="float"><label>Figure 5</label><caption><p>P-E hysteresis curve for multilayer KNN-CZ-2 sample.</p></caption><graphic xlink:href="materials-08-05389-g005"/></fig><p>The strains and <italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub> of the multilayer sample at electric fields of 1.0, 2.0, and 3.0 kV/mm are shown in <xref ref-type="table" rid="materials-08-05389-t003">Table 3</xref>. When the electric field was 2.0 kV/mm, <italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub> was 360 pm/V, and when it was 1 or 3 kV/mm, <italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub> was a bit lower and about the same value. The 360 pm/V is about twice the value of <italic>d</italic><sub>33</sub> for the single-layer sample, indicating that the contribution of domain-wall motion was probably larger than that of the PZT-based ceramics [<xref rid="B60-materials-08-05389" ref-type="bibr">60</xref>].</p><table-wrap id="materials-08-05389-t003" position="float"><object-id pub-id-type="pii">materials-08-05389-t003_Table 3</object-id><label>Table 3</label><caption><p>Strains and <italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub> of multilayer KNN-CZ-2 sample (measured temperature: 25 &#x000b0;C).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Induced Electric Field</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">1 kV/mm</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">2 kV/mm</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">3 kV/mm</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">Strain (%)</td><td align="left" valign="middle" rowspan="1" colspan="1">0.033</td><td align="left" valign="middle" rowspan="1" colspan="1">0.072</td><td align="left" valign="middle" rowspan="1" colspan="1">0.096</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Normalized electric-field-induced thickness strain, <italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub> (pm/V)</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">330</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">360</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">320</td></tr></tbody></table></table-wrap><p>The <italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub> value of 360 pm/V is about half that for the widely used PZT-based ceramic multilayer structures, which are usually stacked with silver palladium inner electrodes. However, the developed multilayer sample with nickel inner electrodes can achieve displacement comparable to that with PZT-based multilayer ceramics by stacking more ceramic layers that have smaller thickness. This is because the displacement is approximately proportional to the product of the ceramic layer thickness and applied electric field, which increases with a reduction in ceramic-layer thickness. Additionally, it becomes easier to reduce ceramic-layer thickness by using nickel electrodes rather than silver-palladium electrodes because nickel electrodes have high electromigration resistance and high interfacial strength with ceramics.</p><p>Thus, a KNN-based multilayer piezoelectric ceramic structure co-fired with nickel inner electrodes was successfully obtained by using a composition containing excess zirconium.</p></sec><sec id="sec3-materials-08-05389"><title>3. Reliability of KNN-Based Multilayer Piezoelectric Ceramics Co-Fired with Nickel Inner Electrodes</title><p>Environmental reliability is important for practical use. Since potassium and sodium oxides, the raw materials of KNN, are deliquescent materials, there are concerns about the reliability of KNN-based ceramics, especially under high-humidity conditions [<xref rid="B6-materials-08-05389" ref-type="bibr">6</xref>]. Several studies on the sinterability and reliability of KNN-based ceramics have been reported. For example, Takenaka and coworkers reported that dense and nondeliquescent KNbO<sub>3</sub> (KN)-based ceramics were obtained using optimized calcination and milling processes [<xref rid="B21-materials-08-05389" ref-type="bibr">21</xref>,<xref rid="B22-materials-08-05389" ref-type="bibr">22</xref>,<xref rid="B23-materials-08-05389" ref-type="bibr">23</xref>,<xref rid="B24-materials-08-05389" ref-type="bibr">24</xref>]. Birol <italic>et al.</italic> reported that dense KN-based ceramics were realized by sintering in O<sub>2</sub> atmosphere [<xref rid="B61-materials-08-05389" ref-type="bibr">61</xref>]. Furthermore, the humidity and thermal reliabilities of KNN-based ceramics have been reported [<xref rid="B62-materials-08-05389" ref-type="bibr">62</xref>,<xref rid="B63-materials-08-05389" ref-type="bibr">63</xref>].</p><p>We first investigated the relationship between excess zirconium and the behavior of the alkaline element of the composition by atomic absorption spectrometry. Then, the reliability of the resistance and piezoelectric properties of excess-zirconium-added KNN were studied under several environmental test conditions [<xref rid="B53-materials-08-05389" ref-type="bibr">53</xref>].</p><p>We prepared two sample structures of KNN-based multilayer ceramics with nickel inner electrodes. They had 11 layers, a length of 15 mm, a width of 2 mm, and a height of 0.5 mm.
+<list list-type="simple"><list-item><p>Sample KNN-CZ-1&#x002b9;: 0.98(K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> &#x02212; 0.02CaZrO<sub>3</sub></p></list-item><list-item><p>Sample KNN-CZ-3: 0.98(K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> &#x02212; 0.02CaZrO<sub>3</sub> + 0.03ZrO<sub>2</sub></p></list-item></list></p><p>We added 5 mol % manganese to each sample as a sintering aid. A base composition of 0.98(K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> &#x02212; 0.02CaZrO<sub>3</sub> was selected to increase the Curie temperature.</p><p>The samples were fabricated using the process described above for the KNN-CZ-2 multilayer sample.</p><p>The insulation resistance and sintered body density of the two samples are listed in <xref ref-type="table" rid="materials-08-05389-t004">Table 4</xref>.</p><table-wrap id="materials-08-05389-t004" position="float"><object-id pub-id-type="pii">materials-08-05389-t004_Table 4</object-id><label>Table 4</label><caption><p>Insulation resistivity and sintered body density of KNN-based multilayer samples (measured temperature: 25 &#x000b0;C).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Composition</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Insulation Resistivity (&#x003a9;&#x000b7;m)</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sintered Body Density (kg/m<sup>3</sup>) *</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">KNN-CZ-1&#x002b9;</td><td align="left" valign="middle" rowspan="1" colspan="1">1.6 &#x000d7; 10<sup>6</sup></td><td align="left" valign="middle" rowspan="1" colspan="1">4.38 &#x000d7; 10<sup>3</sup> (95%)</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">KNN-CZ-3</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.2 &#x000d7; 10<sup>9</sup></td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.50 &#x000d7; 10<sup>3</sup> (98%)</td></tr></tbody></table><table-wrap-foot><fn><p>* Relative density is indicated in parentheses ( ).</p></fn></table-wrap-foot></table-wrap><p>Both the density and resistivity of the KNN-CZ-3 sample were higher than those of the KNN-CZ-1&#x002b9; one. The resistivity of KNN-CZ-1&#x002b9; was insufficient for polarization. Therefore, the piezoelectric properties of KNN-CZ-1&#x002b9; could not be measured in this study. The dielectric loss, tan&#x003b4;, dielectric constant, &#x003b5;<sub>33</sub><sup>T</sup>/&#x003b5;<sub>0</sub>, and electromechanical coupling coefficient, <italic>k</italic><sub>31</sub>, were 3.6%, 660, and 22.8%, respectively.</p><p>The unreacted potassium of the calcined powder and the potassium vaporized during firing were estimated. In this experiment, the calcinations temperature was 900 &#x000b0;C. Water elutions of potassium and sodium were carried out to estimate the amount of unreacted alkaline oxides in the calcined powder. The calcined powder was put in a water base at 25 &#x000b0;C and stirred for 1 h. Then, the amounts of potassium and sodium eluted in the water were measured by atomic absorption spectrometry (AAS). The elution ratio is expressed as the weight ratio of the eluted amount to the weighed amount. The amount of vaporized alkaline elements was estimated by comparing the compositions of the presintered and after-sintered specimens by AAS. The vaporization ratio, <italic>W</italic><sub>vapor</sub>, is expressed as the weight ratio and defined as
+<disp-formula><italic>W</italic><sub>vapor</sub> = <italic>W</italic><sub>pre</sub> &#x02212; <italic>W</italic><sub>after</sub><label>(1)</label></disp-formula>
+where <italic>W</italic><sub>pre</sub> and <italic>W</italic><sub>after</sub> are the weight ratios of the amount of alkaline elements for presintered and after-sintered specimens, respectively.</p><p><xref ref-type="table" rid="materials-08-05389-t005">Table 5</xref> shows the ratios of the estimated unreacted potassium and the vaporized potassium.</p><table-wrap id="materials-08-05389-t005" position="float"><object-id pub-id-type="pii">materials-08-05389-t005_Table 5</object-id><label>Table 5</label><caption><p>Ratio of unreacted potassium in calcined powder and potassium vaporized during firing.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Composition</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Unreacted Potassium (wt %)</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Vaporized Potassium (wt %)</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">KNN-CZ-1&#x002b9;</td><td align="left" valign="middle" rowspan="1" colspan="1">0.17</td><td align="left" valign="middle" rowspan="1" colspan="1">0.92</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">KNN-CZ-3</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.16</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.77</td></tr></tbody></table></table-wrap><p>The unreacted and vaporized potassium ratios for the KNN-CZ-3 sample were lower than those for the KNN-CZ-1&#x002b9; one. The amounts of unreacted and vaporized sodium were too small to be detected by AAS for both powders in this study. These results suggest that the excess zirconium accelerated the solid solution of potassium into the crystal lattice and prevented potassium evaporation. As the result, both the density and resistivity of the KNN-CZ-3 sample were apparently higher than those of the KNN-CZ-1&#x002b9; one.</p><p>Reliability tests were carried out for KNN-CZ-3 sample using the test conditions shown in <xref ref-type="table" rid="materials-08-05389-t006">Table 6</xref>. The test samples were kept in a test chamber under these conditions for a given time range (from 0 to 500 h), and their resistivity and piezoelectric properties were measured after they were removed from the chamber. The samples were subjected to a heat cycle from &#x02212;40 to 80 &#x000b0;C once every hour for the thermal shock test.</p><table-wrap id="materials-08-05389-t006" position="float"><object-id pub-id-type="pii">materials-08-05389-t006_Table 6</object-id><label>Table 6</label><caption><p>Reliability test conditions.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Test name</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Conditions</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">High-temperature test</td><td align="left" valign="middle" rowspan="1" colspan="1">85 &#x000b0;C</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Low-temperature test</td><td align="left" valign="middle" rowspan="1" colspan="1">&#x02212;40 &#x000b0;C</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Humidity test</td><td align="left" valign="middle" rowspan="1" colspan="1">85 &#x000b0;C/85%RH</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Thermal shock test</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&#x02212;40 to 85 &#x000b0;C (1 h/cycle)</td></tr></tbody></table></table-wrap><p>As shown in <xref ref-type="fig" rid="materials-08-05389-f006">Figure 6</xref>a,b, respectively, the resistivity changes and dielectric losses were extremely stable under these test conditions for at least 500 h.</p><fig id="materials-08-05389-f006" position="float"><label>Figure 6</label><caption><p>(<bold>a</bold>) Resistivity, log <italic>&#x003c1;</italic>; and (<bold>b</bold>) dielectric loss, tan <italic>&#x003b4;</italic> change of KNN-CZ-3 under reliability test conditions.</p></caption><graphic xlink:href="materials-08-05389-g006"/></fig><p>As shown in <xref ref-type="fig" rid="materials-08-05389-f007">Figure 7</xref>a,b, respectively, the change rates of the dielectric constant and electromechanical coupling coefficient under the reliability test conditions were lower than 10% and comparable to those of ordinary PZT ceramics. The excess zirconium increased the resistivity and prevented potassium evaporation. The high resistivity should result in good piezoelectric properties, and the prevention of potassium evaporation should produce good reliability.</p><p>These results demonstrate that the reliability of a KNN-CZ-3 multilayer piezoelectric ceramic structure with nickel inner electrodes is good enough for practical application.</p><fig id="materials-08-05389-f007" position="float"><label>Figure 7</label><caption><p>(<bold>a</bold>) Change rates of dielectric constant &#x003b5;<sub>33</sub><sup>T</sup>/&#x003b5;<sub>0</sub>; and (<bold>b</bold>) change rates of electromechanical coupling coefficient <italic>k</italic><sub>31</sub> under reliability test conditions.</p></caption><graphic xlink:href="materials-08-05389-g007"/></fig></sec><sec id="sec4-materials-08-05389"><title>4. Feasibility of KNN-Based Multilayer Piezoelectric Actuator Co-Fired with Nickel Inner Electrodes</title><p>Before we fabricated a KNN-CZ-3 multilayer piezoelectric actuator with nickel electrodes, we measured the piezoelectric properties of a KNN-CZ-3 single-layer disk sample in the same way as used for the KNN-CZ-2 single-layer disk sample described above.</p><p>The piezoelectric properties of the sample are shown in <xref ref-type="table" rid="materials-08-05389-t007">Table 7</xref>. The piezoelectric constant of 130 pC/N is a little smaller than the 160 pC/N for the KNN-CZ-2 sample.</p><table-wrap id="materials-08-05389-t007" position="float"><object-id pub-id-type="pii">materials-08-05389-t007_Table 7</object-id><label>Table 7</label><caption><p>Piezoelectric properties of KNN-CZ-3 single-layer disk sample <italic>vs.</italic> those of KNN-CZ-2 sample (measured temperature: 25 &#x000b0;C).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Composition</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">KNN-CZ-3</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">KNN-CZ-2</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">Grain size (&#x003bc;m)</td><td align="left" valign="middle" rowspan="1" colspan="1">0.7</td><td align="left" valign="middle" rowspan="1" colspan="1">0.7</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Dielectric permittivity, &#x003b5;<sub>33</sub><sup>T</sup>/&#x003b5;<sub>0</sub></td><td align="left" valign="middle" rowspan="1" colspan="1">640</td><td align="left" valign="middle" rowspan="1" colspan="1">1180</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Coupling coefficient, <italic>k</italic><sub>p</sub> (%)</td><td align="left" valign="middle" rowspan="1" colspan="1">34.0</td><td align="left" valign="middle" rowspan="1" colspan="1">31.8</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Piezoelectric constant, <italic>d</italic><sub>33</sub> (pC/N)</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">130</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">160</td></tr></tbody></table></table-wrap><p>The temperature dependence of the dielectric permittivity is plotted in <xref ref-type="fig" rid="materials-08-05389-f008">Figure 8</xref>. There are four polymorphic phases, rhombohedral (R), orthorhombic (O), tetragonal (T), and cubic (C) phases with increasing temperature in KNN-based system, mentioned above [<xref rid="B56-materials-08-05389" ref-type="bibr">56</xref>]. Thus, the transition temperatures are correspondingly defined as <italic>T</italic><sub>O-T</sub> (at ~110 &#x000b0;C) and <italic>T</italic><sub>C</sub> (at ~300 &#x000b0;C) from <xref ref-type="fig" rid="materials-08-05389-f008">Figure 8</xref>.</p><fig id="materials-08-05389-f008" position="float"><label>Figure 8</label><caption><p>Temperature dependence of dielectric permittivity for KNN-CZ-3 single-layer sample.</p></caption><graphic xlink:href="materials-08-05389-g008"/></fig><p>These results show that the KNN-CZ-3 sample exhibited suitable piezoelectric properties for a piezoelectric actuator. We thus fabricated a 101-layer piezoelectric actuator by using the KNN-CZ-3 composition and the same process used for the multilayer ceramic structure with nickel electrodes described above.</p><p><xref ref-type="fig" rid="materials-08-05389-f009">Figure 9</xref> shows an optical microscope image of a cross-section of the KNN-CZ-3 multilayer actuator. The thickness of ceramic layer was about 60 &#x003bc;m, and the coverage of the nickel inner electrodes was high enough for practical use.</p><p>At an electric-field of 5 kV/mm, <italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub> was 80 pm/V, and when the electric field was from 2 to 5 kV/mm, <italic>S</italic><sub>max</sub>/<italic>E</italic><sub>max</sub> was about the same. This value of 80 pm/V is much lower than the 360 pm/V of the KNN-CZ-2 multilayer sample, which had 11 ceramic layers. It is thought that disconnections occurred at the connection electrode when a high electric field was applied to the 101-layer sample because the strain after applying a high electric field was much smaller than that before applying the field, as evident in <xref ref-type="fig" rid="materials-08-05389-f010">Figure 10</xref>.</p><fig id="materials-08-05389-f009" position="float"><label>Figure 9</label><caption><p>Optical microscope image of cross section of KNN-CZ-3 multilayer actuator.</p></caption><graphic xlink:href="materials-08-05389-g009"/></fig><p>The strain-electric-field curves are shown in <xref ref-type="fig" rid="materials-08-05389-f010">Figure 10</xref>.</p><fig id="materials-08-05389-f010" position="float"><label>Figure 10</label><caption><p>Strain-electric field curves of KNN-CZ-3 multilayer actuator.</p></caption><graphic xlink:href="materials-08-05389-g010"/></fig><p>Although this developed KNN-CZ-3 multilayer ceramic structure is possibly suitable for practical use, more development work is needed before it is ready for practical application.</p></sec><sec id="sec5-materials-08-05389"><title>5. Further Progress in Improving Piezoelectric Properties of KNN-Based Ceramics Fired in a Reducing Atmosphere</title><p>It has been reported that the Curie temperature of (Ba,Ca)TiO<sub>3</sub> ceramics can be increased by doping Sn<sup>2+</sup> in the A-site of perovskite structures by calcining and sintering in a reducing atmosphere [<xref rid="B64-materials-08-05389" ref-type="bibr">64</xref>,<xref rid="B65-materials-08-05389" ref-type="bibr">65</xref>,<xref rid="B66-materials-08-05389" ref-type="bibr">66</xref>,<xref rid="B67-materials-08-05389" ref-type="bibr">67</xref>]. We investigated the Curie temperature and piezoelectric properties of Sn<sup>2+</sup>-doped KNN-based ceramics that were calcined and sintered in a reducing atmosphere [<xref rid="B60-materials-08-05389" ref-type="bibr">60</xref>].</p><p>We chose KNN-CZ-3 and (K,Na)NbO<sub>3</sub> + SnO + ZrO<sub>2</sub>, which was obtained by doping Sn<sup>2+</sup> instead of Ca<sup>2+</sup>. We then prepared KNN-based single-layer disk samples without inner electrodes.
+<list list-type="simple"><list-item><p>Sample KNN-CZ-3: 0.98(K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> &#x02212; 0.02CaZrO<sub>3</sub> + 0.03ZrO<sub>2</sub></p></list-item><list-item><p>Sample KNN-SZ: 0.98(K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> &#x02212; 0.02SnZrO<sub>3</sub> + 0.03ZrO<sub>2</sub></p></list-item></list></p><p>We added 5 mol % manganese to each sample as a sintering aid. These weighed powders were composed of high-purity (99.9%) K<sub>2</sub>CO<sub>3</sub>, Na<sub>2</sub>CO<sub>3</sub>, Nb<sub>2</sub>O<sub>5</sub>, CaCO<sub>3</sub>, SnO, and MnCO<sub>3</sub> and were ball-milled with ethanol and calcined at 900 &#x000b0;C for 2 h in a reducing atmosphere (oxygen partial pressure of 1 &#x000d7; 10<sup>&#x02212;16</sup> MPa). After calcination, KNN-CZ-3 and KNN-SZ single-plate disk samples were fabricated using the same process used for the KNN-CZ-2 single-plate disk sample described above.</p><p>The resistivities and densities of the two samples are shown in <xref ref-type="table" rid="materials-08-05389-t008">Table 8</xref>. The insulation resistivities were high enough for polarization.</p><table-wrap id="materials-08-05389-t008" position="float"><object-id pub-id-type="pii">materials-08-05389-t008_Table 8</object-id><label>Table 8</label><caption><p>Insulation resistivity and sintered body density of multilayer Sn<sup>2+</sup>-doped KNN-based ceramic samples (measured temperature: 25 &#x000b0;C).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sample</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Insulation Resistivity (&#x003a9;&#x000b7;m)</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Sintered Body Density (kg/m<sup>3</sup>) *</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">KNN-CZ-3</td><td align="left" valign="middle" rowspan="1" colspan="1">1.5 &#x000d7; 10<sup>9</sup></td><td align="left" valign="middle" rowspan="1" colspan="1">4.21 &#x000d7; 10<sup>3</sup> (92%)</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">KNN-SZ</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.9 &#x000d7; 10<sup>9</sup></td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4.47 &#x000d7; 10<sup>3</sup> (97%)</td></tr></tbody></table><table-wrap-foot><fn><p>* Relative density is indicated in parentheses ( ).</p></fn></table-wrap-foot></table-wrap><p>X-ray diffraction (XRD) patterns of KNN-CZ-3 and KNN-SZ are shown in <xref ref-type="fig" rid="materials-08-05389-f011">Figure 11</xref>. The crystal structures of KNN-CZ-3 and KNN-SZ were orthorhombic.</p><fig id="materials-08-05389-f011" position="float"><label>Figure 11</label><caption><p>(<bold>a</bold>) X-ray diffraction profile of KNN-SZ ceramics; and (<bold>b</bold>) X-ray diffraction profile of KNN-CZ-3 ceramics.</p></caption><graphic xlink:href="materials-08-05389-g011"/></fig><p>The piezoelectric properties of the KNN-CZ-3 sample, which contained powder calcined in air, and the KNN-CZ-3 and KNN-SZ samples, which contained powder calcined in reducing atmosphere, are shown in <xref ref-type="table" rid="materials-08-05389-t009">Table 9</xref>.</p><table-wrap id="materials-08-05389-t009" position="float"><object-id pub-id-type="pii">materials-08-05389-t009_Table 9</object-id><label>Table 9</label><caption><p>Piezoelectric properties of single-layer disk samples (measured temperature: 25 &#x000b0;C).</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Composition</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">KNN-CZ-3</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">KNN-CZ-3</th><th align="left" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">KNN-SZ</th></tr></thead><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">Calcination condition</td><td align="left" valign="middle" rowspan="1" colspan="1">In air</td><td colspan="2" align="left" valign="middle" rowspan="1">In reducing atmosphere</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Dielectric permittivity, &#x003b5;<sub>33</sub><sup>T</sup>/&#x003b5;<sub>0</sub></td><td align="left" valign="middle" rowspan="1" colspan="1">640</td><td align="left" valign="middle" rowspan="1" colspan="1">684</td><td align="left" valign="middle" rowspan="1" colspan="1">1517</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Coupling coefficient, <italic>k</italic><sub>p</sub> (%)</td><td align="left" valign="middle" rowspan="1" colspan="1">34.0</td><td align="left" valign="middle" rowspan="1" colspan="1">27.1</td><td align="left" valign="middle" rowspan="1" colspan="1">31.9</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">Piezoelectric constant, <italic>d</italic><sub>33</sub> (pC/N)</td><td align="left" valign="middle" rowspan="1" colspan="1">130</td><td align="left" valign="middle" rowspan="1" colspan="1">130</td><td align="left" valign="middle" rowspan="1" colspan="1">190</td></tr><tr><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Curie temperature, <italic>T</italic><sub>C</sub> (&#x000b0;C)</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">300</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">300</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">300</td></tr></tbody></table></table-wrap><p>The dielectric constant of the KNN-SZ sample, 1517, was much higher than those of the KNN-CZ-3 samples. Its piezoelectric constant, 190 pC/N, was about 1.5 times that of the KNN-CZ-3 samples. In the case of KNN-CZ-3, there are not so much differences between the calcination in air and the calcination in a reducing atmosphere. Therefore these results are not caused by only the calcinations in a reducing atmosphere, but also by doping Sn instead of Ca. This result suggests that the point of enhancing piezoelectric properties is doping Sn<sup>2+</sup> in the A-site of perovskite structures by calcining and sintering in a reducing atmosphere, because Sn<sup>2+</sup> easily changes to Sn<sup>4+</sup> by calcining and sintering in air, and the ionic radius of Sn<sup>4+</sup> is too small to dope Sn in A-site of perovskite structures.</p><p>The enhancement of piezoelectric properties is attributed to the phase transition behaviors. The Curie temperatures of the KNN-CZ-3 and KNN-SZ samples were all 300 &#x000b0;C while the tetragonal-orthorhombic phase transition temperature (<italic>T</italic><sub>O-T</sub>) of the KNN-SZ sample was 90 &#x000b0;C, 60 &#x000b0;C lower than that of the KNN-CZ-3 samples. This shift in <italic>T</italic><sub>O-T</sub> due to doping Sn in the A-site of perovskite structures instead of Ca is probably what caused the increase in the piezoelectric properties, <italic>k</italic><sub>p</sub> and <italic>d</italic><sub>33</sub> [<xref rid="B60-materials-08-05389" ref-type="bibr">60</xref>].</p><p>These results indicate that the piezoelectric <italic>d</italic> constant of a KNN-based multilayer ceramic structure with nickel inner electrodes can be increased by doping with Sn<sup>2+</sup> instead of Ca<sup>2+</sup>.</p></sec><sec id="sec6-materials-08-05389"><title>6. Conclusions</title><p>We have reviewed our work on the development of KNN-based piezoelectric multilayer ceramic structures co-fired with nickel electrodes. The <italic>S</italic><sub>max</sub><italic>/E</italic><sub>max</sub> of a KNN-based multilayer piezoelectric sample co-fired with nickel electrodes was about half that for the widely used PZT-based ceramic multilayer structure, which is usually stacked with silver palladium inner electrodes. However, the developed multilayer sample with nickel inner electrodes can achieve comparable displacement by stacking more ceramic layers with less thickness. This is because the displacement is approximately proportional to the product of the ceramic layer thickness and applied electric field, which increases with a reduction in the ceramic-layer thickness. Additionally, it is easier to reduce the ceramic-layer thickness by using nickel electrodes rather than silver-palladium ones because nickel electrodes have high electromigration resistance and high interfacial strength with ceramics. The reliability of the KNN-based multilayer piezoelectric sample co-fired with nickel electrodes was comparable to that of ordinary PZT ceramics. We fabricated a KNN-CZ-3 multilayer actuator, but its strain property was not good enough for practical use. It is thought that disconnections occurred at the connection electrode when a high electric field was applied to the 101-layer sample. Therefore, more development work is needed to make it suitable for practical use.</p><p>Different techniques for co-firing alkali niobate based-ceramics with a base metal have recently been proposed [<xref rid="B68-materials-08-05389" ref-type="bibr">68</xref>,<xref rid="B69-materials-08-05389" ref-type="bibr">69</xref>,<xref rid="B70-materials-08-05389" ref-type="bibr">70</xref>,<xref rid="B71-materials-08-05389" ref-type="bibr">71</xref>,<xref rid="B72-materials-08-05389" ref-type="bibr">72</xref>,<xref rid="B73-materials-08-05389" ref-type="bibr">73</xref>]. Furthermore, studies of multilayer KNN-based lead-free piezoelectric ceramics with silver-palladium electrodes have been reported [<xref rid="B74-materials-08-05389" ref-type="bibr">74</xref>,<xref rid="B75-materials-08-05389" ref-type="bibr">75</xref>]. Moreover, many studies on the application of KNN-based ceramics and improving the piezoelectric properties of KNN-based ceramics have been reported [<xref rid="B76-materials-08-05389" ref-type="bibr">76</xref>,<xref rid="B77-materials-08-05389" ref-type="bibr">77</xref>,<xref rid="B78-materials-08-05389" ref-type="bibr">78</xref>,<xref rid="B79-materials-08-05389" ref-type="bibr">79</xref>,<xref rid="B80-materials-08-05389" ref-type="bibr">80</xref>,<xref rid="B81-materials-08-05389" ref-type="bibr">81</xref>,<xref rid="B82-materials-08-05389" ref-type="bibr">82</xref>,<xref rid="B83-materials-08-05389" ref-type="bibr">83</xref>,<xref rid="B84-materials-08-05389" ref-type="bibr">84</xref>,<xref rid="B85-materials-08-05389" ref-type="bibr">85</xref>,<xref rid="B86-materials-08-05389" ref-type="bibr">86</xref>,<xref rid="B87-materials-08-05389" ref-type="bibr">87</xref>,<xref rid="B88-materials-08-05389" ref-type="bibr">88</xref>,<xref rid="B89-materials-08-05389" ref-type="bibr">89</xref>]. These activities indicate that a KNN-based multilayer ceramic structure is widely considered to be a good candidate for lead-free piezoelectric devices.</p><p>It is thus concluded that the developed KNN-based multilayer ceramic structure with nickel inner electrodes is a promising candidate for use in lead-free piezoelectric devices.</p></sec></body><back><ack><title>Acknowledgments</title><p>We received generous support from many people in the Murata Manufacturing Company. We are particularly grateful for the assistance given by Ryosaku Takayanagi, Emi Fujiura and Junichiro Inoue. Shoichiro Suzuki and Takashi Oyama gave insightful comments and suggestions. The advice and comments received from our co-workers at Murata greatly helped us in our studies. Without their help, this review would not have been possible.</p></ack><notes><title>Author Contributions</title><p>Shinichiro Kawada conceived and designed the experiments in <xref ref-type="sec" rid="sec2-materials-08-05389">Section 2</xref> and <xref ref-type="sec" rid="sec4-materials-08-05389">Section 4</xref>; Shinichiro Kawada performed the experiments and analyzed the data in <xref ref-type="sec" rid="sec2-materials-08-05389">Section 2</xref> and <xref ref-type="sec" rid="sec4-materials-08-05389">Section 4</xref>; Hiroyuki Hayashi and Shinichiro Kawada conceived and designed the experiments in <xref ref-type="sec" rid="sec3-materials-08-05389">Section 3</xref>; Hiroyuki Hayashi performed the experiments and analyzed the data in <xref ref-type="sec" rid="sec3-materials-08-05389">Section 3</xref>; Hideki Ishii and Shinichiro Kawada conceived and designed the experiments in <xref ref-type="sec" rid="sec5-materials-08-05389">Section 5</xref>; Hideki Ishii performed the experiments and analyzed the data in <xref ref-type="sec" rid="sec5-materials-08-05389">Section 5</xref>; Shinichiro Kawada wrote the paper; and Masahiko Kimura, Akira Ando, Suetake Omiya and Noriyuki Kubodera checked the paper.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></notes><ref-list><title>References</title><ref id="B1-materials-08-05389"><label>1.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Jaffe</surname><given-names>B.</given-names></name><name><surname>Cook</surname><given-names>W.R.</given-names></name><name><surname>Jaffe</surname><given-names>H.</given-names></name></person-group>
+<source>Piezoelectric Ceramics</source>
+<publisher-name>Academic</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1971</year>
+<fpage>115</fpage>
+</element-citation></ref><ref id="B2-materials-08-05389"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haertling</surname><given-names>G.H.</given-names></name></person-group>
+<article-title>Ferroelectric Ceramics: History and Technology</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>1999</year>
+<volume>82</volume>
+<fpage>797</fpage>
+<lpage>818</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1151-2916.1999.tb01840.x</pub-id>
+</element-citation></ref><ref id="B3-materials-08-05389"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sakabe</surname><given-names>Y.</given-names></name><name><surname>Minai</surname><given-names>K.</given-names></name><name><surname>Wakino</surname><given-names>K.</given-names></name></person-group>
+<article-title>High dielectric constant ceramics for base-metal monolithic capacitors</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>1981</year>
+<volume>20</volume>
+<fpage>147</fpage>
+<lpage>150</lpage>
+<pub-id pub-id-type="doi">10.7567/JJAPS.20S4.147</pub-id>
+</element-citation></ref><ref id="B4-materials-08-05389"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burn</surname><given-names>I.</given-names></name><name><surname>Maher</surname><given-names>G.H.</given-names></name></person-group>
+<article-title>High resistivity BaTiO<sub>3</sub> ceramics sintered in CO&#x02013;CO<sub>2</sub> atmospheres</article-title>
+<source>J. Mater. Sci.</source>
+<year>1975</year>
+<volume>10</volume>
+<fpage>633</fpage>
+<lpage>640</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00566571</pub-id>
+</element-citation></ref><ref id="B5-materials-08-05389"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shirane</surname><given-names>G.</given-names></name><name><surname>Newnham</surname><given-names>R.</given-names></name><name><surname>Pepinsky</surname><given-names>R.</given-names></name></person-group>
+<article-title>Dielectric properties and phase transitions of NaNbO<sub>3</sub> and (Na,K)NbO<sub>3</sub></article-title>
+<source>Phys. Rev.</source>
+<year>1954</year>
+<volume>96</volume>
+<fpage>581</fpage>
+<lpage>588</lpage>
+<pub-id pub-id-type="doi">10.1103/PhysRev.96.581</pub-id>
+</element-citation></ref><ref id="B6-materials-08-05389"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Egerton</surname><given-names>L.</given-names></name><name><surname>Dillon</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Piezoelectric and Dielectric Properties of Ceramics in the System Potassium-Sodium Niobate</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>1959</year>
+<volume>42</volume>
+<fpage>438</fpage>
+<lpage>442</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1151-2916.1959.tb12971.x</pub-id>
+</element-citation></ref><ref id="B7-materials-08-05389"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jaeger</surname><given-names>R.E.</given-names></name><name><surname>Egerton</surname><given-names>L.</given-names></name></person-group>
+<article-title>Hot Pressing of Potassium-Sodium Niobates</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>1962</year>
+<volume>45</volume>
+<fpage>209</fpage>
+<lpage>213</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1151-2916.1962.tb11127.x</pub-id>
+</element-citation></ref><ref id="B8-materials-08-05389"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kosec</surname><given-names>M.</given-names></name><name><surname>Kolar</surname><given-names>D.</given-names></name></person-group>
+<article-title>On activated sintering and electrical properties of NaKNbO<sub>3</sub></article-title>
+<source>Mater. Res. Bull.</source>
+<year>1975</year>
+<volume>10</volume>
+<fpage>335</fpage>
+<lpage>339</lpage>
+<pub-id pub-id-type="doi">10.1016/0025-5408(75)90002-1</pub-id>
+</element-citation></ref><ref id="B9-materials-08-05389"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saito</surname><given-names>Y.</given-names></name><name><surname>Takao</surname><given-names>H.</given-names></name><name><surname>Tani</surname><given-names>T.</given-names></name><name><surname>Nonoyama</surname><given-names>T.</given-names></name><name><surname>Takatori</surname><given-names>K.</given-names></name><name><surname>Homma</surname><given-names>T.</given-names></name><name><surname>Nagaya</surname><given-names>T.</given-names></name><name><surname>Nakamura</surname><given-names>M.</given-names></name></person-group>
+<article-title>Lead-free piezoceramics</article-title>
+<source>Nature</source>
+<year>2004</year>
+<volume>432</volume>
+<fpage>84</fpage>
+<lpage>87</lpage>
+<pub-id pub-id-type="doi">10.1038/nature03028</pub-id>
+<pub-id pub-id-type="pmid">15516921</pub-id></element-citation></ref><ref id="B10-materials-08-05389"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>Y.</given-names></name><name><surname>Kakimoto</surname><given-names>K.</given-names></name><name><surname>Ohsato</surname><given-names>H.</given-names></name></person-group>
+<article-title>Phase transitional behavior and piezoelectric properties of (Na<sub>0.5</sub>K<sub>0.5</sub>)NbO<sub>3</sub>&#x02013;LiNbO<sub>3</sub> ceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2004</year>
+<volume>85</volume>
+<fpage>4121</fpage>
+<lpage>4123</lpage>
+<pub-id pub-id-type="doi">10.1063/1.1813636</pub-id>
+</element-citation></ref><ref id="B11-materials-08-05389"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guo</surname><given-names>Y.</given-names></name><name><surname>Kakimoto</surname><given-names>K.</given-names></name><name><surname>Ohsato</surname><given-names>H.</given-names></name></person-group>
+<article-title>Dielectric and piezoelectric properties of lead-free (Na<sub>0.5</sub>K<sub>0.5</sub>)NbO<sub>3</sub>&#x02013;SrTiO<sub>3</sub> ceramics</article-title>
+<source>Solid State Commun.</source>
+<year>2004</year>
+<volume>129</volume>
+<fpage>279</fpage>
+<lpage>284</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ssc.2003.10.026</pub-id>
+</element-citation></ref><ref id="B12-materials-08-05389"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hollenstein</surname><given-names>E.</given-names></name><name><surname>Davis</surname><given-names>M.</given-names></name><name><surname>Damjanovic</surname><given-names>D.</given-names></name><name><surname>Setter</surname><given-names>N.</given-names></name></person-group>
+<article-title>Piezoelectric properties of Li- and Ta-modified (K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> ceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2005</year>
+<volume>87</volume>
+<fpage>1829051</fpage>
+<lpage>1829053</lpage>
+<pub-id pub-id-type="doi">10.1063/1.2123387</pub-id>
+</element-citation></ref><ref id="B13-materials-08-05389"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>R.</given-names></name><name><surname>Xie</surname><given-names>R.J.</given-names></name><name><surname>Hanada</surname><given-names>K.</given-names></name><name><surname>Matsusaki</surname><given-names>K.</given-names></name><name><surname>Bando</surname><given-names>H.</given-names></name><name><surname>Itoh</surname><given-names>M.</given-names></name></person-group>
+<article-title>Phase diagram and enhanced piezoelectricity in the strontium titanate doped potassium-sodium niobate solid solution</article-title>
+<source>Phys. Status Solidi A</source>
+<year>2005</year>
+<volume>202</volume>
+<fpage>R57</fpage>
+<lpage>R59</lpage>
+<pub-id pub-id-type="doi">10.1002/pssa.200510014</pub-id>
+</element-citation></ref><ref id="B14-materials-08-05389"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malic</surname><given-names>B.</given-names></name><name><surname>Bernard</surname><given-names>J.</given-names></name><name><surname>Hole</surname><given-names>J.</given-names></name><name><surname>Jenko</surname><given-names>D.</given-names></name><name><surname>Kosec</surname><given-names>M.</given-names></name></person-group>
+<article-title>Alkaline-earth doping in (K,Na)NbO<sub>3</sub> based piezoceramics</article-title>
+<source>J. Eur. Ceram. Soc.</source>
+<year>2005</year>
+<volume>25</volume>
+<fpage>2707</fpage>
+<lpage>2711</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jeurceramsoc.2005.03.127</pub-id>
+</element-citation></ref><ref id="B15-materials-08-05389"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.F.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Zhang</surname><given-names>B.P.</given-names></name><name><surname>Zhang</surname><given-names>L.M.</given-names></name></person-group>
+<article-title>Ferroelectric and piezoelectric properties of fine-grained Na<sub>0.5</sub>K<sub>0.5</sub>NbO<sub>3</sub> lead-free piezoelectric ceramics prepared by spark plasma sintering</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2006</year>
+<volume>89</volume>
+<fpage>706</fpage>
+<lpage>709</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1551-2916.2005.00743.x</pub-id>
+</element-citation></ref><ref id="B16-materials-08-05389"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zang</surname><given-names>G.Z.</given-names></name><name><surname>Wang</surname><given-names>J.F.</given-names></name><name><surname>Chen</surname><given-names>H.C.</given-names></name><name><surname>Su</surname><given-names>W.B.</given-names></name><name><surname>Wang</surname><given-names>C.M.</given-names></name><name><surname>Qi</surname><given-names>P.</given-names></name><name><surname>Ming</surname><given-names>B.Q.</given-names></name><name><surname>Du</surname><given-names>J.</given-names></name><name><surname>Zheng</surname><given-names>L.M.</given-names></name><name><surname>Zhang</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Perovskite (Na<sub>0.5</sub>K<sub>0.5</sub>)<sub>1&#x02212;x</sub>(LiSb)<sub>x</sub>Nb<sub>1&#x02212;x</sub>O<sub>3</sub> lead-free piezoceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2006</year>
+<volume>88</volume>
+<fpage>2129081</fpage>
+<lpage>2129083</lpage>
+</element-citation></ref><ref id="B17-materials-08-05389"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Li</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>Analysis of crystallographic evolution in (Na,K)NbO<sub>3</sub>-based lead-free piezoceramics by X-ray diffraction</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2007</year>
+<volume>91</volume>
+<fpage>262902:1</fpage>
+<lpage>262902:3</lpage>
+</element-citation></ref><ref id="B18-materials-08-05389"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Z.P.</given-names></name><name><surname>Chang</surname><given-names>Y.F.</given-names></name><name><surname>Wei</surname><given-names>L.L.</given-names></name></person-group>
+<article-title>Phase transitional behavior and electrical properties of lead-free (K<sub>0.44</sub>Na<sub>0.52</sub>Li<sub>0.04</sub>)(Nb<sub>0.96&#x02212;x</sub>Ta<sub>x</sub>Sb<sub>0.04</sub>)O<sub>3</sub> piezoelectric ceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2007</year>
+<volume>90</volume>
+<fpage>429111</fpage>
+<lpage>429113</lpage>
+</element-citation></ref><ref id="B19-materials-08-05389"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>J.G.</given-names></name><name><surname>Wang</surname><given-names>Y.Y.</given-names></name><name><surname>Xiao</surname><given-names>D.Q.</given-names></name><name><surname>Zhu</surname><given-names>J.G.</given-names></name><name><surname>Pu</surname><given-names>Z.H.</given-names></name></person-group>
+<article-title>Effects of Ag content on the phase structure and piezoelectric properties of (K<sub>0.44&#x02212;x</sub>Na<sub>0.52</sub>Li<sub>0.04</sub>Ag<sub>x</sub>)(Nb<sub>0.91</sub>Ta<sub>0.05</sub>Sb<sub>0</sub>.<sub>04</sub>)O<sub>3</sub> lead-free ceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2007</year>
+<volume>91</volume>
+<fpage>1329141</fpage>
+<lpage>1329143</lpage>
+<pub-id pub-id-type="doi">10.1063/1.2793507</pub-id>
+</element-citation></ref><ref id="B20-materials-08-05389"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zuo</surname><given-names>R.Z.</given-names></name><name><surname>Fang</surname><given-names>X.S.</given-names></name><name><surname>Ye</surname><given-names>C.</given-names></name></person-group>
+<article-title>Phase structures and electrical properties of new lead-free (Na<sub>0.5</sub>K<sub>0.5</sub>)NbO<sub>3</sub>&#x02013;(Bi<sub>0.5</sub>Na<sub>0.5</sub>)TiO<sub>3</sub> ceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2007</year>
+<volume>90</volume>
+<fpage>929041</fpage>
+<lpage>929043</lpage>
+<pub-id pub-id-type="doi">10.1063/1.2710768</pub-id>
+</element-citation></ref><ref id="B21-materials-08-05389"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nagata</surname><given-names>H.</given-names></name><name><surname>Matsumoto</surname><given-names>K.</given-names></name><name><surname>Hirosue</surname><given-names>T.</given-names></name><name><surname>Hiruma</surname><given-names>Y.</given-names></name><name><surname>Takenaka</surname><given-names>T.</given-names></name></person-group>
+<article-title>Fabrication and Electrical Properties of Potassium Niobate Ferroelectric Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2007</year>
+<volume>46</volume>
+<fpage>7084</fpage>
+<lpage>7088</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.46.7084</pub-id>
+</element-citation></ref><ref id="B22-materials-08-05389"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takenaka</surname><given-names>T.</given-names></name><name><surname>Nagata</surname><given-names>H.</given-names></name><name><surname>Hiruma</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Current Developments and Prospective of Lead-Free Piezoelectric Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2008</year>
+<volume>47</volume>
+<fpage>3787</fpage>
+<lpage>3801</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.47.3787</pub-id>
+</element-citation></ref><ref id="B23-materials-08-05389"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yoshida</surname><given-names>T.</given-names></name><name><surname>Hiruma</surname><given-names>Y.</given-names></name><name><surname>Aoyagi</surname><given-names>R.</given-names></name><name><surname>Nagata</surname><given-names>H.</given-names></name><name><surname>Takenaka</surname><given-names>T.</given-names></name></person-group>
+<article-title>Processing and Electrical Properties of KNbO<sub>3</sub> Ferroelectric Dense Ceramics Added with Small Amount of Bi<sub>2</sub>O<sub>3</sub> and MnCO<sub>3</sub></article-title>
+<source>Key Eng. Mater.</source>
+<year>2005</year>
+<volume>301</volume>
+<fpage>19</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.4028/www.scientific.net/KEM.301.19</pub-id>
+</element-citation></ref><ref id="B24-materials-08-05389"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matsumoto</surname><given-names>K.</given-names></name><name><surname>Hiruma</surname><given-names>Y.</given-names></name><name><surname>Nagata</surname><given-names>H.</given-names></name><name><surname>Takenaka</surname><given-names>T.</given-names></name></person-group>
+<article-title>Piezoelectric Properties of Pure and Mn-doped Potassium Niobate Ferroelectric Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2006</year>
+<volume>45</volume>
+<fpage>4479</fpage>
+<lpage>4483</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.45.4479</pub-id>
+</element-citation></ref><ref id="B25-materials-08-05389"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>E.</given-names></name><name><surname>Kakemoto</surname><given-names>H.</given-names></name><name><surname>Wada</surname><given-names>S.</given-names></name><name><surname>Tsurumi</surname><given-names>T.</given-names></name></person-group>
+<article-title>Influence of CuO on the Structure and Piezoelectric Properties of the Alkaline Niobate-Based Lead-Free Ceramics</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2007</year>
+<volume>90</volume>
+<fpage>1787</fpage>
+<lpage>1791</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1551-2916.2006.01465.x</pub-id>
+</element-citation></ref><ref id="B26-materials-08-05389"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rubio-Marcos</surname><given-names>F.</given-names></name><name><surname>Ochoa</surname><given-names>P.</given-names></name><name><surname>Fern&#x000e1;ndez</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>Sintering and properties of lead-free piezoceramics</article-title>
+<source>J. Eur. Ceram. Soc.</source>
+<year>2007</year>
+<volume>27</volume>
+<fpage>4125</fpage>
+<lpage>4129</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jeurceramsoc.2007.02.110</pub-id>
+</element-citation></ref><ref id="B27-materials-08-05389"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>S.</given-names></name><name><surname>Xia</surname><given-names>R.</given-names></name><name><surname>Shrout</surname><given-names>T.R.</given-names></name></person-group>
+<article-title>Modified (K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub> based lead-free piezoelectrics with broad temperature usage range</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2008</year>
+<volume>91</volume>
+<fpage>132913:1</fpage>
+<lpage>132913:3</lpage>
+</element-citation></ref><ref id="B28-materials-08-05389"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>H.Y.</given-names></name><name><surname>Cho</surname><given-names>K.H.</given-names></name><name><surname>Paik</surname><given-names>D.S.</given-names></name><name><surname>Nahm</surname><given-names>S.</given-names></name><name><surname>Lee</surname><given-names>H.G.</given-names></name><name><surname>Kim</surname><given-names>D.H.</given-names></name></person-group>
+<article-title>Microstructure and piezoelectric properties of lead-free (1&#x02212;x)(Na<sub>0.5</sub>K<sub>0.5</sub>)NbO<sub>3</sub>-xCaTiO<sub>3</sub> ceramics</article-title>
+<source>J. Appl. Phys.</source>
+<year>2007</year>
+<volume>102</volume>
+<fpage>1241011</fpage>
+<lpage>1241015</lpage>
+<pub-id pub-id-type="doi">10.1063/1.2822334</pub-id>
+</element-citation></ref><ref id="B29-materials-08-05389"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>S.</given-names></name><name><surname>Xia</surname><given-names>R.</given-names></name><name><surname>Hao</surname><given-names>H.</given-names></name><name><surname>Liu</surname><given-names>H.</given-names></name><name><surname>Shrout</surname><given-names>T.R.</given-names></name></person-group>
+<article-title>Mitigation of thermal and fatigue behavior in K<sub>0.5</sub>Na<sub>0.5</sub>NbO<sub>3</sub>-based lead free piezoceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2008</year>
+<volume>92</volume>
+<fpage>152904:1</fpage>
+<lpage>152904:3</lpage>
+<pub-id pub-id-type="pmid">19479047</pub-id></element-citation></ref><ref id="B30-materials-08-05389"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chao</surname><given-names>L.</given-names></name><name><surname>Ye</surname><given-names>Z.G.</given-names></name></person-group>
+<article-title>Lead-free piezoelectric ceramics derived from the K<sub>0.5</sub>Na<sub>0.5</sub>NbO<sub>3</sub>-AgNbO<sub>3</sub> solid solution system</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2008</year>
+<volume>93</volume>
+<fpage>429011</fpage>
+<lpage>429013</lpage>
+</element-citation></ref><ref id="B31-materials-08-05389"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Du</surname><given-names>D.H.</given-names></name><name><surname>Zhou</surname><given-names>W.</given-names></name><name><surname>Zhu</surname><given-names>D.</given-names></name><name><surname>Fa</surname><given-names>L.</given-names></name><name><surname>Qu</surname><given-names>S.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Pei</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Sintering characteristic, microstructure, and dielectric relaxor behavior of (K<sub>0.5</sub>Na<sub>0.5</sub>)NbO<sub>3</sub>&#x02013;(Bi<sub>0.5</sub>Na<sub>0.5</sub>)TiO<sub>3</sub> lead-free ceramics</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2008</year>
+<volume>91</volume>
+<fpage>2903</fpage>
+<lpage>2909</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1551-2916.2008.02528.x</pub-id>
+</element-citation></ref><ref id="B32-materials-08-05389"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>R.P.</given-names></name><name><surname>Bando</surname><given-names>H.</given-names></name><name><surname>Itoh</surname><given-names>M.</given-names></name></person-group>
+<article-title>Universality in phase diagram of (K,Na)NbO<sub>3</sub>&#x02013;MTiO<sub>3</sub> solid solutions</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2009</year>
+<volume>95</volume>
+<fpage>909051</fpage>
+<lpage>909053</lpage>
+</element-citation></ref><ref id="B33-materials-08-05389"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rubio-Marcos</surname><given-names>F.</given-names></name><name><surname>del Campo</surname><given-names>A.</given-names></name><name><surname>L&#x000f3;pez-Ju&#x000e1;rez</surname><given-names>R.</given-names></name><name><surname>Romero</surname><given-names>J.J.</given-names></name><name><surname>Fern&#x000e1;ndez</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>High spatial resolution structure of (K,Na)NbO<sub>3</sub> lead-free ferroelectric domains</article-title>
+<source>J. Mater. Chem.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>9714</fpage>
+<lpage>9720</lpage>
+<pub-id pub-id-type="doi">10.1039/c2jm30483j</pub-id>
+</element-citation></ref><ref id="B34-materials-08-05389"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smolensky</surname><given-names>G.A.</given-names></name><name><surname>Isupov</surname><given-names>V.A.</given-names></name><name><surname>Agranovskaya</surname><given-names>A.I.</given-names></name><name><surname>Krainik</surname><given-names>N.N.</given-names></name></person-group>
+<article-title>New ferroelectrics of complex composition</article-title>
+<source>Sov. Phys. Solid State</source>
+<year>1961</year>
+<volume>2</volume>
+<fpage>2651</fpage>
+<lpage>2654</lpage>
+</element-citation></ref><ref id="B35-materials-08-05389"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takenaka</surname><given-names>T.</given-names></name><name><surname>Sakata</surname><given-names>K.</given-names></name></person-group>
+<article-title>New piezo- and pyroelectric sensor materials of (BiNa)<sub>1/2</sub>TiO<sub>3</sub>-based ceramics</article-title>
+<source>Sens. Mater.</source>
+<year>1988</year>
+<volume>1</volume>
+<fpage>123</fpage>
+<lpage>131</lpage>
+</element-citation></ref><ref id="B36-materials-08-05389"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nagata</surname><given-names>H.</given-names></name><name><surname>Yoshida</surname><given-names>M.</given-names></name><name><surname>Makiuchi</surname><given-names>Y.</given-names></name><name><surname>Takenaka</surname><given-names>T.</given-names></name></person-group>
+<article-title>Large piezoelectric Constant and High Curie Temperature of Lead-Free Piezoelectric Ceramic Ternary System Based on bismuth Sodium Titanate-Bismuth Potassium Titanate-Barium Titanate near the Morphotropic Phase Boundary</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2003</year>
+<volume>42</volume>
+<fpage>7401</fpage>
+<lpage>7403</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.42.7401</pub-id>
+</element-citation></ref><ref id="B37-materials-08-05389"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Buhrer</surname><given-names>C.F.</given-names></name></person-group>
+<article-title>Some properties of bismuth perovskites</article-title>
+<source>J. Chem. Phys.</source>
+<year>1962</year>
+<volume>36</volume>
+<fpage>798</fpage>
+<lpage>803</lpage>
+<pub-id pub-id-type="doi">10.1063/1.1732613</pub-id>
+</element-citation></ref><ref id="B38-materials-08-05389"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hiruma</surname><given-names>Y.</given-names></name><name><surname>Nagata</surname><given-names>H.</given-names></name><name><surname>Takenaka</surname><given-names>T.</given-names></name></person-group>
+<article-title>Dielectric and Piezoelectric Properties of Barium Titanate and Bismuth Potassium Titanate Solid-Solution Ceramics</article-title>
+<source>J. Ceram. Soc. Jpn.</source>
+<year>2004</year>
+<volume>112</volume>
+<fpage>S1125</fpage>
+<lpage>S1128</lpage>
+</element-citation></ref><ref id="B39-materials-08-05389"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Neurgaonkar</surname><given-names>R.R.</given-names></name><name><surname>Hall</surname><given-names>W.F.</given-names></name><name><surname>Oliver</surname><given-names>J.R.</given-names></name><name><surname>Ho</surname><given-names>W.W.</given-names></name><name><surname>Copy</surname><given-names>W.K.</given-names></name></person-group>
+<article-title>Tungsten bronze Sr<sub>1-x</sub> Ba<sub>x</sub> Nb<sub>2</sub>O<sub>6</sub>: A case history of versatility</article-title>
+<source>Ferroelectrics</source>
+<year>1988</year>
+<volume>87</volume>
+<fpage>167</fpage>
+<lpage>179</lpage>
+<pub-id pub-id-type="doi">10.1080/00150198808201379</pub-id>
+</element-citation></ref><ref id="B40-materials-08-05389"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Subbarao</surname><given-names>E.C.</given-names></name></person-group>
+<article-title>Ferroelectricity in Mixed Bismuth Oxides with Layer-Type Structure</article-title>
+<source>J. Chem. Phys.</source>
+<year>1961</year>
+<volume>34</volume>
+<fpage>695</fpage>
+<lpage>696</lpage>
+<pub-id pub-id-type="doi">10.1063/1.1701024</pub-id>
+</element-citation></ref><ref id="B41-materials-08-05389"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Subbarao</surname><given-names>E.C.</given-names></name></person-group>
+<article-title>A family of ferroelectric bismuth compounds</article-title>
+<source>J. Phys. Chem. Solids</source>
+<year>1962</year>
+<volume>23</volume>
+<fpage>665</fpage>
+<lpage>676</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-3697(62)90526-7</pub-id>
+</element-citation></ref><ref id="B42-materials-08-05389"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Subbarao</surname><given-names>E.C.</given-names></name></person-group>
+<article-title>Crystal Chemistry of Mixed Bismuth Oxides with Layer-Type Structure</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>1962</year>
+<volume>44</volume>
+<fpage>166</fpage>
+<lpage>169</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1151-2916.1962.tb11113.x</pub-id>
+</element-citation></ref><ref id="B43-materials-08-05389"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takenaka</surname><given-names>T.</given-names></name><name><surname>Sakata</surname><given-names>K.</given-names></name></person-group>
+<article-title>Grain Orientation and Electrical Properties of Hot-Forged Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub> Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>1980</year>
+<volume>19</volume>
+<fpage>31</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.19.31</pub-id>
+</element-citation></ref><ref id="B44-materials-08-05389"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ando</surname><given-names>A.</given-names></name><name><surname>Kittaka</surname><given-names>T.</given-names></name><name><surname>Okada</surname><given-names>T.</given-names></name><name><surname>Sakabe</surname><given-names>Y.</given-names></name><name><surname>Wakino</surname><given-names>K.</given-names></name></person-group>
+<article-title>Energy trapping characteristics of the second harmonic thickness extensional vibration in a two-layered monolithic piezoelectric plate</article-title>
+<source>Ferroelectrics</source>
+<year>1990</year>
+<volume>112</volume>
+<fpage>141</fpage>
+<lpage>153</lpage>
+<pub-id pub-id-type="doi">10.1080/00150199008012790</pub-id>
+</element-citation></ref><ref id="B45-materials-08-05389"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dur&#x000e1;n-Mart&#x000ed;n</surname><given-names>P.</given-names></name><name><surname>Castro</surname><given-names>A.</given-names></name><name><surname>Mill&#x000e1;n</surname><given-names>P.</given-names></name><name><surname>Jim&#x000e9;nez</surname><given-names>B.</given-names></name></person-group>
+<article-title>Influence of Bi-site Substitution on the Ferroelectricity of the Aurivillius Compound Bi<sub>2</sub>SrNb<sub>2</sub>O<sub>9</sub></article-title>
+<source>J. Mater. Res.</source>
+<year>1998</year>
+<volume>13</volume>
+<fpage>2565</fpage>
+<lpage>2571</lpage>
+<pub-id pub-id-type="doi">10.1557/JMR.1998.0358</pub-id>
+</element-citation></ref><ref id="B46-materials-08-05389"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>J.</given-names></name><name><surname>Kawano</surname><given-names>S.</given-names></name><name><surname>Shimada</surname><given-names>S.</given-names></name><name><surname>Kageyama</surname><given-names>K.</given-names></name></person-group>
+<article-title>Fabrication and Electrical Properties of Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub> Ceramics by Spark Plasma Sintering</article-title>
+<year>1999</year>
+<volume>38</volume>
+<fpage>5493</fpage>
+<lpage>5496</lpage>
+</element-citation></ref><ref id="B47-materials-08-05389"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kimura</surname><given-names>M.</given-names></name><name><surname>Sawada</surname><given-names>T.</given-names></name><name><surname>Ando</surname><given-names>A.</given-names></name><name><surname>Sakabe</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Energy Trapping Characteristics of Bismuth Layer Structured Compound CaBi<sub>4</sub>Ti<sub>4</sub>O<sub>15</sub></article-title>
+<year>1999</year>
+<volume>38</volume>
+<fpage>5557</fpage>
+<lpage>5560</lpage>
+</element-citation></ref><ref id="B48-materials-08-05389"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Forbess</surname><given-names>M.J.</given-names></name><name><surname>Seraji</surname><given-names>S.</given-names></name><name><surname>Wu</surname><given-names>Y.</given-names></name><name><surname>Nguyen</surname><given-names>C.P.</given-names></name><name><surname>Cao</surname><given-names>G.Z.</given-names></name></person-group>
+<article-title>Dielectric properties of layered perovskite Sr<sub>1&#x02212;x</sub>A<sub>x</sub>Bi<sub>2</sub>Nb<sub>2</sub>O<sub>9</sub> ferroelectrics (A = La, Ca and x = 0, 0.1)</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2000</year>
+<volume>76</volume>
+<fpage>2934</fpage>
+<lpage>2936</lpage>
+<pub-id pub-id-type="doi">10.1063/1.126521</pub-id>
+</element-citation></ref><ref id="B49-materials-08-05389"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ando</surname><given-names>A.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name><name><surname>Sawada</surname><given-names>T.</given-names></name><name><surname>Hayashi</surname><given-names>K.</given-names></name><name><surname>Sakabe</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Piezoelectric and ferroelectric properties of the modified SrBi<sub>2</sub>Nb<sub>2</sub>O<sub>9</sub> ceramics</article-title>
+<source>Ferroelectrics</source>
+<year>2002</year>
+<volume>268</volume>
+<fpage>65</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.1080/713715961</pub-id>
+</element-citation></ref><ref id="B50-materials-08-05389"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sawada</surname><given-names>T.</given-names></name><name><surname>Ando</surname><given-names>A.</given-names></name><name><surname>Sakabe</surname><given-names>Y.</given-names></name><name><surname>Damjanovic</surname><given-names>D.</given-names></name><name><surname>Setter</surname><given-names>N.</given-names></name></person-group>
+<article-title>Properties of the Elastic Anomaly in SrBi<sub>2</sub>Nb<sub>2</sub>O<sub>9</sub>-based Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2003</year>
+<volume>42</volume>
+<fpage>6094</fpage>
+<lpage>6098</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.42.6094</pub-id>
+</element-citation></ref><ref id="B51-materials-08-05389"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawada</surname><given-names>S.</given-names></name><name><surname>Ogawa</surname><given-names>H.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name><name><surname>Shiratsuyu</surname><given-names>K.</given-names></name><name><surname>Niimi</surname><given-names>H.</given-names></name></person-group>
+<article-title>High-Power Piezoelectric Vibration Characteristics of Textured SrBi<sub>2</sub>Nb<sub>2</sub>O<sub>9</sub> Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2006</year>
+<volume>45</volume>
+<fpage>7455</fpage>
+<lpage>7459</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.45.7455</pub-id>
+</element-citation></ref><ref id="B52-materials-08-05389"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawada</surname><given-names>S.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name><name><surname>Higuchi</surname><given-names>Y.</given-names></name><name><surname>Takagi</surname><given-names>H.</given-names></name></person-group>
+<article-title>(K,Na)NbO<sub>3</sub>-Based Multilayer Piezoelectric Ceramics with Nickel Inner Electrodes</article-title>
+<source>Appl. Phys. Express</source>
+<year>2009</year>
+<volume>2</volume>
+<fpage>1114011</fpage>
+<lpage>1114013</lpage>
+<pub-id pub-id-type="doi">10.1143/APEX.2.111401</pub-id>
+</element-citation></ref><ref id="B53-materials-08-05389"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hayashi</surname><given-names>H.</given-names></name><name><surname>Kawada</surname><given-names>S.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name><name><surname>Nakai</surname><given-names>Y.</given-names></name><name><surname>Tabata</surname><given-names>T.</given-names></name><name><surname>Shiratsuyu</surname><given-names>K.</given-names></name><name><surname>Nada</surname><given-names>K.</given-names></name><name><surname>Takagi</surname><given-names>H.</given-names></name></person-group>
+<article-title>Reliability of Nickel Inner Electrode Lead-Free Multilayer Piezoelectric Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2012</year>
+<volume>51</volume>
+<fpage>11</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.51.09LD01</pub-id>
+</element-citation></ref><ref id="B54-materials-08-05389"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishii</surname><given-names>H.</given-names></name><name><surname>Kawada</surname><given-names>S.</given-names></name><name><surname>Suzuki</surname><given-names>S.</given-names></name><name><surname>Honda</surname><given-names>A.</given-names></name><name><surname>Higai</surname><given-names>S.</given-names></name><name><surname>Hayashi</surname><given-names>H.</given-names></name><name><surname>Okuzawa</surname><given-names>T.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name><name><surname>Omiya</surname><given-names>S.</given-names></name><name><surname>Kubodera</surname><given-names>N.</given-names></name></person-group>
+<article-title>Piezoelectric Properties of Sn-Doped (K,Na)NbO<sub>3</sub> Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2013</year>
+<volume>52</volume>
+<fpage>61</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="doi">10.7567/JJAP.52.09KD06</pub-id>
+</element-citation></ref><ref id="B55-materials-08-05389"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rubio-Marcos</surname><given-names>F.</given-names></name><name><surname>Romero</surname><given-names>J.J.</given-names></name><name><surname>Fern&#x000e1;ndez</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>Effect of the temperature on the synthesis of (K,Na)NbO<sub>3</sub>-modified nanoparticles by a solid state reaction route</article-title>
+<source>J. Nanopart. Res.</source>
+<year>2010</year>
+<volume>12</volume>
+<fpage>2495</fpage>
+<lpage>2502</lpage>
+<pub-id pub-id-type="doi">10.1007/s11051-009-9817-5</pub-id>
+</element-citation></ref><ref id="B56-materials-08-05389"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woodward</surname><given-names>I.D.</given-names></name><name><surname>Reaney</surname><given-names>M.I.</given-names></name><name><surname>Yang</surname><given-names>Y.G.</given-names></name><name><surname>Dickey</surname><given-names>C.E.</given-names></name><name><surname>Randall</surname><given-names>A.C.</given-names></name></person-group>
+<article-title>Vacancy ordering in reduced barium titanate</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2004</year>
+<volume>84</volume>
+<fpage>4650</fpage>
+<lpage>4652</lpage>
+<pub-id pub-id-type="doi">10.1063/1.1759390</pub-id>
+</element-citation></ref><ref id="B57-materials-08-05389"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Y.G.</given-names></name><name><surname>Dickey</surname><given-names>C.E.</given-names></name><name><surname>Randall</surname><given-names>C.C.</given-names></name><name><surname>Barber</surname><given-names>E.D.</given-names></name><name><surname>Pinceloup</surname><given-names>P.</given-names></name><name><surname>Henderson</surname><given-names>A.M.</given-names></name><name><surname>Hill</surname><given-names>A.R.</given-names></name><name><surname>Beeson</surname><given-names>J.J.</given-names></name><name><surname>Skamser</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>Oxygen nonstoichiometry and dielectric evolution of BaTiO<sub>3</sub>. Part I&#x02014;Improvement of insulation resistance with reoxidation</article-title>
+<source>J. Appl. Phys.</source>
+<year>2004</year>
+<volume>96</volume>
+<fpage>7492</fpage>
+<lpage>7499</lpage>
+<pub-id pub-id-type="doi">10.1063/1.1809267</pub-id>
+</element-citation></ref><ref id="B58-materials-08-05389"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Y.G.</given-names></name><name><surname>Dickey</surname><given-names>C.E.</given-names></name><name><surname>Randall</surname><given-names>A.C.</given-names></name><name><surname>Barber</surname><given-names>E.D.</given-names></name><name><surname>Pinceloup</surname><given-names>P.</given-names></name><name><surname>Henderson</surname><given-names>A.M.</given-names></name><name><surname>Hill</surname><given-names>A.R.</given-names></name><name><surname>Beeson</surname><given-names>J.J.</given-names></name><name><surname>Skamser</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>Oxygen nonstoichiometry and dielectric evolution of BaTiO<sub>3</sub>. Part II&#x02014;Insulation resistance degradation under applied dc bias</article-title>
+<source>J. Appl. Phys.</source>
+<year>2004</year>
+<volume>96</volume>
+<fpage>7500</fpage>
+<lpage>7508</lpage>
+<pub-id pub-id-type="doi">10.1063/1.1809268</pub-id>
+</element-citation></ref><ref id="B59-materials-08-05389"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rubio-Marcos</surname><given-names>F.</given-names></name><name><surname>L&#x000f3;pez-Ju&#x000e1;rez</surname><given-names>R.</given-names></name><name><surname>Rojas-Hernandez</surname><given-names>E.E.</given-names></name><name><surname>del Campo</surname><given-names>A.</given-names></name><name><surname>Razo-P&#x000e9;rez</surname><given-names>N.</given-names></name><name><surname>Fernandez</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>Lead-Free Piezoceramics: Revealing the Role of the Rhombohedral-Tetragonal Phase Coexistence in Enhancement of the Piezoelectric Properties</article-title>
+<source>ACS Appl. Mater. Interfaces</source>
+<year>2015</year>
+<volume>7</volume>
+<fpage>23080</fpage>
+<lpage>23088</lpage>
+<pub-id pub-id-type="doi">10.1021/acsami.5b06747</pub-id>
+<pub-id pub-id-type="pmid">26436199</pub-id></element-citation></ref><ref id="B60-materials-08-05389"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bortolani</surname><given-names>F.</given-names></name><name><surname>del Campo</surname><given-names>A.</given-names></name><name><surname>Fernandez</surname><given-names>J.F.</given-names></name><name><surname>Clemens</surname><given-names>F.</given-names></name><name><surname>Rubio-Marcos</surname><given-names>F.</given-names></name></person-group>
+<article-title>High Strain in (K,Na)NbO<sub>3</sub>-Based Lead-Free Piezoelectric Fibers</article-title>
+<source>Chem. Mater.</source>
+<year>2014</year>
+<volume>26</volume>
+<fpage>3838</fpage>
+<lpage>3848</lpage>
+<pub-id pub-id-type="doi">10.1021/cm501538x</pub-id>
+</element-citation></ref><ref id="B61-materials-08-05389"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Birol</surname><given-names>H.</given-names></name><name><surname>Damjanovic</surname><given-names>D.</given-names></name><name><surname>Setter</surname><given-names>N.</given-names></name></person-group>
+<article-title>Preparation and Characterization of KNbO<sub>3</sub> Ceramics</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2015</year>
+<volume>88</volume>
+<fpage>1754</fpage>
+<lpage>1759</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1551-2916.2005.00347.x</pub-id>
+</element-citation></ref><ref id="B62-materials-08-05389"><label>62.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Furukawa</surname><given-names>M.</given-names></name><name><surname>Tanaka</surname><given-names>D.</given-names></name><name><surname>Tsukada</surname><given-names>T.</given-names></name></person-group>
+<article-title>The 6th Asian Meeting on Electroceramics</article-title>
+<source>Proceedings of the 28th Electronics Division Meeting of CSJ</source>
+<conf-loc>Tsukuba, Japan</conf-loc>
+<conf-date>22&#x02013;24 October 2008</conf-date>
+</element-citation></ref><ref id="B63-materials-08-05389"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tanaka</surname><given-names>D.</given-names></name><name><surname>Tsukada</surname><given-names>T.</given-names></name><name><surname>Furukawa</surname><given-names>M.</given-names></name><name><surname>Wada</surname><given-names>S.</given-names></name><name><surname>Kuroiwa</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Thermal Reliability of Alkaline Niobate-Based Lead-Free Piezoelectric Ceramics</article-title>
+<source>J. Appl. Phys.</source>
+<year>2009</year>
+<volume>48</volume>
+<fpage>81</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.48.09KD08</pub-id>
+</element-citation></ref><ref id="B64-materials-08-05389"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suzuki</surname><given-names>S.</given-names></name><name><surname>Takeda</surname><given-names>T.</given-names></name><name><surname>Ando</surname><given-names>A.</given-names></name><name><surname>Takagi</surname><given-names>H.</given-names></name></person-group>
+<article-title>Ferroelectric phase transition in Sn<sup>2+</sup> ions doped (Ba,Ca)TiO<sub>3</sub> ceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2010</year>
+<volume>96</volume>
+<fpage>1329031</fpage>
+<lpage>1329033</lpage>
+<pub-id pub-id-type="doi">10.1063/1.3367733</pub-id>
+</element-citation></ref><ref id="B65-materials-08-05389"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suzuki</surname><given-names>S.</given-names></name><name><surname>Takeda</surname><given-names>T.</given-names></name><name><surname>Ando</surname><given-names>A.</given-names></name><name><surname>Oyama</surname><given-names>T.</given-names></name><name><surname>Wada</surname><given-names>N.</given-names></name><name><surname>Niimi</surname><given-names>H.</given-names></name><name><surname>Takagi</surname><given-names>H.</given-names></name></person-group>
+<article-title>Effect of Sn<sup>2+</sup> Ion Substitution on Dielectric Properties of (Ba,Ca)TiO<sub>3</sub> Ferroelectric Ceramics</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2010</year>
+<volume>49</volume>
+<fpage>41</fpage>
+<lpage>45</lpage>
+<pub-id pub-id-type="doi">10.1143/JJAP.49.09MC04</pub-id>
+</element-citation></ref><ref id="B66-materials-08-05389"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suzuki</surname><given-names>S.</given-names></name><name><surname>Honda</surname><given-names>A.</given-names></name><name><surname>Higai</surname><given-names>S.</given-names></name><name><surname>Ando</surname><given-names>A.</given-names></name><name><surname>Wada</surname><given-names>N.</given-names></name><name><surname>Takagi</surname><given-names>H.</given-names></name></person-group>
+<article-title>Effects of Lattice Constant and Sintering Atmosphere on Substitution of Sn<sup>2+</sup> Ions at Ba Site in (Ba,Ca)TiO<sub>3</sub> Perovskites: Experimental and Theoretical Studies</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2011</year>
+<volume>50</volume>
+<fpage>111</fpage>
+<lpage>114</lpage>
+</element-citation></ref><ref id="B67-materials-08-05389"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suzuki</surname><given-names>S.</given-names></name><name><surname>Iwaji</surname><given-names>N.</given-names></name><name><surname>Honda</surname><given-names>A.</given-names></name><name><surname>Higai</surname><given-names>S.</given-names></name><name><surname>Wada</surname><given-names>N.</given-names></name><name><surname>Ando</surname><given-names>A.</given-names></name><name><surname>Takagi</surname><given-names>H.</given-names></name></person-group>
+<article-title>Substitution of Sn Ions in (Ba,Ca)TiO<sub>3</sub> Perovskites</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2012</year>
+<volume>51</volume>
+<fpage>81</fpage>
+<lpage>83</lpage>
+<pub-id pub-id-type="doi">10.7567/JJAP.51.09LC08</pub-id>
+</element-citation></ref><ref id="B68-materials-08-05389"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Hatano</surname><given-names>K.</given-names></name><name><surname>Mizuno</surname><given-names>Y.</given-names></name><name><surname>Randall</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Rayleigh behavior in the lead free piezoelectric Li<sub>x</sub>(Na<sub>0.5</sub>K<sub>0.5</sub>)<sub>1-x</sub>NbO<sub>3</sub> ceramic</article-title>
+<source>Appl. Phys. Express</source>
+<year>2012</year>
+<volume>5</volume>
+<fpage>315011</fpage>
+<lpage>315013</lpage>
+</element-citation></ref><ref id="B69-materials-08-05389"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Doshida</surname><given-names>Y.</given-names></name><name><surname>Mizuno</surname><given-names>Y.</given-names></name><name><surname>Randall</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>A route forwards to narrow the performance gap between PZT and lead-free piezoelectric ceramic with low oxygen partial pressure processed (Na<sub>0.5</sub>K<sub>0.5</sub>)NbO<sub>3</sub></article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2012</year>
+<volume>95</volume>
+<fpage>2828</fpage>
+<lpage>2933</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1551-2916.2012.05266.x</pub-id>
+</element-citation></ref><ref id="B70-materials-08-05389"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Doshida</surname><given-names>Y.</given-names></name><name><surname>Mizuno</surname><given-names>Y.</given-names></name><name><surname>Randall</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Possibility of cofiring a nickel inner electrode in a (Na<sub>0.5</sub>K<sub>0.5</sub>)NbO<sub>3</sub>-LiF piezoelectric actuator</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2013</year>
+<volume>52</volume>
+<fpage>71</fpage>
+<lpage>75</lpage>
+<pub-id pub-id-type="doi">10.7567/JJAP.52.09KD07</pub-id>
+</element-citation></ref><ref id="B71-materials-08-05389"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Shimizu</surname><given-names>H.</given-names></name><name><surname>Doshida</surname><given-names>Y.</given-names></name><name><surname>Mizuno</surname><given-names>Y.</given-names></name><name><surname>Randall</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Defect structure and morphology of alkali niobate (Na<sub>0.5</sub>K<sub>0.5</sub>)NbO<sub>3</sub> powder calcined under low oxygen partial pressure</article-title>
+<source>Appl. Phys. Express</source>
+<year>2013</year>
+<volume>6</volume>
+<fpage>1015021</fpage>
+<lpage>1015024</lpage>
+<pub-id pub-id-type="doi">10.7567/APEX.6.101502</pub-id>
+</element-citation></ref><ref id="B72-materials-08-05389"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>C.</given-names></name><name><surname>Liu</surname><given-names>P.</given-names></name><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Randall</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Base metal Co-fired (Na,K)NbO<sub>3</sub> structures with enhanced piezoelectric performance</article-title>
+<source>J. Electroceram.</source>
+<year>2014</year>
+<volume>32</volume>
+<fpage>301</fpage>
+<lpage>306</lpage>
+<pub-id pub-id-type="doi">10.1007/s10832-014-9899-z</pub-id>
+</element-citation></ref><ref id="B73-materials-08-05389"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shimizu</surname><given-names>H.</given-names></name><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Mizuno</surname><given-names>Y.</given-names></name><name><surname>Randall</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Advantages of Low Partial Pressure of Oxygen Processing of Alkali Niobate: NaNbO<sub>3</sub></article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2014</year>
+<volume>97</volume>
+<fpage>1791</fpage>
+<lpage>1796</lpage>
+<pub-id pub-id-type="doi">10.1111/jace.12815</pub-id>
+</element-citation></ref><ref id="B74-materials-08-05389"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>R.</given-names></name><name><surname>Chu</surname><given-names>X.</given-names></name><name><surname>Huan</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Li</surname><given-names>L.</given-names></name></person-group>
+<article-title>Investigation on co-fired multilayer KNN-based lead-free piezoceramics</article-title>
+<source>Phys. Status Solidi A</source>
+<year>2014</year>
+<volume>211</volume>
+<fpage>2378</fpage>
+<lpage>2383</lpage>
+<pub-id pub-id-type="doi">10.1002/pssa.201431156</pub-id>
+</element-citation></ref><ref id="B75-materials-08-05389"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>R.</given-names></name><name><surname>Chu</surname><given-names>X.</given-names></name><name><surname>Huan</surname><given-names>Y.</given-names></name><name><surname>Zhong</surname><given-names>Z.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Li</surname><given-names>L.</given-names></name></person-group>
+<article-title>Ceramic-electrode inter-diffusion of (K,Na)NbO<sub>3</sub>-based multilayer ceramics with Ag<sub>0.7</sub>Pd<sub>0.3</sub> electrode</article-title>
+<source>J. Eur. Ceram. Soc.</source>
+<year>2015</year>
+<volume>35</volume>
+<fpage>389</fpage>
+<lpage>392</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jeurceramsoc.2014.07.034</pub-id>
+</element-citation></ref><ref id="B76-materials-08-05389"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wong</surname><given-names>M.T.</given-names></name><name><surname>Kwok</surname><given-names>K.W.</given-names></name></person-group>
+<article-title>Low-temperature sintered K<sub>0.5</sub>Na<sub>0.5</sub>NbO<sub>3</sub>-based ceramics for vibratory gyro-sensor applications</article-title>
+<source>Int. J. Appl. Ceram. Tech.</source>
+<year>2014</year>
+<volume>12</volume>
+<fpage>E149</fpage>
+<lpage>E155</lpage>
+<pub-id pub-id-type="doi">10.1111/ijac.12344</pub-id>
+</element-citation></ref><ref id="B77-materials-08-05389"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>R.</given-names></name><name><surname>Chu</surname><given-names>X.</given-names></name><name><surname>Huan</surname><given-names>Y.</given-names></name><name><surname>Sun</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Li</surname><given-names>L.</given-names></name></person-group>
+<article-title>A study on (K,Na) NbO<sub>3</sub> based multilayer piezoelectric ceramics micro speaker</article-title>
+<source>Smart Mater. Struct.</source>
+<year>2014</year>
+<volume>23</volume>
+<fpage>1050181</fpage>
+<lpage>1050186</lpage>
+</element-citation></ref><ref id="B78-materials-08-05389"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>R&#x000f6;del</surname><given-names>J.</given-names></name><name><surname>Webber</surname><given-names>K.G.</given-names></name><name><surname>Dittmer</surname><given-names>R.</given-names></name><name><surname>Jo</surname><given-names>W.</given-names></name><name><surname>Kimura</surname><given-names>M.</given-names></name><name><surname>Damjanovic</surname><given-names>D.</given-names></name></person-group>
+<article-title>Transferring lead-free piezoelectric ceramics into application</article-title>
+<source>J. Eur. Ceram. Soc.</source>
+<year>2015</year>
+<volume>35</volume>
+<fpage>1659</fpage>
+<lpage>1681</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jeurceramsoc.2014.12.013</pub-id>
+</element-citation></ref><ref id="B79-materials-08-05389"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Doshida</surname><given-names>Y.</given-names></name><name><surname>Mizuno</surname><given-names>Y.</given-names></name><name><surname>Randall</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Piezoelectric and dielectric properties of Sn-doped (Na<sub>0.5</sub>K<sub>0.5</sub>)NbO<sub>3</sub> ceramics processed under low oxygen partial pressure atmosphere</article-title>
+<source>Jpn. J. Appl. Phys.</source>
+<year>2013</year>
+<volume>53</volume>
+<fpage>115011</fpage>
+<lpage>115016</lpage>
+</element-citation></ref><ref id="B80-materials-08-05389"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhou</surname><given-names>J.J.</given-names></name><name><surname>Li</surname><given-names>J.F.</given-names></name><name><surname>Zhang</surname><given-names>X.W.</given-names></name></person-group>
+<article-title>Orthorhombic to Tetragonal Phase Transition due to Stress Release in (Li,Ta)-Doped (K,Na)NbO<sub>3</sub> Lead-Free Piezoceramics</article-title>
+<source>J. Eur. Ceram. Soc.</source>
+<year>2012</year>
+<volume>32</volume>
+<fpage>267</fpage>
+<lpage>270</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jeurceramsoc.2011.09.001</pub-id>
+</element-citation></ref><ref id="B81-materials-08-05389"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>C.</given-names></name><name><surname>Liu</surname><given-names>P.</given-names></name><name><surname>Kobayashi</surname><given-names>K.</given-names></name><name><surname>Qu</surname><given-names>W.G.</given-names></name><name><surname>Randall</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Enhancement of Piezoelectric Performance of Lead-Free NKN-Based Ceramics via a High-Performance Flux-NaF-Nb<sub>2</sub>O<sub>5</sub></article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2013</year>
+<volume>96</volume>
+<fpage>3120</fpage>
+<lpage>3126</lpage>
+<pub-id pub-id-type="doi">10.1111/jace.12461</pub-id>
+</element-citation></ref><ref id="B82-materials-08-05389"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Yao</surname><given-names>F.Z.</given-names></name><name><surname>Jo</surname><given-names>W.</given-names></name><name><surname>Gobeljic</surname><given-names>D.</given-names></name><name><surname>Shvartsman</surname><given-names>V.V.</given-names></name><name><surname>Lupascu</surname><given-names>D.C.</given-names></name><name><surname>Li</surname><given-names>J.F.</given-names></name><name><surname>R&#x000f6;del</surname><given-names>J.</given-names></name></person-group>
+<article-title>Temperature-Insensitive (K,Na)NbO<sub>3</sub>-Based Lead-Free Piezoactuator Ceramics</article-title>
+<source>Adv. Funct. Mater.</source>
+<year>2013</year>
+<volume>23</volume>
+<fpage>4079</fpage>
+<lpage>4086</lpage>
+<pub-id pub-id-type="doi">10.1002/adfm.201203754</pub-id>
+</element-citation></ref><ref id="B83-materials-08-05389"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.F.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Zhu</surname><given-names>F.Y.</given-names></name><name><surname>Cheng</surname><given-names>L.Q.</given-names></name><name><surname>Yao</surname><given-names>F.Z.</given-names></name></person-group>
+<article-title>(K,Na)NbO<sub>3</sub>-Based Lead-Free Piezoceramics: Fundamental Aspects, Processing Technologies, and Remaining Challenges</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2013</year>
+<volume>96</volume>
+<fpage>3677</fpage>
+<lpage>3696</lpage>
+<pub-id pub-id-type="doi">10.1111/jace.12715</pub-id>
+</element-citation></ref><ref id="B84-materials-08-05389"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>F.Z.</given-names></name><name><surname>Patterson</surname><given-names>E.A.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Jo</surname><given-names>W.</given-names></name><name><surname>R&#x000f6;del</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>Enhanced bipolar fatigue resistance in CaZrO<sub>3</sub>-modified (K,Na) NbO<sub>3</sub> lead-free piezoceramics</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2014</year>
+<volume>104</volume>
+<fpage>249121</fpage>
+<lpage>249125</lpage>
+<pub-id pub-id-type="doi">10.1063/1.4884826</pub-id>
+</element-citation></ref><ref id="B85-materials-08-05389"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matsuoka</surname><given-names>T.</given-names></name><name><surname>Kozuka</surname><given-names>H.</given-names></name><name><surname>Kitamura</surname><given-names>K.</given-names></name><name><surname>Yamada</surname><given-names>H.</given-names></name><name><surname>Kurahashi</surname><given-names>T.</given-names></name><name><surname>Yamazaki</surname><given-names>M.</given-names></name><name><surname>Ohbayashi</surname><given-names>K.</given-names></name></person-group>
+<article-title>KNN-NTK composite lead-free piezoelectric ceramic</article-title>
+<source>J. Appl. Phys.</source>
+<year>2014</year>
+<volume>116</volume>
+<fpage>1541041</fpage>
+<lpage>1541046</lpage>
+<pub-id pub-id-type="doi">10.1063/1.4898586</pub-id>
+</element-citation></ref><ref id="B86-materials-08-05389"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>F.Z.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Jo</surname><given-names>W.</given-names></name><name><surname>Lee</surname><given-names>J.S.</given-names></name><name><surname>Li</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>Effect of poling temperature on piezoelectricity of CaZrO<sub>3</sub>-modified (K,Na)NbO<sub>3</sub>-based lead-free ceramics</article-title>
+<source>J. Appl. Phys.</source>
+<year>2014</year>
+<volume>116</volume>
+<fpage>1141021</fpage>
+<lpage>1141026</lpage>
+<pub-id pub-id-type="doi">10.1063/1.4895774</pub-id>
+</element-citation></ref><ref id="B87-materials-08-05389"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>F.Z.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Cheng</surname><given-names>L.Q.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Zhang</surname><given-names>W.</given-names></name><name><surname>Zhu</surname><given-names>F.</given-names></name><name><surname>Li</surname><given-names>J.F.</given-names></name></person-group>
+<article-title>Nanodomain Engineered (K,Na)NbO<sub>3</sub> Lead-Free Piezoceramics: Enhanced Thermal and Cycling Reliabilities</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>2015</year>
+<volume>98</volume>
+<fpage>448</fpage>
+<lpage>454</lpage>
+<pub-id pub-id-type="doi">10.1111/jace.13265</pub-id>
+</element-citation></ref><ref id="B88-materials-08-05389"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Popovi&#x0010d;</surname><given-names>A.</given-names></name><name><surname>Bencze</surname><given-names>L.</given-names></name><name><surname>Koruza</surname><given-names>J.</given-names></name><name><surname>Mali&#x0010d;</surname><given-names>B.</given-names></name></person-group>
+<article-title>Vapour pressure and mixing thermodynamic properties of the KNbO<sub>3</sub>&#x02013;NaNbO<sub>3</sub> system</article-title>
+<source>RSC Adv.</source>
+<year>2015</year>
+<volume>93</volume>
+<fpage>76249</fpage>
+<lpage>76256</lpage>
+<pub-id pub-id-type="doi">10.1039/C5RA11874C</pub-id>
+</element-citation></ref><ref id="B89-materials-08-05389"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haugen</surname><given-names>A.B.</given-names></name><name><surname>Madaro</surname><given-names>F.</given-names></name><name><surname>Bj&#x000f8;rkeng</surname><given-names>L.P.</given-names></name><name><surname>Grande</surname><given-names>T.</given-names></name><name><surname>Einarsrud</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Sintering of sub-micron K<sub>0.5</sub>Na<sub>0.5</sub>NbO<sub>3</sub> powders fabricated by spray pyrolysis</article-title>
+<source>J. Eur. Ceram. Soc.</source>
+<year>2015</year>
+<volume>35</volume>
+<fpage>1449</fpage>
+<lpage>1457</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jeurceramsoc.2014.11.011</pub-id>
+</element-citation></ref></ref-list></back></article>

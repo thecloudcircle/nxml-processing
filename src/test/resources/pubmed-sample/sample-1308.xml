@@ -1,0 +1,840 @@
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id><journal-title-group><journal-title>Scientific Reports</journal-title></journal-title-group><issn pub-type="epub">2045-2322</issn><publisher><publisher-name>Nature Publishing Group UK</publisher-name><publisher-loc>London</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">33257701</article-id><article-id pub-id-type="pmc">7705686</article-id><article-id pub-id-type="publisher-id">77711</article-id><article-id pub-id-type="doi">10.1038/s41598-020-77711-w</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Competing for congestible goods: experimental evidence on parking choice</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-6151-1176</contrib-id><name><surname>Pereda</surname><given-names>Mar&#x000ed;a</given-names></name><address><email>mariaperedagarcia@gmail.com</email></address><xref ref-type="aff" rid="Aff1">1</xref><xref ref-type="aff" rid="Aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Ozaita</surname><given-names>Juan</given-names></name><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Stavrakakis</surname><given-names>Ioannis</given-names></name><xref ref-type="aff" rid="Aff4">4</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1874-2881</contrib-id><name><surname>S&#x000e1;nchez</surname><given-names>Angel</given-names></name><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff3">3</xref><xref ref-type="aff" rid="Aff5">5</xref><xref ref-type="aff" rid="Aff6">6</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.5690.a</institution-id><institution-id institution-id-type="ISNI">0000 0001 2151 2978</institution-id><institution>Grupo de Investigaci&#x000f3;n Ingenier&#x000ed;a de Organizaci&#x000f3;n y Log&#x000ed;stica (IOL), Departamento Ingenier&#x000ed;a de Organizaci&#x000f3;n, Administraci&#x000f3;n de empresas y Estad&#x000ed;stica, Escuela T&#x000e9;cnica Superior de Ingenieros Industriales, </institution><institution>Universidad Polit&#x000e9;cnica de Madrid, </institution></institution-wrap>C/ Jos&#x000e9; Guti&#x000e9;rrez Abascal, 2, 28006 Madrid, Spain </aff><aff id="Aff2"><label>2</label>Unidad Mixta Interdisciplinar de Comportamiento y Complejidad Social (UMICCS) UC3M-UV-UZ, 28911, Legan&#x000e9;s, Madrid Spain </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.7840.b</institution-id><institution-id institution-id-type="ISNI">0000 0001 2168 9183</institution-id><institution>Grupo Interdisciplinar de Sistemas Complejos, Departamento de Matem&#x000e1;ticas, </institution><institution>Universidad Carlos III de Madrid, </institution></institution-wrap>28911 Legan&#x000e9;s, Madrid Spain </aff><aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.5216.0</institution-id><institution-id institution-id-type="ISNI">0000 0001 2155 0800</institution-id><institution>Department of Informatics and Telecommunications, </institution><institution>National and Kapodistrian University of Athens, </institution></institution-wrap>Athens, Greece </aff><aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.7840.b</institution-id><institution-id institution-id-type="ISNI">0000 0001 2168 9183</institution-id><institution>Institute UC3M-Santander for Big Data (IBiDat), </institution><institution>Universidad Carlos III de Madrid, </institution></institution-wrap>28903 Getafe, Madrid Spain </aff><aff id="Aff6"><label>6</label><institution-wrap><institution-id institution-id-type="GRID">grid.11205.37</institution-id><institution-id institution-id-type="ISNI">0000 0001 2152 8769</institution-id><institution>Instituto de Biocomputaci&#x000f3;n y F&#x000ed;sica de Sistemas Complejos (BIFI), </institution><institution>Universidad de Zaragoza, </institution></institution-wrap>50018 Zaragoza, Spain </aff></contrib-group><pub-date pub-type="epub"><day>30</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>30</day><month>11</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>10</volume><elocation-id>20803</elocation-id><history><date date-type="received"><day>9</day><month>9</month><year>2020</year></date><date date-type="accepted"><day>2</day><month>11</month><year>2020</year></date></history><permissions><copyright-statement>&#x000a9; The Author(s) 2020</copyright-statement><license license-type="OpenAccess"><license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>.</license-p></license></permissions><abstract id="Abs1"><p id="Par1">Congestible goods describe situations in which a group of people share or use a public good that becomes congested or overexploited when demand is low. We study experimentally a congestible goods problem of relevance for parking design, namely how people choose between a convenient parking lot with few spots and a less convenient one with unlimited space. We find that the Nash equilibrium predicts reasonably well the competition for the convenient parking when it has few spots, but not when it has more availability. We then show that the Rosenthal equilibrium, a bounded-rational approach, is a better description of the experimental results accounting for the randomness in the decision process. We introduce a dynamical model that shows how Rosenthal equilibria can be approached in a few rounds of the game. Our results give insights on how to deal with parking problems such as the design of parking lots in central locations in cities and open the way to better understand similar congestible goods problems in other contexts.</p></abstract><kwd-group kwd-group-type="npg-subject"><title>Subject terms</title><kwd>Applied mathematics</kwd><kwd>Statistical physics, thermodynamics and nonlinear dynamics</kwd><kwd>Computational science</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">501100011033</institution-id><institution>Ministry of Economy and Competitiveness|Agencia Estatal de Investigaci&#x000f3;n (Spanish Agencia Estatal de Investigaci&#x000f3;n)</institution></institution-wrap></funding-source><award-id>PGC2018-098186-B-I00</award-id></award-group></funding-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">100012818</institution-id><institution>Comunidad de Madrid</institution></institution-wrap></funding-source><award-id>PRACTICO-CM</award-id><principal-award-recipient><name><surname>S&#x000e1;nchez</surname><given-names>Angel</given-names></name></principal-award-recipient></award-group></funding-group><custom-meta-group><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#x000a9; The Author(s) 2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p id="Par2">Goods or services can be classified, generally speaking, in terms of their excludability and rivalry<sup><xref ref-type="bibr" rid="CR1">1</xref></sup>. Thus, goods are&#x000a0;called excludable if it is possible to prevent people (consumers) who have not paid for it from having access to it, whereas rivalry indicates that one person&#x02019;s consumption of a product reduces the amount available for consumption by others<sup><xref ref-type="bibr" rid="CR2">2</xref></sup>. Non-excludable goods, i.e., goods or services that can be accessed by anybody without restrictions, describe a wide spectrum of technological, economic or social situations. Often, such situations are in between the usual public goods, arising when there is no rivalry<sup><xref ref-type="bibr" rid="CR3">3</xref></sup>, and common-pool resources<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>, that are subjected to the well-known &#x0201c;tragedy of the commons&#x0201d;<sup><xref ref-type="bibr" rid="CR5">5</xref></sup>. In fact, some goods, called congestible or impure, act as public goods when demand is low, and like common-pool resources when crowded<sup><xref ref-type="bibr" rid="CR6">6</xref></sup>. Well-known examples are education or health, but one could think of many more such as child or elderly care, family services, motorways, public museums, and even intellectual property and wireless networks<sup><xref ref-type="bibr" rid="CR7">7</xref>&#x02013;<xref ref-type="bibr" rid="CR11">11</xref></sup>.</p><p id="Par3">A prominent example of a congestible goods is parking space. This is a very important problem in the twentifirst century: for example, cruising for parking spaces accounted for 30% of the traffic congestion in cities on average<sup><xref ref-type="bibr" rid="CR12">12</xref></sup> generating a correspondingly disproportionate contribution to pollution and greenhouse gases<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>. In view of this and related issues, a lot of effort is being devoted to study parking behavior, and the conclusions are likely to dramatically reduce the number of parking spots<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. Thus, parking in the center of large cities becomes an impure public goods, and typically it becomes a congested resource having only accommodated a small fraction of the incoming cars. In order to manage parking efficiently, several approaches have been proposed to leverage the availability of smart devices to real-time information on parking availability<sup><xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR16">16</xref></sup>, such as data access via a peer-to-peer (P2P) environment<sup><xref ref-type="bibr" rid="CR17">17</xref>,<xref ref-type="bibr" rid="CR18">18</xref></sup>, open space detection coupled with information sharing<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>, and networking for data sharing<sup><xref ref-type="bibr" rid="CR20">20</xref></sup>. These and other new technologies provide real-time allocation of slots to demanding drivers and can reduce considerably the waste of searching for parking spaces, although they are of course not problem-free<sup><xref ref-type="bibr" rid="CR21">21</xref></sup>.</p><p id="Par4">A complementary approach to solve this problem (that could provide, for example, guidelines as to how to design effective parking facilities) is to achieve a better understanding of the decision-making process of drivers trying to park in possibly congested lots. This, in turn, leads to consider parking as a strategic decision in the framework of game theory<sup><xref ref-type="bibr" rid="CR22">22</xref>,<xref ref-type="bibr" rid="CR23">23</xref></sup>. Several works have addressed this question by focusing on the possible heuristics used by drivers<sup><xref ref-type="bibr" rid="CR24">24</xref></sup> or on recommending them&#x000a0;ones to use<sup><xref ref-type="bibr" rid="CR25">25</xref>,<xref ref-type="bibr" rid="CR26">26</xref></sup>. Models of decision making under bounded rationality have also proven very useful in this context<sup><xref ref-type="bibr" rid="CR27">27</xref></sup>. However, to the best of our knowledge, this question has not been considered from the experimental viewpoint by studying how actual people make their decisions<sup><xref ref-type="bibr" rid="CR28">28</xref></sup>. This paper is intended to fill in this knowledge gap and support the design of further mechanisms of parking management.</p><p id="Par5">To this end, we have designed a parking experiment in which players have to choose between two types of car park areas: one which is cheap or convenient (e.g., because it is located downtown), but has a limited number of spots, and one which is more expensive or less convenient (following the same example, because it is further from downtown) but can accommodate all the demand for parking. When one tries the cheap parking first and fails to find a spot, then there is an extra cost arising from the time wasted or the extra distance driven. As we will see below, depending on the parameters (number of spots, number of cars, costs) the prediction from the Nash equilibrium is that all or a fraction of the participants should try the cheap parking. We are therefore asking here whether this prediction will hold and what can be learned from the actual behavior of people in order to plan the distribution of car park areas in cities. The presentation of our results is organized as follows: we begin by introducing the details of our experimental setup and the corresponding Nash equilibria. Subsequently, we report the results of our experiments and our main findings. We then introduce a theoretical analysis based on the Rosenthal equilibrium<sup><xref ref-type="bibr" rid="CR29">29</xref></sup> that incorporates a decision model allowing for deviations from the fully rational case assumed under the Nash equilibrium. In addition, we introduce a complementary agent-based model based on reinforcement learning dynamics that sheds light on how the equilibrium may be reached<sup><xref ref-type="bibr" rid="CR30">30</xref></sup>. We conclude by discussing the experimental results in the light of these two approaches and draw lessons for parking management and for applying our ideas to similar situations described as congestible goods problems.</p></sec><sec id="Sec2"><title>Results</title><sec id="Sec3"><title>Experimental setup</title><p id="Par6">Participants played in groups of <inline-formula id="IEq1"><alternatives><tex-math id="M1">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N=20$$\end{document}</tex-math><mml:math id="M2"><mml:mrow><mml:mi>N</mml:mi><mml:mo>=</mml:mo><mml:mn>20</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq1.gif"/></alternatives></inline-formula> subjects. They were informed that they were participating with other 19 people. They played four repetitions of the experiment, one after the other, for different parameterizations of the experiment (see &#x0201c;<xref rid="Sec9" ref-type="sec">Methods</xref>&#x0201d; section for a detailed description of the experimental setup). In each repetition, the participants had to make the same decision ten times, one per experimental round. If a decision was not made within the 30&#x000a0;s available, the software would decide at random for the participant, and this decision would be&#x000a0;marked as &#x0201c;automatic&#x0201d;. Participants were only paid if they had&#x000a0;made at least 70% of the decisions.</p><p id="Par7">Participants were supposed to have to park their car, and so they had to decide between two types of car park areas: a yellow parking lot with only <inline-formula id="IEq2"><alternatives><tex-math id="M3">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S\in \{5, 10\}$$\end{document}</tex-math><mml:math id="M4"><mml:mrow><mml:mi>S</mml:mi><mml:mo>&#x02208;</mml:mo><mml:mo stretchy="false">{</mml:mo><mml:mn>5</mml:mn><mml:mo>,</mml:mo><mml:mn>10</mml:mn><mml:mo stretchy="false">}</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq2.gif"/></alternatives></inline-formula> slots available, or a blue parking lot with an unlimited number of slots. The availability of slots in the yellow parking lot was subject to the demand in each round. If more slots were demanded than those available, they were assigned to the participants that demanded them at random, and the ones that did not get a slot had to proceed to the blue parking lot.</p><p id="Par8">For each decision, the participants were given 100 points at the beginning of the round. They had 30&#x000a0;s to make a decision. The cost of the yellow parking lot was <inline-formula id="IEq3"><alternatives><tex-math id="M5">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{{\mathrm{cheap}}} =$$\end{document}</tex-math><mml:math id="M6"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo>=</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq3.gif"/></alternatives></inline-formula> 10 points and the cost of the blue parking lot was <inline-formula id="IEq4"><alternatives><tex-math id="M7">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}\in \{20, 40\}$$\end{document}</tex-math><mml:math id="M8"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>&#x02208;</mml:mo><mml:mrow><mml:mo stretchy="false">{</mml:mo><mml:mn>20</mml:mn><mml:mo>,</mml:mo><mml:mn>40</mml:mn><mml:mo stretchy="false">}</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq4.gif"/></alternatives></inline-formula>. In addition, if the decision was to go for the yellow parking lot but there were no free slots available, then the car had to go to the blue parking lot, incurring a cost <inline-formula id="IEq5"><alternatives><tex-math id="M9">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}\in \{10, 50\}$$\end{document}</tex-math><mml:math id="M10"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub><mml:mo>&#x02208;</mml:mo><mml:mrow><mml:mo stretchy="false">{</mml:mo><mml:mn>10</mml:mn><mml:mo>,</mml:mo><mml:mn>50</mml:mn><mml:mo stretchy="false">}</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq5.gif"/></alternatives></inline-formula> to be added to the cost of the parking <inline-formula id="IEq6"><alternatives><tex-math id="M11">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M12"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq6.gif"/></alternatives></inline-formula>. The possible combinations of the values for the three parameters <italic>S</italic>, <inline-formula id="IEq7"><alternatives><tex-math id="M13">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{{\mathrm{cheap}}}$$\end{document}</tex-math><mml:math id="M14"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq7.gif"/></alternatives></inline-formula> and <inline-formula id="IEq8"><alternatives><tex-math id="M15">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M16"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq8.gif"/></alternatives></inline-formula> give rise to eight different treatments, which are described in detail in the &#x0201c;<xref rid="Sec9" ref-type="sec">Methods</xref>&#x0201d; section.</p><p id="Par9">Based on their decision, at the end of each round, the participants had an associated payoff, resulting from subtracting their decision costs from their initial endowed 100 points. After each round, the participants were reminded about their previous decision and informed about the car park they parked, their payoff for that round, and the number of people that actually found a slot in the yellow parking. At the end of the experiment, the participants answered a risk assessment test, as in Ref.<sup><xref ref-type="bibr" rid="CR31">31</xref></sup>, which can be found in the &#x0201c;<xref rid="MOESM1" ref-type="media">Supplementary Information</xref>&#x0201d; accompanying this article.</p></sec><sec id="Sec4"><title>Nash equilibria</title><p id="Par10">The analysis of this type of game for fully rational behaviors was carried out in Ref.<sup><xref ref-type="bibr" rid="CR32">32</xref></sup>. We will not repeat all the details here, but limit ourselves to particularizing the results obtained there for our choice of parameters. When doing this, we find that the number of players who compete for a yellow parking slot at the Nash equilibrium is given by<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="M17">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} N^{\mathrm{Nash}} = \left\{ \begin{array}{lll} N &#x00026;{} {\mathrm{if}} &#x00026;{} N \le S\left( 1 + \dfrac{Q_{\mathrm{exp}}-Q_{{\mathrm{cheap}}}}{Q_{\mathrm{add}}}\right) , \\ \\ S\left( 1 + \dfrac{Q_{\mathrm{exp}}-Q_{{\mathrm{cheap}}}}{Q_{\mathrm{add}}}\right) &#x00026;{} {\mathrm{if}} &#x00026;{} N &#x0003e; S\left( 1 + \dfrac{Q_{\mathrm{exp}}-Q_{{\mathrm{cheap}}}}{Q_{\mathrm{add}}}\right) . \\ \end{array} \right. \end{aligned}$$\end{document}</tex-math><mml:math id="M18" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msup><mml:mi>N</mml:mi><mml:mi mathvariant="normal">Nash</mml:mi></mml:msup><mml:mo>=</mml:mo><mml:mfenced open="{"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="left"><mml:mi>N</mml:mi></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi mathvariant="normal">if</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>N</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mi>S</mml:mi><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mfrac></mml:mstyle></mml:mfenced><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow/></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>S</mml:mi><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mfrac></mml:mstyle></mml:mfenced></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi mathvariant="normal">if</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>N</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mi>S</mml:mi><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mfrac></mml:mstyle></mml:mfenced><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="41598_2020_77711_Article_Equ1.gif" position="anchor"/></alternatives></disp-formula>This result means that if the number of spots available in the yellow parking lot is small (actually, less than a certain bound that depends on the costs), an equal number of people should compete for those, obtaining them; when the number of spots is larger, then the fraction of competitors does depend on the costs as indicated in Eq. (<xref rid="Equ1" ref-type="">1</xref>). This, in turn, translates into the fact that the probability that a given player decides to compete for a cheap yellow parking slot under the corresponding mixed-action formulation of the game is given by:<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="M19">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_{{\mathrm{cheap}}}^{\mathrm{Nash}} = \left\{ \begin{array}{lll} 1 &#x00026;{} {\mathrm{if}} &#x00026;{} N\le S\left( 1 + \dfrac{Q_{\mathrm{exp}}-Q_{{\mathrm{cheap}}}}{Q_{\mathrm{add}}}\right) , \\ \\ \dfrac{S}{N} \left( 1 + \dfrac{Q_{\mathrm{exp}}-Q_{{\mathrm{cheap}}}}{Q_{\mathrm{add}}}\right) &#x00026;{} {\mathrm{if}} &#x00026;{} N &#x0003e; S\left( 1 + \dfrac{Q_{\mathrm{exp}}-Q_{{\mathrm{cheap}}}}{Q_{\mathrm{add}}}\right) . \\ \end{array} \right. \end{aligned}$$\end{document}</tex-math><mml:math id="M20" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi mathvariant="normal">cheap</mml:mi></mml:mrow><mml:mi mathvariant="normal">Nash</mml:mi></mml:msubsup><mml:mo>=</mml:mo><mml:mfenced open="{"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="left"><mml:mn>1</mml:mn></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi mathvariant="normal">if</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>N</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mi>S</mml:mi><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mfrac></mml:mstyle></mml:mfenced><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow/></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mfrac><mml:mi>S</mml:mi><mml:mi>N</mml:mi></mml:mfrac></mml:mstyle><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mfrac></mml:mstyle></mml:mfenced></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi mathvariant="normal">if</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>N</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mi>S</mml:mi><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mfrac></mml:mstyle></mml:mfenced><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="41598_2020_77711_Article_Equ2.gif" position="anchor"/></alternatives></disp-formula></p></sec><sec id="Sec5"><title>Experimental results analysis</title><p id="Par11">The analysis was performed by considering the decisions of participants that completed the experiment, and for those, only participant-made decisions (random decisions made by the software were replaced by real people decisions selected at random from the same treatment and round). Due to the dropout of participants during the experiments, some of the groups ended with less than 20 participants. For the analysis, incomplete groups were completed up to 20 participants by sampling from the participant decisions under the same parameterizations of the experiment. Hence, results show only participant-made decisions. The results of these participant-made decisions are comparable to those including automatic random decisions and decisions of participants that did not complete the experiment. These &#x0201c;raw-data&#x0201d; results are shown at Supplementary Figures <xref rid="MOESM1" ref-type="media">S1</xref> and <xref rid="MOESM1" ref-type="media">S2</xref>, together with the average percentage of random decisions per round and treatment (Supplementary Figure <xref rid="MOESM1" ref-type="media">S3</xref>). Differences between the two sets of results are negligible.</p><p id="Par12">To carry out the analysis, we use the following variables: <italic>decision</italic> is equal to 1 if a player chooses to compete for the yellow parking lot, and 0 if the player chooses blue parking lot. As explained below in the &#x0201c;<xref rid="Sec9" ref-type="sec">Methods</xref>&#x0201d; section, we will refer to each treatment as <inline-formula id="IEq9"><alternatives><tex-math id="M21">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$EXP\_S/N\_Q_{\mathrm{exp}}\_Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M22"><mml:mrow><mml:mi>E</mml:mi><mml:mi>X</mml:mi><mml:mi>P</mml:mi><mml:mi>_</mml:mi><mml:mi>S</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mi>N</mml:mi><mml:mi>_</mml:mi><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mi>_</mml:mi><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq9.gif"/></alternatives></inline-formula>, i. e., <inline-formula id="IEq10"><alternatives><tex-math id="M23">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$EXP\_0.5\_20\_10$$\end{document}</tex-math><mml:math id="M24"><mml:mrow><mml:mi>E</mml:mi><mml:mi>X</mml:mi><mml:mi>P</mml:mi><mml:mi>_</mml:mi><mml:mn>0.5</mml:mn><mml:mi>_</mml:mi><mml:mn>20</mml:mn><mml:mi>_</mml:mi><mml:mn>10</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq10.gif"/></alternatives></inline-formula> means <inline-formula id="IEq11"><alternatives><tex-math id="M25">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S=10$$\end{document}</tex-math><mml:math id="M26"><mml:mrow><mml:mi>S</mml:mi><mml:mo>=</mml:mo><mml:mn>10</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq11.gif"/></alternatives></inline-formula>, <inline-formula id="IEq12"><alternatives><tex-math id="M27">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}=20$$\end{document}</tex-math><mml:math id="M28"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>20</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq12.gif"/></alternatives></inline-formula>, <inline-formula id="IEq13"><alternatives><tex-math id="M29">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}=10$$\end{document}</tex-math><mml:math id="M30"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>10</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq13.gif"/></alternatives></inline-formula>. Each experimental treatment was replicated six times, by six different groups of people.</p><p id="Par13">The first set of analyses examine the impact of the parameters of the experiment on the average number of participants competing for the yellow parking lot during the rounds of the experiment, that is, trying to park in the limited but cheap car park lot. For each round, we compute the average number of people choosing the yellow parking lot in the six repetitions of the treatments. Figure <xref rid="Fig1" ref-type="fig">1</xref> presents this average as a function of the rounds. If we focus on the different <italic>S</italic>/<italic>N</italic> ratios, i.e. the ratio of yellow parking lot spaces available <italic>S</italic> to the number of participants <italic>N</italic>, we can see that competition is higher, meaning that there is more demand for the yellow parking lot, when there are more spaces available and so <italic>S</italic>/<italic>N</italic> is higher. For the same <italic>S</italic>/<italic>N</italic> ratio, the higher <inline-formula id="IEq14"><alternatives><tex-math id="M31">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M32"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq14.gif"/></alternatives></inline-formula>, i.e., the cost of competing and having to move eventually to the blue parking lot, the fewer people compete for the yellow parking lot. For the same <italic>S</italic>/<italic>N</italic> ratio and <inline-formula id="IEq15"><alternatives><tex-math id="M33">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M34"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq15.gif"/></alternatives></inline-formula>, we see that people compete for the yellow parking lot more if the cost of the blue parking lot is higher. Overall, for the duration of each set of 10 rounds for any given set of parameters, the average number of people competing for each treatment remains constant or with very small variability.<fig id="Fig1"><label>Figure 1</label><caption><p>Average number of people competing as a function of round number in the eight treatments of our experiment. Error bars represent &#x000b1; one standard deviation of the mean.</p></caption><graphic xlink:href="41598_2020_77711_Fig1_HTML" id="MO3"/></fig></p><p id="Par14">If we focus on the participants decisions after the first five rounds, i.e, in rounds 6&#x02013;10, all participants chose the same option in at least four of those five rounds. Averaging over all treatments, 58% of the participants chose the competitive option of the yellow parking lot. Turning now to compare the average number of people competing per treatment with Nash equilibria predictions, we compute the average decision per person in all rounds, and then per group of <italic>N</italic> people. This group means are averaged per treatment and shown in Fig.&#x000a0;<xref rid="Fig2" ref-type="fig">2</xref> together with the standard deviation of these averages as error bars. Only three of the eight experimental treatments behave as foreseen by the Nash equilibrium (treatments <inline-formula id="IEq16"><alternatives><tex-math id="M35">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$EXP\_0.25\_20\_10$$\end{document}</tex-math><mml:math id="M36"><mml:mrow><mml:mi>E</mml:mi><mml:mi>X</mml:mi><mml:mi>P</mml:mi><mml:mi>_</mml:mi><mml:mn>0.25</mml:mn><mml:mi>_</mml:mi><mml:mn>20</mml:mn><mml:mi>_</mml:mi><mml:mn>10</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq16.gif"/></alternatives></inline-formula>, <inline-formula id="IEq17"><alternatives><tex-math id="M37">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$EXP\_0.25\_20\_50$$\end{document}</tex-math><mml:math id="M38"><mml:mrow><mml:mi>E</mml:mi><mml:mi>X</mml:mi><mml:mi>P</mml:mi><mml:mi>_</mml:mi><mml:mn>0.25</mml:mn><mml:mi>_</mml:mi><mml:mn>20</mml:mn><mml:mi>_</mml:mi><mml:mn>50</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq17.gif"/></alternatives></inline-formula>, and <inline-formula id="IEq18"><alternatives><tex-math id="M39">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$EXP\_0.25\_40\_50$$\end{document}</tex-math><mml:math id="M40"><mml:mrow><mml:mi>E</mml:mi><mml:mi>X</mml:mi><mml:mi>P</mml:mi><mml:mi>_</mml:mi><mml:mn>0.25</mml:mn><mml:mi>_</mml:mi><mml:mn>40</mml:mn><mml:mi>_</mml:mi><mml:mn>50</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq18.gif"/></alternatives></inline-formula>), that is when the Nash equilibrium suggests that less than or equal to half of the participants should compete. When the Nash equilibrium is very large, meaning that all participants should compete, we observe that a number of participants shy away from this competition, and the Nash equilibrium overestimates the actual number of subjects going to the yellow parking lot. In some cases, mostly when the additional cost is low, the discrepancy is quite big.<fig id="Fig2"><label>Figure 2</label><caption><p>Average number of people competing per treatment versus Nash and Rosenthal equilibria. Magenta: experimental results; turquoise: Nash; blue: Rosenthal, <inline-formula id="IEq19"><alternatives><tex-math id="M41">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M42"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq19.gif"/></alternatives></inline-formula>; yellow: Rosenthal, <inline-formula id="IEq20"><alternatives><tex-math id="M43">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.02$$\end{document}</tex-math><mml:math id="M44"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.02</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq20.gif"/></alternatives></inline-formula>; orange: Reinforcement learning (R.L.) model. Error bars represent &#x000b1; one standard deviation of the mean. Points overlap for all sets on the first treatment, except for R.L. simulation results.</p></caption><graphic xlink:href="41598_2020_77711_Fig2_HTML" id="MO4"/></fig></p><p id="Par15">In order to assess whether the averages of people competing in the treatments are statistically different, we performed firstly a one-way ANOVA test, and secondly multiple pairwise-comparisons with the Tukey&#x02019;s range test. The ANOVA test concluded that there are significant differences between the treatments (p-value&#x000a0;=&#x000a0;<inline-formula id="IEq21"><alternatives><tex-math id="M45">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$2.99{\text {e}}-15$$\end{document}</tex-math><mml:math id="M46"><mml:mrow><mml:mn>2.99</mml:mn><mml:mtext>e</mml:mtext><mml:mo>-</mml:mo><mml:mn>15</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq21.gif"/></alternatives></inline-formula>). The Tukey&#x02019;s range test determines if two means are different by at least one standard error of the mean. Figure <xref rid="Fig3" ref-type="fig">3</xref> shows the violin plots and boxplots of the number of people competing per treatment and summarize the Tukey test by using letters. The letters on top of the violin plots represent experimental treatments which are not significantly different. For instance, the leftmost condition, labelled &#x02018;cd&#x02019;, is statistically indistinguishable from all other conditions with which it shares a letter, i.e., from the third, the fourth, the sixth and the eighth treatments. Treatments that are not different may be suggesting that subjects are perceiving them as similar situations. For instance, all treatments with a high cost of failure (<inline-formula id="IEq22"><alternatives><tex-math id="M47">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}=50$$\end{document}</tex-math><mml:math id="M48"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>50</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq22.gif"/></alternatives></inline-formula>) are comparable to some extent. Another interesting observation that arises from Fig. <xref rid="Fig3" ref-type="fig">3</xref> is that when the observed behavior is far from the predictions of Nash equilibria, the individual results show larger dispersion, indicated by an almost rectangular shape of the violin. On the contrary, when the fraction of competing people is close to the Nash prediction, we see that individual results tend to cluster around the mean and the prediction. This suggests that the reason why the Nash prediction is not accurate is connected to people having difficulties in estimating what would be a rational response for those choices of parameters.<fig id="Fig3"><label>Figure 3</label><caption><p>Violin plots and boxplots for the number of people competing per treatment.</p></caption><graphic xlink:href="41598_2020_77711_Fig3_HTML" id="MO5"/></fig></p><p id="Par16">Finally, as indicated above, we also collected data on the risk aversion of the participants, in order to study whether it is related to their competitive behavior. Strikingly, we find no correlation whatsoever of their risk profile with their average competitive behavior (average number of times they choose the yellow parking lot).</p></sec><sec id="Sec6"><title>Rosenthal model</title><p id="Par17">In this section, we consider a theoretical alternative to the predictions of Nash equilibria, namely the Rosenthal model<sup><xref ref-type="bibr" rid="CR29">29</xref></sup>. This is a parametric probabilistic choice model (with one parameter) aiming to capture any unobserved and omitted elements, estimation/computational errors, individual&#x02019;s mood, perceptual variations or cognitive biases driving human decisions, in line with the fact that individuals are more likely to make better choices than worse choices, but do not necessarily make the very best choices. According to this model, the difference in probabilities with which two actions are played (select a yellow or blue parking slot here) equals a parameter <italic>t</italic> multiplied by the difference of the corresponding expected costs. The parameter <italic>t</italic>, <inline-formula id="IEq23"><alternatives><tex-math id="M49">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$0\le t\le \infty$$\end{document}</tex-math><mml:math id="M50"><mml:mrow><mml:mn>0</mml:mn><mml:mo>&#x02264;</mml:mo><mml:mi>t</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mi>&#x0221e;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq23.gif"/></alternatives></inline-formula> is referred to as the rationality parameter. The case of <inline-formula id="IEq24"><alternatives><tex-math id="M51">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=\infty$$\end{document}</tex-math><mml:math id="M52"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mi>&#x0221e;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq24.gif"/></alternatives></inline-formula> corresponds to decision making under full rationality and for that choice of <italic>t</italic> the corresponding Rosenthal equilibrium coincides with the Nash equilibrium. On the other hand, the case of <inline-formula id="IEq25"><alternatives><tex-math id="M53">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0$$\end{document}</tex-math><mml:math id="M54"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq25.gif"/></alternatives></inline-formula> corresponds to pure random choice. The Rosenthal probabilistic decision model is given by<disp-formula id="Equ3"><label>3</label><alternatives><tex-math id="M55">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_{{\mathrm{cheap}}} - p_{\mathrm{exp}} = t \left( C_{{\mathrm{cheap}}} (p_{{\mathrm{cheap}}} ) - Q_{\mathrm{exp}} \right) , \end{aligned}$$\end{document}</tex-math><mml:math id="M56" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mi>t</mml:mi><mml:mfenced close=")" open="("><mml:msub><mml:mi>C</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:mfenced><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="41598_2020_77711_Article_Equ3.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq26"><alternatives><tex-math id="M57">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_{{\mathrm{cheap}}}$$\end{document}</tex-math><mml:math id="M58"><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq26.gif"/></alternatives></inline-formula> and <inline-formula id="IEq27"><alternatives><tex-math id="M59">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M60"><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq27.gif"/></alternatives></inline-formula> are the probabilities for selecting a yellow (cheap) or a blue (expensive) parking slot and <inline-formula id="IEq28"><alternatives><tex-math id="M61">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$C_{{\mathrm{cheap}}} (p_{{\mathrm{cheap}}}$$\end{document}</tex-math><mml:math id="M62"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo></mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq28.gif"/></alternatives></inline-formula> is the cost of a player choosing yellow. From the analysis and expressions presented in Ref.<sup><xref ref-type="bibr" rid="CR27">27</xref></sup> we obtain the following expression for <inline-formula id="IEq29"><alternatives><tex-math id="M63">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$C_{{\mathrm{cheap}}} (p_{{\mathrm{cheap}}})$$\end{document}</tex-math><mml:math id="M64"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq29.gif"/></alternatives></inline-formula>:<disp-formula id="Equ4"><label>4</label><alternatives><tex-math id="M65">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} C_{{\mathrm{cheap}}} (p_{{\mathrm{cheap}}}) = \sum _{k=0}^{N-1} g_{{\mathrm{cheap}}}(k+1) B(k,N-1,p_{{\mathrm{cheap}}}), \end{aligned}$$\end{document}</tex-math><mml:math id="M66" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>C</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:munderover><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>k</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow><mml:mrow><mml:mi>N</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:munderover><mml:msub><mml:mi>g</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>B</mml:mi><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>N</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="41598_2020_77711_Article_Equ4.gif" position="anchor"/></alternatives></disp-formula>where <inline-formula id="IEq30"><alternatives><tex-math id="M67">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$g_{{\mathrm{cheap}}}(k)$$\end{document}</tex-math><mml:math id="M68"><mml:mrow><mml:msub><mml:mi>g</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq30.gif"/></alternatives></inline-formula> is the average cost of a player choosing yellow when <inline-formula id="IEq31"><alternatives><tex-math id="M69">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$k&#x0003e;S$$\end{document}</tex-math><mml:math id="M70"><mml:mrow><mml:mi>k</mml:mi><mml:mo>&#x0003e;</mml:mo><mml:mi>S</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq31.gif"/></alternatives></inline-formula> compete, given by<disp-formula id="Equ5"><label>5</label><alternatives><tex-math id="M71">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} g_{{\mathrm{cheap}}}(k) = min \left( 1, S/N \right) Q_{{\mathrm{cheap}}} + \left( 1-min \left( 1,S/N\right) \right) \left( Q_{\mathrm{exp}} + Q_{\mathrm{add}}\right) , \, 1\le k \le N \end{aligned}$$\end{document}</tex-math><mml:math id="M72" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>g</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mo>=</mml:mo><mml:mi>m</mml:mi><mml:mi>i</mml:mi><mml:mi>n</mml:mi><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>S</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mi>N</mml:mi></mml:mfenced><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:mi>m</mml:mi><mml:mi>i</mml:mi><mml:mi>n</mml:mi><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:mi>S</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mi>N</mml:mi></mml:mfenced></mml:mfenced><mml:mfenced close=")" open="("><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mfenced><mml:mo>,</mml:mo><mml:mspace width="0.166667em"/><mml:mn>1</mml:mn><mml:mo>&#x02264;</mml:mo><mml:mi>k</mml:mi><mml:mo>&#x02264;</mml:mo><mml:mi>N</mml:mi></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="41598_2020_77711_Article_Equ5.gif" position="anchor"/></alternatives></disp-formula>and <inline-formula id="IEq32"><alternatives><tex-math id="M73">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$B(k,N-1,p_{{\mathrm{cheap}}})$$\end{document}</tex-math><mml:math id="M74"><mml:mrow><mml:mi>B</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>k</mml:mi><mml:mo>,</mml:mo><mml:mi>N</mml:mi><mml:mo>-</mml:mo><mml:mn>1</mml:mn><mml:mo>,</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq32.gif"/></alternatives></inline-formula> is the Binomial distribution for k successes in <inline-formula id="IEq33"><alternatives><tex-math id="M75">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\text{ N }}-1$$\end{document}</tex-math><mml:math id="M76"><mml:mrow><mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>N</mml:mtext><mml:mspace width="0.333333em"/></mml:mrow><mml:mo>-</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq33.gif"/></alternatives></inline-formula> trials with probability of success per trial equal to <inline-formula id="IEq34"><alternatives><tex-math id="M77">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_{{\mathrm{cheap}}}$$\end{document}</tex-math><mml:math id="M78"><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq34.gif"/></alternatives></inline-formula>.</p><p id="Par18">By solving Eq. (<xref rid="Equ3" ref-type="">3</xref>) for <inline-formula id="IEq35"><alternatives><tex-math id="M79">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_{{\mathrm{cheap}}}$$\end{document}</tex-math><mml:math id="M80"><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq35.gif"/></alternatives></inline-formula> (under the constraint <inline-formula id="IEq36"><alternatives><tex-math id="M81">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_{{\mathrm{cheap}}} + p_{\mathrm{exp}} = 1$$\end{document}</tex-math><mml:math id="M82"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq36.gif"/></alternatives></inline-formula>) the Rosenthal equilibrium value <inline-formula id="IEq37"><alternatives><tex-math id="M83">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$p_{{\mathrm{cheap}}}^{RE}$$\end{document}</tex-math><mml:math id="M84"><mml:msubsup><mml:mi>p</mml:mi><mml:mrow><mml:mi mathvariant="normal">cheap</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="italic">RE</mml:mi></mml:mrow></mml:msubsup></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq37.gif"/></alternatives></inline-formula> is derived for a given rationality parameter <italic>t</italic>. The corresponding results show that the Rosenthal model for <inline-formula id="IEq38"><alternatives><tex-math id="M85">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M86"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq38.gif"/></alternatives></inline-formula> yields a value for the equilibrium that produces decisions that are closer to the experiments as measured by adding up all the distances from the predicted points to the experimental value (4.66). For <inline-formula id="IEq39"><alternatives><tex-math id="M87">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=\infty$$\end{document}</tex-math><mml:math id="M88"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mi>&#x0221e;</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq39.gif"/></alternatives></inline-formula>, i.e., the Nash equilibrium, this value is 22.23. A comparison is depicted in Fig. <xref rid="Fig2" ref-type="fig">2</xref>. Thus, we can claim that the players in our game do not behave as fully rational players. That is, they do not try to maximize their own utility assuming all players play the same, but they exhibit bounded rationality, as captured by the factor <inline-formula id="IEq40"><alternatives><tex-math id="M89">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M90"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq40.gif"/></alternatives></inline-formula> that shapes the difference in the probabilities of the two choices by weighing only modestly (small value for <italic>t</italic>) the difference in costs between the two choices they have. On the contrary, the fully rational model would weigh infinitely that cost difference.</p><p id="Par19">Notice that the random choice case gives a large distance from the experimental (21.07), suggesting that the players in our game do not behave as absolutely random players (i.e., they do not select each of the two choices with the same probability of 0.5). This suggests that although there are no suggested values for the rationality parameter <italic>t</italic> to be used, the value of <inline-formula id="IEq41"><alternatives><tex-math id="M91">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M92"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq41.gif"/></alternatives></inline-formula> for our decision problem leads to decisions that are clearly away from the completely random decisions (<inline-formula id="IEq42"><alternatives><tex-math id="M93">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0$$\end{document}</tex-math><mml:math id="M94"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq42.gif"/></alternatives></inline-formula>).</p><p id="Par20">Optimally, exactly <inline-formula id="IEq43"><alternatives><tex-math id="M95">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\min (S,N)$$\end{document}</tex-math><mml:math id="M96"><mml:mrow><mml:mo movablelimits="true">min</mml:mo><mml:mo stretchy="false">(</mml:mo><mml:mi>S</mml:mi><mml:mo>,</mml:mo><mml:mi>N</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq43.gif"/></alternatives></inline-formula> players should compete for the yellow parking slots, so that no player pays <inline-formula id="IEq44"><alternatives><tex-math id="M97">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M98"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq44.gif"/></alternatives></inline-formula> and no player pays <inline-formula id="IEq45"><alternatives><tex-math id="M99">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M100"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq45.gif"/></alternatives></inline-formula> if there are yellow parking slots available. Clearly, the optimal decision requires coordination and collaboration among the players and is not feasible in the uncoordinated environment we consider here. Nevertheless, it may be employed as a benchmark against which the decisions taken under the models considered here could be assessed. This comparison is carried out by averaging the distance from this optimal value of the average values of players selecting yellow under the experimental results and Nash and Rosenthal (for certain values of parameter <italic>t</italic>) equilibria, which can be calculated by using Fig. <xref rid="Fig2" ref-type="fig">2</xref>. From these results, it turns out that the Nash equilibrium is the furthest away from optimality, while the results under the Rosenthal equilibrium at <inline-formula id="IEq46"><alternatives><tex-math id="M101">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M102"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq46.gif"/></alternatives></inline-formula> produce decisions much closer to the optimal (on the average) than under the Nash equilibrium. The experimental results are also much closer to the optimal decisions than under the Nash equilibrium and slightly closer than under the Rosenthal equilibrium at <inline-formula id="IEq47"><alternatives><tex-math id="M103">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M104"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq47.gif"/></alternatives></inline-formula>. Notice that the (completely) random choice (corresponding also to the Rosenthal equilibrium at <inline-formula id="IEq48"><alternatives><tex-math id="M105">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.0$$\end{document}</tex-math><mml:math id="M106"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.0</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq48.gif"/></alternatives></inline-formula>) presents results that are the closest of all previous to the optimal. It should be noted though that the very good closeness of the random to the optimal may be due to the fact that <inline-formula id="IEq49"><alternatives><tex-math id="M107">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S=0.5N$$\end{document}</tex-math><mml:math id="M108"><mml:mrow><mml:mi>S</mml:mi><mml:mo>=</mml:mo><mml:mn>0.5</mml:mn><mml:mi>N</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq49.gif"/></alternatives></inline-formula> in half of our cases (that is, the optimal decision is by construction that of the random choice policy); for the other half of our cases we have that <inline-formula id="IEq50"><alternatives><tex-math id="M109">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S=0.25N$$\end{document}</tex-math><mml:math id="M110"><mml:mrow><mml:mi>S</mml:mi><mml:mo>=</mml:mo><mml:mn>0.25</mml:mn><mml:mi>N</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq50.gif"/></alternatives></inline-formula>. Separating the two cases, it can be seen that for the case of <inline-formula id="IEq51"><alternatives><tex-math id="M111">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S=0.25N$$\end{document}</tex-math><mml:math id="M112"><mml:mrow><mml:mi>S</mml:mi><mml:mo>=</mml:mo><mml:mn>0.25</mml:mn><mml:mi>N</mml:mi></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq51.gif"/></alternatives></inline-formula> the random choice is not better than the corresponding results for the Rosenthal equilibrium at <inline-formula id="IEq52"><alternatives><tex-math id="M113">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M114"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq52.gif"/></alternatives></inline-formula> or the experimental results, while the random choice is still better than the corresponding results under the Nash equilibrium.</p><p id="Par21">All in all, we could say that the (real) players make better (more optimal) decisions than what the Nash equilibrium dictates. Also, the bounded rationality Rosenthal model at t&#x000a0;=&#x000a0;0.05 produces decisions that are closer to the optimal than those foreseen by the Nash equilibrium. Results for the Rosenthal equilibrium at <inline-formula id="IEq53"><alternatives><tex-math id="M115">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\hbox {t}=0.02$$\end{document}</tex-math><mml:math id="M116"><mml:mrow><mml:mtext>t</mml:mtext><mml:mo>=</mml:mo><mml:mn>0.02</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq53.gif"/></alternatives></inline-formula> (more random than for <inline-formula id="IEq54"><alternatives><tex-math id="M117">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\hbox {t}=0.05$$\end{document}</tex-math><mml:math id="M118"><mml:mrow><mml:mtext>t</mml:mtext><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq54.gif"/></alternatives></inline-formula>) gave a better match to the experimental results for the &#x02018;hardest&#x02019; to decide cases (when both the cost of not competing (<inline-formula id="IEq55"><alternatives><tex-math id="M119">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M120"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq55.gif"/></alternatives></inline-formula>) and the cost of competing and failing (<inline-formula id="IEq56"><alternatives><tex-math id="M121">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M122"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq56.gif"/></alternatives></inline-formula>) are high). Therefore, it is possible that when both such costs are high it is harder for people to decide (or figure out which decision would be the best) and tend to finally make a decision closer to a random one than in the less &#x02018;hard&#x02019; cases.</p></sec><sec id="Sec7"><title>Reinforcement learning model</title><p id="Par22">As an alternative explanation of our results, we have attempted to reproduce the experiment with an agent-based model where agents evolve according to the reinforcement learning paradigms (see Ref.<sup><xref ref-type="bibr" rid="CR30">30</xref></sup>; we have followed closely the presentation in Ref.<sup><xref ref-type="bibr" rid="CR33">33</xref></sup>). It is interesting to note that reinforcement learning has already proven quite successful in understanding the behavior observed in experiments (see, e.g.<sup><xref ref-type="bibr" rid="CR34">34</xref>&#x02013;<xref ref-type="bibr" rid="CR36">36</xref></sup>). In our case, we have studied a system of 20 agents where each one is characterized by its payoff, aspiration (the minimum payoff the agent would like to receive) and probability to choose the cheap parking. For every round, every agent chooses its action and then it is determined which agents go to each parking. The assignment is done according to choices if possible and randomly if more agents choose the yellow parking lot than there are available spots. Then the agents collect the payoff and their probability to choose yellow is updated. Following Ref.<sup><xref ref-type="bibr" rid="CR33">33</xref></sup>, the dynamics of this probability behaves as follows:<disp-formula id="Equ6"><label>6</label><alternatives><tex-math id="M123">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_{a,t+1}= \left\{ \begin{array}{lll} p_{a,t}+(1-p_{a,t})ls_{a,t} &#x00026;{} if &#x00026;{} s_{a,t}\ge 0 \\ \\ p_{a,t}+p_{a,t}ls_{a,t} &#x00026;{} if &#x00026;{} s_{a,t}&#x0003c;0 \\ \end{array} \right. \end{aligned}$$\end{document}</tex-math><mml:math id="M124" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi><mml:mo>+</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfenced open="{"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>-</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mi>l</mml:mi><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>i</mml:mi><mml:mi>f</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>&#x02265;</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow/></mml:mtd></mml:mtr><mml:mtr><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>p</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>p</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mi>l</mml:mi><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:mi>i</mml:mi><mml:mi>f</mml:mi></mml:mrow></mml:mtd><mml:mtd columnalign="left"><mml:mrow><mml:mrow/><mml:msub><mml:mi>s</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mo>,</mml:mo><mml:mi>t</mml:mi></mml:mrow></mml:msub><mml:mo>&#x0003c;</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="41598_2020_77711_Article_Equ6.gif" position="anchor"/></alternatives></disp-formula>where <italic>a</italic> is the action whose probability is being updated, in our case, choosing the yellow or the blue parking lots. There are three free parameters in this model: first, the initial probability of choosing cheap. To set this value, we have considered an empirical point of view. The initial probability of choosing cheap should be related to the number of seats in the parking; therefore, we are assuming that players know with some accuracy the number of people in the population of parking users, which they knew in the experiment and can be learned in a real situation using the experience. In order to introduce the cost of the parking in the initial process, we consider that agents avert risk proportionally to the difference in the cost between choosing expensive (<inline-formula id="IEq57"><alternatives><tex-math id="M125">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{exp}$$\end{document}</tex-math><mml:math id="M126"><mml:msub><mml:mi>Q</mml:mi><mml:mrow><mml:mi mathvariant="italic">exp</mml:mi></mml:mrow></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq57.gif"/></alternatives></inline-formula>) and choosing cheap and failing (<inline-formula id="IEq58"><alternatives><tex-math id="M127">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{cheap}+Q_{add}$$\end{document}</tex-math><mml:math id="M128"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mrow><mml:mi mathvariant="italic">cheap</mml:mi></mml:mrow></mml:msub><mml:mo>+</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mrow><mml:mi mathvariant="italic">add</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq58.gif"/></alternatives></inline-formula>). In order to obtain the correct dimensions, this has to be divided by the endowment. The pattern in the results shows that this second factor should modify the first one. Summing up, we can assume that the probability of choosing cheap initially is:<disp-formula id="Equ7"><label>7</label><alternatives><tex-math id="M129">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} p_{cheap,0}=S/N\left( 1+\dfrac{Q_{\mathrm{exp}}-Q_{\mathrm{add}}-Q_{\mathrm{cheap}}}{M} \right) , \end{aligned}$$\end{document}</tex-math><mml:math id="M130" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:msub><mml:mi>p</mml:mi><mml:mrow><mml:mi>c</mml:mi><mml:mi>h</mml:mi><mml:mi>e</mml:mi><mml:mi>a</mml:mi><mml:mi>p</mml:mi><mml:mo>,</mml:mo><mml:mn>0</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mi>S</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mi>N</mml:mi><mml:mfenced close=")" open="("><mml:mn>1</mml:mn><mml:mo>+</mml:mo><mml:mstyle displaystyle="true" scriptlevel="0"><mml:mfrac><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">cheap</mml:mi></mml:msub></mml:mrow><mml:mi>M</mml:mi></mml:mfrac></mml:mstyle></mml:mfenced><mml:mo>,</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="41598_2020_77711_Article_Equ7.gif" position="anchor"/></alternatives></disp-formula>where <italic>M</italic> is the total amount received per round by a player, and <italic>S</italic>/<italic>N</italic> is the proportion between the number of free spaces in the cheap parking (<italic>S</italic>) and the size of the population (<italic>N</italic>).</p><p id="Par23">The second parameter to set is the one corresponding to the initial aspirations. Aspirations are the threshold that classify the stimulus we obtain from an outcome. If the outcome is above the aspirations, the stimulus is positive and reinforces the action; if it is below, it discourages. The distance between the outcome and the aspiration is a measure of the strength of the stimulus. As there is no information about the perceptions of the outcomes, we consider here a gaussian distribution of the aspirations, as the classification of the stimulus and their strength may depend on several factors including personal circumstances. The mean of this gaussian distribution is lower than <inline-formula id="IEq59"><alternatives><tex-math id="M131">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$M-Q_{exp}$$\end{document}</tex-math><mml:math id="M132"><mml:mrow><mml:mi>M</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mrow><mml:mi mathvariant="italic">exp</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq59.gif"/></alternatives></inline-formula>, considering that a great part of the population will consider positive to park in any parking. However, we consider also ambitious agents, which see as negative to spend on the expensive parking, and only receive positive stimulus when they achieve a spot in the cheap one. In order to model this, we introduce a standard deviation such that an 83% of the agents are not ambitious, leading to our choice of<disp-formula id="Equ8"><label>8</label><alternatives><tex-math id="M133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \mu =M-Q_{\mathrm{exp}}-M/5,\qquad \sigma =M/5. \end{aligned}$$\end{document}</tex-math><mml:math id="M134" display="block"><mml:mrow><mml:mtable><mml:mtr><mml:mtd columnalign="right"><mml:mrow><mml:mi>&#x003bc;</mml:mi><mml:mo>=</mml:mo><mml:mi>M</mml:mi><mml:mo>-</mml:mo><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>-</mml:mo><mml:mi>M</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mn>5</mml:mn><mml:mo>,</mml:mo><mml:mspace width="2em"/><mml:mi>&#x003c3;</mml:mi><mml:mo>=</mml:mo><mml:mi>M</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mn>5</mml:mn><mml:mo>.</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:mrow></mml:math><graphic xlink:href="41598_2020_77711_Article_Equ8.gif" position="anchor"/></alternatives></disp-formula>These aspirations are fixed during the whole simulation, which makes sense in view of the short length of the experimental sessions. Finally, the third parameter, namely the learning rate, which measures how much an action changes our probability to choose it again, has been set to <inline-formula id="IEq60"><alternatives><tex-math id="M135">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$l=1$$\end{document}</tex-math><mml:math id="M136"><mml:mrow><mml:mi>l</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq60.gif"/></alternatives></inline-formula>.</p><p id="Par24">Once we have the initial values, we have run 100 simulations and studied the evolution of the number of competitors, comparing it with the Nash equilibria predicted and the experiment results. Our results are collected in Figs. <xref rid="Fig2" ref-type="fig">2</xref> and <xref rid="Fig4" ref-type="fig">4</xref>. As can be seen from the time evolution, our groups take only a few rounds to settle on a behavior, with a constant fraction of them choosing the yellow parking lot. It is interesting to observe that agents in the model reach a more or less constant behavior in a time similar to that found in the experiment (cf. Fig. <xref rid="Fig2" ref-type="fig">2</xref>), so this is also well captured by our model. The only discrepancy between model and experiment is the transient process of the first rounds, which seems to be more erratic in the experiment as subjects try different options to get an impression of what is best for them. The final values at the end of the simulation are compared to the results from the experiment with a good agreement as well, and better than the Nash prediction in any event.<fig id="Fig4"><label>Figure 4</label><caption><p>Evolution of simulation averages for each treatment and round. Average number of competitors for each treatment. Error bars represent &#x000b1; one standard deviation of the mean.</p></caption><graphic xlink:href="41598_2020_77711_Fig4_HTML" id="MO12"/></fig></p><p id="Par25">If we sum up all the differences in the number of competitors for the cheap places between the experimental results and the reinforcement learning results the sum of these differences is 6.5, which shows a much greater performance than the Nash prediction (sum of differences is 22.23) and a similar performance as the Rosenthal prediction under <inline-formula id="IEq61"><alternatives><tex-math id="M137">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\hbox {t}=0.05$$\end{document}</tex-math><mml:math id="M138"><mml:mrow><mml:mtext>t</mml:mtext><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq61.gif"/></alternatives></inline-formula> (sum of differences is 4.66). A detailed comparison of the performance induced under the reinforcement learning model and the Rosenthal model would require an extensive parameter space search and larger scale experimentation which is beyond the scope of this paper. Another important result is that not only the average number of agents choosing yellow remains constant after a few rounds, but also 80% of them repeat their decision after the fifth round, with the 50% of them choose the cheaper parking always. This is also in agreement with the experimental observations. In addition, this observation justifies the consideration of a stationary model for capturing the longer-term behavior of users; one such model is the Rosenthal model considered here.</p></sec></sec><sec id="Sec8"><title>Discussion</title><p id="Par26">In this paper, we have reported results of an experiment in which we probe on human behavior when people have to choose between a convenient, cheap, but limited parking lot and an unlimited but less convenient one, when choosing the cheap parking lot and failing to find a&#x000a0;spot is also costly. Generally speaking, when the number of cheap parking spots is quite limited (1 per every 4 possible users), people tend to collectively reproduce the prediction of the Nash equilibrium; only in one case (when the expensive parking lot is much more expensive and the cost of not finding a spot in the cheap one is low) people behave more cautiously than the Nash prediction. On the other hand, when the cheap parking can accommodate up to 1 of each 2 possible cars, people behave in general again with caution, with the fraction of subjects going for the cheap parking being sizably smaller than the Nash prediction, sometimes by a factor of almost 2.</p><p id="Par27">Given the difficulties of the Nash equilibrium concept to predict the behavior observed in the experiments, we have proposed two alternative explanations for our observation. The first one is a stationary approach based on the idea of the Rosenthal equilibrium<sup><xref ref-type="bibr" rid="CR29">29</xref></sup>. In principle, one could claim that the rationality parameter <italic>t</italic> defining the Rosenthal equilibrium could be dependent on (a) the game itself and (b) the risk/costs involved based on the choices available. Given the game we have and our results, we have found that the parameter <inline-formula id="IEq62"><alternatives><tex-math id="M139">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M140"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq62.gif"/></alternatives></inline-formula> is a great match to all cases, except for&#x000a0;the &#x02018;hardest&#x02019; one (the unlimited parking lot is not very expensive but there is a big additional cost for missing the cheap one) for which a better match is that at <inline-formula id="IEq63"><alternatives><tex-math id="M141">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.02$$\end{document}</tex-math><mml:math id="M142"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.02</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq63.gif"/></alternatives></inline-formula> (more random than for <inline-formula id="IEq64"><alternatives><tex-math id="M143">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M144"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq64.gif"/></alternatives></inline-formula>). One possible intuition for this is that when weighing these two options, people find it harder to decide (or figure out which decision would be the best) and tend to finally make a decision closer to random than in the less &#x02018;hard&#x02019; cases. This would agree with the remarks made above about the dispersion of individual results when they are close to or far from the Nash equilibrium. Even then, in those simpler situations, the fact that <inline-formula id="IEq65"><alternatives><tex-math id="M145">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$t=0.05$$\end{document}</tex-math><mml:math id="M146"><mml:mrow><mml:mi>t</mml:mi><mml:mo>=</mml:mo><mml:mn>0.05</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq65.gif"/></alternatives></inline-formula> is a good match is an indication that there is a relevant degree of randomness in the decision process.</p><p id="Par28">To complete our discussion of the performance (i.e., distances from the experimental results) of the Rosenthal model for rationality parameter t values in <inline-formula id="IEq66"><alternatives><tex-math id="M147">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\{0.02, 0.05, 0.01\}$$\end{document}</tex-math><mml:math id="M148"><mml:mrow><mml:mo stretchy="false">{</mml:mo><mml:mn>0.02</mml:mn><mml:mo>,</mml:mo><mml:mn>0.05</mml:mn><mml:mo>,</mml:mo><mml:mn>0.01</mml:mn><mml:mo stretchy="false">}</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq66.gif"/></alternatives></inline-formula>, we note that (a) the Rosenthal model&#x02019;s predictions are clearly much closer to the experiments than the Nash predictions (distances 22.23 under Nash vs 9.85, 4.66, 8.15) and (b) they are comparable to that under the reinforcement learning model (distance of 6.5). Thus, it looks like a rationality parameter in the range of [0.02,&#x000a0;0.1] seems to capture well the average users&#x02019; stationary behavior in this parking (resource) selection problem. The left boundary of that range would be more effective when decisions are harder and, thus, the user behavior tends to be more random, as discussed earlier.</p><p id="Par29">As a complementary approach that is able to incorporate the time evolution of the people decisions, we have studied an agent based model based on reinforcement learning. Our results show a comparable performance with the (stationary) concept of the Rosenthal equilibrium, but most importantly, they support the interpretation we have just discussed by starting from random choices for the initial decision and showing that the group converges to a behavior very similar to the predicted one. Note that in reinforcement learning dynamics, randomness enters prominently as the probability to repeat an action depends strongly on the success or failure of its first use. As getting a spot is random when there is more demand than availability in the cheap parking, the corresponding success or failure of the decision is also partly random. An additional insight provided by our simulations under the reinforcement learning model is that the behavior becomes basically constant after 3 or 4 rounds, not only at the level of the group but also at the level of the individual agent. We thus believe that these dynamics support the use of the Rosenthal equilibrium as a tool to account for bounded rationality, and in turn, suggest that a very natural learning process can explain our observations.</p><p id="Par30">Interestingly, a related approach has been pursued by Guo et al.<sup><xref ref-type="bibr" rid="CR37">37</xref></sup>. They introduce a static game-theoretical model very similar to the one in our experimental design, but different in that their costs are explicitly stated in terms of time spent parking. In such a framework, equilibrium is defined in terms of the fraction of drivers choosing the small parking that makes the time cost of either choice the same. As in the Nash equilibrium approach, this approach only captures the rational aspects of the individual choices. However, the authors devote most of their work to a more elaborated dynamic model, incorporating uncertainty, and fitting their parameters to real data using genetic algorithms. In contrast to our model based on aspirations, the main features of the model in Ref.<sup><xref ref-type="bibr" rid="CR37">37</xref></sup> are the inclusion of an ambiguity factor and an optimistic index. Their conclusion is in line with ours: the dynamic model turns out to predict much better the occupancy of the parkings they analyze, and the irrational side of decision making (included in the ambiguity factor) appears to constitute an indispensable component of their parking lot choice decision process. We thus see that an independent, different modeling approach combined with data analysis yields a conclusion very similar to our experimental findings and to the conclusions we have drawn from our models.</p><p id="Par31">Our results are attractive in terms of making recommendations for the design of parkings subjected to high demand. Our experiments show that people are able to anticipate better the demand for this type of parkings when the number of available spots is more scarce, while when there is more availability the cheap parking may end up being suboptimally utilized. From this viewpoint, it seems that a good recommendation is to make parking lots with a rather limited amount of spots and to inform the possible users of this prominently. In this context, it may be interesting to consider a complementary approach in terms of a (Stackelberg) game between the authorities and the drivers<sup><xref ref-type="bibr" rid="CR38">38</xref></sup>. The combination of our insights with this optimization approach may prove very useful. On the other hand, we have also seen that people are also&#x000a0;more capable to take into account the group behavior when the cost of the alternative parking is not expensive. While further experimentation is needed in order to refine these conclusions, we have provided some guidance that can be useful particularly in the context of decarbonizing the cities by removing traffic from their centers.</p><p id="Par32">Finally, the results in this work are more general than the parking application we have been discussing. What we have seen is that in congestible goods situations, which appear quite often, the Nash equilibrium concept may be unable to predict or help to&#x000a0;understand how people behave, particularly in the case where the parameters make it difficult to have educated guesses of what should be the optimal behavior. Importantly, we have not only shown that, but also introduce an alternative approach combining an equilibrium model, namely the Rosenthal one, with a dynamic model based on reinforcement learning that provides an explanation of how that equilibrium is reached. We believe that this approach may be of interest for many other contexts and can prove itself useful to make policy recommendations and to guide decisions in a variety of problems.</p></sec><sec id="Sec9"><title>Methods</title><p id="Par33">The experiments were implemented in IBSEN-oTree<sup><xref ref-type="bibr" rid="CR39">39</xref></sup>. The participants played online through a web browser in a computer, tablet or mobile phone. All participants in the experiments signed an informed consent to participate when enrolling in the IBSEN volunteer pool<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>. In agreement with the Spanish Law for Personal Data Protection, their anonymity was always preserved. This procedure was approved by the Ethics Committee of Universidad Carlos III de Madrid, the institution responsible for funding the experiment, and the experiment was subsequently carried out in accordance with the approved guidelines.</p><p id="Par34">We recruited 240 subjects to take part in twelve sessions in June 2019. A total of 36 participants dropped out over the course of the experiment. For those decisions not taken, the software would decide at random for the participant, and these decisions would be marked as &#x0201c;automatic&#x0201d;. There were four types of experimental sessions, which were replicated three times. For the four types of experimental sessions, we tried two <italic>S</italic>/<italic>N</italic> values, two <inline-formula id="IEq67"><alternatives><tex-math id="M149">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M150"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq67.gif"/></alternatives></inline-formula>, and two <inline-formula id="IEq68"><alternatives><tex-math id="M151">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M152"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq68.gif"/></alternatives></inline-formula> values; ensuring that the different Nash equilibria, as computed above for these scenarios, were different and covered the whole solution space. Each participant was randomly assigned to a session. In her session, she participated in four repetitions of the game, for the same <italic>S</italic>/<italic>N</italic> value, and different ordering of the <inline-formula id="IEq69"><alternatives><tex-math id="M153">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M154"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq69.gif"/></alternatives></inline-formula> and <inline-formula id="IEq70"><alternatives><tex-math id="M155">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M156"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq70.gif"/></alternatives></inline-formula> values, to avoid the ordering bias in the results. This experimental design is summarized in Table <xref rid="Tab1" ref-type="table">1</xref>.</p><p id="Par35">The experimental design results in eight experimental treatments, for each combination of the three experimental parameters: <italic>S</italic>/<italic>N</italic>, <inline-formula id="IEq71"><alternatives><tex-math id="M157">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M158"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq71.gif"/></alternatives></inline-formula> and <inline-formula id="IEq72"><alternatives><tex-math id="M159">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M160"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq72.gif"/></alternatives></inline-formula>, with six replications per treatment. We will refer to each treatment as <inline-formula id="IEq73"><alternatives><tex-math id="M161">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$EXP\_S/N\_Q_{\mathrm{exp}}\_Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M162"><mml:mrow><mml:mi>E</mml:mi><mml:mi>X</mml:mi><mml:mi>P</mml:mi><mml:mi>_</mml:mi><mml:mi>S</mml:mi><mml:mo stretchy="false">/</mml:mo><mml:mi>N</mml:mi><mml:mi>_</mml:mi><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mi>_</mml:mi><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq73.gif"/></alternatives></inline-formula>, i. e., <inline-formula id="IEq74"><alternatives><tex-math id="M163">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$EXP\_0.5\_20\_10$$\end{document}</tex-math><mml:math id="M164"><mml:mrow><mml:mi>E</mml:mi><mml:mi>X</mml:mi><mml:mi>P</mml:mi><mml:mi>_</mml:mi><mml:mn>0.5</mml:mn><mml:mi>_</mml:mi><mml:mn>20</mml:mn><mml:mi>_</mml:mi><mml:mn>10</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq74.gif"/></alternatives></inline-formula> means <inline-formula id="IEq75"><alternatives><tex-math id="M165">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$S=10$$\end{document}</tex-math><mml:math id="M166"><mml:mrow><mml:mi>S</mml:mi><mml:mo>=</mml:mo><mml:mn>10</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq75.gif"/></alternatives></inline-formula>, <inline-formula id="IEq76"><alternatives><tex-math id="M167">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}=20$$\end{document}</tex-math><mml:math id="M168"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>20</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq76.gif"/></alternatives></inline-formula>, <inline-formula id="IEq77"><alternatives><tex-math id="M169">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}=10$$\end{document}</tex-math><mml:math id="M170"><mml:mrow><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mn>10</mml:mn></mml:mrow></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq77.gif"/></alternatives></inline-formula>.<table-wrap id="Tab1"><label>Table 1</label><caption><p>Parameterizations of the experimental sessions.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2">Sessions</th><th align="left" rowspan="2">S/N</th><th align="left" colspan="2">Repetition 1</th><th align="left" colspan="2">Repetition 2</th><th align="left" colspan="2">Repetition 3</th><th align="left" colspan="2">Repetition 4</th></tr><tr><th align="left"><inline-formula id="IEq78"><alternatives><tex-math id="M171">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M172"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq78.gif"/></alternatives></inline-formula></th><th align="left"><inline-formula id="IEq79"><alternatives><tex-math id="M173">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M174"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq79.gif"/></alternatives></inline-formula></th><th align="left"><inline-formula id="IEq80"><alternatives><tex-math id="M175">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M176"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq80.gif"/></alternatives></inline-formula></th><th align="left"><inline-formula id="IEq81"><alternatives><tex-math id="M177">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M178"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq81.gif"/></alternatives></inline-formula></th><th align="left"><inline-formula id="IEq82"><alternatives><tex-math id="M179">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M180"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq82.gif"/></alternatives></inline-formula></th><th align="left"><inline-formula id="IEq83"><alternatives><tex-math id="M181">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M182"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq83.gif"/></alternatives></inline-formula></th><th align="left"><inline-formula id="IEq84"><alternatives><tex-math id="M183">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{exp}}$$\end{document}</tex-math><mml:math id="M184"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">exp</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq84.gif"/></alternatives></inline-formula></th><th align="left"><inline-formula id="IEq85"><alternatives><tex-math id="M185">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$Q_{\mathrm{add}}$$\end{document}</tex-math><mml:math id="M186"><mml:msub><mml:mi>Q</mml:mi><mml:mi mathvariant="normal">add</mml:mi></mml:msub></mml:math><inline-graphic xlink:href="41598_2020_77711_Article_IEq85.gif"/></alternatives></inline-formula></th></tr></thead><tbody><tr><td align="left">1&#x02013;3</td><td align="left">0.5</td><td align="left">40</td><td align="left">50</td><td align="left">10</td><td align="left">50</td><td align="left">20</td><td align="left">50</td><td align="left">40</td><td align="left">50</td></tr><tr><td align="left">4&#x02013;6</td><td align="left">0.5</td><td align="left">20</td><td align="left">50</td><td align="left">20</td><td align="left">50</td><td align="left">40</td><td align="left">10</td><td align="left">20</td><td align="left">10</td></tr><tr><td align="left">7&#x02013;9</td><td align="left">0.25</td><td align="left">40</td><td align="left">50</td><td align="left">10</td><td align="left">50</td><td align="left">20</td><td align="left">50</td><td align="left">40</td><td align="left">50</td></tr><tr><td align="left">10&#x02013;12</td><td align="left">0.25</td><td align="left">20</td><td align="left">50</td><td align="left">20</td><td align="left">50</td><td align="left">40</td><td align="left">10</td><td align="left">20</td><td align="left">10</td></tr></tbody></table></table-wrap></p><p id="Par36">Only participants that made at least 70% of the decisions were considered to have finished the experiment and were&#x000a0;accordingly paid. The payment was a participation fee of 5 euros plus their payoff in a randomly selected round converted to euros. The average payment per participant was 13.5 euros.</p><p id="Par37">The experiment was conducted in Spanish. A translated version of the instructions can be found in the &#x0201c;<xref rid="MOESM1" ref-type="media">Supplementary information</xref>&#x0201d;.</p></sec><sec sec-type="supplementary-material"><title>Supplementary information</title><sec id="Sec20"><p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="41598_2020_77711_MOESM1_ESM.pdf"><caption><p>Supplementary information.</p></caption></media></supplementary-material></p></sec></sec></body><back><fn-group><fn><p><bold>Publisher's note</bold></p><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><sec><title>Supplementary information</title><p> is available for this paper at 10.1038/s41598-020-77711-w.</p></sec><ack><title>Acknowledgements</title><p>This research has been funded by the Spanish Ministerio de Ciencia, Innovaci&#x000f3;n y Universidades-FEDER funds of the European Union support, under project BASIC (PGC2018-098186-B-I00), and by Comunidad de Madrid under Grant PRACTICO-CM, and by Comunidad de Madrid and Universidad Carlos III de Madrid under grant CAVTIONS-CM-UC3M.</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>M.P., I.S., and A.S. conceived the original idea for the experiment; M.P. wrote the software interface for the experiment and carried out the experiment; M.P. analyzed the data; I.S. performed the numerical calculations; J.O. performed the agent-based simulations; all authors discussed the analysis results and wrote the paper.</p></notes><notes notes-type="data-availability"><title>Accession codes</title><p> Data is available in an structured way at Zenodo public repository with <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5281/zenodo.3961828">https://doi.org/10.5281/zenodo.3961828</ext-link>.</p></notes><notes id="FPar1" notes-type="COI-statement"><title>Competing interests</title><p id="Par41">The authors declare no competing interests.</p></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Milgate</surname><given-names>M</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Eatwell</surname><given-names>J</given-names></name><name><surname>Milgate</surname><given-names>M</given-names></name><name><surname>Newman</surname><given-names>P</given-names></name></person-group><article-title>Goods and commodities</article-title><source>Palgrave&#x02019;s New Dictionary of Economics</source><year>1987</year><publisher-loc>London</publisher-loc><publisher-name>Macmillan and Co.</publisher-name></element-citation></ref><ref id="CR2"><label>2.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bl&#x000fc;mel</surname><given-names>W</given-names></name><name><surname>Pethig</surname><given-names>R</given-names></name><name><surname>von dem Hagen</surname><given-names>O</given-names></name></person-group><article-title>The theory of public goods: A survey of recent issues</article-title><source>J. Institut. Theor. Econ. (JITE)</source><year>1986</year><volume>142</volume><fpage>241</fpage><lpage>309</lpage></element-citation></ref><ref id="CR3"><label>3.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Cowen</surname><given-names>T</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Henderson</surname><given-names>DR</given-names></name></person-group><article-title>Public goods</article-title><source>Concise Encyclopedia of Economics</source><year>2008</year><edition>2</edition><publisher-loc>Indianapolis</publisher-loc><publisher-name>Library of Economics and Liberty</publisher-name></element-citation></ref><ref id="CR4"><label>4.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Ostrom</surname><given-names>E</given-names></name></person-group><source>Governing the Commons: The Evolution of Institutions for Collective Action</source><year>1990</year><publisher-loc>Cambridge</publisher-loc><publisher-name>Cambridge University Press</publisher-name></element-citation></ref><ref id="CR5"><label>5.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hardin</surname><given-names>G</given-names></name></person-group><article-title>The tragedy of the commons</article-title><source>Science</source><year>1968</year><volume>162</volume><fpage>1243</fpage><lpage>1248</lpage><pub-id pub-id-type="doi">10.1126/science.162.3859.1243</pub-id></element-citation></ref><ref id="CR6"><label>6.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Cullis</surname><given-names>J</given-names></name><name><surname>Jones</surname><given-names>P</given-names></name></person-group><source>Public Finance and Public Choice</source><year>1998</year><edition>2</edition><publisher-loc>Oxford</publisher-loc><publisher-name>Oxford University Press</publisher-name></element-citation></ref><ref id="CR7"><label>7.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hillman</surname><given-names>A</given-names></name></person-group><source>Public Finance and Public Policy</source><year>2009</year><edition>2</edition><publisher-loc>Cambridge</publisher-loc><publisher-name>Cambridge University Press</publisher-name></element-citation></ref><ref id="CR8"><label>8.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Blomquist</surname><given-names>S</given-names></name><name><surname>Christiansen</surname><given-names>V</given-names></name><name><surname>Micheletto</surname><given-names>L</given-names></name></person-group><article-title>Public provision of private goods and nondistortionary marginal tax rates</article-title><source>Am. Econ. J. Econ. Policy</source><year>2010</year><volume>2</volume><fpage>1</fpage><lpage>27</lpage><pub-id pub-id-type="doi">10.1257/pol.2.2.1</pub-id></element-citation></ref><ref id="CR9"><label>9.</label><element-citation publication-type="book"><person-group person-group-type="editor"><name><surname>Picot</surname><given-names>A</given-names></name><name><surname>Florio</surname><given-names>M</given-names></name><name><surname>Grove</surname><given-names>N</given-names></name><name><surname>Kranz</surname><given-names>J</given-names></name></person-group><source>The Economics of Infrastructure Provisioning</source><year>2015</year><publisher-loc>Cambridge</publisher-loc><publisher-name>MIT Press</publisher-name></element-citation></ref><ref id="CR10"><label>10.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barnes</surname><given-names>DW</given-names></name></person-group><article-title>Congestible intellectual property and impure public goods</article-title><source>Northwestern J. Technol. Intellec. Property</source><year>2011</year><volume>9</volume><fpage>533</fpage><lpage>563</lpage></element-citation></ref><ref id="CR11"><label>11.</label><mixed-citation publication-type="other">Hasan, C., Altman, E., Gorce, J.-M., &#x00026; Haddad, M. Non-cooperative association of mobiles to access points revisited. in <italic>Proc. 10th Inter. Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt)</italic>, Paderborn, Germany</mixed-citation></ref><ref id="CR12"><label>12.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Shoup</surname><given-names>D</given-names></name></person-group><source>The High Cost of Free Parking</source><year>2011</year><publisher-loc>New York</publisher-loc><publisher-name>Routledge</publisher-name></element-citation></ref><ref id="CR13"><label>13.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shoup</surname><given-names>D</given-names></name></person-group><article-title>Cruising for parking</article-title><source>Transp. Policy</source><year>2006</year><volume>13</volume><fpage>479</fpage><lpage>486</lpage><pub-id pub-id-type="doi">10.1016/j.tranpol.2006.05.005</pub-id></element-citation></ref><ref id="CR14"><label>14.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Shoup</surname><given-names>D</given-names></name></person-group><source>Parking and the City</source><year>2018</year><publisher-loc>New York</publisher-loc><publisher-name>Routledge</publisher-name></element-citation></ref><ref id="CR15"><label>15.</label><mixed-citation publication-type="other">Park, W.J., Kim, B.S., Seo, D.E., Kim, D.S., Lee, K.H. 2008. Parking space detection using ultrasonic sensor in parking assistance system. In <italic>Proceedings of the IEEE Intelligent Vehicles Symposium</italic>.</mixed-citation></ref><ref id="CR16"><label>16.</label><mixed-citation publication-type="other">Panja, B., Schneider, B., Meharia, P. 2011. Wirelessly sensing open parking spaces: accounting and management of parking facility. in <italic>Proceedings of AMCIS</italic>.</mixed-citation></ref><ref id="CR17"><label>17.</label><mixed-citation publication-type="other">Wolfson, O., Xu, B. 2004. Opportunistic dissemination of spatio-temporal resource information in mobile peer to peer networks. in <italic>Proceedings of the 15th International Workshop on Database and Expert Systems Applications</italic>.</mixed-citation></ref><ref id="CR18"><label>18.</label><mixed-citation publication-type="other">Kokolaki, E., Karaliopoulos, M., Stavrakakis, I. 2011. Value of information exposed: Wireless networking solutions to the parking search problem. in <italic>Proceedings of the 8th International Conference on Wireless On-Demand Network Systems and Services (WONS)</italic>.</mixed-citation></ref><ref id="CR19"><label>19.</label><mixed-citation publication-type="other">Mathur, S., Jin, T., Kasturirangan, N., Chandrasekaran, J., Xue, W., Gruteser, M., Trappe, W. 2010. ParkNet: Drive-by sensing of road-side parking statistics. in <italic>Proceedings of the 8th International Conference on Mobile Systems, Applications, and Services</italic>. 10/11</mixed-citation></ref><ref id="CR20"><label>20.</label><mixed-citation publication-type="other">Verroios, V., Efstathiou, V., Delis, A. 2011. Reaching available public parking spaces in urban environments using ad hoc networking. in <italic>Proceedings of 12th IEEE International Conference on Mobile Data Management (MDM)</italic>.</mixed-citation></ref><ref id="CR21"><label>21.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kokolaki</surname><given-names>E</given-names></name><name><surname>Karaliopoulos</surname><given-names>M</given-names></name><name><surname>Stavrakakis</surname><given-names>I</given-names></name></person-group><article-title>Opportunistically assisted parking service discovery: Now it helps, now it does not</article-title><source>Pervasive Mobile Comput.</source><year>2012</year><volume>8</volume><fpage>210</fpage><lpage>227</lpage><pub-id pub-id-type="doi">10.1016/j.pmcj.2011.06.003</pub-id></element-citation></ref><ref id="CR22"><label>22.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Goot</surname><given-names>DVD</given-names></name></person-group><article-title>A model to describe the choice of parking places</article-title><source>Transport. Res. Part A General</source><year>1982</year><volume>16</volume><fpage>109</fpage><lpage>111</lpage><pub-id pub-id-type="doi">10.1016/0191-2607(82)90003-6</pub-id></element-citation></ref><ref id="CR23"><label>23.</label><mixed-citation publication-type="other">Ayala, D., Wolfson, O., Xu, B., Dasgupta, B., Lin, J. 2011. Parking slot assignment games. in <italic>Proceedings of the 19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems</italic>.</mixed-citation></ref><ref id="CR24"><label>24.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hutchinson</surname><given-names>JMC</given-names></name><name><surname>Fanselow</surname><given-names>C</given-names></name><name><surname>Todd</surname><given-names>PM</given-names></name></person-group><person-group person-group-type="editor"><name><surname>Todd</surname><given-names>PM</given-names></name><name><surname>Gigerenzer</surname><given-names>G</given-names></name><collab>The ABC Research Group</collab></person-group><article-title>Car parking as a game between simple heuristics</article-title><source>Ecological Rationality: Intelligence in the World</source><year>2012</year><publisher-loc>New York</publisher-loc><publisher-name>Oxford University Press</publisher-name><fpage>454</fpage><lpage>484</lpage></element-citation></ref><ref id="CR25"><label>25.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abidi</surname><given-names>S</given-names></name><name><surname>Krichen</surname><given-names>S</given-names></name><name><surname>Alba</surname><given-names>E</given-names></name><name><surname>Molina</surname><given-names>JM</given-names></name></person-group><article-title>New heuristic for solving the parking assignment problem</article-title><source>Procedia Comput. Sci.</source><year>2015</year><volume>60</volume><fpage>312</fpage><lpage>321</lpage><pub-id pub-id-type="doi">10.1016/j.procs.2015.08.132</pub-id></element-citation></ref><ref id="CR26"><label>26.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mladenovic</surname><given-names>M</given-names></name><name><surname>Delot</surname><given-names>T</given-names></name><name><surname>Laporte</surname><given-names>G</given-names></name><etal/></person-group><article-title>The parking allocation problem for connected vehicles</article-title><source>J. Heuristics</source><year>2020</year><volume>26</volume><fpage>377</fpage><lpage>399</lpage><pub-id pub-id-type="doi">10.1007/s10732-017-9364-7</pub-id></element-citation></ref><ref id="CR27"><label>27.</label><mixed-citation publication-type="other">Kokolaki, E., Karaliopoulos, M., &#x00026; Stavrakakis, I. On the human-driven decision-making process in competitive environments. in <italic>Internet Science Conference&#x02019;13</italic>, April 10&#x02013;11, 2013, Brussels.</mixed-citation></ref><ref id="CR28"><label>28.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Camerer</surname><given-names>CF</given-names></name></person-group><source>Behavioral Game Theory: Experiments in Strategic Interaction</source><year>2003</year><publisher-loc>New York</publisher-loc><publisher-name>Princeton University Press</publisher-name></element-citation></ref><ref id="CR29"><label>29.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosenthal</surname><given-names>R</given-names></name></person-group><article-title>A bounded-rationality approach to the study of noncooperative games</article-title><source>Int. J. Game Theory</source><year>1989</year><volume>18</volume><fpage>273</fpage><lpage>292</lpage><pub-id pub-id-type="doi">10.1007/BF01254292</pub-id></element-citation></ref><ref id="CR30"><label>30.</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bush</surname><given-names>R</given-names></name><name><surname>Mosteller</surname><given-names>F</given-names></name></person-group><source>Stochastic Models of Learning</source><year>1955</year><publisher-loc>New York</publisher-loc><publisher-name>John Wiley and Sons</publisher-name></element-citation></ref><ref id="CR31"><label>31.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cuesta</surname><given-names>J</given-names></name><name><surname>Gracia-L&#x000e1;zaro</surname><given-names>C</given-names></name><name><surname>Ferrer</surname><given-names>A</given-names></name><name><surname>Moreno</surname><given-names>Y</given-names></name><name><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name></person-group><article-title>Reputation drives cooperative behavior and network formation in human groups</article-title><source>Sci. Rep.</source><year>2015</year><volume>5</volume><fpage>7843</fpage><pub-id pub-id-type="doi">10.1038/srep07843</pub-id><pub-id pub-id-type="pmid">25598347</pub-id></element-citation></ref><ref id="CR32"><label>32.</label><mixed-citation publication-type="other">Kokolaki, E., Karaliopoulos, M. &#x00026; Stavrakakis, I. On the efficiency of information-assisted search for parking space: Agame-theoretic approach. In Elmenreich, W., Dressler, F. &#x00026; Loreto, V. (eds.) <italic>Self-Organizing Systems</italic>, 54&#x02013;65 (Springer, Berlin, Heidelberg, 2014).</mixed-citation></ref><ref id="CR33"><label>33.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Macy</surname><given-names>MW</given-names></name><name><surname>Flache</surname><given-names>A</given-names></name></person-group><article-title>Learning dynamics in social dilemmas</article-title><source>Proc. Natl. Acad. Sci. USA</source><year>2002</year><volume>3</volume><fpage>7229</fpage><lpage>7236</lpage><pub-id pub-id-type="doi">10.1073/pnas.092080099</pub-id></element-citation></ref><ref id="CR34"><label>34.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cimini</surname><given-names>G</given-names></name><name><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name></person-group><article-title>Learning dynamics explains human behavior in Prisoner&#x02019;s Dilemma on networks</article-title><source>J. Roy. Soc. Interface</source><year>2014</year><volume>11</volume><fpage>20131186</fpage><pub-id pub-id-type="doi">10.1098/rsif.2013.1186</pub-id><pub-id pub-id-type="pmid">24554577</pub-id></element-citation></ref><ref id="CR35"><label>35.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ezaki</surname><given-names>T</given-names></name><name><surname>Horita</surname><given-names>Y</given-names></name><name><surname>Takezawa</surname><given-names>M</given-names></name><name><surname>Masuda</surname><given-names>N</given-names></name></person-group><article-title>Reinforcement learning explains cooperation and its Moody Cousin</article-title><source>PLoS Comput. Biol.</source><year>2016</year><volume>12</volume><fpage>e1005034</fpage><pub-id pub-id-type="doi">10.1371/journal.pcbi.1005034</pub-id><pub-id pub-id-type="pmid">27438888</pub-id></element-citation></ref><ref id="CR36"><label>36.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ezaki</surname><given-names>T</given-names></name><name><surname>Masuda</surname><given-names>N</given-names></name></person-group><article-title>Reinforcement learning account of network reciprocity</article-title><source>PLoS ONE</source><year>2017</year><volume>12</volume><fpage>e0189220</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0189220</pub-id><pub-id pub-id-type="pmid">29220413</pub-id></element-citation></ref><ref id="CR37"><label>37.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guo</surname><given-names>L</given-names></name><name><surname>Huang</surname><given-names>S</given-names></name><name><surname>Zhuang</surname><given-names>J</given-names></name><name><surname>Sadek</surname><given-names>AW</given-names></name></person-group><article-title>Modeling parking behavior under uncertainty: A static game theoretic versus a sequential neo-additive capacity modeling approach</article-title><source>Netw. Spatial Econ.</source><year>2013</year><volume>13</volume><fpage>327</fpage><lpage>350</lpage><pub-id pub-id-type="doi">10.1007/s11067-012-9183-1</pub-id></element-citation></ref><ref id="CR38"><label>38.</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hollander</surname><given-names>Y</given-names></name><name><surname>Prashker</surname><given-names>JN</given-names></name><name><surname>Mahalel</surname><given-names>D</given-names></name></person-group><article-title>Determining the desired amount of parking using game theory</article-title><source>J. Urban Plan. Develop.</source><year>2006</year><volume>132</volume><fpage>53</fpage><lpage>61</lpage><pub-id pub-id-type="doi">10.1061/(ASCE)0733-9488(2006)132:1(53)</pub-id></element-citation></ref><ref id="CR39"><label>39.</label><mixed-citation publication-type="other">IBSEN-oTree. Available via the IBSEN webpage. <ext-link ext-link-type="uri" xlink:href="https://www.ibsen-h2020.eu/software/">https://www.ibsen-h2020.eu/software/</ext-link> (Accessed 11 June 2020).</mixed-citation></ref><ref id="CR40"><label>40.</label><mixed-citation publication-type="other">IBSEN (Bridging the gap: From Individual behavior to the Socio-tEchnical Man) project webpage. <ext-link ext-link-type="uri" xlink:href="http://www.ibsen-h2020.eu">http://www.ibsen-h2020.eu</ext-link> (Accessed 11 June 2020).</mixed-citation></ref></ref-list></back></article>

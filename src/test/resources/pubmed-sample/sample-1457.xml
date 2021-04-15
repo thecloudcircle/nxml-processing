@@ -1,0 +1,624 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="brief-report"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">European J Org Chem</journal-id><journal-id journal-id-type="iso-abbrev">European J Org Chem</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1099-0690</journal-id><journal-id journal-id-type="publisher-id">EJOC</journal-id><journal-title-group><journal-title>European Journal of Organic Chemistry</journal-title></journal-title-group><issn pub-type="ppub">1434-193X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28479872</article-id><article-id pub-id-type="pmc">5396374</article-id><article-id pub-id-type="doi">10.1002/ejoc.201601336</article-id><article-id pub-id-type="publisher-id">EJOC201601336</article-id><article-categories><subj-group subj-group-type="overline"><subject>Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Communications</subject><subj-group subj-group-type="heading"><subject>Copper Catalysis</subject></subj-group></subj-group></article-categories><title-group><article-title>A Cu&#x02010;Catalysed Radical Cross&#x02010;Dehydrogenative Coupling Approach to Acridanes and Related Heterocycles</article-title><alt-title alt-title-type="left-running-head">T. E. Hurst, R. J. K Taylor</alt-title><alt-title alt-title-type="right-running-head">A Cu&#x02010;Catalysed Radical Cross&#x02010;Dehydrogenative Coupling Approach to Acridanes and Related Heterocycles</alt-title></title-group><contrib-group><contrib id="ejoc201601336-cr-0001" contrib-type="author" corresp="yes"><name><surname>Hurst</surname><given-names>Timothy E.</given-names></name><address><email>hurstt@queensu.ca</email></address><xref ref-type="aff" rid="ejoc201601336-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejoc201601336-cr-0002" contrib-type="author" corresp="yes"><name><surname>Taylor</surname><given-names>Richard J. K.</given-names></name><address><email>richard.taylor@york.ac.uk</email><ext-link ext-link-type="uri" xlink:href="http://www.york.ac.uk/chemistry/staff/academic/t-z/rtaylor/">http://www.york.ac.uk/chemistry/staff/academic/t&#x02010;z/rtaylor/</ext-link></address><xref ref-type="aff" rid="ejoc201601336-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ejoc201601336-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Chemistry</named-content><institution>University of York</institution><named-content content-type="street">Heslington</named-content><named-content content-type="post-code">YO10 5DD</named-content><named-content content-type="city">York</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Department of Chemistry, University of York, Heslington, York, YO10 5DD, UK<break/>
+E&#x02010;mail: <email>richard.taylor@york.ac.uk</email><break/><ext-link ext-link-type="uri" xlink:href="http://www.york.ac.uk/chemistry/staff/academic/t-z/rtaylor/">http://www.york.ac.uk/chemistry/staff/academic/t&#x02010;z/rtaylor/</ext-link><break/></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>1</month><year>2017</year></pub-date><pub-date pub-type="ppub"><day>03</day><month>1</month><year>2017</year></pub-date><volume>2017</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/ejoc.v2017.1</issue-id><fpage>203</fpage><lpage>207</lpage><history><date date-type="received"><day>24</day><month>10</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 WILEY&#x02010;VCH Verlag GmbH & Co. KGaA, Weinheim <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Published by Wiley&#x02010;VCH Verlag GmbH &#x00026; Co. KGaA.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EJOC-2017-203.pdf"/><abstract><p>The synthesis of acridanes and related compounds through a Cu&#x02010;catalysed radical cross&#x02010;dehydrogenative coupling of simple 2&#x02010;[2&#x02010;(arylamino)aryl]malonates is reported. This method can be further streamlined to a one&#x02010;pot protocol involving the in situ fomation of the 2&#x02010;[2&#x02010;(arylamino)aryl]malonate by &#x003b1;&#x02010;arylation of diethyl malonate with 2&#x02010;bromodiarylamines under Pd catalysis, followed by Cu&#x02010;catalysed cyclisation.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ejoc201601336-kwd-0001">Acridanes</kwd><kwd id="ejoc201601336-kwd-0002">Copper</kwd><kwd id="ejoc201601336-kwd-0003">Homogeneous catalysis</kwd><kwd id="ejoc201601336-kwd-0004">Nitrogen heterocycles</kwd><kwd id="ejoc201601336-kwd-0005">Cross&#x02010;coupling</kwd><kwd id="ejoc201601336-kwd-0006">Dehydrogenation</kwd><kwd id="ejoc201601336-kwd-0007">One&#x02010;pot reaction</kwd></kwd-group><funding-group><award-group><funding-source>Engineering and Physical Sciences Research Council</funding-source><award-id>EP/J000124/1</award-id></award-group></funding-group><counts><fig-count count="9"/><table-count count="1"/><page-count count="5"/><word-count count="0"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ejoc201601336</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 3, 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.9 mode:remove_FC converted:19.04.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="ejoc201601336-sec-0010"><title>Introduction</title><p>In recent years C&#x02013;H activation has emerged as a powerful and attractive method in organic synthesis since it enables the formation of C&#x02013;C bonds without pre&#x02010;functionalisation of one or both of the coupling partners, which leads to more efficient and atom&#x02010;economical processes. Within the wider pantheon of C&#x02013;H activation, cross&#x02010;dehydrogenative couplings (CDC) have proved to be versatile procedures for the selective formation of C&#x02013;C bonds from two different C&#x02013;H systems under oxidative conditions.<xref rid="ejoc201601336-bib-0001" ref-type="ref">1</xref> Our contribution in this area involves the synthesis of diverse nitrogen heterocycles through the Cu&#x02010;catalysed oxidative coupling of C<sub>sp2</sub>&#x02013;H and C<sub>sp3</sub>&#x02013;H bonds;<xref rid="ejoc201601336-bib-0002" ref-type="ref">2</xref> a radical variant of the CDC process.</p><p>9,10&#x02010;Dihydroacridines (acridanes) have garnered much attention<xref rid="ejoc201601336-bib-0003" ref-type="ref">3</xref> due to their potent biological activity, including inhibition of histone deacetylase (class IIa)<xref rid="ejoc201601336-bib-0004" ref-type="ref">4</xref> and HIV reverse transcriptase,<xref rid="ejoc201601336-bib-0005" ref-type="ref">5</xref> neuroleptic activity<xref rid="ejoc201601336-bib-0006" ref-type="ref">6</xref> and as activators of K<sub>2P</sub> potassium channels<xref rid="ejoc201601336-bib-0007" ref-type="ref">7</xref> (e.g., <bold>1</bold>, Figure <xref rid="ejoc201601336-fig-0001" ref-type="fig">1</xref>). Furthermore, acridanes have been employed as chemiluminescent sensors in immunoassays<xref rid="ejoc201601336-bib-0008" ref-type="ref">8</xref> (e.g., <bold>2</bold>), as NADH analogues in hydride&#x02010;transfer reactions,<xref rid="ejoc201601336-bib-0009" ref-type="ref">9</xref> as host materials in OLEDs<xref rid="ejoc201601336-bib-0010" ref-type="ref">10</xref> (e.g., <bold>3</bold>), as photoswitches<xref rid="ejoc201601336-bib-0011" ref-type="ref">11</xref> and as molecular motors.<xref rid="ejoc201601336-bib-0012" ref-type="ref">12</xref> Moreover, acridanes are valuable building blocks that are readily oxidised to acridines or acridones,<xref rid="ejoc201601336-bib-0013" ref-type="ref">13</xref> functionalised by C&#x02013;H activation<xref rid="ejoc201601336-bib-0014" ref-type="ref">14</xref> and easily converted into 5<italic>H</italic>&#x02010;dibenzo[<italic>b</italic>,<italic>f</italic>]azepines or 5,11&#x02010;dihydro&#x02010;10<italic>H</italic>&#x02010;dibenzo[<italic>b</italic>,<italic>e</italic>][1,4]diazepines by ring expansion.<xref rid="ejoc201601336-bib-0015" ref-type="ref">15</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="ejoc201601336-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Examples demonstrating the utility of acridanes.</p></caption><graphic id="nlm-graphic-3" xlink:href="EJOC-2017-203-g002"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></fig><p>Given the proven utility of acridanes, the sparse number of general methods available for their preparation is surprising.<xref rid="ejoc201601336-bib-0003" ref-type="ref">3</xref> Traditionally, they have been prepared by nucleophilic addition to acridines <bold>4</bold> or acridinium salts <bold>5</bold> (Scheme <xref rid="ejoc201601336-fig-0002" ref-type="fig">1</xref>, eq 1),<xref rid="ejoc201601336-bib-0016" ref-type="ref">16</xref> or by a Friedel&#x02013;Crafts&#x02010;type cyclisation of diarylamines <bold>7</bold> with strong acid (Scheme <xref rid="ejoc201601336-fig-0002" ref-type="fig">1</xref>, eq 2).<xref rid="ejoc201601336-bib-0017" ref-type="ref">17</xref> However, the need to rely either on the commercial availability or on a potentially lengthy synthesis of acridines <bold>4</bold>, in combination with the requirements for the use of strong acids and well&#x02010;known problems of site selectivity associated with Friedel&#x02013;Crafts cyclisations, means that new approaches to highly substituted acridane derivatives are of considerable interest.</p><fig fig-type="Scheme" xml:lang="en" id="ejoc201601336-fig-0002" orientation="portrait" position="float"><label>Scheme 1</label><caption><p>Approaches for the synthesis of acridanes.</p></caption><graphic id="nlm-graphic-5" xlink:href="EJOC-2017-203-g003"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></fig><p>Thus, in continuation of our studies on the synthesis of diverse heterocyclic scaffolds by oxidative cyclisation of linear precursors with inexpensive Cu salts,<xref rid="ejoc201601336-bib-0002" ref-type="ref">2</xref> our goal was to exploit this simple yet powerful methodology in the preparation of acridane derivatives <bold>10</bold> from 2&#x02010;[2&#x02010;(arylamino)aryl]malonates <bold>9</bold> (Scheme <xref rid="ejoc201601336-fig-0002" ref-type="fig">1</xref>, eq 3).</p><p>The likely mechanism for this process, by analogy with earlier studies,[<xref rid="ejoc201601336-bib-0002" ref-type="ref">2d</xref>], [<xref rid="ejoc201601336-bib-0002" ref-type="ref">2f</xref>] is shown in Scheme <xref rid="ejoc201601336-fig-0002" ref-type="fig">1</xref>. Initially, proton abstraction and single&#x02010;electron oxidation would give malonyl radical <bold>A</bold>, which would undergo intramolecular homolytic aromatic substitution to give <bold>B</bold>, followed by further oxidation to give the cyclohexadienyl cation <bold>C</bold>, which would finally aromatise to generate the desired product <bold>10</bold>. Evidence for a radical&#x02010;based mechanism in these Cu&#x02010;mediated oxidative coupling reactions includes radical&#x02010;clock experiments,[<xref rid="ejoc201601336-bib-0002" ref-type="ref">2d</xref>] as well as DFT calculations conducted by K&#x000fc;ndig in related systems.[<xref rid="ejoc201601336-bib-0002" ref-type="ref">2f</xref>] Clearly, two equivalents of Cu salt are nominally required to effect both single&#x02010;electron oxidations involved in the process. However, in related studies we have demonstrated that a catalytic amount of the Cu salt may be used with air serving as the terminal oxidant.</p></sec><sec id="ejoc201601336-sec-0020"><title>Results and Discussion</title><p>The initial task was to develop a flexible and modular approach for the synthesis of the cyclisation precursors <bold>15</bold> (Scheme <xref rid="ejoc201601336-fig-0003" ref-type="fig">2</xref>), which would allow the facile introduction of substituents at various positions on the acridane skeleton.</p><fig fig-type="Scheme" xml:lang="en" id="ejoc201601336-fig-0003" orientation="portrait" position="float"><label>Scheme 2</label><caption><p>Modular synthesis of cyclisation precursors <bold>15a</bold>&#x02013;<bold>j</bold>.</p></caption><graphic id="nlm-graphic-7" xlink:href="EJOC-2017-203-g004"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></fig><p>In the event, <italic>N</italic>&#x02010;aryloxindoles <bold>11</bold> proved to be versatile starting materials for the preparation of cyclisation precursors <bold>15</bold> by a three&#x02010;step protocol (Scheme <xref rid="ejoc201601336-fig-0003" ref-type="fig">2</xref>). First, ring&#x02010;opening of the lactam moiety was carried out by treatment with NaOH in refluxing THF, followed by in situ formation of the dianions <bold>12</bold> by addition of <italic>n</italic>BuLi at low temperature and subsequent trapping with the appropriate electrophile to give carboxylic acids <bold>13</bold>.<xref rid="ejoc201601336-bib-0018" ref-type="ref">18</xref> Then, simple esterification, deprotonation with LiHMDS and trapping with the requisite cyano&#x02010; or chloroformate delivered 2&#x02010;[2&#x02010;(arylamino)aryl]malonates <bold>15a</bold>&#x02013;<bold>j</bold>. In this manner, control over the substitution pattern on the aromatic rings, as well as on the nitrogen atom and ester, functionality could be readily achieved (14&#x02013;63&#x02009;% unoptimised overall yields; see the Supporting Information for details).</p><p>With ready access to the required linear substrates in hand, the cyclisation of model substrate <bold>15a</bold> was then examined. Pleasingly, treatment of <bold>15a</bold> under the conditions previously reported[<xref rid="ejoc201601336-bib-0002" ref-type="ref">2b</xref>] in our synthesis of oxindoles [Cu(2&#x02010;ethylhexanoate)<sub>2</sub> (10 mol&#x02010;%), toluene, reflux, open flask] delivered the desired acridane <bold>16a</bold> in 87&#x02009;% yield without the need for further optimisation (Scheme <xref rid="ejoc201601336-fig-0004" ref-type="fig">3</xref>). It is also noteworthy that the oxidative coupling could be performed in the presence of only 5 mol&#x02010;% or 2 mol&#x02010;% of the catalyst, with only a minor drop in yield (Scheme <xref rid="ejoc201601336-fig-0004" ref-type="fig">3</xref>, footnote a).</p><fig fig-type="Scheme" xml:lang="en" id="ejoc201601336-fig-0004" orientation="portrait" position="float"><label>Scheme 3</label><caption><p>Scope of the Cu&#x02010;catalysed synthesis of acridanes. [a] <bold>16a</bold> was obtained in 83 and 84&#x02009;% yield when Cu(2&#x02010;ethylhexanoate)<sub>2</sub> (5 mol&#x02010;% and 2 mol&#x02010;%) were used, respectively. [b] Cu(2&#x02010;ethylhexanoate)<sub>2</sub> (2.5 equiv.) and DIPEA (2.5 equiv.) were used under an atmosphere of argon.</p></caption><graphic id="nlm-graphic-9" xlink:href="EJOC-2017-203-g005"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></fig><p>By following this successful initial result, the generality of this new Cu&#x02010;catalysed approach to acridanes was explored (Scheme <xref rid="ejoc201601336-fig-0004" ref-type="fig">3</xref>). First, cyclisation of <bold>15b</bold>, which bears a removable protecting group on the nitrogen atom, was carried out to give <italic>N</italic>&#x02010;benzylacridane <bold>16b</bold>, albeit in reduced yield in comparison to <italic>N</italic>&#x02010;ethyl derivative <bold>16a</bold>. Next, acridanes <bold>16c</bold>&#x02013;<bold>f</bold> bearing differentially protected esters (e.g., allyl, Bn, Fmoc) were prepared, which opens the possibility for further manipulations of the cyclised products (vide infra). The Fmoc&#x02010;protected ester <bold>16e</bold> was crystalline, which allowed unambiguous confirmation of its structure through X&#x02010;ray crystallographic analysis (see the Supporting Information).</p><p>Next, the introduction of substituents at various positions on either aromatic ring of the acridane skeleton was explored, which gave <bold>16g</bold>&#x02013;<bold>j</bold> in good to excellent yields. Incorporation of a nitrogen atom into one of the aromatic rings was also possible; isolation of the corresponding aza&#x02010;acridane <bold>16k</bold> was achieved in 66&#x02009;% yield.</p><p>Having established the effectiveness of the Cu&#x02010;catalysed route to acridanes <bold>16a</bold>&#x02013;<bold>k</bold>, we extended this method to the synthesis of other related heterocycles of interest, such as xanthenes and thioxanthenes (Scheme <xref rid="ejoc201601336-fig-0004" ref-type="fig">3</xref>, <bold>16l</bold>&#x02013;<bold>m</bold>). However, cyclisation of a linear diaryl ether in the presence of 10 mol&#x02010;% Cu(2&#x02010;ethylhexanoate)<sub>2</sub> under the standard reaction conditions delivered xanthene <bold>16l</bold> in a disappointing yield of 33&#x02009;%. Also isolated was an equal amount of a by&#x02010;product, identified as ethyl 2&#x02010;oxo&#x02010;2&#x02010;(2&#x02010;phenoxyphenyl)acetate, which arises from competing decarboxylation and aerial oxidation of the starting material. This problem was exacerbated in the case of thioxanthene <bold>16m</bold>, which was isolated in only 20&#x02009;% yield along with 53&#x02009;% of the undesired by&#x02010;product. Further optimisation of these reactions is clearly required but fortunately, in both cases, the yield of the oxidation by&#x02010;products could be minimised by performing the cyclisation under an atmosphere of argon, which leads to formation of xanthene <bold>16l</bold> and thioxanthene <bold>16m</bold> in 47 and 44&#x02009;% yields, respectively. While formation of the desired products <bold>16l</bold>&#x02013;<bold>m</bold> is enhanced under these conditions, performing the reaction under argon necessitates the use of 2.5 equiv. of Cu salt to allow the reaction to proceed to completion (see proposed mechanism, Scheme <xref rid="ejoc201601336-fig-0002" ref-type="fig">1</xref>).</p><p>In order to demonstrate the utility of the acridanes derived from the Cu&#x02010;catalysed cyclisation, a brief study on their further functionalisation was carried out (Scheme <xref rid="ejoc201601336-fig-0005" ref-type="fig">4</xref>). For example, treatment of <bold>16a</bold> with an excess of KOH in EtOH/H<sub>2</sub>O resulted in saponification and decarboxylation to give acid <bold>17</bold> in excellent yield. This provides an alternative route, which may be useful in the synthesis of chemiluminescent sensors analogous to <bold>2</bold> (Figure <xref rid="ejoc201601336-fig-0001" ref-type="fig">1</xref>). Reduction of the esters was also achieved in the presence of LiAlH<sub>4</sub> to give diol <bold>18</bold> in 94&#x02009;% yield. Furthermore, selective functionalisation of the allyl ester in <bold>16c</bold> was carried out by decarboxylative allylic alkylation in the presence of 4 mol&#x02010;% Pd(PPh<sub>3</sub>)<sub>4</sub> to give <bold>19</bold> and thereby generate a new quaternary carbon centre, again in excellent yield. Finally, hydrogenolysis of the benzyl protecting group in <bold>16b</bold> delivered acridane <bold>20</bold> bearing a free N&#x02013;H group in reasonable, un&#x02010;optimised yield.</p><fig fig-type="Scheme" xml:lang="en" id="ejoc201601336-fig-0005" orientation="portrait" position="float"><label>Scheme 4</label><caption><p>Further derivatisation of acridanes obtained from oxidative coupling.</p></caption><graphic id="nlm-graphic-11" xlink:href="EJOC-2017-203-g006"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></fig><p>As a final aspect to this work, we explored the potential of an expedited, one&#x02010;pot approach to acridanes <bold>16</bold> based on the &#x003b1;&#x02010;arylation of 1,3&#x02010;dicarbonyl compounds with haloarenes <bold>21</bold> to generate intermediates <bold>15</bold> in situ, which would then undergo the oxidative coupling reaction (Scheme <xref rid="ejoc201601336-fig-0006" ref-type="fig">5</xref>). Given the well&#x02010;known ability of Cu salts to catalyse both processes,<xref rid="ejoc201601336-bib-0019" ref-type="ref">19</xref> a highly efficient transformation seemed attainable.</p><fig fig-type="Scheme" xml:lang="en" id="ejoc201601336-fig-0006" orientation="portrait" position="float"><label>Scheme 5</label><caption><p>Retrosynthesis of acridanes <bold>16</bold> through a one&#x02010;pot &#x003b1;&#x02010;arylation&#x02013;cyclisation process.</p></caption><graphic id="nlm-graphic-13" xlink:href="EJOC-2017-203-g007"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></fig><p>The requisite 2&#x02010;halodiarylamines <bold>21</bold> were easily prepared by the addition of commercially available 2&#x02010;haloanilines <bold>22</bold> to benzynes, which were prepared in situ from 2&#x02010;(trimethylsilyl)phenyl triflates <bold>23</bold> in the presence of CsF, and subsequent <italic>N</italic>&#x02010;alkylation (Scheme <xref rid="ejoc201601336-fig-0007" ref-type="fig">6</xref>; see the Supporting Information for more details).<xref rid="ejoc201601336-bib-0020" ref-type="ref">20</xref>
+</p><fig fig-type="Scheme" xml:lang="en" id="ejoc201601336-fig-0007" orientation="portrait" position="float"><label>Scheme 6</label><caption><p>Synthesis of 2&#x02010;halodiarylamines <bold>21a</bold>&#x02013;<bold>d</bold>.</p></caption><graphic id="nlm-graphic-15" xlink:href="EJOC-2017-203-g008"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></fig><p>Next, the crucial transition&#x02010;metal&#x02010;catalysed &#x003b1;&#x02010;arylation reaction between diethyl malonate and 2&#x02010;halodiarylamines <bold>21a</bold>&#x02013;<bold>b</bold> was examined; selected results are shown in Table <xref rid="ejoc201601336-tbl-0001" ref-type="table-wrap">1</xref>. In the event, none of the desired &#x003b1;&#x02010;arylation products was observed on heating either 2&#x02010;iodo&#x02010; or 2&#x02010;bromo&#x02010;<italic>N</italic>&#x02010;methyl&#x02010;<italic>N</italic>&#x02010;phenylaniline <bold>21a</bold>&#x02013;<bold>b</bold> with diethyl malonate in the presence of CuI and 2&#x02010;picolinic acid[<xref rid="ejoc201601336-bib-0019" ref-type="ref">19a</xref>] (Table <xref rid="ejoc201601336-tbl-0001" ref-type="table-wrap">1</xref>, entries 1&#x02013;2). Similarly, other Cu&#x02010;based catalyst systems, which are reported for the coupling of dialkyl malonates with simple haloarenes, proved equally ineffective (results not shown). Thus, attention turned to the use of palladium catalysts to effect the initial transformation.</p><table-wrap id="ejoc201601336-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Optimisation of the &#x003b1;&#x02010;arylation of <bold>21a</bold>&#x02013;<bold>b</bold> with diethyl malonate</p></caption><table frame="hsides" rules="groups"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><thead><tr><th colspan="4" style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" align="center" rowspan="1">
+<chem-struct-wrap id="ejoc201601336-disp-0001" position="float" orientation="portrait"><chem-struct><graphic id="nlm-graphic-17" xlink:href="EJOC-2017-203-g001"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></chem-struct></chem-struct-wrap>
+</th></tr><tr><th style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Entry</th><th style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">X</th><th style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Conditions</th><th style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Yield [%]</th></tr></thead><tbody><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">1</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">I</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">CuI (10 mol&#x02010;%), 2&#x02010;picolinic acid (20 mol&#x02010;%)</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">&#x02013;<xref ref-type="fn" rid="ejoc201601336-note-0001">a</xref>
+</td></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Cs<sub>2</sub>CO<sub>3</sub> (3 equiv.), dioxane, reflux, 17 h</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">2</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Br</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">CuI (10 mol&#x02010;%), 2&#x02010;picolinic acid (20 mol&#x02010;%)</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">&#x02013;<xref ref-type="fn" rid="ejoc201601336-note-0001">a</xref>
+</td></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Cs<sub>2</sub>CO<sub>3</sub> (3 equiv.), dioxane, reflux, 17 h</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">3</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">I</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Pd(OAc)<sub>2</sub> (2 mol&#x02010;%), <italic>t</italic>BuMePhos (4.4 mol&#x02010;%)</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">&#x02013;<xref ref-type="fn" rid="ejoc201601336-note-0001">a</xref>
+</td></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">K<sub>3</sub>PO<sub>4</sub> (2.4 equiv.), toluene, reflux, 18 h</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">4</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Br</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Pd(OAc)<sub>2</sub> (2 mol&#x02010;%), <italic>t</italic>BuMePhos (4.4 mol&#x02010;%)</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">&#x02013;<xref ref-type="fn" rid="ejoc201601336-note-0001">a</xref>
+</td></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">K<sub>3</sub>PO<sub>4</sub> (2.4 equiv.), toluene, reflux, 18 h</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">5</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">I</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Pd<sub>2</sub>dba<sub>3</sub>
+<bold>&#x000b7;</bold>CHCl<sub>3</sub> (1 mol&#x02010;%), <italic>t</italic>Bu<sub>3</sub>P<bold>&#x000b7;</bold>HBF<sub>4</sub> (4 mol&#x02010;%)</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">32</td></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">K<sub>3</sub>PO<sub>4</sub> (3 equiv.), toluene, 70 &#x000b0;C, 15 h</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">6</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">I</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Pd<sub>2</sub>dba<sub>3</sub>
+<bold>&#x000b7;</bold>CHCl<sub>3</sub> (1 mol&#x02010;%), <italic>t</italic>Bu<sub>3</sub>P<bold>&#x000b7;</bold>HBF<sub>4</sub> (4 mol&#x02010;%)</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">61</td></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">K<sub>3</sub>PO<sub>4</sub> (3 equiv.), toluene, reflux, 14 h</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">
+<bold>7</bold>
+</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">
+<bold>Br</bold>
+</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">
+<bold>Pd<sub>2</sub>dba<sub>3</sub>&#x000b7;CHCl<sub>3</sub> (1 mol&#x02010;%), <italic>t</italic>Bu<sub>3</sub>P&#x000b7;HBF<sub>4</sub> (4 mol&#x02010;%)</bold>
+</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">
+<bold>72</bold>
+</td></tr><tr><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">
+<bold>K<sub>3</sub>PO<sub>4</sub> (3 equiv.), toluene, reflux, 17 h</bold>
+</td><td style="border-right:solid 1px #000000border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="ejoc201601336-note-0001"><label>a</label><p>Starting materials only were observed by <sup>1</sup>H NMR analysis of the unpurified reaction mixture.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>No &#x003b1;&#x02010;arylation was observed when using the Pd(OAc)<sub>2</sub>/<italic>t</italic>BuMePhos catalyst system developed by Buchwald (Table <xref rid="ejoc201601336-tbl-0001" ref-type="table-wrap">1</xref>, entries 3&#x02013;4),<xref rid="ejoc201601336-bib-0021" ref-type="ref">21</xref> but an encouraging yield of 32&#x02009;% was obtained for <bold>15n</bold> by switching to Pd<sub>2</sub>dba<sub>3</sub>
+<bold>&#x000b7;</bold>CHCl<sub>3</sub> (1 mol&#x02010;%) as the catalyst with the bench stable ligand <italic>t</italic>Bu<sub>3</sub>P<bold>&#x000b7;</bold>HBF<sub>4</sub> (4 mol&#x02010;%) in toluene at 70 &#x000b0;C (Table <xref rid="ejoc201601336-tbl-0001" ref-type="table-wrap">1</xref>, entry 5).<xref rid="ejoc201601336-bib-0022" ref-type="ref">22</xref> Increasing the reaction temperature allowed us to isolate 2&#x02010;[2&#x02010;(arylamino)aryl]malonate <bold>15n</bold> in 61&#x02009;% (from <bold>21a</bold>) and 72&#x02009;% (from <bold>21b</bold>) yields, respectively.</p><p>With conditions for the malonate coupling in hand, our attention then turned to establishing the one&#x02010;pot &#x003b1;&#x02010;arylation&#x02013;cyclisation protocol to prepare acridanes directly (Scheme <xref rid="ejoc201601336-fig-0008" ref-type="fig">7</xref>). To this end, the Pd&#x02010;catalysed &#x003b1;&#x02010;arylation reaction between 2&#x02010;bromo&#x02010;<italic>N</italic>&#x02010;methyl&#x02010;<italic>N</italic>&#x02010;phenylaniline <bold>21b</bold> and diethyl malonate was first carried out by using the optimised conditions described above under an atmosphere of argon. Subsequently, the reaction flask was simply opened to the air, Cu(2&#x02010;ethylhexanoate)<sub>2</sub> (15 mol&#x02010;%) was added and heating continued for a further 24 h to facilitate the cyclisation. In this manner, the target acridane <bold>16n</bold> was isolated in a pleasing yield of 74&#x02009;% over the 2 steps. Furthermore, substituents could be readily introduced on one or both of the aromatic rings, which allows access to more highly substituted acridanes such as <bold>16o</bold> and <bold>16p</bold>.</p><fig fig-type="Scheme" xml:lang="en" id="ejoc201601336-fig-0008" orientation="portrait" position="float"><label>Scheme 7</label><caption><p>Scope of the one&#x02010;pot &#x003b1;&#x02010;arylation&#x02013;cyclisation approach to acridanes.</p></caption><graphic id="nlm-graphic-19" xlink:href="EJOC-2017-203-g009"><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd.</copyright-holder></permissions></graphic></fig></sec><sec id="ejoc201601336-sec-0030"><title>Conclusions</title><p>In summary, we report a Cu&#x02010;catalysed radical cross&#x02010;dehydrogenative&#x02010;coupling approach to acridanes and related heterocycles from readily available 2&#x02010;[2&#x02010;(arylamino)aryl]malonates. This highly atom&#x02010;economical method uses inexpensive Cu(2&#x02010;ethylhexanoate)<sub>2</sub> as the catalyst under mild conditions and thus avoids many of the problems associated with classical strategies for the synthesis of acridanes. The diester moiety resulting from the oxidative coupling reaction serves as a useful handle for further functionalisation. In addition, we have established a streamlined protocol involving the in situ formation of the cyclisation precursor by the &#x003b1;&#x02010;arylation of diethyl malonate with a 2&#x02010;bromodiarylamine under Pd catalysis, followed by subsequent Cu&#x02010;catalysed cyclisation to give the acridanes in a one&#x02010;pot fashion. Further studies will be carried out to utilise this new method in target synthesis.</p></sec><sec id="ejoc201601336-sec-0040"><title>Experimental Section</title><p>
+<bold>Representative Procedure for the Cu&#x02010;catalysed Synthesis of Acridanes:</bold> To a solution of the cyclisation precursor <bold>15</bold> (1.00 mmol) in toluene (10 mL) was added Cu(2&#x02010;ethylhexanoate)<sub>2</sub> (35.0 mg, 0.100 mmol). The reaction mixture was heated to reflux (oil bath at 120 &#x000b0;C) for 17 h with the condenser left open to the air. After cooling to room temp., saturated NH<sub>4</sub>Cl soln (25 mL) was added, and the aqueous phase extracted with EtOAc (3&#x02009;&#x000d7; 25 mL). The combined organics were washed with NH<sub>4</sub>OH soln (10&#x02009;%, 25 mL), dried with MgSO<sub>4</sub>, filtered and concentrated in vacuo. Purification by flash column chromatography with EtOAc/hexane as eluent afforded the title compound <bold>16</bold> (see the Supporting Information for details).</p><p>
+<ext-link ext-link-type="uri" xlink:href="https://www.ccdc.cam.ac.uk/services/structures?id=doi:10.1002/ejoc.201601336">CCDC</ext-link> 1498037 (for <bold>16e</bold>) contain the supplementary crystallographic data for this paper. These data can be obtained free of charge from <ext-link ext-link-type="uri" xlink:href="http://www.ccdc.cam.ac.uk/">The Cambridge Crystallographic Data Centre</ext-link>.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="EJOC-2017-203-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ejoc201601336-sec-0050"><title>Acknowledgements</title><p>We thank the Engineering and Physical Sciences Research Council for postdoctoral funding (T. E. H.; EP/J000124/1) and Dr A. C. Whitwood (University of York) for assistance with X&#x02010;ray crystallography.</p></ack><ref-list id="ejoc201601336-bibl-0001"><title>References</title><ref id="ejoc201601336-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0001">a) <string-name>
+<given-names>S. A.</given-names>
+<surname>Girard</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Knauber</surname>
+</string-name> and <string-name>
+<given-names>C.&#x02010;J.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>, <year>2014</year>, <volume>53</volume>, <fpage>74</fpage>&#x02013;<lpage>100</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0002">
+<source>Angew. Chem.</source>, <year>2014</year>, <volume>126</volume>, <fpage>76</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0003">b) <string-name>
+<given-names>C.&#x02010;J.</given-names>
+<surname>Li</surname>
+</string-name>, <source>Acc. Chem. Res.</source>, <year>2009</year>, <volume>42</volume>, <fpage>335</fpage>&#x02013;<lpage>344</lpage>.<pub-id pub-id-type="pmid">19220064</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0004">a) <string-name>
+<given-names>P.</given-names>
+<surname>Drouhin</surname>
+</string-name> and <string-name>
+<given-names>R. J. K.</given-names>
+<surname>Taylor</surname>
+</string-name>, <source>Eur. J. Org. Chem.</source>, <year>2015</year>, <fpage>2333</fpage>&#x02013;<lpage>2336</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0005">b) <string-name>
+<given-names>T. E.</given-names>
+<surname>Hurst</surname>
+</string-name>, <string-name>
+<given-names>R. M.</given-names>
+<surname>Gorman</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Drouhin</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Perry</surname>
+</string-name> and <string-name>
+<given-names>R. J. K.</given-names>
+<surname>Taylor</surname>
+</string-name>, <source>Chem. Eur. J.</source>, <year>2014</year>, <volume>20</volume>, <fpage>14063</fpage>&#x02013;<lpage>14073</lpage>;<pub-id pub-id-type="pmid">25212595</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0006">c) <string-name>
+<given-names>J. E. M. N.</given-names>
+<surname>Klein</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Perry</surname>
+</string-name>, <string-name>
+<given-names>D. S.</given-names>
+<surname>Pugh</surname>
+</string-name> and <string-name>
+<given-names>R. J. K.</given-names>
+<surname>Taylor</surname>
+</string-name>, <source>Org. Lett.</source>, <year>2010</year>, <volume>12</volume>, <fpage>3446</fpage>&#x02013;<lpage>3449</lpage>;<pub-id pub-id-type="pmid">20670011</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0007">d) <string-name>
+<given-names>A.</given-names>
+<surname>Perry</surname>
+</string-name> and <string-name>
+<given-names>R. J. K.</given-names>
+<surname>Taylor</surname>
+</string-name>, <source>Chem. Commun.</source>, <year>2009</year>, <fpage>3249</fpage>&#x02013;<lpage>3251</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0008">e) <string-name>
+<given-names>Y.&#x02010;X.</given-names>
+<surname>Jia</surname>
+</string-name> and <string-name>
+<given-names>E. P.</given-names>
+<surname>K&#x000fc;ndig</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>, <year>2009</year>, <volume>48</volume>, <fpage>1636</fpage>&#x02013;<lpage>1639</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0009">
+<source>Angew. Chem.</source>, <year>2009</year>, <volume>121</volume>, <fpage>1664</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0010">f) <string-name>
+<given-names>C.</given-names>
+<surname>Dey</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Larionova</surname>
+</string-name> and <string-name>
+<given-names>E. P.</given-names>
+<surname>K&#x000fc;ndig</surname>
+</string-name>, <source>Org. Biomol. Chem.</source>, <year>2013</year>, <volume>11</volume>, <fpage>6734</fpage>&#x02013;<lpage>6743</lpage>.<pub-id pub-id-type="pmid">23989389</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0011">For a recent review of acridines and their derivatives, see: <string-name>
+<given-names>A.</given-names>
+<surname>Schmidt</surname>
+</string-name> and <string-name>
+<given-names>M.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>Adv. Heterocycl. Chem.</source>, <year>2015</year>, <volume>115</volume>, <fpage>287</fpage>&#x02013;<lpage>353</lpage>.</mixed-citation></ref><ref id="ejoc201601336-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0012">
+<string-name>
+<given-names>P.</given-names>
+<surname>Tessier</surname>
+</string-name>, <string-name>
+<given-names>D. V.</given-names>
+<surname>Smil</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Wahhab</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Leit</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Rahil</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>D&#x000e9;ziel</surname>
+</string-name> and <string-name>
+<given-names>J. M.</given-names>
+<surname>Besterman</surname>
+</string-name>, <source>Bioorg. Med. Chem. Lett.</source>, <year>2009</year>, <volume>19</volume>, <fpage>5684</fpage>&#x02013;<lpage>5688</lpage>.<pub-id pub-id-type="pmid">19699639</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0005"><label>5</label><mixed-citation publication-type="miscellaneous" id="ejoc201601336-cit-0013">
+<string-name>
+<given-names>B. L.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Patel</surname>
+</string-name>, <string-name>
+<given-names>J. D.</given-names>
+<surname>Rodgers</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Tarby</surname>
+</string-name>, R. Bakthavatchalam US6593337B1, <year>2003</year>.</mixed-citation></ref><ref id="ejoc201601336-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0014">
+<string-name>
+<given-names>C.</given-names>
+<surname>Kaiser</surname>
+</string-name>, <string-name>
+<given-names>P. J.</given-names>
+<surname>Fowler</surname>
+</string-name>, <string-name>
+<given-names>D. H.</given-names>
+<surname>Tedeschi</surname>
+</string-name>, <string-name>
+<given-names>B. M.</given-names>
+<surname>Lester</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Garvey</surname>
+</string-name>, <string-name>
+<given-names>C. L.</given-names>
+<surname>Zirkle</surname>
+</string-name>, <string-name>
+<given-names>E. A.</given-names>
+<surname>Nodiff</surname>
+</string-name> and <string-name>
+<given-names>A. J.</given-names>
+<surname>Saggiomo</surname>
+</string-name>, <source>J. Med. Chem.</source>, <year>1974</year>, <volume>17</volume>, <fpage>57</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">4808470</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0015">
+<string-name>
+<given-names>S. N.</given-names>
+<surname>Bagriantsev</surname>
+</string-name>, <string-name>
+<given-names>K.&#x02010;H.</given-names>
+<surname>Ang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gallardo&#x02010;Godoy</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Clark</surname>
+</string-name>, <string-name>
+<given-names>M. R.</given-names>
+<surname>Arkin</surname>
+</string-name>, <string-name>
+<given-names>A. R.</given-names>
+<surname>Renslo</surname>
+</string-name> and <string-name>
+<given-names>D. L.</given-names>
+<surname>Minor</surname>
+<suffix>Jr</suffix>
+</string-name>, <source>ACS Chem. Biol.</source>, <year>2013</year>, <volume>8</volume>, <fpage>1841</fpage>&#x02013;<lpage>1851</lpage>.<pub-id pub-id-type="pmid">23738709</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0016">a) <string-name>
+<given-names>H.</given-names>
+<surname>Akhavan&#x02010;Tafti</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>DeSilva</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Arghavani</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Eickholt</surname>
+</string-name>, <string-name>
+<given-names>R. S.</given-names>
+<surname>Handley</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Schoenfelner</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Sugioka</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Sugioka</surname>
+</string-name> and <string-name>
+<given-names>A. P.</given-names>
+<surname>Schaap</surname>
+</string-name>, <source>J. Org. Chem.</source>, <year>1998</year>, <volume>63</volume>, <fpage>930</fpage>&#x02013;<lpage>937</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0017">b) <string-name>
+<given-names>H.</given-names>
+<surname>Akhavan&#x02010;Tafti</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>DeSilva</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Eickholt</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Handley</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mazelis</surname>
+</string-name> and <string-name>
+<given-names>M.</given-names>
+<surname>Sandison</surname>
+</string-name>, <source>Talanta</source>, <year>2003</year>, <volume>60</volume>, <fpage>345</fpage>&#x02013;<lpage>354</lpage>;<pub-id pub-id-type="pmid">18969057</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0018">c) <string-name>
+<given-names>M.</given-names>
+<surname>Di Fusco</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Quintavalla</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Lombardo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Guardigli</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mirasoli</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Trombini</surname>
+</string-name> and <string-name>
+<given-names>A.</given-names>
+<surname>Roda</surname>
+</string-name>, <source>Anal. Bioanal. Chem</source>. <year>2015</year>, <volume>407</volume>, <fpage>1567</fpage>&#x02013;<lpage>1576</lpage>, and references cited therein.<pub-id pub-id-type="pmid">25542582</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0019">a) <string-name>
+<given-names>S. N.</given-names>
+<surname>Dhuri</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sook Seo</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>D. D.</given-names>
+<surname>Narulkar</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Fukuzumi</surname>
+</string-name> and <string-name>
+<given-names>W.</given-names>
+<surname>Nam</surname>
+</string-name>, <source>Dalton Trans.</source>, <year>2015</year>, <volume>44</volume>, <fpage>7634</fpage>&#x02013;<lpage>7642</lpage>;<pub-id pub-id-type="pmid">25811701</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0020">b) <string-name>
+<given-names>Y.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;M.</given-names>
+<surname>Lee</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Mariappan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Fukuzumi</surname>
+</string-name> and <string-name>
+<given-names>W.</given-names>
+<surname>Nam</surname>
+</string-name>, <source>Chem. Commun.</source>, <year>2010</year>, <volume>46</volume>, <fpage>8160</fpage>&#x02013;<lpage>8162</lpage>.</mixed-citation></ref><ref id="ejoc201601336-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0021">a) <string-name>
+<given-names>G.</given-names>
+<surname>M&#x000e9;hes</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Nomura</surname>
+</string-name>, <string-name>
+<given-names>Q.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nakagawa</surname>
+</string-name> and <string-name>
+<given-names>C.</given-names>
+<surname>Adachi</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>, <year>2012</year>, <volume>51</volume>, <fpage>11311</fpage>&#x02013;<lpage>11315</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0022">
+<source>Angew. Chem.</source>, <year>2012</year>, <volume>124</volume>, <fpage>11473</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0023">b) <string-name>
+<given-names>L.</given-names>
+<surname>Ding</surname>
+</string-name>, <string-name>
+<given-names>S.&#x02010;C.</given-names>
+<surname>Dong</surname>
+</string-name>, <string-name>
+<given-names>Z.&#x02010;Q.</given-names>
+<surname>Jiang</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Chen</surname>
+</string-name> and <string-name>
+<given-names>L.&#x02010;S.</given-names>
+<surname>Liao</surname>
+</string-name>, <source>Adv. Funct. Mater.</source>, <year>2015</year>, <volume>25</volume>, <fpage>645</fpage>&#x02013;<lpage>650</lpage> and references cited therein.</mixed-citation></ref><ref id="ejoc201601336-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0024">
+<string-name>
+<given-names>A.</given-names>
+<surname>Raskosova</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>St&#x000f6;&#x000df;er</surname>
+</string-name> and <string-name>
+<given-names>W.</given-names>
+<surname>Abraham</surname>
+</string-name>, <source>Chem. Commun</source>. <year>2013</year>, <volume>49</volume>, <fpage>3964</fpage>&#x02013;<lpage>3966</lpage>, and references cited therein.</mixed-citation></ref><ref id="ejoc201601336-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0025">a) <string-name>
+<given-names>A. A.</given-names>
+<surname>Kulago</surname>
+</string-name>, <string-name>
+<given-names>E. M.</given-names>
+<surname>Mes</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Klok</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Meetsma</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Brouwer</surname>
+</string-name> and <string-name>
+<given-names>B. L.</given-names>
+<surname>Feringa</surname>
+</string-name>, <source>J. Org. Chem.</source>, <year>2010</year>, <volume>75</volume>, <fpage>666</fpage>&#x02013;<lpage>679</lpage>;<pub-id pub-id-type="pmid">20030300</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0026">b) <string-name>
+<given-names>A.</given-names>
+<surname>Vetter</surname>
+</string-name> and <string-name>
+<given-names>W.</given-names>
+<surname>Abraham</surname>
+</string-name>, <source>Org. Biomol. Chem.</source>, <year>2010</year>, <volume>8</volume>, <fpage>4666</fpage>&#x02013;<lpage>4681</lpage>.<pub-id pub-id-type="pmid">20730208</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0027">a) <string-name>
+<given-names>D. V.</given-names>
+<surname>Jawale</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Gravel</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Shah</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Dauvois</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>I. N. N.</given-names>
+<surname>Namboothiri</surname>
+</string-name> and <string-name>
+<given-names>E.</given-names>
+<surname>Doris</surname>
+</string-name>, <source>Chem. Eur. J.</source>, <year>2015</year>, <volume>21</volume>, <fpage>7039</fpage>&#x02013;<lpage>7042</lpage>;<pub-id pub-id-type="pmid">25784357</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0028">b) <string-name>
+<given-names>B.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Cuia</surname>
+</string-name> and <string-name>
+<given-names>N.</given-names>
+<surname>Jiao</surname>
+</string-name>, <source>Chem. Commun.</source>, <year>2012</year>, <volume>48</volume>, <fpage>4498</fpage>&#x02013;<lpage>4500</lpage>.</mixed-citation></ref><ref id="ejoc201601336-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0029">a) <string-name>
+<given-names>G.</given-names>
+<surname>Pandey</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Jadhav</surname>
+</string-name>, <string-name>
+<given-names>S. K.</given-names>
+<surname>Tiwari</surname>
+</string-name> and <string-name>
+<given-names>B.</given-names>
+<surname>Singh</surname>
+</string-name>, <source>Adv. Synth. Catal.</source>, <year>2014</year>, <volume>356</volume>, <fpage>2813</fpage>&#x02013;<lpage>2818</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0030">b) <string-name>
+<given-names>&#x000c1;.</given-names>
+<surname>Pint&#x000e9;r</surname>
+</string-name> and <string-name>
+<given-names>M.</given-names>
+<surname>Klussmann</surname>
+</string-name>, <source>Adv. Synth. Catal.</source>, <year>2012</year>, <volume>354</volume>, <fpage>701</fpage>&#x02013;<lpage>711</lpage>.</mixed-citation></ref><ref id="ejoc201601336-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0031">a) <string-name>
+<given-names>T.</given-names>
+<surname>Stopka</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Marzo</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Zurro</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Janich</surname>
+</string-name>, <string-name>
+<given-names>E.&#x02010;U.</given-names>
+<surname>W&#x000fc;rthwein</surname>
+</string-name>, <string-name>
+<given-names>C. G.</given-names>
+<surname>Daniliuc</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Alem&#x000e1;n</surname>
+</string-name> and <string-name>
+<given-names>O. G.</given-names>
+<surname>Manche&#x000f1;o</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>, <year>2015</year>, <volume>54</volume>, <fpage>5049</fpage>&#x02013;<lpage>5053</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0032">
+<source>Angew. Chem.</source>, <year>2015</year>, <volume>127</volume>, <fpage>5137</fpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0033">b) <string-name>
+<given-names>H.</given-names>
+<surname>Cho</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Iwama</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Okano</surname>
+</string-name> and <string-name>
+<given-names>H.</given-names>
+<surname>Tokuyama</surname>
+</string-name>, <source>Chem. Pharm. Bull.</source>, <year>2014</year>, <volume>62</volume>, <fpage>354</fpage>&#x02013;<lpage>363</lpage>.<pub-id pub-id-type="pmid">24695345</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0034">For lead references, see ref 4 and: a) <string-name>
+<given-names>T.</given-names>
+<surname>Takeda</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Uchimura</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Kawai</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Katoono</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Fujiwarab</surname>
+</string-name> and <string-name>
+<given-names>T.</given-names>
+<surname>Suzuki</surname>
+</string-name>, <source>Chem. Commun.</source>, <year>2014</year>, <volume>50</volume>, <fpage>3924</fpage>&#x02013;<lpage>3927</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0035">b) <string-name>
+<given-names>A.</given-names>
+<surname>Natrajan</surname>
+</string-name> and <string-name>
+<given-names>D.</given-names>
+<surname>Wen</surname>
+</string-name>, <source>Green Chem. Lett. Rev.</source>, <year>2013</year>, <volume>6</volume>, <fpage>237</fpage>&#x02013;<lpage>248</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0036">c) <string-name>
+<given-names>A.</given-names>
+<surname>Hern&#x000e1;n&#x02010;G&#x000f3;mez</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Herd</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Uzelac</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Cadenbach</surname>
+</string-name>, <string-name>
+<given-names>A. R.</given-names>
+<surname>Kennedy</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Borilovic</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Arom&#x000ed;</surname>
+</string-name> and <string-name>
+<given-names>E.</given-names>
+<surname>Hevia</surname>
+</string-name>, <source>Organometallics</source>, <year>2015</year>, <volume>34</volume>, <fpage>2614</fpage>&#x02013;<lpage>2623</lpage>;</mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0037">d) <string-name>
+<given-names>T.</given-names>
+<surname>Liang</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Xiao</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Xiong</surname>
+</string-name> and <string-name>
+<given-names>X.</given-names>
+<surname>Li</surname>
+</string-name>, <source>J. Org. Chem.</source>, <year>2012</year>, <volume>77</volume>, <fpage>3583</fpage>&#x02013;<lpage>3588</lpage>.<pub-id pub-id-type="pmid">22390361</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0038">For lead references, see: a) <string-name>
+<given-names>X.&#x02010;D.</given-names>
+<surname>Han</surname>
+</string-name>, <string-name>
+<given-names>Y.&#x02010;L.</given-names>
+<surname>Zhao</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Meng</surname>
+</string-name>, <string-name>
+<given-names>C.&#x02010;Q.</given-names>
+<surname>Ren</surname>
+</string-name> and <string-name>
+<given-names>Q.</given-names>
+<surname>Liu</surname>
+</string-name>, <source>J. Org. Chem.</source>, <year>2012</year>, <volume>77</volume>, <fpage>5173</fpage>&#x02013;<lpage>5178</lpage>;<pub-id pub-id-type="pmid">22559079</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0039">b) <string-name>
+<given-names>T. L.</given-names>
+<surname>Andrew</surname>
+</string-name> and <string-name>
+<given-names>T. M.</given-names>
+<surname>Swager</surname>
+</string-name>, <source>J. Org. Chem.</source>, <year>2011</year>, <volume>76</volume>, <fpage>2976</fpage>&#x02013;<lpage>2993</lpage>.<pub-id pub-id-type="pmid">21452828</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0040">
+<string-name>
+<given-names>P. C.</given-names>
+<surname>Fuenfschilling</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Zaugg</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Beutler</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Kaufmann</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Lohse</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;P.</given-names>
+<surname>Mutz</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>Onken</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;L.</given-names>
+<surname>Reber</surname>
+</string-name> and <string-name>
+<given-names>D.</given-names>
+<surname>Shenton</surname>
+</string-name>, <source>Org. Process Res. Dev.</source>, <year>2005</year>, <volume>9</volume>, <fpage>272</fpage>&#x02013;<lpage>277</lpage>.</mixed-citation></ref><ref id="ejoc201601336-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0041">a) <string-name>
+<given-names>S. F.</given-names>
+<surname>Yip</surname>
+</string-name>, <string-name>
+<given-names>H. Y.</given-names>
+<surname>Cheung</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Zhou</surname>
+</string-name> and <string-name>
+<given-names>F. Y.</given-names>
+<surname>Kwong</surname>
+</string-name>, <source>Org. Lett.</source>, <year>2007</year>, <volume>9</volume>, <fpage>3469</fpage>&#x02013;<lpage>3472</lpage>;<pub-id pub-id-type="pmid">17637034</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0042">b) <string-name>
+<given-names>X.</given-names>
+<surname>Xie</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Cai</surname>
+</string-name> and <string-name>
+<given-names>D.</given-names>
+<surname>Ma</surname>
+</string-name>, <source>Org. Lett.</source>, <year>2005</year>, <volume>7</volume>, <fpage>4693</fpage>&#x02013;<lpage>4695</lpage>;<pub-id pub-id-type="pmid">16209512</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0043">c) <string-name>
+<given-names>H.&#x02010;J.</given-names>
+<surname>Cristau</surname>
+</string-name>, <string-name>
+<given-names>P. P.</given-names>
+<surname>Cellier</surname>
+</string-name>, <string-name>
+<given-names>J.&#x02010;F.</given-names>
+<surname>Spindler</surname>
+</string-name> and <string-name>
+<given-names>M.</given-names>
+<surname>Taillefer</surname>
+</string-name>, <source>Chem. Eur. J.</source>, <year>2004</year>, <volume>10</volume>, <fpage>5607</fpage>&#x02013;<lpage>5622</lpage>;<pub-id pub-id-type="pmid">15457520</pub-id></mixed-citation><mixed-citation publication-type="journal" id="ejoc201601336-cit-0044">d) <string-name>
+<given-names>E. J.</given-names>
+<surname>Hennessy</surname>
+</string-name> and <string-name>
+<given-names>S. L.</given-names>
+<surname>Buchwald</surname>
+</string-name>, <source>Org. Lett.</source>, <year>2002</year>, <volume>4</volume>, <fpage>269</fpage>&#x02013;<lpage>272</lpage>.<pub-id pub-id-type="pmid">11796067</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0045">
+<string-name>
+<given-names>Z.</given-names>
+<surname>Liu</surname>
+</string-name> and <string-name>
+<given-names>R. C.</given-names>
+<surname>Larock</surname>
+</string-name>, <source>J. Org. Chem.</source>, <year>2006</year>, <volume>71</volume>, <fpage>3198</fpage>&#x02013;<lpage>3209</lpage>.<pub-id pub-id-type="pmid">16599619</pub-id></mixed-citation></ref><ref id="ejoc201601336-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0046">
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Fox</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Huang</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Chieffi</surname>
+</string-name> and <string-name>
+<given-names>S. L.</given-names>
+<surname>Buchwald</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>, <year>2000</year>, <volume>122</volume>, <fpage>1360</fpage>&#x02013;<lpage>1370</lpage>.</mixed-citation></ref><ref id="ejoc201601336-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ejoc201601336-cit-0047">
+<string-name>
+<given-names>K.</given-names>
+<surname>Oda</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Akita</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hiroto</surname>
+</string-name> and <string-name>
+<given-names>H.</given-names>
+<surname>Shinokubo</surname>
+</string-name>, <source>Org. Lett.</source>, <year>2014</year>, <volume>16</volume>, <fpage>1818</fpage>&#x02013;<lpage>1821</lpage>.<pub-id pub-id-type="pmid">24588658</pub-id></mixed-citation></ref></ref-list></back></article>

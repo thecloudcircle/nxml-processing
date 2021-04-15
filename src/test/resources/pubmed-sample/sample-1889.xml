@@ -1,0 +1,964 @@
+
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27069575</article-id><article-id pub-id-type="pmc">4782248</article-id><article-id pub-id-type="doi">10.1002/ece3.2047</article-id><article-id pub-id-type="publisher-id">ECE32047</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Whole&#x02010;genome sequencing reveals small genomic regions of introgression in an introduced crater lake population of threespine stickleback</article-title><alt-title alt-title-type="left-running-head">K. Yoshida <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="ece32047-cr-0001" contrib-type="author"><name><surname>Yoshida</surname><given-names>Kohta</given-names></name><xref ref-type="aff" rid="ece32047-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece32047-cr-0002" contrib-type="author"><name><surname>Miyagi</surname><given-names>Ryutaro</given-names></name><xref ref-type="aff" rid="ece32047-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece32047-cr-0003" contrib-type="author"><name><surname>Mori</surname><given-names>Seiichi</given-names></name><xref ref-type="aff" rid="ece32047-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece32047-cr-0004" contrib-type="author"><name><surname>Takahashi</surname><given-names>Aya</given-names></name><xref ref-type="aff" rid="ece32047-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece32047-cr-0005" contrib-type="author"><name><surname>Makino</surname><given-names>Takashi</given-names></name><xref ref-type="aff" rid="ece32047-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ece32047-cr-0006" contrib-type="author"><name><surname>Toyoda</surname><given-names>Atsushi</given-names></name><xref ref-type="aff" rid="ece32047-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ece32047-cr-0007" contrib-type="author"><name><surname>Fujiyama</surname><given-names>Asao</given-names></name><xref ref-type="aff" rid="ece32047-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="ece32047-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ece32047-cr-0008" contrib-type="author" corresp="yes"><name><surname>Kitano</surname><given-names>Jun</given-names></name><xref ref-type="aff" rid="ece32047-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ece32047-aff-0006">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="ece32047-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Division of Ecological Genetics</named-content><named-content content-type="organisation-division">Department of Population Genetics</named-content><institution>National Institute of Genetics</institution><named-content content-type="city">Mishima</named-content><named-content content-type="country-part">Shizuoka</named-content><country country="JP">Japan</country></aff><aff id="ece32047-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Evolutionary Genetics Laboratory</named-content><named-content content-type="organisation-division">Department of Biological Sciences</named-content><institution>Tokyo Metropolitan University</institution><named-content content-type="city">Hachioji</named-content><named-content content-type="country-part">Tokyo</named-content><country country="JP">Japan</country></aff><aff id="ece32047-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Biological Laboratory</named-content><institution>Gifu&#x02010;keizai University</institution><named-content content-type="city">Ogaki</named-content><named-content content-type="country-part">Gifu</named-content><country country="JP">Japan</country></aff><aff id="ece32047-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Division of Ecology and Evolutionary Biology</named-content><named-content content-type="organisation-division">Graduate School of Life Sciences</named-content><institution>Tohoku University</institution><named-content content-type="city">Sendai</named-content><named-content content-type="country-part">Miyagi</named-content><country country="JP">Japan</country></aff><aff id="ece32047-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Comparative Genomics Laboratory</named-content><named-content content-type="organisation-division">Center for Information Biology</named-content><institution>National Institute of Genetics</institution><named-content content-type="city">Mishima</named-content><named-content content-type="country-part">Shizuoka</named-content><country country="JP">Japan</country></aff><aff id="ece32047-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Department of Genetics</named-content><institution>SOKENDAI (The Graduate University for Advanced Studies)</institution><named-content content-type="city">Mishima</named-content><named-content content-type="country-part">Shizuoka</named-content><country country="JP">Japan</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Jun Kitano, Division of Ecological Genetics, Department of Population Genetics, National Institute of Genetics, Yata 1111, Mishima, Shizuoka 411&#x02010;8540, Japan.<break/>
+Tel: +81&#x000a0;55&#x000a0;981&#x000a0;9415;<break/>
+Fax: +81&#x000a0;55&#x000a0;981&#x000a0;9416;<break/>
+E&#x02010;mail: <email>jkitano@lab.nig.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>3</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2016</year></pub-date><volume>6</volume><issue>7</issue><issue-id pub-id-type="doi">10.1002/ece3.2016.6.issue-7</issue-id><fpage>2190</fpage><lpage>2204</lpage><history><date date-type="received"><day>05</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>09</day><month>2</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ECE3-6-2190.pdf"/><abstract id="ece32047-abs-0001"><title>Abstract</title><p>Invasive species pose a major threat to biological diversity. Although introduced populations often experience population bottlenecks, some invasive species are thought to be originated from hybridization between multiple populations or species, which can contribute to the maintenance of high genetic diversity. Recent advances in genome sequencing enable us to trace the evolutionary history of invasive species even at whole&#x02010;genome level and may help to identify the history of past hybridization that may be overlooked by traditional marker&#x02010;based analysis. Here, we conducted whole&#x02010;genome sequencing of eight threespine stickleback (<italic><styled-content style="fixed-case">G</styled-content>asterosteus aculeatus</italic>) individuals, four from a recently introduced crater lake population and four of the putative source population. We found that both populations have several small genomic regions with high genetic diversity, which resulted from introgression from a closely related species (<italic><styled-content style="fixed-case">G</styled-content>asterosteus nipponicus</italic>). The sizes of the regions were too small to be detected with traditional marker&#x02010;based analysis or even some reduced&#x02010;representation sequencing methods. Further amplicon sequencing revealed linkage disequilibrium around an introgression site, which suggests the possibility of selective sweep at the introgression site. Thus, interspecies introgression might predate introduction and increase genetic variation in the source population. Whole&#x02010;genome sequencing of even a small number of individuals can therefore provide higher resolution inference of history of introduced populations.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece32047-kwd-0001">Biological invasion</kwd><kwd id="ece32047-kwd-0002">conservation genomics</kwd><kwd id="ece32047-kwd-0003">exotic species</kwd><kwd id="ece32047-kwd-0004">fisheries</kwd><kwd id="ece32047-kwd-0005">hybridization</kwd><kwd id="ece32047-kwd-0006">Japan Sea stickleback</kwd><kwd id="ece32047-kwd-0007">next&#x02010;generation sequencer</kwd><kwd id="ece32047-kwd-0008">rapid evolution</kwd></kwd-group><funding-group><award-group><funding-source>JST PRESTO program</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Asahi Glass Foundation</funding-source></award-group></funding-group><funding-group><award-group><funding-source>MEXT Grant&#x02010;in&#x02010;Aid for Scientific Research on Innovative Areas</funding-source><award-id>23113007</award-id><award-id>23113008</award-id><award-id>23113001</award-id><award-id>221S0002</award-id></award-group></funding-group><funding-group><award-group><funding-source>Public Foundation of Chubu Science and Technology Center</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Postdoctoral Fellow of the Japan Society of Promotion of Science</funding-source></award-group></funding-group><counts><page-count count="15"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ece32047</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.6 mode:remove_FC converted:09.04.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="ece32047-sec-0001"><title>Introduction</title><p>An increasing number of organisms have been anthropogenically transferred from native habitats to novel environments. Such introduced species or populations pose a major threat to biological diversity (Sakai et&#x000a0;al. <xref rid="ece32047-bib-0061" ref-type="ref">2001</xref>; Pejchar and Mooney <xref rid="ece32047-bib-0047" ref-type="ref">2009</xref>; Ricciardi et&#x000a0;al. <xref rid="ece32047-bib-0055" ref-type="ref">2013</xref>). Initial colonization by an introduced population often involves a population bottleneck (Allendorf and Lundquist <xref rid="ece32047-bib-0003" ref-type="ref">2003</xref>), which mostly reduces genetic diversity and may also reduce the ability to adapt to diverse environments. However, recent studies have revealed that reduction in genetic variation of introduced populations is not as common as expected. For example, it is reported that only 37% of introduced populations showed lower genetic diversity compared with the source populations (Roman and Darling <xref rid="ece32047-bib-0060" ref-type="ref">2007</xref>).</p><p>Hybridization between divergent lineages and/or multiple introductions often underlie the maintenance of relatively high genetic variance and adaptation in invasive species (Lee <xref rid="ece32047-bib-0037" ref-type="ref">2002</xref>; Kolbe et&#x000a0;al. <xref rid="ece32047-bib-0034" ref-type="ref">2004</xref>; Roman and Darling <xref rid="ece32047-bib-0060" ref-type="ref">2007</xref>; Dlugosch and Parker <xref rid="ece32047-bib-0019" ref-type="ref">2008</xref>; Forsman <xref rid="ece32047-bib-0022" ref-type="ref">2014</xref>; Rius and Darling <xref rid="ece32047-bib-0057" ref-type="ref">2014</xref>; Bock et&#x000a0;al. <xref rid="ece32047-bib-0012" ref-type="ref">2015</xref>). Hybridization between distantly related populations not only increases standing genetic variation but also sometimes leads to the formation of hybrid populations with extreme (transgressive) phenotypes (Rieseberg et&#x000a0;al. <xref rid="ece32047-bib-0056" ref-type="ref">1999</xref>; Seehausen <xref rid="ece32047-bib-0064" ref-type="ref">2004</xref>; Nolte et&#x000a0;al. <xref rid="ece32047-bib-0045" ref-type="ref">2009</xref>). The history of hybridization is generally inferred with population genetic methods. During the last few decades, genetic analysis of introduced populations has been conducted mainly using molecular markers, such as microsatellites and amplified fragment length polymorphisms. Although such markers are useful for obtaining basic information about population genetics parameters, they have limitations (Harrisson et&#x000a0;al. <xref rid="ece32047-bib-0025" ref-type="ref">2014</xref>). First, a small number of markers represents only a tiny portion of the genome and may fail to identify genomewide diversity or phenotypic variation (Reed and Frankham <xref rid="ece32047-bib-0054" ref-type="ref">2001</xref>). Second, these markers themselves are assumed to be neutral, so they cannot provide direct information about genetic variations that are important for adaptation (Ouborg et&#x000a0;al. <xref rid="ece32047-bib-0046" ref-type="ref">2010</xref>; Angeloni et&#x000a0;al. <xref rid="ece32047-bib-0005" ref-type="ref">2012</xref>). Therefore, a few randomly chosen markers may not be a good predictor of adaptive potential.</p><p>Massively parallel or next&#x02010;generation sequencing technologies have recently emerged and now make it possible to conduct population genetic analysis at the whole&#x02010;genome sequence level (Angeloni et&#x000a0;al. <xref rid="ece32047-bib-0005" ref-type="ref">2012</xref>; Ekblom and Wolf <xref rid="ece32047-bib-0020" ref-type="ref">2014</xref>). An increased number of nucleotides that can be analyzed will not only increase the accuracy of the estimation of historical demography but also help to identify loci that are important for adaptation (Primmer <xref rid="ece32047-bib-0050" ref-type="ref">2009</xref>; Allendorf et&#x000a0;al. <xref rid="ece32047-bib-0004" ref-type="ref">2010</xref>; Ouborg et&#x000a0;al. <xref rid="ece32047-bib-0046" ref-type="ref">2010</xref>; Ekblom and Wolf <xref rid="ece32047-bib-0020" ref-type="ref">2014</xref>; Harrisson et&#x000a0;al. <xref rid="ece32047-bib-0025" ref-type="ref">2014</xref>; Bock et&#x000a0;al. <xref rid="ece32047-bib-0012" ref-type="ref">2015</xref>). However, the cost of whole&#x02010;genome sequencing of a large number of individuals with sufficient coverage depth for population genetic analyses is often prohibitive (Davey et&#x000a0;al. <xref rid="ece32047-bib-0018" ref-type="ref">2011</xref>). Therefore, there is debate about the appropriate use of genomic technologies. One solution is to use methods intermediate between whole&#x02010;genome sequencing and traditional marker&#x02010;based analysis. Reduced&#x02010;representation sequencing, such as restriction site&#x02010;associated DNA (RAD) sequencing (Baird et&#x000a0;al. <xref rid="ece32047-bib-0006" ref-type="ref">2008</xref>) and double digest RAD (ddRAD) sequencing (Peterson et&#x000a0;al. <xref rid="ece32047-bib-0048" ref-type="ref">2012</xref>), are now commonly used. However, reduced&#x02010;representation sequencing targets only limited regions, for example, around restriction sites conserved among the individuals analyzed (Davey et&#x000a0;al. <xref rid="ece32047-bib-0018" ref-type="ref">2011</xref>; Gautier et&#x000a0;al. <xref rid="ece32047-bib-0024" ref-type="ref">2013</xref>) and possibly overlooks small genomic regions important for adaptation. Therefore, it is important to know whether whole&#x02010;genome sequencing of even a small number of individuals can provide insights that could not be obtained from traditional marker&#x02010;based genetic analysis or even reduced&#x02010;representation sequencing of many individuals.</p><p>Threespine sticklebacks are well&#x02010;researched organisms in ecology and evolutionary biology (Bell and Foster <xref rid="ece32047-bib-0010" ref-type="ref">1994</xref>; Schluter <xref rid="ece32047-bib-0063" ref-type="ref">2000</xref>; McKinnon and Rundle <xref rid="ece32047-bib-0040" ref-type="ref">2002</xref>). Anadromous or marine forms of <italic>G.&#x000a0;aculeatus</italic> are widely distributed in northern Pacific and Atlantic coasts. Colonization by these ancestral forms has led to the evolution of derived freshwater forms in a variety of freshwater ecosystems. Recent genetic studies have revealed that standing genetic variation in source marine populations contributes to parallel adaptation to freshwater environments (Colosimo et&#x000a0;al. <xref rid="ece32047-bib-0017" ref-type="ref">2005</xref>; Miller et&#x000a0;al. <xref rid="ece32047-bib-0041" ref-type="ref">2007</xref>; Kitano et&#x000a0;al. <xref rid="ece32047-bib-0033" ref-type="ref">2010</xref>; Jones et&#x000a0;al. <xref rid="ece32047-bib-0029" ref-type="ref">2012a</xref>, <xref rid="ece32047-bib-0030" ref-type="ref">2012b</xref>; Roesti et&#x000a0;al. <xref rid="ece32047-bib-0059" ref-type="ref">2014</xref>; Terekhanova et&#x000a0;al. <xref rid="ece32047-bib-0068" ref-type="ref">2014</xref>), although de novo mutations can also underlie repeated phenotypic evolution (Chan et&#x000a0;al. <xref rid="ece32047-bib-0015" ref-type="ref">2010</xref>). In addition to native freshwater populations, introduced freshwater lake populations have been reported (Bell and Aguirre <xref rid="ece32047-bib-0009" ref-type="ref">2013</xref>). In the case of one small Alaskan lake population, rapid evolution of armor plates has been observed within 12&#x000a0;years after introduction, which is thought to be caused by selection on the standing genetic variation of a major gene controlling armor plate morphology (Bell et&#x000a0;al. <xref rid="ece32047-bib-0011" ref-type="ref">2004</xref>; Le Rouzic et&#x000a0;al. <xref rid="ece32047-bib-0036" ref-type="ref">2011</xref>). In another case in Switzerland, hybridization between two distinct lineages might play an important role in the establishment of an introduced lake population (Lucek et&#x000a0;al. <xref rid="ece32047-bib-0039" ref-type="ref">2010</xref>). These data are consistent with the idea that standing genetic variation is important for rapid adaptation to novel environments (Barrett and Schluter <xref rid="ece32047-bib-0007" ref-type="ref">2008</xref>).</p><p>Introduced threespine stickleback populations occur in several crater lakes across the Japanese archipelago (Adachi et&#x000a0;al. <xref rid="ece32047-bib-0002" ref-type="ref">2012</xref>). Previously, we conducted genetic analysis of a crater lake population (Lake Towada) with nine microsatellite markers on 15 individuals (Adachi et&#x000a0;al. <xref rid="ece32047-bib-0002" ref-type="ref">2012</xref>; Cassidy et&#x000a0;al. <xref rid="ece32047-bib-0014" ref-type="ref">2013</xref>). Our genetic analysis showed that this population has low genetic diversity; for example, comparison with other Japanese populations showed that the allelic richness of the Lake Towada population was much less than that of the anadromous forms and was the lowest among freshwater populations examined except for one endangered population (Cassidy et&#x000a0;al. <xref rid="ece32047-bib-0014" ref-type="ref">2013</xref>). Furthermore, the Towada population showed genetic similarity with a nearby population occurring on a trout farm in Aisaka, suggesting that this is the source population (Fig.&#x000a0;<xref rid="ece32047-fig-0001" ref-type="fig">1</xref>; Adachi et&#x000a0;al. <xref rid="ece32047-bib-0002" ref-type="ref">2012</xref>). These genetic data are consistent with historical literature documenting that trout were introduced into Lake Towada for aquaculture multiple times (Hikita and Taniguchi <xref rid="ece32047-bib-0028" ref-type="ref">1959</xref>; Tokui <xref rid="ece32047-bib-0069" ref-type="ref">1959</xref>, <xref rid="ece32047-bib-0070" ref-type="ref">1964</xref>). Within 20&#x000a0;years of introduction, morphological and ecological changes have been observed in the Lake Towada population (Adachi et&#x000a0;al. <xref rid="ece32047-bib-0002" ref-type="ref">2012</xref>). In contrast to the small pond in Aisaka, Lake Towada has a maximum depth of 326.8&#x000a0;m and a surface area of 59.8&#x000a0;km<sup>2</sup> (Larson <xref rid="ece32047-bib-0035" ref-type="ref">1989</xref>). Stickleback in Lake Towada population shifted from benthivory to planktivory and have undergone changes in several morphological traits involved in trophic ecology. Rates of infection by the <italic>Schistocephalus</italic> parasite have also varied during the last three decades (Adachi et&#x000a0;al. <xref rid="ece32047-bib-0002" ref-type="ref">2012</xref>). How a population introduced from such a small and shallow pond in the trout farm rapidly adapted to the much larger and deeper crater lake and became established remains elusive.</p><fig fig-type="Figure" xml:lang="en" id="ece32047-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Map showing the location of Lake Towada and Aisaka Pond in Mainland Japan.</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-6-2190-g001"/></fig><p>In this study, we first conducted whole&#x02010;genome sequencing of four individuals from Lake Towada and four individuals from the trout farm source (Aisaka Pond) population. We found that some genomic regions, which showed high genetic diversity in contrast to the rest of the genome in the Lake Towada and the Aisaka Pond populations, resulted from recent introgression from a different species, the Japan Sea stickleback (<italic>Gasterosteus nipponicus</italic>) (Higuchi and Goto <xref rid="ece32047-bib-0026" ref-type="ref">1996</xref>; Kitano et&#x000a0;al. <xref rid="ece32047-bib-0031" ref-type="ref">2007</xref>, <xref rid="ece32047-bib-0032" ref-type="ref">2009</xref>; Higuchi et&#x000a0;al. <xref rid="ece32047-bib-0027" ref-type="ref">2014</xref>). In contrast to <italic>G.&#x000a0;aculeatus</italic>, no freshwater populations of the Japan Sea stickleback lineage have been thus far reported (Higuchi and Goto <xref rid="ece32047-bib-0026" ref-type="ref">1996</xref>; Cassidy et&#x000a0;al. <xref rid="ece32047-bib-0014" ref-type="ref">2013</xref>; Ravinet et&#x000a0;al. <xref rid="ece32047-bib-0053" ref-type="ref">2014</xref>). <italic>Gasterosteus nipponicus</italic> is thought to have diverged from <italic>G.&#x000a0;aculeatus</italic> a few million years ago (Kitano et&#x000a0;al. <xref rid="ece32047-bib-0032" ref-type="ref">2009</xref>). When they occur in sympatry, these two species are reproductively isolated with low levels of hybridization (Kitano et&#x000a0;al. <xref rid="ece32047-bib-0032" ref-type="ref">2009</xref>). To investigate whether an introgression site underwent selective sweep, we increased the sample sizes and conducted targeted amplicon (PCR product) sequencing for the regions within and around an introgression site.</p></sec><sec id="ece32047-sec-0002"><title>Materials and Methods</title><sec id="ece32047-sec-0003"><title>Whole&#x02010;genome sequencing</title><p>We conducted whole&#x02010;genome sequencing of four females from the Lake Towada population and four females from the Aisaka Pond population (Fig.&#x000a0;<xref rid="ece32047-fig-0001" ref-type="fig">1</xref>; Table&#x000a0;<xref rid="ece32047-tbl-0001" ref-type="table-wrap">1</xref>). Lake Towada stickleback were collected at the western side of the lake near Mount Namari (40.445N, 140.841E) in June 2010 by a local fisherman using gill nets. Aisaka Pond stickleback were collected from a small pond on a trout farm (40.592N, 141.221E) in October 2010 using hand nets (Adachi et&#x000a0;al. <xref rid="ece32047-bib-0002" ref-type="ref">2012</xref>). Genomic DNA was isolated with a Qiagen DNeasy Blood &#x00026; Tissue Kit (Qiagen, Valencia, CA). Genomic libraries were constructed with a TruSeq DNA Sample Prep Kit (Illumina, San Diego, CA), and the libraries were run on a HiSeq2000 in 100&#x02010;bp paired&#x02010;end mode (one fish per one lane) as described previously (Yoshida et&#x000a0;al. <xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>).</p><table-wrap id="ece32047-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Coverage and mapping rates of sequence reads, substitution rates compared to the reference stickleback genome, and proportion of heterozygous sites in the sequenced individuals of Lake Towada and Aisaka Pond populations</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Population</th><th align="left" valign="bottom" rowspan="1" colspan="1">Individual number</th><th align="left" valign="bottom" rowspan="1" colspan="1">Average coverage</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total Mapped region (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mapped region with 20&#x02013;200 coverage (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Substitution rate (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Proportion of heterozygous sites</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Lake Towada</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">84</td><td align="left" rowspan="1" colspan="1">0.47</td><td align="left" rowspan="1" colspan="1">0.0014</td></tr><tr><td align="left" rowspan="1" colspan="1">Lake Towada</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">42</td><td align="left" rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">0.46</td><td align="left" rowspan="1" colspan="1">0.0016</td></tr><tr><td align="left" rowspan="1" colspan="1">Lake Towada</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">0.48</td><td align="left" rowspan="1" colspan="1">0.0018</td></tr><tr><td align="left" rowspan="1" colspan="1">Lake Towada</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">84</td><td align="left" rowspan="1" colspan="1">0.47</td><td align="left" rowspan="1" colspan="1">0.0014</td></tr><tr><td align="left" rowspan="1" colspan="1">Aisaka Pond</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">49</td><td align="left" rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">0.48</td><td align="left" rowspan="1" colspan="1">0.0017</td></tr><tr><td align="left" rowspan="1" colspan="1">Aisaka Pond</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">84</td><td align="left" rowspan="1" colspan="1">0.46</td><td align="left" rowspan="1" colspan="1">0.0015</td></tr><tr><td align="left" rowspan="1" colspan="1">Aisaka Pond</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">44</td><td align="left" rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">83</td><td align="left" rowspan="1" colspan="1">0.46</td><td align="left" rowspan="1" colspan="1">0.0016</td></tr><tr><td align="left" rowspan="1" colspan="1">Aisaka Pond</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">57</td><td align="left" rowspan="1" colspan="1">88</td><td align="left" rowspan="1" colspan="1">84</td><td align="left" rowspan="1" colspan="1">0.47</td><td align="left" rowspan="1" colspan="1">0.0016</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Mapping of sequence reads was conducted as described previously (Yoshida et&#x000a0;al. <xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>). Briefly, sequence reads with low quality scores (&#x0003c;0.05) and two or more ambiguous nucleotides at the end were trimmed. Trimmed sequence reads were mapped to the stickleback reference genome (ver. BROADS1.56) generated from an Alaskan lake female annotated using a general feature format file (ver. BROADS1.63) in CLC Genomics Workbench Software 6 (CLC bio, Aarhus, Denmark). Reference files were downloaded from ENSEMBL (<ext-link ext-link-type="uri" xlink:href="http://www.ensembl.org">http://www.ensembl.org</ext-link>). Repeat sequences were masked in the reference sequence. The mapping parameters were as follows: similarity&#x000a0;=&#x000a0;0.8, length fraction&#x000a0;=&#x000a0;0.5, insertion cost&#x000a0;=&#x000a0;3, deletion cost&#x000a0;=&#x000a0;3, mismatch cost&#x000a0;=&#x000a0;2, color space alignment&#x000a0;=&#x000a0;no, global alignment&#x000a0;=&#x000a0;no, override paired distance&#x000a0;=&#x000a0;no, min distance&#x000a0;=&#x000a0;100&#x000a0;bp, and max distance&#x000a0;=&#x000a0;1000&#x000a0;bp. To analyze the coverage, we exported the mapping data as bam files and extracted the coverage data at each nucleotide site using BEDTools (Quinlan and Hall <xref rid="ece32047-bib-0052" ref-type="ref">2010</xref>). Average coverage of the whole&#x02010;genome sequence was calculated with custom Perl scripts. In the subsequent analyses, we used nucleotide sites where all analyzed individuals had 20&#x02013;200 times coverage.</p><p>For SNP analysis of Lake Towada and Aisaka Pond stickleback, SNP calling was conducted using the Probabilistic Variant Detection algorithm implemented in CLC Genomics Workbench. The parameters were as follows: ignore nonspecific matches&#x000a0;=&#x000a0;yes, ignore broken pairs&#x000a0;=&#x000a0;yes, minimum coverage&#x000a0;=&#x000a0;20, variant probability&#x000a0;=&#x000a0;90.0, require presence in both forward and reverse reads&#x000a0;=&#x000a0;yes, maximum expected variants&#x000a0;=&#x000a0;2, and ignore quality scores&#x000a0;=&#x000a0;no. SNP data was exported as a text file, and subsequent SNP analyses were conducted using custom Perl scripts. Data from a previous study of <italic>G.&#x000a0;nipponicus</italic>, anadromous <italic>G.&#x000a0;aculeatus,</italic> and <italic>Gasterosteus wheatlandi</italic> (Yoshida et&#x000a0;al. <xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>) were additionally used for SNP analyses. <italic>G.&#x000a0;nipponicus</italic> and <italic>G.&#x000a0;aculeatus</italic> correspond to the Japan Sea stickleback and the Pacific Ocean stickleback, respectively, previously reported by Yoshida et&#x000a0;al. (<xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>).</p><p>For the sliding window analysis of the heterozygosity within populations (<italic>h</italic>), we calculated average heterozygosity (Nei <xref rid="ece32047-bib-0042" ref-type="ref">1978</xref>; Tajima <xref rid="ece32047-bib-0066" ref-type="ref">1989</xref>), <disp-formula id="ece32047-disp-0001"><mml:math id="nlm-math-1"><mml:mrow><mml:mover accent="true"><mml:mi>h</mml:mi><mml:mo stretchy="false">^</mml:mo></mml:mover><mml:mo>=</mml:mo><mml:munderover><mml:mo movablelimits="false">&#x02211;</mml:mo><mml:mrow><mml:mi>i</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mi>S</mml:mi></mml:munderover><mml:mfrac><mml:mrow><mml:mi>n</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mn>1</mml:mn><mml:mo>&#x02212;</mml:mo><mml:msub><mml:mo>&#x02211;</mml:mo><mml:mi>j</mml:mi></mml:msub><mml:msubsup><mml:mi>x</mml:mi><mml:mrow><mml:mi>j</mml:mi><mml:mi>i</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mrow><mml:mi>n</mml:mi><mml:mo>&#x02212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>where <italic>S</italic> is the number of segregation sites, <italic>n</italic> is the chromosome number, and <italic>x</italic>
+<sub><italic>ji</italic></sub> is the sample frequency of the <italic>j</italic>th allelic nucleotide in the <italic>i</italic>th segregation site. The use of average heterozygosity is recommended as the index of genetic diversity when the sample size is small (Nei <xref rid="ece32047-bib-0043" ref-type="ref">1987</xref>). We calculated the average heterozygosity using SNP data from four individuals in each population. In the previous study, we sequenced the genome of five females of anadromous <italic>G.&#x000a0;aculeatus</italic> (Yoshida et&#x000a0;al. <xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>). To use the same number of individuals as the Lake Towada population, we selected four individuals with the highest average coverage for calculation of average heterozygosity (POF1, POF2, POF3, and POF5; see Table&#x000a0;<xref rid="ece32047-tbl-0001" ref-type="table-wrap">1</xref> in Yoshida et&#x000a0;al. <xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>). For the sliding window analysis of the proportion of heterozygous sites, we counted heterozygous SNPs and calculated the proportion of heterozygous SNPs at validated nucleotide sites.</p><p>To find the introgression sites from <italic>G.&#x000a0;nipponicus</italic> in the genome of Lake Towada and Aisaka Pond stickleback, we calculated the proportion of genotypes with <italic>G.&#x000a0;nipponicus</italic>&#x02010;specific alleles. We focused on introgression sites &#x0003e;10&#x000a0;kb in length. Detection of the introgression sites had four steps. First, we searched for a site where the nucleotide is different between <italic>G.&#x000a0;aculeatus</italic> and <italic>G.&#x000a0;nipponicus</italic> but is fixed within each species using previously resequenced genomes of 10 individuals of <italic>G.&#x000a0;nipponicus</italic> and 10 individuals of anadromous <italic>G.&#x000a0;aculeatus</italic> (Yoshida et&#x000a0;al. <xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>). The sex chromosomes, LG9 and LG19, were excluded from the introgression analysis because X and Y chromosomes can differ even within a species, so it is difficult to find appropriate species&#x02010;specific alleles on sex chromosomes. Next, among these sites, we searched for sites where mutation occurred in the <italic>G.&#x000a0;nipponicus</italic> lineage rather than the <italic>G.&#x000a0;aculeatus</italic> lineage: We searched for sites where the <italic>G.&#x000a0;nipponicus</italic> sequence is different from that of the out&#x02010;group species <italic>G.&#x000a0;wheatlandi</italic> (i.e., a site with a <italic>G.&#x000a0;nipponicus</italic>&#x02010;specific allele). Third, for each individual from the Lake Towada and Aisaka Pond populations, we determined whether the genotype at each nucleotide site is a homozygote of a <italic>G.&#x000a0;aculeatus</italic> allele, a homozygote of a <italic>G.&#x000a0;nipponicus</italic> allele, or a heterozygote.</p><p>Finally, we conducted a sliding window analysis of the proportion of each genotype across the genome with a window of 500&#x000a0;kb and a step size of 100&#x000a0;kb. Using the 500&#x02010;kb sliding window analysis, we screened for regions where more than 2% of the nucleotide sites in a 500&#x02010;kb window have <italic>G.&#x000a0;nipponicus</italic>&#x02010;specific alleles in either a heterozygous or homozygous state as candidate regions containing introgression sites in at least one individual in a population. This 500&#x02010;kb sliding window analysis identified 36 candidate genomic regions in the Lake Towada population and 40 candidate regions in the Aisaka Pond population. Then, to narrow down the introgression sites, we conducted a 1&#x02010;kb sliding window analysis on these candidate regions and identified genomic regions that have five or more segregating sites with <italic>G.&#x000a0;nipponicus</italic>&#x02010;specific alleles and are &#x0003e;10&#x000a0;kb in length. The borders of the introgression sites were defined as the loci where a dominant genotype (&#x0003e;50%) of the segregating sites changed from one species to another in the 1&#x02010;kb sliding window. In several figures, we used the window of 10&#x000a0;kb and a step size of 10 kb only for visualization (see figure legends).</p></sec><sec id="ece32047-sec-0004"><title>in silico RAD and ddRAD sequencing</title><p>We conducted in silico RAD (Baird et&#x000a0;al. <xref rid="ece32047-bib-0006" ref-type="ref">2008</xref>) and ddRAD sequencing (Peterson et&#x000a0;al. <xref rid="ece32047-bib-0048" ref-type="ref">2012</xref>) to test whether these methods have the potential to detect the <italic>G.&#x000a0;nipponicus</italic> introgression sites. The analysis consisted of two steps. We first searched for restriction sites within the introgression sites that we identified in the Towada population. For in silico RAD sequencing, we used SbfI sites, while for the in silico ddRAD sequencing, pairs of EcoRI&#x02010;MspI and SphI&#x02010;MspI were used because these enzymes are frequently used (Baird et&#x000a0;al. <xref rid="ece32047-bib-0006" ref-type="ref">2008</xref>; Peterson et&#x000a0;al. <xref rid="ece32047-bib-0048" ref-type="ref">2012</xref>). We excluded restriction sites that contained one or more fixed nucleotide differences between the two species because only restriction sites conserved between species are informative for RAD or ddRAD sequence analysis (Fig.&#x000a0;S1).</p><p>The final step of in silico analysis is corresponding to HiSeq2000 paired&#x02010;end sequencing (2&#x000a0;&#x000d7;&#x000a0;100&#x000a0;bp) of the virtual RAD and ddRAD libraries. For the in silico RAD sequencing, we counted the number of sites where a nucleotide in <italic>G.&#x000a0;nipponicus</italic> is different from that in <italic>G.&#x000a0;aculeatus</italic> and <italic>G.&#x000a0;wheatlandi,</italic> which we used in the identification of introgression sites, within the regions 100&#x000a0;bp upstream and 100&#x000a0;bp downstream of the restriction sites as well as within the 100&#x02010;bp fragments located 400&#x000a0;bp away from the restriction site: The reason why we also used the 100&#x02010;bp fragments located 400&#x000a0;bp away from the restriction site is because we simulated 2&#x000a0;&#x000d7;&#x000a0;100&#x000a0;bp paired&#x02010;end sequencing here. For the in silco ddRAD sequencing, we computationally selected DNA fragments with a length of 300&#x000a0;&#x000b1;&#x000a0;36&#x000a0;bp sandwiched between sites recognized by two different restriction enzymes, either EcoRI&#x02010;MspI or SphI&#x02010;MspI (300&#x000a0;&#x000b1;&#x000a0;36&#x000a0;bp was used according to the previous simulations conducted in the original paper of ddRAD (Peterson et&#x000a0;al. <xref rid="ece32047-bib-0048" ref-type="ref">2012</xref>)), and counted the number of <italic>G.&#x000a0;nipponicus</italic> diagnostic loci within 100&#x000a0;bp of both ends of the fragment.</p></sec><sec id="ece32047-sec-0005"><title>Amplicon sequencing</title><p>We conducted targeted amplicon sequencing of a genomic region around a <italic>G.&#x000a0;nipponicus</italic> introgression site on LG17 (1&#x02013;4,000,000&#x000a0;bp). We designed 48 primer pairs that amplified PCR products with a fragment length of 550&#x02013;850&#x000a0;bp. These primer pairs were chosen within exons, include one or more segregating sites that were identified in the whole&#x02010;genome sequence data of the four Lake Towada individuals, and are nearly evenly spaced with an average distance of 87,644&#x000a0;&#x000b1;&#x000a0;51,447 (SD) bp. Genomic DNA of 50 Lake Towada stickleback was extracted using a Qiagen DNeasy Blood &#x00026; Tissue Kit and quantified using a Quant&#x02010;iT PicoGreen dsDNA Assay Kit (Life Technologies, Carlsbad, CA). Multiplexed PCR was conducted using a Fluidigm Access Array System (Fluidigm, South San Francisco, CA). Before running PCR on the Fluidigm Access Array System, quality controls of genomic DNA and primer pairs were conducted following the manufacturer's instructions (&#x0201c;two&#x02010;primer target&#x02010;specific PCR amplification&#x0201d; in &#x0201c;Access Array System for Illumina Sequencing Systems&#x0201d;). Briefly, to test the quality of genomic DNA, PCRs were conducted using one primer pair (3035F and 3035R in Table&#x000a0;S1) on 50 genomic DNA samples on a Veriti 384 well thermal cycler (Life Technologies) with one cycle of 50&#x000b0;C for 2&#x000a0;min, 70&#x000b0;C for 20&#x000a0;min and 95&#x000b0;C for 10&#x000a0;min; 10 cycles of 95&#x000b0;C for 15&#x000a0;sec, 60&#x000b0;C for 30&#x000a0;sec, and 72&#x000b0;C for 1&#x000a0;min; two cycles of 95&#x000b0;C for 15&#x000a0;sec, 80&#x000b0;C for 30&#x000a0;sec, 60&#x000b0;C for 30&#x000a0;sec, and 72&#x000b0;C for 1&#x000a0;min; eight cycles of 95&#x000b0;C for 15&#x000a0;sec, 60&#x000b0;C for 30&#x000a0;sec, and 72&#x000b0;C for 1&#x000a0;min; two cycles of 95&#x000b0;C for 15&#x000a0;sec, 80&#x000b0;C for 30&#x000a0;sec, 60&#x000b0;C for 30&#x000a0;sec, and 72&#x000b0;C for 1&#x000a0;min; eight cycles of 95&#x000b0;C for 15&#x000a0;sec, 60&#x000b0;C for 30&#x000a0;sec, and 72&#x000b0;C for 1&#x000a0;min; and five cycles at 95&#x000b0;C for 15&#x000a0;sec, 80&#x000b0;C for 30&#x000a0;sec, 60&#x000b0;C for 30&#x000a0;sec, and 72&#x000b0;C for 1&#x000a0;min using the FastStart High Fidelity PCR System, dNTPack (Roche, Mannheim, Germany) and 20&#x000d7; Access Array Loading Reagent (Fluidigm), followed by analysis of the PCR products on an Agilent 2100 Bioanalyzer System with an Agilent DNA 1000 Kit (Agilent Technologies, Santa Clara, CA). We selected 48 DNA samples giving rise to PCR products with concentrations &#x0003e;4&#x000a0;nmol/L. All primer pairs were also validated using PCR under the same reaction conditions shown above with genomic DNA of one randomly chosen individual. Amplification of appropriate DNA fragments was confirmed by direct Sanger sequencing of the PCR products. We tested 57 pairs and selected 48 primer pairs that gave rise to a single PCR product of the expected length.</p><p>The parallel PCR amplification of 48 genomic regions from 48 samples (2304 reactions in total) was performed using a Fluidigm Access Array System (Fluidigm) in accordance with the manufacturer's instructions. Briefly, PCR was performed using two target&#x02010;specific primers for each sample (Table&#x000a0;S1). Amplification reactions were conducted in 35&#x000a0;nL reaction volume on a 48.48 Access Array Integrated Fluidic Circuits (Fluidigm) using the FastStart High Fidelity PCR System, dNTPack (Roche) and 20&#x000d7; Access Array Loading Reagent (Fluidigm) with the same cycle conditions described above. We used 1.3&#x000a0;ng of genomic DNA per reaction. For each DNA sample, pooled amplicons were quantified using an Agilent 2200 TapeStation (Agilent Technologies). PCR products were purified using an AMPure XP Kit (Beckman Coulter, Brea, CA) and quantified with a Quant&#x02010;iT PicoGreen dsDNA Assay Kit. An equal amount of purified PCR products (1&#x000a0;ng) was subjected to sequence library construction using a Nextera XT DNA Sample Preparation Kit (Illumina). The Nextera XT Index Kit (Illumina) was used for labeling 48 individuals with different dual barcodes. Paired&#x02010;end sequencing (2&#x000a0;&#x000d7;&#x000a0;300&#x000a0;bp) was conducted on a MiSeq sequencer (Illumina) with a MiSeq Reagent Kit v3 (Illumina).</p><p>The amplicon sequence reads were mapped to the reference genome sequence of LG17 using the CLC Genomics Workbench 7 with the same parameters used for whole&#x02010;genome sequencing. SNP calling was conducted with the basic variant detection tool implemented in CLC Genomics Workbench 7 with the following parameters: ploidy&#x000a0;=&#x000a0;2, ignore positions with coverage above&#x000a0;=&#x000a0;100,000, restrict calling to target regions&#x000a0;=&#x000a0;not set, ignore broken pairs&#x000a0;=&#x000a0;no, ignore nonspecific matches&#x000a0;=&#x000a0;reads, minimum coverage&#x000a0;=&#x000a0;20, minimum count&#x000a0;=&#x000a0;5, minimum frequency&#x000a0;=&#x000a0;25, base quality filter&#x000a0;=&#x000a0;no, read direction filter&#x000a0;=&#x000a0;no, relative read direction filter&#x000a0;=&#x000a0;no, and remove pyro&#x02010;error variants&#x000a0;=&#x000a0;no. The data of read coverage and variants were exported as text files and used in the subsequent analysis.</p></sec><sec id="ece32047-sec-0006"><title>Population genetic analysis using amplicon sequence data</title><p>Using the obtained amplicon sequence data from 48 individuals, we first calculated the frequency of <italic>G.&#x000a0;nipponicus</italic> alleles within and around the introgression site IS1 (1.169&#x02013;1.622&#x000a0;Mb) on LG17. SNPs that fulfilled the following three criteria were used for the analysis: (1) coverage depth was &#x0003e;20 in all 48 individuals; (2) the SNP was not included in insertion, deletion, and multiple nucleotide polymorphism (MNP; i.e., mutation of two or three consecutive nucleotides); (3) only two variants exist among all 48 individuals (i.e., bi&#x02010;allelic). Called variant types (SNP, MNP, insertion, or deletion) in the variant detection tools often varied among individuals at loci where MNP is present, so an automatic decision of genotypes is difficult there and we excluded SNPs included in MNP. The allele frequency was calculated at the sites with fixed nucleotide difference between the two species. Most amplicons included multiple informative SNPs. A test for Hardy&#x02013;Weinberg equilibrium was conducted with an exact test implemented in Haploview (Barrett et&#x000a0;al. <xref rid="ece32047-bib-0008" ref-type="ref">2005</xref>).</p><p>For linkage disequilibrium analysis, all SNP data (not limited to the sites with fixed nucleotide differences) were phased with fastPHASE v. 1.4 (Scheet and Stephens <xref rid="ece32047-bib-0062" ref-type="ref">2006</xref>) to infer the haplotypes. SNPs detected only in a single individual or deviated from Hardy&#x02013;Weinberg equilibrium (Hardy&#x02013;Weinberg test, <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05) were excluded from the subsequent analysis (resulting in the exclusion of 23 SNPs and 13 SNPs, respectively). We calculated a normalized coefficient of LD, <italic>D</italic>&#x02032; (Falconer <xref rid="ece32047-bib-0021" ref-type="ref">1989</xref>), for all pairs of 133 SNPs in a long supercontig (936,214&#x02013;6,448,156&#x000a0;bp) including the introgression sites on LG17 using Haploview. The reference genome in ENSEMBL sometimes contains misaligned supercontigs (Roesti et&#x000a0;al. <xref rid="ece32047-bib-0058" ref-type="ref">2013</xref>). Although Roesti et&#x000a0;al. (<xref rid="ece32047-bib-0058" ref-type="ref">2013</xref>) corrected misalignment of some supercontigs, correction is still difficult for small supercontigs. Furthermore, we do not know the actual physical length of gaps between supercontigs. Therefore, we did not use the region from 1 to 936,213&#x000a0;bp, which is composed of four small supercontigs.</p><p>SNP pairs were categorized into three types: pairs within the downstream region outside IS1, within IS1 and between IS1 and the downstream region. In each category of the pairs, <italic>D</italic>&#x02032; was plotted against the genetic distance (cM) and fitted to the simple model for decay of LD (Falconer <xref rid="ece32047-bib-0021" ref-type="ref">1989</xref>): <italic>D</italic>&#x02032;&#x000a0;=&#x000a0;(1&#x000a0;&#x02212;&#x000a0;<italic>&#x003b8;</italic>)<sup><italic>t</italic></sup>, where <italic>&#x003b8;</italic> is the recombination fraction of two markers, and <italic>t</italic> is the number of generations since <italic>D</italic>&#x02032;&#x000a0;=&#x000a0;1. For this analysis, genetic distances between the marker pairs were estimated using definite integrals of a Loess curve fitted to the previously reported stickleback recombination rates (cM/Mb) (Roesti et&#x000a0;al. <xref rid="ece32047-bib-0058" ref-type="ref">2013</xref>). Marker pairs with a distance of 5&#x000a0;cM or less were used. For fitting of LD decay curve, the nls.lm function of the minpack.lm package in R was used (<ext-link ext-link-type="uri" xlink:href="https://cran.r-project.org/web/packages/minpack.lm/index.html">https://cran.r-project.org/web/packages/minpack.lm/index.html</ext-link>).</p></sec><sec id="ece32047-sec-0007"><title>Gene sequence analysis</title><p>To investigate whether there are any genes with functionally diverged amino acids, we calculated the interallelic <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub> test of the genes located within the <italic>G.&#x000a0;nipponicus</italic> introgression site (1.169&#x02013;1.622&#x000a0;Mb on LG17) in an heterozygous individual as described previously (Yoshida et&#x000a0;al. <xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>). Two virtual haploid protein&#x02010;coding sequences were reconstructed from the SNP data of one Lake Towada individual with the <italic>G.&#x000a0;nipponicus</italic> introgression at IS1 on LG17 (Towada 1). Any indels were masked for the analysis. When more than two heterozygous SNPs exist in a single codon, this method can lead to the reconstruction of the wrong amino acid. In such a case, therefore, we phased heterozygous SNPs manually by checking the short read sequences. The software codeml in PAML 4 (Yang <xref rid="ece32047-bib-0071" ref-type="ref">2007</xref>) was used for <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub> calculation. <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub> values were calculated using the Nei&#x02013;Gojobori method (Nei and Gojobori <xref rid="ece32047-bib-0044" ref-type="ref">1986</xref>). For genes with <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub>&#x000a0;&#x0003e;&#x000a0;1, rejection of <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub>&#x000a0;=&#x000a0;1 was tested with MEGA6 (Tamura et&#x000a0;al. <xref rid="ece32047-bib-0067" ref-type="ref">2013</xref>).</p><p>To test whether nonsynonymous mutations within IS1 are functionally important, we used Protein Variation Effect Analyzer (PROVEAN) (Choi et&#x000a0;al. <xref rid="ece32047-bib-0016" ref-type="ref">2012</xref>). Under the assumption that evolutionarily conserved amino acid positions across multiple species are under purifying selection, amino acid substitutions that occurred at highly conserved positions are likely to change protein functions. PROVEAN analysis consists of two steps: collection of orthologs of other species from the NCBI NR protein database, followed by calculation of unbiased averaged delta scores (PROVEAN scores). Delta scores indicate the differences in the alignment scores between a protein query sequence and its variant, therefore reflecting the impacts of the mutation on protein alignment. We calculated the PROVEAN scores of all SNPs that are divergent between species, but are fixed within species in IS1. Significance thresholds for the absolute values of the PROVEAN scores were set at three different values: strict threshold&#x000a0;=&#x000a0;4.1 (specificity&#x000a0;=&#x000a0;90.3%, sensitivity&#x000a0;=&#x000a0;57.6%), middle threshold&#x000a0;=&#x000a0;2.5 (specificity&#x000a0;=&#x000a0;78.6%, sensitivity&#x000a0;=&#x000a0;80.4%), and sensitive threshold&#x000a0;=&#x000a0;1.3 (specificity&#x000a0;=&#x000a0;61.6%, sensitivity&#x000a0;=&#x000a0;90.6%).</p></sec></sec><sec id="ece32047-sec-0008"><title>Results</title><sec id="ece32047-sec-0009"><title>Genomic regions with high average heterozygosity in the Lake Towada population</title><p>Genomewide average heterozygosity (<italic>h</italic>) in the Lake Towada population was 1.633&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>, which was close to the value of the Aisaka Pond (1.785&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>) but much smaller than that of the anadromous form of <italic>G.&#x000a0;aculeatus</italic> (3.097&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>). The proportions of heterozygous sites showed the same pattern: values were similar between the Towada (Fig.&#x000a0;S2, 1.549&#x000a0;&#x000b1;&#x000a0;0.150&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>) and Aisaka populations (Fig.&#x000a0;S2, 1.614&#x000a0;&#x000b1;&#x000a0;0.065&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>), but both were much lower than those of the anadromous population (Fig.&#x000a0;S2, 3.120&#x000a0;&#x000b1;&#x000a0;0.064&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02212;3</sup>; Mann&#x02013;Whitney <italic>U</italic>&#x02010;test: Towada vs. anadromous, <italic>P</italic>&#x000a0;=&#x000a0;0.02857; Aisaka vs. anadromous, <italic>P</italic>&#x000a0;=&#x000a0;0.02857). These data suggest that the Lake Towada population did not experience a severe reduction in genetic diversity when it was introduced to Lake Towada but rather that genetic diversity was low in the Aisaka Pond source population.</p><p>To further investigate the genomewide patterns of genetic diversity, we conducted a sliding window analysis of average heterozygosity (<italic>h</italic>) across the genome. Overall patterns of average heterozygosity were similar between the Lake Towada and anadromous populations (Fig.&#x000a0;<xref rid="ece32047-fig-0002" ref-type="fig">2</xref>A). As expected from the genomewide average heterozygosity, the average heterozygosity of the Lake Towada population was generally lower than that of the anadromous form for most of the genome (Fig.&#x000a0;<xref rid="ece32047-fig-0002" ref-type="fig">2</xref>A). However, we found two sharp peaks of average heterozygosity on LG1 and LG17 in the Lake Towada population (Fig.&#x000a0;<xref rid="ece32047-fig-0002" ref-type="fig">2</xref>A), and these peaks were even higher than those in the anadromous population (Fig.&#x000a0;<xref rid="ece32047-fig-0002" ref-type="fig">2</xref>B and C). The peak on LG17 was the highest across the whole genome of the Lake Towada population (Fig.&#x000a0;<xref rid="ece32047-fig-0002" ref-type="fig">2</xref>A). Consistent with these data, we found an increase in the proportion of heterozygous sites at this LG17 locus in three of four individuals from the Lake Towada population (Fig.&#x000a0;S3).</p><fig fig-type="Figure" xml:lang="en" id="ece32047-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Sliding window analysis of average heterozygosity (<italic>h</italic>) in the genome of Lake Towada population (red line). The average heterozygosity (<italic>h</italic>) of anadromous population is also shown as gray line for comparison. (A) 500&#x02010;kb sliding window analysis with 100&#x02010;kb step. (B, C) 10&#x02010;kb sliding window with 10&#x02010;kb shift around the regions with high heterozygosity on <styled-content style="fixed-case">LG</styled-content>1 (B) and <styled-content style="fixed-case">LG</styled-content>17 (C) of Lake Towada stickleback, which are indicated by triangles in figure A.</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-6-2190-g002"/></fig><p>In the Aisaka Pond population, we found a pattern of average heterozygosity similar to that of the Lake Towada population across the genome (Fig.&#x000a0;<xref rid="ece32047-fig-0003" ref-type="fig">3</xref>A). On LG1, the flanking regions of the peak had rather higher average heterozygosity in the Aisaka Pond stickleback than in the Lake Towada population (Fig.&#x000a0;<xref rid="ece32047-fig-0003" ref-type="fig">3</xref>B). As for the LG17 peak, the Aisaka Pond population showed no clear peak in average heterozygosity (Fig.&#x000a0;<xref rid="ece32047-fig-0003" ref-type="fig">3</xref>C). One individual from the Aisaka Pond had an increased proportion of heterozygous sites on LG17, although the size of the region containing the higher proportion of heterozygous sites was smaller than that observed in Lake Towada (see Aisaka3 in Fig.&#x000a0;S4). In summary, these data suggest that the Lake Towada population possesses several genomic regions with high average heterozygosity and the ancestral Aisaka population also has a similar pattern of average heterozygosity.</p><fig fig-type="Figure" xml:lang="en" id="ece32047-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Sliding window analysis of average heterozygosity (<italic>h</italic>) in the genome of Aisaka Pond population (blue line). The average heterozygosity (<italic>h</italic>) of the Lake Towada population is also shown as red line for comparison. (A) 500&#x02010;kb sliding window with 100&#x02010;kb step. (B, C) 10&#x02010;kb sliding window with 10&#x02010;kb step around the regions with high heterozygosity on <styled-content style="fixed-case">LG</styled-content>1 (B) and <styled-content style="fixed-case">LG</styled-content>17 (C) of Lake Towada stickleback, which are indicated by triangles in figure A.</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-6-2190-g003"/></fig></sec><sec id="ece32047-sec-0010"><title>Introgression of the <italic>G.&#x000a0;nipponicus</italic> genome into the Lake Towada population</title><p>The proportions of heterozygous sites (i.e., nucleotide differences between two alleles within a single individual) at the regions with high heterozygosity on LG17 in the Lake Towada stickleback (see Towada 1&#x02013;3 in Fig.&#x000a0;S3) were similar to the average substitution rates between <italic>G.&#x000a0;aculeatus</italic> and <italic>G.&#x000a0;nipponicus</italic> (i.e., nucleotide differences between the two species) (0.0144; Yoshida et&#x000a0;al. <xref rid="ece32047-bib-0072" ref-type="ref">2014</xref>). Therefore, we hypothesized that regions with high heterozygosity may result from hybridization between the two species. To test this hypothesis, we calculated the proportions of sequences derived from <italic>G.&#x000a0;nipponicus</italic> for each individual from Lake Towada. To perform this analysis, we calculated the proportion of <italic>G.&#x000a0;nipponicus</italic>&#x02010;derived sequences in the Lake Towada population (see &#x0201c;<xref rid="ece32047-sec-0002" ref-type="sec">Materials and Methods</xref>&#x0201d;). A genomewide sliding window analysis of the proportion of <italic>G.&#x000a0;nipponicus</italic>&#x02010;derived sequences revealed 19 regions longer than 10&#x000a0;kb with genotypes with <italic>G.&#x000a0;nipponicus</italic>&#x02010;specific alleles within the genome of the Lake Towada stickleback (Figs.&#x000a0;<xref rid="ece32047-fig-0004" ref-type="fig">4</xref>A, S5). A 10&#x02010;kb sliding window analysis on LG1 and LG17 showed that regions with high average heterozygosity (see the above section) correspond to the regions where <italic>G.&#x000a0;nipponicus</italic> alleles were found (Figs.&#x000a0;<xref rid="ece32047-fig-0004" ref-type="fig">4</xref>B, C, S6). One potential introgression site on LG17 had a sharp boundary at 1,169,000 and 1,622,000&#x000a0;bp. These data suggest that high average heterozygosity in this region resulted from introgression of <italic>G.&#x000a0;nipponicus</italic> alleles.</p><fig fig-type="Figure" xml:lang="en" id="ece32047-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Sliding window analysis of proportions of different genotypes; homozygotes of <italic>G.&#x000a0;aculeatus</italic> alleles (light blue), homozygotes of <italic>G.&#x000a0;nipponicus</italic> alleles (green), and heterozygotes (red) in one individual from Lake Towada population (Towada 3). (A) 500&#x02010;kb sliding window with 100&#x02010;kb step. All chromosomes except for sex chromosomes (<styled-content style="fixed-case">LG</styled-content>9 and <styled-content style="fixed-case">LG</styled-content>19) are shown. (B, C) 10&#x02010;kb sliding window with 10&#x02010;kb step around the introgression sites on <styled-content style="fixed-case">LG</styled-content>1 (B) and <styled-content style="fixed-case">LG</styled-content>17 (C).</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-6-2190-g004"/></fig><p>To examine whether introgression sites of this size would be detectable by two recently developed and commonly used reduced&#x02010;representation methods, RAD and ddRAD sequencing technologies, we conducted in silico RAD and ddRAD sequencing (Fig.&#x000a0;S1). Under the assumption that all restriction sites can be perfectly sequenced at high coverage in RAD and ddRAD sequencing, we counted the number of detectable <italic>G.&#x000a0;nipponicus</italic>&#x02010;specific SNPs (Table&#x000a0;S2). The number of informative SNPs decreased in both RAD and ddRAD sequencing compared to whole&#x02010;genome sequencing. More than half of the introgression sites lack any informative SNPs, suggesting that these introgression sites would be overlooked even if RAD and ddRAD sequencing worked perfectly. In the case of ddRAD sequencing with SphI&#x02010;EcoRI, only two SNPs would be captured.</p><p>The genomewide sliding window analysis of the Aisaka Pond stickleback genome sequences indicated that the Aisaka Pond stickleback had 23 regions longer than 10&#x000a0;kb with genotypes with <italic>G.&#x000a0;nipponicus</italic> alleles (Figs.&#x000a0;<xref rid="ece32047-fig-0005" ref-type="fig">5</xref>A, S7). Sixteen introgression sites found in the genomes of the Lake Towada population (84%) overlapped with the introgression sites identified in the Aisaka Pond population. A high proportion of genotypes with <italic>G.&#x000a0;nipponicus</italic> alleles was also observed on LG1 (Figs.&#x000a0;<xref rid="ece32047-fig-0005" ref-type="fig">5</xref>B, S8A). On LG17, one individual that exhibited a high proportion of heterozygous sites on LG17 was a heterozygote of <italic>G.&#x000a0;aculeatus</italic> and <italic>G.&#x000a0;nipponicus</italic> alleles at this locus, although the region with the high proportion of heterozygous sites and introgression was narrower (1.169&#x02013;1.346&#x000a0;Mb) than the region observed in the Lake Towada population (Figs.&#x000a0;<xref rid="ece32047-fig-0005" ref-type="fig">5</xref>C, S8B).</p><fig fig-type="Figure" xml:lang="en" id="ece32047-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Sliding window analysis of proportions of different genotypes; homozygotes of <italic>G.&#x000a0;aculeatus</italic> alleles (light blue), homozygotes of <italic>G.&#x000a0;nipponicus</italic> alleles (green), and heterozygotes (red) in one individual from Aisaka Pond (Aisaka3). (A) 500&#x02010;kb sliding window with 100&#x02010;kb step. All chromosomes except for sex chromosomes (<styled-content style="fixed-case">LG</styled-content>9 and <styled-content style="fixed-case">LG</styled-content>19) are shown. (B, C) 10&#x02010;kb sliding window with 10&#x02010;kb step around the introgression site on <styled-content style="fixed-case">LG</styled-content>1 (B) and <styled-content style="fixed-case">LG</styled-content>17 (C).</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-6-2190-g005"/></fig></sec><sec id="ece32047-sec-0011"><title>LD around the introgression site</title><p>To further investigate the introgression site IS1 (1.169&#x02013;1.622&#x000a0;Mb) on LG17 in the Lake Towada population, we&#x000a0;conducted amplicon sequencing of 48 genomic regions&#x000a0;within and around the introgression site for 48 individuals.</p><p>First, the <italic>G.&#x000a0;nipponicus</italic> allele frequencies among the 48 individuals were calculated around the introgression site (Fig.&#x000a0;S9). As expected, the <italic>G.&#x000a0;nipponicus</italic> allele frequency was high within IS1: five amplicons with a high frequency of <italic>G.&#x000a0;nipponicus</italic>&#x02010;derived alleles are found within IS1 (1.169&#x02013;1.622&#x000a0;Mb; Fig.&#x000a0;S9). There are some variations in the <italic>G.&#x000a0;nipponicus</italic> allele frequency among five amplicons, which may result from recombination within IS1. There was another locus with a high frequency of <italic>G.&#x000a0;nipponicus</italic>&#x02010;derived alleles (termed IS2; Fig.&#x000a0;S9), which is located next to IS1 and corresponds to a short introgression site (1.749&#x02013;1.759&#x000a0;Mb; Fig.&#x000a0;<xref rid="ece32047-fig-0004" ref-type="fig">4</xref>C). Other flanking regions had no <italic>G.&#x000a0;nipponicus</italic> alleles. Hardy&#x02013;Weinberg equilibrium tests indicated that no SNPs at these <italic>G.&#x000a0;nipponicus</italic> diagnostic loci deviated from Hardy&#x02013;Weinberg equilibrium (exact test, <italic>P&#x000a0;</italic>&#x0003e;<italic>&#x000a0;</italic>0.05).</p><p>Next, we conducted LD analysis (Fig.&#x000a0;<xref rid="ece32047-fig-0006" ref-type="fig">6</xref>). If the introgression occurred and spread recently, there would be little time for recombination to break down LD, so high LD around the introgression site should be observed. For LD analysis, we used 133 nucleotide loci on a large supercontig (from 936,214 to 6,448,157&#x000a0;bp) including both IS1 and IS2. We did not use the genomic region from 1 to 936,213&#x000a0;bp on LG17 because the public genome sequence of this region is composed of four supercontigs in the ENSEMBL database, so we cannot exclude the possibility that these supercontigs were misaligned in the database (see the &#x0201c;<xref rid="ece32047-sec-0002" ref-type="sec">Materials and Methods</xref>&#x0201d;).</p><fig fig-type="Figure" xml:lang="en" id="ece32047-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>(A) Linkage disequilibrium (<italic>D</italic>&#x02032;) around the introgression site on <styled-content style="fixed-case">LG</styled-content>17. Color intensity indicates the value of <italic>D</italic>&#x02032;. Red colors indicate <styled-content style="fixed-case">LOD</styled-content> &#x02265;2, whereas blue colors indicate <styled-content style="fixed-case">LOD</styled-content>&#x000a0;&#x0003c;&#x000a0;2. Bold black lines above the <styled-content style="fixed-case">LD</styled-content> data indicate two introgression sites, <styled-content style="fixed-case">IS</styled-content>1 and <styled-content style="fixed-case">IS</styled-content>2. The triangle surrounded by a bold black line indicates <styled-content style="fixed-case">LD</styled-content> within <styled-content style="fixed-case">IS</styled-content>1. The numbers on the panel indicate the position on <styled-content style="fixed-case">LG</styled-content>17 in Mb. Only <styled-content style="fixed-case">LD</styled-content> between loci with the distance of &#x0003c;1&#x000a0;Mb are shown here. (B) <styled-content style="fixed-case">LD</styled-content> decays more slowly within the introgression site <styled-content style="fixed-case">IS</styled-content>1 (red) than outside <styled-content style="fixed-case">IS</styled-content>1 (black). (C) Decay of <styled-content style="fixed-case">LD</styled-content> between a marker within <styled-content style="fixed-case">IS</styled-content>1 and a marker outside <styled-content style="fixed-case">IS</styled-content>1 (orange) was also slower than the <styled-content style="fixed-case">LD</styled-content> decay between markers outside <styled-content style="fixed-case">IS</styled-content>1 (black). Dotted lines indicate 95% confidence intervals.</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-6-2190-g006"/></fig><p>We found a high LD not only between markers within the introgression site IS1 but also between a marker within IS1 and a maker in the nearby flanking regions (Fig.&#x000a0;<xref rid="ece32047-fig-0006" ref-type="fig">6</xref>A). Then, we calculated the decay of LD for marker pairs inside IS1, marker pairs outside IS1, and pairs between one marker inside and another outside IS1. LD decays more slowly within the introgression site (red in Fig.&#x000a0;<xref rid="ece32047-fig-0006" ref-type="fig">6</xref>B) than outside the introgression site (black in Fig.&#x000a0;<xref rid="ece32047-fig-0006" ref-type="fig">6</xref>B). More importantly, LD also decays slowly between a marker inside IS1 and a marker outside IS1 (orange in Fig.&#x000a0;<xref rid="ece32047-fig-0006" ref-type="fig">6</xref>C).</p></sec><sec id="ece32047-sec-0012"><title>Potential functional differences between <italic>G.&#x000a0;aculeatus</italic> and <italic>G.&#x000a0;nipponicus</italic> alleles at the introgression site</title><p>The introgression site IS1 contained 38 protein&#x02010;coding genes. To investigate whether these genes are functionally different between the <italic>G.&#x000a0;nipponicus</italic> and <italic>G.&#x000a0;aculeatus</italic> alleles, we first conducted interallelic <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub> analysis. Although there are few genes with <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub>&#x000a0;&#x0003e;&#x000a0;1 between <italic>G.&#x000a0;nipponicus</italic> and <italic>G.&#x000a0;aculeatus</italic> alleles (possibly due to the recent divergence of the two species), two genes with <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub>&#x000a0;&#x0003e;&#x000a0;1 were found: a pentraxin&#x02010;like novel gene&#x000a0;(ENSGACG00000003825; <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub>&#x000a0;=&#x000a0;&#x0221e;, <italic>K</italic>
+<sub>a</sub>&#x000a0;=&#x000a0;0.0143, <italic>K</italic>
+<sub>s</sub>&#x000a0;=&#x000a0;0) and a coiled&#x02010;coil domain&#x02010;containing protein 66&#x02010;like novel gene (ENSGACG00000003880; <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub>&#x000a0;=&#x000a0;&#x0221e;, <italic>K</italic>
+<sub>a</sub>&#x000a0;=&#x000a0;0.0049, <italic>K</italic>
+<sub>s</sub>&#x000a0;=&#x000a0;0). The pentraxin&#x02010;like gene had a significantly higher <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub> than 1 (<italic>P</italic>&#x000a0;=&#x000a0;0.002), although <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub>&#x000a0;&#x0003e;&#x000a0;1 was not significant for the latter gene (<italic>P&#x000a0;</italic>&#x0003e;<italic>&#x000a0;</italic>0.05).</p><p>Next, we conducted PROVEAN analysis, which screens for functionally important mutations by searching for nucleotide changes that occurred at phylogenetically conserved nucleotides. We found several genes with high PROVEAN scores (Table&#x000a0;<xref rid="ece32047-tbl-0002" ref-type="table-wrap">2</xref>): 13 genes with a sensitive threshold, five genes with a middle&#x02010;level threshold, and three genes with a strict threshold (see the &#x0201c;<xref rid="ece32047-sec-0002" ref-type="sec">Materials and Methods</xref>&#x0201d;). One gene, filamin B&#x02010;like gene, had three&#x000a0;amino acid substitutions with high PROVEAN scores (&#x02212;2.963 for Asp to Glu substitution at the amino acid position 148; 6.973 for Ala to Pro substitution at the position 938; 3.165 for Gly to Ala at the position 2464).</p><table-wrap id="ece32047-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Possible functional substitutions between <italic>G.&#x000a0;nipponicus</italic> and <italic>G.&#x000a0;aculeatus</italic> alleles within the introgression site <styled-content style="fixed-case">IS1</styled-content>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Gene postion<xref ref-type="fn" rid="ece32047-note-0003">1</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Gene name</th><th align="left" valign="bottom" rowspan="1" colspan="1">Transcript ID</th><th align="left" valign="bottom" rowspan="1" colspan="1">Amino acid change [PROVEAN Score<xref ref-type="fn" rid="ece32047-note-0003">2</xref>]</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1,175,845</td><td align="left" rowspan="1" colspan="1">Transglutaminase 8</td><td align="left" rowspan="1" colspan="1">ENSGACT00000004923</td><td align="left" rowspan="1" colspan="1">V526A [1.373]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,200,852</td><td align="left" rowspan="1" colspan="1">Filamin B, like</td><td align="left" rowspan="1" colspan="1">ENSGACT00000004976</td><td align="left" rowspan="1" colspan="1">
+<bold>D148E</bold> [&#x02212;<bold>2.963</bold>
+<xref ref-type="fn" rid="ece32047-note-0003">*</xref>], <bold>A938P</bold> [<bold>6.973</bold>
+<xref ref-type="fn" rid="ece32047-note-0003">**</xref>], N1851S [1.58]</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">ENSGACT00000004983</td><td align="left" rowspan="1" colspan="1">K1879E [&#x02212;2.084], <bold>G2464A</bold> [<bold>3.165</bold>
+<xref ref-type="fn" rid="ece32047-note-0003">*</xref>]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,235,360</td><td align="left" rowspan="1" colspan="1">Sarcolemma&#x02010;associated protein a</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005008</td><td align="left" rowspan="1" colspan="1">N813S [&#x02212;1.396]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,281,299</td><td align="left" rowspan="1" colspan="1">Kelch&#x02010;like family member 10 [2/5]</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005082</td><td align="left" rowspan="1" colspan="1">
+<bold>D178E</bold> [<bold>2.7</bold>
+<xref ref-type="fn" rid="ece32047-note-0003">*</xref>], R415P [&#x02212;1.733], T505I [&#x02212;1.647]</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">ENSGACT00000005084</td><td align="left" rowspan="1" colspan="1">K229Q [&#x02212;1.76], Q479H [&#x02212;2.241]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,343,836</td><td align="left" rowspan="1" colspan="1">Coiled&#x02010;coil domain&#x02010;containing 66</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005108</td><td align="left" rowspan="1" colspan="1">
+<bold>L189R</bold> [&#x02212;<bold>4.579</bold>
+<xref ref-type="fn" rid="ece32047-note-0003">**</xref>]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,355,299</td><td align="left" rowspan="1" colspan="1">Inositol hexakisphosphate kinase 1</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005112</td><td align="left" rowspan="1" colspan="1">P375R [&#x02212;1.362]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,439,329</td><td align="left" rowspan="1" colspan="1">Potassium channel tetramerisation domain&#x02010;containing 6a</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005237</td><td align="left" rowspan="1" colspan="1">S4C [&#x02212;1.661]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,465,445</td><td align="left" rowspan="1" colspan="1">Stabilin 1 [1/2]</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005255</td><td align="left" rowspan="1" colspan="1">Q577K [1.418], K760R [2.164]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,482,835</td><td align="left" rowspan="1" colspan="1">Stabilin 1 [2/2]</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005273</td><td align="left" rowspan="1" colspan="1">S380L [&#x02212;2.495], T494P [1.338]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,499,288</td><td align="left" rowspan="1" colspan="1">Nischarin</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005292</td><td align="left" rowspan="1" colspan="1">
+<bold>S298G</bold> [&#x02212;<bold>3.199</bold>
+<xref ref-type="fn" rid="ece32047-note-0003">*</xref>], I569N [&#x02212;1.335], C1080R [1.605]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,563,301</td><td align="left" rowspan="1" colspan="1">Asporin (LRR class 1)</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005358</td><td align="left" rowspan="1" colspan="1">P18H [1.458]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,578,802</td><td align="left" rowspan="1" colspan="1">Osteoglycin</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005363</td><td align="left" rowspan="1" colspan="1">L211M [&#x02212;1.745]</td></tr><tr><td align="left" rowspan="1" colspan="1">1,593,763</td><td align="left" rowspan="1" colspan="1">Nucleolar protein 8</td><td align="left" rowspan="1" colspan="1">ENSGACT00000005381</td><td align="left" rowspan="1" colspan="1">
+<bold>E308G</bold> [&#x02212;<bold>6.398</bold>
+<xref ref-type="fn" rid="ece32047-note-0003">**</xref>]</td></tr></tbody></table><table-wrap-foot><fn id="ece32047-note-0003"><p>Genes with absolute values of PROVEAN scores&#x000a0;&#x0003e;&#x000a0;1.3 are listed here. <sup>1</sup>Median position of genes, <sup>2</sup>amino acid changes are shown by the amino acid in <italic>G.&#x000a0;aculeatus</italic>, amino acid position, and the amino acid in <italic>G.&#x000a0;nipponicus</italic>. Positive and negative PROVEAN scores indicate that functional mutation occurred in <italic>G.&#x000a0;aculeatus</italic> and <italic>G.&#x000a0;nipponicus</italic>, respectively. *PROVEAN scores&#x000a0;&#x0003e;&#x000a0;2.5 or &#x0003c; &#x02212;2.5. **PROVEAN scores&#x000a0;&#x0003e;&#x000a0;4.1 or &#x0003c; &#x02212;4.1. Bold letters indicate PROVEAN scores whose absolute values are larger than 2.5.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec id="ece32047-sec-0013"><title>Discussion</title><sec id="ece32047-sec-0014"><title>Small genomic regions of introgression detected with whole&#x02010;genome sequencing</title><p>By conducting whole&#x02010;genome sequencing of four individuals of an introduced population with high coverage, we identified many small genomic regions of interspecies introgression (Figs.&#x000a0;<xref rid="ece32047-fig-0004" ref-type="fig">4</xref>, S5). These introgressions could not be detected using our previous microsatellite analysis (Adachi et&#x000a0;al. <xref rid="ece32047-bib-0002" ref-type="ref">2012</xref>). Although reduced&#x02010;representation sequencing, such as RAD and ddRAD sequencing, is a good alternative to whole&#x02010;genome sequencing, even these methods risk overlooking introgression sites: More than half of introgression sites &#x0003e;10&#x000a0;kb would have been overlooked (Table&#x000a0;S2). Furthermore, the number of conserved restriction sites decreases with increasing genetic distance between parental species (Gautier et&#x000a0;al. <xref rid="ece32047-bib-0024" ref-type="ref">2013</xref>). In our in silico analysis, we assumed that all of the restriction sites can be perfectly sequenced, but this is not usually the case, suggesting that more SNPs than expected within the introgression sites would be overlooked in real RAD and ddRAD experiments. Thus, our results exemplify a case that introduced populations can have small regions of introgression that can be detected with whole&#x02010;genome sequencing but can be overlooked with reduced&#x02010;representation sequencing. Instead, marker&#x02010;based analysis and reduced&#x02010;representation sequencing are more useful to increase sample size for testing hypotheses formulated from whole&#x02010;genome sequence data. For example, we used targeted amplicon sequencing of 48 individuals, a reduced&#x02010;representation method, to test a selective sweep of one introgression site (Fig.&#x000a0;<xref rid="ece32047-fig-0006" ref-type="fig">6</xref>).</p></sec><sec id="ece32047-sec-0015"><title>Potential roles of introgression in colonization of novel environments</title><p>Hybridization increases genetic variation and helps invasive species adapt to novel environments (Lee <xref rid="ece32047-bib-0037" ref-type="ref">2002</xref>; Dlugosch and Parker <xref rid="ece32047-bib-0019" ref-type="ref">2008</xref>; Prentis et&#x000a0;al. <xref rid="ece32047-bib-0049" ref-type="ref">2008</xref>). The Lake Towada population may be another such example. Several peaks of high heterozygosity in the Lake Towada population resulted from interspecies introgressions. If these regions resulted from shared polymorphism between species, we would see a similar increase in average heterozygosity in the anadromous population, which we did not observe. LD analysis also supports the idea that these regions are derived from introgression. Our data also indicate that the ancestral Aisaka Pond population already possessed the introgression site. This data indicates the possibility that the two species were introduced together to the pond on the trout farm, hybridized there, and were introduced to Lake Towada, although we cannot exclude the alternative possibility that progeny of natural hybrids formed in a sympatric habitat were introduced into the trout farm. Environmental changes and artificial environments are thought to reduce the ecological disadvantage of hybrids and promote hybridization between species (Seehausen et&#x000a0;al. <xref rid="ece32047-bib-0065" ref-type="ref">2008</xref>), and the trout farm may be one of such artificial environments.</p><p>Several data are consistent with the hypothesis that the introgression was adaptive. First, LD analysis showed high LD between the introgression site and the flanking region on LG17 (Fig.&#x000a0;<xref rid="ece32047-fig-0006" ref-type="fig">6</xref>), and one possible explanation for high LD is the genetic hitchhiking effect of directional or balancing selection on the introgression site. Although another possible explanation for high LD is recombination suppression, this is unlikely. While the IS1 on LG17 was 450&#x000a0;kb long in three Lake Towada individuals (Figs.&#x000a0;<xref rid="ece32047-fig-0004" ref-type="fig">4</xref>B, S6), the introgression site was shorter in one individual from the Aisaka Pond population (Figs.&#x000a0;<xref rid="ece32047-fig-0005" ref-type="fig">5</xref>B, S8). In addition, variations in the <italic>G.&#x000a0;nipponicus</italic> allele frequencies were found among amplicons within IS1 (Fig.&#x000a0;S9). These data indicate that recombination can occur even within IS1. Second, our gene sequence analysis showed that the introgression site may have genes with functional changes between <italic>G.&#x000a0;aculeatus</italic> and <italic>G.&#x000a0;nipponicus</italic> alleles. For example, the Filamin B&#x02010;like gene contained multiple amino acid substitutions that are potentially functional. Filamin B is a cytoplasmic protein involved in skeletal development (Lu et&#x000a0;al. <xref rid="ece32047-bib-0038" ref-type="ref">2007</xref>). Another interesting gene within the introgression site was a Pentraxin&#x02010;like gene with <italic>K</italic>
+<sub>a</sub>/<italic>K</italic>
+<sub>s</sub>&#x000a0;&#x0003e;&#x000a0;1. This gene may be under divergent selection between two species. Although we do not know the function of this gene, pentraxin domain&#x02010;containing genes are generally activators of the innate immune system and bound to pathogens and damaged cells (Bottazzi et&#x000a0;al. <xref rid="ece32047-bib-0013" ref-type="ref">2006</xref>).</p><p>In conclusion, whole&#x02010;genome sequencing of even a small number of individuals can provide information about the history of past hybridization and candidate genes important for adaptation, which may be overlooked using traditional marker&#x02010;based analysis. Therefore, the use of a combination of whole&#x02010;genome sequencing technologies and marker&#x02010;based analyses or reduced&#x02010;representation sequencing would be a powerful way to understand the demographic history and candidate genes of introduced populations.</p></sec></sec><sec id="ece32047-sec-0017"><title>Conflict of Interest</title><p>None declared.</p></sec><sec id="ece32047-sec-0018"><title>Data Archiving Statement</title><p>All sequence data will be available from DDBJ after acceptance.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S1.</bold> Schematic diagram of in silico RAD with SbfI (A) and ddRAD sequencing with EcoRI&#x02010;MspI (B) are shown.</p></caption><media xlink:href="ECE3-6-2190-s001.eps"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S2</bold>. The average proportion of heterozygous sites across the whole genome.</p></caption><media xlink:href="ECE3-6-2190-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S3</bold>. Sliding window analysis (10&#x02010;kb sliding window with 10&#x02010;kb step) of the proportion of heterozygous sites on LG17 in four individuals of Lake Towada stickleback (Towada1&#x02013;Towada4).</p></caption><media xlink:href="ECE3-6-2190-s003.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S4</bold>. Sliding window analysis (10&#x02010;kb sliding window with 10&#x02010;kb step) of the proportion of heterozygous sites on LG17 in multiple individuals of Aisaka pond stickleback (Aisaka1&#x02013;Aisaka4).</p></caption><media xlink:href="ECE3-6-2190-s004.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S5.</bold> Sliding window analysis (500&#x02010;kb sliding window with 100&#x02010;kb step) of proportion of different genotypes; homozygotes of <italic>G.&#x000a0;aculeatus</italic> alleles (light blue), homozygotes of <italic>G.&#x000a0;nipponicus</italic> alleles (green), and heterozygotes (red) in four individuals from Lake Towada (Towada1&#x02013;Towada4).</p></caption><media xlink:href="ECE3-6-2190-s005.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S6</bold>. Sliding window analysis (10&#x02010;kb sliding window with 10&#x02010;kb step) of proportion of different genotypes around the regions with high heterozygosity on LG1 (A) and LG17 (B); homozygotes of <italic>G.&#x000a0;aculeatus</italic> alleles (light blue), homozygotes of <italic>G.&#x000a0;nipponicus</italic> alleles (green), and heterozygotes (red) in four individuals from Lake Towada (Towada1&#x02013;Towada4).</p></caption><media xlink:href="ECE3-6-2190-s006.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S7.</bold> Sliding window analysis (500&#x02010;kb sliding window with 100&#x02010;kb step) of proportion of different genotypes; homozygotes of <italic>G.&#x000a0;aculeatus</italic> alleles (light blue), homozygotes of <italic>G.&#x000a0;nipponicus</italic> alleles (green), and heterozygotes (red) in four individuals from Aisaka Pond (Aisaka1&#x02013;Aisaka4).</p></caption><media xlink:href="ECE3-6-2190-s007.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S8.</bold> Sliding window analysis (10&#x02010;kb sliding window with 10&#x02010;kb step) of proportion of different genotypes around the regions with high heterozygosity on LG1 (A) and LG17 (B); homozygotes of <italic>G.&#x000a0;aculeatus</italic> alleles (light blue), homozygotes of <italic>G.&#x000a0;nipponicus</italic> alleles (green), and heterozygotes (red) in four individuals from Aisaka Pond (Aisaka1&#x02013;Aisaka4).</p></caption><media xlink:href="ECE3-6-2190-s008.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S9.</bold> Frequency of <italic>G.&#x000a0;nipponicus</italic>&#x02010;specific alleles within and around the introgression sites on LG17.</p></caption><media xlink:href="ECE3-6-2190-s009.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Table&#x000a0;S1.</bold> The amplified region and primers used in the amplicon sequencing of Lake Towada population.</p></caption><media xlink:href="ECE3-6-2190-s010.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Table&#x000a0;S2.</bold> Number of <italic>G.&#x000a0;nipponicus</italic>&#x02010;specific SNPs detectable in the introgression sites in the 19 introgression sites by whole genome sequencing (WGS), simulated RAD sequencing and simulated ddRAD sequencing.</p></caption><media xlink:href="ECE3-6-2190-s011.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece32047-sec-0016"><title>Acknowledgments</title><p>We thank M. Nagasaki, S. Shizukuishi, T. Kuwahara, and S. Yoshida for help with fish collection and Mark Ravinet for comments on an earlier version of the manuscript. This research is supported by the JST PRESTO program (JK), the Asahi Glass Foundation (JK), MEXT Grant&#x02010;in&#x02010;Aid for Scientific Research on Innovative Areas (23113007 to JK, 23113008 to AT, 23113001 to JK and AT, and 221S0002 to AT and AF), and the Public Foundation of Chubu Science and Technology Center (Sakai et&#x000a0;al.). KY is a Postdoctoral Fellow of the Japan Society of Promotion of Science.</p></ack><ref-list content-type="cited-references" id="ece32047-bibl-0001"><title>References</title><ref id="ece32047-bib-0002"><mixed-citation publication-type="journal" id="ece32047-cit-0002">
+<string-name>
+<surname>Adachi</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Ishikawa</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mori</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Makino</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kume</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kawata</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Shifts in morphology and diet of non&#x02010;native sticklebacks introduced into Japanese crater lakes</article-title>. <source>Ecol. Evol.</source>
+<volume>2</volume>:<fpage>1083</fpage>&#x02013;<lpage>1098</lpage>.<pub-id pub-id-type="pmid">22833786</pub-id></mixed-citation></ref><ref id="ece32047-bib-0003"><mixed-citation publication-type="journal" id="ece32047-cit-0003">
+<string-name>
+<surname>Allendorf</surname>, <given-names>F. W.</given-names>
+</string-name>, and <string-name>
+<given-names>L. L.</given-names>
+<surname>Lundquist</surname>
+</string-name>. <year>2003</year>
+<article-title>Introduction: population biology, evolution, and control of invasive species</article-title>. <source>Conserv. Biol.</source>
+<volume>17</volume>:<fpage>24</fpage>&#x02013;<lpage>30</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0004"><mixed-citation publication-type="journal" id="ece32047-cit-0004">
+<string-name>
+<surname>Allendorf</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Hohenlohe</surname>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>Luikart</surname>
+</string-name>. <year>2010</year>
+<article-title>Genomics and the future of conservation genetics</article-title>. <source>Nat. Rev. Genet.</source>
+<volume>11</volume>:<fpage>697</fpage>&#x02013;<lpage>709</lpage>.<pub-id pub-id-type="pmid">20847747</pub-id></mixed-citation></ref><ref id="ece32047-bib-0005"><mixed-citation publication-type="journal" id="ece32047-cit-0005">
+<string-name>
+<surname>Angeloni</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Wagemaker</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Vergeer</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Ouborg</surname>
+</string-name>. <year>2012</year>
+<article-title>Genomic toolboxes for conservation biologists</article-title>. <source>Evol. Appl.</source>
+<volume>5</volume>:<fpage>130</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">25568036</pub-id></mixed-citation></ref><ref id="ece32047-bib-0006"><mixed-citation publication-type="journal" id="ece32047-cit-0006">
+<string-name>
+<surname>Baird</surname>, <given-names>N. A.</given-names>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Etter</surname>
+</string-name>, <string-name>
+<given-names>T. S.</given-names>
+<surname>Atwood</surname>
+</string-name>, <string-name>
+<given-names>M. C.</given-names>
+<surname>Currey</surname>
+</string-name>, <string-name>
+<given-names>A. L.</given-names>
+<surname>Shiver</surname>
+</string-name>, <string-name>
+<given-names>Z. A.</given-names>
+<surname>Lewis</surname>
+</string-name>, et&#x000a0;al. <year>2008</year>
+<article-title>Rapid SNP discovery and genetic mapping using sequenced RAD markers</article-title>. <source>PLoS One</source>
+<volume>3</volume>:<fpage>e3376</fpage>.<pub-id pub-id-type="pmid">18852878</pub-id></mixed-citation></ref><ref id="ece32047-bib-0007"><mixed-citation publication-type="journal" id="ece32047-cit-0007">
+<string-name>
+<surname>Barrett</surname>, <given-names>R. D. H.</given-names>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Schluter</surname>
+</string-name>. <year>2008</year>
+<article-title>Adaptation from standing genetic variation</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>23</volume>:<fpage>38</fpage>&#x02013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">18006185</pub-id></mixed-citation></ref><ref id="ece32047-bib-0008"><mixed-citation publication-type="journal" id="ece32047-cit-0008">
+<string-name>
+<surname>Barrett</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Fry</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Maller</surname>
+</string-name>, and <string-name>
+<given-names>M. J.</given-names>
+<surname>Daly</surname>
+</string-name>. <year>2005</year>
+<article-title>Haploview: analysis and visualization of LD and haplotype maps</article-title>. <source>Bioinformatics</source>
+<volume>21</volume>:<fpage>263</fpage>&#x02013;<lpage>265</lpage>.<pub-id pub-id-type="pmid">15297300</pub-id></mixed-citation></ref><ref id="ece32047-bib-0009"><mixed-citation publication-type="journal" id="ece32047-cit-0009">
+<string-name>
+<surname>Bell</surname>, <given-names>M. A.</given-names>
+</string-name>, and <string-name>
+<given-names>W. E.</given-names>
+<surname>Aguirre</surname>
+</string-name>. <year>2013</year>
+<article-title>Contemporary evolution, allelic recycling, and adaptive radiation of the threespine stickleback</article-title>. <source>Evol. Ecol. Res.</source>
+<volume>15</volume>:<fpage>377</fpage>&#x02013;<lpage>411</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0010"><mixed-citation publication-type="book" id="ece32047-cit-0010">
+<string-name>
+<surname>Bell</surname>, <given-names>M. A.</given-names>
+</string-name>, and <string-name>
+<given-names>S. A.</given-names>
+<surname>Foster</surname>
+</string-name>. <year>1994</year>
+<source>The evolutionary biology&#x000a0;of the threespine stickleback</source>. <publisher-name>Oxford Univ. Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="ece32047-bib-0011"><mixed-citation publication-type="journal" id="ece32047-cit-0011">
+<string-name>
+<surname>Bell</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<given-names>W. E.</given-names>
+<surname>Aguirre</surname>
+</string-name>, and <string-name>
+<given-names>N. J.</given-names>
+<surname>Buck</surname>
+</string-name>. <year>2004</year>
+<article-title>Twelve years of contemporary armor evolution in a threespine stickleback population</article-title>. <source>Evolution</source>
+<volume>58</volume>:<fpage>814</fpage>&#x02013;<lpage>824</lpage>.<pub-id pub-id-type="pmid">15154557</pub-id></mixed-citation></ref><ref id="ece32047-bib-0012"><mixed-citation publication-type="journal" id="ece32047-cit-0012">
+<string-name>
+<surname>Bock</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Caseys</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>Cousens</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Hahn</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Heredia</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>H&#x000fc;bner</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>What we still don't know about invasion genetics</article-title>. <source>Mol. Ecol.</source>
+<volume>24</volume>:<fpage>2277</fpage>&#x02013;<lpage>2297</lpage>.<pub-id pub-id-type="pmid">25474505</pub-id></mixed-citation></ref><ref id="ece32047-bib-0013"><mixed-citation publication-type="journal" id="ece32047-cit-0013">
+<string-name>
+<surname>Bottazzi</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Garlanda</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Salvatori</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Jeannin</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Manfredi</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Mantovani</surname>
+</string-name>. <year>2006</year>
+<article-title>Pentraxins as a key component of innate immunity</article-title>. <source>Curr. Opin. Immunol.</source>
+<volume>18</volume>:<fpage>10</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">16343883</pub-id></mixed-citation></ref><ref id="ece32047-bib-0014"><mixed-citation publication-type="journal" id="ece32047-cit-0014">
+<string-name>
+<surname>Cassidy</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ravinet</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mori</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Kitano</surname>
+</string-name>. <year>2013</year>
+<article-title>Are Japanese freshwater populations of threespine stickleback derived from the Pacific Ocean lineage?</article-title>
+<source>Evol. Ecol. Res.</source>
+<volume>15</volume>:<fpage>295</fpage>&#x02013;<lpage>311</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0015"><mixed-citation publication-type="journal" id="ece32047-cit-0015">
+<string-name>
+<surname>Chan</surname>, <given-names>Y. F.</given-names>
+</string-name>, <string-name>
+<given-names>M. E.</given-names>
+<surname>Marks</surname>
+</string-name>, <string-name>
+<given-names>F. C.</given-names>
+<surname>Jones</surname>
+</string-name>, <string-name>
+<given-names>J. G.</given-names>
+<surname>Villarreal</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Shapiro</surname>
+</string-name>, <string-name>
+<given-names>D. B.</given-names>
+<surname>Shannon</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>
+<article-title>Adaptive evolution of pelvic reduction in sticklebacks by recurrent deletion of a Pitx1 enhancer</article-title>. <source>Science</source>
+<volume>327</volume>:<fpage>302</fpage>&#x02013;<lpage>305</lpage>.<pub-id pub-id-type="pmid">20007865</pub-id></mixed-citation></ref><ref id="ece32047-bib-0016"><mixed-citation publication-type="journal" id="ece32047-cit-0016">
+<string-name>
+<surname>Choi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>G. E.</given-names>
+<surname>Sims</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Murphy</surname>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Miller</surname>
+</string-name>, and <string-name>
+<given-names>A. P.</given-names>
+<surname>Chan</surname>
+</string-name>. <year>2012</year>
+<article-title>Predicting the functional effect of amino acid substitutions and indels</article-title>. <source>PLoS One</source>
+<volume>7</volume>:<fpage>e46688</fpage>.<pub-id pub-id-type="pmid">23056405</pub-id></mixed-citation></ref><ref id="ece32047-bib-0017"><mixed-citation publication-type="journal" id="ece32047-cit-0017">
+<string-name>
+<surname>Colosimo</surname>, <given-names>P. F.</given-names>
+</string-name>, <string-name>
+<given-names>K. E.</given-names>
+<surname>Hosemann</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Balabhadra</surname>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Villarreal</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Dickson</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Grimwood</surname>
+</string-name>, et&#x000a0;al. <year>2005</year>
+<article-title>Widespread parallel evolution in sticklebacks by repeated fixation of ectodysplasin alleles</article-title>. <source>Science</source>
+<volume>307</volume>:<fpage>1928</fpage>&#x02013;<lpage>1933</lpage>.<pub-id pub-id-type="pmid">15790847</pub-id></mixed-citation></ref><ref id="ece32047-bib-0018"><mixed-citation publication-type="journal" id="ece32047-cit-0018">
+<string-name>
+<surname>Davey</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<given-names>P. A.</given-names>
+<surname>Hohenlohe</surname>
+</string-name>, <string-name>
+<given-names>P. D.</given-names>
+<surname>Etter</surname>
+</string-name>, <string-name>
+<given-names>J. Q.</given-names>
+<surname>Boone</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Catchen</surname>
+</string-name>, and <string-name>
+<given-names>M. L.</given-names>
+<surname>Blaxter</surname>
+</string-name>. <year>2011</year>
+<article-title>Genome&#x02010;wide genetic marker discovery and genotyping using next&#x02010;generation sequencing</article-title>. <source>Nat. Rev. Genet.</source>
+<volume>12</volume>:<fpage>499</fpage>&#x02013;<lpage>510</lpage>.<pub-id pub-id-type="pmid">21681211</pub-id></mixed-citation></ref><ref id="ece32047-bib-0019"><mixed-citation publication-type="journal" id="ece32047-cit-0019">
+<string-name>
+<surname>Dlugosch</surname>, <given-names>K. M.</given-names>
+</string-name>, and <string-name>
+<given-names>I. M.</given-names>
+<surname>Parker</surname>
+</string-name>. <year>2008</year>
+<article-title>Founding events in species invasions: genetic variation, adaptive evolution, and the role of multiple introductions</article-title>. <source>Mol. Ecol.</source>
+<volume>17</volume>:<fpage>431</fpage>&#x02013;<lpage>449</lpage>.<pub-id pub-id-type="pmid">17908213</pub-id></mixed-citation></ref><ref id="ece32047-bib-0020"><mixed-citation publication-type="journal" id="ece32047-cit-0020">
+<string-name>
+<surname>Ekblom</surname>, <given-names>R.</given-names>
+</string-name>, and <string-name>
+<given-names>J. B. W.</given-names>
+<surname>Wolf</surname>
+</string-name>. <year>2014</year>
+<article-title>A field guide to whole&#x02010;genome sequencing, assembly and annotation</article-title>. <source>Evol. Appl.</source>
+<volume>7</volume>:<fpage>1026</fpage>&#x02013;<lpage>1042</lpage>.<pub-id pub-id-type="pmid">25553065</pub-id></mixed-citation></ref><ref id="ece32047-bib-0021"><mixed-citation publication-type="book" id="ece32047-cit-0021">
+<string-name>
+<surname>Falconer</surname>, <given-names>D. S.</given-names>
+</string-name>
+<year>1989</year>
+<source>Introduction to quantitative genetics</source>, <edition>3rd edn</edition>
+<publisher-name>Longman Scientific &#x00026; Technical</publisher-name>, <publisher-loc>Harlow, UK</publisher-loc>.</mixed-citation></ref><ref id="ece32047-bib-0022"><mixed-citation publication-type="journal" id="ece32047-cit-0022">
+<string-name>
+<surname>Forsman</surname>, <given-names>A.</given-names>
+</string-name>
+<year>2014</year>
+<article-title>Effects of genotypic and phenotypic variation on establishment are important for conservation, invasion, and infection biology</article-title>. <source>Proc. Natl Acad. Sci. USA</source>
+<volume>111</volume>:<fpage>302</fpage>&#x02013;<lpage>307</lpage>.<pub-id pub-id-type="pmid">24367109</pub-id></mixed-citation></ref><ref id="ece32047-bib-0024"><mixed-citation publication-type="journal" id="ece32047-cit-0024">
+<string-name>
+<surname>Gautier</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Gharbi</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Cezard</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Foucaud</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Kerdelhu&#x000e9;</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Pudlo</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>The effect of RAD allele dropout on the estimation of genetic variation within and between populations</article-title>. <source>Mol. Ecol.</source>
+<volume>22</volume>:<fpage>3165</fpage>&#x02013;<lpage>3178</lpage>.<pub-id pub-id-type="pmid">23110526</pub-id></mixed-citation></ref><ref id="ece32047-bib-0025"><mixed-citation publication-type="journal" id="ece32047-cit-0025">
+<string-name>
+<surname>Harrisson</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pavlova</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Telonis&#x02010;Scott</surname>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Sunnucks</surname>
+</string-name>. <year>2014</year>
+<article-title>Using genomics to characterize evolutionary potential for conservation of wild populations</article-title>. <source>Evol. Appl.</source>
+<volume>7</volume>:<fpage>1008</fpage>&#x02013;<lpage>1025</lpage>.<pub-id pub-id-type="pmid">25553064</pub-id></mixed-citation></ref><ref id="ece32047-bib-0026"><mixed-citation publication-type="journal" id="ece32047-cit-0026">
+<string-name>
+<surname>Higuchi</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Goto</surname>
+</string-name>. <year>1996</year>
+<article-title>Genetic evidence supporting the existence of two distinct species in the genus <italic>Gasterosteus</italic> around Japan</article-title>. <source>Environ. Biol. Fishes</source>
+<volume>47</volume>:<fpage>1</fpage>&#x02013;<lpage>16</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0027"><mixed-citation publication-type="journal" id="ece32047-cit-0027">
+<string-name>
+<surname>Higuchi</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Sakai</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Goto</surname>
+</string-name>. <year>2014</year>
+<article-title>A new threespine stickleback, <italic>Gasterosteus nipponicus</italic> sp. nov. (Teleostei: Gasterosteidae), from the Japan Sea region</article-title>. <source>Ichthyol. Res.</source>
+<volume>61</volume>:<fpage>341</fpage>&#x02013;<lpage>351</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0028"><mixed-citation publication-type="journal" id="ece32047-cit-0028">
+<string-name>
+<surname>Hikita</surname>, <given-names>T.</given-names>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Taniguchi</surname>
+</string-name>. <year>1959</year>
+<article-title>Fishes in Lake Towada</article-title>. <italic>Research Report from Hokkaido Salmon and Trout Hatchery</italic>
+<volume>146</volume>:<fpage>45</fpage>&#x02013;<lpage>48</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0029"><mixed-citation publication-type="journal" id="ece32047-cit-0029">
+<string-name>
+<surname>Jones</surname>, <given-names>F. C.</given-names>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Schmutz</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Grimwood</surname>
+</string-name>, <string-name>
+<given-names>S. D.</given-names>
+<surname>Brady</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Southwick</surname>
+</string-name>, et&#x000a0;al. <year>2012a</year>
+<article-title>A genome&#x02010;wide SNP genotyping array reveals patterns of global and repeated species&#x02010;pair divergence in sticklebacks</article-title>. <source>Curr. Biol.</source>
+<volume>22</volume>:<fpage>83</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">22197244</pub-id></mixed-citation></ref><ref id="ece32047-bib-0030"><mixed-citation publication-type="journal" id="ece32047-cit-0030">
+<string-name>
+<surname>Jones</surname>, <given-names>F. C.</given-names>
+</string-name>, <string-name>
+<given-names>M. G.</given-names>
+<surname>Grabherr</surname>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Russell</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Mauceli</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Johnson</surname>
+</string-name>, et&#x000a0;al. <year>2012b</year>
+<article-title>The genomic basis of adaptive evolution in threespine sticklebacks</article-title>. <source>Nature</source>
+<volume>484</volume>:<fpage>55</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">22481358</pub-id></mixed-citation></ref><ref id="ece32047-bib-0031"><mixed-citation publication-type="journal" id="ece32047-cit-0031">
+<string-name>
+<surname>Kitano</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mori</surname>
+</string-name>, and <string-name>
+<given-names>C. L.</given-names>
+<surname>Peichel</surname>
+</string-name>. <year>2007</year>
+<article-title>Phenotypic divergence and reproductive isolation between sympatric forms of Japanese threespine sticklebacks</article-title>. <source>Biol. J. Linn. Soc.</source>
+<volume>91</volume>:<fpage>671</fpage>&#x02013;<lpage>685</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0032"><mixed-citation publication-type="journal" id="ece32047-cit-0032">
+<string-name>
+<surname>Kitano</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Ross</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mori</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kume</surname>
+</string-name>, <string-name>
+<given-names>F. C.</given-names>
+<surname>Jones</surname>
+</string-name>, <string-name>
+<given-names>Y. F.</given-names>
+<surname>Chan</surname>
+</string-name>, et&#x000a0;al. <year>2009</year>
+<article-title>A role for a neo&#x02010;sex chromosome in stickleback speciation</article-title>. <source>Nature</source>
+<volume>461</volume>:<fpage>1079</fpage>&#x02013;<lpage>1083</lpage>.<pub-id pub-id-type="pmid">19783981</pub-id></mixed-citation></ref><ref id="ece32047-bib-0033"><mixed-citation publication-type="journal" id="ece32047-cit-0033">
+<string-name>
+<surname>Kitano</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>S. C.</given-names>
+<surname>Lema</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Luckenbach</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mori</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kawagishi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kusakabe</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>
+<article-title>Adaptive divergence in the thyroid hormone signaling pathway in the stickleback radiation</article-title>. <source>Curr. Biol.</source>
+<volume>20</volume>:<fpage>2124</fpage>&#x02013;<lpage>2130</lpage>.<pub-id pub-id-type="pmid">21093265</pub-id></mixed-citation></ref><ref id="ece32047-bib-0034"><mixed-citation publication-type="journal" id="ece32047-cit-0034">
+<string-name>
+<surname>Kolbe</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<given-names>R. E.</given-names>
+<surname>Glor</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Rodriguez Schettino</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>Lara</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Larson</surname>
+</string-name>, and <string-name>
+<given-names>J. B.</given-names>
+<surname>Losos</surname>
+</string-name>. <year>2004</year>
+<article-title>Genetic variation increases during biological invasion by a Cuban lizard</article-title>. <source>Nature</source>
+<volume>431</volume>:<fpage>177</fpage>&#x02013;<lpage>181</lpage>.<pub-id pub-id-type="pmid">15356629</pub-id></mixed-citation></ref><ref id="ece32047-bib-0035"><mixed-citation publication-type="journal" id="ece32047-cit-0035">
+<string-name>
+<surname>Larson</surname>, <given-names>G. L.</given-names>
+</string-name>
+<year>1989</year>
+<article-title>Geographical distribution, morphology and water quality of caldera lakes: a review</article-title>. <source>Hydrobiologia</source>
+<volume>171</volume>:<fpage>23</fpage>&#x02013;<lpage>32</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0036"><mixed-citation publication-type="journal" id="ece32047-cit-0036">
+<string-name>
+<surname>Le Rouzic</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>&#x000d8;stbye</surname>
+</string-name>, <string-name>
+<given-names>T. O.</given-names>
+<surname>Klepaker</surname>
+</string-name>, <string-name>
+<given-names>T. F.</given-names>
+<surname>Hansen</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Bernatchez</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Schluter</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>
+<article-title>Strong and consistent natural selection associated with armour reduction in sticklebacks</article-title>. <source>Mol. Ecol.</source>
+<volume>20</volume>:<fpage>2483</fpage>&#x02013;<lpage>2493</lpage>.<pub-id pub-id-type="pmid">21443674</pub-id></mixed-citation></ref><ref id="ece32047-bib-0037"><mixed-citation publication-type="journal" id="ece32047-cit-0037">
+<string-name>
+<surname>Lee</surname>, <given-names>C. E.</given-names>
+</string-name>
+<year>2002</year>
+<article-title>Evolutionary genetics of invasive species</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>17</volume>:<fpage>386</fpage>&#x02013;<lpage>391</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0038"><mixed-citation publication-type="journal" id="ece32047-cit-0038">
+<string-name>
+<surname>Lu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Lian</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Lenkinski</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>De Grand</surname>
+</string-name>, <string-name>
+<given-names>R. R.</given-names>
+<surname>Vaid</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Bryce</surname>
+</string-name>, et&#x000a0;al. <year>2007</year>
+<article-title>Filamin B mutations cause chondrocyte defects in skeletal development</article-title>. <source>Hum. Mol. Genet.</source>
+<volume>16</volume>:<fpage>1661</fpage>&#x02013;<lpage>1675</lpage>.<pub-id pub-id-type="pmid">17510210</pub-id></mixed-citation></ref><ref id="ece32047-bib-0039"><mixed-citation publication-type="journal" id="ece32047-cit-0039">
+<string-name>
+<surname>Lucek</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Roy</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Bezault</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sivasundar</surname>
+</string-name>, and <string-name>
+<given-names>O.</given-names>
+<surname>Seehausen</surname>
+</string-name>. <year>2010</year>
+<article-title>Hybridization between distant lineages increases adaptive variation during a biological invasion: stickleback in Switzerland</article-title>. <source>Mol. Ecol.</source>
+<volume>19</volume>:<fpage>3995</fpage>&#x02013;<lpage>4011</lpage>.<pub-id pub-id-type="pmid">20735738</pub-id></mixed-citation></ref><ref id="ece32047-bib-0040"><mixed-citation publication-type="journal" id="ece32047-cit-0040">
+<string-name>
+<surname>McKinnon</surname>, <given-names>J. S.</given-names>
+</string-name>, and <string-name>
+<given-names>H. D.</given-names>
+<surname>Rundle</surname>
+</string-name>. <year>2002</year>
+<article-title>Speciation in nature: the threespine stickleback model systems</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>117</volume>:<fpage>480</fpage>&#x02013;<lpage>488</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0041"><mixed-citation publication-type="journal" id="ece32047-cit-0041">
+<string-name>
+<surname>Miller</surname>, <given-names>C. T.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Beleza</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Pollen</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Schluter</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Kittles</surname>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Shriver</surname>
+</string-name>, et&#x000a0;al. <year>2007</year>
+<article-title>cis&#x02010;Regulatory changes in Kit Ligand expression and parallel evolution of pigmentation in sticklebacks and humans</article-title>. <source>Cell</source>
+<volume>131</volume>:<fpage>1179</fpage>&#x02013;<lpage>1189</lpage>.<pub-id pub-id-type="pmid">18083106</pub-id></mixed-citation></ref><ref id="ece32047-bib-0042"><mixed-citation publication-type="journal" id="ece32047-cit-0042">
+<string-name>
+<surname>Nei</surname>, <given-names>M.</given-names>
+</string-name>
+<year>1978</year>
+<article-title>Estimation of average heterozygosity and genetic distance from a small number of individuals</article-title>. <source>Genetics</source>
+<volume>89</volume>:<fpage>583</fpage>&#x02013;<lpage>590</lpage>.<pub-id pub-id-type="pmid">17248844</pub-id></mixed-citation></ref><ref id="ece32047-bib-0043"><mixed-citation publication-type="book" id="ece32047-cit-0043">
+<string-name>
+<surname>Nei</surname>, <given-names>M.</given-names>
+</string-name>
+<year>1987</year>
+<source>Molecular evolutionary genetics</source>. <publisher-name>Columbia Univ. Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="ece32047-bib-0044"><mixed-citation publication-type="journal" id="ece32047-cit-0044">
+<string-name>
+<surname>Nei</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Gojobori</surname>
+</string-name>. <year>1986</year>
+<article-title>Simple methods for estimating the numbers of synonymous and nonsynonymous nucleotide substitutions</article-title>. <source>Mol. Biol. Evol.</source>
+<volume>3</volume>:<fpage>418</fpage>&#x02013;<lpage>426</lpage>.<pub-id pub-id-type="pmid">3444411</pub-id></mixed-citation></ref><ref id="ece32047-bib-0045"><mixed-citation publication-type="journal" id="ece32047-cit-0045">
+<string-name>
+<surname>Nolte</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Gompert</surname>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Buerkle</surname>
+</string-name>. <year>2009</year>
+<article-title>Variable patterns of introgression in two sculpin hybrid zones suggest that genomic isolation differs among populations</article-title>. <source>Mol. Ecol.</source>
+<volume>18</volume>:<fpage>2615</fpage>&#x02013;<lpage>2627</lpage>.<pub-id pub-id-type="pmid">19457191</pub-id></mixed-citation></ref><ref id="ece32047-bib-0046"><mixed-citation publication-type="journal" id="ece32047-cit-0046">
+<string-name>
+<surname>Ouborg</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Pertoldi</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Loeschcke</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Bijlsma</surname>
+</string-name>, and <string-name>
+<given-names>P. W.</given-names>
+<surname>Hedrick</surname>
+</string-name>. <year>2010</year>
+<article-title>Conservation genetics in transition to conservation genomics</article-title>. <source>Trends Genet.</source>
+<volume>26</volume>:<fpage>177</fpage>&#x02013;<lpage>187</lpage>.<pub-id pub-id-type="pmid">20227782</pub-id></mixed-citation></ref><ref id="ece32047-bib-0047"><mixed-citation publication-type="journal" id="ece32047-cit-0047">
+<string-name>
+<surname>Pejchar</surname>, <given-names>L.</given-names>
+</string-name>, and <string-name>
+<given-names>H. A.</given-names>
+<surname>Mooney</surname>
+</string-name>. <year>2009</year>
+<article-title>Invasive species, ecosystem services and human well&#x02010;being</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>24</volume>:<fpage>497</fpage>&#x02013;<lpage>504</lpage>.<pub-id pub-id-type="pmid">19577817</pub-id></mixed-citation></ref><ref id="ece32047-bib-0048"><mixed-citation publication-type="journal" id="ece32047-cit-0048">
+<string-name>
+<surname>Peterson</surname>, <given-names>B. K.</given-names>
+</string-name>, <string-name>
+<given-names>J. N.</given-names>
+<surname>Weber</surname>
+</string-name>, <string-name>
+<given-names>E. H.</given-names>
+<surname>Kay</surname>
+</string-name>, <string-name>
+<given-names>H. S.</given-names>
+<surname>Fisher</surname>
+</string-name>, and <string-name>
+<given-names>H. E.</given-names>
+<surname>Hoekstra</surname>
+</string-name>. <year>2012</year>
+<article-title>Double digest RADseq: an inexpensive method for de novo SNP discovery and genotyping in model and non&#x02010;model species</article-title>. <source>PLoS One</source>
+<volume>7</volume>:<fpage>e37135</fpage>.<pub-id pub-id-type="pmid">22675423</pub-id></mixed-citation></ref><ref id="ece32047-bib-0049"><mixed-citation publication-type="journal" id="ece32047-cit-0049">
+<string-name>
+<surname>Prentis</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<given-names>J. R.</given-names>
+<surname>Wilson</surname>
+</string-name>, <string-name>
+<given-names>E. E.</given-names>
+<surname>Dormontt</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Richardson</surname>
+</string-name>, and <string-name>
+<given-names>A. J.</given-names>
+<surname>Lowe</surname>
+</string-name>. <year>2008</year>
+<article-title>Adaptive evolution in invasive species</article-title>. <source>Trends Plant Sci.</source>
+<volume>13</volume>:<fpage>288</fpage>&#x02013;<lpage>294</lpage>.<pub-id pub-id-type="pmid">18467157</pub-id></mixed-citation></ref><ref id="ece32047-bib-0050"><mixed-citation publication-type="journal" id="ece32047-cit-0050">
+<string-name>
+<surname>Primmer</surname>, <given-names>C. R.</given-names>
+</string-name>
+<year>2009</year>
+<article-title>From conservation genetics to conservation genomics</article-title>. <source>Ann. N. Y. Acad. Sci.</source>
+<volume>1162</volume>:<fpage>357</fpage>&#x02013;<lpage>368</lpage>.<pub-id pub-id-type="pmid">19432656</pub-id></mixed-citation></ref><ref id="ece32047-bib-0052"><mixed-citation publication-type="journal" id="ece32047-cit-0052">
+<string-name>
+<surname>Quinlan</surname>, <given-names>A. R.</given-names>
+</string-name>, and <string-name>
+<given-names>I. M.</given-names>
+<surname>Hall</surname>
+</string-name>. <year>2010</year>
+<article-title>BEDTools: a flexible suite of utilities for comparing genomic features</article-title>. <source>Bioinformatics</source>
+<volume>26</volume>:<fpage>841</fpage>&#x02013;<lpage>842</lpage>.<pub-id pub-id-type="pmid">20110278</pub-id></mixed-citation></ref><ref id="ece32047-bib-0053"><mixed-citation publication-type="journal" id="ece32047-cit-0053">
+<string-name>
+<surname>Ravinet</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kume</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Mori</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Kitano</surname>
+</string-name>. <year>2014</year>
+<article-title>Comparative analysis of Japanese three&#x02010;spined stickleback clades reveals the Pacific Ocean lineage has adapted to freshwater environments while the Japan Sea has not</article-title>. <source>PLoS One</source>
+<volume>9</volume>:<fpage>e112404</fpage>.<pub-id pub-id-type="pmid">25460163</pub-id></mixed-citation></ref><ref id="ece32047-bib-0054"><mixed-citation publication-type="journal" id="ece32047-cit-0054">
+<string-name>
+<surname>Reed</surname>, <given-names>D. H.</given-names>
+</string-name>, and <string-name>
+<given-names>R.</given-names>
+<surname>Frankham</surname>
+</string-name>. <year>2001</year>
+<article-title>How closely correlated&#x000a0;are molecular and quantitative measures of genetic variation? A meta&#x02013;analysis</article-title>. <source>Evolution</source>
+<volume>55</volume>:<fpage>1095</fpage>&#x02013;<lpage>1103</lpage>.<pub-id pub-id-type="pmid">11475045</pub-id></mixed-citation></ref><ref id="ece32047-bib-0055"><mixed-citation publication-type="journal" id="ece32047-cit-0055">
+<string-name>
+<surname>Ricciardi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>M. F.</given-names>
+<surname>Hoopes</surname>
+</string-name>, <string-name>
+<given-names>M. P.</given-names>
+<surname>Marchetti</surname>
+</string-name>, and <string-name>
+<given-names>J. L.</given-names>
+<surname>Lockwood</surname>
+</string-name>. <year>2013</year>
+<article-title>Progress toward understanding the ecological impacts of nonnative species</article-title>. <source>Ecol. Monogr.</source>
+<volume>83</volume>:<fpage>263</fpage>&#x02013;<lpage>282</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0056"><mixed-citation publication-type="journal" id="ece32047-cit-0056">
+<string-name>
+<surname>Rieseberg</surname>, <given-names>L. H.</given-names>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Archer</surname>
+</string-name>, and <string-name>
+<given-names>R. K.</given-names>
+<surname>Wayne</surname>
+</string-name>. <year>1999</year>
+<article-title>Transgressive segregation, adaptation and speciation</article-title>. <source>Heredity</source>
+<volume>83</volume>:<fpage>363</fpage>&#x02013;<lpage>372</lpage>.<pub-id pub-id-type="pmid">10583537</pub-id></mixed-citation></ref><ref id="ece32047-bib-0057"><mixed-citation publication-type="journal" id="ece32047-cit-0057">
+<string-name>
+<surname>Rius</surname>, <given-names>M.</given-names>
+</string-name>, and <string-name>
+<given-names>J. A.</given-names>
+<surname>Darling</surname>
+</string-name>. <year>2014</year>
+<article-title>How important is intraspecific genetic admixture to the success of colonising populations?</article-title>
+<source>Trends Ecol. Evol.</source>
+<volume>29</volume>:<fpage>233</fpage>&#x02013;<lpage>242</lpage>.<pub-id pub-id-type="pmid">24636862</pub-id></mixed-citation></ref><ref id="ece32047-bib-0058"><mixed-citation publication-type="journal" id="ece32047-cit-0058">
+<string-name>
+<surname>Roesti</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Moser</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Berner</surname>
+</string-name>. <year>2013</year>
+<article-title>Recombination in the threespine stickleback genome &#x02013; patterns and consequences</article-title>. <source>Mol. Ecol.</source>
+<volume>22</volume>:<fpage>3014</fpage>&#x02013;<lpage>3027</lpage>.<pub-id pub-id-type="pmid">23601112</pub-id></mixed-citation></ref><ref id="ece32047-bib-0059"><mixed-citation publication-type="journal" id="ece32047-cit-0059">
+<string-name>
+<surname>Roesti</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Gavrilets</surname>
+</string-name>, <string-name>
+<given-names>A. P.</given-names>
+<surname>Hendry</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Salzburger</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Berner</surname>
+</string-name>. <year>2014</year>
+<article-title>The genomic signature of parallel adaptation from shared genetic variation</article-title>. <source>Mol. Ecol.</source>
+<volume>23</volume>:<fpage>3944</fpage>&#x02013;<lpage>3956</lpage>.<pub-id pub-id-type="pmid">24635356</pub-id></mixed-citation></ref><ref id="ece32047-bib-0060"><mixed-citation publication-type="journal" id="ece32047-cit-0060">
+<string-name>
+<surname>Roman</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<given-names>J. A.</given-names>
+<surname>Darling</surname>
+</string-name>. <year>2007</year>
+<article-title>Paradox lost: genetic diversity and the success of aquatic invasions</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>22</volume>:<fpage>454</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">17673331</pub-id></mixed-citation></ref><ref id="ece32047-bib-0061"><mixed-citation publication-type="journal" id="ece32047-cit-0061">
+<string-name>
+<surname>Sakai</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<given-names>F. W.</given-names>
+<surname>Allendorf</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Holt</surname>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Lodge</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Molofsky</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>With</surname>
+</string-name>, et&#x000a0;al. <year>2001</year>
+<article-title>The population biology of invasive species</article-title>. <source>Annu. Rev. Ecol. Evol. Syst.</source>
+<volume>32</volume>:<fpage>305</fpage>&#x02013;<lpage>332</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0062"><mixed-citation publication-type="journal" id="ece32047-cit-0062">
+<string-name>
+<surname>Scheet</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Stephens</surname>
+</string-name>. <year>2006</year>
+<article-title>A fast and flexible statistical model for large&#x02010;scale population genotype data: applications to inferring missing genotypes and haplotypic phase</article-title>. <source>Am. J. Hum. Genet.</source>
+<volume>78</volume>:<fpage>629</fpage>&#x02013;<lpage>644</lpage>.<pub-id pub-id-type="pmid">16532393</pub-id></mixed-citation></ref><ref id="ece32047-bib-0063"><mixed-citation publication-type="book" id="ece32047-cit-0063">
+<string-name>
+<surname>Schluter</surname>, <given-names>D.</given-names>
+</string-name>
+<year>2000</year>
+<source>The ecology of adaptive radiation</source>. <publisher-name>Oxford Univ. Press</publisher-name>, <publisher-loc>New York</publisher-loc>.</mixed-citation></ref><ref id="ece32047-bib-0064"><mixed-citation publication-type="journal" id="ece32047-cit-0064">
+<string-name>
+<surname>Seehausen</surname>, <given-names>O.</given-names>
+</string-name>
+<year>2004</year>
+<article-title>Hybridization and adaptive radiation</article-title>. <source>Trends Ecol. Evol.</source>
+<volume>19</volume>:<fpage>198</fpage>&#x02013;<lpage>207</lpage>.<pub-id pub-id-type="pmid">16701254</pub-id></mixed-citation></ref><ref id="ece32047-bib-0065"><mixed-citation publication-type="journal" id="ece32047-cit-0065">
+<string-name>
+<surname>Seehausen</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Takimoto</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Roy</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Jokela</surname>
+</string-name>. <year>2008</year>
+<article-title>Speciation reversal and biodiversity dynamics with hybridization in changing environments</article-title>. <source>Mol. Ecol.</source>
+<volume>17</volume>:<fpage>30</fpage>&#x02013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">18034800</pub-id></mixed-citation></ref><ref id="ece32047-bib-0066"><mixed-citation publication-type="journal" id="ece32047-cit-0066">
+<string-name>
+<surname>Tajima</surname>, <given-names>F.</given-names>
+</string-name>
+<year>1989</year>
+<article-title>Statistical method for testing the neutral mutation hypothesis by DNA polymorphism</article-title>. <source>Genetics</source>
+<volume>123</volume>:<fpage>585</fpage>&#x02013;<lpage>595</lpage>.<pub-id pub-id-type="pmid">2513255</pub-id></mixed-citation></ref><ref id="ece32047-bib-0067"><mixed-citation publication-type="journal" id="ece32047-cit-0067">
+<string-name>
+<surname>Tamura</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Stecher</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Peterson</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Filipski</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Kumar</surname>
+</string-name>. <year>2013</year>
+<article-title>MEGA6: molecular evolutionary genetics analysis version 6.0</article-title>. <source>Mol. Biol. Evol.</source>
+<volume>30</volume>:<fpage>2725</fpage>&#x02013;<lpage>2729</lpage>.<pub-id pub-id-type="pmid">24132122</pub-id></mixed-citation></ref><ref id="ece32047-bib-0068"><mixed-citation publication-type="journal" id="ece32047-cit-0068">
+<string-name>
+<surname>Terekhanova</surname>, <given-names>N. V.</given-names>
+</string-name>, <string-name>
+<given-names>M. D.</given-names>
+<surname>Logacheva</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Penin</surname>
+</string-name>, <string-name>
+<given-names>T. V.</given-names>
+<surname>Neretina</surname>
+</string-name>, <string-name>
+<given-names>A. E.</given-names>
+<surname>Barmintseva</surname>
+</string-name>, <string-name>
+<given-names>G. A.</given-names>
+<surname>Bazykin</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>Fast evolution from precast bricks: genomics of young freshwater populations of threespine stickleback <italic>Gasterosteus aculeatus</italic>
+</article-title>. <source>PLoS Genet</source>. <volume>10</volume>:e1004696.</mixed-citation></ref><ref id="ece32047-bib-0069"><mixed-citation publication-type="journal" id="ece32047-cit-0069">
+<string-name>
+<surname>Tokui</surname>, <given-names>T.</given-names>
+</string-name>
+<year>1959</year>
+<article-title>Study on kokanee salmon I: Lake Towada</article-title>. <italic>Research Report from Hokkaido Salmon and Trout Hatchery</italic>
+<volume>145</volume>:<fpage>35</fpage>&#x02013;<lpage>90</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0070"><mixed-citation publication-type="journal" id="ece32047-cit-0070">
+<string-name>
+<surname>Tokui</surname>, <given-names>T.</given-names>
+</string-name>
+<year>1964</year>
+<article-title>Study on kokanee salmon V: transplantation of kokanee in Japan</article-title>. <italic>Research Report from Hokkaido Salmon and Trout Hatchery</italic>
+<volume>18</volume>:<fpage>73</fpage>&#x02013;<lpage>90</lpage>.</mixed-citation></ref><ref id="ece32047-bib-0071"><mixed-citation publication-type="journal" id="ece32047-cit-0071">
+<string-name>
+<surname>Yang</surname>, <given-names>Z.</given-names>
+</string-name>
+<year>2007</year>
+<article-title>PAML 4: phylogenetic analysis by maximum likelihood</article-title>. <source>Mol. Biol. Evol.</source>
+<volume>24</volume>:<fpage>1586</fpage>&#x02013;<lpage>1591</lpage>.<pub-id pub-id-type="pmid">17483113</pub-id></mixed-citation></ref><ref id="ece32047-bib-0072"><mixed-citation publication-type="journal" id="ece32047-cit-0072">
+<string-name>
+<surname>Yoshida</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Makino</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yamaguchi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Shigenobu</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Hasebe</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kawata</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>Sex chromosome turnover contributes to genomic divergence between incipient stickleback species</article-title>. <source>PLoS Genet.</source>
+<volume>10</volume>:<fpage>e1004223</fpage>.<pub-id pub-id-type="pmid">24625862</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1002 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Materials (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Materials (Basel)</journal-id><journal-id journal-id-type="publisher-id">materials</journal-id><journal-title-group><journal-title>Materials</journal-title></journal-title-group><issn pub-type="epub">1996-1944</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28773880</article-id><article-id pub-id-type="pmc">5457103</article-id><article-id pub-id-type="doi">10.3390/ma9090755</article-id><article-id pub-id-type="publisher-id">materials-09-00755</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Advancement of Compositional and Microstructural Design of Intermetallic &#x003b3;-TiAl Based Alloys Determined by Atom Probe Tomography</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Klein</surname><given-names>Thomas</given-names></name><xref rid="c1-materials-09-00755" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Clemens</surname><given-names>Helmut</given-names></name></contrib><contrib contrib-type="author"><name><surname>Mayer</surname><given-names>Svea</given-names></name></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Sastry</surname><given-names>Shankar M. L.</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-materials-09-00755">Department of Physical Metallurgy and Materials Testing, Montanuniversit&#x000e4;t Leoben, Roseggerstr. 12, 8700 Leoben, Austria; <email>helmut.clemens@unileoben.ac.at</email> (H.C.); <email>svea.mayer@unileoben.ac.at</email> (S.M.)</aff><author-notes><corresp id="c1-materials-09-00755"><label>*</label>Correspondence: <email>thomas.klein@unileoben.ac.at</email>; Tel.: +43-3842-402-4204</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>9</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2016</year></pub-date><volume>9</volume><issue>9</issue><elocation-id>755</elocation-id><history><date date-type="received"><day>19</day><month>7</month><year>2016</year></date><date date-type="accepted"><day>26</day><month>8</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors;</copyright-statement><copyright-year>2016</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Advanced intermetallic alloys based on the &#x003b3;-TiAl phase have become widely regarded as most promising candidates to replace heavier Ni-base superalloys as materials for high-temperature structural components, due to their facilitating properties of high creep and oxidation resistance in combination with a low density. Particularly, recently developed alloying concepts based on a &#x003b2;-solidification pathway, such as the so-called TNM alloy, which are already incorporated in aircraft engines, have emerged offering the advantage of being processible using near-conventional methods and the option to attain balanced mechanical properties via subsequent heat-treatment. Development trends for the improvement of alloying concepts, especially dealing with issues regarding alloying element distribution, nano-scale phase characterization, phase stability, and phase formation mechanisms demand the utilization of high-resolution techniques, mainly due to the multi-phase nature of advanced TiAl alloys. Atom probe tomography (APT) offers unique possibilities of characterizing chemical compositions with a high spatial resolution and has, therefore, been widely used in recent years with the aim of understanding the materials constitution and appearing basic phenomena on the atomic scale and applying these findings to alloy development. This review, thus, aims at summarizing scientific works regarding the application of atom probe tomography towards the understanding and further development of intermetallic TiAl alloys.</p></abstract><kwd-group><kwd>titanium aluminides based on &#x003b3;-TiAl</kwd><kwd>atom probe tomography</kwd><kwd>alloy design</kwd><kwd>microstructure formation</kwd><kwd>interfacial segregation</kwd><kwd>phase stability</kwd><kwd>hardening effects</kwd><kwd>site-specific specimen preparation</kwd></kwd-group></article-meta></front><body><sec id="sec1-materials-09-00755"><title>1. Introduction</title><p>Intermetallic titanium aluminides belong to the most promising materials to meet today&#x02019;s most prevalent demands for structural high-temperature materials of combining high strength with low density (next to other important characteristics like high creep and oxidation resistance as well as high modulus and strength retention at elevated temperatures) [<xref rid="B1-materials-09-00755" ref-type="bibr">1</xref>,<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>,<xref rid="B3-materials-09-00755" ref-type="bibr">3</xref>]. Due to these properties, TiAl alloys are particularly suitable for rotating components of modern propulsion systems, such as turbine blades of aero engines and turbocharger wheels of automotive engines. Especially, tight emission reduction targets, triggered by an increasing global ecological awareness [<xref rid="B4-materials-09-00755" ref-type="bibr">4</xref>], as directed by national and international initiatives and legislation [<xref rid="B5-materials-09-00755" ref-type="bibr">5</xref>,<xref rid="B6-materials-09-00755" ref-type="bibr">6</xref>], have become a major driving force in the development of this alloy class. Incorporation of innovative lightweight components into latest generation propulsion systems results in substantial reductions of greenhouse gases, CO<sub>2</sub> and NO<sub>x</sub>, as well as fuel consumption. Consequently, extensive fundamental research projects in close collaboration with industrial partners have been launched to create the basis for knowledge-based compositional and microstructural design and concomitant feasible manufacturing routes. Today, titanium aluminides have become an established material class and sophisticated processing routes are available reflected by an increasing market penetration of TiAl components in both aerospace and automotive industry. Application examples are cast turbine blades of the low-pressure turbine introduced in the GEnx&#x02122; by General Electrics [<xref rid="B7-materials-09-00755" ref-type="bibr">7</xref>] and forged turbine blades used in the low-pressure turbine of the recently inaugurated Geared Turbofan&#x02122; engine by Pratt and Whitney [<xref rid="B8-materials-09-00755" ref-type="bibr">8</xref>]. For details of current progress in alloy design, processing technologies, applications and prospects, the reader is referred to references [<xref rid="B1-materials-09-00755" ref-type="bibr">1</xref>,<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>,<xref rid="B9-materials-09-00755" ref-type="bibr">9</xref>,<xref rid="B10-materials-09-00755" ref-type="bibr">10</xref>,<xref rid="B11-materials-09-00755" ref-type="bibr">11</xref>,<xref rid="B12-materials-09-00755" ref-type="bibr">12</xref>].</p><p>TiAl alloys consist at room and service temperature entirely of ordered, intermetallic phases, predominantly of &#x003b3;-TiAl (L1<sub>0</sub> structure), &#x003b1;<sub>2</sub>-Ti<sub>3</sub>Al (D0<sub>19</sub> structure) and &#x003b2;<sub>o</sub>-TiAl (B2 structure). Mainly the inherent brittleness&#x02014;a result of the intermetallic character of all constituent phases&#x02014;has made processing a challenging task on the path to industrialization [<xref rid="B13-materials-09-00755" ref-type="bibr">13</xref>]. The combination of thermo-mechanical processing and multiple heat-treatments, which exploit the occurrence of several elapsing phase transformations, has therefore been extensively investigated with the result of enabling the adjustment of different types of microstructures [<xref rid="B14-materials-09-00755" ref-type="bibr">14</xref>]. These in turn allow for tuning of mechanical properties over wide ranges toward the prerequisites of the particular area of operation mainly by the control of morphological parameters, e.g., grain size, colony size and aspect ratio or lamellar interface spacing. In this respect the fully lamellar or nearly fully lamellar microstructures evidence the best combination of strength, creep resistance, ductility, and fracture toughness&#x02014;all of which are required for feasible manufacturing processes, to achieve balanced mechanical properties as well as to provide structural integrity during a components lifetime [<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>,<xref rid="B14-materials-09-00755" ref-type="bibr">14</xref>].</p><p>In recent years, a novel subclass of so-called &#x003b2;-solidifying TiAl alloys, the TNM alloy, has emerged [<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>,<xref rid="B12-materials-09-00755" ref-type="bibr">12</xref>,<xref rid="B15-materials-09-00755" ref-type="bibr">15</xref>,<xref rid="B16-materials-09-00755" ref-type="bibr">16</xref>,<xref rid="B17-materials-09-00755" ref-type="bibr">17</xref>]. This alloy solidifies entirely via the disordered &#x003b2; phase (A2 structure) (L &#x02192; L + &#x003b2; &#x02192; &#x003b2; &#x02026;), which results in an homogeneous, fine grained and almost texture-free microstructure in contrast to peritectically solidifying alloys (L &#x02192; L + &#x003b2; &#x02192; &#x003b1; &#x02026;), which are prone to segregation, coarse microstructure and a strong casting texture [<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>,<xref rid="B12-materials-09-00755" ref-type="bibr">12</xref>,<xref rid="B15-materials-09-00755" ref-type="bibr">15</xref>]. TNM alloys comprise, next to Ti and Al, the alloying elements Nb, Mo and small amounts of B, and were designed with the aim of providing a forgeable alloy exhibiting balanced mechanical properties that can be attained via near-conventional manufacturing routes and subsequent heat-treatments [<xref rid="B12-materials-09-00755" ref-type="bibr">12</xref>,<xref rid="B18-materials-09-00755" ref-type="bibr">18</xref>,<xref rid="B19-materials-09-00755" ref-type="bibr">19</xref>]. At elevated temperatures this alloy exhibits a sufficient amount of disordered &#x003b2; phase due to the &#x003b2;-stabilizing elements Nb and Mo, which facilitates hot-workability. This phase is, however, undesirable at service temperatures, but can be removed or reduced via ensuing heat-treatments [<xref rid="B12-materials-09-00755" ref-type="bibr">12</xref>,<xref rid="B18-materials-09-00755" ref-type="bibr">18</xref>]. <xref ref-type="fig" rid="materials-09-00755-f001">Figure 1</xref> depicts the microstructure of a TNM alloy in the cast and hot-isostatically pressed (HIP) condition taken by scanning electron microscopy (SEM) in back-scattered electron (BSE) mode. In this micrograph, all major constituent phases are visible and are labeled accordingly. The microstructure is homogeneous, i.e., no significant segregation of alloying elements occurred during processing. Boron, which is added to TNM alloys as a grain refining agent, acts as heterogeneous nucleant during solidification and subsequent phase transformations [<xref rid="B20-materials-09-00755" ref-type="bibr">20</xref>]. Thereby, B is mostly present in thermally stable borides&#x02014;one of which is visible at the bottom of <xref ref-type="fig" rid="materials-09-00755-f001">Figure 1</xref>. The depicted cast/HIP microstructure corresponds to the starting condition for following forging operations or to adjust the microstructure directly via refined heat-treatment strategies [<xref rid="B21-materials-09-00755" ref-type="bibr">21</xref>]. In order to enhance the high-temperature capability of TNM alloys, alloying with microalloying elements, such as C and Si, is a suitable means [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B23-materials-09-00755" ref-type="bibr">23</xref>,<xref rid="B24-materials-09-00755" ref-type="bibr">24</xref>,<xref rid="B25-materials-09-00755" ref-type="bibr">25</xref>]. These alloys are then denoted as TNM<sup>+</sup> alloys and represent a most promising alloy subclass, which effectively increases the maximum operating temperature of TNM alloys.</p><p>A minor, but nevertheless important phase, which can hardly be visualized by SEM, due to its extreme fineness, is the &#x003c9;<sub>o</sub> phase, which can occur in many TiAl systems including the TNM alloy [<xref rid="B26-materials-09-00755" ref-type="bibr">26</xref>,<xref rid="B27-materials-09-00755" ref-type="bibr">27</xref>]. In these &#x003b2;<sub>o</sub> phase containing TiAl alloys, &#x003c9;<sub>o</sub> particles are observed to precipitate from the &#x003b2;<sub>o</sub> phase and a simultaneous hardening has been reported [<xref rid="B28-materials-09-00755" ref-type="bibr">28</xref>,<xref rid="B29-materials-09-00755" ref-type="bibr">29</xref>,<xref rid="B30-materials-09-00755" ref-type="bibr">30</xref>,<xref rid="B31-materials-09-00755" ref-type="bibr">31</xref>]. However, details of the occurring precipitation reaction are matter of ongoing scientific issues among scientists. As a simultaneous significant solute redistribution is typically observed, atom probe tomography (APT) corresponds to the method of choice for a detailed investigation [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>].</p><p>APT (and atom probe field ion microscopy (APFIM)) was extensively applied to many fundamental questions of this alloy class. Two particularities of TiAl alloys account for the intense utilization of APT: (i) mechanical properties, especially ductility, are dependent on the interstitial content of the individual phases [<xref rid="B32-materials-09-00755" ref-type="bibr">32</xref>]; and (ii) as microstructures often consist of extremely fine-scale constituents, high-resolution techniques are required for a detailed characterization [<xref rid="B33-materials-09-00755" ref-type="bibr">33</xref>,<xref rid="B34-materials-09-00755" ref-type="bibr">34</xref>]. The following section will give a brief literature survey encompassing APT studies of the past three decades in the field of titanium aluminides.</p><p>Early studies revealed superior properties of &#x003b1;<sub>2</sub>/&#x003b3; two-phase alloys, especially of lamellar structures, particularly in terms of higher strength levels, ductility and fracture toughness in comparison to single-phase alloys, which are either based on &#x003b3; or &#x003b1;<sub>2</sub>. Hence, fundamental research aimed at understanding underlying phenomena. These studies revealed that O impurity levels are highest in the &#x003b1;<sub>2</sub> phase of two-phase alloys [<xref rid="B35-materials-09-00755" ref-type="bibr">35</xref>,<xref rid="B36-materials-09-00755" ref-type="bibr">36</xref>,<xref rid="B37-materials-09-00755" ref-type="bibr">37</xref>]. Its removal from the &#x003b3; phase was argued to promote ductility by a so-called &#x0201c;scavenging effect&#x0201d;, i.e., a purification effect keeping the &#x003b3; phase ductile [<xref rid="B35-materials-09-00755" ref-type="bibr">35</xref>,<xref rid="B36-materials-09-00755" ref-type="bibr">36</xref>], or entirely by structural features of the lamellar arrangement [<xref rid="B37-materials-09-00755" ref-type="bibr">37</xref>]. Menand et al. [<xref rid="B38-materials-09-00755" ref-type="bibr">38</xref>] rebutted the &#x0201c;scavenging effect&#x0201d; of the &#x003b1;<sub>2</sub> phase as they were able to evidence that the &#x003b3; phase of single-phase and two-phase alloys shows equivalent O concentrations, corresponding to the maximum solubility of this phase. As this solubility level is much lower than the alloy&#x02019;s impurity contamination, it is argued that even in high purity single-phase &#x003b3;-TiAl alloys, the O excess leads to fine-scaled oxide precipitates or a local enrichment, which in turn result in embrittlement. Furthermore, Lefebvre et al. [<xref rid="B39-materials-09-00755" ref-type="bibr">39</xref>] evidenced a strong dependence of the maximum interstitial solubility on the off-stoichiometric composition of the &#x003b3; phase. It is argued that interstitials such as C, N or O prefer to occupy Ti<sub>6</sub> octahedral sites, which are inherently present in the &#x003b1;<sub>2</sub> phase but not in the &#x003b3; phase. However, if the phase composition of the &#x003b3; phase deviates toward the Al-lean side of the stoichiometric composition, the surplus of Ti atoms occupies Al sites, which in turn results in the creation of Ti<sub>6</sub> octahedral cavities. This conclusion was later picked up by Scheu et al. [<xref rid="B40-materials-09-00755" ref-type="bibr">40</xref>] to explain the observed increase in C solubility by alloying with Nb. As Nb preferentially substitutes for Ti in the &#x003b3; phase [<xref rid="B41-materials-09-00755" ref-type="bibr">41</xref>,<xref rid="B42-materials-09-00755" ref-type="bibr">42</xref>], a surplus of Ti is generated, which locates on Al sites, hence, acts equivalently to off-stoichiometry, effectively increasing the concentration of Ti<sub>6</sub> octahedral sites.</p><p>APT was moreover utilized for detailed studies of different alloying concepts mainly in terms of element phase preference and its effect on phase equilibria. TiAl alloys of second and third generation (see references [<xref rid="B1-materials-09-00755" ref-type="bibr">1</xref>,<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>]) typically contain one or more different transition metal additions. In this respect, Nb, Mo, Ta, W, V, Cr, and Mn have been widely investigated. APT studies of Nb, which is included in most engineering alloys [<xref rid="B43-materials-09-00755" ref-type="bibr">43</xref>,<xref rid="B44-materials-09-00755" ref-type="bibr">44</xref>,<xref rid="B45-materials-09-00755" ref-type="bibr">45</xref>,<xref rid="B46-materials-09-00755" ref-type="bibr">46</xref>,<xref rid="B47-materials-09-00755" ref-type="bibr">47</xref>], revealed only weak partitioning and a homogeneous distribution for both two-phase alloys [<xref rid="B48-materials-09-00755" ref-type="bibr">48</xref>,<xref rid="B49-materials-09-00755" ref-type="bibr">49</xref>,<xref rid="B50-materials-09-00755" ref-type="bibr">50</xref>,<xref rid="B51-materials-09-00755" ref-type="bibr">51</xref>] and three-phase alloys [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>]. At the same time Mo strongly favors the &#x003b2;<sub>o</sub> phase in three-phase alloys [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>]. In this respect Vb elements generally show a weak phase preference for the &#x003b2;<sub>o</sub> phase [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B48-materials-09-00755" ref-type="bibr">48</xref>,<xref rid="B49-materials-09-00755" ref-type="bibr">49</xref>,<xref rid="B50-materials-09-00755" ref-type="bibr">50</xref>,<xref rid="B51-materials-09-00755" ref-type="bibr">51</xref>,<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>], whereas VIb elements generally show a strong phase preference for the &#x003b2;<sub>o</sub> phase [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B29-materials-09-00755" ref-type="bibr">29</xref>,<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>]. The tendency of phase preference corresponds to an increased &#x003b2;-stabilizing effect of VIb elements in comparison to Vb elements [<xref rid="B53-materials-09-00755" ref-type="bibr">53</xref>].</p><p>Some alloying elements, moreover, have been shown to effectively increase creep resistance or, more generally, increase the microstructural stability. These effects have been argued to stem from interfacial segregation essentially decreasing interface mobility [<xref rid="B54-materials-09-00755" ref-type="bibr">54</xref>,<xref rid="B55-materials-09-00755" ref-type="bibr">55</xref>]. APT, which is also especially applicable for the study of interfacial segregation due to its superior spatial resolution and the potential of directly quantifying the extent of segregation, evidenced interfacial excesses at phase interfaces of both heavy elements such as W [<xref rid="B51-materials-09-00755" ref-type="bibr">51</xref>,<xref rid="B56-materials-09-00755" ref-type="bibr">56</xref>] and Hf [<xref rid="B51-materials-09-00755" ref-type="bibr">51</xref>] as well as light elements such as C [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>].</p><p>Progress of recent years in APT technique allows for the generation of reliable data with a reasonable experimental effort. Hence, more sophisticated questions may be answered that arise in current multi-phase multi-component TiAl alloys to improve the existing and to achieve knowledge required for new innovations. Issues of advancing titanium aluminides using APT are characterization of the lamellar structure [<xref rid="B51-materials-09-00755" ref-type="bibr">51</xref>,<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>], alloying effects [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B40-materials-09-00755" ref-type="bibr">40</xref>], characterization of ceramic-type strengthening particles, and occurring phase interfaces [<xref rid="B57-materials-09-00755" ref-type="bibr">57</xref>,<xref rid="B58-materials-09-00755" ref-type="bibr">58</xref>] or underlying phenomena of in-service oxygen embrittlement [<xref rid="B59-materials-09-00755" ref-type="bibr">59</xref>], just to name of few examples. This article reviews questions in the development of TiAl alloys that were successfully answered using APT and highlights possibilities of this technique. In particular fundamental questions as well as issues pertaining to the enhancement of TNM alloys are contemplated in the frame of complimentary methods.</p></sec><sec id="sec2-materials-09-00755"><title>2. Atom Probe Tomography</title><p>The basis of APT has been established in several textbooks and reviews [<xref rid="B60-materials-09-00755" ref-type="bibr">60</xref>,<xref rid="B61-materials-09-00755" ref-type="bibr">61</xref>,<xref rid="B62-materials-09-00755" ref-type="bibr">62</xref>]. Nevertheless, this section should give a short overview of the fundamentals of this technique, the progress that resulted in the state-of-the-art methods as well as the preparation techniques suitable for the specimen production of TiAl alloys.</p><sec id="sec2dot1-materials-09-00755"><title>2.1. Background of Technique: Principles of Method and Compositional Measurements</title><p>APT is based on the field evaporation of surface atoms near the tip of a needle-shaped specimen, whereby both time-of-flight mass spectroscopy and position sensitive ion detection are utilized [<xref rid="B61-materials-09-00755" ref-type="bibr">61</xref>,<xref rid="B62-materials-09-00755" ref-type="bibr">62</xref>]. Specimens need to be needle-shaped with tip radii of &#x02248;20&#x02013;100 nm in order to reach sufficient local electric fields of &#x02248;10&#x02013;60 V/nm resulting in ionization and emission of surface atoms at cryogenic temperatures and ultra-high vacuum. An approximation of the electric field occurring in the vicinity of an approximately spherical tip is given by Equation (1):
+<disp-formula id="FD1-materials-09-00755"><label>(1)</label><mml:math id="mm1"><mml:mrow><mml:mrow><mml:mi>F</mml:mi><mml:mtext>&#x000a0;</mml:mtext><mml:mo>=</mml:mo><mml:mtext>&#x000a0;</mml:mtext><mml:mfrac><mml:mi>V</mml:mi><mml:mrow><mml:msub><mml:mi>k</mml:mi><mml:mi>f</mml:mi></mml:msub><mml:mi>&#x022c5;</mml:mi><mml:mi>R</mml:mi></mml:mrow></mml:mfrac></mml:mrow></mml:mrow></mml:math></disp-formula>
+where <italic>F</italic> is the electric field strength induced at the tip&#x02019;s apex with a radius of curvature <italic>R</italic> and <italic>k<sub>f</sub></italic> denotes the field factor, which includes the tip shape as well as the electrostatic environment, i.e., corresponds to a geometrical correction stemming from specimen and mounting geometry and <italic>V</italic> corresponds to the voltage applied [<xref rid="B61-materials-09-00755" ref-type="bibr">61</xref>,<xref rid="B62-materials-09-00755" ref-type="bibr">62</xref>]. From Equation (1), one can recognize the requirement of the specimen&#x02019;s tip to be extremely sharp due to naturally given upper limits of voltage. During the evaporation process, atoms that are positioned close to steps are more likely to evaporate resulting in a self-regulation of the specimen geometry. The evaporated ions follow the electric field lines created between the specimen and the detector. The evaporation process is controlled concomitantly to the measure of the time of departure by creation of a standing field below the evaporation field of the atoms of the material investigated. This field is then superimposed either by voltage pulses or laser (thermal) pulses&#x02014;both of which result in a controlled emission of ions. These short duration pulses allow for a distinct discrimination of the time-of-flight of each ion that hits the position sensitive detector. The information gained is the mass-to-charge ratio for each evaporated ion. Data post-processing such as background subtraction or peak deconvolution is often required to identify the chemical identity of a particular species and, thereby, create an accurate chemical analysis. Moreover, the three-dimensional specimen volume can be reconstructed using the information determined by the position sensitive detector providing knowledge of the spatial distribution of the atoms in, e.g., phases or clusters in a very descriptive way [<xref rid="B61-materials-09-00755" ref-type="bibr">61</xref>].</p></sec><sec id="sec2dot2-materials-09-00755"><title>2.2. The Local Electrode Atom Probe</title><p>The introduction of the local electrode atom probe (LEAP&#x02122;) [<xref rid="B63-materials-09-00755" ref-type="bibr">63</xref>,<xref rid="B64-materials-09-00755" ref-type="bibr">64</xref>] has allowed for a widened utilization of APT and much work has been done since. Recent advances of method and data evaluation are explained in detail in references [<xref rid="B64-materials-09-00755" ref-type="bibr">64</xref>,<xref rid="B65-materials-09-00755" ref-type="bibr">65</xref>,<xref rid="B66-materials-09-00755" ref-type="bibr">66</xref>,<xref rid="B67-materials-09-00755" ref-type="bibr">67</xref>,<xref rid="B68-materials-09-00755" ref-type="bibr">68</xref>,<xref rid="B69-materials-09-00755" ref-type="bibr">69</xref>]. In the LEAP&#x02122; instrument a standing voltage is applied between the specimen and the counter electrode, which is, as in the case of any atom probe, superimposed by high voltage or laser pulses. The novelty is the introduction of the local electrode, whereby the specimen is positioned very close to this electrode as schematically depicted in <xref ref-type="fig" rid="materials-09-00755-f002">Figure 2</xref>. This experimental arrangement allows for a dramatic increase of measureable sample volumes and an extended field of view. Evaporated ions travel through a hole in the local electrode toward the position sensitive detection system, whereby the generated signal as well as its evaluation and interpretation may be performed equivalently as described in <xref ref-type="sec" rid="sec2dot1-materials-09-00755">Section 2.1</xref>.</p><p>Further enhancement of mass resolution may be attained via utilization of a reflectron belonging to the so-called techniques of energy compensation or flight time compensation. To this end, the travelling ions enter an electrostatic field and are, thereby, deflected onto a curved pathway. Ions of lower energy will be deflected first and, hence, travel a shorter path than ions of higher energy. A longer path increases the time-of-flight and vice versa, i.e., the peak width in the time-of-flight spectrum is narrowed corresponding to an increased mass resolution potential. However, one major drawback of the reflectron system is the concomitant reduction of detection efficiency.</p></sec><sec id="sec2dot3-materials-09-00755"><title>2.3. Methods of Specimen Preparation</title><p>There exist two distinct preparation routes that are suitable and necessary for the study of TiAl alloys by means of APT. The first approach follows a sequence that is schematically depicted in <xref ref-type="fig" rid="materials-09-00755-f003">Figure 3</xref>. Thereby, blanks possessing &#x02248;1&#x02013;2 cm length and a quadratic cross-section of &#x02248;300 &#x000b5;m side length are usually cut using precision cutting tools. These are then mounted into Cu (or Ni) crimps and are etched in a first step (<xref ref-type="fig" rid="materials-09-00755-f003">Figure 3</xref>, Step 1) using a combination of electrolyte and inert liquid to create a neck roughly in the middle of the specimen. Subsequently, the inert layer is removed and the specimen is etched until it fractures (Step 2). Following this procedure, final shaping and sharpening is conducted using a microloop with a drop of electrolyte (Step 3). For TiAl alloys an etchant consisting of 5% perchloric acid in acetic acid has been successfully used for Steps 1 and 2 using polishing voltages of &#x02248;25 V and &#x02248;15 V, respectively. The best results of final tip shaping were obtained using 2% perchloric acid in butoxyethanol at &#x02248;10 V. For further details on electropolishing routines and other preparation methods the reader is referred to the textbooks [<xref rid="B60-materials-09-00755" ref-type="bibr">60</xref>,<xref rid="B61-materials-09-00755" ref-type="bibr">61</xref>].</p><p>APT specimens can be prepared alternatively using the focused ion beam (FIB) based lift-out technique as described in detail in references [<xref rid="B70-materials-09-00755" ref-type="bibr">70</xref>,<xref rid="B71-materials-09-00755" ref-type="bibr">71</xref>,<xref rid="B72-materials-09-00755" ref-type="bibr">72</xref>,<xref rid="B73-materials-09-00755" ref-type="bibr">73</xref>,<xref rid="B74-materials-09-00755" ref-type="bibr">74</xref>,<xref rid="B75-materials-09-00755" ref-type="bibr">75</xref>]. This procedure is usually carried out in a dual beam FIB device equipped with both an electron as well as an ion source. The sequence of steps conducted is represented schematically in <xref ref-type="fig" rid="materials-09-00755-f004">Figure 4</xref>. In a first step the SEM is simply used to identify a region of interest for the following measurement. Subsequently, the material is protected from Ga implantation and concomitant sample contamination and amorphization by a Pt deposit. A lamella is then formed upon excavation at two sides contiguous to the Pt deposit using the ion beam. The lamella can then be lifted out after cutting free using a micromanipulator and can be mounted to any kind of pre-tip. This can be the posts of a Si needle pad, tips generated on a cut and electropolished transmission electron microscopy (TEM) grid [<xref rid="B73-materials-09-00755" ref-type="bibr">73</xref>,<xref rid="B75-materials-09-00755" ref-type="bibr">75</xref>,<xref rid="B76-materials-09-00755" ref-type="bibr">76</xref>] or a single tip. At last the final tip shape is generated using annular milling, whereby voltage and current are gradually reduced to decrease Ga contamination [<xref rid="B77-materials-09-00755" ref-type="bibr">77</xref>].</p></sec></sec><sec id="sec3-materials-09-00755"><title>3. Effects of Alloying Elements</title><sec id="sec3dot1-materials-09-00755"><title>3.1. Niobium and Molybdenum: Phase Formation, Phase Preference and Phase Stability</title><p>This section will focus on the effects of the decisive substitutional alloying elements that are typically used in advanced TiAl alloys as studied by APT and will view them in the context of established alloying related effects. Especially, different transition metals have been identified as valuable additions to increase both ductility and strength. For example V, Cr, Mn, Nb, Mo, Ta, and W are all among most common additions to TiAl alloys [<xref rid="B15-materials-09-00755" ref-type="bibr">15</xref>,<xref rid="B17-materials-09-00755" ref-type="bibr">17</xref>,<xref rid="B53-materials-09-00755" ref-type="bibr">53</xref>,<xref rid="B78-materials-09-00755" ref-type="bibr">78</xref>]. However, effects of Nb and Mo are of particular importance for the understanding of the TNM alloy and related alloys as they constitute the major alloying elements [<xref rid="B79-materials-09-00755" ref-type="bibr">79</xref>,<xref rid="B80-materials-09-00755" ref-type="bibr">80</xref>,<xref rid="B81-materials-09-00755" ref-type="bibr">81</xref>].</p><p>Niobium has been identified as a crucial element for the enhancement of high-temperature strength [<xref rid="B47-materials-09-00755" ref-type="bibr">47</xref>,<xref rid="B82-materials-09-00755" ref-type="bibr">82</xref>,<xref rid="B83-materials-09-00755" ref-type="bibr">83</xref>] and oxidation resistance [<xref rid="B43-materials-09-00755" ref-type="bibr">43</xref>]. The strengthening effect observed in two-phase alloys (comprising of &#x003b1;<sub>2</sub> and &#x003b3; phase) has been recognized to stem mainly from an increasing amount of &#x003b1;<sub>2</sub> and from an occurring structural refinement [<xref rid="B84-materials-09-00755" ref-type="bibr">84</xref>]. In the case of &#x003b2;-solidifying alloys, &#x003b2;<sub>o</sub> phase is retained to room temperature, which is due to the fact that Nb acts as a &#x003b2;-stabilizing element. Hence, the Nb distribution in the constituent phases is expected to differ from classic two-phase TiAl alloys and is, thus, of particular interest as strong partitioning potentially results in microsegregation, i.e., in microstructural inhomogeneities, that could deteriorate creep and fatigue resistance [<xref rid="B83-materials-09-00755" ref-type="bibr">83</xref>]. Therefore, the local chemical composition of the individual phases of a TNM alloy in the homogenized condition was determined by APT, as reported in reference [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>]. Chemical compositions are depicted in <xref ref-type="fig" rid="materials-09-00755-f005">Figure 5</xref> in the form of a bar chart, neglecting for the moment the occurrence of a minor phase fraction of &#x003c9;<sub>o</sub> phase, which will be dealt with in <xref ref-type="sec" rid="sec3dot3-materials-09-00755">Section 3.3</xref>. Considering Ti and Al, it is of particular interest to note that the composition of the phases &#x003b1;<sub>2</sub> and &#x003b2;<sub>o</sub> deviates significantly from the compositions of the ideal binary phases (Ti<sub>3</sub>Al and TiAl, respectively). This strong deviation of both phases is due to differing site occupation behavior of the transition metal atoms that are alloyed in the TNM system. While all transition metals prefer to substitute at Ti sites in the &#x003b1;<sub>2</sub> phase, there is a strong trend for the substitution at Al sites in the &#x003b2;<sub>o</sub> phase, as suggested by ab initio calculations in reference [<xref rid="B85-materials-09-00755" ref-type="bibr">85</xref>]. Niobium shows a similar distribution between the individual phases with a weak preference for the &#x003b2;<sub>o</sub> phase only. This observation is in agreement to the fact that Nb was identified as a &#x003b2;-stabilizing element [<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>,<xref rid="B53-materials-09-00755" ref-type="bibr">53</xref>]. However, although its addition results in the introduction of the &#x003b2;<sub>o</sub> phase, which is stable at room and service temperature, there are still significant amounts dissolved in the &#x003b1;<sub>2</sub> and &#x003b3; phase, i.e., the enrichment within the &#x003b2;<sub>o</sub> phase does not entirely remove Nb from the other phases. In contrast, Mo strongly partitions between the phases, whereby the &#x003b2;<sub>o</sub> phase is most favored. This observation corresponds well to the fact that Mo has been reported to be a by far stronger &#x003b2;-stabilizing element than Nb [<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>,<xref rid="B53-materials-09-00755" ref-type="bibr">53</xref>]. This effect has far-reaching implications on processing, e.g., on the hot-workability. Since additions of Mo, already in modest amounts, stabilizes the disordered &#x003b2; phase at elevated temperatures, hot-working becomes possible using near conventional hot-working equipment [<xref rid="B18-materials-09-00755" ref-type="bibr">18</xref>,<xref rid="B19-materials-09-00755" ref-type="bibr">19</xref>]. Most importantly, the volume fraction of &#x003b2;/&#x003b2;<sub>o</sub> phase can be reduced significantly on ensuing heat-treatment as its presence deteriorates the creep resistance [<xref rid="B86-materials-09-00755" ref-type="bibr">86</xref>,<xref rid="B87-materials-09-00755" ref-type="bibr">87</xref>]. This is only possible due to the particular curve progression of phase fractions occurring in the TNM system, i.e., the course of the &#x003b2; phase fraction shows a pronounced C-shape with a minimum between 1250 &#x000b0;C and 1280 &#x000b0;C [<xref rid="B12-materials-09-00755" ref-type="bibr">12</xref>,<xref rid="B88-materials-09-00755" ref-type="bibr">88</xref>]. Using a second heat-treatment step, which is typically conducted slightly above the envisaged service temperature, the amount of &#x003b2; phase can be further reduced due to the fact that the stabilization of the &#x003b2; phase by &#x003b2;-stabilizing elements diminishes in the course of the ordering reaction, i.e., Mo strongly stabilizes the disordered &#x003b2; phase, but hardly stabilizes its ordered counterpart &#x003b2;<sub>o</sub> [<xref rid="B80-materials-09-00755" ref-type="bibr">80</xref>]. Moreover, a fine lamellar structure is adjusted and the phase fractions are equilibrated, yielding a reduced contribution of phase transformation to the creep elongation [<xref rid="B2-materials-09-00755" ref-type="bibr">2</xref>,<xref rid="B18-materials-09-00755" ref-type="bibr">18</xref>].</p><p>Impurity levels are most pronounced in the &#x003b1;<sub>2</sub> phase as discernible from <xref ref-type="fig" rid="materials-09-00755-f005">Figure 5</xref>, where the sum of all impurities present in this alloy is shown. This observation is due to the fact that most impurities correspond to interstitial elements, which are mostly dissolved in the &#x003b1;<sub>2</sub> phase due to the inherent presence of Ti<sub>6</sub> octahedral sites, where interstitials are incorporated favorably. Both other phases do not constitute any of these sites intrinsically. Some other impurities, however, corresponding to Fe, Cr and V, as identified by APT, all of which represent typical &#x003b2;-stabilizing elements, contribute to the increased impurity levels present in the &#x003b2;<sub>o</sub> phase in comparison to the &#x003b3; phase.</p></sec><sec id="sec3dot2-materials-09-00755"><title>3.2. Boron Addition and Boride Formation</title><p>Boron has been identified as a particularly valuable alloying element in TiAl alloys [<xref rid="B20-materials-09-00755" ref-type="bibr">20</xref>,<xref rid="B89-materials-09-00755" ref-type="bibr">89</xref>]. Early studies revealed a significant grain refinement effect, which was attributed to the presence of thermally stable borides that act as heterogeneous nucleation sites during solidification and on ensuing phase transformation [<xref rid="B89-materials-09-00755" ref-type="bibr">89</xref>]. Some details about the grain refinement effects, especially, as they depend on the evolving phase transformation sequence, i.e., refining effects differ from &#x003b2;-solidifying alloys to peritectic alloys and the cooling rate applied, remain, however, matter of debate and ongoing research [<xref rid="B90-materials-09-00755" ref-type="bibr">90</xref>]. A detailed analysis of the chemical composition of these borides can help to understand, e.g., effects of alloying elements on their stability. Larson et al. [<xref rid="B91-materials-09-00755" ref-type="bibr">91</xref>] determined chemical compositions of different Ti-borides occurring in a Ti-47Al-2Cr-2Nb-0.15B (in atom%, at%) (TIA-20) alloy using APFIM. Results of a measured mono-boride are reproduced in <xref ref-type="table" rid="materials-09-00755-t001">Table 1</xref> and are compared to the chemical composition we have determined for a boride present in the TNM alloy as visible in <xref ref-type="fig" rid="materials-09-00755-f001">Figure 1</xref>. In our case, the investigated specimen was prepared by site-specific specimen preparation using the FIB technique. Apparently, according to the evaluated chemical composition, this boride similarly corresponds to a mono-boride. Interestingly, the boride contained in the TNM alloy exhibits a significant and by far greater amount of Nb than in the TIA-20 alloy and also some Mo. The boride observed in the TNM alloy, however, contains &#x02248;45 at% B only, i.e., apparently its composition is off-stoichiometric either by creation of anti-site defects or vacancies possibly due to the alloyed elements. The presented results, moreover, evidence that Ti-borides occurring in TiAl alloys show hardly any solubility for Al and are comprised mainly of Ti and B.</p></sec><sec id="sec3dot3-materials-09-00755"><title>3.3. The Formation of &#x003c9;<sub>o</sub> Phase</title><p>As mentioned previously most engineering TiAl alloys that are currently in use are alloyed with modest to high amounts of Nb [<xref rid="B46-materials-09-00755" ref-type="bibr">46</xref>,<xref rid="B82-materials-09-00755" ref-type="bibr">82</xref>], which is generally vital for high-temperature strength as well as creep and oxidation resistance. The introduction of this element, however, results in an increased susceptibility to the formation of additional phases such as the &#x003c9;<sub>o</sub> phase [<xref rid="B26-materials-09-00755" ref-type="bibr">26</xref>,<xref rid="B27-materials-09-00755" ref-type="bibr">27</xref>,<xref rid="B28-materials-09-00755" ref-type="bibr">28</xref>,<xref rid="B29-materials-09-00755" ref-type="bibr">29</xref>,<xref rid="B31-materials-09-00755" ref-type="bibr">31</xref>], which was observed to result in an increasing hardness [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B28-materials-09-00755" ref-type="bibr">28</xref>]. In the case of &#x003b2;-solidifying TiAl alloys, this phase precipitates from the &#x003b2;<sub>o</sub> phase at temperatures below &#x02248;825 &#x000b0;C [<xref rid="B28-materials-09-00755" ref-type="bibr">28</xref>] in contrast to alloys free of &#x003b2;<sub>o</sub> phase, where precipitation from the &#x003b1;<sub>2</sub> phase can occur [<xref rid="B92-materials-09-00755" ref-type="bibr">92</xref>,<xref rid="B93-materials-09-00755" ref-type="bibr">93</xref>]. For the detailed understanding of the precipitation process occurring in TNM alloys, it is of particular interest to understand how the elements redistribute between &#x003b2;<sub>o</sub> and &#x003c9;<sub>o</sub> phase during the precipitation sequence and, thereby, withdraw information pertaining to stabilization and destabilization. Hence, APT specimens of a heat-treated TNM sample containing &#x003b2;<sub>o</sub> and &#x003c9;<sub>o</sub> phase were prepared site-specifically as described in reference [<xref rid="B75-materials-09-00755" ref-type="bibr">75</xref>]. There, a TNM specimen that was annealed above the &#x003c9;<sub>o</sub>-solvus temperature and cooled slowly in the furnace, allowing for the precipitation reaction to take place, as reported in reference [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>]. The presence of both &#x003b2;<sub>o</sub> and &#x003c9;<sub>o</sub> phase was verified by complimentary transmission Kikuchi diffraction conducted directly at the site-specifically prepared APT [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B75-materials-09-00755" ref-type="bibr">75</xref>]. An APT reconstruction containing the alloying elements Nb (green line) and Mo (red line) is shown in <xref ref-type="fig" rid="materials-09-00755-f006">Figure 6</xref>a, where isoconcentration surfaces at 1.3 at% Mo are also indicated. A clearly inhomogeneous distribution of these elements is discernable and the phase decomposition occurring can be visualized explicitly by the isoconcentration surfaces. As these surfaces are created with the aid of a concentration gradient it should be noted that they do not necessarily coincide the actual crystallographic phase boundaries. Some of the &#x003c9;<sub>o</sub> particles show a parallel arrangement elongated along preferred growth directions that correspond to the established orientation relationship (OR) <inline-formula><mml:math id="mm32"><mml:mrow><mml:mrow><mml:msub><mml:mrow><mml:mo>&#x02329;</mml:mo><mml:mn>111</mml:mn><mml:mo>&#x0232a;</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi mathvariant="sans-serif">&#x003b2;</mml:mi><mml:mi mathvariant="normal">o</mml:mi></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mo stretchy="false">{</mml:mo><mml:mn>1</mml:mn><mml:mover><mml:mn>1</mml:mn><mml:mo>-</mml:mo></mml:mover><mml:mn>0</mml:mn><mml:mo stretchy="false">}</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi mathvariant="sans-serif">&#x003b2;</mml:mi><mml:mi mathvariant="normal">o</mml:mi></mml:msub></mml:mrow></mml:msub><mml:mo>&#x02225;</mml:mo><mml:msub><mml:mrow><mml:mo>[</mml:mo><mml:mn>0001</mml:mn><mml:mo>]</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi mathvariant="sans-serif">&#x003c9;</mml:mi><mml:mi mathvariant="normal">o</mml:mi></mml:msub></mml:mrow></mml:msub><mml:msub><mml:mrow><mml:mo stretchy="false">{</mml:mo><mml:mn>11</mml:mn><mml:mover><mml:mn>2</mml:mn><mml:mo>-</mml:mo></mml:mover><mml:mn>0</mml:mn><mml:mo stretchy="false">}</mml:mo></mml:mrow><mml:mrow><mml:msub><mml:mi mathvariant="sans-serif">&#x003c9;</mml:mi><mml:mi mathvariant="normal">o</mml:mi></mml:msub></mml:mrow></mml:msub></mml:mrow></mml:mrow></mml:math></inline-formula> [<xref rid="B94-materials-09-00755" ref-type="bibr">94</xref>].</p><p>For a quantification of the changes in chemical composition across the interfaces of <xref ref-type="fig" rid="materials-09-00755-f006">Figure 6</xref>a, proximity histograms of the major alloying elements Ti, Al, Nb, and Mo were calculated and are depicted in <xref ref-type="fig" rid="materials-09-00755-f006">Figure 6</xref>b. The phase boundary appears to be chemically diffuse, while being crystallographically sharp. The Al distribution seems nearly homogeneous, whereas Nb and Mo show opposing partitioning in comparison to Ti. The Mo redistribution occurring during growth of the &#x003c9;<sub>o</sub> particles is clearly the most pronounced effect and is indicative for an actual phase decomposition. Apparently, Mo is rejected from the &#x003c9;<sub>o</sub> phase and enriched in the &#x003b2;<sub>o</sub> matrix in agreement with references [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B28-materials-09-00755" ref-type="bibr">28</xref>]. In the vicinity of the interface, a Mo pile-up occurs as visible in <xref ref-type="fig" rid="materials-09-00755-f006">Figure 6</xref>b. The appearing diffusional redistribution is presumed to limit the formation kinetics.</p></sec><sec id="sec3dot4-materials-09-00755"><title>3.4. Enhancement of the TNM Alloying Concept: Effects of Carbon Addition</title><p>The enhancement of high-temperature strength has constantly been a goal in the design of novel TiAl alloys. In this regard particularly alloying with the element C has been investigated. This interstitial element strengthens the material either by solid solution hardening or by carbide precipitation [<xref rid="B32-materials-09-00755" ref-type="bibr">32</xref>,<xref rid="B95-materials-09-00755" ref-type="bibr">95</xref>,<xref rid="B96-materials-09-00755" ref-type="bibr">96</xref>]. The predominating mechanism is, thereby, determined by the alloy composition and the materials&#x02019; thermal history. Carbon is mainly located in the direct environment of six Ti atoms, i.e., in so-called Ti<sub>6</sub> octahedral cavities, as suggested in references [<xref rid="B38-materials-09-00755" ref-type="bibr">38</xref>,<xref rid="B39-materials-09-00755" ref-type="bibr">39</xref>]. Following this train of thought, the &#x003b1;<sub>2</sub> phase is argued to show the highest intrinsic solubility as it is the only phase in the compositional range of engineering TiAl alloys that intrinsically possesses this type of cavities, whereas the both other phases, &#x003b3; and &#x003b2;<sub>o</sub>, do not possess any. In case of the &#x003b3; phase a strong dependence of the maximum solubility for C is observed with respect to the Al concentration. In particular, toward the Al-lean off-stoichiometric composition, the C solubility increases [<xref rid="B39-materials-09-00755" ref-type="bibr">39</xref>]. This observation is justified by the argument that the excess of Ti atoms tend to occupy Al sites and, thereby, introduce Ti<sub>6</sub> octahedral cavities that can be occupied by C. Similarly, the addition of alloying elements, especially transition metal additions such as Nb, increases the solubility limit for interstitials in the &#x003b3; phase [<xref rid="B40-materials-09-00755" ref-type="bibr">40</xref>]. The mechanism is contended to be related to the fact that Nb preferentially occupies Ti sites [<xref rid="B41-materials-09-00755" ref-type="bibr">41</xref>,<xref rid="B42-materials-09-00755" ref-type="bibr">42</xref>] in the L1<sub>0</sub> lattice and, thus, similarly as in the case of off-stoichiometry introduces a surplus of Ti atoms, which relocate to the Al sites, whereby also similarly favorable cavities are created. In case of the &#x003b2;<sub>o</sub> phase there are no favorable sites present in the stoichiometric B2 structure, which can, however, not be introduced by substitution, as all transition metal atoms preferentially occupy Al sites [<xref rid="B85-materials-09-00755" ref-type="bibr">85</xref>]. Therefore, the &#x003b2;<sub>o</sub> phase is expected to show a very limited C solubility. In order to verify these theoretical considerations, the chemical composition of the individual phases of a model TNM alloy that was additionally alloyed with 0.75 at% C (TNM0.75C) was determined by APT in the homogenized condition after forging as reported in references [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B97-materials-09-00755" ref-type="bibr">97</xref>]. In agreement with the theory on C distribution, the C concentrations were found to follow the sequence <inline-formula><mml:math id="mm2"><mml:mrow><mml:mrow><mml:msubsup><mml:mi mathvariant="normal">c</mml:mi><mml:mrow><mml:msub><mml:mi mathvariant="sans-serif">&#x003b1;</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:mrow><mml:mi mathvariant="normal">C</mml:mi></mml:msubsup><mml:mtext>&#x000a0;</mml:mtext><mml:mo>&#x0003e;</mml:mo><mml:mtext>&#x000a0;</mml:mtext><mml:msubsup><mml:mi mathvariant="normal">c</mml:mi><mml:mi mathvariant="sans-serif">&#x003b3;</mml:mi><mml:mi mathvariant="normal">C</mml:mi></mml:msubsup><mml:mtext>&#x000a0;</mml:mtext><mml:mo>&#x0003e;</mml:mo><mml:mtext>&#x000a0;</mml:mtext><mml:msubsup><mml:mi mathvariant="normal">c</mml:mi><mml:mrow><mml:msub><mml:mi mathvariant="sans-serif">&#x003b2;</mml:mi><mml:mi mathvariant="normal">o</mml:mi></mml:msub></mml:mrow><mml:mi mathvariant="normal">C</mml:mi></mml:msubsup></mml:mrow></mml:mrow></mml:math></inline-formula> as indicated in <xref ref-type="fig" rid="materials-09-00755-f007">Figure 7</xref>.</p><p>Moreover, in this figure the local mechanical properties of the constituting phases as determined by nanoindentation are correlated with the global C concentration [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>]. Nanoindentation is, in this respect, a particularly suitable method as it allows withdrawing information about mechanical properties of individual microstructural constituents, which can be correlated to the local chemical compositions analyzed by APT. Apparently, &#x003b1;<sub>2</sub> and &#x003b3; show an increase in nano-hardness by the incorporation of C, which can be explained by a solid solution hardening mechanism as no carbides were observed in the investigated material condition. This effect is in agreement to the C concentrations determined by APT. The nano-hardness of the &#x003b2;<sub>o</sub> phase, however, decreases with increasing global C content, which is interesting to note, as the &#x003b2;<sub>o</sub> phase does not show any solubility for C. It has been evidenced in the literature that C is a strong stabilizer of the &#x003b1;<sub>2</sub> phase, while the phase fraction of &#x003b2;<sub>o</sub> is reduced by its incorporation [<xref rid="B23-materials-09-00755" ref-type="bibr">23</xref>]. As mentioned before, Mo tends to partition strongly to the &#x003b2;<sub>o</sub> phase, i.e., if the &#x003b2;<sub>o</sub> phase fraction is reduced, the amount of Mo in this phase increases. An increasing amount of Mo tends to inhibit the formation of &#x003c9;<sub>o</sub> phase as discussed in <xref ref-type="sec" rid="sec3dot3-materials-09-00755">Section 3.3</xref>. The absence of &#x003c9;<sub>o</sub> particles in the interior of the &#x003b2;<sub>o</sub> phase of the C-containing alloy, results in a reduced nano-hardness as no precipitation hardening contributes [<xref rid="B28-materials-09-00755" ref-type="bibr">28</xref>].</p><p>Research on C-containing TiAl alloys has, moreover, evidenced the significant impact of C on the microstructural stability in terms of resistance against discontinuous precipitation of lamellar structures [<xref rid="B24-materials-09-00755" ref-type="bibr">24</xref>] as well as reduced recrystallization kinetics after hot-working [<xref rid="B98-materials-09-00755" ref-type="bibr">98</xref>]. These effects, on the one hand, are due to the impaired redistribution of the strongly partitioning element C required for the formation of new grains during any kind of recrystallization. On the other hand, solute-drag effects may be responsible for a reduced interfacial mobility [<xref rid="B99-materials-09-00755" ref-type="bibr">99</xref>]. In order to visualize and quantify the presence and extent of such segregation effects, APT specimens were prepared site-specifically using a dual beam FIB as reported in references [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>,<xref rid="B75-materials-09-00755" ref-type="bibr">75</xref>]. A reconstruction and a proximity histogram of a TNM0.75C specimen are represented in <xref ref-type="fig" rid="materials-09-00755-f008">Figure 8</xref>. In this case the tip contains a &#x003b2;<sub>o</sub>/&#x003b3; interface and only the minor alloying elements Mo (in red) and C (in blue) are depicted. Obviously, an inhomogeneous distribution is evident in <xref ref-type="fig" rid="materials-09-00755-f008">Figure 8</xref>a corresponding to prevailing strong partitioning. The proximity histogram calculated across this interface demonstrates quantitatively significant local C enrichment in the vicinity of the interface with a local maximum C concentration of &#x02248;0.7 at%. This enrichment exemplifies clearly that interfacial segregation of C is existent, which in turn increases microstructural stability of TNM alloys, when alloyed with C [<xref rid="B23-materials-09-00755" ref-type="bibr">23</xref>,<xref rid="B24-materials-09-00755" ref-type="bibr">24</xref>].</p></sec></sec><sec id="sec4-materials-09-00755"><title>4. Characterization of Nano-Scaled Lamellar Structures: Effects of Silicon Addition</title><p>A further crucial alloying element that is often added to TiAl alloys is Si. Although its effect is controversially discussed in the literature, the general consensus points toward an increase in creep resistance via stabilization of the microstructure [<xref rid="B100-materials-09-00755" ref-type="bibr">100</xref>,<xref rid="B101-materials-09-00755" ref-type="bibr">101</xref>,<xref rid="B102-materials-09-00755" ref-type="bibr">102</xref>]. In particular, the precipitation of &#x003b6;-silicides (Ti<sub>5</sub>Si<sub>3</sub>) at lamellar interfaces is observed frequently in many alloy systems, which is argued to stabilize these interfaces as well as to reduce dislocation mobility. The specific precipitation mechanism, which ensues especially in two-phase alloys with a low &#x003b1;<sub>2</sub> volume fraction due to heat-treatment and creep, leads to aligned particles at lamellar interfaces [<xref rid="B103-materials-09-00755" ref-type="bibr">103</xref>]. The &#x003b1;<sub>2</sub> phase contains the most Si, while the solubility for Si is rather limited in the &#x003b3; phase. Hence, silicides precipitate once the &#x003b1;<sub>2</sub> phase fraction reaches a lower margin, which restricts also the global solubility for Si. However, advanced engineering TiAl alloys, such as the TNM alloy, typically contain higher amounts of &#x003b1;<sub>2</sub> phase and, furthermore, a varying amount of &#x003b2;<sub>o</sub> phase&#x02014;both of which may alter to evolving reaction sequence. Therefore, a nano-lamellar structure was generated via a two-step heat-treatment in a TNM alloy containing Si as reported in reference [<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>]. During the first heat-treatment step, the solution heat-treatment conducted above the &#x003b3;-solvus temperature, only disordered &#x003b1; and &#x003b2; phases are present [<xref rid="B88-materials-09-00755" ref-type="bibr">88</xref>,<xref rid="B104-materials-09-00755" ref-type="bibr">104</xref>]. On subsequent rapid cooling lamellar &#x003b3; phase formation is suppressed, which can be finely and homogeneously precipitated on ensuing annealing as demonstrated in references [<xref rid="B105-materials-09-00755" ref-type="bibr">105</xref>,<xref rid="B106-materials-09-00755" ref-type="bibr">106</xref>,<xref rid="B107-materials-09-00755" ref-type="bibr">107</xref>]. The annealing procedure is, thereby, typically conducted slightly above the envisaged service temperature. During this stage &#x003b3; lamellae form in the supersaturated &#x003b1;<sub>2</sub> grains upon sufficient thermal activation by the creation of two Shockley partial dislocations bordering a stacking fault that locally accomplishes the change in crystal structure [<xref rid="B108-materials-09-00755" ref-type="bibr">108</xref>,<xref rid="B109-materials-09-00755" ref-type="bibr">109</xref>,<xref rid="B110-materials-09-00755" ref-type="bibr">110</xref>]. <xref ref-type="fig" rid="materials-09-00755-f009">Figure 9</xref> depicts such a structure generated in a TNM<sup>+</sup> alloy (Ti-43.5Al-4Nb-1Mo-0.1B-0.3C-0.3Si in at%) after heat-treatment at 1340 &#x000b0;C for 15 min followed by oil quenching and subsequent annealing at 800 &#x000b0;C followed by furnace cooling. In <xref ref-type="fig" rid="materials-09-00755-f009">Figure 9</xref>a a SEM micrograph is shown, but the ultra-fine lamellar structure within the &#x003b1;<sub>2</sub>/&#x003b3; colonies cannot be resolved. Between these colonies the prior &#x003b2;<sub>o</sub> phase is visible, which decomposed during annealing into &#x003b3; platelets, &#x003c9;<sub>o</sub> particles and remaining &#x003b2;<sub>o</sub> phase. The lamellar structure can be resolved by TEM as depicted in <xref ref-type="fig" rid="materials-09-00755-f009">Figure 9</xref>b. The interfaces are clearly delineated and appear smooth without significant interfacial roughness. All &#x003b3; lamellae of a prior &#x003b1;<sub>2</sub> grain are aligned parallel due to the Blackburn OR [<xref rid="B108-materials-09-00755" ref-type="bibr">108</xref>]. Details regarding the mechanism of lamellar structure formation can be found in references [<xref rid="B33-materials-09-00755" ref-type="bibr">33</xref>,<xref rid="B109-materials-09-00755" ref-type="bibr">109</xref>,<xref rid="B110-materials-09-00755" ref-type="bibr">110</xref>]. Most importantly, no &#x003b6;-type precipitates are observed in the vicinity of the lamellar interfaces.</p><p>APT reconstructions of the individual alloying elements corresponding to the lamellar structure depicted in <xref ref-type="fig" rid="materials-09-00755-f009">Figure 9</xref> are shown in <xref ref-type="fig" rid="materials-09-00755-f010">Figure 10</xref>. In each image, the lamellar structure is apparent to a greater or lesser extent, corresponding to their partitioning between the &#x003b1;<sub>2</sub> and &#x003b3; lamellae. The partitioning of C and Si toward the &#x003b1;<sub>2</sub> phase is particularly distinct with Si showing a more pronounced tendency to partition to this phase, which is in agreement with reported literature data [<xref rid="B111-materials-09-00755" ref-type="bibr">111</xref>,<xref rid="B112-materials-09-00755" ref-type="bibr">112</xref>] (see <xref ref-type="sec" rid="sec3dot4-materials-09-00755">Section 3.4</xref> for a more detailed discussion of the accumulation of C in the &#x003b1;<sub>2</sub> phase). Although these elements show an isovalent electronic structure, the dominating mechanism must be different as C is dissolved interstitially, while Si is dissolved substitutionally as suggested in references [<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>,<xref rid="B85-materials-09-00755" ref-type="bibr">85</xref>] by ab initio calculations.</p><p>The chemical composition of the lamellar structure depicted in <xref ref-type="fig" rid="materials-09-00755-f010">Figure 10</xref> was quantified (<xref ref-type="table" rid="materials-09-00755-t002">Table 2</xref>) after separation of the adjacent phases by isoconcentration surfaces defined at a Ti value of 55 at%. Subsequently, the compositional evaluation was conducted by peak deconvolution, which is required due to overlaps in the mass spectrum by different chemical species due to the multi-component nature of the TiAl alloy investigated. The chemical composition of the &#x003b3; phase is comparably close to its equilibrium composition. However, a deficiency of Al is observed, which is interesting to note as Nb and Mo preferentially substitute for Ti [<xref rid="B41-materials-09-00755" ref-type="bibr">41</xref>,<xref rid="B85-materials-09-00755" ref-type="bibr">85</xref>]. It is, however, energetically favorable to substitute for Ti, which in turn relocates to Al sites as recently shown by ab initio calculations [<xref rid="B85-materials-09-00755" ref-type="bibr">85</xref>]. In case of the &#x003b1;<sub>2</sub> phase the off-stoichiometry is even more pronounced, i.e., the Ti concentration is reduced and the Al concentration is increased. Apparently, the surplus of Al occupies Ti sites and equivalently do the alloyed transition metal atoms in agreement with the data presented in <xref ref-type="fig" rid="materials-09-00755-f005">Figure 5</xref> and reference [<xref rid="B85-materials-09-00755" ref-type="bibr">85</xref>]. Nb shows in the lamellar structure a weak preference for the &#x003b3; phase, which has similarly been reported for the lamellar structure of two-phase alloys [<xref rid="B51-materials-09-00755" ref-type="bibr">51</xref>]. The opposite is occurring in case of Mo. As mentioned before both C and Si prefer to locate in the &#x003b1;<sub>2</sub> phase. In case of C this is due to the fact that this phase intrinsically possesses Ti<sub>6</sub> octahedral sites. Apparently, in case of Si the chemical environment and crystal structure of &#x003b1;<sub>2</sub> results in an energetically preferred environment, where it preferentially substitutes for Al [<xref rid="B85-materials-09-00755" ref-type="bibr">85</xref>]. These chemical details demonstrate the origin of the absence of &#x003b6;-silicides in TNM<sup>+</sup> alloys in the material condition investigated as suggested by Klein et al. [<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>]. The &#x003b1;<sub>2</sub> phase is capable of storing substantial amounts of Si and, therefore, dominates the global solubility limit. TNM alloys contain substantial amounts of &#x003b1;<sub>2</sub> phase due to lower amounts of Al in comparison to classic TiAl alloys. Hence, all Si present in the interior of each &#x003b1;<sub>2</sub>/&#x003b3; colony is dissolved and no interfacial precipitation occurs.</p></sec><sec id="sec5-materials-09-00755"><title>5. Conclusions</title><p>Intermetallic materials based on &#x003b3;-TiAl have become an engineering material class in the last years and are now increasingly incorporated into novel propulsion concepts in jet and automotive engines. Especially &#x003b2;-solidifying alloys, such as the TNM alloy, have shown to be processible using robust production routes and to achieve reasonable mechanical properties. APT has played a pivotal role in the understanding and the in-depth analysis of these alloys, which has been summarized in this work. APT has been shown to be a powerful characterization tool shedding light upon chemical phase composition, chemical fluctuations, i.e., early stages of precipitation by compositional clustering, partitioning behavior of elements as well as interface characteristics. These phenomena can often solely be analyzed when APT is employed. Thereby, valuable information for the understanding and enhancement of &#x003b3;-TiAl based alloys is generated. In this work, major findings using APT in correlation with other techniques have been reviewed in the context of existing literature. The major conclusions can be summarized as follows:
+<list list-type="bullet"><list-item><p>The chemical composition of all constituent phases (&#x003b3;, &#x003b1;<sub>2</sub>, &#x003b2;<sub>o</sub>) of a TNM alloy was determined. Preferential partitioning of Nb and Mo to the &#x003b2;<sub>o</sub> phase is discernable and the &#x003b1;<sub>2</sub> phase shows the highest impurity levels. The element B is mainly present in mono-borides.</p></list-item><list-item><p>Within the &#x003b2;<sub>o</sub> phase the precipitation of a further minor phase, the so-called &#x003c9;<sub>o</sub> phase, can be detected, which is depleted in the strong &#x003b2;-stabilizing element Mo.</p></list-item><list-item><p>Carbon, if alloyed to TNM alloys, preferentially resides in the &#x003b1;<sub>2</sub> phase, followed by the &#x003b3; phase. The &#x003b2;<sub>o</sub> phase appears to be completely depleted of C. In the microstructural condition investigated both &#x003b1;<sub>2</sub> and &#x003b3; phase are significantly strengthened by solid solution hardening due to the presence of the interstitial element C. However, the &#x003b2;<sub>o</sub> phase seems to soften by the addition of C, which stems from the fact that the presence of C yields a lower &#x003b2;<sub>o</sub> phase fraction, thereby increasing the Mo content in this phase, which in turn results in the suppression of the &#x003c9;<sub>o</sub> phase formation and its concomitant hardening effects. Carbon, moreover, tends to segregate to interfaces, which may result in lower interface mobilities, thus, stabilizing the microstructure.</p></list-item><list-item><p>In ultra-fine lamellar structures, Si preferentially occupies the &#x003b1;<sub>2</sub> phase, whereby neither interfacial segregation nor interfacial precipitation is observed in TNM<sup>+</sup> alloys, in contrast to other TiAl alloying systems, which is due to a substantial fraction of &#x003b1;<sub>2</sub> phase where Si is substitutionally dissolved.</p></list-item></list></p></sec></body><back><ack><title>Acknowledgments</title><p>Parts of the research presented in this review were conducted in the framework of the FFG project &#x0201c;energy drive&#x0201d;, Research Studios Austria, Austria, grant agreement No. 832040.</p></ack><notes><title>Author Contributions</title><p>All authors contributed equally to this work. T.K. wrote the bulk of the manuscript in collaboration with the other authors. The contribution of the authors to the experimental work is specified in the respective original works that are cited throughout this publication.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-materials-09-00755"><label>1.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Appel</surname><given-names>F.</given-names></name><name><surname>Paul</surname><given-names>J.D.H.</given-names></name><name><surname>Oehring</surname><given-names>M.</given-names></name></person-group>
+<source>Gamma Titanium Aluminide Alloys. Science and Technology</source>
+<publisher-name>Wiley-VCH</publisher-name>
+<publisher-loc>Weinheim, Germany</publisher-loc>
+<year>2011</year>
+</element-citation></ref><ref id="B2-materials-09-00755"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Design, Processing, Microstructure, Properties, and Applications of Advanced Intermetallic TiAl Alloys</article-title>
+<source>Adv. Eng. Mater.</source>
+<year>2013</year>
+<volume>15</volume>
+<fpage>191</fpage>
+<lpage>215</lpage>
+<pub-id pub-id-type="doi">10.1002/adem.201200231</pub-id>
+</element-citation></ref><ref id="B3-materials-09-00755"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>X.</given-names></name></person-group>
+<article-title>Review of alloy and process development of TiAl alloys</article-title>
+<source>Intermetallics</source>
+<year>2006</year>
+<volume>14</volume>
+<fpage>1114</fpage>
+<lpage>1122</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2005.10.019</pub-id>
+</element-citation></ref><ref id="B4-materials-09-00755"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>D.S.</given-names></name><name><surname>Pitari</surname><given-names>G.</given-names></name><name><surname>Grewe</surname><given-names>V.</given-names></name><name><surname>Gierens</surname><given-names>K.</given-names></name><name><surname>Penner</surname><given-names>J.E.</given-names></name><name><surname>Petzold</surname><given-names>A.</given-names></name><name><surname>Prather</surname><given-names>M.J.</given-names></name><name><surname>Schumann</surname><given-names>U.</given-names></name><name><surname>Bais</surname><given-names>A.</given-names></name><name><surname>Berntsen</surname><given-names>T.</given-names></name></person-group>
+<article-title>Transport impacts on atmosphere and climate: Aviation</article-title>
+<source>Atmos. Environ.</source>
+<year>2010</year>
+<volume>44</volume>
+<fpage>4678</fpage>
+<lpage>4734</lpage>
+<pub-id pub-id-type="doi">10.1016/j.atmosenv.2009.06.005</pub-id>
+</element-citation></ref><ref id="B5-materials-09-00755"><label>5.</label><element-citation publication-type="webpage">
+<article-title>ACARE Advisory Council for Aviation Research and Innovation in Europe</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.acare4europe.org/">http://www.acare4europe.org/</ext-link></comment>
+<date-in-citation>(accessed on 18 April 2016)</date-in-citation>
+</element-citation></ref><ref id="B6-materials-09-00755"><label>6.</label><element-citation publication-type="webpage">
+<article-title>European Commission Plans Legislative Framework to Ensure the EU Meets Its Target for Cutting CO<sub>2</sub> Emissions from Cars</article-title>
+<comment>European Comission Web Site</comment>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://europa.eu/rapid/press-release_IP-07-155_en.htm">http://europa.eu/rapid/press-release_IP-07-155_en.htm</ext-link></comment>
+<date-in-citation>(accessed on 18 April 2016)</date-in-citation>
+</element-citation></ref><ref id="B7-materials-09-00755"><label>7.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Bewlay</surname><given-names>B.P.</given-names></name><name><surname>Weimer</surname><given-names>M.</given-names></name><name><surname>Kelly</surname><given-names>T.</given-names></name><name><surname>Suzuki</surname><given-names>A.</given-names></name><name><surname>Subramanian</surname><given-names>P.R.</given-names></name></person-group>
+<article-title>The Science, Technology, and Implementation of TiAl Alloys in Commercial Aircraft Engines</article-title>
+<source>Intermetallic-Based Alloys&#x02014;Science, Technology and Applications</source>
+<person-group person-group-type="editor"><name><surname>Baker</surname><given-names>I.</given-names></name><name><surname>Heilmaier</surname><given-names>M.</given-names></name><name><surname>Kumar</surname><given-names>S.</given-names></name><name><surname>Yoshimi</surname><given-names>K.</given-names></name></person-group>
+<publisher-name>Cambridge University Press</publisher-name>
+<publisher-loc>Cambridge, UK</publisher-loc>
+<year>2013</year>
+<volume>Volume 1516</volume>
+<fpage>49</fpage>
+<lpage>58</lpage>
+</element-citation></ref><ref id="B8-materials-09-00755"><label>8.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Habel</surname><given-names>U.</given-names></name><name><surname>Heutling</surname><given-names>F.</given-names></name><name><surname>Helm</surname><given-names>D.</given-names></name><name><surname>Kunze</surname><given-names>C.</given-names></name><name><surname>Smarsly</surname><given-names>W.</given-names></name><name><surname>Das</surname><given-names>G.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name></person-group>
+<article-title>Forged Intermetallic &#x003b3;-TiAl Based Alloy Low Pressure Turbine Blade in the Geared Turbofan</article-title>
+<source>Proceedings of the 13th World Conference on Titanium</source>
+<conf-loc>San Diego, CA, USA</conf-loc>
+<conf-date>16&#x02013;20 August 2015</conf-date>
+<person-group person-group-type="editor"><name><surname>Venkatesh</surname><given-names>V.</given-names></name><name><surname>Pilchak</surname><given-names>A.L.</given-names></name><name><surname>Allison</surname><given-names>J.E.</given-names></name><name><surname>Ankem</surname><given-names>S.</given-names></name><name><surname>Boyer</surname><given-names>R.</given-names></name><name><surname>Christodoulou</surname><given-names>J.</given-names></name><name><surname>Fraser</surname><given-names>H.L.</given-names></name><name><surname>Ashraf Imam</surname><given-names>M.</given-names></name><name><surname>Kosaka</surname><given-names>Y.</given-names></name><name><surname>Rack</surname><given-names>H.J.</given-names></name><etal/></person-group>
+<publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name>
+<publisher-loc>Hoboken, NJ, USA</publisher-loc>
+<year>2016</year>
+<fpage>1223</fpage>
+<lpage>1227</lpage>
+</element-citation></ref><ref id="B9-materials-09-00755"><label>9.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Smarsly</surname><given-names>W.</given-names></name><name><surname>G&#x000fc;ther</surname><given-names>V.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Advanced Intermetallic Titanium Aluminides</article-title>
+<source>Proceedings of the 13th World Conference on Titanium</source>
+<conf-loc>San Diego, CA, USA</conf-loc>
+<conf-date>16&#x02013;20 August 2015</conf-date>
+<person-group person-group-type="editor"><name><surname>Venkatesh</surname><given-names>V.</given-names></name><name><surname>Pilchak</surname><given-names>A.L.</given-names></name><name><surname>Allison</surname><given-names>J.E.</given-names></name><name><surname>Ankem</surname><given-names>S.</given-names></name><name><surname>Boyer</surname><given-names>R.</given-names></name><name><surname>Christodoulou</surname><given-names>J.</given-names></name><name><surname>Fraser</surname><given-names>H.L.</given-names></name><name><surname>Imam</surname><given-names>M.A.</given-names></name><name><surname>Kosaka</surname><given-names>Y.</given-names></name><name><surname>Rack</surname><given-names>H.J.</given-names></name><etal/></person-group>
+<publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name>
+<publisher-loc>Hoboken, NJ, USA</publisher-loc>
+<year>2016</year>
+<fpage>1189</fpage>
+<lpage>1200</lpage>
+</element-citation></ref><ref id="B10-materials-09-00755"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Intermetallic titanium aluminides in aerospace applications&#x02014;Processing, microstructure and properties</article-title>
+<source>Mater. High Temp.</source>
+<year>2016</year>
+<volume>33</volume>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1080/09603409.2016.1163792</pub-id>
+</element-citation></ref><ref id="B11-materials-09-00755"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Intermetallic Titanium Aluminides as Innovative High Temperature Lightweight Structural Materials&#x02014;How Materialographic Methods Have Contributed to Their Development</article-title>
+<source>Pract. Metallogr.</source>
+<year>2015</year>
+<volume>52</volume>
+<fpage>691</fpage>
+<lpage>721</lpage>
+<pub-id pub-id-type="doi">10.3139/147.110366</pub-id>
+</element-citation></ref><ref id="B12-materials-09-00755"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Wallgram</surname><given-names>W.</given-names></name><name><surname>Kremmer</surname><given-names>S.</given-names></name><name><surname>G&#x000fc;ther</surname><given-names>V.</given-names></name><name><surname>Otto</surname><given-names>A.</given-names></name><name><surname>Bartels</surname><given-names>A.</given-names></name></person-group>
+<article-title>Design of Novel &#x003b2;-Solidifying TiAl Alloys with Adjustable &#x003b2;/B2-Phase Fraction and Excellent Hot-Workability</article-title>
+<source>Adv. Eng. Mater.</source>
+<year>2008</year>
+<volume>10</volume>
+<fpage>707</fpage>
+<lpage>713</lpage>
+<pub-id pub-id-type="doi">10.1002/adem.200800164</pub-id>
+</element-citation></ref><ref id="B13-materials-09-00755"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lasalmonie</surname><given-names>A.</given-names></name></person-group>
+<article-title>Intermetallics: Why is it so difficult to introduce them in gas turbine engines?</article-title>
+<source>Intermetallics</source>
+<year>2006</year>
+<volume>14</volume>
+<fpage>1123</fpage>
+<lpage>1129</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2006.01.064</pub-id>
+</element-citation></ref><ref id="B14-materials-09-00755"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>Y.-W.</given-names></name></person-group>
+<article-title>Effects of microstructure on the deformation and fracture of &#x003b3;-TiAl alloys</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>1995</year>
+<volume>192&#x02013;193</volume>
+<fpage>519</fpage>
+<lpage>533</lpage>
+<pub-id pub-id-type="doi">10.1016/0921-5093(94)03271-8</pub-id>
+</element-citation></ref><ref id="B15-materials-09-00755"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Imayev</surname><given-names>R.M.</given-names></name><name><surname>Imayev</surname><given-names>V.M.</given-names></name><name><surname>Oehring</surname><given-names>M.</given-names></name><name><surname>Appel</surname><given-names>F.</given-names></name></person-group>
+<article-title>Alloy design concepts for refined gamma titanium aluminide based alloys</article-title>
+<source>Intermetallics</source>
+<year>2007</year>
+<volume>15</volume>
+<fpage>451</fpage>
+<lpage>460</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2006.05.003</pub-id>
+</element-citation></ref><ref id="B16-materials-09-00755"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tetsui</surname><given-names>T.</given-names></name><name><surname>Shindo</surname><given-names>K.</given-names></name><name><surname>Kobayashi</surname><given-names>S.</given-names></name><name><surname>Takeyama</surname><given-names>M.</given-names></name></person-group>
+<article-title>A newly developed hot worked TiAl alloy for blades and structural components</article-title>
+<source>Scr. Mater.</source>
+<year>2002</year>
+<volume>47</volume>
+<fpage>399</fpage>
+<lpage>403</lpage>
+<pub-id pub-id-type="doi">10.1016/S1359-6462(02)00158-6</pub-id>
+</element-citation></ref><ref id="B17-materials-09-00755"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jin</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>J.N.</given-names></name><name><surname>Yang</surname><given-names>J.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Microstructure refinement of cast TiAl alloys by &#x003b2; solidification</article-title>
+<source>Scr. Mater.</source>
+<year>2004</year>
+<volume>51</volume>
+<fpage>113</fpage>
+<lpage>117</lpage>
+<pub-id pub-id-type="doi">10.1016/j.scriptamat.2004.03.044</pub-id>
+</element-citation></ref><ref id="B18-materials-09-00755"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wallgram</surname><given-names>W.</given-names></name><name><surname>Schm&#x000f6;lzer</surname><given-names>T.</given-names></name><name><surname>Cha</surname><given-names>L.</given-names></name><name><surname>Das</surname><given-names>G.</given-names></name><name><surname>G&#x000fc;ther</surname><given-names>V.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name></person-group>
+<article-title>Technology and mechanical properties of advanced &#x003b3;-TiAl based alloys</article-title>
+<source>Int. J. Mater. Res.</source>
+<year>2009</year>
+<volume>100</volume>
+<fpage>1021</fpage>
+<lpage>1030</lpage>
+<pub-id pub-id-type="doi">10.3139/146.110154</pub-id>
+</element-citation></ref><ref id="B19-materials-09-00755"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huber</surname><given-names>D.</given-names></name><name><surname>Werner</surname><given-names>R.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Stockinger</surname><given-names>M.</given-names></name></person-group>
+<article-title>Influence of process parameter variation during thermo-mechanical processing of an intermetallic &#x003b2;-stabilized &#x003b3;-TiAl based alloy</article-title>
+<source>Mater. Charact.</source>
+<year>2015</year>
+<volume>109</volume>
+<fpage>116</fpage>
+<lpage>121</lpage>
+<pub-id pub-id-type="doi">10.1016/j.matchar.2015.09.021</pub-id>
+</element-citation></ref><ref id="B20-materials-09-00755"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hecht</surname><given-names>U.</given-names></name><name><surname>Witusiewicz</surname><given-names>V.</given-names></name><name><surname>Drevermann</surname><given-names>A.</given-names></name><name><surname>Zollinger</surname><given-names>J.</given-names></name></person-group>
+<article-title>Grain refinement by low boron additions in niobium-rich TiAl-based alloys</article-title>
+<source>Intermetallics</source>
+<year>2008</year>
+<volume>16</volume>
+<fpage>969</fpage>
+<lpage>978</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2008.04.019</pub-id>
+</element-citation></ref><ref id="B21-materials-09-00755"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwaighofer</surname><given-names>E.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name><name><surname>Lindemann</surname><given-names>J.</given-names></name><name><surname>Klose</surname><given-names>J.</given-names></name><name><surname>Smarsly</surname><given-names>W.</given-names></name><name><surname>G&#x000fc;ther</surname><given-names>V.</given-names></name></person-group>
+<article-title>Microstructural design and mechanical properties of a cast and heat-treated intermetallic multi-phase &#x003b3;-TiAl based alloy</article-title>
+<source>Intermetallics</source>
+<year>2014</year>
+<volume>44</volume>
+<fpage>128</fpage>
+<lpage>140</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2013.09.010</pub-id>
+</element-citation></ref><ref id="B22-materials-09-00755"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klein</surname><given-names>T.</given-names></name><name><surname>Schachermayer</surname><given-names>M.</given-names></name><name><surname>Mendez-Martin</surname><given-names>F.</given-names></name><name><surname>Sch&#x000f6;berl</surname><given-names>T.</given-names></name><name><surname>Rashkova</surname><given-names>B.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Carbon distribution in multi-phase &#x003b3;-TiAl based alloys and its influence on mechanical properties and phase formation</article-title>
+<source>Acta Mater.</source>
+<year>2015</year>
+<volume>94</volume>
+<fpage>205</fpage>
+<lpage>213</lpage>
+<pub-id pub-id-type="doi">10.1016/j.actamat.2015.04.055</pub-id>
+</element-citation></ref><ref id="B23-materials-09-00755"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwaighofer</surname><given-names>E.</given-names></name><name><surname>Rashkova</surname><given-names>B.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Stark</surname><given-names>A.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Effect of carbon addition on solidification behavior, phase evolution and creep properties of an intermetallic &#x003b2;-stabilized &#x003b3;-TiAl based alloy</article-title>
+<source>Intermetallics</source>
+<year>2014</year>
+<volume>46</volume>
+<fpage>173</fpage>
+<lpage>184</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2013.11.011</pub-id>
+</element-citation></ref><ref id="B24-materials-09-00755"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kastenhuber</surname><given-names>M.</given-names></name><name><surname>Rashkova</surname><given-names>B.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Enhancement of creep properties and microstructural stability of intermetallic &#x003b2;-solidifying &#x003b3;-TiAl based alloys</article-title>
+<source>Intermetallics</source>
+<year>2015</year>
+<volume>63</volume>
+<fpage>19</fpage>
+<lpage>26</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2015.03.017</pub-id>
+</element-citation></ref><ref id="B25-materials-09-00755"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwaighofer</surname><given-names>E.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Lindemann</surname><given-names>J.</given-names></name><name><surname>Stark</surname><given-names>A.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Hot-working behavior of an advanced intermetallic multi-phase &#x003b3;-TiAl based alloy</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>2014</year>
+<volume>614</volume>
+<fpage>297</fpage>
+<lpage>310</lpage>
+<pub-id pub-id-type="doi">10.1016/j.msea.2014.07.040</pub-id>
+</element-citation></ref><ref id="B26-materials-09-00755"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bendersky</surname><given-names>L.A.</given-names></name><name><surname>Boettinger</surname><given-names>W.J.</given-names></name><name><surname>Burton</surname><given-names>B.P.</given-names></name><name><surname>Biancaniello</surname><given-names>F.S.</given-names></name><name><surname>Shoemaker</surname><given-names>C.B.</given-names></name></person-group>
+<article-title>The formation of ordered &#x003c9;-related phases in alloys of composition Ti<sub>4</sub>Al<sub>3</sub>Nb</article-title>
+<source>Acta Metall. Mater.</source>
+<year>1990</year>
+<volume>38</volume>
+<fpage>931</fpage>
+<lpage>943</lpage>
+<pub-id pub-id-type="doi">10.1016/0956-7151(90)90165-D</pub-id>
+</element-citation></ref><ref id="B27-materials-09-00755"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strychor</surname><given-names>R.</given-names></name><name><surname>Williams</surname><given-names>J.C.</given-names></name><name><surname>Soffa</surname><given-names>W.A.</given-names></name></person-group>
+<article-title>Phase transformations and modulated microstructures in Ti-Al-Nb alloys</article-title>
+<source>Metall. Trans. A</source>
+<year>1988</year>
+<volume>19</volume>
+<fpage>225</fpage>
+<lpage>234</lpage>
+<pub-id pub-id-type="doi">10.1007/BF02652530</pub-id>
+</element-citation></ref><ref id="B28-materials-09-00755"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schloffer</surname><given-names>M.</given-names></name><name><surname>Rashkova</surname><given-names>B.</given-names></name><name><surname>Sch&#x000f6;berl</surname><given-names>T.</given-names></name><name><surname>Schwaighofer</surname><given-names>E.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Evolution of the &#x003c9;<sub>o</sub> phase in a &#x003b2;-stabilized multi-phase TiAl alloy and its effect on hardness</article-title>
+<source>Acta Mater.</source>
+<year>2014</year>
+<volume>64</volume>
+<fpage>241</fpage>
+<lpage>252</lpage>
+<pub-id pub-id-type="doi">10.1016/j.actamat.2013.10.036</pub-id>
+</element-citation></ref><ref id="B29-materials-09-00755"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>L.</given-names></name><name><surname>Xu</surname><given-names>X.J.</given-names></name><name><surname>You</surname><given-names>L.</given-names></name><name><surname>Liang</surname><given-names>Y.F.</given-names></name><name><surname>Lin</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Phase transformation and decomposition mechanisms of the &#x003b2;<sub>o</sub>(&#x003c9;) phase in cast high Nb containing TiAl alloy</article-title>
+<source>J. Alloys Compd.</source>
+<year>2014</year>
+<volume>616</volume>
+<fpage>483</fpage>
+<lpage>491</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jallcom.2014.07.130</pub-id>
+</element-citation></ref><ref id="B30-materials-09-00755"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>L.</given-names></name><name><surname>Xu</surname><given-names>X.</given-names></name><name><surname>You</surname><given-names>L.</given-names></name><name><surname>Liang</surname><given-names>Y.</given-names></name><name><surname>Lin</surname><given-names>J.</given-names></name></person-group>
+<article-title>Ordered &#x003c9; phase transformations in Ti-45Al-8.5Nb-0.2B alloy</article-title>
+<source>Intermetallics</source>
+<year>2015</year>
+<volume>65</volume>
+<fpage>22</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2015.05.009</pub-id>
+</element-citation></ref><ref id="B31-materials-09-00755"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stark</surname><given-names>A.</given-names></name><name><surname>Bartels</surname><given-names>A.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Schimansky</surname><given-names>F.-P.</given-names></name></person-group>
+<article-title>On the Formation of Ordered &#x003c9;-phase in High Nb Containing &#x003b3;-TiAl Based Alloys</article-title>
+<source>Adv. Eng. Mater.</source>
+<year>2008</year>
+<volume>10</volume>
+<fpage>929</fpage>
+<lpage>934</lpage>
+<pub-id pub-id-type="doi">10.1002/adem.200800188</pub-id>
+</element-citation></ref><ref id="B32-materials-09-00755"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perdrix</surname><given-names>F.</given-names></name><name><surname>Trichet</surname><given-names>M.-F.</given-names></name><name><surname>Bonnentien</surname><given-names>J.-L.</given-names></name><name><surname>Cornet</surname><given-names>M.</given-names></name><name><surname>Bigot</surname><given-names>J.</given-names></name></person-group>
+<article-title>Relationships between interstitial content, microstructure and mechanical properties in fully lamellar Ti-48Al alloys, with special reference to carbon</article-title>
+<source>Intermetallics</source>
+<year>2001</year>
+<volume>9</volume>
+<fpage>807</fpage>
+<lpage>815</lpage>
+<pub-id pub-id-type="doi">10.1016/S0966-9795(01)00066-8</pub-id>
+</element-citation></ref><ref id="B33-materials-09-00755"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Denquin</surname><given-names>A.</given-names></name><name><surname>Naka</surname><given-names>S.</given-names></name></person-group>
+<article-title>Phase transformation mechanisms involved in two-phase TiAl-based alloys&#x02014;I. Lamellar structure formation</article-title>
+<source>Acta Mater.</source>
+<year>1996</year>
+<volume>44</volume>
+<fpage>343</fpage>
+<lpage>352</lpage>
+<pub-id pub-id-type="doi">10.1016/1359-6454(95)00167-4</pub-id>
+</element-citation></ref><ref id="B34-materials-09-00755"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Appel</surname><given-names>F.</given-names></name><name><surname>Wagner</surname><given-names>R.</given-names></name></person-group>
+<article-title>Microstructure and deformation of two-phase &#x003b3;-titanium aluminides</article-title>
+<source>Mater. Sci. Eng. R</source>
+<year>1998</year>
+<volume>22</volume>
+<fpage>187</fpage>
+<lpage>268</lpage>
+<pub-id pub-id-type="doi">10.1016/S0927-796X(97)00018-1</pub-id>
+</element-citation></ref><ref id="B35-materials-09-00755"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Denquin</surname><given-names>A.</given-names></name><name><surname>Naka</surname><given-names>S.</given-names></name><name><surname>Huguet</surname><given-names>A.</given-names></name><name><surname>Menand</surname><given-names>A.</given-names></name></person-group>
+<article-title>Atom-probe investigation of the partitioning of interstitial elements in two-phase &#x003b3;+&#x003b1;<sub>2</sub> TiAl-based alloys</article-title>
+<source>Scr. Metall. Mater.</source>
+<year>1993</year>
+<volume>28</volume>
+<fpage>1131</fpage>
+<lpage>1136</lpage>
+<pub-id pub-id-type="doi">10.1016/0956-716X(93)90022-K</pub-id>
+</element-citation></ref><ref id="B36-materials-09-00755"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Uemori</surname><given-names>R.</given-names></name><name><surname>Hanamura</surname><given-names>T.</given-names></name><name><surname>Morikawa</surname><given-names>H.</given-names></name></person-group>
+<article-title>Oxygen scavenging effect of the &#x003b1;<sub>2</sub> phase in the TiAl intermetallic compound</article-title>
+<source>Scr. Metall. Mater.</source>
+<year>1992</year>
+<volume>26</volume>
+<fpage>969</fpage>
+<lpage>974</lpage>
+<pub-id pub-id-type="doi">10.1016/0956-716X(92)90692-8</pub-id>
+</element-citation></ref><ref id="B37-materials-09-00755"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huguet</surname><given-names>A.</given-names></name><name><surname>Menand</surname><given-names>A.</given-names></name></person-group>
+<article-title>Atom-probe determination of interstitial element concentration in two-phase and single-phase TiAl-based alloys</article-title>
+<source>Appl. Surf. Sci.</source>
+<year>1994</year>
+<volume>76&#x02013;77</volume>
+<fpage>191</fpage>
+<lpage>197</lpage>
+<pub-id pub-id-type="doi">10.1016/0169-4332(94)90342-5</pub-id>
+</element-citation></ref><ref id="B38-materials-09-00755"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Menand</surname><given-names>A.</given-names></name><name><surname>Huguet</surname><given-names>A.</given-names></name><name><surname>N&#x000e9;rac-Partaix</surname><given-names>A.</given-names></name></person-group>
+<article-title>Interstitial solubility in &#x003b3; and &#x003b1;<sub>2</sub> phases of TiAl-based alloys</article-title>
+<source>Acta Mater.</source>
+<year>1996</year>
+<volume>44</volume>
+<fpage>4729</fpage>
+<lpage>4737</lpage>
+<pub-id pub-id-type="doi">10.1016/S1359-6454(96)00111-5</pub-id>
+</element-citation></ref><ref id="B39-materials-09-00755"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lefebvre</surname><given-names>W.</given-names></name><name><surname>Menand</surname><given-names>A.</given-names></name><name><surname>Loiseau</surname><given-names>A.</given-names></name><name><surname>Blavette</surname><given-names>D.</given-names></name></person-group>
+<article-title>Atom probe study of phase transformations in a Ti&#x02013;48 at.% Al alloy</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>2002</year>
+<volume>327</volume>
+<fpage>40</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="doi">10.1016/S0921-5093(01)01890-1</pub-id>
+</element-citation></ref><ref id="B40-materials-09-00755"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scheu</surname><given-names>C.</given-names></name><name><surname>Stergar</surname><given-names>E.</given-names></name><name><surname>Schober</surname><given-names>M.</given-names></name><name><surname>Cha</surname><given-names>L.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Bartels</surname><given-names>A.</given-names></name><name><surname>Schimansky</surname><given-names>F.-P.</given-names></name><name><surname>Cerezo</surname><given-names>A.</given-names></name></person-group>
+<article-title>High carbon solubility in a &#x003b3;-TiAl-based Ti&#x02013;45Al&#x02013;5Nb&#x02013;0.5C alloy and its effect on hardening</article-title>
+<source>Acta Mater.</source>
+<year>2009</year>
+<volume>57</volume>
+<fpage>1504</fpage>
+<lpage>1511</lpage>
+<pub-id pub-id-type="doi">10.1016/j.actamat.2008.11.037</pub-id>
+</element-citation></ref><ref id="B41-materials-09-00755"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boll</surname><given-names>T.</given-names></name><name><surname>Al-Kassab</surname><given-names>T.</given-names></name><name><surname>Yuan</surname><given-names>Y.</given-names></name><name><surname>Liu</surname><given-names>Z.G.</given-names></name></person-group>
+<article-title>Investigation of the site occupation of atoms in pure and doped TiAl/Ti<sub>3</sub>Al intermetallic</article-title>
+<source>Ultramicroscopy</source>
+<year>2007</year>
+<volume>107</volume>
+<fpage>796</fpage>
+<lpage>801</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ultramic.2007.02.011</pub-id>
+<pub-id pub-id-type="pmid">17482365</pub-id></element-citation></ref><ref id="B42-materials-09-00755"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Al-Kassab</surname><given-names>T.</given-names></name><name><surname>Yuan</surname><given-names>Y.</given-names></name><name><surname>Kluthe</surname><given-names>C.</given-names></name><name><surname>Boll</surname><given-names>T.</given-names></name><name><surname>Liu</surname><given-names>Z.-G.</given-names></name></person-group>
+<article-title>Investigation of the ordering and atomic site occupancies of Nb-doped TiAl/Ti<sub>3</sub>Al intermetallics</article-title>
+<source>Surf. Interface Anal.</source>
+<year>2007</year>
+<volume>39</volume>
+<fpage>257</fpage>
+<lpage>261</lpage>
+<pub-id pub-id-type="doi">10.1002/sia.2530</pub-id>
+</element-citation></ref><ref id="B43-materials-09-00755"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>B.G.</given-names></name><name><surname>Kim</surname><given-names>G.M.</given-names></name><name><surname>Kim</surname><given-names>C.J.</given-names></name></person-group>
+<article-title>Oxidation behavior of TiAl-X (X = Cr, V, Si, Mo or Nb) intermetallics at elevated temperature</article-title>
+<source>Scr. Metall. Mater.</source>
+<year>1995</year>
+<volume>33</volume>
+<fpage>1117</fpage>
+<lpage>1125</lpage>
+<pub-id pub-id-type="doi">10.1016/0956-716X(95)00327-R</pub-id>
+</element-citation></ref><ref id="B44-materials-09-00755"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>J.P.</given-names></name><name><surname>Zhao</surname><given-names>L.L.</given-names></name><name><surname>Li</surname><given-names>G.Y.</given-names></name><name><surname>Zhang</surname><given-names>L.Q.</given-names></name><name><surname>Song</surname><given-names>X.P.</given-names></name><name><surname>Ye</surname><given-names>F.</given-names></name><name><surname>Chen</surname><given-names>G.L.</given-names></name></person-group>
+<article-title>Effect of Nb on oxidation behavior of high Nb containing TiAl alloys</article-title>
+<source>Intermetallics</source>
+<year>2011</year>
+<volume>19</volume>
+<fpage>131</fpage>
+<lpage>136</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2010.08.029</pub-id>
+</element-citation></ref><ref id="B45-materials-09-00755"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pilone</surname><given-names>D.</given-names></name><name><surname>Felli</surname><given-names>F.</given-names></name><name><surname>Brotzu</surname><given-names>A.</given-names></name></person-group>
+<article-title>High temperature oxidation behaviour of TiAl&#x02013;Cr&#x02013;Nb&#x02013;Mo alloys</article-title>
+<source>Intermetallics</source>
+<year>2013</year>
+<volume>43</volume>
+<fpage>131</fpage>
+<lpage>137</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2013.07.023</pub-id>
+</element-citation></ref><ref id="B46-materials-09-00755"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paul</surname><given-names>J.D.H.</given-names></name><name><surname>Appel</surname><given-names>F.</given-names></name><name><surname>Wagner</surname><given-names>R.</given-names></name></person-group>
+<article-title>The compression behaviour of niobium alloyed &#x003b3;-titanium alumindies</article-title>
+<source>Acta Mater.</source>
+<year>1998</year>
+<volume>46</volume>
+<fpage>1075</fpage>
+<lpage>1085</lpage>
+<pub-id pub-id-type="doi">10.1016/S1359-6454(97)00332-7</pub-id>
+</element-citation></ref><ref id="B47-materials-09-00755"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Appel</surname><given-names>F.</given-names></name><name><surname>Paul</surname><given-names>J.D.H.</given-names></name><name><surname>Oehring</surname><given-names>M.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Fischer</surname><given-names>F.D.</given-names></name></person-group>
+<article-title>Physical metallurgy of high Nb-containing TiAl alloys</article-title>
+<source>Z. Metallkunde</source>
+<year>2004</year>
+<volume>95</volume>
+<fpage>585</fpage>
+<lpage>591</lpage>
+<pub-id pub-id-type="doi">10.3139/146.017992</pub-id>
+</element-citation></ref><ref id="B48-materials-09-00755"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qin</surname><given-names>G.W.</given-names></name><name><surname>Smith</surname><given-names>G.</given-names></name><name><surname>Inkson</surname><given-names>B.J.</given-names></name><name><surname>Dunin-Borkowski</surname><given-names>R.</given-names></name></person-group>
+<article-title>Distribution behaviour of alloying elements in &#x003b1;<sub>2</sub>(&#x003b1;)/&#x003b3; lamellae of TiAl-based alloy</article-title>
+<source>Intermetallics</source>
+<year>2000</year>
+<volume>8</volume>
+<fpage>945</fpage>
+<lpage>951</lpage>
+<pub-id pub-id-type="doi">10.1016/S0966-9795(00)00070-4</pub-id>
+</element-citation></ref><ref id="B49-materials-09-00755"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larson</surname><given-names>D.</given-names></name><name><surname>Liu</surname><given-names>C.</given-names></name><name><surname>Miller</surname><given-names>M.</given-names></name></person-group>
+<article-title>Microstructural characterization of segregation and precipitation in &#x003b1;<sub>2</sub> + &#x003b3; titanium aluminides</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>1997</year>
+<volume>239&#x02013;240</volume>
+<fpage>220</fpage>
+<lpage>228</lpage>
+<pub-id pub-id-type="doi">10.1016/S0921-5093(97)00585-6</pub-id>
+</element-citation></ref><ref id="B50-materials-09-00755"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larson</surname><given-names>D.</given-names></name><name><surname>Liu</surname><given-names>C.</given-names></name><name><surname>Miller</surname><given-names>M.</given-names></name></person-group>
+<article-title>The alloying effects of tantalum on the microstructure of an &#x003b1;<sub>2</sub> + &#x003b3; titanium aluminide</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>1999</year>
+<volume>270</volume>
+<fpage>1</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="doi">10.1016/S0921-5093(99)00233-6</pub-id>
+</element-citation></ref><ref id="B51-materials-09-00755"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gerstl</surname><given-names>S.</given-names></name><name><surname>Kim</surname><given-names>Y.-W.</given-names></name><name><surname>Seidman</surname><given-names>D.N.</given-names></name></person-group>
+<article-title>Atomic Scale Chemistry of &#x003b1;<sub>2</sub>/&#x003b3; Interfaces in a Multi-Component TiAl Alloy</article-title>
+<source>Interface Sci.</source>
+<year>2004</year>
+<volume>12</volume>
+<fpage>303</fpage>
+<lpage>310</lpage>
+<pub-id pub-id-type="doi">10.1023/B:INTS.0000028659.31526.2b</pub-id>
+</element-citation></ref><ref id="B52-materials-09-00755"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klein</surname><given-names>T.</given-names></name><name><surname>Rashkova</surname><given-names>B.</given-names></name><name><surname>Holec</surname><given-names>D.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Silicon distribution and silicide precipitation during annealing in an advanced multi-phase &#x003b3;-TiAl based alloy</article-title>
+<source>Acta Mater.</source>
+<year>2016</year>
+<volume>110</volume>
+<fpage>236</fpage>
+<lpage>245</lpage>
+<pub-id pub-id-type="doi">10.1016/j.actamat.2016.03.050</pub-id>
+</element-citation></ref><ref id="B53-materials-09-00755"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kainuma</surname><given-names>R.</given-names></name><name><surname>Fujita</surname><given-names>Y.</given-names></name><name><surname>Mitsui</surname><given-names>H.</given-names></name><name><surname>Ohnuma</surname><given-names>I.</given-names></name><name><surname>Ishida</surname><given-names>K.</given-names></name></person-group>
+<article-title>Phase equilibria among &#x003b1; (hcp), &#x003b2; (bcc) and &#x003b3; (L1<sub>0</sub>) phases in Ti&#x02013;Al base ternary alloys</article-title>
+<source>Intermetallics</source>
+<year>2000</year>
+<volume>8</volume>
+<fpage>855</fpage>
+<lpage>867</lpage>
+<pub-id pub-id-type="doi">10.1016/S0966-9795(00)00015-7</pub-id>
+</element-citation></ref><ref id="B54-materials-09-00755"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karthikeyan</surname><given-names>S.</given-names></name><name><surname>Viswanathan</surname><given-names>G.B.</given-names></name><name><surname>Gouma</surname><given-names>P.I.</given-names></name><name><surname>Vasudevan</surname><given-names>V.K.</given-names></name><name><surname>Kim</surname><given-names>Y.-W.</given-names></name><name><surname>Mills</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Mechanisms and effect of microstructure on creep of TiAl-based alloys</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>2002</year>
+<volume>329&#x02013;331</volume>
+<fpage>621</fpage>
+<lpage>630</lpage>
+<pub-id pub-id-type="doi">10.1016/S0921-5093(01)01659-8</pub-id>
+</element-citation></ref><ref id="B55-materials-09-00755"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karadge</surname><given-names>M.</given-names></name><name><surname>Kim</surname><given-names>Y.W.</given-names></name><name><surname>Gouma</surname><given-names>P.I.</given-names></name></person-group>
+<article-title>Synergistic precipitation strengthening in TiAl alloys</article-title>
+<source>Appl. Phys. Lett.</source>
+<year>2006</year>
+<volume>89</volume>
+<fpage>181921</fpage>
+<pub-id pub-id-type="doi">10.1063/1.2378432</pub-id>
+</element-citation></ref><ref id="B56-materials-09-00755"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larson</surname><given-names>D.J.</given-names></name><name><surname>Liu</surname><given-names>C.T.</given-names></name><name><surname>Miller</surname><given-names>M.K.</given-names></name></person-group>
+<article-title>Tungsten segregation in &#x003b1;<sub>2</sub> + &#x003b3; titanium aluminides</article-title>
+<source>Intermetallics</source>
+<year>1997</year>
+<volume>5</volume>
+<fpage>497</fpage>
+<lpage>500</lpage>
+<pub-id pub-id-type="doi">10.1016/S0966-9795(97)00026-5</pub-id>
+</element-citation></ref><ref id="B57-materials-09-00755"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gerstl</surname><given-names>S.</given-names></name><name><surname>Seidman</surname><given-names>D.</given-names></name></person-group>
+<article-title>Chemical and Structural Investigation of Internal Domains of Needle-Like Ti<sub>3</sub>AlC Carbide Precipitates in &#x003b3;-TiAl with 3-D Atom-Probe Tomography</article-title>
+<source>Microsc. Microanal.</source>
+<year>2006</year>
+<volume>12</volume>
+<fpage>1570</fpage>
+<lpage>1571</lpage>
+<pub-id pub-id-type="doi">10.1017/S1431927606068474</pub-id>
+</element-citation></ref><ref id="B58-materials-09-00755"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gerstl</surname><given-names>S.</given-names></name><name><surname>Seidman</surname><given-names>D.</given-names></name><name><surname>Gribb</surname><given-names>A.A.</given-names></name><name><surname>Kelly</surname><given-names>T.F.</given-names></name></person-group>
+<article-title>Leap microscopes look at TiAl alloys</article-title>
+<source>Adv. Mater. Proc.</source>
+<year>2004</year>
+<volume>162</volume>
+<fpage>31</fpage>
+<lpage>33</lpage>
+</element-citation></ref><ref id="B59-materials-09-00755"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Draper</surname><given-names>S.L.</given-names></name><name><surname>Isheim</surname><given-names>D.</given-names></name></person-group>
+<article-title>Environmental embrittlement of a third generation &#x003b3; TiAl alloy</article-title>
+<source>Intermetallics</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>77</fpage>
+<lpage>83</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2011.10.006</pub-id>
+</element-citation></ref><ref id="B60-materials-09-00755"><label>60.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>M.K.</given-names></name><name><surname>Cerezo</surname><given-names>A.</given-names></name><name><surname>Hetherington</surname><given-names>M.G.</given-names></name><name><surname>Smith</surname><given-names>G.</given-names></name></person-group>
+<source>Atom Probe Field Ion Microscopy</source>
+<publisher-name>Clarendon Press</publisher-name>
+<publisher-loc>Oxford, UK</publisher-loc>
+<year>1996</year>
+</element-citation></ref><ref id="B61-materials-09-00755"><label>61.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Gault</surname><given-names>B.</given-names></name></person-group>
+<source>Atom Probe Microscopy</source>
+<series>Springer Series in Materials Science 160</series>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2012</year>
+</element-citation></ref><ref id="B62-materials-09-00755"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marquis</surname><given-names>E.A.</given-names></name><name><surname>Hyde</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Applications of atom-probe tomography to the characterisation of solute behaviours</article-title>
+<source>Mater. Sci. Eng. R</source>
+<year>2010</year>
+<volume>69</volume>
+<fpage>37</fpage>
+<lpage>62</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mser.2010.05.001</pub-id>
+</element-citation></ref><ref id="B63-materials-09-00755"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kelly</surname><given-names>T.F.</given-names></name><name><surname>Camus</surname><given-names>P.P.</given-names></name><name><surname>Larson</surname><given-names>D.J.</given-names></name><name><surname>Holzman</surname><given-names>L.M.</given-names></name><name><surname>Bajikar</surname><given-names>S.S.</given-names></name></person-group>
+<article-title>On the many advantages of local-electrode atom probes</article-title>
+<source>Ultramicroscopy</source>
+<year>1996</year>
+<volume>62</volume>
+<fpage>29</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.1016/0304-3991(95)00086-0</pub-id>
+<pub-id pub-id-type="pmid">22666915</pub-id></element-citation></ref><ref id="B64-materials-09-00755"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kelly</surname><given-names>T.F.</given-names></name><name><surname>Miller</surname><given-names>M.K.</given-names></name></person-group>
+<article-title>Invited review article: Atom probe tomography</article-title>
+<source>Rev. Sci. Instrum.</source>
+<year>2007</year>
+<volume>78</volume>
+<fpage>31101</fpage>
+<pub-id pub-id-type="doi">10.1063/1.2709758</pub-id>
+<pub-id pub-id-type="pmid">17411171</pub-id></element-citation></ref><ref id="B65-materials-09-00755"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cerezo</surname><given-names>A.</given-names></name><name><surname>Clifton</surname><given-names>P.H.</given-names></name><name><surname>Galtrey</surname><given-names>M.J.</given-names></name><name><surname>Humphreys</surname><given-names>C.J.</given-names></name><name><surname>Kelly</surname><given-names>T.F.</given-names></name><name><surname>Larson</surname><given-names>D.J.</given-names></name><name><surname>Lozano-Perez</surname><given-names>S.</given-names></name><name><surname>Marquis</surname><given-names>E.A.</given-names></name><name><surname>Oliver</surname><given-names>R.A.</given-names></name><name><surname>Sha</surname><given-names>G.</given-names></name><etal/></person-group>
+<article-title>Atom probe tomography today</article-title>
+<source>Mater. Today</source>
+<year>2007</year>
+<volume>10</volume>
+<fpage>36</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.1016/S1369-7021(07)70306-1</pub-id>
+</element-citation></ref><ref id="B66-materials-09-00755"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>M.K.</given-names></name><name><surname>Forbes</surname><given-names>R.G.</given-names></name></person-group>
+<article-title>Atom probe tomography</article-title>
+<source>Mater. Charact.</source>
+<year>2009</year>
+<volume>60</volume>
+<fpage>461</fpage>
+<lpage>469</lpage>
+<pub-id pub-id-type="doi">10.1016/j.matchar.2009.02.007</pub-id>
+</element-citation></ref><ref id="B67-materials-09-00755"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>M.K.</given-names></name><name><surname>Kelly</surname><given-names>T.F.</given-names></name><name><surname>Rajan</surname><given-names>K.</given-names></name><name><surname>Ringer</surname><given-names>S.P.</given-names></name></person-group>
+<article-title>The future of atom probe tomography</article-title>
+<source>Mater. Today</source>
+<year>2012</year>
+<volume>15</volume>
+<fpage>158</fpage>
+<lpage>165</lpage>
+<pub-id pub-id-type="doi">10.1016/S1369-7021(12)70069-X</pub-id>
+</element-citation></ref><ref id="B68-materials-09-00755"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gault</surname><given-names>B.</given-names></name><name><surname>Moody</surname><given-names>M.P.</given-names></name><name><surname>Cairney</surname><given-names>J.M.</given-names></name><name><surname>Ringer</surname><given-names>S.P.</given-names></name></person-group>
+<article-title>Atom probe crystallography</article-title>
+<source>Mater. Today</source>
+<year>2012</year>
+<volume>15</volume>
+<fpage>378</fpage>
+<lpage>386</lpage>
+<pub-id pub-id-type="doi">10.1016/S1369-7021(12)70164-5</pub-id>
+</element-citation></ref><ref id="B69-materials-09-00755"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cairney</surname><given-names>J.M.</given-names></name><name><surname>Rajan</surname><given-names>K.</given-names></name><name><surname>Haley</surname><given-names>D.</given-names></name><name><surname>Gault</surname><given-names>B.</given-names></name><name><surname>Bagot</surname><given-names>P.A.J.</given-names></name><name><surname>Choi</surname><given-names>P.-P.</given-names></name><name><surname>Felfer</surname><given-names>P.J.</given-names></name><name><surname>Ringer</surname><given-names>S.P.</given-names></name><name><surname>Marceau</surname><given-names>R.K.W.</given-names></name><name><surname>Moody</surname><given-names>M.P.</given-names></name></person-group>
+<article-title>Mining information from atom probe data</article-title>
+<source>Ultramicroscopy</source>
+<year>2015</year>
+<volume>159</volume>
+<fpage>324</fpage>
+<lpage>337</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ultramic.2015.05.006</pub-id>
+<pub-id pub-id-type="pmid">26095825</pub-id></element-citation></ref><ref id="B70-materials-09-00755"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>M.K.</given-names></name><name><surname>Russell</surname><given-names>K.F.</given-names></name><name><surname>Thompson</surname><given-names>G.B.</given-names></name></person-group>
+<article-title>Strategies for fabricating atom probe specimens with a dual beam FIB</article-title>
+<source>Ultramicroscopy</source>
+<year>2005</year>
+<volume>102</volume>
+<fpage>287</fpage>
+<lpage>298</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ultramic.2004.10.011</pub-id>
+<pub-id pub-id-type="pmid">15694675</pub-id></element-citation></ref><ref id="B71-materials-09-00755"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>M.K.</given-names></name><name><surname>Russell</surname><given-names>K.F.</given-names></name></person-group>
+<article-title>Atom probe specimen preparation with a dual beam SEM/FIB miller</article-title>
+<source>Ultramicroscopy</source>
+<year>2007</year>
+<volume>107</volume>
+<fpage>761</fpage>
+<lpage>766</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ultramic.2007.02.023</pub-id>
+<pub-id pub-id-type="pmid">17403581</pub-id></element-citation></ref><ref id="B72-materials-09-00755"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>K.</given-names></name><name><surname>Lawrence</surname><given-names>D.</given-names></name><name><surname>Larson</surname><given-names>D.J.</given-names></name><name><surname>Olson</surname><given-names>J.D.</given-names></name><name><surname>Kelly</surname><given-names>T.F.</given-names></name><name><surname>Gorman</surname><given-names>B.</given-names></name></person-group>
+<article-title>In situ site-specific specimen preparation for atom probe tomography</article-title>
+<source>Ultramicroscopy</source>
+<year>2007</year>
+<volume>107</volume>
+<fpage>131</fpage>
+<lpage>139</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ultramic.2006.06.008</pub-id>
+<pub-id pub-id-type="pmid">16938398</pub-id></element-citation></ref><ref id="B73-materials-09-00755"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Felfer</surname><given-names>P.J.</given-names></name><name><surname>Alam</surname><given-names>T.</given-names></name><name><surname>Ringer</surname><given-names>S.P.</given-names></name><name><surname>Cairney</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>A reproducible method for damage-free site-specific preparation of atom probe tips from interfaces</article-title>
+<source>Microsc. Res. Tech.</source>
+<year>2012</year>
+<volume>75</volume>
+<fpage>484</fpage>
+<lpage>491</lpage>
+<pub-id pub-id-type="doi">10.1002/jemt.21081</pub-id>
+<pub-id pub-id-type="pmid">21956865</pub-id></element-citation></ref><ref id="B74-materials-09-00755"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Babinsky</surname><given-names>K.</given-names></name><name><surname>de Kloe</surname><given-names>R.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Primig</surname><given-names>S.</given-names></name></person-group>
+<article-title>A novel approach for site-specific atom probe specimen preparation by focused ion beam and transmission electron backscatter diffraction</article-title>
+<source>Ultramicroscopy</source>
+<year>2014</year>
+<volume>144</volume>
+<fpage>9</fpage>
+<lpage>18</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ultramic.2014.04.003</pub-id>
+<pub-id pub-id-type="pmid">24815026</pub-id></element-citation></ref><ref id="B75-materials-09-00755"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schachermayer</surname><given-names>M.</given-names></name><name><surname>Klein</surname><given-names>T.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Preparation Methods for Examining the &#x003c9;<sub>o</sub>-Phase Formation in a &#x003b2;-Solidifying TiAl Alloy via Atom Probe Tomography</article-title>
+<source>Pract. Metallogr.</source>
+<year>2016</year>
+<volume>53</volume>
+<fpage>73</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="doi">10.3139/147.110368</pub-id>
+</element-citation></ref><ref id="B76-materials-09-00755"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Herbig</surname><given-names>M.</given-names></name><name><surname>Choi</surname><given-names>P.</given-names></name><name><surname>Raabe</surname><given-names>D.</given-names></name></person-group>
+<article-title>Combining structural and chemical information at the nanometer scale by correlative transmission electron microscopy and atom probe tomography</article-title>
+<source>Ultramicroscopy</source>
+<year>2015</year>
+<volume>153</volume>
+<fpage>32</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ultramic.2015.02.003</pub-id>
+<pub-id pub-id-type="pmid">25723104</pub-id></element-citation></ref><ref id="B77-materials-09-00755"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>K.</given-names></name><name><surname>Gorman</surname><given-names>B.</given-names></name><name><surname>Larson</surname><given-names>D.</given-names></name><name><surname>van Leer</surname><given-names>B.</given-names></name><name><surname>Hong</surname><given-names>L.</given-names></name></person-group>
+<article-title>Minimization of Ga Induced FIB Damage Using Low Energy Clean-up</article-title>
+<source>Microsc. Microanal.</source>
+<year>2006</year>
+<volume>12</volume>
+<fpage>1736</fpage>
+<lpage>1737</lpage>
+<pub-id pub-id-type="doi">10.1017/S1431927606065457</pub-id>
+</element-citation></ref><ref id="B78-materials-09-00755"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takeyama</surname><given-names>M.</given-names></name><name><surname>Kobayashi</surname><given-names>S.</given-names></name></person-group>
+<article-title>Physical metallurgy for wrought gamma titanium aluminides</article-title>
+<source>Intermetallics</source>
+<year>2005</year>
+<volume>13</volume>
+<fpage>993</fpage>
+<lpage>999</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2004.12.014</pub-id>
+</element-citation></ref><ref id="B79-materials-09-00755"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmoelzer</surname><given-names>T.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name><name><surname>Sailer</surname><given-names>C.</given-names></name><name><surname>Haupt</surname><given-names>F.</given-names></name><name><surname>G&#x000fc;ther</surname><given-names>V.</given-names></name><name><surname>Staron</surname><given-names>P.</given-names></name><name><surname>Liss</surname><given-names>K.-D.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name></person-group>
+<article-title>In Situ Diffraction Experiments for the Investigation of Phase Fractions and Ordering Temperatures in Ti-44 at% Al-(3-7) at% Mo Alloys</article-title>
+<source>Adv. Eng. Mater.</source>
+<year>2011</year>
+<volume>13</volume>
+<fpage>306</fpage>
+<lpage>311</lpage>
+<pub-id pub-id-type="doi">10.1002/adem.201000263</pub-id>
+</element-citation></ref><ref id="B80-materials-09-00755"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holec</surname><given-names>D.</given-names></name><name><surname>Legut</surname><given-names>D.</given-names></name><name><surname>Isaeva</surname><given-names>L.</given-names></name><name><surname>Souvatzis</surname><given-names>P.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Interplay between effect of Mo and chemical disorder on the stability of &#x003b2;/&#x003b2;<sub>o</sub>-TiAl phase</article-title>
+<source>Intermetallics</source>
+<year>2015</year>
+<volume>61</volume>
+<fpage>85</fpage>
+<lpage>90</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2015.03.001</pub-id>
+</element-citation></ref><ref id="B81-materials-09-00755"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kabra</surname><given-names>S.</given-names></name><name><surname>Yan</surname><given-names>K.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name><name><surname>Schmoelzer</surname><given-names>T.</given-names></name><name><surname>Reid</surname><given-names>M.</given-names></name><name><surname>Dippenaar</surname><given-names>R.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Liss</surname><given-names>K.-D.</given-names></name></person-group>
+<article-title>Phase transition and ordering behavior of ternary Ti&#x02013;Al&#x02013;Mo alloys using in-situ neutron diffraction</article-title>
+<source>Int. J. Mater. Res.</source>
+<year>2011</year>
+<volume>102</volume>
+<fpage>697</fpage>
+<lpage>702</lpage>
+<pub-id pub-id-type="doi">10.3139/146.110528</pub-id>
+</element-citation></ref><ref id="B82-materials-09-00755"><label>82.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>G.</given-names></name><name><surname>Zhang</surname><given-names>W.J.</given-names></name><name><surname>Liu</surname><given-names>Z.C.</given-names></name><name><surname>Li</surname><given-names>S.J.</given-names></name><name><surname>Kim</surname><given-names>Y.-W.</given-names></name></person-group>
+<article-title>Microstructure and properties of high-Nb containing TiAl-base alloys</article-title>
+<source>Gamma Titanium Aluminides</source>
+<person-group person-group-type="editor"><name><surname>Kim</surname><given-names>Y.-W.</given-names></name><name><surname>Dimiduk</surname><given-names>D.M.</given-names></name><name><surname>Loretto</surname><given-names>M.H.</given-names></name></person-group>
+<publisher-name>The Minerals, Metals &#x00026; Materials Society</publisher-name>
+<publisher-loc>Warrendale, PA, USA</publisher-loc>
+<year>1999</year>
+<fpage>371</fpage>
+<lpage>380</lpage>
+</element-citation></ref><ref id="B83-materials-09-00755"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>G.L.</given-names></name><name><surname>Xu</surname><given-names>X.J.</given-names></name><name><surname>Teng</surname><given-names>Z.K.</given-names></name><name><surname>Wang</surname><given-names>Y.L.</given-names></name><name><surname>Lin</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Microsegregation in high Nb containing TiAl alloy ingots beyond laboratory scale</article-title>
+<source>Intermetallics</source>
+<year>2007</year>
+<volume>15</volume>
+<fpage>625</fpage>
+<lpage>631</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2006.10.003</pub-id>
+</element-citation></ref><ref id="B84-materials-09-00755"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Appel</surname><given-names>F.</given-names></name><name><surname>Oehring</surname><given-names>M.</given-names></name><name><surname>Wagner</surname><given-names>R.</given-names></name></person-group>
+<article-title>Novel design concepts for gamma-base titanium aluminide alloys</article-title>
+<source>Intermetallics</source>
+<year>2000</year>
+<volume>8</volume>
+<fpage>1283</fpage>
+<lpage>1312</lpage>
+<pub-id pub-id-type="doi">10.1016/S0966-9795(00)00036-4</pub-id>
+</element-citation></ref><ref id="B85-materials-09-00755"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holec</surname><given-names>D.</given-names></name><name><surname>Reddy</surname><given-names>R.K.</given-names></name><name><surname>Klein</surname><given-names>T.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name></person-group>
+<article-title>Preferential site occupancy of alloying elements in TiAl-based phases</article-title>
+<source>J. Appl. Phys.</source>
+<year>2016</year>
+<volume>119</volume>
+<fpage>205104</fpage>
+<pub-id pub-id-type="doi">10.1063/1.4951009</pub-id>
+</element-citation></ref><ref id="B86-materials-09-00755"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Appel</surname><given-names>F.</given-names></name><name><surname>Paul</surname><given-names>J.D.H.</given-names></name><name><surname>Oehring</surname><given-names>M.</given-names></name><name><surname>Fr&#x000f6;bel</surname><given-names>U.</given-names></name><name><surname>Lorenz</surname><given-names>U.</given-names></name></person-group>
+<article-title>Creep behavior of TiAl alloys with enhanced high-temperature capability</article-title>
+<source>Metall. Mater. Trans. A</source>
+<year>2003</year>
+<volume>34</volume>
+<fpage>2149</fpage>
+<lpage>2164</lpage>
+<pub-id pub-id-type="doi">10.1007/s11661-003-0279-6</pub-id>
+</element-citation></ref><ref id="B87-materials-09-00755"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hamzah</surname><given-names>E.</given-names></name><name><surname>Kanniah</surname><given-names>M.</given-names></name><name><surname>Harun</surname><given-names>M.</given-names></name></person-group>
+<article-title>Effect of Beta Phase on Room to High Temperature Mechanical Properties of As-Cast Gamma Titanium Aluminide</article-title>
+<source>Mech. Adv. Mater. Struct.</source>
+<year>2009</year>
+<volume>16</volume>
+<fpage>384</fpage>
+<lpage>389</lpage>
+<pub-id pub-id-type="doi">10.1080/15376490802710753</pub-id>
+</element-citation></ref><ref id="B88-materials-09-00755"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmoelzer</surname><given-names>T.</given-names></name><name><surname>Liss</surname><given-names>K.-D.</given-names></name><name><surname>Zickler</surname><given-names>G.A.</given-names></name><name><surname>Watson</surname><given-names>I.J.</given-names></name><name><surname>Droessler</surname><given-names>L.M.</given-names></name><name><surname>Wallgram</surname><given-names>W.</given-names></name><name><surname>Buslaps</surname><given-names>T.</given-names></name><name><surname>Studer</surname><given-names>A.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name></person-group>
+<article-title>Phase fractions, transition and ordering temperatures in TiAl&#x02013;Nb&#x02013;Mo alloys: An in- and ex-situ study</article-title>
+<source>Intermetallics</source>
+<year>2010</year>
+<volume>18</volume>
+<fpage>1544</fpage>
+<lpage>1552</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2010.04.008</pub-id>
+</element-citation></ref><ref id="B89-materials-09-00755"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>D.</given-names></name></person-group>
+<article-title>Role of boron in TiAl alloy development: A review</article-title>
+<source>Rare Met.</source>
+<year>2016</year>
+<volume>35</volume>
+<fpage>1</fpage>
+<lpage>14</lpage>
+<pub-id pub-id-type="doi">10.1007/s12598-015-0615-1</pub-id>
+</element-citation></ref><ref id="B90-materials-09-00755"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oehring</surname><given-names>M.</given-names></name><name><surname>Stark</surname><given-names>A.</given-names></name><name><surname>Paul</surname><given-names>J.D.H.</given-names></name><name><surname>Lippmann</surname><given-names>T.</given-names></name><name><surname>Pyczak</surname><given-names>F.</given-names></name></person-group>
+<article-title>Microstructural refinement of boron-containing &#x003b2;-solidifying &#x003b3;-titanium aluminide alloys through heat treatments in the &#x003b2; phase field</article-title>
+<source>Intermetallics</source>
+<year>2013</year>
+<volume>32</volume>
+<fpage>12</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2012.08.010</pub-id>
+</element-citation></ref><ref id="B91-materials-09-00755"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larson</surname><given-names>D.J.</given-names></name><name><surname>Liu</surname><given-names>C.T.</given-names></name><name><surname>Miller</surname><given-names>M.K.</given-names></name></person-group>
+<article-title>Boron solubility and boride compositions in &#x003b1;<sub>2</sub> + &#x003b3; titanium aluminides</article-title>
+<source>Intermetallics</source>
+<year>1997</year>
+<volume>5</volume>
+<fpage>411</fpage>
+<lpage>414</lpage>
+<pub-id pub-id-type="doi">10.1016/S0966-9795(97)00016-2</pub-id>
+</element-citation></ref><ref id="B92-materials-09-00755"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>L.</given-names></name><name><surname>Xu</surname><given-names>X.</given-names></name><name><surname>You</surname><given-names>L.</given-names></name><name><surname>Liang</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>Y.</given-names></name><name><surname>Lin</surname><given-names>J.</given-names></name></person-group>
+<article-title>Ordered &#x003b1;<sub>2</sub> to &#x003c9;<sub>o</sub> phase transformations in high Nb-containing TiAl alloys</article-title>
+<source>Acta Mater.</source>
+<year>2015</year>
+<volume>91</volume>
+<fpage>330</fpage>
+<lpage>339</lpage>
+<pub-id pub-id-type="doi">10.1016/j.actamat.2015.03.025</pub-id>
+</element-citation></ref><ref id="B93-materials-09-00755"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bystrzanowski</surname><given-names>S.</given-names></name><name><surname>Bartels</surname><given-names>A.</given-names></name><name><surname>Stark</surname><given-names>A.</given-names></name><name><surname>Gerling</surname><given-names>R.</given-names></name><name><surname>Schimansky</surname><given-names>F.-P.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name></person-group>
+<article-title>Evolution of microstructure and texture in Ti&#x02013;46Al&#x02013;9Nb sheet material during tensile flow at elevated temperatures</article-title>
+<source>Intermetallics</source>
+<year>2010</year>
+<volume>18</volume>
+<fpage>1046</fpage>
+<lpage>1055</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2010.01.036</pub-id>
+</element-citation></ref><ref id="B94-materials-09-00755"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sikka</surname><given-names>S.K.</given-names></name><name><surname>Vohra</surname><given-names>Y.K.</given-names></name><name><surname>Chidambaram</surname><given-names>R.</given-names></name></person-group>
+<article-title>Omega phase in materials</article-title>
+<source>Prog. Mater. Sci.</source>
+<year>1982</year>
+<volume>27</volume>
+<fpage>245</fpage>
+<lpage>310</lpage>
+<pub-id pub-id-type="doi">10.1016/0079-6425(82)90002-0</pub-id>
+</element-citation></ref><ref id="B95-materials-09-00755"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Worth</surname><given-names>B.D.</given-names></name><name><surname>Jones</surname><given-names>W.J.</given-names></name><name><surname>Allison</surname><given-names>J.E.</given-names></name></person-group>
+<article-title>Creep deformation in near-&#x003b3; TiAl: II. Influence of carbon on creep deformation in Ti-48Al-1V-0.3C</article-title>
+<source>Metall. Mater. Trans. A</source>
+<year>1995</year>
+<volume>26</volume>
+<fpage>2961</fpage>
+<lpage>2972</lpage>
+<pub-id pub-id-type="doi">10.1007/BF02669652</pub-id>
+</element-citation></ref><ref id="B96-materials-09-00755"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tian</surname><given-names>W.H.</given-names></name><name><surname>Nemoto</surname><given-names>M.</given-names></name></person-group>
+<article-title>Effect of carbon addition on the microstructures and mechanical properties of &#x003b3;-TiAl alloys</article-title>
+<source>Intermetallics</source>
+<year>1997</year>
+<volume>5</volume>
+<fpage>237</fpage>
+<lpage>244</lpage>
+<pub-id pub-id-type="doi">10.1016/S0966-9795(96)00086-6</pub-id>
+</element-citation></ref><ref id="B97-materials-09-00755"><label>97.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Klein</surname><given-names>T.</given-names></name><name><surname>Mendez-Martin</surname><given-names>F.</given-names></name><name><surname>Schachermayer</surname><given-names>M.</given-names></name><name><surname>Rashkova</surname><given-names>B.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>Distribution of Alloying Elements within the Constituent Phases of a C-containing &#x003b3;-TiAl Based Alloy studied by Atom Probe Tomography</article-title>
+<source>Advanced Structural and Functional Intermetallic-Based Alloys</source>
+<person-group person-group-type="editor"><name><surname>Baker</surname><given-names>I.</given-names></name><name><surname>Heilmaier</surname><given-names>M.</given-names></name><name><surname>Kishida</surname><given-names>K.</given-names></name><name><surname>Mills</surname><given-names>M.</given-names></name><name><surname>Miura</surname><given-names>S.</given-names></name></person-group>
+<publisher-name>Cambridge University Press</publisher-name>
+<publisher-loc>Cambridge, UK</publisher-loc>
+<year>2015</year>
+<volume>Volume 1760</volume>
+<fpage>7</fpage>
+<lpage>12</lpage>
+</element-citation></ref><ref id="B98-materials-09-00755"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stark</surname><given-names>A.</given-names></name><name><surname>Bartels</surname><given-names>A.</given-names></name><name><surname>Gerling</surname><given-names>R.</given-names></name><name><surname>Schimansky</surname><given-names>F.-P.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name></person-group>
+<article-title>Microstructure and Texture Formation during Hot Rolling of Niobium-Rich &#x003b3; TiAl Alloys with Different Carbon Contents</article-title>
+<source>Adv. Eng. Mater.</source>
+<year>2006</year>
+<volume>8</volume>
+<fpage>1101</fpage>
+<lpage>1108</lpage>
+<pub-id pub-id-type="doi">10.1002/adem.200600127</pub-id>
+</element-citation></ref><ref id="B99-materials-09-00755"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cahn</surname><given-names>J.W.</given-names></name></person-group>
+<article-title>The impurity-drag effect in grain boundary motion</article-title>
+<source>Acta Metall.</source>
+<year>1962</year>
+<volume>10</volume>
+<fpage>789</fpage>
+<lpage>798</lpage>
+<pub-id pub-id-type="doi">10.1016/0001-6160(62)90092-5</pub-id>
+</element-citation></ref><ref id="B100-materials-09-00755"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsuyama</surname><given-names>S.</given-names></name><name><surname>Mitao</surname><given-names>S.</given-names></name><name><surname>Minakawa</surname><given-names>K.-N.</given-names></name></person-group>
+<article-title>Alloy modification of &#x003b3;-base titanium aluminide for improved oxidation resistance, creep strength and fracture toughness</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>1992</year>
+<volume>153</volume>
+<fpage>451</fpage>
+<lpage>456</lpage>
+<pub-id pub-id-type="doi">10.1016/0921-5093(92)90236-T</pub-id>
+</element-citation></ref><ref id="B101-materials-09-00755"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Noda</surname><given-names>T.</given-names></name><name><surname>Okabe</surname><given-names>M.</given-names></name><name><surname>Isobe</surname><given-names>S.</given-names></name><name><surname>Sayashi</surname><given-names>M.</given-names></name></person-group>
+<article-title>Silicide precipitation strengthened TiAl</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>1995</year>
+<volume>192&#x02013;193</volume>
+<fpage>774</fpage>
+<lpage>779</lpage>
+<pub-id pub-id-type="doi">10.1016/0921-5093(94)03313-7</pub-id>
+</element-citation></ref><ref id="B102-materials-09-00755"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>Y.W.</given-names></name><name><surname>Kim</surname><given-names>S.L.</given-names></name></person-group>
+<article-title>Effects of microstructure and C and Si additions on elevated temperature creep and fatigue of gamma TiAl alloys</article-title>
+<source>Intermetallics</source>
+<year>2014</year>
+<volume>53</volume>
+<fpage>92</fpage>
+<lpage>101</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2014.04.006</pub-id>
+</element-citation></ref><ref id="B103-materials-09-00755"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karthikeyan</surname><given-names>S.</given-names></name><name><surname>Mills</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>The role of microstructural stability on compression creep of fully lamellar &#x003b3;-TiAl alloys</article-title>
+<source>Intermetallics</source>
+<year>2005</year>
+<volume>13</volume>
+<fpage>985</fpage>
+<lpage>992</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2004.12.020</pub-id>
+</element-citation></ref><ref id="B104-materials-09-00755"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Erdely</surname><given-names>P.</given-names></name><name><surname>Werner</surname><given-names>R.</given-names></name><name><surname>Schwaighofer</surname><given-names>E.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name></person-group>
+<article-title>In-situ study of the time-temperature-transformation behaviour of a multi-phase intermetallic &#x003b2;-stabilised TiAl alloy</article-title>
+<source>Intermetallics</source>
+<year>2015</year>
+<volume>57</volume>
+<fpage>17</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2014.09.011</pub-id>
+</element-citation></ref><ref id="B105-materials-09-00755"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cha</surname><given-names>L.</given-names></name><name><surname>Scheu</surname><given-names>C.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Chladil</surname><given-names>H.F.</given-names></name><name><surname>Dehm</surname><given-names>G.</given-names></name><name><surname>Gerling</surname><given-names>R.</given-names></name><name><surname>Bartels</surname><given-names>A.</given-names></name></person-group>
+<article-title>Nanometer-scaled lamellar microstructures in Ti&#x02013;45Al&#x02013;7.5Nb&#x02013;(0; 0.5)C alloys and their influence on hardness</article-title>
+<source>Intermetallics</source>
+<year>2008</year>
+<volume>16</volume>
+<fpage>868</fpage>
+<lpage>875</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2008.03.009</pub-id>
+</element-citation></ref><ref id="B106-materials-09-00755"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cha</surname><given-names>L.</given-names></name><name><surname>Schmoelzer</surname><given-names>T.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Staron</surname><given-names>P.</given-names></name><name><surname>Dehm</surname><given-names>G.</given-names></name></person-group>
+<article-title>In Situ Study of &#x003b3;-TiAl Lamellae Formation in Supersaturated &#x003b1;<sub>2</sub>-Ti<sub>3</sub>Al grains</article-title>
+<source>Adv. Eng. Mater.</source>
+<year>2012</year>
+<volume>14</volume>
+<fpage>299</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="doi">10.1002/adem.201100272</pub-id>
+</element-citation></ref><ref id="B107-materials-09-00755"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>San Juan</surname><given-names>J.</given-names></name><name><surname>Simas</surname><given-names>P.</given-names></name><name><surname>Schmoelzer</surname><given-names>T.</given-names></name><name><surname>Clemens</surname><given-names>H.</given-names></name><name><surname>Mayer</surname><given-names>S.</given-names></name><name><surname>N&#x000f3;</surname><given-names>M.L.</given-names></name></person-group>
+<article-title>Atomic relaxation processes in an intermetallic Ti&#x02013;43Al&#x02013;4Nb&#x02013;1Mo&#x02013;0.1B alloy studied by mechanical spectroscopy</article-title>
+<source>Acta Mater.</source>
+<year>2014</year>
+<volume>65</volume>
+<fpage>338</fpage>
+<lpage>350</lpage>
+<pub-id pub-id-type="doi">10.1016/j.actamat.2013.10.075</pub-id>
+</element-citation></ref><ref id="B108-materials-09-00755"><label>108.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Blackburn</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Some aspects of phase transformations in titanium alloys</article-title>
+<source>The Science, Technology and Application of Titanium</source>
+<person-group person-group-type="editor"><name><surname>Jaffee</surname><given-names>R.I.</given-names></name><name><surname>Promisel</surname><given-names>N.E.</given-names></name></person-group>
+<publisher-name>Pergamom Press</publisher-name>
+<publisher-loc>Oxford, UK</publisher-loc>
+<year>1970</year>
+</element-citation></ref><ref id="B109-materials-09-00755"><label>109.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pond</surname><given-names>R.C.</given-names></name><name><surname>Shang</surname><given-names>P.</given-names></name><name><surname>Cheng</surname><given-names>T.T.</given-names></name><name><surname>Aindow</surname><given-names>M.</given-names></name></person-group>
+<article-title>Interfacial dislocation mechanism for diffusional phase transformations exhibiting martensitic crystallography: Formation of TiAl + Ti<sub>3</sub>Al lamellae</article-title>
+<source>Acta Mater.</source>
+<year>2000</year>
+<volume>48</volume>
+<fpage>1047</fpage>
+<lpage>1053</lpage>
+<pub-id pub-id-type="doi">10.1016/S1359-6454(99)00416-4</pub-id>
+</element-citation></ref><ref id="B110-materials-09-00755"><label>110.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zghal</surname><given-names>S.</given-names></name><name><surname>Thomas</surname><given-names>M.</given-names></name><name><surname>Naka</surname><given-names>S.</given-names></name><name><surname>Finel</surname><given-names>A.</given-names></name><name><surname>Couret</surname><given-names>A.</given-names></name></person-group>
+<article-title>Phase transformations in TiAl based alloys</article-title>
+<source>Acta Mater.</source>
+<year>2005</year>
+<volume>53</volume>
+<fpage>2653</fpage>
+<lpage>2664</lpage>
+<pub-id pub-id-type="doi">10.1016/j.actamat.2005.02.025</pub-id>
+</element-citation></ref><ref id="B111-materials-09-00755"><label>111.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hsu</surname><given-names>F.-Y.</given-names></name><name><surname>Klaar</surname><given-names>H.-J.</given-names></name><name><surname>Wang</surname><given-names>G.-X.</given-names></name><name><surname>Dahms</surname><given-names>M.</given-names></name></person-group>
+<article-title>Influence of Si content on microstructure of TiAl alloys</article-title>
+<source>Mater. Charact.</source>
+<year>1996</year>
+<volume>36</volume>
+<fpage>371</fpage>
+<lpage>378</lpage>
+<pub-id pub-id-type="doi">10.1016/S1044-5803(96)00040-X</pub-id>
+</element-citation></ref><ref id="B112-materials-09-00755"><label>112.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>Z.W.</given-names></name></person-group>
+<article-title>Thermal stability of Ti-44Al-4Nb-4Hf-0.2Si-1B alloy</article-title>
+<source>Intermetallics</source>
+<year>2013</year>
+<volume>37</volume>
+<fpage>11</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="doi">10.1016/j.intermet.2013.01.011</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig id="materials-09-00755-f001" position="float"><label>Figure 1</label><caption><p>Cast and hot-isostatically pressed (cast/HIP) microstructure of a TNM alloy taken by scanning electron microscopy (SEM) in back-scattered electron (BSE) mode. The microstructure comprises of &#x003b3;, &#x003b1;<sub>2</sub>, and &#x003b2;<sub>o</sub> phase of globular morphology as well as of &#x003b1;<sub>2</sub>/&#x003b3; colonies with &#x003b2;<sub>o</sub> precipitates in between (secondary precipitates). The &#x003b3; phase appears dark gray, the &#x003b1;<sub>2</sub> phase is light gray and the &#x003b2;<sub>o</sub> phase shows the brightest contrast. Moreover, a rod-shaped Ti-boride is visible at the bottom of this image.</p></caption><graphic xlink:href="materials-09-00755-g001"/></fig><fig id="materials-09-00755-f002" position="float"><label>Figure 2</label><caption><p>Scheme of the major components present in a local electrode atom probe (LEAP) redrawn after reference [<xref rid="B62-materials-09-00755" ref-type="bibr">62</xref>]. Surface atoms near the tip&#x02019;s apex are evaporated either by high voltage or laser pulses and accelerated by standing voltage toward the position sensitive detector. Time-of-flight mass spectroscopy allows for identification of the chemical identity; position determination enables a three-dimensional reconstruction of the measured specimen volume.</p></caption><graphic xlink:href="materials-09-00755-g002"/></fig><fig id="materials-09-00755-f003" position="float"><label>Figure 3</label><caption><p>Scheme of the specimen preparation routine by electropolishing. The sample material is cut into prismatic blanks and mounted into Cu crimps. Subsequently, these blanks are etched and sharpened using three steps, the first two resulting in a raw tip-shaped geometry, which has, however, to be further sharpened using a microloop procedure denoted as Step 3. Drawn after references [<xref rid="B60-materials-09-00755" ref-type="bibr">60</xref>,<xref rid="B61-materials-09-00755" ref-type="bibr">61</xref>].</p></caption><graphic xlink:href="materials-09-00755-g003"/></fig><fig id="materials-09-00755-f004" position="float"><label>Figure 4</label><caption><p>Scheme of the atom probe tomography (APT) specimen preparation by lift-out technique. In the first step a region of interest is identified using SEM and subsequently protected from Ga implantation by a Pt deposit. Contiguous material is then excavated at both sides generating a lamella, which can then be removed using a micromanipulator. Following this sequence, parts of the lamella can be transferred to any kind of suitable pre-tip. Once mounted, the final tip shape can be obtained by annular milling. Schematically redrawn according to references [<xref rid="B70-materials-09-00755" ref-type="bibr">70</xref>,<xref rid="B71-materials-09-00755" ref-type="bibr">71</xref>].</p></caption><graphic xlink:href="materials-09-00755-g004"/></fig><fig id="materials-09-00755-f005" position="float"><label>Figure 5</label><caption><p>Phase composition of a TNM alloy in the homogenized condition. Concentrations of the major alloying elements, Ti and Al, are displayed on the left ordinate, whereas concentrations of the minor alloying elements, Nb, Mo as well as impurities denoted as &#x0201c;Other&#x0201d; are given on the right ordinate. Titanium shows a slightly higher concentration in &#x003b1;<sub>2</sub> and &#x003b2;<sub>o</sub> than in the &#x003b3; phase and at the same time the Al concentration is reduced. This enormous difference in phase composition in comparison to the ideal binary phases (Ti<sub>3</sub>Al and TiAl, respectively) is due to preferred lattice site occupation of transition metal atoms on Ti sites in the &#x003b1;<sub>2</sub> phase and Al sites in the &#x003b2;<sub>o</sub> phase. Nb and Mo both show a tendency to accumulate in the &#x003b2;<sub>o</sub> phase corresponding to their well-established &#x003b2;-stabilizing effect, which is more pronounced in case of Mo. Impurities, mainly constituted by interstitial elements like C, N or O (here their sum is referred to as &#x0201c;Other&#x0201d;), prefer to locate in the &#x003b1;<sub>2</sub> phase.</p></caption><graphic xlink:href="materials-09-00755-g005"/></fig><fig id="materials-09-00755-f006" position="float"><label>Figure 6</label><caption><p>APT reconstruction containing &#x003b2;<sub>o</sub> and &#x003c9;<sub>o</sub> phase and proximity histogram. (<bold>a</bold>) Only Nb (green) and Mo atoms (red) are indicated for clarity. Moreover, isoconcentration surfaces have been generated at 1.3 at% Mo. These interfaces clearly separate regions of &#x003b2;<sub>o</sub> and &#x003c9;<sub>o</sub> phase. &#x003c9;<sub>o</sub> precipitates show parallel arrangements, which correspond to the predominating orientation relationship (OR) (see text); (<bold>b</bold>) Concentration profiles calculated as proximity histograms across the interfaces depicted in (<bold>a</bold>) are shown. The concentration of Al remains nearly unaltered, whereas Mo and Nb on the one hand and Ti on the other hand show an opposing partitioning behavior.</p></caption><graphic xlink:href="materials-09-00755-g006"/></fig><fig id="materials-09-00755-f007" position="float"><label>Figure 7</label><caption><p>Hardness as measured by nanoindentation of the individual phases of a TNM alloy and a C-containing derivative, TNM0.75C. The error bars indicated correspond to the standard errors of the mean. In the C-free state the &#x003b2;<sub>o</sub> phase is the hardest phase followed by &#x003b1;<sub>2</sub> and &#x003b3;. By alloying with C, the latter two phases harden via solid solution hardening, whereas the &#x003b2;<sub>o</sub> phase softens due to the absence of &#x003c9;<sub>o</sub> particles. The C concentration of each individual phase of both alloys as measured by APT is labeled next to the respective hardness values. Dashed lines are indicated only to guide the eye.</p></caption><graphic xlink:href="materials-09-00755-g007"/></fig><fig id="materials-09-00755-f008" position="float"><label>Figure 8</label><caption><p>(<bold>a</bold>) APT reconstruction of a TNM0.75C specimen containing a &#x003b2;<sub>o</sub>/&#x003b3; interface; and (<bold>b</bold>) C proximity histogram across this interface. (<bold>a</bold>) A clearly inhomogeneous distribution of the alloying elements Mo (red) and C (blue) across the interface is visible. The interface indicated corresponds to a Mo isoconcentration surface, which shows the most pronounced concentration gradient. The histogram in (<bold>b</bold>) evidences significant segregation of C to the &#x003b2;<sub>o</sub>/&#x003b3; interface, with a local maximum C concentration of &#x02248;0.7 at%. (Reprinted with permission from [<xref rid="B22-materials-09-00755" ref-type="bibr">22</xref>], Copyright&#x000a9; 2015, Elsevier).</p></caption><graphic xlink:href="materials-09-00755-g008"/></fig><fig id="materials-09-00755-f009" position="float"><label>Figure 9</label><caption><p>Microstructure after two-step heat-treatment taken by (<bold>a</bold>) SEM in BSE mode and (<bold>b</bold>) transmission electron miscroscopy (TEM) bright field image, as reported in reference [<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>]. Prior supersaturated &#x003b1;<sub>2</sub> grains have decomposed to &#x003b1;<sub>2</sub>/&#x003b3; colonies, which cannot be resolved using SEM. Lamellae of each grain show only one orientation variant according to the Blackburn OR. Between lamellar colonies &#x003b2;<sub>o</sub> phase and several transformation products are visible (see text). The nano-lamellar structure can be evidenced by TEM (<bold>b</bold>), where the specimen has been tilted into edge-on condition.</p></caption><graphic xlink:href="materials-09-00755-g009"/></fig><fig id="materials-09-00755-f010" position="float"><label>Figure 10</label><caption><p>Reconstructions of the lamellar structure of a TNM<sup>+</sup> alloy. In all images, the lamellar structure is visible to different extents corresponding to different partitioning ratios. Carbon shows a tendency to accumulate in the &#x003b1;<sub>2</sub> phase and Si partitions even more pronounced to this phase. See <xref ref-type="table" rid="materials-09-00755-t002">Table 2</xref> for quantitative analysis.</p></caption><graphic xlink:href="materials-09-00755-g010"/></fig><table-wrap id="materials-09-00755-t001" position="float"><object-id pub-id-type="pii">materials-09-00755-t001_Table 1</object-id><label>Table 1</label><caption><p>Boride composition determined as reported in reference [<xref rid="B91-materials-09-00755" ref-type="bibr">91</xref>] and in the present work. The standard error is given next to each concentration. Both particles correspond to mono-borides in accordance with a MB stoichiometry, where M represents the constituting metal atoms.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Alloy</th><th colspan="6" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Element Concentration (at%)</th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">B</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ti</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Al</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nb</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mo</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Other</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">TIA-20 [<xref rid="B91-materials-09-00755" ref-type="bibr">91</xref>] <sup>1</sup></td><td align="center" valign="middle" rowspan="1" colspan="1">52.0 &#x000b1; 3.2</td><td align="center" valign="middle" rowspan="1" colspan="1">46.3 &#x000b1; 3.2</td><td align="center" valign="middle" rowspan="1" colspan="1">0.4 &#x000b1; 0.4</td><td align="center" valign="middle" rowspan="1" colspan="1">1.2 &#x000b1; 0.7</td><td align="center" valign="middle" rowspan="1" colspan="1">-</td><td align="center" valign="middle" rowspan="1" colspan="1">0.1</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">TNM (present study)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">45.1 &#x000b1; 0.01</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">47.0 &#x000b1; 0.01</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">-</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">6.8 &#x000b1; 0.03</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.1 &#x000b1; 0.04</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.0</td></tr></tbody></table><table-wrap-foot><fn><p><sup>1</sup> Actual alloy composition: Ti-47Al-2Cr-2Nb-0.15B (at%).</p></fn></table-wrap-foot></table-wrap><table-wrap id="materials-09-00755-t002" position="float"><object-id pub-id-type="pii">materials-09-00755-t002_Table 2</object-id><label>Table 2</label><caption><p>Phase composition of the lamellar structure depicted in <xref ref-type="fig" rid="materials-09-00755-f010">Figure 10</xref> as studied in reference [<xref rid="B52-materials-09-00755" ref-type="bibr">52</xref>]. The errors given correspond to the standard errors. Nb shows a weak preference for the &#x003b3; phase, whereas Mo evidences a weak preference for the &#x003b1;<sub>2</sub> phase. C and Si prefer to locate in the &#x003b1;<sub>2</sub> phase.</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="2" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" colspan="1">Phase</th><th colspan="7" align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1">Element Concentration (at%)</th></tr><tr><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ti</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Al</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Nb</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Mo</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">C</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Si</th><th align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Other</th></tr></thead><tbody><tr><td align="center" valign="middle" rowspan="1" colspan="1">&#x003b3;</td><td align="center" valign="middle" rowspan="1" colspan="1">49.8 &#x000b1; 0.02</td><td align="center" valign="middle" rowspan="1" colspan="1">44.8 &#x000b1; 0.02</td><td align="center" valign="middle" rowspan="1" colspan="1">4.01 &#x000b1; 0.03</td><td align="center" valign="middle" rowspan="1" colspan="1">0.85 &#x000b1; 0.03</td><td align="center" valign="middle" rowspan="1" colspan="1">0.16 &#x000b1; 0.03</td><td align="center" valign="middle" rowspan="1" colspan="1">0.21 &#x000b1; 0.02</td><td align="center" valign="middle" rowspan="1" colspan="1">0.17</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">&#x003b1;<sub>2</sub></td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">61.4 &#x000b1; 0.03</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">32.1 &#x000b1; 0.05</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3.90 &#x000b1; 0.05</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">1.14 &#x000b1; 0.06</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.35 &#x000b1; 0.06</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.51 &#x000b1; 0.06</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">0.60</td></tr></tbody></table></table-wrap></floats-group></article>

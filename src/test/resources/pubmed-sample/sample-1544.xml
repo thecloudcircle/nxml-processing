@@ -1,0 +1,575 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mov Disord</journal-id><journal-id journal-id-type="iso-abbrev">Mov. Disord</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1531-8257</journal-id><journal-id journal-id-type="publisher-id">MDS</journal-id><journal-title-group><journal-title>Movement Disorders</journal-title></journal-title-group><issn pub-type="ppub">0885-3185</issn><issn pub-type="epub">1531-8257</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">30615804</article-id><article-id pub-id-type="pmc">6420367</article-id><article-id pub-id-type="doi">10.1002/mds.27603</article-id><article-id pub-id-type="publisher-id">MDS27603</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>
+<sup>18</sup>F&#x02010;AV&#x02010;1451 uptake differs between dementia with lewy bodies and posterior cortical atrophy</article-title><alt-title alt-title-type="right-running-head">AV&#x02010;1451 Uptake Differs Between DLB and PCA</alt-title><alt-title alt-title-type="left-running-head">Nedelska et al</alt-title></title-group><contrib-group><contrib id="mds27603-cr-0001" contrib-type="author"><name><surname>Nedelska</surname><given-names>Zuzana</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3269-2115</contrib-id><xref ref-type="aff" rid="mds27603-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mds27603-cr-0002" contrib-type="author"><name><surname>Josephs</surname><given-names>Keith A.</given-names></name><degrees>MD, MST, MSc</degrees><xref ref-type="aff" rid="mds27603-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mds27603-cr-0003" contrib-type="author"><name><surname>Graff&#x02010;Radford</surname><given-names>Jonathan</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="mds27603-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mds27603-cr-0004" contrib-type="author"><name><surname>Przybelski</surname><given-names>Scott A.</given-names></name><xref ref-type="aff" rid="mds27603-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mds27603-cr-0005" contrib-type="author"><name><surname>Lesnick</surname><given-names>Timothy G.</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="mds27603-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mds27603-cr-0006" contrib-type="author"><name><surname>Boeve</surname><given-names>Bradley F.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="mds27603-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mds27603-cr-0007" contrib-type="author"><name><surname>Drubach</surname><given-names>Daniel A.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="mds27603-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mds27603-cr-0008" contrib-type="author"><name><surname>Knopman</surname><given-names>David S.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="mds27603-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mds27603-cr-0009" contrib-type="author"><name><surname>Petersen</surname><given-names>Ronald C.</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="mds27603-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mds27603-cr-0010" contrib-type="author"><name><surname>Jack</surname><given-names>Clifford R.</given-names><suffix>Jr</suffix></name><degrees>MD</degrees><xref ref-type="aff" rid="mds27603-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mds27603-cr-0011" contrib-type="author"><name><surname>Lowe</surname><given-names>Val J.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="mds27603-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mds27603-cr-0012" contrib-type="author"><name><surname>Whitwell</surname><given-names>Jennifer L.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="mds27603-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mds27603-cr-0013" contrib-type="author" corresp="yes"><name><surname>Kantarci</surname><given-names>Kejal</given-names></name><degrees>MD, MS</degrees><address><email>kantarci.kejal@mayo.edu</email></address><xref ref-type="aff" rid="mds27603-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mds27603-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Radiology</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Rochester</named-content>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><aff id="mds27603-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Rochester</named-content>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><aff id="mds27603-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Health Sciences</named-content>
+<institution>Mayo Clinic</institution>
+<named-content content-type="city">Rochester</named-content>
+<named-content content-type="country-part">Minnesota</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Kejal Kantarci MD, MS, Mayo Clinic, 200 First Street SW, Rochester, MN 55905; E&#x02010;mail: <email>kantarci.kejal@mayo.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2019</year></pub-date><volume>34</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/mds.v34.3</issue-id><fpage>344</fpage><lpage>352</lpage><history><date date-type="received"><day>20</day><month>7</month><year>2018</year></date><date date-type="rev-recd"><day>19</day><month>11</month><year>2018</year></date><date date-type="accepted"><day>09</day><month>12</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 International Parkinson and Movement Disorder Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Movement Disorders</italic> published by Wiley Periodicals, Inc. on behalf of International Parkinson and Movement Disorder Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MDS-34-344.pdf"/><abstract><title>Abstract</title><sec id="mds27603-sec-0001"><title>Background</title><p>Posterior cortical atrophy and dementia with Lewy bodies are 2 distinct clinical syndromes, yet they can overlap in symptoms and occipital hypometabolism. Patients with dementia with Lewy bodies often have overlapping Alzheimer's disease pathology. Similarly, Lewy bodies can be found in patients with posterior cortical atrophy. We investigated differences in the distribution and magnitude of F18&#x02010;AV&#x02010;1451 uptake in patients with these 2 syndromes.</p></sec><sec id="mds27603-sec-0002"><title>Methods</title><p>Consecutive patients with probable dementia with Lewy bodies (n = 33), posterior cortical atrophy (n = 18), and cognitively unimpaired controls (n = 100) underwent <sup>18</sup>F&#x02010;AV&#x02010;1451 positron emission tomography. Regional differences in AV&#x02010;1451 uptake were assessed using voxel&#x02010;wise and an atlas&#x02010;based approach. The greatest differences in AV&#x02010;1451 uptake between patient groups were identified using area under receiver operating curve statistics, and a composite region was derived.</p></sec><sec id="mds27603-sec-0003"><title>Results</title><p>AV&#x02010;1451 uptake in both patient groups was predominantly localized to the lateral occipital regions, but the magnitude of uptake was markedly greater in posterior cortical atrophy compared with dementia with Lewy bodies. The posterior cortical atrophy group showed the greatest AV&#x02010;1451 uptake throughout all the gray matter compared with that in other groups. The occipital composite region, consisting of superior, middle, and inferior occipital cortices, distinguished posterior cortical atrophy from dementia with Lewy bodies (area under the curve &#x0003e;0.97; <italic>P</italic> &#x0003c; 0.001, Bonferroni&#x02010;corrected) with excellent sensitivity (88%) and specificity (100%).</p></sec><sec id="mds27603-sec-0004"><title>Conclusions</title><p>Posterior cortical atrophy and dementia with Lewy bodies can share clinical features, and although the pattern of AV&#x02010;1451 uptake in occipital cortices overlaps between these 2 syndromes, its magnitude is significantly higher in posterior cortical atrophy. &#x000a9; 2019 The Authors. <italic>Movement Disorders</italic> published by Wiley Periodicals, Inc. on behalf of International Parkinson and Movement Disorder Society.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mds27603-kwd-0001">dementia with Lewy bodies</kwd><kwd id="mds27603-kwd-0003"><sup>18</sup>F&#x02010;AV&#x02010;1451</kwd><kwd id="mds27603-kwd-0005">occipital association cortex</kwd><kwd id="mds27603-kwd-0002">posterior cortical atrophy</kwd><kwd id="mds27603-kwd-0004">tau PET</kwd></kwd-group><funding-group><award-group><funding-source>National Center for Advancing Translational Sciences (NCATS)</funding-source><award-id>UL1 TR002377</award-id></award-group><award-group><funding-source>National Institutes of Health</funding-source><award-id>C06&#x02010;RR018898 </award-id><award-id>P50&#x02010;AG016574</award-id><award-id>R01&#x02010;AG011378</award-id><award-id>R01&#x02010;AG040042</award-id><award-id>R01&#x02010;AG041851</award-id><award-id>R01&#x02010;AG050603</award-id><award-id>R01&#x02010;NS080820</award-id><award-id>R21&#x02010;NS094684</award-id><award-id>U01&#x02010;AG006786</award-id><award-id>U01&#x02010;NS100620</award-id></award-group><award-group><funding-source>Foundation Dr. Corinne Schuler</funding-source></award-group><award-group><funding-source>Mangurian Foundation for Lewy Body Research</funding-source></award-group><award-group><funding-source>Elsie and Marvin Dekelboum Family Foundation</funding-source></award-group><award-group><funding-source>Robert H. and Clarice Smith and Abigail Van Buren Alzheimer's Disease Research Program</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="10"/><word-count count="6695"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mds27603</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.2.1 mode:remove_FC converted:15.05.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="mds27603-ntgp-0001"><fn id="mds27603-note-0001"><p>
+<bold>Relevant conflicts of interest/financial disclosures:</bold> Nothing to report.</p></fn><fn id="mds27603-note-0002"><p>
+<bold>Funding agencies:</bold> This study was supported by the National Institutes of Health (U01&#x02010; NS100620, R01&#x02010;AG050603, R21&#x02010;NS094684, P50&#x02010;AG016574, U01&#x02010;AG006786, R01&#x02010;AG011378, R01&#x02010;AG041851, R01&#x02010;AG040042, C06&#x02010;RR018898, and R01&#x02010;NS080820), Foundation Dr. Corinne Schuler, the Mangurian Foundation for Lewy Body Research, the Elsie and Marvin Dekelboum Family Foundation, and the Robert H. and Clarice Smith and Abigail Van Buren Alzheimer's Disease Research Program. The sponsors played no role in study design; in the collection, analysis, and interpretation of data; in the writing of the report; or in the decision to submit the article for publication.</p></fn></fn-group></notes></front><body><p>Patients with dementia with Lewy bodies (DLB) present with at least 1 of the typical clinical features such as rapid eye movement sleep behavior disorder (RBD), parkinsonism, fluctuating cognitive impairment, and recurrent visual hallucinations.<xref rid="mds27603-bib-0001" ref-type="ref">1</xref> Patients with posterior cortical atrophy (PCA) often present with a prominent and progressive decline in visual&#x02010;perceptual abilities such as simultanagnosia, optic ataxia, oculomotor apraxia, and dysgraphia.<xref rid="mds27603-bib-0002" ref-type="ref">2</xref> However, an overlap can exist between DLB and PCA in symptoms, imaging findings, and underlying pathologies. Both syndromes have been associated with hypometabolism on fluorodeoxyglucose (FDG) PET, localized to the occipital and temporoparietal cortices.<xref rid="mds27603-bib-0003" ref-type="ref">3</xref>, <xref rid="mds27603-bib-0004" ref-type="ref">4</xref>, <xref rid="mds27603-bib-0005" ref-type="ref">5</xref> Cingulate island sign on FDG PET was observed in both DLB and PCA, although it was more variable and asymmetric in PCA.<xref rid="mds27603-bib-0006" ref-type="ref">6</xref> Visual hallucinations, RBD, and parkinsonism can occur in PCA patients,<xref rid="mds27603-bib-0003" ref-type="ref">3</xref>, <xref rid="mds27603-bib-0007" ref-type="ref">7</xref>, <xref rid="mds27603-bib-0008" ref-type="ref">8</xref>, <xref rid="mds27603-bib-0009" ref-type="ref">9</xref>, <xref rid="mds27603-bib-0010" ref-type="ref">10</xref> and DLB patients can develop visuospatial difficulties.<xref rid="mds27603-bib-0011" ref-type="ref">11</xref> DLB patients often have Alzheimer's disease (AD) pathology in addition to Lewy bodies. Most PCA patients have AD, but in a subset of PCA patients, other pathologies were associated with the clinical syndrome, such as corticobasal degeneration, Creutzfeldt&#x02010;Jakob disease, or even Lewy body disease.<xref rid="mds27603-bib-0002" ref-type="ref">2</xref>, <xref rid="mds27603-bib-0012" ref-type="ref">12</xref>
+</p><p>Novel imaging methods such as positron emission tomography with tau tracers may potentially have a diagnostic value in distinguishing the 2 disorders. The objective of this study was to compare the differences in the regional distribution and magnitude of the <sup>18</sup>F&#x02010;AV&#x02010;1451 uptake on PET in DLB and PCA patients. We hypothesized that although DLB patients may show AV&#x02010;1451 uptake in occipital<xref rid="mds27603-bib-0013" ref-type="ref">13</xref>, <xref rid="mds27603-bib-0014" ref-type="ref">14</xref> and posterior temporoparietal cortical regions, similar in location to PCA patients,<xref rid="mds27603-bib-0015" ref-type="ref">15</xref>, <xref rid="mds27603-bib-0016" ref-type="ref">16</xref> the magnitude of AV&#x02010;1451 uptake would be higher in PCA patients.</p><sec id="mds27603-sec-0006"><title>Methods</title><sec id="mds27603-sec-0007"><title>Participants</title><p>Consecutively recruited patients with probable DLB (n = 33) were clinically examined by a behavioral neurologist, and underwent imaging examinations between May 2015 and May 2017 at the Mayo Clinic Alzheimer's Disease Research Center. Similarly, another sample of consecutive patients with PCA (n = 18) were clinically examined by a behavioral neurologist at the Mayo Clinic Department of Neurology, underwent imaging between August 2016 and October 2017, and were recruited into a National Institutes of Health&#x02010;funded study on atypical AD. Regardless of the recruitment strategy, all patients underwent a detailed examination by a behavioral neurologist, and diagnoses were rendered based on established clinical criteria. For comparison, we selected clinically unimpaired older adults (n = 100) similar in age to both the DLB and PCA patients from the Mayo Clinic Study of Aging, a population&#x02010;based study of aging.<xref rid="mds27603-bib-0017" ref-type="ref">17</xref> Each participant underwent neurological and neuropsychological evaluations and <sup>18</sup>F&#x02010;AV&#x02010;1451 positron emission tomography (PET). Participants also had 11C&#x02010;Pittsburgh Compound B (PiB) PET and MRI at 3 T for anatomical labeling. Clinical evaluations and imaging visits were performed within a week of each other.</p><p>The study was approved by the Mayo Clinic Institutional Review Board. All participants and/or their proxies provided written consent to participate in this study.</p><p>PCA patients met clinical criteria for PCA.<xref rid="mds27603-bib-0002" ref-type="ref">2</xref>, <xref rid="mds27603-bib-0003" ref-type="ref">3</xref>, <xref rid="mds27603-bib-0009" ref-type="ref">9</xref> They had insidious disease onset with visual complaints in the absence of the primary ocular disease that would explain them, relatively preserved memory and insight into the early stages, progressive and disabling visual impairment, and any of the following symptoms: simultanagnosia with or without oculomotor apraxia or optic ataxia, visual field defects, constructional dyspraxia, or features of Gerstmann syndrome (agraphia, acalculia, finger agnosia, and left&#x02010;right disorientation). PCA patients were also evaluated for the presence of visual hallucinations, RBD, fluctuations, and parkinsonism.</p><p>DLB patients met the clinical criteria for probable DLB.<xref rid="mds27603-bib-0001" ref-type="ref">1</xref> The presence and severity of RBD, parkinsonism, visual hallucinations, and fluctuations were evaluated according to the 4th Consortium Criteria for DLB.<xref rid="mds27603-bib-0001" ref-type="ref">1</xref> Simultanagnosia was not specifically tested in DLB patients, and symptoms such as optic ataxia or oculomotor apraxia or elements of Gerstmann syndrome were evaluated during the clinical neurologic examination. Onset and duration of the specific features and dementia were ascertained during an interview by the attending physician with a patient and an informant.</p><p>Clinically unimpaired controls were independent functioning and performed within the normal range on tests covering 4 cognitive domains (executive, memory, language, visuospatial). The raw score from each test was transformed into an age&#x02010;adjusted score using established normative data from the Mayo Clinic's Older Americans Normative Studies<xref rid="mds27603-bib-0018" ref-type="ref">18</xref> on the participants from the same population. Participants scoring 1.0 SD or more than the age&#x02010;specific mean in the general population were considered to have possible cognitive impairment.<xref rid="mds27603-bib-0019" ref-type="ref">19</xref> The final decision on normal cognition was established during a consensus after taking into account visual or hearing deficits, education, and prior occupation and after reviewing all other information on the participant.</p></sec><sec id="mds27603-sec-0008"><title>PET Acquisition</title><p>Tau PET was performed using the <sup>18</sup>F&#x02010;AV&#x02010;1451 tracer, and amyloid PET was performed using <sup>11</sup>C&#x02010;PiB tracer on a PET/CT scanner (GE Healthcare; Milwaukee, WI) operating in 3&#x02010;D mode.<xref rid="mds27603-bib-0013" ref-type="ref">13</xref> For AV&#x02010;1451, an intravenous bolus injection of approximately 370 MBq (range, 330&#x02010;406 MBq) of AV&#x02010;1451 was administered, followed by an 80&#x02010;minute uptake period and a 20&#x02010;minute scan scan of four 5&#x02010;minute dynamic frames. For PiB, an injection of approximately 627 MBq (range, 384&#x02010;722 MBq) of PiB was administered, followed by a 40&#x02010;minute uptake period and a 20&#x02010;minute scan of four 5&#x02010;minute dynamic frames. AV&#x02010;1451 and PiB scans were visually inspected for technical quality including excessive motion by a trained PET technician.</p><p>For anatomical segmentation and labeling of PET images, a T1&#x02010;weighted 3&#x02010;dimensional high&#x02010;resolution magnetization&#x02010;prepared rapid&#x02010;acquisition gradient echo sequence was performed on a 3&#x02010;Tesla MRI scanner (General Electric Healthcare; Waukesha, WI) with an 8&#x02010;channel phased array head coil.</p></sec><sec id="mds27603-sec-0009"><title>PET Analysis</title><p>An automated image&#x02010;processing pipeline for PET image analysis included registration of the PET volumes to each patient's own T<sub>1</sub>&#x02010;weighted MRI for the segmentation of gray and white matter. Regional AV&#x02010;1451 uptake was calculated by transforming the Mayo Clinic Adult Lifespan Template (MCALT)<xref rid="mds27603-bib-0020" ref-type="ref">20</xref> with an in&#x02010;house modified 122&#x02010;region Automated Anatomic Labeling atlas<xref rid="mds27603-bib-0021" ref-type="ref">21</xref> into the native space of each T<sub>1</sub>&#x02010;weighted MRI using Advanced Normalization Tools software<xref rid="mds27603-bib-0022" ref-type="ref">22</xref> implemented in Statistical Parametric Mapping (SPM)12. MCALT is a publicly available population&#x02010;matched brain template (<ext-link ext-link-type="uri" xlink:href="https://www.nitrc.org/projects/mcalt">https://www.nitrc.org/projects/mcalt</ext-link>/).<xref rid="mds27603-bib-0023" ref-type="ref">23</xref> The Automated Anatomic Labeling (AAL) atlas has been modified to fit our MCALT template in SPM12. Fractions of tissue and cerebrospinal fluid (CSF) compartments in each PET voxel were derived from the registered T<sub>1</sub>&#x02010;weighted MRI. Correction for partial volume averaging of the CSF was performed using the 2&#x02010;compartment model.<xref rid="mds27603-bib-0024" ref-type="ref">24</xref> AV&#x02010;1451 uptake in each voxel was divided by the median value of the right and left cerebellar crus uptake.<xref rid="mds27603-bib-0025" ref-type="ref">25</xref> Cerebellar crus region corresponded to bilateral crus 1 and crus 2 in the AAL atlas.<xref rid="mds27603-bib-0021" ref-type="ref">21</xref>
+</p><p>For PiB uptake, the global cortical retention standardized uptake value ratio (SUVR) was calculated from the bilateral parietal (including posterior cingulate and precuneus), orbitofrontal, prefrontal, temporal, and anterior cingulate regions, referenced to the right and left cerebellar crus.<xref rid="mds27603-bib-0026" ref-type="ref">26</xref>
+</p><p>Group&#x02010;wise differences in magnitude of AV&#x02010;1451 uptake were assessed using a voxel&#x02010;wise and atlas&#x02010;based approach. Whereas the voxel&#x02010;wise analysis was exploratory to show the range and pattern of AV&#x02010;1451 uptake differences, especially between the PCA and DLB groups, the purpose of the atlas&#x02010;based analysis was to identify the region(s) with the greatest differences between PCA and DLB with a potential to differentiate between the 2 clinical groups. Comparisons were performed with and without correction for partial volume averaging of CSF. Because the findings were consistent between the 2 approaches, partial volume&#x02010;corrected findings are reported.</p><p>Voxel&#x02010;based differences in AV&#x02010;1451 uptake were assessed using statistical parametric mapping (SPM12). Maps showing the between&#x02010;group differences were displayed using a 2&#x02010;sided <italic>t</italic> test at <italic>P</italic> &#x0003c; 0.001 and cluster extent threshold &#x0003e;25.</p><p>Using the atlas&#x02010;based approach, we first calculated regional asymmetries in AV&#x02010;1451 uptake by subtracting right regional SUVR from left regional SUVR in 46 gray&#x02010;matter regions from the in&#x02010;house optimized AAL atlas and MCALT template described above. Because we did not identify any asymmetry between any 2 of the clinical groups, AV&#x02010;1451 uptake from the left&#x02010; and right&#x02010;side regions was combined.</p><p>To identify gray&#x02010;matter regions with the greatest differences in AV&#x02010;1451 uptake between each two clinical groups, area under the curve (AUC) statistics were calculated for each individual gray&#x02010;matter region. Regions were ranked from highest to lowest AUC. Because multiple regions were compared, Bonferroni correction was used at <italic>P &#x0003c;</italic> 0.001. Our objective was to select regions with an area under the receiver operating curve (AUROC) above a certain threshold at <italic>P</italic> &#x0003c; 0.001 and Bonferroni&#x02010;corrected and to combine these into a &#x0201c;composite region&#x0201d; that would show the greatest differences in AV&#x02010;1451 uptake between the PCA and DLB groups.</p></sec><sec id="mds27603-sec-0010"><title>Statistics</title><p>Participants&#x02019; characteristics at the time of imaging were summarized using means and standard deviations (SD) or proportions (%). Continuous variables were compared across the groups using analysis of variance, followed by a priori chosen contrasts for pair&#x02010;wise comparisons of the DLB versus PCA groups. Categorical variables were compared across the groups using the chi&#x02010;square test or logistic regression between the PCA and DLB groups. Statistics along with AUROC sensitivity and specificity were calculated to measure the accuracy of the AV&#x02010;1451 uptake in a composite region to distinguish between the DLB and PCA groups. The same calculation was performed for the global cortical PiB SUVR.</p><p>Statistical analyses were performed using SAS version 9.4 (SAS Institute, Cary, NC) and R statistical software version 3.1.1 (R <ext-link ext-link-type="uri" xlink:href="http://project.org">project.org</ext-link>).</p></sec></sec><sec id="mds27603-sec-0011"><title>Results</title><sec id="mds27603-sec-0012"><title>Participants&#x02019; Characteristics</title><p>Demographic, clinical, and basic imaging characteristics at the time of imaging are summarized in Table <xref rid="mds27603-tbl-0001" ref-type="table">1</xref>. Eighty&#x02010;five percent of DLB patients were men, whereas 61% of PCA patients were women. Controls were similar in age to those the DLB and PCA groups and did not differ in sex distribution from either patient group. Simultanagnosia, optic ataxia, ocular apraxia, Gerstmann syndrome, visual field deficits, and hemineglect were more frequent in PCA patients. Similarly, RBD, parkinsonism, visual hallucinations, and fluctuations were more frequent in patients with DLB. Symptoms typical for PCA were not manifested in DLB patients on neurological examination.</p><table-wrap id="mds27603-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Participants&#x02019; characteristics</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">CN n = 100</th><th align="center" valign="bottom" rowspan="1" colspan="1">DLB n = 33</th><th align="center" valign="bottom" rowspan="1" colspan="1">PCA n = 18</th><th align="center" valign="bottom" rowspan="1" colspan="1">Overall <italic>P</italic>
+<xref ref-type="fn" rid="mds27603-note-0003">a</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">DLB vs PCA <italic>P</italic>
+<xref ref-type="fn" rid="mds27603-note-0004">b</xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years</td><td align="center" valign="top" rowspan="1" colspan="1">66.9 (9.7)</td><td align="center" valign="top" rowspan="1" colspan="1">68.1 (7.8)</td><td align="center" valign="top" rowspan="1" colspan="1">64.6 (6.6)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.42</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Male, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">68 (68%)</td><td align="center" valign="top" rowspan="1" colspan="1">28 (85%)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (39%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.003</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CDR sum of boxes</td><td align="center" valign="top" rowspan="1" colspan="1">0.0 (0.2)</td><td align="center" valign="top" rowspan="1" colspan="1">4.8 (3.6)</td><td align="center" valign="top" rowspan="1" colspan="1">5.4 (3.6)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c; 0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.29</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MMSE</td><td align="center" valign="top" rowspan="1" colspan="1">28.9 (1.0)</td><td align="center" valign="top" rowspan="1" colspan="1">24.0 (5.2)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c; 0.001</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MoCA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">17.8 (7.0)</td><td align="center" valign="top" rowspan="1" colspan="1">17.2 (6.3)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="char" char="." valign="top" rowspan="1" colspan="1">0.80</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cortical PiB SUVR</td><td align="center" valign="top" rowspan="1" colspan="1">1.36 (0.07)</td><td align="center" valign="top" rowspan="1" colspan="1">1.69 (0.45)</td><td align="center" valign="top" rowspan="1" colspan="1">2.36 (0.39)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c; 0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Occipital composite AV&#x02010;1451 SUVR</td><td align="center" valign="top" rowspan="1" colspan="1">1.13 (0.08)</td><td align="center" valign="top" rowspan="1" colspan="1">1.20 (0.10)</td><td align="center" valign="top" rowspan="1" colspan="1">2.49 (0.64)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c; 0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Occipital composite AV&#x02010;1451 SUVR range (min, max)</td><td align="center" valign="top" rowspan="1" colspan="1">0.89, 1.33</td><td align="center" valign="top" rowspan="1" colspan="1">1.01, 1.42</td><td align="center" valign="top" rowspan="1" colspan="1">1.31, 3.77</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Visual hallucinations, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">13 (39%)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (11%)<xref ref-type="fn" rid="mds27603-note-0005">c</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fluctuations, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">22 (67%)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (6%)<xref ref-type="fn" rid="mds27603-note-0005">c</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Parkinsonism, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">30 (91%)</td><td align="center" valign="top" rowspan="1" colspan="1">1(6%)<xref ref-type="fn" rid="mds27603-note-0005">c</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RBD, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">31 (94%)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (22%)<xref ref-type="fn" rid="mds27603-note-0005">c</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Simultanagnosia, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">15 (83%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Optic ataxia, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">7 (39%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Oculomotor apraxia, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">8 (44%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gerstmann syndrome, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">10 (56%)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Visual field deficits, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">4 (25%)<xref ref-type="fn" rid="mds27603-note-0006">d</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hemineglect, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">1(6%)<xref ref-type="fn" rid="mds27603-note-0006">d</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="mds27603-note-0003"><label>a</label><p>
+<italic>P</italic> values for differences between groups come from an ANOVA for the continuous variables or a chi&#x02010;square test for the categorical variables.</p></fn><fn id="mds27603-note-0004"><label>b</label><p>
+<italic>P</italic> values for differences between groups are contrasts from an ANOVA for the continuous variables or logistic regression for the categorical variables.</p></fn><fn id="mds27603-note-0005"><label>c</label><p>First PCA patient with RBD also had visual hallucinations and parkinsonism. Second PCA patient with RDB also had visual hallucinations. Third PCA patient with RBD also had fluctuations. Fourth PCA patient had isolated RBD without other DLB clinical features.</p></fn><fn id="mds27603-note-0006"><label>d</label><p>Information on visual field deficits and hemineglect was not available for 2 PCA patients.</p></fn><fn id="mds27603-note-0007"><p>CN, cognitively unimpaired adults; DLB, dementia with Lewy bodies; PCA, posterior cortical atrophy; SUVR, standardized uptake value ratio; CDR&#x02010;SOB, Clinical Dementia Rating, sum of boxes; MMSE, Mini Mental State Examination; MoCA, Montreal Cognitive Assessment; RBD, REM sleep behavior disorder.</p></fn><fn id="mds27603-note-0008"><p>The features presented in the table are related to image acquisition and not to the time of disease onset.</p></fn></table-wrap-foot></table-wrap><p>Four PCA patients had clinically described sleep disorder that was consistent with RBD at the time of imaging (Table <xref rid="mds27603-tbl-0001" ref-type="table">1</xref>). One of these 4 PCA patients had isolated RBD. One PCA patient had RBD and visual hallucinations. One PCA patient had RBD, visual hallucinations, and also mild parkinsonism. One had RBD and fluctuations. These PCA patients would also meet the clinical criteria for possible or even probable DLB. Additional DLB clinical features in patients with PCA were present at the imaging visit. However, all 4 PCA patients with additional DLB clinical features initially presented with typical PCA symptoms, not with DLB symptoms, and were diagnosed as having PCA not DLB.</p><p>All PCA patients had elevated PiB uptake (mean PiB SUVR &#x000b1; SD, 2.36 &#x000b1; 0.39). However, 2 patients had lower PiB SUVR (1.51 and 1.56) compared with other PCA patients. These 2 also had the lowest AV&#x02010;1451 uptake among all PCA patients, supporting the notion that there might be other etiologies contributing to clinical symptoms in addition to their mild AD pathology. These 2 PCA patients were carefully evaluated during multiple visits, and no other clinical features suggesting, for example, corticobasal syndrome, Creutzfeldt&#x02010;Jakob disease, or other known etiology were observed. For comparison, mean PiB SUVR &#x000b1; SD was 1.69 &#x000b1; 0.45 in DLB patients and 1.36 &#x000b1; 0.07 in controls.</p></sec><sec id="mds27603-sec-0013"><title>Voxel&#x02010;Wise Differences in AV&#x02010;1451 Uptake</title><p>Figure <xref rid="mds27603-fig-0001" ref-type="fig">1</xref> illustrates the pattern of regional differences in cortical AV&#x02010;1451 uptake between each two clinical groups. PCA patients had markedly higher AV&#x02010;1451 uptake across the entire cortex compared with DLB patients, with the greatest differences in the lateral occipital association cortices: superior, middle and inferior occipital gyri. No regions showed higher AV&#x02010;1451 uptake in DLB patients compared with PCA patients. As expected, PCA patients showed markedly higher AV&#x02010;1451 uptake across the entire cortex compared with controls. DLB patients showed only modest differences in AV&#x02010;1451 uptake compared with controls, scattered in temporal, parietal, occipital, and also frontal cortices.</p><fig fig-type="Figure" xml:lang="en" id="mds27603-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Voxel&#x02010;wise differences in AV&#x02010;1451 uptake. The surface renderings show regional differences in AV&#x02010;1451 uptake between the clinical groups.</p></caption><graphic id="nlm-graphic-1" xlink:href="MDS-34-344-g001"/></fig></sec><sec id="mds27603-sec-0014"><title>Atlas&#x02010;Based Differences in Magnitude of AV&#x02010;1451 Uptake</title><p>Figure <xref rid="mds27603-fig-0002" ref-type="fig">2</xref> (top) shows the differences in AV&#x02010;1451 uptake between the PCA and DLB groups, expressed as AUC for the individual gray&#x02010;matter regions. AUCs are ranked from the highest to the lowest. The highest&#x02010;ranking regions with AUC &#x0003e; 0.97 were lateral occipital association cortices (superior, middle, and inferior occipital), and these regions were combined into the occipital composite, taking the median SUVR from the entire composite (overall AUC &#x0003e; 0.97). Although the cutoff AUC at &#x0003e;0.97 was arbitrary, the occipital regions selected into this composite were consistent with regions showing the greatest differences in AV&#x02010;1451 uptake between PCA and DLB in our voxel&#x02010;wise analysis.</p><fig fig-type="Figure" xml:lang="en" id="mds27603-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Atlas&#x02010;based analysis for the differences in AV&#x02010;1451 uptake among DLB and PCA groups. Regional differences in AV&#x02010;1451 uptake between the PCA and DLB groups are plotted across 46 gray&#x02010;matter regions and ranked using area under curve (AUC) statistics (top). Regions with AUC &#x0003e; 0.97 are combined into the occipital composite (occipital superior, middle, and inferior cortices). Box&#x02010;and&#x02010;whiskers plots below show differences in occipital composite AV&#x02010;1451 uptake by clinical group (bottom).</p></caption><graphic id="nlm-graphic-3" xlink:href="MDS-34-344-g002"/></fig><p>Figure <xref rid="mds27603-fig-0002" ref-type="fig">2</xref> (bottom) shows that the AV&#x02010;1451 uptake in the occipital composite in PCA (mean SUVR &#x000b1; SD, 2.75 &#x000b1; 0.68) was significantly higher than in DLB (mean SUVR &#x000b1; SD, 1.18 &#x000b1; 0.10; <italic>P</italic> &#x0003c; 0.001) and controls (mean SUVR &#x000b1; SD, 1.10 &#x000b1; 0.08; <italic>P</italic> &#x0003c; 0.001). Among the 4 PCA patients who had additional DLB clinical feature(s), the lowest occipital composite AV&#x02010;1451 SUVR was 2.26, whereas among all DLB patients, the highest occipital composite AV&#x02010;1451 SUVR was 1.42. Therefore, all DLB patients could be separated from PCA patients with additional DLB features by the occipital composite AV&#x02010;1451 SUVR.</p><p>Figure <xref rid="mds27603-fig-0003" ref-type="fig">3</xref> shows imaging findings that were: (1) typical within the DLB and PCA groups, (2) less typical in the 2 PCA patients with low PiB uptake and low occipital composite AV&#x02010;1451 uptake, and (3) all 4 PCA patients with additional DLB clinical features.</p><fig fig-type="Figure" xml:lang="en" id="mds27603-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Examples of PET images in individual patients. Individual AV&#x02010;1451 scans show focal AV&#x02010;1451 uptake and PiB uptake. 1. <italic>DLB with low AV&#x02010;1451 SUVR</italic> is a 78&#x02010;year&#x02010;old right&#x02010;handed man. As expected, he has low occipital composite AV&#x02010;1451 SUVR of 1.02 and global PiB SUVR of 1.45. He has parkinsonism, RBD, visual hallucinations, and fluctuations. 2. <italic>DLB with high AV&#x02010;1451 SUVR</italic> is an 82&#x02010;year&#x02010;old right&#x02010;handed man with high occipital composite AV&#x02010;1451 SUVR of 1.42 compared with other DLB patients in the study. Global PiB SUVR is 1.46. He has parkinsonism and RBD but no visual hallucinations or fluctuations. 3. <italic>PCA with high AV&#x02010;1451 SUVR</italic> is a 59&#x02010;year&#x02010;old right&#x02010;handed man with high occipital composite AV&#x02010;1451 SUVR of 3.76 and global PiB SUVR of 2.52. He presented with profound visuospatial deficits, severe simultanagnosia, and also mild problems with memory. He does not have RBD, parkinsonism, visual hallucinations, or fluctuations. 4. <italic>PCA with low AV&#x02010;1451 SUVR</italic> is a 76&#x02010;year&#x02010;old right&#x02010;handed woman with low occipital composite AV&#x02010;1451 SUVR of 1.45. Global PiB SUVR is also low at 1.56 compared with other PCA patients. She presented with a primary progressive alexia and severe visuoperceptual impairment. She did not have any DLB features or features suggestive of corticobasal syndrome, frontotemporal dementia, or Creutzfeldt&#x02010;Jakob disease. 5. <italic>PCA with low AV&#x02010;1451 SUVR</italic> is a 73&#x02010;year&#x02010;old right&#x02010;handed woman with occipital composite AV&#x02010;1451 SUVR of 1.31 and global PiB SUVR of 1.51, with severe Gerstmann syndrome, constructional dyspraxia, and mild executive weakness and simultanagnosia. 6. <italic>PCA with RBD and visual hallucinations</italic> is a 57&#x02010;year&#x02010;old left&#x02010;handed woman with occipital composite AV&#x02010;1451 SUVR of 3.00 and global PiB SUVR of 2.02, with simultanagnosia, optic ataxia, oculomotor apraxia, and partial Gerstmann syndrome. 7. <italic>PCA with RBD, visual hallucinations, and parkinsonism</italic> is a 58&#x02010;year&#x02010;old right&#x02010;handed woman with occipital composite AV&#x02010;1451 SUVR of 3.27 and global PiB SUVR of 2.79, with simultanagnosia, optic ataxia, oculomotor apraxia, and Gerstmann syndrome. 8. <italic>PCA with RBD</italic> is a 71&#x02010;year&#x02010;old right&#x02010;handed man with occipital composite AV&#x02010;1451 SUVR of 2.72 and global PiB SUVR of 2.45. He has severe visuospatial impairment and simultanagnosia. 9. <italic>PCA with RBD and fluctuations</italic> is a 68&#x02010;year&#x02010;old right&#x02010;handed man with occipital composite AV&#x02010;1451 of 2.26 and global PiB SUVR of 2.48. He presented with quadrantanopia, progressive aphasia, and working memory problems.</p></caption><graphic id="nlm-graphic-5" xlink:href="MDS-34-344-g003"/></fig></sec><sec id="mds27603-sec-0015"><title>Distinguishing DLB and PCA Patients Using AV&#x02010;1451 Uptake in the Occipital Composite Region</title><p>Figure <xref rid="mds27603-fig-0004" ref-type="fig">4</xref> shows the discrimination between the PCA and DLB groups using the receiver operating characteristics curves with associated AUROC for the occipital composite AV&#x02010;1451 SUVR. Because elevated PiB uptake is common in PCA patients and also in many DLB patients, we included global PiB SUVR as a comparison for distinguishing among the 2 clinical groups. The accuracy of occipital composite AV&#x02010;1451 uptake in distinguishing the PCA from DLB group was &#x0003e;0.97, whereas the accuracy of cortical PiB SUVR was 0.87. At various step&#x02010;wise sensitivity levels (Fig. <xref rid="mds27603-fig-0004" ref-type="fig">4</xref>), the specificity of the occipital composite AV&#x02010;1451 was higher compared with the global cortical PiB SUVR.</p><fig fig-type="Figure" xml:lang="en" id="mds27603-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Discrimination between PCA and DLB using the occipital composite region AV&#x02010;1451 uptake. Discrimination between DLB and PCA patients using AV&#x02010;1451 uptake from the occipital composite. For comparison, cortical PiB uptake is used. The accuracy of the occipital composite AV&#x02010;1451 uptake to distinguish between DLB and PCA patients corresponds to area under the receiver operating curve of 0.97. The accuracy of the cortical PiB uptake to distinguish between groups corresponds to area under the receiver operating curve of 0.87.</p></caption><graphic id="nlm-graphic-7" xlink:href="MDS-34-344-g004"/></fig></sec></sec><sec id="mds27603-sec-0016"><title>Discussion</title><p>We compared AV&#x02010;1451 uptake in PCA and probable DLB patients from 2 consecutive samples diagnosed using the standard clinical diagnostic criteria for both syndromes. For comparison, cognitively unimpaired controls were selected from a population&#x02010;based sample. We demonstrated that PCA patients had markedly higher AV&#x02010;1451 uptake on PET across the entire cortex compared with DLB patients and controls. In PCA patients, AV&#x02010;1451 uptake was higher especially in the lateral occipital association cortices compared with DLB patients. Based on the voxel&#x02010;based and subsequent atlas&#x02010;based analysis, we identified the occipital composite cortical region with the greatest difference in AV&#x02010;1451 uptake between PCA and DLB patients. Four PCA patients had DLB features in addition to cardinal PCA features at the time of imaging. The AV&#x02010;1451 uptake in the occipital composite was higher in all 4 PCA patients compared with any DLB patient. In the discrimination analysis using AUROC, the occipital composite AV&#x02010;1451 uptake distinguished PCA from DLB patients with excellent sensitivity (88%) and specificity (100%). Overall, AV&#x02010;1451 PET imaging showed significant differences between DLB and PCA patients, including the occasional PCA patients who had DLB clinical features overlapping with PCA features.</p><p>The pattern of AV&#x02010;1451 uptake in DLB patients<xref rid="mds27603-bib-0013" ref-type="ref">13</xref>, <xref rid="mds27603-bib-0014" ref-type="ref">14</xref>, <xref rid="mds27603-bib-0027" ref-type="ref">27</xref> and PCA<xref rid="mds27603-bib-0015" ref-type="ref">15</xref>, <xref rid="mds27603-bib-0016" ref-type="ref">16</xref>, <xref rid="mds27603-bib-0028" ref-type="ref">28</xref> compared with cognitively unimpaired controls has been described by us and other groups<bold>,</bold> with an uptake in the bilateral occipital and to some extent also posterior temporoparietal cortices in both syndromes, and significant uptake in the lateral temporal and frontal cortices in PCA. In the current study, we compared differences in AV&#x02010;1451 uptake between PCA and DLB patients because these 2 syndromes can overlap in clinical symptoms and imaging findings.</p><p>We found substantially higher AV&#x02010;1451 uptake throughout the entire cortex in PCA patients compared with DLB, with findings consistent between the voxel&#x02010;wise and atlas&#x02010;based analyses. The greatest differences between DLB and PCA patients were seen in the lateral occipital association cortices, combined into the occipital composite region. Except for the 2 PCA patients with relatively low AV&#x02010;1451 and low PiB uptake, the separation between DLB and PCA groups was complete with the occipital composite AV&#x02010;1451 uptake.</p><p>Although the differences in AV&#x02010;1451 uptake were expected, the magnitude of these differences was significant. High AV&#x02010;1451 uptake in our PCA patients agrees with the notion that AD pathology is the most frequent cause of PCA.<xref rid="mds27603-bib-0002" ref-type="ref">2</xref>, <xref rid="mds27603-bib-0009" ref-type="ref">9</xref>, <xref rid="mds27603-bib-0029" ref-type="ref">29</xref> On the other hand, many DLB patients also have varying degrees of AD pathology in addition to Lewy body disease.<xref rid="mds27603-bib-0030" ref-type="ref">30</xref>, <xref rid="mds27603-bib-0031" ref-type="ref">31</xref> Despite this overlap, the differences in AV&#x02010;1451 uptake between PCA and DLB were substantial. We included a consecutive sample for both PCA and DLB patients to account for various possible underlying etiologies, especially in PCA patients. However, all PCA patients from the current sample had elevated PiB and AV&#x02010;1451 uptake levels. In 2 PCA patients with lower, although still elevated<bold>,</bold> levels of global PiB SUVR and the occipital composite AV&#x02010;1451 SUVR, we did not identify any other underlying etiologies based on available clinical data.</p><p>AV&#x02010;1451 tracer binds to the same tau strains in PCA and DLB patients.<xref rid="mds27603-bib-0032" ref-type="ref">32</xref> However, the AV&#x02010;1451 tracer does not completely reflect early&#x02010;stage tau progression suggested by Braak neurofibrillary tangle staging, particularly in atypical forms of AD. Both PCA and DLB have shown atypical patterns of tau deposition that do not fit the traditional Braak staging scheme.<xref rid="mds27603-bib-0033" ref-type="ref">33</xref>, <xref rid="mds27603-bib-0034" ref-type="ref">34</xref> Should other pathologies be present in our PCA patients, such as TAR DNA&#x02010;binding protein&#x02010;43 or corticobasal degeneration, they would likely diminish the differences in AV&#x02010;1451 uptake between PCA and DLB but not vice versa.</p><p>Interestingly, 4 PCA patients had overlapping RBD alone or in combination with other DLB clinical features at the time of imaging. However, the AV&#x02010;1451 uptake in the occipital composite was still significantly higher in all 4 of these PCA patients with additional DLB features than in any probable DLB patient. DLB features in these 4 PCA patients could be explained by the presence of Lewy body pathology in addition to AD pathology.<xref rid="mds27603-bib-0035" ref-type="ref">35</xref> RBD is strongly suggestive of &#x003b1;&#x02010;synucleinopathy.<xref rid="mds27603-bib-0036" ref-type="ref">36</xref> However, patients with presumed or definite AD rarely can also have RBD and other DLB symptoms<xref rid="mds27603-bib-0037" ref-type="ref">37</xref> as a result of AD pathology with neuronal loss in the vulnerable regions such as the substantia nigra. However, the definite substrate underlying RBD in these rare cases remains unclear.<xref rid="mds27603-bib-0038" ref-type="ref">38</xref>, <xref rid="mds27603-bib-0039" ref-type="ref">39</xref> On the other hand, co&#x02010;occurrence of Lewy body pathology in addition to dominant AD pathology was the least frequent in hippocampal&#x02010;sparing AD cases compared with typical AD and limbic&#x02010;predominant cases in a large autopsy&#x02010;confirmed cohort.<xref rid="mds27603-bib-0033" ref-type="ref">33</xref> Clinical PCA would be the most consistent with autopsy&#x02010;confirmed hippocampal&#x02010;sparing AD. Overall, our PCA patients with additional DLB clinical features likely have AD as the primary underlying etiology of PCA, and it is also possible they have Lewy body disease in addition to AD.</p><p>The overall accuracy of occipital composite AV&#x02010;1451 uptake in distinguishing between PCA and DLB patients was excellent, with 100% specificity at a sensitivity of 88%. This finding can be useful in the differential diagnosis and management of PCA and DLB patients. As expected, accuracy and specificity of global cortical PiB uptake were lower because many DLB patients have elevated uptake on PiB PET.<xref rid="mds27603-bib-0040" ref-type="ref">40</xref>
+</p><p>A limitation of the current study is that polysomnography was not routinely performed in all PCA patients who had REM sleep behavior disorder symptoms, and RBD was recorded based on clinical evaluation. Another limitation is that not all specific PCA&#x02010;related symptoms were measured in all patients, that is, simultanagnosia was not measured in DLB patients. Finally, we cannot exclude the possibility that regional differences in AV&#x02010;1451 uptake were contributed by different stages of clinical progression in the PCA and DLB groups. Although our DLB and PCA groups did not differ on Montreal Cognitive Assessment or Clinical Dementia Rating, sum of boxes scales, these measures assessing the global clinical severity are perhaps not the most optimal measures to compare the severity of the 2 clinical syndromes. Despite these limitations, the striking differences in AV&#x02010;1451 uptake between DLB and PCA patients demonstrate the diagnostic value of AV&#x02010;1451 PET imaging in these 2 syndromes with occasionally overlapping symptoms.</p></sec><sec sec-type="note-added-in-proof" id="mds27603-sec-0019"><title>Author Roles</title><p>1) Research project</p><p>A. Conception: Zuzana Nedelska, Kejal Kantarci</p><p>B. Organization: Zuzana Nedelska, Keith A. Josephs, Val J. Lowe, Ronald C. Petersen, Clifford R. Jack, Jr., Jennifer L. Whitwell, Kejal Kantarci</p><p>C. Execution: Zuzana Nedelska, Keith A. Josephs, Jonathan Graff&#x02010;Radford, Bradley F. Boeve, Daniel A. Drubach, David S. Knopman</p><p>2) Statistical Analysis</p><p>A. Design: Scott. A. Przybelski, Timothy G. Lesnick, Zuzana Nedelska</p><p>B. Execution: Scott. A. Przybelski, Timothy G. Lesnick</p><p>C. Review and Critique: Scott. A. Przybelski, Timothy G. Lesnick, Zuzana Nedelska, Kejal Kantarci</p><p>3) Manuscript</p><p>A. Writing of the first draft: Zuzana Nedelska</p><p>B. Review and Critique: Zuzana Nedelska, Keith A. Josephs, Jonathan Graff&#x02010;Radford, Scott. A. Przybelski, Timothy G. Lesnick, Bradley F. Boeve, Daniel A. Drubach, David S. Knopman, Ronald C. Petersen, Clifford R. Jack, Jr., Val J. Lowe, Jennifer L. Whitwell, Kejal Kantarci</p></sec><sec sec-type="note-added-in-proof" id="mds27603-sec-0018"><title>Disclosures outside this work</title><p>Dr. Graff&#x02010;Radford receives research support from the NIH (K76&#x02010;AG057015). Dr. Josephs receives research support from the NIH (R01&#x02010;AG37491, R01&#x02010;NS89757, R01&#x02010;DC14942, R01&#x02010;DC12519). Dr. Boeve has served as an investigator for clinical trials sponsored by GE Healthcare and Axovant; receives royalties from the publication of a book titled <italic>Behavioral Neurology of Dementia</italic> (Cambridge Medicine, 20179); serves on the Scientific Advisory Board of the Tau Consortium; receives research support from the NIH (U01&#x02010;AG045390, U54&#x02010;NS092089, R01&#x02010;AG041797, U01&#x02010;NS100620, R01&#x02010;AG38791), the Mayo Clinic Dorothy and Harry T. Mangurian Jr. Lewy Body Dementia Program, and the Little Family Foundation.</p><p>Dr. Knopman served as Deputy Editor for <italic>Neurology</italic>; served on a Data Safety Monitoring Board for Lilly Pharmaceuticals; serves on a Data Safety Monitoring Board for Lundbeck Pharmaceuticals and for the DIAN study; served as a consultant to TauRx Pharmaceuticals ending in November 2012; was an investigator in clinical trials sponsored by Baxter and Elan Pharmaceuticals in the past 2 years; is currently an investigator in a clinical trial sponsored by TauRx; and receives research support from the NIH (U01&#x02010;HL096917, AG&#x02010;037551). Dr. Petersen consults for Roche, Inc., Merck, Inc., Genetech, Inc., Biogen, Inc., and Eli Lilly and Company, Pfizer, Elan Pharmaceuticals, Wyeth Pharmaceuticals, and GE Healthcare, receives royalties from the publication of <italic>Mild Cognitive Impairment</italic> (Oxford University Press, 2003), and receives research support from the NIH (UF1&#x02010;AG32438, U19&#x02010;AG24904, RF1&#x02010;AG57547, U01&#x02010;AG016976).</p><p>Dr. Lowe consults for Bayer Schering Pharma, Piramal Life Sciences and receives grants from GE Healthcare, Siemens Molecular Imaging, and AVID Radiopharmaceuticals, the MN Partnership for Biotechnology and Medical Genomics, and the Leukemia &#x00026; Lymphoma Society, and receives research support from the NIH (R01CA&#x02010;200551, P50&#x02010;CA102701, UM1CA&#x02010;186686, P50&#x02010;AG44170, R01&#x02010;DC012519, R01CA&#x02010;154348, R01&#x02010;NS 89757). Dr. Jack consults for Eli Lilly and serves on an independent data&#x02010;monitoring board for Roche but he receives no personal compensation from any commercial entity; he receives research support from the NIH (UF1&#x02010;AG32438, U19&#x02010;AG24904, R01&#x02010;AG46179, R01&#x02010;AG037551). Dr. Whitwell receives research support from the NIH (R01&#x02010;DC12519, R01&#x02010;NS89757, R01&#x02010;AG37491, and R01&#x02010;DC14942). Dr. Kantarci s serves on the data safety&#x02010;monitoring board for Takeda Global Research and Development Center, Inc.; receives research support from Avid Radiopharmaceuticals and Eli Lilly, and receives funding from NIH (P50&#x02010;AG044170&#x02010;01&#x02010; Project 2, P50&#x02010;AG16574, UF1&#x02010;AG32438, K12&#x02010;HD65987, U19&#x02010;AG24904, U01&#x02010;AG45390, R01&#x02010;AG46179, RF1&#x02010;AG51504, U01&#x02010;AG52943, RF1&#x02010;AG55151, R01&#x02010;AG38791, RF1&#x02010;AG57547, R01&#x02010;AG55121, R01&#x02010;NS80816), Bluefield Project to Cure Frontotemporal Dementia (AB&#x02010;BFP&#x02010;2016), NCATS (KL2TR 02379), and Alzheimer's Drug Discovery Foundation (2013646).</p></sec></body><back><ack id="mds27603-sec-0017"><title>Acknowledgments</title><p>The authors thank AVID Radiopharmaceuticals, Inc., for provision of AV&#x02010;1451 precursor, chemistry production advice and oversight and FDA regulatory cross&#x02010;filing permission and documentation needed for this work. Dr. Nedelska was supported by CTSA grant number UL1 TR002377 from the National Center for Advancing Translational Sciences (NCATS), a component of the NIH; its contents are solely the responsibility of the authors and do not necessarily represent the official view of NIH; and the IBRO&#x02010;ISN research fellowship.</p></ack><ref-list id="mds27603-bibl-0001" content-type="cited-references"><title>References</title><ref id="mds27603-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="mds27603-cit-0001">
+<string-name>
+<surname>McKeith</surname>
+<given-names>IG</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name>, et al. <article-title>Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium</article-title>. <source xml:lang="en">Neurology</source>
+<year>2017</year>;<volume>89</volume>:<fpage>88</fpage>&#x02010;<lpage>100</lpage>.<pub-id pub-id-type="pmid">28592453</pub-id></mixed-citation></ref><ref id="mds27603-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="mds27603-cit-0002">
+<string-name>
+<surname>Tang&#x02010;Wai</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Graff&#x02010;Radford</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, et al. <article-title>Clinical, genetic, and neuropathologic characteristics of posterior cortical atrophy</article-title>. <source xml:lang="en">Neurology</source>
+<year>2004</year>;<volume>63</volume>:<fpage>1168</fpage>&#x02010;<lpage>1174</lpage>.<pub-id pub-id-type="pmid">15477533</pub-id></mixed-citation></ref><ref id="mds27603-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="mds27603-cit-0003">
+<string-name>
+<surname>Singh</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Machulda</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>Clinical, FDG and amyloid PET imaging in posterior cortical atrophy</article-title>. <source xml:lang="en">J Neurol</source>
+<year>2015</year>;<volume>262</volume>:<fpage>1483</fpage>&#x02010;<lpage>1492</lpage>.<pub-id pub-id-type="pmid">25862483</pub-id></mixed-citation></ref><ref id="mds27603-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="mds27603-cit-0004">
+<string-name>
+<surname>Nestor</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Caine</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fryer</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hodges</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>The topography of metabolic deficits in posterior cortical atrophy (the visual variant of Alzheimer's disease) with FDG&#x02010;PET</article-title>. <source xml:lang="en">J Neurol Neurosurg Psychiatry</source>
+<year>2003</year>;<volume>74</volume>:<fpage>1521</fpage>&#x02010;<lpage>1529</lpage>.<pub-id pub-id-type="pmid">14617709</pub-id></mixed-citation></ref><ref id="mds27603-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="mds27603-cit-0005">
+<string-name>
+<surname>Rosenbloom</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Alkalay</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Agarwal</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Distinct clinical and metabolic deficits in PCA and AD are not related to amyloid distribution</article-title>. <source xml:lang="en">Neurology</source>
+<year>2011</year>;<volume>76</volume>:<fpage>1789</fpage>&#x02010;<lpage>1796</lpage>.<pub-id pub-id-type="pmid">21525424</pub-id></mixed-citation></ref><ref id="mds27603-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="mds27603-cit-0006">
+<string-name>
+<surname>Whitwell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Graff&#x02010;Radford</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>TD</given-names>
+</string-name>, et al. <article-title>(18)F&#x02010;FDG PET in Posterior cortical atrophy and dementia with Lewy bodies</article-title>. <source xml:lang="en">J Nucl Med</source>
+<year>2017</year>;<volume>58</volume>:<fpage>632</fpage>&#x02010;<lpage>638</lpage>.<pub-id pub-id-type="pmid">27688479</pub-id></mixed-citation></ref><ref id="mds27603-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="mds27603-cit-0007">
+<string-name>
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Whitwell</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, et al. <article-title>Visual hallucinations in posterior cortical atrophy</article-title>. <source xml:lang="en">Arch Neurol</source>
+<year>2006</year>;<volume>63</volume>:<fpage>1427</fpage>&#x02010;<lpage>1432</lpage>.<pub-id pub-id-type="pmid">17030659</pub-id></mixed-citation></ref><ref id="mds27603-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="mds27603-cit-0008">
+<string-name>
+<surname>Wang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wing</surname>
+<given-names>YK</given-names>
+</string-name>, <string-name>
+<surname>Xing</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Rapid eye movement sleep behavior disorder in patients with probable Alzheimer's disease</article-title>. <source xml:lang="en">Aging Clin Exp Res</source>
+<year>2016</year>;<volume>28</volume>:<fpage>951</fpage>&#x02010;<lpage>957</lpage>.<pub-id pub-id-type="pmid">26022447</pub-id></mixed-citation></ref><ref id="mds27603-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="mds27603-cit-0009">
+<string-name>
+<surname>Crutch</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Lehmann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schott</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rabinovici</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Rossor</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>NC</given-names>
+</string-name>. <article-title>Posterior cortical atrophy</article-title>. <source xml:lang="en">Lancet Neurol</source>
+<year>2012</year>;<volume>11</volume>:<fpage>170</fpage>&#x02010;<lpage>178</lpage>.<pub-id pub-id-type="pmid">22265212</pub-id></mixed-citation></ref><ref id="mds27603-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="mds27603-cit-0010">
+<string-name>
+<surname>Snowden</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Bowen</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>
+<given-names>EB</given-names>
+</string-name>. <article-title>Study of Alzheimer's dementia patients with parkinsonian features</article-title>. <source xml:lang="en">J Geriatr Psychiatry Neurol</source>
+<year>1995</year>;<volume>8</volume>:<fpage>154</fpage>&#x02010;<lpage>158</lpage>.<pub-id pub-id-type="pmid">7576038</pub-id></mixed-citation></ref><ref id="mds27603-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="mds27603-cit-0011">
+<string-name>
+<surname>Metzler&#x02010;Baddeley</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Baddeley</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Lovell</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Laffan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Visual impairments in dementia with Lewy bodies and posterior cortical atrophy</article-title>. <source xml:lang="en">Neuropsychology</source>
+<year>2010</year>;<volume>24</volume>:<fpage>35</fpage>&#x02010;<lpage>48</lpage>.<pub-id pub-id-type="pmid">20063945</pub-id></mixed-citation></ref><ref id="mds27603-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="mds27603-cit-0012">
+<string-name>
+<surname>Crutch</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Schott</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rabinovici</surname>
+<given-names>GD</given-names>
+</string-name>, et al. <article-title>Consensus classification of posterior cortical atrophy</article-title>. <source xml:lang="en">Alzheimers Dement</source>
+<year>2017</year>;<volume>13</volume>:<fpage>870</fpage>&#x02010;<lpage>884</lpage>.<pub-id pub-id-type="pmid">28259709</pub-id></mixed-citation></ref><ref id="mds27603-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="mds27603-cit-0013">
+<string-name>
+<surname>Kantarci</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, et al. <article-title>AV&#x02010;1451 tau and &#x003b2;&#x02010;amyloid PET imaging in dementia with Lewy bodies</article-title>. <source xml:lang="en">Ann Neurol</source>
+<year>2016</year>;<volume>81</volume>(<issue>1</issue>):58&#x02010;67&#x02010;9.</mixed-citation></ref><ref id="mds27603-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="mds27603-cit-0014">
+<string-name>
+<surname>Gomperts</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Locascio</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Makaretz</surname>
+<given-names>SJ</given-names>
+</string-name>, et al. <article-title>Tau Positron Emission Tomographic Imaging in the Lewy Body Diseases</article-title>. <source xml:lang="en">JAMA Neurol</source>
+<year>2016</year>;<volume>73</volume>(<issue>11</issue>):<fpage>1334</fpage>&#x02010;<lpage>1341</lpage>.<pub-id pub-id-type="pmid">27654968</pub-id></mixed-citation></ref><ref id="mds27603-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="mds27603-cit-0015">
+<string-name>
+<surname>Tetzloff</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Graff&#x02010;Radford</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>PR</given-names>
+</string-name>, et al. <article-title>Regional distribution, asymmetry, and clinical correlates of tau uptake on [18F]AV&#x02010;1451 PET in atypical Alzheimer's disease</article-title>. <source xml:lang="en">J Alzheimers Dis</source>
+<year>2018</year>;<volume>62</volume>:<fpage>1713</fpage>&#x02010;<lpage>1724</lpage>.<pub-id pub-id-type="pmid">29614676</pub-id></mixed-citation></ref><ref id="mds27603-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="mds27603-cit-0016">
+<string-name>
+<surname>Ossenkoppele</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Schonhaut</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Scholl</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Tau PET patterns mirror clinical and neuroanatomical variability in Alzheimer's disease</article-title>. <source xml:lang="en">Brain</source>
+<year>2016</year>;<volume>139</volume>:<fpage>1551</fpage>&#x02010;<lpage>1567</lpage>.<pub-id pub-id-type="pmid">26962052</pub-id></mixed-citation></ref><ref id="mds27603-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="mds27603-cit-0017">
+<string-name>
+<surname>Roberts</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>Geda</surname>
+<given-names>YE</given-names>
+</string-name>, <string-name>
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>The Mayo Clinic Study of Aging: design and sampling, participation, baseline measures and sample characteristics</article-title>. <source xml:lang="en">Neuroepidemiology</source>
+<year>2008</year>;<volume>30</volume>:<fpage>58</fpage>&#x02010;<lpage>69</lpage>.<pub-id pub-id-type="pmid">18259084</pub-id></mixed-citation></ref><ref id="mds27603-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="mds27603-cit-0018">
+<string-name>
+<surname>Ivnik</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Malec</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>GE</given-names>
+</string-name>, et al. <article-title>Mayo's Older Americans Normative Studies: WAIS&#x02010;R, WMS&#x02010;R and AVLT norms for ages 56 through 97</article-title>. <source xml:lang="en">Clin Neuropsychol</source>
+<year>1992</year>;<volume>6</volume>(<issue>Suppl</issue>):<fpage>1</fpage>&#x02010;<lpage>104</lpage>.</mixed-citation></ref><ref id="mds27603-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="mds27603-cit-0019">
+<string-name>
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Roberts</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>Knopman</surname>
+<given-names>DS</given-names>
+</string-name>, et al. <article-title>Prevalence of mild cognitive impairment is higher in men</article-title>. <source xml:lang="en">The Mayo Clinic Study of Aging. Neurology</source>
+<year>2010</year>;<volume>75</volume>:<fpage>889</fpage>&#x02010;<lpage>897</lpage>.</mixed-citation></ref><ref id="mds27603-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="mds27603-cit-0020">
+<string-name>
+<surname>Schwarz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Gunter</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Wiste</surname>
+<given-names>HJ</given-names>
+</string-name>, et al. <article-title>A large&#x02010;scale comparison of cortical thickness and volume methods for measuring Alzheimer's disease severity</article-title>. <source xml:lang="en">Neuroimage Clin</source>
+<year>2016</year>;<volume>11</volume>:<fpage>802</fpage>&#x02010;<lpage>812</lpage>.<pub-id pub-id-type="pmid">28050342</pub-id></mixed-citation></ref><ref id="mds27603-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="mds27603-cit-0021">
+<string-name>
+<surname>Tzourio&#x02010;Mazoyer</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Landeau</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Papathanassiou</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Automated anatomical labeling of activations in SPM using a macroscopic anatomical parcellation of the MNI MRI single&#x02010;subject brain</article-title>. <source xml:lang="en">Neuroimage</source>
+<year>2002</year>;<volume>15</volume>:<fpage>273</fpage>&#x02010;<lpage>289</lpage>.<pub-id pub-id-type="pmid">11771995</pub-id></mixed-citation></ref><ref id="mds27603-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="mds27603-cit-0022">
+<string-name>
+<surname>Avants</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Grossman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gee</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Symmetric diffeomorphic image registration with cross&#x02010;correlation: evaluating automated labeling of elderly and neurodegenerative brain</article-title>. <source xml:lang="en">Med Image Anal</source>
+<year>2008</year>;<volume>12</volume>:<fpage>26</fpage>&#x02010;<lpage>41</lpage>.<pub-id pub-id-type="pmid">17659998</pub-id></mixed-citation></ref><ref id="mds27603-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="mds27603-cit-0023">
+<string-name>
+<surname>Schwarz</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Gunter</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Ward</surname>
+<given-names>CP</given-names>
+</string-name>, et al. The Mayo Clinic Adult Lifespan Template (MCALT): Better quantification across the lifespan Alzheimer's Association International Conference; 2017; Chicago: <fpage>455</fpage>&#x02010;<lpage>456</lpage>.</mixed-citation></ref><ref id="mds27603-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="mds27603-cit-0024">
+<string-name>
+<surname>Meltzer</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Kinahan</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name>
+<surname>Greer</surname>
+<given-names>PJ</given-names>
+</string-name>, et al. <article-title>Comparative evaluation of MR&#x02010;based partial&#x02010;volume correction schemes for PET</article-title>. <source xml:lang="en">J Nucl Med</source>
+<year>1999</year>;<volume>40</volume>:<fpage>2053</fpage>&#x02010;<lpage>2065</lpage>.<pub-id pub-id-type="pmid">10616886</pub-id></mixed-citation></ref><ref id="mds27603-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="mds27603-cit-0025">
+<string-name>
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Wiste</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Senjem</surname>
+<given-names>ML</given-names>
+</string-name>, et al. <article-title>Widespread brain tau and its association with ageing, Braak stage and Alzheimer's dementia</article-title>. <source xml:lang="en">Brain</source>
+<year>2018</year>;<volume>141</volume>:<fpage>271</fpage>&#x02010;<lpage>287</lpage>.<pub-id pub-id-type="pmid">29228201</pub-id></mixed-citation></ref><ref id="mds27603-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="mds27603-cit-0026">
+<string-name>
+<surname>Jack</surname>
+<given-names>CR</given-names>, <suffix>Jr.</suffix>
+</string-name>, <string-name>
+<surname>Wiste</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Lesnick</surname>
+<given-names>TG</given-names>
+</string-name>, et al. <article-title>Brain beta&#x02010;amyloid load approaches a plateau</article-title>. <source xml:lang="en">Neurology</source>
+<year>2013</year>;<volume>80</volume>:<fpage>890</fpage>&#x02010;<lpage>896</lpage>.<pub-id pub-id-type="pmid">23446680</pub-id></mixed-citation></ref><ref id="mds27603-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="mds27603-cit-0027">
+<string-name>
+<surname>Smith</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Scholl</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Londos</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ohlsson</surname>
+<given-names>T</given-names>
+</string-name>, <article-title>Hansson O. (18)F&#x02010;AV&#x02010;1451 in Parkinson's Disease with and without dementia and in Dementia with Lewy Bodies</article-title>. <source xml:lang="en">Sci Rep</source>
+<year>2018</year>;<volume>8</volume>:<fpage>4717</fpage>.<pub-id pub-id-type="pmid">29549278</pub-id></mixed-citation></ref><ref id="mds27603-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="mds27603-cit-0028">
+<string-name>
+<surname>Day</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Tau&#x02010;PET Binding Distinguishes Patients With Early&#x02010;stage Posterior Cortical Atrophy From Amnestic Alzheimer Disease Dementia</article-title>. <source xml:lang="en">Alzheimer Dis Assoc Disord</source>
+<year>2017</year>;<volume>31</volume>:<fpage>87</fpage>&#x02010;<lpage>93</lpage>.<pub-id pub-id-type="pmid">28394771</pub-id></mixed-citation></ref><ref id="mds27603-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="mds27603-cit-0029">
+<string-name>
+<surname>Renner</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Burns</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>McKeel</surname>
+<given-names>DW</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Storandt</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Progressive posterior cortical dysfunction: a clinicopathologic series</article-title>. <source xml:lang="en">Neurology</source>
+<year>2004</year>;<volume>63</volume>:<fpage>1175</fpage>&#x02010;<lpage>1180</lpage>.<pub-id pub-id-type="pmid">15477534</pub-id></mixed-citation></ref><ref id="mds27603-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="mds27603-cit-0030">
+<string-name>
+<surname>Merdes</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Jeste</surname>
+<given-names>DV</given-names>
+</string-name>, et al. <article-title>Influence of Alzheimer pathology on clinical diagnostic accuracy in dementia with Lewy bodies</article-title>. <source xml:lang="en">Neurology</source>
+<year>2003</year>;<volume>60</volume>:<fpage>1586</fpage>&#x02010;<lpage>1590</lpage>.<pub-id pub-id-type="pmid">12771246</pub-id></mixed-citation></ref><ref id="mds27603-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="mds27603-cit-0031">
+<string-name>
+<surname>Schneider</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Arvanitakis</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Bang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Mixed brain pathologies account for most dementia cases in community&#x02010;dwelling older persons</article-title>. <source xml:lang="en">Neurology</source>
+<year>2007</year>;<volume>69</volume>:<fpage>2197</fpage>&#x02010;<lpage>2204</lpage>.<pub-id pub-id-type="pmid">17568013</pub-id></mixed-citation></ref><ref id="mds27603-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="mds27603-cit-0032">
+<string-name>
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Curran</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>An autoradiographic evaluation of AV&#x02010;1451 Tau PET in dementia</article-title>. <source xml:lang="en">Acta Neuropathol Commun</source>
+<year>2016</year>;<volume>4</volume>:<fpage>58</fpage>.<pub-id pub-id-type="pmid">27296779</pub-id></mixed-citation></ref><ref id="mds27603-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="mds27603-cit-0033">
+<string-name>
+<surname>Murray</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Graff&#x02010;Radford</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>OA</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Duara</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>Neuropathologically defined subtypes of Alzheimer's disease with distinct clinical characteristics: a retrospective study</article-title>. <source xml:lang="en">Lancet Neurol</source>
+<year>2011</year>;<volume>10</volume>:<fpage>785</fpage>&#x02010;<lpage>796</lpage>.<pub-id pub-id-type="pmid">21802369</pub-id></mixed-citation></ref><ref id="mds27603-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="mds27603-cit-0034">
+<string-name>
+<surname>Irwin</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Grossman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Weintraub</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Neuropathological and genetic correlates of survival and dementia onset in synucleinopathies: a retrospective analysis</article-title>. <source xml:lang="en">Lancet Neurol</source>
+<year>2017</year>;<volume>16</volume>:<fpage>55</fpage>&#x02010;<lpage>65</lpage>.<pub-id pub-id-type="pmid">27979356</pub-id></mixed-citation></ref><ref id="mds27603-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="mds27603-cit-0035">
+<string-name>
+<surname>Tang&#x02010;Wai</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Josephs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Petersen</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Parisi</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Dickson</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>Coexistent Lewy body disease in a case of &#x0201c;visual variant of Alzheimer's disease.&#x0201d;</article-title>
+<source xml:lang="en">J Neurol Neurosurg Psychiatry</source>
+<year>2003</year>;<volume>74</volume>:<fpage>389</fpage>.</mixed-citation></ref><ref id="mds27603-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="mds27603-cit-0036">
+<string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Silber</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Parisi</surname>
+<given-names>JE</given-names>
+</string-name>, et al. <article-title>Synucleinopathy pathology and REM sleep behavior disorder plus dementia or parkinsonism</article-title>. <source xml:lang="en">Neurology</source>
+<year>2003</year>;<volume>61</volume>:<fpage>40</fpage>&#x02010;<lpage>45</lpage>.<pub-id pub-id-type="pmid">12847154</pub-id></mixed-citation></ref><ref id="mds27603-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="mds27603-cit-0037">
+<string-name>
+<surname>Gagnon</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Petit</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fantini</surname>
+<given-names>ML</given-names>
+</string-name>, et al. <article-title>REM sleep behavior disorder and REM sleep without atonia in probable Alzheimer disease</article-title>. <source xml:lang="en">Sleep</source>
+<year>2006</year>;<volume>29</volume>:<fpage>1321</fpage>&#x02010;<lpage>1325</lpage>.<pub-id pub-id-type="pmid">17068986</pub-id></mixed-citation></ref><ref id="mds27603-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="mds27603-cit-0038">
+<string-name>
+<surname>Horvath</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Burkhard</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Herrmann</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Bouras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kovari</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Neuropathology of parkinsonism in patients with pure Alzheimer's disease</article-title>. <source xml:lang="en">J Alzheimers Dis</source>
+<year>2014</year>;<volume>39</volume>:<fpage>115</fpage>&#x02010;<lpage>120</lpage>.<pub-id pub-id-type="pmid">24121968</pub-id></mixed-citation></ref><ref id="mds27603-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="mds27603-cit-0039">
+<string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, <string-name>
+<surname>Silber</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Ferman</surname>
+<given-names>TJ</given-names>
+</string-name>, et al. <article-title>Clinicopathologic correlations in 172 cases of rapid eye movement sleep behavior disorder with or without a coexisting neurologic disorder</article-title>. <source xml:lang="en">Sleep Med</source>
+<year>2013</year>;<volume>14</volume>(<issue>8</issue>):<fpage>754</fpage>&#x02010;<lpage>762</lpage>.<pub-id pub-id-type="pmid">23474058</pub-id></mixed-citation></ref><ref id="mds27603-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="mds27603-cit-0040">
+<string-name>
+<surname>Kantarci</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lowe</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Boeve</surname>
+<given-names>BF</given-names>
+</string-name>, et al. <article-title>Multimodality imaging characteristics of dementia with Lewy bodies</article-title>. <source xml:lang="en">Neurobiol Aging</source>
+<year>2012</year>;<volume>33</volume>:<fpage>2091</fpage>&#x02010;<lpage>2105</lpage>.<pub-id pub-id-type="pmid">22018896</pub-id></mixed-citation></ref></ref-list></back></article>

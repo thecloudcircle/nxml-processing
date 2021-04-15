@@ -1,0 +1,904 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31624541</article-id><article-id pub-id-type="pmc">6787803</article-id><article-id pub-id-type="doi">10.1002/ece3.5478</article-id><article-id pub-id-type="publisher-id">ECE35478</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Chronic radiation exposure at Chernobyl shows no effect on genetic diversity in the freshwater crustacean, <italic>Asellus aquaticus</italic> thirty years on</article-title><alt-title alt-title-type="left-running-head">FULLER et al.</alt-title></title-group><contrib-group><contrib id="ece35478-cr-0001" contrib-type="author" corresp="yes"><name><surname>Fuller</surname><given-names>Neil</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9486-6654</contrib-id><xref ref-type="aff" rid="ece35478-aff-0001">
+<sup>1</sup>
+</xref><address><email>neil.fuller@port.ac.uk</email></address></contrib><contrib id="ece35478-cr-0002" contrib-type="author"><name><surname>Ford</surname><given-names>Alex T.</given-names></name><xref ref-type="aff" rid="ece35478-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35478-cr-0003" contrib-type="author"><name><surname>Lerebours</surname><given-names>Ad&#x000e9;la&#x000ef;de</given-names></name><xref ref-type="aff" rid="ece35478-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35478-cr-0004" contrib-type="author"><name><surname>Gudkov</surname><given-names>Dmitri I.</given-names></name><xref ref-type="aff" rid="ece35478-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35478-cr-0005" contrib-type="author"><name><surname>Nagorskaya</surname><given-names>Liubov L.</given-names></name><xref ref-type="aff" rid="ece35478-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35478-cr-0006" contrib-type="author"><name><surname>Smith</surname><given-names>Jim T.</given-names></name><xref ref-type="aff" rid="ece35478-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="ece35478-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Institute of Marine Sciences, School of Biological Sciences</named-content>
+<institution>University of Portsmouth</institution>
+<city>Portsmouth</city>
+<country country="GB">UK</country>
+</aff><aff id="ece35478-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Freshwater Radioecology</named-content>
+<institution>Institute of Hydrobiology</institution>
+<city>Kiev</city>
+<country country="UA">Ukraine</country>
+</aff><aff id="ece35478-aff-0003">
+<label><sup>3</sup></label>
+<institution>Applied Science Center for Bioresources of the National Academy of Sciences of Belarus</institution>
+<city>Minsk</city>
+<country country="BY">Belarus</country>
+</aff><aff id="ece35478-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">School of Earth &#x00026; Environmental Sciences</named-content>
+<institution>University of Portsmouth</institution>
+<city>Portsmouth</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Neil Fuller, Institute of Marine Sciences, School of Biological Sciences, University of Portsmouth, Ferry Road, Portsmouth, Hampshire PO4 9LY, UK.<break/>
+Email: <email>neil.fuller@port.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>8</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2019</year></pub-date><volume>9</volume><issue>18</issue><issue-id pub-id-type="doi">10.1002/ece3.v9.18</issue-id><fpage>10135</fpage><lpage>10144</lpage><history><date date-type="received"><day>06</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>19</day><month>6</month><year>2019</year></date><date date-type="accepted"><day>02</day><month>7</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-9-10135.pdf"/><abstract id="ece35478-abs-0001"><title>Abstract</title><p>Analysis of genetic diversity represents a fundamental component of ecological risk assessments in contaminated environments. Many studies have assessed the genetic implications of chronic radiation exposure at Chernobyl, generally recording an elevated genetic diversity and mutation rate in rodents, plants, and birds inhabiting contaminated areas. Only limited studies have considered genetic diversity in aquatic biota at Chernobyl, despite the large number of freshwater systems where elevated dose rates will persist for many years. Consequently, the present study aimed to assess the effects of chronic radiation exposure on genetic diversity in the freshwater crustacean, <italic>Asellus aquaticus</italic>, using a genome&#x02010;wide SNP approach (Genotyping&#x02010;by&#x02010;sequencing). It was hypothesized that genetic diversity in <italic>A.&#x000a0;aquaticus</italic> would be positively correlated with dose rate. <italic>A.&#x000a0;aquaticus</italic> was collected from six lakes in Belarus and the Ukraine ranging in dose rate from 0.064 to 27.1&#x000a0;&#x000b5;Gy/hr. Genotyping&#x02010;by&#x02010;sequencing analysis was performed on 74 individuals. A significant relationship between geographical distance and genetic differentiation confirmed the Isolation&#x02010;by&#x02010;Distance model. Conversely, no significant relationship between dose rate and genetic differentiation suggested no effect of the contamination gradient on genetic differentiation between populations. No significant relationship between five measures of genetic diversity and dose rate was recorded, suggesting that radiation exposure has not significantly influenced genetic diversity in <italic>A.&#x000a0;aquaticus</italic> at Chernobyl. This is the first study to adopt a genome&#x02010;wide SNP approach to assess the impacts of environmental radiation exposure on biota. These findings are fundamental to understanding the long&#x02010;term success of aquatic populations in contaminated environments at Chernobyl and Fukushima.</p></abstract><abstract abstract-type="graphical" id="ece35478-abs-0002"><p>This study utilized a genotyping by sequencing method to provide a novel assessment of the impacts of chronic radiation exposure at Chernobyl on a freshwater crustacean. No significant impact of over 30&#x000a0;years of radiation exposure on genetic variation was recorded. These findings are fundamental to understanding the long&#x02010;term success of aquatic populations in contaminated environments at Chernobyl and Fukushima.<boxed-text position="anchor" content-type="graphic" id="ece35478-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-9-10135-g005.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35478-kwd-0001">Chernobyl</kwd><kwd id="ece35478-kwd-0002">crustacean</kwd><kwd id="ece35478-kwd-0003">genetic diversity</kwd><kwd id="ece35478-kwd-0004">genotyping&#x02010;by&#x02010;sequencing</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Radioactive Waste Management</funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Environment Agency </institution><institution-id institution-id-type="open-funder-registry">10.13039/100011246</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Natural Environment Research Council </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100000270</institution-id></institution-wrap></funding-source><award-id>NE/L000393/1</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="11"/><word-count count="8802"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.0 mode:remove_FC converted:11.10.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35478-cit-1001">
+<string-name>
+<surname>Fuller</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Lerebours</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gudkov</surname>
+<given-names>DI</given-names>
+</string-name>, <string-name>
+<surname>Nagorskaya</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>JT</given-names>
+</string-name>. <article-title>Chronic radiation exposure at Chernobyl shows no effect on genetic diversity in the freshwater crustacean, <italic>Asellus aquaticus</italic> thirty years on</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>10135</fpage>&#x02013;<lpage>10144</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5478</pub-id>
+</mixed-citation>
+</p></notes></front><body id="ece35478-body-0001"><sec id="ece35478-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Studies of the impacts of contaminants on genetic diversity have increased in recent years owing to the advent of affordable DNA sequencing services and the recognized importance of maintaining genetic diversity in the conservation of wildlife populations (Frankham, Bradshaw, &#x00026; Brook, <xref rid="ece35478-bib-0024" ref-type="ref">2014</xref>; Giska, Babik, Gestel, Straalen, &#x00026; Laskowski, <xref rid="ece35478-bib-0031" ref-type="ref">2015</xref>; Rumisha et al., <xref rid="ece35478-bib-0057" ref-type="ref">2017</xref>). Alterations to genetic diversity may lead to reduced susceptibility to environmental change (Ehlers, Worm, &#x00026; Reusch, <xref rid="ece35478-bib-0018" ref-type="ref">2008</xref>) and increased extinction potential. Furthermore, changes to genetic diversity may reflect long&#x02010;term pollutant impacts more adequately than many commonly used biomarkers which reflect transient stress on populations (Anderson et al., <xref rid="ece35478-bib-0001" ref-type="ref">1994</xref>; Bickham, Sandhu, Hebert, Chikhi, &#x00026; Athwal, <xref rid="ece35478-bib-0006" ref-type="ref">2000</xref>). Ionizing radiation is a known mutagen with the capacity to cause a range of alterations to the genome, including chromosomal aberrations, micronuclei formation, and gene mutations (Morgan, <xref rid="ece35478-bib-0049" ref-type="ref">2003</xref>). While the genetic consequences of acute, high doses of radiation are well understood (Little, Nagasawa, Pfenning, &#x00026; Vetrovs, <xref rid="ece35478-bib-0044" ref-type="ref">1997</xref>; Tucker, Cofield, Matsumoto, Ramsey, &#x00026; Freeman, <xref rid="ece35478-bib-0064" ref-type="ref">2005</xref>), the impacts of chronic sublethal doses over multiple generations are comparatively less clear (Baker et al., <xref rid="ece35478-bib-0003" ref-type="ref">2017</xref>).</p><p>Following the 1986 Chernobyl accident, the worst nuclear accident in history, a number of studies assessed genetic effects of radiation exposure on both humans and wildlife (Dubrova et al., <xref rid="ece35478-bib-0016" ref-type="ref">1996</xref>, <xref rid="ece35478-bib-0017" ref-type="ref">1997</xref>; Ellegren, Lindgren, Primmer, &#x00026; M&#x000f8;ller, <xref rid="ece35478-bib-0019" ref-type="ref">1997</xref>; Matson, Rodgers, Chesser, &#x00026; Baker, <xref rid="ece35478-bib-0047" ref-type="ref">2000</xref>). Elevated mutation rates have been recorded in the offspring of liquidators involved in the clean&#x02010;up operation (Weinberg et al., <xref rid="ece35478-bib-0072" ref-type="ref">2001</xref>) and among children born in heavily contaminated areas (Dubrova et al., <xref rid="ece35478-bib-0016" ref-type="ref">1996</xref>, <xref rid="ece35478-bib-0017" ref-type="ref">1997</xref>). Similarly, studies have demonstrated elevated genetic diversity and mutation rates in a range of wildlife inhabiting contaminated areas (Baker et al., <xref rid="ece35478-bib-0003" ref-type="ref">2017</xref>; Ellegren et al., <xref rid="ece35478-bib-0019" ref-type="ref">1997</xref>). However, these findings are not ubiquitous, with a number of studies finding no significant effects of Chernobyl&#x02010;derived radiation on genetic variation (DeWoody, <xref rid="ece35478-bib-0015" ref-type="ref">1999</xref>; Furitsu et al., <xref rid="ece35478-bib-0029" ref-type="ref">2005</xref>; Livshits et al., <xref rid="ece35478-bib-0045" ref-type="ref">2001</xref>).</p><p>Though the majority of studies suggest an increase in genetic diversity and mutation rates in contaminated areas of Chernobyl, a reduction in genetic diversity could also have occurred owing to population bottlenecks induced by high dose rates immediately following the accident. Bottleneck events occur when the size of a population is reduced due to contaminant exposure, leading to a small subset of genotypes available for recovery and expansion (van Straalen &#x00026; Timmermans, <xref rid="ece35478-bib-0066" ref-type="ref">2002</xref>). This would lead to reduced genetic diversity due to the direct removal of genotypes, known as &#x0201c;genetic erosion.&#x0201d; To the author's knowledge, no study has demonstrated a reduced genetic diversity in wildlife at Chernobyl.</p><p>Despite the large number of studies assessing genetic effects of environmental radiation on natural populations of rodents (Baker et al., <xref rid="ece35478-bib-0003" ref-type="ref">2017</xref>; Matson et al., <xref rid="ece35478-bib-0047" ref-type="ref">2000</xref>; Wickliffe et al., <xref rid="ece35478-bib-0076" ref-type="ref">2003</xref>) and plants (Geras'kin &#x00026; Volkova, <xref rid="ece35478-bib-0030" ref-type="ref">2014</xref>; Kovalchuk, Dubrova, Arkhipov, Hohn, &#x00026; Kovalchuk, <xref rid="ece35478-bib-0039" ref-type="ref">2000</xref>; Tsyusko, Smith, Oleksyk, Goryanaya, &#x00026; Glenn, <xref rid="ece35478-bib-0063" ref-type="ref">2006</xref>; Volkova et al., <xref rid="ece35478-bib-0070" ref-type="ref">2018</xref>), only two studies have considered effects on aquatic biota. Theodorakis and Shugart (<xref rid="ece35478-bib-0061" ref-type="ref">1998</xref>) studied genetic variation using random amplified polymorphic DNA (RAPD) methods in mosquito fish (<italic>Gambusia affinis</italic>) inhabiting ponds contaminated with radioactive waste from the US Department of Energy's Oak Ridge facility. The authors recorded increased genetic diversity in <italic>G.&#x000a0;affinis</italic> individuals inhabiting two contaminated ponds (dose rates of 50 and 1,313&#x000a0;&#x000b5;Gy/hr) as opposed to individuals from two reference populations. However, one of the aforementioned sites is also heavily contaminated with a suite of other genotoxicants (e.g., heavy metals and polycyclic aromatic hydrocarbons, Theodorakis &#x00026; Shugart, <xref rid="ece35478-bib-0061" ref-type="ref">1998</xref>), meaning any observed effects cannot be attributed solely to radiation. The Chernobyl area is heterogeneously contaminated by a range of radionuclides, including <sup>90</sup>Sr, <sup>137</sup>Cs and transuranium isotopes (e.g., <sup>238</sup>Pu, <sup>239,240</sup>Pu, and <sup>241</sup>Am, Beresford et al., <xref rid="ece35478-bib-0005" ref-type="ref">2018</xref>). Doses to aquatic macroinvertebrates are dominated by external &#x003b3; and &#x003b2; radiation from <sup>137</sup>Cs and <sup>90</sup>Sr (Murphy, Nagorskaya, &#x00026; Smith, <xref rid="ece35478-bib-0050" ref-type="ref">2011</xref>).</p><p>To the authors' knowledge, only a single study has considered radiation effects on genetic diversity in aquatic biota at Chernobyl, despite the large number of closed lake systems in the area where biota are chronically exposed to low&#x02010;dose radiation. Fetisov, Rubanovich, Slipchenko, and Shevchenko (<xref rid="ece35478-bib-0022" ref-type="ref">1992</xref>) studied genetic and morphological differences in seven populations of the zebra mussel, <italic>Dreissena polymorpha,</italic> in the Chernobyl area using an allozyme method. Based on data for five loci, no significant influence of radiation on <italic>D.&#x000a0;polymorpha</italic> genetic structure was recorded, though thermal regime was found to influence genetic diversity. However, the use of allozymes in genetic diversity studies has been questioned, particularly at small spatial scales and using a small number of loci (Turlure, Vandewoestijne, &#x00026; Baguette, <xref rid="ece35478-bib-0065" ref-type="ref">2014</xref>). Furthermore, the influence of radiation was not the direct focus of the study and no dose rates were provided, necessitating further robust study into the impacts of chronic radiation exposure on the genetic diversity of aquatic invertebrates. The 2011 accident at the Fukushima Dai&#x02010;Ichi nuclear power plant led to further contamination of marine and freshwater environments that will persist for decades (IAEA, <xref rid="ece35478-bib-0035" ref-type="ref">2015</xref>). This further emphasizes the need for robust studies of the long&#x02010;term genetic consequences of environmental radiation on aquatic biota.</p><p>Many of the studies of radiation&#x02010;induced genetic changes highlighted above used techniques such as restriction fragment length polymorphisms (RFLPs, e.g., Theodorakis &#x00026; Shugart, <xref rid="ece35478-bib-0061" ref-type="ref">1998</xref>), amplified fragment length polymorphisms (AFLPs, e.g., Volkova et al., <xref rid="ece35478-bib-0070" ref-type="ref">2018</xref>), or microsatellites (Ellegren et al., <xref rid="ece35478-bib-0019" ref-type="ref">1997</xref>). Recent studies have shown that genome&#x02010;wide analysis of single&#x02010;nucleotide polymorphisms (SNPs) provides less biased measures of genetic diversity as compared to these more traditional techniques (Fischer et al., <xref rid="ece35478-bib-0023" ref-type="ref">2017</xref>). SNPs are more widely abundant across the genome as compared to microsatellites and RFLP&#x02010;based techniques and are generally more reproducible (Davey et al., <xref rid="ece35478-bib-0013" ref-type="ref">2011</xref>; Schl&#x000f6;tterer, <xref rid="ece35478-bib-0058" ref-type="ref">2004</xref>). The advent of affordable sequencing coupled with continual advancements in technologies have led to the application of genome&#x02010;wide SNP approaches to a wide range of questions, including evolutionary history (Pollinger et al., <xref rid="ece35478-bib-0056" ref-type="ref">2010</xref>), conservation (Larson et al., <xref rid="ece35478-bib-0043" ref-type="ref">2014</xref>), and ecotoxicology (Giska et al., <xref rid="ece35478-bib-0031" ref-type="ref">2015</xref>).</p><p>Taking into account these knowledge gaps, the present study aimed to assess the impact of chronic radiation exposure on the freshwater crustacean, <italic>Asellus aquaticus</italic>, along a gradient of contamination at Chernobyl using a genome&#x02010;wide SNP approach. Genotyping&#x02010;by&#x02010;sequencing (GBS) is a simple, cost&#x02010;effective reduced representation method for assessing a vast number of SNPs across the genome (Narum, Buerkle, Davey, Miller, &#x00026; Hohenlohe, <xref rid="ece35478-bib-0051" ref-type="ref">2013</xref>). GBS has been applied to a wide range of both model and nonmodel organisms and has been demonstrated to be a useful technique for population genomic analyses even where reference genomes are not available (White, Perkins, Heckel, &#x00026; Searle, <xref rid="ece35478-bib-0074" ref-type="ref">2013</xref>). <italic>Asellus aquaticus</italic> is a detrivorous isopod crustacean commonly found in freshwater systems across Europe. Crustaceans are one of the International Commission on Radiological Protection's (ICRP) eight reference animals and plants (RAPs), meaning these organisms will be used to support the evolving system for environmental radioprotection (ICRP, <xref rid="ece35478-bib-0036" ref-type="ref">2007</xref>). <italic>A.&#x000a0;aquaticus</italic> is commonly used in ecotoxicology studies of sediment&#x02010;borne contaminants (De Lange, Haas, Maas, &#x00026; Peeters, <xref rid="ece35478-bib-0014" ref-type="ref">2005</xref>; McCahon &#x00026; Pascoe, <xref rid="ece35478-bib-0048" ref-type="ref">1988</xref>) and has been used as an indicator of water quality (Whitehurst, <xref rid="ece35478-bib-0075" ref-type="ref">1991</xref>). Previous studies have demonstrated no effects of chronic radiation exposure at Chernobyl on the development and reproduction of <italic>A.&#x000a0;aquaticus</italic> (Fuller, Ford, Nagorskaya, Gudkov, &#x00026; Smith, <xref rid="ece35478-bib-0026" ref-type="ref">2018</xref>; Fuller, Smith, Nagorskaya, Gudkov, &#x00026; Ford, <xref rid="ece35478-bib-0028" ref-type="ref">2017</xref>). However, to the authors knowledge no studies have been conducted on the lethal tolerance of <italic>A.&#x000a0;aquaticus</italic> to ionizing radiation.</p><p>Based on the number of studies documenting an increase in genetic diversity in biota at Chernobyl (Baker et al., <xref rid="ece35478-bib-0003" ref-type="ref">2017</xref>; Matson et al., <xref rid="ece35478-bib-0047" ref-type="ref">2000</xref>; Volkova et al., <xref rid="ece35478-bib-0070" ref-type="ref">2018</xref>), we hypothesized that populations of <italic>A.&#x000a0;aquaticus</italic> would display elevated genetic diversity along a gradient of radionuclide contamination at Chernobyl. In addition, the influence of the gradient in dose rate on genetic differentiation (measured as <italic>F</italic>
+<sub>st</sub>) was assessed following Giska et al., (<xref rid="ece35478-bib-0031" ref-type="ref">2015</xref>) and Rumisha et al., (<xref rid="ece35478-bib-0057" ref-type="ref">2017</xref>).</p></sec><sec sec-type="materials-and-methods" id="ece35478-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35478-sec-0003"><label>2.1</label><title>Field sampling and collection of <italic>A.&#x000a0;aquaticus</italic>
+</title><p>Field sampling was conducted in May&#x02010;June of 2016 at six lakes in Belarus and Ukraine (see Figure <xref rid="ece35478-fig-0001" ref-type="fig">1</xref>) as described in Fuller et al., (<xref rid="ece35478-bib-0028" ref-type="ref">2017</xref>), Fuller et al., (<xref rid="ece35478-bib-0026" ref-type="ref">2018</xref>). Sampling sites were selected based on historical measurements of radioactivity and exposure to a gradient of radionuclide contamination. <italic>A.&#x000a0;aquaticus</italic> were collected by kick netting in littoral zones using a 1&#x000a0;mm mesh size net (EFE), sorted lakeside and immediately preserved in 96% Ethanol. A total of 455 <italic>A.&#x000a0;aquaticus</italic> individuals were collected across all sites during the sampling period. Numbers of <italic>A.&#x000a0;aquaticus</italic> individuals sequenced are shown in Section <xref rid="ece35478-sec-0006" ref-type="sec">2.4</xref>.</p><fig fig-type="Figure" xml:lang="en" id="ece35478-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Map of the six study sites sampled for <italic>Asellus aquaticus</italic> in relation to distance from the Chernobyl Nuclear Power Plant (CNPP). Map generated using qGIS (v2.18) with data from DIVA&#x02010;GIS (Hijmans, Guarino, Cruz, &#x00026; Rojas, <xref rid="ece35478-bib-0033" ref-type="ref">2001</xref>)</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-10135-g001"/></fig></sec><sec id="ece35478-sec-0004"><label>2.2</label><title>Environmental conditions</title><p>A range of different environmental parameters were measured at three subsites of each lake using a multiparameter probe (HANNA Instruments 9828). Sampling dates and environmental conditions are shown in Table <xref rid="ece35478-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="ece35478-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Environmental conditions, location, sampling date, and total dose rate at six sites of varying contamination in Belarus and the Ukraine</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Site</th><th align="left" valign="bottom" rowspan="1" colspan="1">Sampling date</th><th align="left" valign="bottom" rowspan="1" colspan="1">Latitude</th><th align="left" valign="bottom" rowspan="1" colspan="1">Longitude</th><th align="left" valign="bottom" rowspan="1" colspan="1">Dose rate (&#x000b5;Gy/hr)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Temperature (&#x000b0;C)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Oxygen saturation (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">pH</th><th align="left" valign="bottom" rowspan="1" colspan="1">Conductivity (&#x000b5;s/cm)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Gorova</td><td align="left" rowspan="1" colspan="1">11/6/2016</td><td align="char" char="." rowspan="1" colspan="1">50.70</td><td align="char" char="." rowspan="1" colspan="1">30.70</td><td align="char" char="." rowspan="1" colspan="1">0.064</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">22.4&#x000a0;&#x000b1;&#x000a0;0.05</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">113&#x000a0;&#x000b1;&#x000a0;16.2</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.60&#x000a0;&#x000b1;&#x000a0;0.02</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">256&#x000a0;&#x000b1;&#x000a0;0.41</td></tr><tr><td align="left" rowspan="1" colspan="1">Dvorische</td><td align="left" rowspan="1" colspan="1">29/05/2016</td><td align="char" char="." rowspan="1" colspan="1">52.01</td><td align="char" char="." rowspan="1" colspan="1">29.43</td><td align="char" char="." rowspan="1" colspan="1">0.691</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">23.2&#x000a0;&#x000b1;&#x000a0;0.06</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">80&#x000a0;&#x000b1;&#x000a0;1.17</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.60&#x000a0;&#x000b1;&#x000a0;0.17</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">197&#x000a0;&#x000b1;&#x000a0;0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">Stoyecheye</td><td align="left" rowspan="1" colspan="1">27/05/2016</td><td align="char" char="." rowspan="1" colspan="1">52.86</td><td align="char" char="." rowspan="1" colspan="1">30.91</td><td align="char" char="." rowspan="1" colspan="1">0.774</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">22&#x000a0;&#x000b1;&#x000a0;0.05</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">102&#x000a0;&#x000b1;&#x000a0;2.00</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.30&#x000a0;&#x000b1;&#x000a0;0.02</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">241&#x000a0;&#x000b1;&#x000a0;1.48</td></tr><tr><td align="left" rowspan="1" colspan="1">Svatoye</td><td align="left" rowspan="1" colspan="1">24/05/2016</td><td align="char" char="." rowspan="1" colspan="1">53.17</td><td align="char" char="." rowspan="1" colspan="1">31.86</td><td align="char" char="." rowspan="1" colspan="1">2.03</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">20.1&#x000a0;&#x000b1;&#x000a0;0.23</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">92&#x000a0;&#x000b1;&#x000a0;1.80</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.00&#x000a0;&#x000b1;&#x000a0;0.15</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">114&#x000a0;&#x000b1;&#x000a0;0.70</td></tr><tr><td align="left" rowspan="1" colspan="1">Yanovsky Crawl</td><td align="left" rowspan="1" colspan="1">05/06/2016</td><td align="char" char="." rowspan="1" colspan="1">51.41</td><td align="char" char="." rowspan="1" colspan="1">30.07</td><td align="char" char="." rowspan="1" colspan="1">20.42</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">20.2&#x000a0;&#x000b1;&#x000a0;0.11</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">140&#x000a0;&#x000b1;&#x000a0;2.90</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.00&#x000a0;&#x000b1;&#x000a0;0.04</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">265&#x000a0;&#x000b1;&#x000a0;0.97</td></tr><tr><td align="left" rowspan="1" colspan="1">Glubokoye</td><td align="left" rowspan="1" colspan="1">03/06/2016</td><td align="char" char="." rowspan="1" colspan="1">51.44</td><td align="char" char="." rowspan="1" colspan="1">30.06</td><td align="char" char="." rowspan="1" colspan="1">26.4</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">23.6&#x000a0;&#x000b1;&#x000a0;0.06</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">112&#x000a0;&#x000b1;&#x000a0;14.10</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">7.60&#x000a0;&#x000b1;&#x000a0;0.18</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">199&#x000a0;&#x000b1;&#x000a0;1.22</td></tr></tbody></table><table-wrap-foot id="ece35478-ntgp-0002"><title>Note</title><fn id="ece35478-note-0002"><p>Error bars are standard deviations based on measurements at three different subsites of each lake.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="ece35478-sec-0005"><label>2.3</label><title>Calculation of dose rates</title><p>A full description of the methods used to calculate doses to <italic>A.&#x000a0;aquaticus</italic> is presented in Fuller et al., (<xref rid="ece35478-bib-0028" ref-type="ref">2017</xref>). Briefly, external and internal dose rates to <italic>A.&#x000a0;aquaticus</italic> were calculated based on decay&#x02010;corrected deposition values for radiocaesium and strontium (in 1986) and average activity concentrations in water at various depths measured in 2003. Accurate dose conversion coefficients (DCCs) for <italic>A.&#x000a0;aquaticus</italic> were generated within the ERICA tool (Version 1.2) by user&#x02010;inputted geometry (height&#x000a0;=&#x000a0;2.2&#x000a0;mm, width&#x000a0;=&#x000a0;1.7&#x000a0;mm, length&#x000a0;=&#x000a0;4.7&#x000a0;mm, and mass&#x000a0;=&#x000a0;4.1&#x000a0;mg) and used for subsequent dose assessments using ERICA. Total dose rates for <italic>A.&#x000a0;aquaticus</italic> at each of the six lakes are shown in Table <xref rid="ece35478-tbl-0001" ref-type="table">1</xref>.</p></sec><sec id="ece35478-sec-0006"><label>2.4</label><title>Genomic DNA extractions and quality control</title><p>DNA was extracted from a total of 74 <italic>A.&#x000a0;aquaticus</italic> individuals using a QIAGEN DNeasy Blood &#x00026; Tissue Kit (QIAGEN) following some amendments to the manufacturer protocol to maximize DNA yield. Individuals were first homogenized in 180&#x000a0;&#x000b5;l of Buffer ATL. Following addition of 40&#x000a0;&#x000b5;l Proteinase K, samples were incubated at 56&#x000b0;C for 16&#x000a0;hr to allow for lysis to occur. After lysis, samples were centrifuged at 20,000&#x000a0;<italic>g</italic> for 5&#x000a0;min and the supernatant transferred to a new microcentrifuge tube. This step was performed to remove the nonlysed, largely chitinous tissue as this may impact the quality of DNA for downstream applications in <italic>A.&#x000a0;aquaticus</italic> (Verovnik, Sket, Prevor&#x0010d;nik, &#x00026; Trontelj, <xref rid="ece35478-bib-0067" ref-type="ref">2003</xref>). Samples were then processed according to the animal tissue spin&#x02010;column protocol outlined in the QIAGEN Blood and Tissue Kit. Quality of extracted genomic DNA was assessed using a NanoDrop spectrophotometer, and restriction enzyme digests with Hind<italic>III</italic> (Thermo Fisher) were performed on 10% of DNA samples to assess suitability for genomic library construction. Digests were performed according to manufacturer protocol and visualized on a 1% agarose gel.</p></sec><sec id="ece35478-sec-0007"><label>2.5</label><title>Genotyping&#x02010;by&#x02010;sequencing</title><p>A full description of GBS methods is provided in Elshire et al., (<xref rid="ece35478-bib-0020" ref-type="ref">2011</xref>). Briefly, extracted DNA was arrayed on to a 96&#x02010;well sealed fully skirted PCR plate (Applied BiosystemsUS) and shipped to the Cornell University Genomic Diversity Facility for GBS analysis. Following optimization, Pstl (CTGCAG) was selected as the most appropriate restriction enzyme owing to the greater number of fragment sizes generated. Each DNA sample was digested with Pstl and ligated with a barcoded and a common adaptor. Following ligation of the adaptor, samples were pooled within a single Eppendorf tube and purified using a Qiagen QIAquick PCR Purification Kit (Qiagen). The library was then subjected to the polymerase chain reaction (PCR) using primers that corresponded to the ligated adaptors. After appropriate dilution of samples, sequencing was performed using the Illumina Hi&#x02010;Seq 2000 at the Cornell University Core Laboratories Centre.</p></sec><sec id="ece35478-sec-0008"><label>2.6</label><title>Bioinformatics and SNP calling</title><p>Bioinformatics analysis was conducted by collaborators at the Genomic Diversity Facility using the UNEAK (Universal Network&#x02010;Enabled Analysis Kit, Lu et al., <xref rid="ece35478-bib-0046" ref-type="ref">2013</xref>) pipeline and the TASSEL software version v 3.0 (Trait Analysis by aSSociation, Evolution and Linkage, Bradbury et al., <xref rid="ece35478-bib-0008" ref-type="ref">2007</xref>). The UNEAK pipeline was developed to overcome the issues associated with SNP discovery in absence of a reference genome and has been shown to provide accurate (&#x0003e;92% accuracy) de novo genotype calling (Lu et al., <xref rid="ece35478-bib-0046" ref-type="ref">2013</xref>; Torkamaneh, Laroche, &#x00026; Belzile, <xref rid="ece35478-bib-0062" ref-type="ref">2016</xref>). The UNEAK pipeline works by first trimming all sequence reads to 64&#x000a0;bp. Reads of 64&#x000a0;bp that are identical are then identified as tags, and pairwise alignment identifies pairs of tags with a single base pair mismatch. Such tags are aligned to form a network and these networks are pruned to remove putative sequencing errors (low&#x02010;frequency alleles). Pruning was conducted according to an error rate threshold parameter of 0.01%. Only reciprocal tag pairs are used for subsequent SNP calling, meaning only biallelic loci were studied. VCF tools (v0.1.12a) were then used to calculate depth and missingness statistics for generated SNP files. Heterozygosity and minor allele frequencies were also calculated using VCF tools.</p></sec><sec id="ece35478-sec-0009"><label>2.7</label><title>Statistical analyses</title><p>The R package SNPrelate (Zheng et al., <xref rid="ece35478-bib-0077" ref-type="ref">2012</xref>) was used to calculate additional diversity statistics and to create a principal component analysis (PCA) plot of genotypes from filtered SNP data. A matrix of <italic>F</italic>
+<sub>st</sub> values were calculated according to the method of Weir and Cockerham (<xref rid="ece35478-bib-0073" ref-type="ref">1984</xref>). Other measures of genetic diversity such as Tajima's <italic>D</italic>, nucleotide diversity, and expected heterozygosity were calculated using the R Package PopGenome (Pfeifer, Wittelsb&#x000fc;rger, Ramos&#x02010;Onsins, &#x00026; Lercher, <xref rid="ece35478-bib-0055" ref-type="ref">2014</xref>). In order to test for the presence of Isolation&#x02010;by&#x02010;distance (IBD), a Mantel test was used with geographical distance (in km) and <italic>F</italic>
+<sub>st</sub> values via the R package vegan (Oksanen et al., <xref rid="ece35478-bib-0054" ref-type="ref">2013</xref>). To test for the influence of the gradient in dose rate on genetic differentiation, a partial mantel test was used based on Pearson's product&#x02010;moment correlation with 1,000 permutations. This test measures the association between two matrices (e.g., genetic distance and Euclidean distance in dose rate) while accounting for a third potentially confounding matrix (geographical distance). The association between calculated genetic diversity measures and dose rates was calculated using Spearman's rank order correlation coefficient. Power analysis was employed to determine the probability of seeing different effect sizes based on sample size using the R package &#x0201c;pwr&#x0201d; (Champely et al., <xref rid="ece35478-bib-0009" ref-type="ref">2018</xref>).</p></sec></sec><sec sec-type="results" id="ece35478-sec-0010"><label>3</label><title>RESULTS</title><sec id="ece35478-sec-0011"><label>3.1</label><title>Data quality and coverage</title><p>Illumina sequencing of 74 individuals on one lane yielded a total of 492 402 538 reads. Of these, 372,029,165 were classed as &#x0201c;good&#x0201d; reads containing a unique barcode. Depth of coverage was on average 25.74. A depth of coverage &#x0003e;20 times is preferred in SNP studies to reduce the uncertainty associated with calling SNPs following low&#x02010;coverage sequencing (e.g., 5 &#x000d7; depth of coverage, Nielsen, Paul, Albrechtsen, &#x00026; Song, <xref rid="ece35478-bib-0053" ref-type="ref">2011</xref>). The UNEAK pipeline identified a total of 32,321 SNPs which was trimmed to 14,463 following the data filtration steps.</p></sec><sec id="ece35478-sec-0012"><label>3.2</label><title>Genetic differentiation and isolation&#x02010;by&#x02010;distance</title><p>Genetic differentiation values (<italic>F</italic>
+<sub>st</sub>) are shown in Table <xref rid="ece35478-tbl-0002" ref-type="table">2</xref>. Greatest values were observed between Svatoye and Glubokoye lakes (0.272), suggesting these populations were the most genetically isolated. <italic>F</italic>
+<sub>st</sub> values &#x0003e;0.15 are generally considered to indicate significant differentiation (Frankham, Briscoe, &#x00026; Ballou, <xref rid="ece35478-bib-0025" ref-type="ref">2002</xref>). The smallest <italic>F</italic>
+<sub>st</sub> values were recorded between Glubokoye and Yanovsky (0.085), the two closest sites geographically. A highly significant relationship between geographical distance in kilometers and genetic differentiation was recorded (see Figure <xref rid="ece35478-fig-0002" ref-type="fig">2</xref>a, Mantel Test, <italic>r</italic>&#x000a0;=&#x000a0;.786, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01), confirming the Isolation&#x02010;by&#x02010;distance hypothesis.</p><table-wrap id="ece35478-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Pairwise genetic differentiation (<italic>F</italic>
+<sub>st</sub>) values in <italic>Asellus aquaticus</italic> collected from six lakes of varying contamination in Belarus and the Ukraine</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Dvorische</th><th align="left" valign="bottom" rowspan="1" colspan="1">Glubokoye</th><th align="left" valign="bottom" rowspan="1" colspan="1">Svatoye Lake</th><th align="left" valign="bottom" rowspan="1" colspan="1">Yanovsky Crawl</th><th align="left" valign="bottom" rowspan="1" colspan="1">Stoyecheye</th><th align="left" valign="bottom" rowspan="1" colspan="1">Gorova</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Dvorische</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Glubokoye</td><td align="char" char="." rowspan="1" colspan="1">0.1235103</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Svatoye Lake</td><td align="char" char="." rowspan="1" colspan="1">0.255504</td><td align="char" char="." rowspan="1" colspan="1">0.2719511</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Yanovsky Crawl</td><td align="char" char="." rowspan="1" colspan="1">0.1206123</td><td align="char" char="." rowspan="1" colspan="1">0.08523209</td><td align="char" char="." rowspan="1" colspan="1">0.254953</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Stoyecheye</td><td align="char" char="." rowspan="1" colspan="1">0.2278073</td><td align="char" char="." rowspan="1" colspan="1">0.2233065</td><td align="char" char="." rowspan="1" colspan="1">0.223041</td><td align="char" char="." rowspan="1" colspan="1">0.21475</td><td align="char" char="." rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Gorova</td><td align="char" char="." rowspan="1" colspan="1">0.2086033</td><td align="char" char="." rowspan="1" colspan="1">0.1999745</td><td align="char" char="." rowspan="1" colspan="1">0.263433</td><td align="char" char="." rowspan="1" colspan="1">0.1927364</td><td align="char" char="." rowspan="1" colspan="1">0.1918563</td><td align="char" char="." rowspan="1" colspan="1"/></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35478-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Relationship between (a) geographical distance and genetic differentiation (<italic>F</italic>
+<sub>st</sub>) and (b) gradient in dose rate and genetic differentiation in <italic>Asellus aquaticus</italic> from six lakes of varying contamination in the Chernobyl area</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-10135-g002"/></fig><p>Conversely, no significant effect of the gradient in dose rate (Euclidean distance) on genetic differentiation was recorded when accounting for geographical distance (see Figure <xref rid="ece35478-fig-0002" ref-type="fig">2</xref>b, Partial Mantel test, <italic>r</italic>&#x000a0;=&#x000a0;.251, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05). This indicates that dose rate did not significantly influence genetic differentiation among populations at Chernobyl. However, geographical distance was found to be a driver of genetic differentiation. A principal component analysis (PCA) plot of genotypes based on genome&#x02010;wide filtered SNP data is shown in Figure <xref rid="ece35478-fig-0003" ref-type="fig">3</xref>. Two of the highly contaminated sites, Glubokoye and Yanovsky Crawl (dose rates of 26.4 and 20.4&#x000a0;&#x000b5;Gy/hr respectively) along with a site of low&#x02010;level contamination (Dvorische, dose rate of 0.691&#x000a0;&#x000b5;Gy/hr) were differentiated from other sites in terms of genetic similarity. These sites were located in closest proximity geographically, reinforcing the strong influence of the geographical gradient on determining genetic similarity. Furthermore, all of the previously mentioned lakes (Dvorische, Yanovsky Crawl and Glubokoye) are floodplain lakes that historically would have been linked to the Pripyat river, reinforcing the potential for gene flow and therefore genetic similarity of these populations.</p><fig fig-type="Figure" xml:lang="en" id="ece35478-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Principal component analysis of genotypes based on genome&#x02010;wide SNP data of <italic>A.&#x000a0;aquaticus</italic> collected from six lakes along a gradient of radionuclide contamination at Chernobyl</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-10135-g003"/></fig></sec><sec id="ece35478-sec-0013"><label>3.3</label><title>Genetic diversity</title><p>Calculated genetic diversity statistics for each population are shown in Table <xref rid="ece35478-tbl-0003" ref-type="table">3</xref>. Expected heterozygosity (<italic>H</italic>
+<sub>e</sub>), the most commonly used measure of gene diversity (Nei, <xref rid="ece35478-bib-0052" ref-type="ref">1973</xref>), ranged from 0.234 at Glubokoye to 0.241 at Yanovsky Crawl. No significant relationship between <italic>H</italic>
+<sub>e</sub> and total dose rate was recorded (see Figure <xref rid="ece35478-fig-0004" ref-type="fig">4</xref>, <italic>n</italic>&#x000a0;=&#x000a0;74, Spearman's <italic>&#x003c1;</italic>&#x000a0;=&#x000a0;&#x02212;.110, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05). Nucleotide diversity (<italic>&#x003c0;</italic>), a measure of polymorphism within the population, ranged from 0.0016 at Svatoye to 0.0026 at Gorova. No significant relationship between nucleotide diversity and dose rate was recorded (Spearman's <italic>&#x003c1;</italic>&#x000a0;=&#x000a0;&#x02212;.333, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05).</p><table-wrap id="ece35478-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Calculated genetic diversity measures based on genome&#x02010;wide single&#x02010;nucleotide polymorphism data in <italic>Asellus aquaticus</italic> from six lakes in the Chernobyl region</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>N</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>H</italic>
+<sub>e</sub>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>H</italic>
+<sub>0</sub>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>&#x003c0;</italic>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Tajima's <italic>D</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Dvorische</td><td align="left" rowspan="1" colspan="1">12</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.23426&#x000a0;&#x000b1;&#x000a0;0.010</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.12343&#x000a0;&#x000b1;&#x000a0;0.034</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.47537&#x000a0;&#x000b1;&#x000a0;0.134</td><td align="char" char="." rowspan="1" colspan="1">0.001779881</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;1.074</td></tr><tr><td align="left" rowspan="1" colspan="1">Glubokoye</td><td align="left" rowspan="1" colspan="1">13</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.23373&#x000a0;&#x000b1;&#x000a0;0.008</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.10739&#x000a0;&#x000b1;&#x000a0;0.020</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.54170&#x000a0;&#x000b1;&#x000a0;0.079</td><td align="char" char="." rowspan="1" colspan="1">0.002438229</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;1.099</td></tr><tr><td align="left" rowspan="1" colspan="1">Gorova</td><td align="left" rowspan="1" colspan="1">13</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.23677&#x000a0;&#x000b1;&#x000a0;0.009</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.13059&#x000a0;&#x000b1;&#x000a0;0.031</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.44943&#x000a0;&#x000b1;&#x000a0;0.126</td><td align="char" char="." rowspan="1" colspan="1">0.002669943</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.659</td></tr><tr><td align="left" rowspan="1" colspan="1">Stoyecheye</td><td align="left" rowspan="1" colspan="1">12</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.23521&#x000a0;&#x000b1;&#x000a0;0.008</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.12750&#x000a0;&#x000b1;&#x000a0;0.029</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.45792&#x000a0;&#x000b1;&#x000a0;0.114</td><td align="char" char="." rowspan="1" colspan="1">0.002215685</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.671</td></tr><tr><td align="left" rowspan="1" colspan="1">Svatoye</td><td align="left" rowspan="1" colspan="1">12</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.23646&#x000a0;&#x000b1;&#x000a0;0.007</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.14392&#x000a0;&#x000b1;&#x000a0;0.050</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.39342&#x000a0;&#x000b1;&#x000a0;0.186</td><td align="char" char="." rowspan="1" colspan="1">0.001649979</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.612</td></tr><tr><td align="left" rowspan="1" colspan="1">Yanovsky Crawl</td><td align="left" rowspan="1" colspan="1">12</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.24123&#x000a0;&#x000b1;&#x000a0;0.011</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.14549&#x000a0;&#x000b1;&#x000a0;0.029</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">0.40218&#x000a0;&#x000b1;&#x000a0;0.145</td><td align="char" char="." rowspan="1" colspan="1">0.002023974</td><td align="char" char="." rowspan="1" colspan="1">&#x02212;0.984</td></tr></tbody></table><table-wrap-foot id="ece35478-ntgp-0003"><title>Notes</title><fn id="ece35478-note-0003"><p>Values are shown as&#x000a0;&#x000b1;&#x000a0;<italic>SD</italic> for genetic diversity measures calculated at the individual level (e.g., <italic>H</italic>
+<sub>e</sub>, <italic>H</italic>
+<sub>0</sub> and <italic>F</italic>).</p></fn><fn id="ece35478-note-0004"><p>
+<italic>H</italic>
+<sub>e</sub>&#x000a0;=&#x000a0;expected heterozygosity, <italic>H</italic>
+<sub>0</sub>&#x000a0;=&#x000a0;observed heterozygosity, <italic>F</italic>&#x000a0;=&#x000a0;inbreeding coefficient, and <italic>&#x003c0;</italic>&#x000a0;=&#x000a0;nucleotide diversity.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="ece35478-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Relationship (Spearman's <italic>&#x003c1;&#x000a0;</italic>=&#x000a0;&#x02212;.110, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05) between <italic>H</italic>
+<sub>e</sub>, expected heterozygosity, in <italic>Asellus aquaticus</italic> and dose rate at six sites of varying radionuclide contamination in Belarus and the Ukraine</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-10135-g004"/></fig><p>Similarly, no significant relationship between dose rate and observed heterozygosity (<italic>H</italic>
+<sub>o</sub>) or the within population inbreeding coefficient, <italic>F</italic>, was recorded (Spearman's <italic>&#x003c1;</italic>&#x000a0;=&#x000a0;&#x02212;.018, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05 and <italic>&#x003c1;</italic>&#x000a0;=&#x000a0;&#x02212;.031, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05, respectively). Coupled with the lack of a relationship between genetic differentiation and dose rate, this provides evidence that genetic patterns in <italic>A.&#x000a0;aquaticus</italic> at Chernobyl were not influenced by radiation dose rate. Tajima's <italic>D</italic> statistic was &#x0003c;0 for all populations (see Table <xref rid="ece35478-tbl-0003" ref-type="table">3</xref>), with the lowest value recorded at Glubokoye (&#x02212;1.099) and the greatest value recorded at Svatoye (&#x02212;0.612). A moderate negative relationship between Tajima's <italic>D</italic> values and dose rate was recorded, though this was nonsignificant (Spearman's <italic>&#x003c1;</italic>&#x000a0;=&#x000a0;&#x02212;.5, <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05).</p></sec></sec><sec sec-type="discussion" id="ece35478-sec-0014"><label>4</label><title>DISCUSSION</title><p>The present study hypothesized that genome&#x02010;wide estimates of genetic diversity in the freshwater crustacean <italic>Asellus aquaticus</italic> would be positively related to the total dose rate at six lakes in the Chernobyl region. No significant relationship between five different genetic diversity metrics and dose rate was recorded, leading to rejection of this hypothesis. A strong significant effect of geographical distance on genetic differentiation was evidenced, suggesting Isolation&#x02010;by&#x02010;distance. Conversely, the gradient in radionuclide contamination was not found to impact genetic differentiation. Calculated genetic diversity measures for <italic>A.&#x000a0;aquaticus</italic> in the present study were within the range of other areas of Europe as recorded by Verovnik, Sket, and Trontelj (<xref rid="ece35478-bib-0068" ref-type="ref">2005</xref>) and Konec, Prevor&#x0010d;nik, Sarbu, Verovnik, and Trontelj (<xref rid="ece35478-bib-0038" ref-type="ref">2015</xref>). Verovnik et al., (<xref rid="ece35478-bib-0068" ref-type="ref">2005</xref>) recorded mean values for nucleotide diversity, <italic>&#x003c0;</italic>, in populations of <italic>A.&#x000a0;aquaticus</italic> across central and Eastern Europe of 0.00189&#x000a0;&#x000b1;&#x000a0;3.79E&#x02010;06 using mitochondrial DNA methods. Values obtained within the present study were broadly similar, ranging from 0.00165 to 0.00267.</p><p>The suggestion of IBD in the present study is in disagreement with previous work conducted by Verovnik et al., (<xref rid="ece35478-bib-0068" ref-type="ref">2005</xref>) who studied the mitochondrial DNA and 28s rDNA sequences of <italic>A.&#x000a0;aquaticus</italic> at a continental scale and found no evidence of IBD. The present study focused largely on closed lake systems with limited connectivity (though Dvorische, Yanovsky Crawl, and Glubokoye are floodplain lakes of the Pripyat river which would have been connected historically), which is fundamental to structuring <italic>A.&#x000a0;aquaticus</italic> populations given known limitations on dispersal capacity (Sworobowicz et al., <xref rid="ece35478-bib-0059" ref-type="ref">2015</xref>; Verovnik et al., <xref rid="ece35478-bib-0068" ref-type="ref">2005</xref>). This may explain the presence of IBD in the present study, as it is assumed limited gene flow would have occurred between enclosed, isolated populations. Methodological differences in the calculation of genetic differentiation and techniques used to assess genetic structure may further explain the differences between studies. For example, studies have shown significant variation in the ability of genetic markers, for example, microsatellite or SNP based techniques to distinguish genetic differentiation of populations (Bradbury et al., <xref rid="ece35478-bib-0007" ref-type="ref">2015</xref>).</p><p>Gene flow between populations is often thought to mask the effects of pollutants on genetic patterns, even in species with known limited dispersal capacity (Giska et al., <xref rid="ece35478-bib-0031" ref-type="ref">2015</xref>; Theodorakis, Bickham, Lamb, Medica, &#x00026; Lyne, <xref rid="ece35478-bib-0060" ref-type="ref">2001</xref>). However, the moderate to high levels of genetic differentiation observed between populations in the present study (<italic>F</italic>
+<sub>st</sub> values up to 0.27) and the confirmation of IBD suggests that gene flow and homogenization of populations is likely not responsible for the lack of a relationship between genetic variables and dose rate. This suggests that current dose rates received by <italic>A.&#x000a0;aquaticus</italic> at Chernobyl (maximum of 27.1&#x000a0;&#x000b5;Gy/hr) are either insufficient to cause a high rate of mutations and subsequent elevated genetic diversity or that effects may have occurred previously but populations have recovered. These findings contradict the majority of studies which record an increase in genetic diversity in a range of nonhuman organisms at Chernobyl (Baker et al., <xref rid="ece35478-bib-0003" ref-type="ref">2017</xref>; Ellegren et al., <xref rid="ece35478-bib-0019" ref-type="ref">1997</xref>).</p><p>One possible explanation for these differences may be that <italic>A.&#x000a0;aquaticus</italic> populations have not been historically exposed to dose rates as high as those for rodents and pines that have been shown to have altered genetic diversity (e.g., Baker et al., <xref rid="ece35478-bib-0003" ref-type="ref">2017</xref>; Volkova et al., <xref rid="ece35478-bib-0070" ref-type="ref">2018</xref>). For example, many of the studies of genetic diversity in bank voles at Chernobyl have monitored populations from the Red Forest (Baker et al., <xref rid="ece35478-bib-0003" ref-type="ref">2017</xref>; Matson et al., <xref rid="ece35478-bib-0047" ref-type="ref">2000</xref>). The Red Forest refers to the highly contaminated area adjacent to the CNPP where acute doses led to mortality in a 4&#x02013;6&#x000a0;km<sup>2</sup> zone of pines immediately following the accident (Kryshev, Sazykina, &#x00026; Beresford, <xref rid="ece35478-bib-0041" ref-type="ref">2005</xref>). Dose rates in this area remain extremely high to date, with maximum air dose rates of 200&#x000a0;&#x000b5;Gy/hr recorded in some &#x0201c;hotspots&#x0201d; within the forest (N.A. Beresford, pers. comm). Studies on the accumulation of radionuclides in small mammals within this area in the late 1990s suggested that chronic dose rates could be as high as 86&#x000a0;mGy/day for the duration of their lifecycle (Chesser et al., <xref rid="ece35478-bib-0011" ref-type="ref">2000</xref>, <xref rid="ece35478-bib-0010" ref-type="ref">2001</xref>). Similarly, many of the studies demonstrating genetic effects in scots pine are based on trees receiving doses orders of magnitude higher than the present study (Kuchma, Vornam, &#x00026; Finkeldey, <xref rid="ece35478-bib-0042" ref-type="ref">2011</xref>; Vornam, Arkhipov, &#x00026; Finkeldey, <xref rid="ece35478-bib-0071" ref-type="ref">2012</xref>), though effects at lower doses have also been recorded (Geras'kin &#x00026; Volkova, <xref rid="ece35478-bib-0030" ref-type="ref">2014</xref>; Volkova, Geras'kin, &#x00026; Kazakova, <xref rid="ece35478-bib-0069" ref-type="ref">2017</xref>).</p><p>Maximum external dose rates in aquatic systems immediately following the accident were 100&#x02013;200&#x000a0;mGy/day from bottom sediments (Kryshev et al., <xref rid="ece35478-bib-0041" ref-type="ref">2005</xref>), showing a relatively rapid decline to 20&#x02013;50&#x000a0;mGy/day within two months owing to the decay of short&#x02010;lived radionuclides (Kryshev et al., <xref rid="ece35478-bib-0041" ref-type="ref">2005</xref>). Dose rates further declined through 1986, with mean dose estimates for benthic fish in 1986 being 22&#x000a0;&#x000b1;&#x000a0;9.0&#x000a0;mGy/day, significantly lower than the previously mentioned Red Forest area (Kryshev &#x00026; Sazykina, <xref rid="ece35478-bib-0040" ref-type="ref">2012</xref>). Though these dose rates were calculated for the Chernobyl cooling pond, doses at the most contaminated site in the present study, Glubokoye, were likely similar. While these dose rates would be expected to cause significant sublethal effects, it is unlikely that direct mortality and a resultant bottleneck was induced in crustaceans based on existing laboratory sensitivity data (see Fuller, Lerebours, Smith, &#x00026; Ford, <xref rid="ece35478-bib-0027" ref-type="ref">2015</xref> for review). In crabs, for example, chronic exposure to <sup>60</sup>Co dose rates of 6,960&#x000a0;mGy/day were necessary to elicit mortality in <italic>Callinectes sapidus</italic>, over an order of magnitude greater than doses in the immediate aftermath of the accident (Engel, <xref rid="ece35478-bib-0021" ref-type="ref">1967</xref>).</p><p>Taking this into account, it is unlikely that the Chernobyl accident would have caused a significant bottleneck in crustacean populations, accounting for the lack of a reduced genetic diversity observed in the present study. This was further reinforced by Murphy et al., (<xref rid="ece35478-bib-0050" ref-type="ref">2011</xref>), who recorded no significant reduction in the abundance of macroinvertebrates in eight Chernobyl&#x02010;affected lakes in 2003 and 2004. However, it is important to consider that the lack of observed genetic effects in the present study does not indicate that discernible effects have not occurred in <italic>A.&#x000a0;aquaticus</italic> as a consequence of the Chernobyl accident. As proposed by DeWoody, (<xref rid="ece35478-bib-0015" ref-type="ref">1999</xref>) population sampling may have taken place at time wherein radiation&#x02010;induced mutation and elevated genetic diversity may have facilitated a more rapid recovery from a previous bottleneck and the resultant reduced genetic diversity.</p><p>One limitation of this study was the limited number of individuals sequenced per site and lack of an adequate number of samples collected at various time points (see Matson et al., <xref rid="ece35478-bib-0047" ref-type="ref">2000</xref> for discussion). For analysis of the relationship between total dose rate and a range of gene diversity measures, 74 samples were analyzed. For an 80% chance of detecting a &#x0201c;medium&#x0201d; effect size of <italic>r</italic>&#x000a0;=&#x000a0;.3 (Cohen, <xref rid="ece35478-bib-0012" ref-type="ref">1977</xref>), 84 samples would be necessary assuming a significance level of 0.05. A much larger sample size of &#x0003e;700 samples would be necessary for the same conditions for a &#x0201c;small&#x0201d; effect size of 0.1 (Cohen, <xref rid="ece35478-bib-0012" ref-type="ref">1977</xref>). It is therefore possible that radiation may have induced a minor effect on genetic diversity in <italic>A.&#x000a0;aquaticus</italic> that the present study may not have had the necessary statistical power to detect. Furthermore, effective population size was not estimated in this study. Under neutral theory, a given population's genetic diversity is dependent on both the effective population size and the mutation rate (Kimura, <xref rid="ece35478-bib-0037" ref-type="ref">1983</xref>). Larger effective populations typically show greater genetic diversity than smaller populations (Hague &#x00026; Routman, <xref rid="ece35478-bib-0032" ref-type="ref">2016</xref>), though some comparative studies have questioned this relationship (Bazin, Gl&#x000e9;min, &#x00026; Galtier, <xref rid="ece35478-bib-0004" ref-type="ref">2006</xref>). The conclusions of the present study are therefore based on the assumption of similar effective population sizes at these locations. In order to discriminate the drivers regulating genetic variation at the population level, multiple sampling years of a greater number of individuals and a robust understanding of demographic and ecological processes within sampling locations is necessary (Matson et al., <xref rid="ece35478-bib-0047" ref-type="ref">2000</xref>). Ideally, samples collected prior to the Chernobyl accident and those exposed to the highest dose rates in the immediate aftermath would be available for population genetic analysis. However, such samples were not available. Future research into the effects of chronic radiation exposure on genetic variation should aim to couple sampling over long time scales with a robust understanding of community dynamics.</p><p>To the authors' knowledge, this study is the first to apply a genome&#x02010;wide SNP approach to studying genetic diversity in response to radiation exposure. The majority of available studies have used techniques such as AFLP, RFLP, or microsatellites, though recent studies have moved toward deep sequencing (e.g., Baker et al., <xref rid="ece35478-bib-0003" ref-type="ref">2017</xref>). Given the advantages of genome&#x02010;wide SNP discovery techniques as compared to previous approaches (Schl&#x000f6;tterer, <xref rid="ece35478-bib-0058" ref-type="ref">2004</xref>), this method would have increased analytic power to detect a relationship between radiation dose rate and genetic diversity. The sequencing depth in the present study (&#x0003e;20x) is known to provide accurate genotype calling and de novo SNP discovery even in nonmodel organisms without a reference genome (Andrews, Good, Miller, Luikart, &#x00026; Hohenlohe, <xref rid="ece35478-bib-0002" ref-type="ref">2016</xref>; Torkamaneh et al., <xref rid="ece35478-bib-0062" ref-type="ref">2016</xref>). Furthermore, the number of SNPs studied in the present study (14,463 following data filtration) has been shown to provide reliable measures of genetic diversity in nonmodel organisms. For example, Hoffman et al. (<xref rid="ece35478-bib-0034" ref-type="ref">2014</xref>) found that inbreeding coefficients generated from RAD&#x02010;seq analysis of 13,000 SNPS in the oldfield mouse, <italic>Peromyscus polionotus subgriseus</italic>, had strong concordance with known pedigree based values.</p></sec><sec sec-type="conclusions" id="ece35478-sec-0015"><label>5</label><title>CONCLUSION</title><p>This study represents the first assessment of radiation effects on genetic variation in crustaceans, internationally important model organisms in radioecology (ICRP, <xref rid="ece35478-bib-0036" ref-type="ref">2007</xref>). No effect of radiation dose rate on genetic variation was recorded, which is different to the majority of available literature recording increased genetic diversity and elevated mutation rates in nonhuman organisms at Chernobyl. This was largely attributed to lower overall dose rates over time as compared to more radiosensitive organisms such as pines and rodents wherein clear genetic effects have been demonstrated. Coupled with previous studies demonstrating no effects of radiation on reproduction and development (Fuller et al., <xref rid="ece35478-bib-0026" ref-type="ref">2018</xref>, <xref rid="ece35478-bib-0028" ref-type="ref">2017</xref>) in crustaceans at Chernobyl, this study will aid in understanding the long&#x02010;term effects of radiation exposure on populations of aquatic biota.</p></sec><sec sec-type="COI-statement" id="ece35478-sec-0016"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35478-sec-0017"><title>AUTHOR CONTRIBUTIONS</title><p>A.T.F, J.T.S, and N.F.: conceived and designed the study. N.F., D.I.G., A.L., and L.L.N.: conducted field sampling. N.F.: performed the laboratory work (DNA extractions and quality control), and N.F., J.T.S, and A.T.F.: wrote the manuscript.</p></sec></body><back><ack id="ece35478-sec-0020"><title>ACKNOWLEDGMENTS</title><p>This work was completed as part of the TREE (Transfer&#x02010;Exposure&#x02010;Effects) consortium under the RATE programme (Radioactivity and the Environment), funded by the Environment Agency and Radioactive Waste Management Ltd. N.F was supported by a NERC grant (NE/L000393/1) awarded to A.T.F and J.T.S. Genotyping&#x02010;by&#x02010;sequencing analysis including optimization of restriction enzymes, sequencing and bioinformatics analysis was performed by the Cornell University Genomic Diversity Facility.</p></ack><sec sec-type="data-availability" id="ece35478-sec-0019"><title>DATA AVAILABILITY STATEMENT</title><p>Filtered SNP, genetic distance (<italic>F</italic>
+<sub>st</sub>), and heterozygosity data are available through the Open Science Framework (<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17605/OSF.IO/7WH5A" specific-use="dataset is-supplemented-by">https://doi.org/10.17605/OSF.IO/7WH5A</ext-link>). Other genetic diversity data are available through the Natural Environment Research Council (NERC) Environmental Information Data Centre (EIDC, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5285/47f036c4-e319-4825-9cb8-f27977eb20dd" specific-use="dataset is-supplemented-by">https://doi.org/10.5285/47f036c4-e319-4825-9cb8-f27977eb20dd</ext-link>).</p></sec><ref-list content-type="cited-references" id="ece35478-bibl-0001"><title>REFERENCES</title><ref id="ece35478-bib-0001"><mixed-citation publication-type="journal" id="ece35478-cit-0001">
+<string-name>
+<surname>Anderson</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sadinski</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Shugart</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Brussard</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Depledge</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wogan</surname>, <given-names>G.</given-names>
+</string-name> (<year>1994</year>). <article-title>Genetic and molecular ecotoxicology: A research framework</article-title>. <source xml:lang="en">Environmental Health Perspectives</source>, <volume>102</volume>(<issue>Suppl 12</issue>), <fpage>3</fpage>
+<pub-id pub-id-type="doi">10.1289/ehp.94102s123</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0002"><mixed-citation publication-type="journal" id="ece35478-cit-0002">
+<string-name>
+<surname>Andrews</surname>, <given-names>K. R.</given-names>
+</string-name>, <string-name>
+<surname>Good</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Luikart</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hohenlohe</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Harnessing the power of RADseq for ecological and evolutionary genomics</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>17</volume>(<issue>2</issue>), <fpage>81</fpage>&#x02013;<lpage>92</lpage>
+<pub-id pub-id-type="doi">10.1038/nrg.2015.28</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0003"><mixed-citation publication-type="journal" id="ece35478-cit-0003">
+<string-name>
+<surname>Baker</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Dickins</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wickliffe</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>, <given-names>F. A.</given-names>
+</string-name>, <string-name>
+<surname>Gaschak</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Makova</surname>, <given-names>K. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Phillips</surname>, <given-names>C. D.</given-names>
+</string-name> (<year>2017</year>). <article-title>Elevated mitochondrial genome variation after 50 generations of radiation exposure in a wild rodent</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>10</volume>(<issue>8</issue>), <fpage>784</fpage>&#x02013;<lpage>791</lpage>. <pub-id pub-id-type="doi">10.1111/eva.12475</pub-id>
+<pub-id pub-id-type="pmid">29151870</pub-id></mixed-citation></ref><ref id="ece35478-bib-0004"><mixed-citation publication-type="journal" id="ece35478-cit-0004">
+<string-name>
+<surname>Bazin</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gl&#x000e9;min</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Galtier</surname>, <given-names>N.</given-names>
+</string-name> (<year>2006</year>). <article-title>Population size does not influence mitochondrial genetic diversity in animals</article-title>. <source xml:lang="en">Science</source>, <volume>312</volume>(<issue>5773</issue>), <fpage>570</fpage>&#x02013;<lpage>572</lpage>. <pub-id pub-id-type="doi">10.1126/science.1122033</pub-id>
+<pub-id pub-id-type="pmid">16645093</pub-id></mixed-citation></ref><ref id="ece35478-bib-0005"><mixed-citation publication-type="journal" id="ece35478-cit-0005">
+<string-name>
+<surname>Beresford</surname>, <given-names>N. A.</given-names>
+</string-name>, <string-name>
+<surname>Barnett</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Gashchak</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Maksimenko</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Guliaichenko</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Izquierdo</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Radionuclide transfer to wildlife at a &#x02018;Reference Site&#x02019; in the Chernobyl Exclusion Zone and resultant radiation exposures</article-title>. <source xml:lang="en">Journal of Environmental Radioactivity</source>, in press. <pub-id pub-id-type="doi">10.1016/j.jenvrad.2018.02.007</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0006"><mixed-citation publication-type="journal" id="ece35478-cit-0006">
+<string-name>
+<surname>Bickham</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Sandhu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Hebert</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Chikhi</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Athwal</surname>, <given-names>R.</given-names>
+</string-name> (<year>2000</year>). <article-title>Effects of chemical contaminants on genetic diversity in natural populations: Implications for biomonitoring and ecotoxicology</article-title>. <source xml:lang="en">Mutation research/Reviews in Mutation Research</source>, <volume>463</volume>(<issue>1</issue>), <fpage>33</fpage>&#x02013;<lpage>51</lpage>. <pub-id pub-id-type="doi">10.1016/S1383-5742(00)00004-1</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0007"><mixed-citation publication-type="journal" id="ece35478-cit-0007">
+<string-name>
+<surname>Bradbury</surname>, <given-names>I. R.</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>, <given-names>L. C.</given-names>
+</string-name>, <string-name>
+<surname>Dempson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Bourret</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Bernatchez</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Verspoor</surname>, <given-names>E.</given-names>
+</string-name> (<year>2015</year>). <article-title>Transatlantic secondary contact in Atlantic Salmon, comparing microsatellites, a single nucleotide polymorphism array and restriction&#x02010;site associated DNA sequencing for the resolution of complex spatial structure</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>24</volume>(<issue>20</issue>), <fpage>5130</fpage>&#x02013;<lpage>5144</lpage>. <pub-id pub-id-type="doi">10.1111/mec.13395</pub-id>
+<pub-id pub-id-type="pmid">26407171</pub-id></mixed-citation></ref><ref id="ece35478-bib-0008"><mixed-citation publication-type="journal" id="ece35478-cit-0008">
+<string-name>
+<surname>Bradbury</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Kroon</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Casstevens</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Ramdoss</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Buckler</surname>, <given-names>E. S.</given-names>
+</string-name> (<year>2007</year>). <article-title>TASSEL: Software for association mapping of complex traits in diverse samples</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>23</volume>(<issue>19</issue>), <fpage>2633</fpage>&#x02013;<lpage>2635</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/btm308</pub-id>
+<pub-id pub-id-type="pmid">17586829</pub-id></mixed-citation></ref><ref id="ece35478-bib-0009"><mixed-citation publication-type="book" id="ece35478-cit-0009">
+<string-name>
+<surname>Champely</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Ekstrom</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Dalgaard</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Weibelzahl</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Anandkumar</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>De Rosario</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>2018</year>). <source xml:lang="en">Package &#x02018;pwr&#x02019;. R package version, 1&#x02013;2</source>.</mixed-citation></ref><ref id="ece35478-bib-0010"><mixed-citation publication-type="journal" id="ece35478-cit-0010">
+<string-name>
+<surname>Chesser</surname>, <given-names>R. K.</given-names>
+</string-name>, <string-name>
+<surname>Rodgers</surname>, <given-names>B. E.</given-names>
+</string-name>, <string-name>
+<surname>Wickliffe</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Gaschak</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Chizhevsky</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baker</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2001</year>). <article-title>Accumulation of <sup>137</sup>Cesium and <sup>90</sup>Strontium from abiotic and biotic sources in rodents at Chornobyl, Ukraine</article-title>. <source xml:lang="en">Environmental Toxicology and Chemistry</source>, <volume>20</volume>(<issue>9</issue>), <fpage>1927</fpage>&#x02013;<lpage>1935</lpage>.<pub-id pub-id-type="pmid">11521818</pub-id></mixed-citation></ref><ref id="ece35478-bib-0011"><mixed-citation publication-type="journal" id="ece35478-cit-0011">
+<string-name>
+<surname>Chesser</surname>, <given-names>R. K.</given-names>
+</string-name>, <string-name>
+<surname>Sugg</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Lomakin</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>van den Bussche</surname>, <given-names>R. A.</given-names>
+</string-name>, <string-name>
+<surname>De Woody</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Jagoe</surname>, <given-names>C. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Baker</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2000</year>). <article-title>Concentrations and dose rate estimates of 134137 cesium and 90 strontium in small mammals at chornobyl, Ukraine</article-title>. <source xml:lang="en">Environmental Toxicology and Chemistry</source>, <volume>19</volume>(<issue>2</issue>), <fpage>305</fpage>&#x02013;<lpage>312</lpage>.</mixed-citation></ref><ref id="ece35478-bib-0012"><mixed-citation publication-type="book" id="ece35478-cit-0012">
+<string-name>
+<surname>Cohen</surname>, <given-names>J.</given-names>
+</string-name> (<year>1977</year>). <source xml:lang="en">Statistical power analysis for the behavioral sciences</source>, <edition>1st edn</edition>
+<publisher-loc>New York</publisher-loc>: <publisher-name>Academic Press</publisher-name>.</mixed-citation></ref><ref id="ece35478-bib-0013"><mixed-citation publication-type="journal" id="ece35478-cit-0013">
+<string-name>
+<surname>Davey</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hohenlohe</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Etter</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Boone</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Catchen</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blaxter</surname>, <given-names>M.</given-names>
+</string-name> (<year>2011</year>). <article-title>Genome&#x02010;wide genetic marker discovery and genotyping using next&#x02010;generation sequencing</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>12</volume>(<issue>7</issue>), <fpage>499</fpage>&#x02013;<lpage>510</lpage>. <pub-id pub-id-type="doi">10.1038/nrg3012</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0014"><mixed-citation publication-type="journal" id="ece35478-cit-0014">
+<string-name>
+<surname>De Lange</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>De Haas</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Maas</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Peeters</surname>, <given-names>E. T. H. M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Contaminated sediments and bioassay responses of three macroinvertebrates, the midge larva Chironomus riparius, the water louse Asellus aquaticus and the mayfly nymph Ephoron virgo</article-title>. <source xml:lang="en">Chemosphere</source>, <volume>61</volume>(<issue>11</issue>), <fpage>1700</fpage>&#x02013;<lpage>1709</lpage>. <pub-id pub-id-type="doi">10.1016/j.chemosphere.2005.03.083</pub-id>
+<pub-id pub-id-type="pmid">15885739</pub-id></mixed-citation></ref><ref id="ece35478-bib-0015"><mixed-citation publication-type="journal" id="ece35478-cit-0015">
+<string-name>
+<surname>De Woody</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1999</year>). <article-title>Nucleotide variation in the p53 tumor&#x02010;suppressor gene of voles from Chernobyl, Ukraine</article-title>. <source xml:lang="en">Mutation Research/Genetic Toxicology and Environmental Mutagenesis</source>, <volume>439</volume>(<issue>1</issue>), <fpage>25</fpage>&#x02013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1016/S1383-5718(98)00171-5</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0016"><mixed-citation publication-type="journal" id="ece35478-cit-0016">
+<string-name>
+<surname>Dubrova</surname>, <given-names>Y. E.</given-names>
+</string-name>, <string-name>
+<surname>Nesterov</surname>, <given-names>V. N.</given-names>
+</string-name>, <string-name>
+<surname>Krouchinsky</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Ostapenko</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name>
+<surname>Neumann</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Neil</surname>, <given-names>D. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jeffreys</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>1996</year>). <article-title>Human minisatellite mutation rate after the Chernobyl accident</article-title>. <source xml:lang="en">Nature</source>, <volume>380</volume>(<issue>6576</issue>), <fpage>683</fpage>
+<pub-id pub-id-type="doi">10.1038/380683a0</pub-id>
+<pub-id pub-id-type="pmid">8614461</pub-id></mixed-citation></ref><ref id="ece35478-bib-0017"><mixed-citation publication-type="journal" id="ece35478-cit-0017">
+<string-name>
+<surname>Dubrova</surname>, <given-names>Y. E.</given-names>
+</string-name>, <string-name>
+<surname>Nesterov</surname>, <given-names>V. N.</given-names>
+</string-name>, <string-name>
+<surname>Krouchinsky</surname>, <given-names>N. G.</given-names>
+</string-name>, <string-name>
+<surname>Ostapenko</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name>
+<surname>Vergnaud</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Giraudeau</surname>, <given-names>F.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Jeffreys</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>1997</year>). <article-title>Further evidence for elevated human minisatellite mutation rate in Belarus eight years after the Chernobyl accident</article-title>. <source xml:lang="en">Mutation Research</source>, <volume>381</volume>(<issue>2</issue>), <fpage>267</fpage>&#x02013;<lpage>278</lpage>.<pub-id pub-id-type="pmid">9434883</pub-id></mixed-citation></ref><ref id="ece35478-bib-0018"><mixed-citation publication-type="journal" id="ece35478-cit-0018">
+<string-name>
+<surname>Ehlers</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Worm</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Reusch</surname>, <given-names>T. B. H.</given-names>
+</string-name> (<year>2008</year>). <article-title>Importance of genetic diversity in eelgrass Zostera marina for its resilience to global warming</article-title>. <source xml:lang="en">Marine Ecology Progress Series</source>, <volume>355</volume>, <fpage>1</fpage>&#x02013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.3354/meps07369</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0019"><mixed-citation publication-type="journal" id="ece35478-cit-0019">
+<string-name>
+<surname>Ellegren</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Lindgren</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Primmer</surname>, <given-names>C. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>M&#x000f8;ller</surname>, <given-names>A. P.</given-names>
+</string-name> (<year>1997</year>). <article-title>Fitness loss and germline mutations in barn swallows breeding in Chernobyl</article-title>. <source xml:lang="en">Nature</source>, <volume>389</volume>(<issue>6651</issue>), <fpage>593</fpage>
+<pub-id pub-id-type="doi">10.1038/39303</pub-id>
+<pub-id pub-id-type="pmid">9335497</pub-id></mixed-citation></ref><ref id="ece35478-bib-0020"><mixed-citation publication-type="journal" id="ece35478-cit-0020">
+<string-name>
+<surname>Elshire</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Glaubitz</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Poland</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Kawamoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Buckler</surname>, <given-names>E. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mitchell</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2011</year>). <article-title>A robust, simple genotyping&#x02010;by&#x02010;sequencing (GBS) approach for high diversity species</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>6</volume>(<issue>5</issue>), <elocation-id>e19379</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0019379</pub-id>
+<pub-id pub-id-type="pmid">21573248</pub-id></mixed-citation></ref><ref id="ece35478-bib-0021"><mixed-citation publication-type="journal" id="ece35478-cit-0021">
+<string-name>
+<surname>Engel</surname>, <given-names>D. W.</given-names>
+</string-name> (<year>1967</year>). <article-title>Effect of singe and continuous exposures of gamma radiation on the survival and growth of the blue crab, Callinectes Sapidus</article-title>. <source xml:lang="en">Radiation Research</source>, <volume>32</volume>(<issue>4</issue>), <fpage>685</fpage>&#x02013;<lpage>691</lpage>. <pub-id pub-id-type="doi">10.2307/3572280</pub-id>
+<pub-id pub-id-type="pmid">6066585</pub-id></mixed-citation></ref><ref id="ece35478-bib-0022"><mixed-citation publication-type="journal" id="ece35478-cit-0022">
+<string-name>
+<surname>Fetisov</surname>, <given-names>A. N.</given-names>
+</string-name>, <string-name>
+<surname>Rubanovich</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name>
+<surname>Slipchenko</surname>, <given-names>T. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shevchenko</surname>, <given-names>V. A.</given-names>
+</string-name> (<year>1992</year>). <article-title>The structure of Dreissena polymorpha populations from basins adjacent to the Chernobyl atomic power station</article-title>. <source xml:lang="en">Science of the Total Environment</source>, <volume>112</volume>(<issue>1</issue>), <fpage>115</fpage>&#x02013;<lpage>124</lpage>. <pub-id pub-id-type="doi">10.1016/0048-9697(92)90242-K</pub-id>
+<pub-id pub-id-type="pmid">1574699</pub-id></mixed-citation></ref><ref id="ece35478-bib-0023"><mixed-citation publication-type="journal" id="ece35478-cit-0023">
+<string-name>
+<surname>Fischer</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Rellstab</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Leuzinger</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Roumet</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Gugerli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>, <given-names>K. K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Widmer</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Estimating genomic diversity and population differentiation &#x02013; an empirical comparison of microsatellite and SNP variation in Arabidopsis halleri</article-title>. <source xml:lang="en">BMC Genomics</source>, <volume>18</volume>(<issue>1</issue>), <fpage>69</fpage>
+<pub-id pub-id-type="doi">10.1186/s12864-016-3459-7</pub-id>
+<pub-id pub-id-type="pmid">28077077</pub-id></mixed-citation></ref><ref id="ece35478-bib-0024"><mixed-citation publication-type="journal" id="ece35478-cit-0024">
+<string-name>
+<surname>Frankham</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bradshaw</surname>, <given-names>C. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brook</surname>, <given-names>B. W.</given-names>
+</string-name> (<year>2014</year>). <article-title>Genetics in conservation management: Revised recommendations for the 50/500 rules, Red List criteria and population viability analyses</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>170</volume>, <fpage>56</fpage>&#x02013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1016/j.biocon.2013.12.036</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0025"><mixed-citation publication-type="book" id="ece35478-cit-0025">
+<string-name>
+<surname>Frankham</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Briscoe</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ballou</surname>, <given-names>J. D.</given-names>
+</string-name> (<year>2002</year>). <source xml:lang="en">Introduction to conservation genetics</source>. <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="ece35478-bib-0026"><mixed-citation publication-type="journal" id="ece35478-cit-0026">
+<string-name>
+<surname>Fuller</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Ford</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Nagorskaya</surname>, <given-names>L. L.</given-names>
+</string-name>, <string-name>
+<surname>Gudkov</surname>, <given-names>D. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>J. T.</given-names>
+</string-name> (<year>2018</year>). <article-title>Reproduction in the freshwater crustacean Asellus aquaticus along a gradient of radionuclide contamination at Chernobyl</article-title>. <source xml:lang="en">Science of the Total Environment</source>, <volume>628</volume>, <fpage>11</fpage>&#x02013;<lpage>17</lpage>. <pub-id pub-id-type="doi">10.1016/j.scitotenv.2018.01.309</pub-id>
+<pub-id pub-id-type="pmid">29427871</pub-id></mixed-citation></ref><ref id="ece35478-bib-0027"><mixed-citation publication-type="journal" id="ece35478-cit-0027">
+<string-name>
+<surname>Fuller</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lerebours</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J. T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ford</surname>, <given-names>A. T.</given-names>
+</string-name> (<year>2015</year>). <article-title>The biological effects of ionising radiation on Crustaceans: A review</article-title>. <source xml:lang="en">Aquatic Toxicology</source>, <volume>167</volume>, <fpage>55</fpage>&#x02013;<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1016/j.aquatox.2015.07.013</pub-id>
+<pub-id pub-id-type="pmid">26261880</pub-id></mixed-citation></ref><ref id="ece35478-bib-0028"><mixed-citation publication-type="journal" id="ece35478-cit-0028">
+<string-name>
+<surname>Fuller</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Nagorskaya</surname>, <given-names>L. L.</given-names>
+</string-name>, <string-name>
+<surname>Gudkov</surname>, <given-names>D. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ford</surname>, <given-names>A. T.</given-names>
+</string-name> (<year>2017</year>). <article-title>Does Chernobyl&#x02010;derived radiation impact the developmental stability of Asellus aquaticus 30 years on?</article-title>
+<source xml:lang="en">Science of the Total Environment</source>, <volume>576</volume>, <fpage>242</fpage>&#x02013;<lpage>250</lpage>. <pub-id pub-id-type="doi">10.1016/j.scitotenv.2016.10.097</pub-id>
+<pub-id pub-id-type="pmid">27788439</pub-id></mixed-citation></ref><ref id="ece35478-bib-0029"><mixed-citation publication-type="journal" id="ece35478-cit-0029">
+<string-name>
+<surname>Furitsu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ryo</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Yeliseeva</surname>, <given-names>K. G.</given-names>
+</string-name>, <string-name>
+<surname>Thuy</surname>, <given-names>L. T. T.</given-names>
+</string-name>, <string-name>
+<surname>Kawabata</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Krupnova</surname>, <given-names>E. V.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Nomura</surname>, <given-names>T.</given-names>
+</string-name> (<year>2005</year>). <article-title>Microsatellite mutations show no increases in the children of the Chernobyl liquidators</article-title>. <source xml:lang="en">Mutation Research/Genetic Toxicology and Environmental Mutagenesis</source>, <volume>581</volume>(<issue>1</issue>), <fpage>69</fpage>&#x02013;<lpage>82</lpage>. <pub-id pub-id-type="doi">10.1016/j.mrgentox.2004.11.002</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0030"><mixed-citation publication-type="journal" id="ece35478-cit-0030">
+<string-name>
+<surname>Geras'kin</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Volkova</surname>, <given-names>P. Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>Genetic diversity in Scots pine populations along a radiation exposure gradient</article-title>. <source xml:lang="en">Science of the Total Environment</source>, <volume>496</volume>, <fpage>317</fpage>&#x02013;<lpage>327</lpage>. <pub-id pub-id-type="doi">10.1016/j.scitotenv.2014.07.020</pub-id>
+<pub-id pub-id-type="pmid">25087063</pub-id></mixed-citation></ref><ref id="ece35478-bib-0031"><mixed-citation publication-type="journal" id="ece35478-cit-0031">
+<string-name>
+<surname>Giska</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Babik</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>van Gestel</surname>, <given-names>C. A. M.</given-names>
+</string-name>, <string-name>
+<surname>van Straalen</surname>, <given-names>N. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Laskowski</surname>, <given-names>R.</given-names>
+</string-name> (<year>2015</year>). <article-title>Genome&#x02010;wide genetic diversity of rove beetle populations along a metal pollution gradient</article-title>. <source xml:lang="en">Ecotoxicology and Environmental Safety</source>, <volume>119</volume>, <fpage>98</fpage>&#x02013;<lpage>105</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecoenv.2015.04.048</pub-id>
+<pub-id pub-id-type="pmid">25988435</pub-id></mixed-citation></ref><ref id="ece35478-bib-0032"><mixed-citation publication-type="journal" id="ece35478-cit-0032">
+<string-name>
+<surname>Hague</surname>, <given-names>M. T. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Routman</surname>, <given-names>E. J.</given-names>
+</string-name> (<year>2016</year>). <article-title>Does population size affect genetic diversity? A test with sympatric lizard species</article-title>. <source xml:lang="en">Heredity</source>, <volume>116</volume>(<issue>1</issue>), <fpage>92</fpage>
+<pub-id pub-id-type="doi">10.1038/hdy.2015.76</pub-id>
+<pub-id pub-id-type="pmid">26306730</pub-id></mixed-citation></ref><ref id="ece35478-bib-0033"><mixed-citation publication-type="journal" id="ece35478-cit-0033">
+<string-name>
+<surname>Hijmans</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Guarino</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Cruz</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rojas</surname>, <given-names>E.</given-names>
+</string-name> (<year>2001</year>). <article-title>Computer tools for spatial analysis of plant genetic resources data: 1. DIVA&#x02010;GIS</article-title>. <source xml:lang="en">Plants Genetic Resources Newsletter</source>, <volume>127</volume>, <fpage>15</fpage>&#x02013;<lpage>19</lpage>.</mixed-citation></ref><ref id="ece35478-bib-0034"><mixed-citation publication-type="journal" id="ece35478-cit-0034">
+<string-name>
+<surname>Hoffman</surname>, <given-names>J. I.</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>David</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rijks</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Kuiken</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Thorne</surname>, <given-names>M. A. S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Dasmahapatra</surname>, <given-names>K. K.</given-names>
+</string-name> (<year>2014</year>). <article-title>High&#x02010;throughput sequencing reveals inbreeding depression in a natural population</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences</source>, <volume>111</volume>(<issue>10</issue>), <fpage>3775</fpage>&#x02013;<lpage>3780</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1318945111</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0035"><mixed-citation publication-type="book" id="ece35478-cit-0035">
+<collab collab-type="authors">IAEA</collab>
+(<year>2015</year>). <source xml:lang="en">The Fukushima Dai&#x02010;ichi Accident: Technical Volume 4/5 Radiological Consequences</source>. <publisher-loc>Vienna, Austria</publisher-loc>: <publisher-name>IAEA</publisher-name>.</mixed-citation></ref><ref id="ece35478-bib-0036"><mixed-citation publication-type="journal" id="ece35478-cit-0036">
+<collab collab-type="authors">ICRP</collab>
+(<year>2007</year>). <article-title>ICRP 103: The 2007 Recommendations of the International Commission on Radiological Protection</article-title>. <source xml:lang="en">Annals of the ICRP</source>, <volume>37</volume>, <fpage>330</fpage>.</mixed-citation></ref><ref id="ece35478-bib-0037"><mixed-citation publication-type="book" id="ece35478-cit-0037">
+<string-name>
+<surname>Kimura</surname>, <given-names>M.</given-names>
+</string-name> (<year>1983</year>). <source xml:lang="en">The neutral theory of molecular evolution</source>. <publisher-loc>Cambridge, UK</publisher-loc>: <publisher-name>Cambridge University Press</publisher-name>.</mixed-citation></ref><ref id="ece35478-bib-0038"><mixed-citation publication-type="journal" id="ece35478-cit-0038">
+<string-name>
+<surname>Konec</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Prevor&#x0010d;nik</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sarbu</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Verovnik</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trontelj</surname>, <given-names>P.</given-names>
+</string-name> (<year>2015</year>). <article-title>Parallels between two geographically and ecologically disparate cave invasions by the same species, Asellus aquaticus (Isopoda, Crustacea)</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>28</volume>(<issue>4</issue>), <fpage>864</fpage>&#x02013;<lpage>875</lpage>.<pub-id pub-id-type="pmid">25728816</pub-id></mixed-citation></ref><ref id="ece35478-bib-0039"><mixed-citation publication-type="journal" id="ece35478-cit-0039">
+<string-name>
+<surname>Kovalchuk</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Dubrova</surname>, <given-names>Y. E.</given-names>
+</string-name>, <string-name>
+<surname>Arkhipov</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hohn</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kovalchuk</surname>, <given-names>I.</given-names>
+</string-name> (<year>2000</year>). <article-title>Germline DNA: Wheat mutation rate after Chernobyl</article-title>. <source xml:lang="en">Nature</source>, <volume>407</volume>(<issue>6804</issue>), <fpage>583</fpage>.<pub-id pub-id-type="pmid">11034198</pub-id></mixed-citation></ref><ref id="ece35478-bib-0040"><mixed-citation publication-type="journal" id="ece35478-cit-0040">
+<string-name>
+<surname>Kryshev</surname>, <given-names>A. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sazykina</surname>, <given-names>T. G.</given-names>
+</string-name> (<year>2012</year>). <article-title>Comparative analysis of doses to aquatic biota in water bodies impacted by radioactive contamination</article-title>. <source xml:lang="en">Journal of Environmental Radioactivity</source>, <volume>108</volume>, <fpage>9</fpage>&#x02013;<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1016/j.jenvrad.2011.07.013</pub-id>
+<pub-id pub-id-type="pmid">21924530</pub-id></mixed-citation></ref><ref id="ece35478-bib-0041"><mixed-citation publication-type="book" id="ece35478-cit-0041">
+<string-name>
+<surname>Kryshev</surname>, <given-names>I. I.</given-names>
+</string-name>, <string-name>
+<surname>Sazykina</surname>, <given-names>T. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Beresford</surname>, <given-names>N. A.</given-names>
+</string-name> (<year>2005</year>). <chapter-title>Effects on wildlife</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Smith</surname><given-names>J. T.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Beresford</surname><given-names>N. A.</given-names></name></person-group> (Eds.), <source xml:lang="en">Chernobyl: Catastrophe and consequences</source> (pp. <fpage>267</fpage>&#x02013;<lpage>287</lpage>). <publisher-loc>Chichester, UK</publisher-loc>: <publisher-name>Springer&#x02010;Praxis</publisher-name>.</mixed-citation></ref><ref id="ece35478-bib-0042"><mixed-citation publication-type="journal" id="ece35478-cit-0042">
+<string-name>
+<surname>Kuchma</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Vornam</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Finkeldey</surname>, <given-names>R.</given-names>
+</string-name> (<year>2011</year>). <article-title>Mutation rates in Scots pine (Pinus sylvestris L.) from the Chernobyl exclusion zone evaluated with amplified fragment&#x02010;length polymorphisms (AFLPs) and microsatellite markers</article-title>. <source xml:lang="en">Mutation Research/Genetic Toxicology and Environmental Mutagenesis</source>, <volume>725</volume>(<issue>1</issue>), <fpage>29</fpage>&#x02013;<lpage>35</lpage>.</mixed-citation></ref><ref id="ece35478-bib-0043"><mixed-citation publication-type="journal" id="ece35478-cit-0043">
+<string-name>
+<surname>Larson</surname>, <given-names>W. A.</given-names>
+</string-name>, <string-name>
+<surname>Seeb</surname>, <given-names>L. W.</given-names>
+</string-name>, <string-name>
+<surname>Everett</surname>, <given-names>M. V.</given-names>
+</string-name>, <string-name>
+<surname>Waples</surname>, <given-names>R. K.</given-names>
+</string-name>, <string-name>
+<surname>Templin</surname>, <given-names>W. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Seeb</surname>, <given-names>J. E.</given-names>
+</string-name> (<year>2014</year>). <article-title>Genotyping by sequencing resolves shallow population structure to inform conservation of Chinook salmon (Oncorhynchus tshawytscha)</article-title>. <source xml:lang="en">Evolutionary Applications</source>, <volume>7</volume>(<issue>3</issue>), <fpage>355</fpage>&#x02013;<lpage>369</lpage>.<pub-id pub-id-type="pmid">24665338</pub-id></mixed-citation></ref><ref id="ece35478-bib-0044"><mixed-citation publication-type="journal" id="ece35478-cit-0044">
+<string-name>
+<surname>Little</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Nagasawa</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Pfenning</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vetrovs</surname>, <given-names>H.</given-names>
+</string-name> (<year>1997</year>). <article-title>Radiation&#x02010;induced genomic instability: Delayed mutagenic and cytogenetic effects of X rays and alpha particles</article-title>. <source xml:lang="en">Radiation Research</source>, <volume>148</volume>(<issue>4</issue>), <fpage>299</fpage>&#x02013;<lpage>307</lpage>. <pub-id pub-id-type="doi">10.2307/3579514</pub-id>
+<pub-id pub-id-type="pmid">9339945</pub-id></mixed-citation></ref><ref id="ece35478-bib-0045"><mixed-citation publication-type="journal" id="ece35478-cit-0045">
+<string-name>
+<surname>Livshits</surname>, <given-names>L. A.</given-names>
+</string-name>, <string-name>
+<surname>Malyarchuk</surname>, <given-names>S. G.</given-names>
+</string-name>, <string-name>
+<surname>Lukyanova</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<surname>Antipkin</surname>, <given-names>Y. G.</given-names>
+</string-name>, <string-name>
+<surname>Arabskaya</surname>, <given-names>L. P.</given-names>
+</string-name>, <string-name>
+<surname>Kravchenko</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Le Guen</surname>, <given-names>B.</given-names>
+</string-name> (<year>2001</year>). <article-title>Children of Chernobyl cleanup workers do not show elevated rates of mutations in minisatellite alleles</article-title>. <source xml:lang="en">Radiation Research</source>, <volume>155</volume>(<issue>1</issue>), <fpage>74</fpage>&#x02013;<lpage>80</lpage>. <pub-id pub-id-type="doi">10.1667/0033-7587(2001)155[0074:COCCWD]2.0.CO;2</pub-id>
+<pub-id pub-id-type="pmid">11121218</pub-id></mixed-citation></ref><ref id="ece35478-bib-0046"><mixed-citation publication-type="journal" id="ece35478-cit-0046">
+<string-name>
+<surname>Lu</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Lipka</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Glaubitz</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Elshire</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cherney</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<surname>Casler</surname>, <given-names>M. D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Costich</surname>, <given-names>D. E.</given-names>
+</string-name> (<year>2013</year>). <article-title>Switchgrass Genomic Diversity, Ploidy, and Evolution: Novel Insights from a Network&#x02010;Based SNP Discovery Protocol</article-title>. <source xml:lang="en">PLoS Genetics</source>, <volume>9</volume>(<issue>1</issue>), <elocation-id>e1003215</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1003215</pub-id>
+<pub-id pub-id-type="pmid">23349638</pub-id></mixed-citation></ref><ref id="ece35478-bib-0047"><mixed-citation publication-type="journal" id="ece35478-cit-0047">
+<string-name>
+<surname>Matson</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<surname>Rodgers</surname>, <given-names>B. E.</given-names>
+</string-name>, <string-name>
+<surname>Chesser</surname>, <given-names>R. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baker</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2000</year>). <article-title>Genetic diversity of Clethrionomys glareolus populations from highly contaminated sites in the Chornobyl region, Ukraine</article-title>. <source xml:lang="en">Environmental Toxicology and Chemistry</source>, <volume>19</volume>(<issue>8</issue>), <fpage>2130</fpage>&#x02013;<lpage>2135</lpage>.</mixed-citation></ref><ref id="ece35478-bib-0048"><mixed-citation publication-type="journal" id="ece35478-cit-0048">
+<string-name>
+<surname>McCahon</surname>, <given-names>C. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pascoe</surname>, <given-names>D.</given-names>
+</string-name> (<year>1988</year>). <article-title>Culture techniques for three freshwater macroinvertebrate species and their use in toxicity tests</article-title>. <source xml:lang="en">Chemosphere</source>, <volume>17</volume>(<issue>12</issue>), <fpage>2471</fpage>&#x02013;<lpage>2480</lpage>. <pub-id pub-id-type="doi">10.1016/0045-6535(88)90157-9</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0049"><mixed-citation publication-type="journal" id="ece35478-cit-0049">
+<string-name>
+<surname>Morgan</surname>, <given-names>W. F.</given-names>
+</string-name> (<year>2003</year>). <article-title>Non&#x02010;targeted and delayed effects of exposure to ionizing radiation: I. Radiation&#x02010;induced genomic instability and bystander effects in vitro</article-title>. <source xml:lang="en">Radiation Research</source>, <volume>159</volume>(<issue>5</issue>), <fpage>567</fpage>&#x02013;<lpage>580</lpage>.<pub-id pub-id-type="pmid">12710868</pub-id></mixed-citation></ref><ref id="ece35478-bib-0050"><mixed-citation publication-type="journal" id="ece35478-cit-0050">
+<string-name>
+<surname>Murphy</surname>, <given-names>J. F.</given-names>
+</string-name>, <string-name>
+<surname>Nagorskaya</surname>, <given-names>L. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Smith</surname>, <given-names>J. T.</given-names>
+</string-name> (<year>2011</year>). <article-title>Abundance and diversity of aquatic macroinvertebrate communities in lakes exposed to Chernobyl&#x02010;derived ionising radiation</article-title>. <source xml:lang="en">Journal of Environmental Radioactivity</source>, <volume>102</volume>(<issue>7</issue>), <fpage>688</fpage>&#x02013;<lpage>694</lpage>. <pub-id pub-id-type="doi">10.1016/j.jenvrad.2011.04.007</pub-id>
+<pub-id pub-id-type="pmid">21530025</pub-id></mixed-citation></ref><ref id="ece35478-bib-0051"><mixed-citation publication-type="journal" id="ece35478-cit-0051">
+<string-name>
+<surname>Narum</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Buerkle</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Davey</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>, <given-names>M. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hohenlohe</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Genotyping&#x02010;by&#x02010;sequencing in ecological and conservation genomics</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>22</volume>(<issue>11</issue>), <fpage>2841</fpage>&#x02013;<lpage>2847</lpage>. <pub-id pub-id-type="doi">10.1111/mec.12350</pub-id>
+<pub-id pub-id-type="pmid">23711105</pub-id></mixed-citation></ref><ref id="ece35478-bib-0052"><mixed-citation publication-type="journal" id="ece35478-cit-0052">
+<string-name>
+<surname>Nei</surname>, <given-names>M.</given-names>
+</string-name> (<year>1973</year>). <article-title>Analysis of gene diversity in subdivided populations</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences</source>, <volume>70</volume>(<issue>12</issue>), <fpage>3321</fpage>&#x02013;<lpage>3323</lpage>.</mixed-citation></ref><ref id="ece35478-bib-0053"><mixed-citation publication-type="journal" id="ece35478-cit-0053">
+<string-name>
+<surname>Nielsen</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Paul</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Albrechtsen</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Song</surname>, <given-names>Y. S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Genotype and SNP calling from next&#x02010;generation sequencing data</article-title>. <source xml:lang="en">Nature Reviews Genetics</source>, <volume>12</volume>(<issue>6</issue>), <fpage>443</fpage>
+<pub-id pub-id-type="doi">10.1038/nrg2986</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0054"><mixed-citation publication-type="journal" id="ece35478-cit-0054">
+<string-name>
+<surname>Oksanen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Blanchet</surname>, <given-names>F. G.</given-names>
+</string-name>, <string-name>
+<surname>Kindt</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Legendre</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Minchin</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>O'Hara</surname>, <given-names>R. B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wagner</surname>, <given-names>H.</given-names>
+</string-name> (<year>2013</year>). <article-title>Package &#x0201c;vegan&#x0201d;</article-title>. <source xml:lang="en">R Package Version</source>, <volume>2</volume>(<issue>0&#x02013;8</issue>), <fpage>254</fpage>.</mixed-citation></ref><ref id="ece35478-bib-0055"><mixed-citation publication-type="journal" id="ece35478-cit-0055">
+<string-name>
+<surname>Pfeifer</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wittelsb&#x000fc;rger</surname>, <given-names>U.</given-names>
+</string-name>, <string-name>
+<surname>Ramos&#x02010;Onsins</surname>, <given-names>S. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lercher</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2014</year>). <article-title>PopGenome: An efficient swiss army knife for population genomic analyses in R</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>31</volume>(<issue>7</issue>), <fpage>1929</fpage>&#x02013;<lpage>1936</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msu136</pub-id>
+<pub-id pub-id-type="pmid">24739305</pub-id></mixed-citation></ref><ref id="ece35478-bib-0056"><mixed-citation publication-type="journal" id="ece35478-cit-0056">
+<string-name>
+<surname>Pollinger</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Lohmueller</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>H. G.</given-names>
+</string-name>, <string-name>
+<surname>Quignon</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Degenhardt</surname>, <given-names>J. D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Bryc</surname>, <given-names>K.</given-names>
+</string-name> (<year>2010</year>). <article-title>Genome&#x02010;wide SNP and haplotype analyses reveal a rich history underlying dog domestication</article-title>. <source xml:lang="en">Nature</source>, <volume>464</volume>(<issue>7290</issue>), <fpage>898</fpage>.<pub-id pub-id-type="pmid">20237475</pub-id></mixed-citation></ref><ref id="ece35478-bib-0057"><mixed-citation publication-type="journal" id="ece35478-cit-0057">
+<string-name>
+<surname>Rumisha</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Leermakers</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Elskens</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mdegela</surname>, <given-names>R. H.</given-names>
+</string-name>, <string-name>
+<surname>Gwakisa</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kochzius</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Genetic diversity of the giant tiger prawn Penaeus monodon in relation to trace metal pollution at the Tanzanian coast</article-title>. <source xml:lang="en">Marine Pollution Bulletin</source>, <volume>114</volume>(<issue>2</issue>), <fpage>759</fpage>&#x02013;<lpage>767</lpage>. <pub-id pub-id-type="doi">10.1016/j.marpolbul.2016.10.057</pub-id>
+<pub-id pub-id-type="pmid">27829502</pub-id></mixed-citation></ref><ref id="ece35478-bib-0058"><mixed-citation publication-type="journal" id="ece35478-cit-0058">
+<string-name>
+<surname>Schl&#x000f6;tterer</surname>, <given-names>C.</given-names>
+</string-name> (<year>2004</year>). <article-title>The evolution of molecular markers&#x02014;just a matter of fashion?</article-title>
+<source xml:lang="en">Nature Reviews Genetics</source>, <volume>5</volume>(<issue>1</issue>), <fpage>63</fpage>&#x02013;<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1038/nrg1249</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0059"><mixed-citation publication-type="journal" id="ece35478-cit-0059">
+<string-name>
+<surname>Sworobowicz</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Grabowski</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mamos</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Burzy&#x00144;ski</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Kilikowska</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sell</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wysocka</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Revisiting the phylogeography of <italic>Asellus aquaticus</italic> in Europe: Insights into cryptic diversity and spatiotemporal diversification</article-title>. <source xml:lang="en">Freshwater Biology</source>, <volume>60</volume>(<issue>9</issue>), <fpage>1824</fpage>&#x02013;<lpage>1840</lpage>.</mixed-citation></ref><ref id="ece35478-bib-0060"><mixed-citation publication-type="journal" id="ece35478-cit-0060">
+<string-name>
+<surname>Theodorakis</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<surname>Bickham</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Lamb</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Medica</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lyne</surname>, <given-names>T. B.</given-names>
+</string-name> (<year>2001</year>). <article-title>Integration of genotoxicity and population genetic analyses in kangaroo rats (Dipodomys merriami) exposed to radionuclide contamination at the Nevada Test Site, USA</article-title>. <source xml:lang="en">Environmental Toxicology &#x00026; Chemistry</source>, <volume>20</volume>(<issue>2</issue>), <fpage>317</fpage>&#x02013;<lpage>326</lpage>.<pub-id pub-id-type="pmid">11351431</pub-id></mixed-citation></ref><ref id="ece35478-bib-0061"><mixed-citation publication-type="journal" id="ece35478-cit-0061">
+<string-name>
+<surname>Theodorakis</surname>, <given-names>C. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shugart</surname>, <given-names>L. R.</given-names>
+</string-name> (<year>1998</year>). <article-title>Genetic ecotoxicology III: The relationship between DNA strand breaks and genotype in mosquito fish exposed to radiation</article-title>. <source xml:lang="en">Ecotoxicology</source>, <volume>7</volume>(<issue>4</issue>), <fpage>227</fpage>&#x02013;<lpage>235</lpage>.</mixed-citation></ref><ref id="ece35478-bib-0062"><mixed-citation publication-type="journal" id="ece35478-cit-0062">
+<string-name>
+<surname>Torkamaneh</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Laroche</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Belzile</surname>, <given-names>F.</given-names>
+</string-name> (<year>2016</year>). <article-title>Genome&#x02010;wide SNP calling from genotyping by sequencing (GBS) data: A comparison of seven pipelines and two sequencing technologies</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>11</volume>(<issue>8</issue>), <elocation-id>e0161333</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0161333</pub-id>
+<pub-id pub-id-type="pmid">27547936</pub-id></mixed-citation></ref><ref id="ece35478-bib-0063"><mixed-citation publication-type="journal" id="ece35478-cit-0063">
+<string-name>
+<surname>Tsyusko</surname>, <given-names>O. V.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Oleksyk</surname>, <given-names>T. K.</given-names>
+</string-name>, <string-name>
+<surname>Goryanaya</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Glenn</surname>, <given-names>T. C.</given-names>
+</string-name> (<year>2006</year>). <article-title>Genetics of cattails in radioactively contaminated areas around Chornobyl</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>15</volume>(<issue>9</issue>), <fpage>2611</fpage>&#x02013;<lpage>2625</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2006.02939.x</pub-id>
+<pub-id pub-id-type="pmid">16842431</pub-id></mixed-citation></ref><ref id="ece35478-bib-0064"><mixed-citation publication-type="journal" id="ece35478-cit-0064">
+<string-name>
+<surname>Tucker</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Cofield</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Matsumoto</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ramsey</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Freeman</surname>, <given-names>D. C.</given-names>
+</string-name> (<year>2005</year>). <article-title>Persistence of chromosome aberrations following acute radiation: I, PAINT translocations, dicentrics, rings, fragments, and insertions</article-title>. <source xml:lang="en">Environmental and Molecular Mutagenesis</source>, <volume>45</volume>(<issue>2&#x02013;3</issue>), <fpage>229</fpage>&#x02013;<lpage>248</lpage>. <pub-id pub-id-type="doi">10.1002/em.20090</pub-id>
+<pub-id pub-id-type="pmid">15657915</pub-id></mixed-citation></ref><ref id="ece35478-bib-0065"><mixed-citation publication-type="journal" id="ece35478-cit-0065">
+<string-name>
+<surname>Turlure</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Vandewoestijne</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baguette</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Conservation genetics of a threatened butterfly: Comparison of allozymes</article-title>. <source xml:lang="en">Rapds and Microsatellites. BMC Genetics</source>, <volume>15</volume>(<issue>1</issue>), <fpage>114</fpage>
+<pub-id pub-id-type="doi">10.1186/s12863-014-0114-7</pub-id>
+<pub-id pub-id-type="pmid">25367292</pub-id></mixed-citation></ref><ref id="ece35478-bib-0066"><mixed-citation publication-type="journal" id="ece35478-cit-0066">
+<string-name>
+<surname>van Straalen</surname>, <given-names>N. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Timmermans</surname>, <given-names>M. J.</given-names>
+</string-name> (<year>2002</year>). <article-title>Genetic variation in toxicant&#x02010;stressed populations: An evaluation of the &#x0201c;genetic erosion&#x0201d; hypothesis</article-title>. <source xml:lang="en">Human and Ecological Risk Assessment</source>, <volume>8</volume>(<issue>5</issue>), <fpage>983</fpage>&#x02013;<lpage>1002</lpage>. <pub-id pub-id-type="doi">10.1080/1080-700291905783</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0067"><mixed-citation publication-type="journal" id="ece35478-cit-0067">
+<string-name>
+<surname>Verovnik</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sket</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Prevor&#x0010d;nik</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trontelj</surname>, <given-names>P.</given-names>
+</string-name> (<year>2003</year>). <article-title>Random amplified polymorphic DNA diversity among surface and subterranean populations of Asellus aquaticus (Crustacea: Isopoda)</article-title>. <source xml:lang="en">Genetica</source>, <volume>119</volume>(<issue>2</issue>), <fpage>155</fpage>&#x02013;<lpage>165</lpage>.<pub-id pub-id-type="pmid">14620955</pub-id></mixed-citation></ref><ref id="ece35478-bib-0068"><mixed-citation publication-type="journal" id="ece35478-cit-0068">
+<string-name>
+<surname>Verovnik</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Sket</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Trontelj</surname>, <given-names>P.</given-names>
+</string-name> (<year>2005</year>). <article-title>The colonization of Europe by the freshwater crustacean Asellus aquaticus (Crustacea: Isopoda) proceeded from ancient refugia and was directed by habitat connectivity</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>14</volume>(<issue>14</issue>), <fpage>4355</fpage>&#x02013;<lpage>4369</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-294X.2005.02745.x</pub-id>
+<pub-id pub-id-type="pmid">16313598</pub-id></mixed-citation></ref><ref id="ece35478-bib-0069"><mixed-citation publication-type="journal" id="ece35478-cit-0069">
+<string-name>
+<surname>Volkova</surname>, <given-names>P. Y.</given-names>
+</string-name>, <string-name>
+<surname>Geras'kin</surname>, <given-names>S. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kazakova</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Radiation exposure in the remote period after the Chernobyl accident caused oxidative stress and genetic effects in Scots pine populations</article-title>. <source xml:lang="en">Scientific Reports</source>, <volume>7</volume>, <fpage>43009</fpage>
+<pub-id pub-id-type="doi">10.1038/srep43009</pub-id>
+<pub-id pub-id-type="pmid">28223696</pub-id></mixed-citation></ref><ref id="ece35478-bib-0070"><mixed-citation publication-type="journal" id="ece35478-cit-0070">
+<string-name>
+<surname>Volkova</surname>, <given-names>P. Y.</given-names>
+</string-name>, <string-name>
+<surname>Geras'kin</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Horemans</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Makarenko</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name>
+<surname>Saenen</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>G. T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kudin</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Chronic radiation exposure as an ecological factor: Hypermethylation and genetic differentiation in irradiated Scots pine populations</article-title>. <source xml:lang="en">Environmental Pollution</source>, <volume>232</volume>, <fpage>105</fpage>&#x02013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1016/j.envpol.2017.08.123</pub-id>
+<pub-id pub-id-type="pmid">28931465</pub-id></mixed-citation></ref><ref id="ece35478-bib-0071"><mixed-citation publication-type="journal" id="ece35478-cit-0071">
+<string-name>
+<surname>Vornam</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Arkhipov</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Finkeldey</surname>, <given-names>R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Nucleotide diversity and gene expression of Catalase and Glutathione peroxidase in irradiated Scots pine (Pinus sylvestris L.) from the Chernobyl exclusion zone</article-title>. <source xml:lang="en">Journal of Environmental Radioactivity</source>, <volume>106</volume>, <fpage>20</fpage>&#x02013;<lpage>26</lpage>.<pub-id pub-id-type="pmid">22304996</pub-id></mixed-citation></ref><ref id="ece35478-bib-0072"><mixed-citation publication-type="journal" id="ece35478-cit-0072">
+<string-name>
+<surname>Weinberg</surname>, <given-names>H. S.</given-names>
+</string-name>, <string-name>
+<surname>Korol</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name>
+<surname>Kirzhner</surname>, <given-names>V. M.</given-names>
+</string-name>, <string-name>
+<surname>Avivi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Fahima</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Nevo</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Skvarskaja</surname>, <given-names>E.</given-names>
+</string-name> (<year>2001</year>). <article-title>Very high mutation rate in offspring of Chernobyl accident liquidators</article-title>. <source xml:lang="en">Proceedings of the Royal Society of London. Series B: Biological Sciences</source>, <volume>268</volume>(<issue>1471</issue>), <fpage>1001</fpage>&#x02013;<lpage>1005</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2001.1650</pub-id>.<pub-id pub-id-type="pmid">11375082</pub-id></mixed-citation></ref><ref id="ece35478-bib-0073"><mixed-citation publication-type="journal" id="ece35478-cit-0073">
+<string-name>
+<surname>Weir</surname>, <given-names>B. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cockerham</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>1984</year>). <article-title>Estimating F&#x02010;statistics for the analysis of population structure</article-title>. <source xml:lang="en">Evolution</source>, <volume>38</volume>(<issue>6</issue>), <fpage>1358</fpage>&#x02013;<lpage>1370</lpage>.<pub-id pub-id-type="pmid">28563791</pub-id></mixed-citation></ref><ref id="ece35478-bib-0074"><mixed-citation publication-type="journal" id="ece35478-cit-0074">
+<string-name>
+<surname>White</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Perkins</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Heckel</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Searle</surname>, <given-names>J. B.</given-names>
+</string-name> (<year>2013</year>). <article-title>Adaptive evolution during an ongoing range expansion: The invasive bank vole (Myodes glareolus) in Ireland</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>22</volume>(<issue>11</issue>), <fpage>2971</fpage>&#x02013;<lpage>2985</lpage>.<pub-id pub-id-type="pmid">23701376</pub-id></mixed-citation></ref><ref id="ece35478-bib-0075"><mixed-citation publication-type="journal" id="ece35478-cit-0075">
+<string-name>
+<surname>Whitehurst</surname>, <given-names>I. T.</given-names>
+</string-name> (<year>1991</year>). <article-title>TheGammarus: Asellus ratio as an index of organic pollution</article-title>. <source xml:lang="en">Water Research</source>, <volume>25</volume>(<issue>3</issue>), <fpage>333</fpage>&#x02013;<lpage>339</lpage>. <pub-id pub-id-type="doi">10.1016/0043-1354(91)90014-H</pub-id>
+</mixed-citation></ref><ref id="ece35478-bib-0076"><mixed-citation publication-type="journal" id="ece35478-cit-0076">
+<string-name>
+<surname>Wickliffe</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Rodgers</surname>, <given-names>B. E.</given-names>
+</string-name>, <string-name>
+<surname>Chesser</surname>, <given-names>R. K.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Gaschak</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Baker</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2003</year>). <article-title>Mitochondrial DNA heteroplasmy in laboratory mice experimentally enclosed in the radioactive Chernobyl environment</article-title>. <source xml:lang="en">Radiation Research</source>, <volume>159</volume>(<issue>4</issue>), <fpage>458</fpage>&#x02013;<lpage>464</lpage>. <pub-id pub-id-type="doi">10.1667/0033-7587(2003)159[0458:MDHILM]2.0.CO;2</pub-id>
+<pub-id pub-id-type="pmid">12643790</pub-id></mixed-citation></ref><ref id="ece35478-bib-0077"><mixed-citation publication-type="journal" id="ece35478-cit-0077">
+<string-name>
+<surname>Zheng</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Levine</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gogarten</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Laurie</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Weir</surname>, <given-names>B. S.</given-names>
+</string-name> (<year>2012</year>). <article-title>A high&#x02010;performance computing toolset for relatedness and principal component analysis of SNP data</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>28</volume>(<issue>24</issue>), <fpage>3326</fpage>&#x02013;<lpage>3328</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/bts606</pub-id>
+<pub-id pub-id-type="pmid">23060615</pub-id></mixed-citation></ref></ref-list></back></article>

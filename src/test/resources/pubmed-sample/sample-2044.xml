@@ -1,0 +1,727 @@
+
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Biomolecules</journal-id><journal-id journal-id-type="iso-abbrev">Biomolecules</journal-id><journal-id journal-id-type="publisher-id">biomolecules</journal-id><journal-title-group><journal-title>Biomolecules</journal-title></journal-title-group><issn pub-type="epub">2218-273X</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26771651</article-id><article-id pub-id-type="pmc">4808804</article-id><article-id pub-id-type="doi">10.3390/biom6010010</article-id><article-id pub-id-type="publisher-id">biomolecules-06-00010</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Glutaminase Increases in Rat Dorsal Root Ganglion Neurons after Unilateral Adjuvant-Induced Hind Paw Inflammation</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Hoffman</surname><given-names>E. Matthew</given-names></name></contrib><contrib contrib-type="author"><name><surname>Zhang</surname><given-names>Zijia</given-names></name></contrib><contrib contrib-type="author"><name><surname>Schechter</surname><given-names>Ruben</given-names></name><xref ref-type="author-notes" rid="fn1-biomolecules-06-00010">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Miller</surname><given-names>Kenneth E.</given-names></name><xref rid="c1-biomolecules-06-00010" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>B&#x000e4;hler</surname><given-names>J&#x000fc;rg</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-biomolecules-06-00010">Anatomy and Cell Biology, Oklahoma State University Center for Health Sciences, 1111 West 17th Street, Tulsa, OK 74107, USA; <email>e.matthew.hoffman@gmail.com</email> (E.M.H.), <email>zijia.zhang@okstate.edu</email> (Z.Z.)</aff><author-notes><corresp id="c1-biomolecules-06-00010"><label>*</label>Correspondence: <email>kenneth.miller@okstate.edu</email>; Tel.: +918-561-5817; Fax: +918-561-8276</corresp><fn id="fn1-biomolecules-06-00010"><label>&#x02020;</label><p>Deceased.</p></fn></author-notes><pub-date pub-type="epub"><day>13</day><month>1</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2016</year></pub-date><volume>6</volume><issue>1</issue><elocation-id>10</elocation-id><history><date date-type="received"><day>13</day><month>11</month><year>2015</year></date><date date-type="accepted"><day>05</day><month>1</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Glutamate is a neurotransmitter used at both the peripheral and central terminals of nociceptive primary sensory neurons, yet little is known concerning regulation of glutamate metabolism during peripheral inflammation. Glutaminase (GLS) is an enzyme of the glutamate-glutamine cycle that converts glutamine into glutamate for neurotransmission and is implicated in producing elevated levels of glutamate in central and peripheral terminals. A potential mechanism for increased levels of glutamate is an elevation in GLS expression. We assessed GLS expression after unilateral hind paw inflammation by measuring GLS immunoreactivity (ir) with quantitative image analysis of L4 dorsal root ganglion (DRG) neurons after one, two, four, and eight days of adjuvant-induced arthritis (AIA) compared to saline injected controls. No significant elevation in GLS-ir occurred in the DRG ipsilateral to the inflamed hind paw after one or two days of AIA. After four days AIA, GLS-ir was elevated significantly in all sizes of DRG neurons. After eight days AIA, GLS-ir remained elevated in small (&#x0003c;400 &#x000b5;m<sup>2</sup>), presumably nociceptive neurons. Western blot analysis of the L4 DRG at day four AIA confirmed the elevated GLS-ir. The present study indicates that GLS expression is increased in the chronic stage of inflammation and may be a target for chronic pain therapy.</p></abstract><kwd-group><kwd>glutaminase</kwd><kwd>glutamate</kwd><kwd>adjuvant-induced arthritis</kwd><kwd>complete Freund&#x02019;s adjuvant</kwd><kwd>dorsal root ganglion</kwd></kwd-group></article-meta></front><body><sec id="sec1-biomolecules-06-00010"><title>1. Introduction</title><p>Central axons of pseudounipolar primary sensory neurons of the dorsal root ganglion (DRG) terminate in spinal cord dorsal horn and medullary dorsal column nuclei for pain and touch pathways, respectively [<xref rid="B1-biomolecules-06-00010" ref-type="bibr">1</xref>]. Peripheral axons of these neurons terminate in and bring sensory information from target tissues, such as viscera, muscle and skin. The central axon terminals release the neurotransmitter glutamate at both spinal [<xref rid="B2-biomolecules-06-00010" ref-type="bibr">2</xref>,<xref rid="B3-biomolecules-06-00010" ref-type="bibr">3</xref>,<xref rid="B4-biomolecules-06-00010" ref-type="bibr">4</xref>,<xref rid="B5-biomolecules-06-00010" ref-type="bibr">5</xref>] and medullary levels [<xref rid="B2-biomolecules-06-00010" ref-type="bibr">2</xref>]. Although the peripheral axon terminals are afferent receptors, some of them also have efferent capabilities [<xref rid="B6-biomolecules-06-00010" ref-type="bibr">6</xref>,<xref rid="B7-biomolecules-06-00010" ref-type="bibr">7</xref>], e.g., glutamate release in response to noxious stimulation [<xref rid="B8-biomolecules-06-00010" ref-type="bibr">8</xref>,<xref rid="B9-biomolecules-06-00010" ref-type="bibr">9</xref>,<xref rid="B10-biomolecules-06-00010" ref-type="bibr">10</xref>]. Inflammation of peripheral target tissues increases the amount of glutamate released from both the peripheral [<xref rid="B9-biomolecules-06-00010" ref-type="bibr">9</xref>,<xref rid="B10-biomolecules-06-00010" ref-type="bibr">10</xref>] and central axon terminals of DRG neurons [<xref rid="B3-biomolecules-06-00010" ref-type="bibr">3</xref>,<xref rid="B4-biomolecules-06-00010" ref-type="bibr">4</xref>]. Similar phenomena occur with the neuropeptides substance P (SP) and calcitonin gene-related peptide (CGRP) when inflammation induces gene regulation at the transcriptional level, providing the elevated amounts of SP and CGRP for release from peripheral and central terminals [<xref rid="B11-biomolecules-06-00010" ref-type="bibr">11</xref>,<xref rid="B12-biomolecules-06-00010" ref-type="bibr">12</xref>]. Increasing the quantity of glutamate available for release depends on regulating the amount of the enzyme for synthesizing glutamate, <italic>i.e.</italic>, glutaminase (GLS; EC 3.5.1.2). Despite glutamate being released from the same neurons that release neuropeptides [<xref rid="B13-biomolecules-06-00010" ref-type="bibr">13</xref>] and the co-localization of GLS within peptidergic neurons [<xref rid="B14-biomolecules-06-00010" ref-type="bibr">14</xref>], very little is known about glutamate metabolism in DRG neurons during inflammation. One study indicates that GLS is elevated in small and medium diameter lumbar 4 (L4) DRG neurons after seven ys of unilateral adjuvant-induced arthritis (AIA) [<xref rid="B15-biomolecules-06-00010" ref-type="bibr">15</xref>].</p><p>Glutamate metabolism in the central nervous system (CNS) has been well studied [<xref rid="B16-biomolecules-06-00010" ref-type="bibr">16</xref>], since glutamate is the primary excitatory neurotransmitter in the CNS. Neurotransmitter glutamate is taken up and converted to glutamine by astrocytes via the enzyme glutamine synthetase, which release glutamine back to the neurons. Neurons take up glutamine and convert it to glutamate with GLS. Many of the proteins necessary for the glutamate-glutamine cycle are present in DRG neurons and their glia [<xref rid="B7-biomolecules-06-00010" ref-type="bibr">7</xref>,<xref rid="B17-biomolecules-06-00010" ref-type="bibr">17</xref>,<xref rid="B18-biomolecules-06-00010" ref-type="bibr">18</xref>,<xref rid="B19-biomolecules-06-00010" ref-type="bibr">19</xref>,<xref rid="B20-biomolecules-06-00010" ref-type="bibr">20</xref>,<xref rid="B21-biomolecules-06-00010" ref-type="bibr">21</xref>]. Acute increase in the production of glutamate available for release in DRG neurons could involve an increase in flux through the glutamate-glutamine cycle near the sites of glutamate release. Long-term responses may require regulating the expression of glutamate-glutamine cycle proteins at the cell body in the DRG and then transporting them to the peripheral and central terminals [<xref rid="B7-biomolecules-06-00010" ref-type="bibr">7</xref>,<xref rid="B15-biomolecules-06-00010" ref-type="bibr">15</xref>]. To address this issue, we hypothesize that hind paw inflammation increases GLS production in rat DRG neurons. In the present study, we examined GLS-immunoreactivity (ir) with quantitative image analysis of neurons in the rat lumbar 4 (L4) DRG neurons after one, two, four, and eight days of hind paw inflammation, <italic>i.e.</italic>, AIA, and Western blot after four days of AIA.</p></sec><sec id="sec2-biomolecules-06-00010"><title>2. Materials and Methods</title><sec id="sec2dot1-biomolecules-06-00010"><title>2.1. Animals</title><p>A combination of male and female Sprague-Dawley rats (<italic>n</italic> = 32; 170&#x02013;280 g) bred on site were used for this study. They were housed on a 12 h light: 12 h dark cycle and given free access to food and water. Procedures in this study were conducted according to guidelines from the International Association for the Study of Pain [<xref rid="B22-biomolecules-06-00010" ref-type="bibr">22</xref>] and the National Institutes of Health [<xref rid="B23-biomolecules-06-00010" ref-type="bibr">23</xref>], and were approved by the Oklahoma State University&#x02014;Center for Health Sciences Institutional Animal Care and Use Committee (Protocol # 2010-02). All appropriate efforts were made to minimize the number of rats used in this study.</p><p>To induce a unilateral inflammation of the hind paw, rats (<italic>n</italic> = 20) were anesthetized with isoflurane and 150 &#x000b5;L of a 1:1 emulsion containing complete Freund&#x02019;s adjuvant (CFA; Sigma; St. Louis, MO, USA) and 10 mM phosphate buffered 0.9% saline (PBS) was injected into the plantar surface of the right hind paw using a 26 gauge needle. Control rats (<italic>n</italic> = 12) were given an injection of 150 &#x000b5;L PBS in the right hind paw with the same anesthesia procedure and injection technique. Inflammation was allowed to persist for one, two, four, or eight days; at each time point, 5 CFA-injected and 3 PBS-injected animals were used for immunohistochemistry experiments.</p></sec><sec id="sec2dot2-biomolecules-06-00010"><title>2.2. Evoked Pain Behavioral Responses</title><p>Behavioral studies were performed to verify the presence of hyperalgesia after induction of inflammation. Rats were housed in a behavioral testing room within the animal facility to familiarize them to the testing environment and to minimize the experience of transfer to and from testing chambers and housing cages. Three days of testing were performed prior to the injection day to obtain a baseline reading for each animal; these days were noted as days -3, -2, and -1. On injection day (day 0), the behavioral test was done prior to the injection, thus serving as a fourth and final assessment of baseline sensitivity. Behavioral testing continued daily at the same approximate time each day throughout the remainder of each individual experiment, with the longest being until day 8 (12 total days of testing).</p><p>Thermal latencies measured in seconds were obtained using a Plantar Test apparatus (Ugo Basile, Comerio, Italy) set at an intensity of 55 mW/cm<sup>2</sup>. Mechanical thresholds measured in grams were obtained using a Dynamic Plantar Aesthesiometer (Ugo Basile) set to apply a maximum of 50 g at a ramp rate of 5 g/s. Each testing period consisted of placing the rats into the testing chambers where acclimation was indicated by cessation of all exploratory and grooming behaviors. Two thermal latencies and two mechanical thresholds were measured from each hind paw of each rat, with measurements spaced at least ten minutes apart.</p></sec><sec id="sec2dot3-biomolecules-06-00010"><title>2.3. Hind Paw Edema</title><p>Hind paw edema was measured with a dial caliper (Mitutoyo; Aurora, IL, USA) by measuring metatarsal thickness to the nearest 0.05 mm of both hind paws on the day that the rat was perfused. All hind paw edema measurements were taken when animals were 47&#x02013;48 days old so that age would not confound the results.</p></sec><sec id="sec2dot4-biomolecules-06-00010"><title>2.4. Immunohistochemistry (IHC)</title><p>After one, two, four, or eight days of inflammation, 3 PBS-injected and 5 CFA-injected rats were anesthetized with intraperitoneal (i.p.) injections of 1.5 mL 2.5% (<italic>w</italic>/<italic>v</italic>) Avertin followed by 0.5 mL xylazine. Rats were perfused with 75 mL of calcium-free Tyrode&#x02019;s solution, pH 7.3 followed by 325 mL of 0.96% (<italic>w</italic>/<italic>v</italic>) picric acid and 0.2% (<italic>w</italic>/<italic>v</italic>) formaldehyde in 0.1 M sodium phosphate buffer, pH 7.3. We chose this fixative because low aldehyde concentration results in optimal immunolabeling of GLS [<xref rid="B18-biomolecules-06-00010" ref-type="bibr">18</xref>,<xref rid="B24-biomolecules-06-00010" ref-type="bibr">24</xref>]. The right (ipsilateral) and left (contralateral) L4 DRG were carefully dissected and placed in the same fixative for 24 h at 4 &#x000b0;C before being transferred to 20% (<italic>w</italic>/<italic>v</italic>) sucrose in 0.1 M sodium phosphate buffer, pH 7.3 for 48 h at 4 &#x000b0;C. The eight DRG from a single time set of animals were embedded in a single frozen block and cut in 10 &#x000b5;m sections on a Microm HM 550 OMVP cryostat (Richard Allan Scientific; Kalamazoo, MI, USA). Every fourth section was thaw mounted on gelatin-coated SuperFrost slides (Fischer Scientific; Pittsburg, PA, USA) with two sections per slide. Five slides of DRG sections from each time point were dried at 37 &#x000b0;C for two hours. After three 10 min rinses in PBS, DRG sections were blocked for one hour at room temperature in 10% (<italic>v</italic>/<italic>v</italic>) normal goat serum, 10% (<italic>v</italic>/<italic>v</italic>) fetal bovine serum, 10% (<italic>v</italic>/<italic>v</italic>) normal horse serum, 2% (<italic>w</italic>/<italic>v</italic>) polyvinylpyrollidone, 2% (<italic>w</italic>/<italic>v</italic>) bovine serum albumin, and 0.3% (<italic>v</italic>/<italic>v</italic>) Triton X-100 in PBS. A polyclonal rabbit antiserum against glutaminase was a generous gift from Dr. Norman Curthoys (Colorado State University, Ft. Collins, CO, USA) and previous absorption controls on DRG tissue sections have been performed [<xref rid="B18-biomolecules-06-00010" ref-type="bibr">18</xref>]. The primary antiserum was diluted 1:10,000 in PBS containing 0.3% (<italic>w</italic>/<italic>v</italic>) Triton X-100 (PBS-T) and DRG sections were incubated for four days at 4 &#x000b0;C [<xref rid="B18-biomolecules-06-00010" ref-type="bibr">18</xref>]. After primary antiserum incubation, DRG sections were rinsed three times for 10 min in PBS and incubated for one hour at room temperature in biotinylated goat anti-rabbit (Vector Laboratories; Burlingame, CA, USA) diluted in PBS-T to 1.5 &#x000b5;g/mL. DRG sections were rinsed two times in PBS for 10 min and one time in 0.1 M sodium carbonate buffered 0.9% (<italic>w</italic>/<italic>v</italic>) saline (SCBS) for 10 min before one hour of incubation at room temperature in fluorescein isothiocyanate conjugated avidin (Vector Laboratories) diluted to 1 &#x000b5;g/mL in SCBS. After three 10 min rinses in PBS, cover slips were affixed with ProLong Gold (Invitrogen; Carlsbad, CA, USA) to retard fading of immunofluorescence.</p></sec><sec id="sec2dot5-biomolecules-06-00010"><title>2.5. Quantitative Image Analysis</title><p>Images of L4 DRG tissue sections were acquired on a BX51 epifluorescence microscope (Olympus; Center Valley, PA, USA) using a SPOT RT740 camera (Diagnostic Instruments; Sterling Heights, MI, USA). An exposure and gain combination was determined empirically for each of the four slide sets in which the dimmest regions of tissue could be discerned visually for tracing, but the brightest regions were not oversaturated [<xref rid="B15-biomolecules-06-00010" ref-type="bibr">15</xref>,<xref rid="B18-biomolecules-06-00010" ref-type="bibr">18</xref>,<xref rid="B25-biomolecules-06-00010" ref-type="bibr">25</xref>,<xref rid="B26-biomolecules-06-00010" ref-type="bibr">26</xref>]. Three fields of view were captured randomly from each section of each DRG. All nucleated cells were analyzed in ImageJ (National Institutes of Health; Bethesda, MD, USA) by using the freehand selection tool to identify the cells as regions of interest (ROIs). Once all ROIs for a given image were selected and added to the ROI manager, the area (in &#x000b5;m<sup>2</sup>) and cytoplasmic mean gray values were measured for each cell and exported for subsequent statistical analysis. Each pixel of an 8-bit grayscale image had a value from 0&#x02013;255. Each mean gray intensity (MGI) value (C) was converted into a relative MGI value that ranged from 1&#x02013;100 [<xref rid="B27-biomolecules-06-00010" ref-type="bibr">27</xref>], because images from each of the four slide sets, <italic>i.e.</italic>, different days of inflammation, were taken at slightly different gain and exposure settings. To accomplish this conversion, the MGI value of the most weakly labeled neuron in each data set (A) and the MGI value of the most intensely labeled neuron in each data set (B) were determined and each neuron was given a relative MGI value = (100 &#x000d7; (C &#x02212; A)/(B &#x02212; A)). MGI values were used to quantitate the immunoreactivity (ir) and therefore estimate protein expression [<xref rid="B26-biomolecules-06-00010" ref-type="bibr">26</xref>]. Frequency distributions of MGI&#x02019;s were generated for each time point. At each of the four time points assessed, the mean MGI&#x02019;s were calculated for small (&#x0003c;400 &#x000b5;m<sup>2</sup>), medium (400&#x02013;600 &#x000b5;m<sup>2</sup>), and large (&#x0003e;800 &#x000b5;m<sup>2</sup>) neurons of each L4 DRG as described in previous reports [<xref rid="B18-biomolecules-06-00010" ref-type="bibr">18</xref>,<xref rid="B25-biomolecules-06-00010" ref-type="bibr">25</xref>,<xref rid="B27-biomolecules-06-00010" ref-type="bibr">27</xref>,<xref rid="B28-biomolecules-06-00010" ref-type="bibr">28</xref>].</p></sec><sec id="sec2dot6-biomolecules-06-00010"><title>2.6. Western blot</title><p>Tissues were obtained from six female Sprague-Dawley rats weighing 200&#x02013;250 g; three controls were injected with PBS and three injected with CFA as described in <xref ref-type="sec" rid="sec2dot1-biomolecules-06-00010">Section 2.1</xref>. Rats were asphyxiated with CO<sub>2</sub> after four days of AIA, and the right L4 DRG&#x02019;s were rapidly extracted. DRG&#x02019;s were homogenized with lysis buffer (pH 7.4, 10 mM Tris-HCl, 2 mM EDTA, 0.1% Triton X-100, 1% Cocktail I, 2% Cocktail II and protease inhibitor (all from Sigma-Aldrich; St. Louis, MO, USA) as previously described [<xref rid="B15-biomolecules-06-00010" ref-type="bibr">15</xref>,<xref rid="B29-biomolecules-06-00010" ref-type="bibr">29</xref>]. Samples were centrifuged for 20 min at 70,000 RPM at 4 &#x000b0;C. Supernatants were collected and total protein concentration was evaluated using bicinchoninic acid (BCA kit, Thermo Scientific; Rockford, IL, USA). Samples for GLS purification were normalized to 80 &#x000b5;g/mL of total protein. Samples were exposed to M-280 magnetic beads (Invitrogen; Grand Island, NY, USA) conjugated with rabbit anti-GLS antibody (gift from Dr. N.P. Curthoys) against a synthetic GLS peptide [<xref rid="B30-biomolecules-06-00010" ref-type="bibr">30</xref>] in lysis buffer at 4 &#x000b0;C overnight as previously reported [<xref rid="B15-biomolecules-06-00010" ref-type="bibr">15</xref>,<xref rid="B31-biomolecules-06-00010" ref-type="bibr">31</xref>]. The GLS-bound beads were extracted with a magnet, resuspended in 10 mM Tris Base, 1 mM EDTA, 2.5% SDS, 5% &#x003b2;-mercaptoethanol and 0.01% bromophenol blue and boiled at 100 &#x000b0;C for 3 min. After a second exposure to the magnet, the supernatant containing GLS was removed and the beads were discarded. Samples and a protein molecular weight marker (Novagen; Rockland, MA, USA) were separated using the PhastSystem (GE Healthcare Life Sciences; Pittsburgh, PA, USA) employing a 12.5% homogenous SDS gel (GE Healthcare Life Sciences). The PhastSystem, using parameters previously described [<xref rid="B15-biomolecules-06-00010" ref-type="bibr">15</xref>,<xref rid="B29-biomolecules-06-00010" ref-type="bibr">29</xref>], was used to transfer samples to a nitrocellulose membrane (Whatman, GE Healthcare; Piscataway, NJ, USA). Membranes were dried for 10 min and blocked for 30 min with 1% bovine serum albumin (BSA) in Tris-buffered saline Tween (TBST, 20 mM Tris-HCl, 150 mM NaCl, 0.05% Tween 20, pH 7.5) at room temperature. After rinsing in TBS, the membranes were incubated overnight at 4 &#x000b0;C with GLS antibody at 1:1000 in TBST. Membranes were washed in TBST and incubated in secondary mouse anti-rabbit IgG alkaline phosphatase conjugate (Promega; Madison, WI, USA) at 1:7000 and S-AP conjugate at 1:5000 (Novagen; Rockland, MA, USA) for 30 min. Detection was performed using a Western Blue stabilized substrate for alkaline phosphatase (Promega; Madison, WI, USA). Densitometric analysis of Western blot images was performed with ImageTool (UTHSCSA; San Antonio, TX, USA) as described previously [<xref rid="B15-biomolecules-06-00010" ref-type="bibr">15</xref>].</p></sec><sec id="sec2dot7-biomolecules-06-00010"><title>2.7. Statistical Analysis</title><p>Graphs and statistical calculations were performed in GraphPad Prism version 5.01 for Windows (GraphPad Software Inc.; San Diego, CA, USA). Two-way ANOVA was performed to determine if effects of inflammation or time were significant on thermal latency, mechanical threshold, and hind paw edema data. Bonferroni post-tests were performed to determine which groups differed and when. A two way ANOVA was performed for the GLS-ir data to determine if effects of inflammation were significant on the mean GLS-ir of small, medium, and large L4 DRG neurons. Bonferroni post-tests were performed to determine which DRG and which neuron populations differed significantly in GLS-ir. All graphical results represent mean plus or minus the standard deviation. Results were considered significant when p values were less than 0.05.</p><p>Western blot results were reported as mean density and standard error of the mean (SEM). A Student&#x02019;s t test was performed on GLS Western blot data and <italic>p</italic> &#x0003c; 0.05 was considered statistical significant. The percent changes of control and AIA treated animals also were reported.</p></sec></sec><sec id="sec3-biomolecules-06-00010"><title>3. Results</title><sec id="sec3dot1-biomolecules-06-00010"><title>3.1. Evoked Pain Behavioral Responses</title><p>Thermal latencies and mechanical thresholds of the hind paws ipsilateral or contralateral to the PBS injection, or contralateral to the CFA injection were never significantly different from each other. The baseline thermal latencies of the hind paws ipsilateral to the CFA injection were significantly different from the three other groups after the CFA injection at day 0 through day 4. Hind paw thermal latencies ipsilateral to the CFA injection were not different than those from hind paws ipsilateral to the PBS injection on days 5, 7 or 8 (<xref ref-type="fig" rid="biomolecules-06-00010-f001">Figure 1</xref>A). Baseline mechanical thresholds of the hind paws ipsilateral to the CFA injection were not significantly different than the other baseline measurements, but they were always significantly different from the three other groups after the injection at day 0 through day 8 (<xref ref-type="fig" rid="biomolecules-06-00010-f001">Figure 1</xref>B).</p><fig id="biomolecules-06-00010-f001" position="float"><label>Figure 1</label><caption><p>Thermal latencies, mechanical thresholds, and metatarsal thicknesses from rat hind paws after injection with phosphate buffered saline (PBS) or complete Freund&#x02019;s adjuvant (CFA). Adjuvant-induced arthritis (AIA) caused significant decreases in thermal latencies (<bold>A</bold>) for days 1 through 4 and mechanical thresholds (<bold>B</bold>) for days 1 through 8. Thermal latencies appeared decreased for days 5 through 8, but significance could not be shown with sample sizes of <italic>n</italic> = 3 for PBS and <italic>n</italic> = 5 for CFA at these time points. The behavioral data from all four sets were combined; therefore, the number of rats contributing to the data set declined as the study progressed. Edema measurements (<bold>C</bold>) for each time point, however, consisted of 3 PBS-injected rats and 5 CFA-injected rats. At all time points, there was a significant increase in edema in the CFA-injected hind paw, with peak swelling occurring after two days of inflammation. Data are presented as mean &#x000b1; SEM. * <italic>p</italic> &#x0003c; 0.05; *** <italic>p</italic> &#x0003c; 0.001.</p></caption><graphic xlink:href="biomolecules-06-00010-g001"/></fig></sec><sec id="sec3dot2-biomolecules-06-00010"><title>3.2. Hind Paw Edema</title><p>Metatarsal thicknesses of the PBS injected hindpaws were not significantly different from the hindpaws contralateral to PBS and CFA injections at any of the four time points. Metatarsal thicknesses were increased significantly (<italic>p</italic> &#x0003c; 0.001) in the hind paws ipsilateral to CFA injection compared to the other three groups of hind paw at all four time points with a peak increase at 2 days (<xref ref-type="fig" rid="biomolecules-06-00010-f001">Figure 1</xref>C). The relative increases of the CFA-injected paw <italic>vs.</italic> the PBS-injected paw were 67%, 84%, 52%, and 28%, for days 1, 2, 4, and 8, respectively.</p></sec><sec id="sec3dot3-biomolecules-06-00010"><title>3.3. Changes in GLS-ir During Inflammation</title><p>As in previous reports, all DRG neurons were immunoreactive for GLS (<xref ref-type="fig" rid="biomolecules-06-00010-f002">Figure 2</xref>) [<xref rid="B14-biomolecules-06-00010" ref-type="bibr">14</xref>,<xref rid="B15-biomolecules-06-00010" ref-type="bibr">15</xref>,<xref rid="B18-biomolecules-06-00010" ref-type="bibr">18</xref>,<xref rid="B20-biomolecules-06-00010" ref-type="bibr">20</xref>,<xref rid="B25-biomolecules-06-00010" ref-type="bibr">25</xref>]. Representative images from the DRG ipsilateral to the PBS and CFA injections after one, two, four, and eight days of inflammation (<xref ref-type="fig" rid="biomolecules-06-00010-f002">Figure 2</xref>) showed a qualitative increase in GLS-ir in DRG neurons of AIA rats, especially after four days of AIA (<xref ref-type="fig" rid="biomolecules-06-00010-f002">Figure 2</xref>F). Frequency distributions of GLS-ir were similar among ipsilateral and contralateral PBS- and CFA-injected groups after one and two days of AIA (<xref ref-type="fig" rid="biomolecules-06-00010-f003">Figure 3</xref>A,B). At four and eight days AIA, there was an observable &#x0201c;rightward shift&#x0201d; in the frequency distribution of GLS-ir in the DRG neuron population ipsilateral to the CFA injection (<xref ref-type="fig" rid="biomolecules-06-00010-f003">Figure 3</xref>C,D). With quantitative image analysis, there was no significant difference in GLS-ir after one or two days of inflammation (<xref ref-type="fig" rid="biomolecules-06-00010-f004">Figure 4</xref>A,B). A robust elevation in GLS-ir, however, was evident in all sizes of DRG neurons after four days of inflammation (<italic>p</italic> &#x0003c; 0.001; <xref ref-type="fig" rid="biomolecules-06-00010-f004">Figure 4</xref>C; 121.4% overall increase) that persisted in small neurons after eight days of inflammation (<italic>p</italic> &#x0003c; 0.01; <xref ref-type="fig" rid="biomolecules-06-00010-f004">Figure 4</xref>D). After four days of inflammation, GLS-ir in small, medium, and large DRG neurons ipsilateral to CFA injection was approximately double that of DRG neurons ipsilateral to PBS injection.</p><fig id="biomolecules-06-00010-f002" position="float"><label>Figure 2</label><caption><p>Representative images of glutaminase (GLS) immunoreactivity (ir) in lumbar 4 (L4) dorsal root ganglion (DRG) neurons ipsilateral to the PBS and CFA injected hind paws after one (<bold>A</bold>,<bold>B</bold>); two (<bold>C</bold>,<bold>D</bold>); four (<bold>E</bold>,<bold>F</bold>); and eight (<bold>G</bold>,<bold>H</bold>) days of AIA. Left column images are from PBS injected rats. Right column images are from CFA injected rats. All sizes of DRG neurons have GLS-ir. (<bold>F</bold>) After four days of hind paw inflammation, GLS-ir increased (arrows) in many DRG neurons, regardless of neuronal size, ipsilateral to CFA injection compared to PBS injected controls. (<bold>H</bold>) GLS-ir was still elevated in some small neurons (arrows) after eight days of inflammation compared to controls.</p></caption><graphic xlink:href="biomolecules-06-00010-g002a"/><graphic xlink:href="biomolecules-06-00010-g002b"/></fig><fig id="biomolecules-06-00010-f003" position="float"><label>Figure 3</label><caption><p>Frequency distributions for GLS-ir in L4 DRG neurons. (<bold>A</bold>,<bold>B</bold>) There were no obvious differences among the GLS-ir mean gray intensity (MGI) frequency distributions for ipsilateral or contralateral L4 DRG in PBS- or CFA-injected rats; (<bold>C</bold>) At day 4 AIA, there was a rightward shift (arrows) in the GLS-ir frequency distribution of the L4 DRG neuronal population ipsilateral to the CFA injection compared to the ipsilateral PBS injection; (<bold>D</bold>) At day 8 AIA, a slight right shift (arrows) remained in the GLS-ir frequency distribution of the L4 DRG neuronal population ipsilateral to the CFA injection compared to the ipsilateral PBS injection.</p></caption><graphic xlink:href="biomolecules-06-00010-g003"/></fig><fig id="biomolecules-06-00010-f004" position="float"><label>Figure 4</label><caption><p>Image analysis of GLS-ir for small, medium, large, and all L4 DRG neurons. (<bold>A</bold>,<bold>B</bold>) No significant difference in GLS-ir occurred after one or two days of inflammation; (<bold>C</bold>) Elevation in GLS-ir occurred in all DRG neuronal sizes after four days of inflammation (*** <italic>p</italic> &#x0003c; 0.001; 121.4% overall increase); (<bold>D</bold>) GLS-ir elevation also occurred in small neurons after eight days of inflammation (** <italic>p</italic> &#x0003c; 0.01).</p></caption><graphic xlink:href="biomolecules-06-00010-g004"/></fig></sec><sec id="sec3dot4-biomolecules-06-00010"><title>3.4. GLS Western Blots</title><p>Western blots of GLS from DRG demonstrated the presence of 66,000 and 68,000 molecular weight (M<sub>r</sub>) bands (<xref ref-type="fig" rid="biomolecules-06-00010-f005">Figure 5</xref>A) as previously reported for rat kidney and brain [<xref rid="B30-biomolecules-06-00010" ref-type="bibr">30</xref>]. After four days of AIA, Western blots of ipsilateral DRGs demonstrated that the GLS-ir was significantly elevated (<italic>p</italic> &#x0003c; 0.05) when compared to control (optical density, O.D., control = 32.34 &#x000b1; 1.62, AIA = 44.67 &#x000b1; 2.50) representing a 38.1% increase (<xref ref-type="fig" rid="biomolecules-06-00010-f005">Figure 5</xref>B).</p><fig id="biomolecules-06-00010-f005" position="float"><label>Figure 5</label><caption><p>Western blot analysis of GLS from PBS- and CFA-injected rats at four days AIA. (<bold>A</bold>) Western blot of GLS from L4 DRG showed two bands, Mr 66,000 and Mr 68,000, corresponding to the two isoforms of GLS. There was an increase in GLS-ir in the 4 day AIA rats compared to PBS controls; (<bold>B</bold>) There was significant increase (38.1%) in the DRG from four day AIA rats compared to PBS-injected rats (* <italic>p</italic> &#x0003c; 0.05) (optical density (O.D.)&#x02014;control: 32.34 &#x000b1; 1.62; AIA: 44.67 &#x000b1; 2.50).</p></caption><graphic xlink:href="biomolecules-06-00010-g005"/></fig></sec></sec><sec id="sec4-biomolecules-06-00010"><title>4. Discussion</title><p>Peripheral sensitization of DRG neurons during long-lasting inflammation initiates a sensitizing cascade along the pain pathway resulting in a chronic pain state. Both post-translational and expression dependent mechanisms are involved in peripheral sensitization; the former for initiation of sensitization during the acute stage of inflammatory pain and the latter for maintaining the sensitization during the chronic stage [<xref rid="B11-biomolecules-06-00010" ref-type="bibr">11</xref>]. Many proteins involved in peripheral sensitization undergo both types of changes. While GLS does not have a phosphorylation site, its activity can be modulated by allosteric factors such as calcium and inorganic phosphate [<xref rid="B32-biomolecules-06-00010" ref-type="bibr">32</xref>] and these concentrations increase in an activated peripheral or central axon terminal [<xref rid="B7-biomolecules-06-00010" ref-type="bibr">7</xref>]. For example, increased terminal activity increases hydrolysis of ATP into ADP and inorganic phosphate [<xref rid="B32-biomolecules-06-00010" ref-type="bibr">32</xref>] and increases calcium influx through voltage-gated calcium channels [<xref rid="B33-biomolecules-06-00010" ref-type="bibr">33</xref>] and members of the TRP family [<xref rid="B34-biomolecules-06-00010" ref-type="bibr">34</xref>]. Therefore, increased terminal activity during the acute stage of inflammation could increase GLS enzyme activity and account for the elevated amounts of glutamate reported for the skin [<xref rid="B9-biomolecules-06-00010" ref-type="bibr">9</xref>,<xref rid="B10-biomolecules-06-00010" ref-type="bibr">10</xref>], peripheral axons [<xref rid="B35-biomolecules-06-00010" ref-type="bibr">35</xref>], and spinal cord dorsal horn within hours after the induction of inflammation [<xref rid="B3-biomolecules-06-00010" ref-type="bibr">3</xref>,<xref rid="B4-biomolecules-06-00010" ref-type="bibr">4</xref>].</p><p>In the current study, we have shown an elevation in GLS-ir indicating an increase in the content of GLS in DRG neurons after peripheral inflammation. There was a disparity in the amount of elevation with Western blotting (38%) <italic>vs.</italic> immunohistochemical image analysis (121%). This may be due to differences in antibody binding to GLS between the two techniques (denatured <italic>vs.</italic> lightly fixed protein). Additionally, the inclusion of satellite and Schwann cell protein to the overall protein for Western blotting may have diminished the percent increase in GLS compared to evaluating GLS-ir exclusively in the neuronal cytoplasm with image analysis [<xref rid="B36-biomolecules-06-00010" ref-type="bibr">36</xref>]. Both techniques did show increases in GLS-ir and we interpret this as increased expression of GLS by DRG neurons, either by transcription dependent changes or enhanced translation of GLS protein. Based on the timescale of increased GLS production, it is possible that a retrogradely transported neurotrophic factor such as nerve growth factor (NGF) is responsible for this regulation. Retrograde NGF signaling also could account for subsequent anterograde transport out of newly synthesized GLS out of the cell body via mitochondrial axonal transport [<xref rid="B37-biomolecules-06-00010" ref-type="bibr">37</xref>,<xref rid="B38-biomolecules-06-00010" ref-type="bibr">38</xref>]. Moreover, NGF regulates expression of several other proteins important for nociception [<xref rid="B25-biomolecules-06-00010" ref-type="bibr">25</xref>,<xref rid="B39-biomolecules-06-00010" ref-type="bibr">39</xref>], and has the ability to affect GLS expression in DRG neurons [<xref rid="B40-biomolecules-06-00010" ref-type="bibr">40</xref>,<xref rid="B41-biomolecules-06-00010" ref-type="bibr">41</xref>,<xref rid="B42-biomolecules-06-00010" ref-type="bibr">42</xref>] and retina [<xref rid="B43-biomolecules-06-00010" ref-type="bibr">43</xref>].</p><p>Glutamate is implicated not only as a neurotransmitter released by nociceptive peripheral axon terminals, but also as a sensitizer of these terminals [<xref rid="B7-biomolecules-06-00010" ref-type="bibr">7</xref>]. Injecting glutamate or glutamate receptor agonists sensitize nociceptors in <italic>ex vivo</italic> [<xref rid="B44-biomolecules-06-00010" ref-type="bibr">44</xref>] studies and causes hyperalgesia <italic>in vivo</italic> in rodents [<xref rid="B45-biomolecules-06-00010" ref-type="bibr">45</xref>,<xref rid="B46-biomolecules-06-00010" ref-type="bibr">46</xref>,<xref rid="B47-biomolecules-06-00010" ref-type="bibr">47</xref>,<xref rid="B48-biomolecules-06-00010" ref-type="bibr">48</xref>,<xref rid="B49-biomolecules-06-00010" ref-type="bibr">49</xref>,<xref rid="B50-biomolecules-06-00010" ref-type="bibr">50</xref>,<xref rid="B51-biomolecules-06-00010" ref-type="bibr">51</xref>,<xref rid="B52-biomolecules-06-00010" ref-type="bibr">52</xref>,<xref rid="B53-biomolecules-06-00010" ref-type="bibr">53</xref>,<xref rid="B54-biomolecules-06-00010" ref-type="bibr">54</xref>] and humans [<xref rid="B55-biomolecules-06-00010" ref-type="bibr">55</xref>]. The role of glutamate in mediating hyperalgesia during inflammation is evidenced by high glutamate levels in inflamed tissues [<xref rid="B56-biomolecules-06-00010" ref-type="bibr">56</xref>,<xref rid="B57-biomolecules-06-00010" ref-type="bibr">57</xref>] and the attenuation of hyperalgesia with glutamate receptor antagonists in inflammatory animal models and burn injury in humans [<xref rid="B45-biomolecules-06-00010" ref-type="bibr">45</xref>,<xref rid="B52-biomolecules-06-00010" ref-type="bibr">52</xref>,<xref rid="B53-biomolecules-06-00010" ref-type="bibr">53</xref>,<xref rid="B58-biomolecules-06-00010" ref-type="bibr">58</xref>,<xref rid="B59-biomolecules-06-00010" ref-type="bibr">59</xref>]. Glutamate may exacerbate the neurogenic component of inflammation by further activation of neuropeptide release [<xref rid="B60-biomolecules-06-00010" ref-type="bibr">60</xref>,<xref rid="B61-biomolecules-06-00010" ref-type="bibr">61</xref>]. The numbers of glutamate receptors on peripheral axons also increases during inflammation [<xref rid="B49-biomolecules-06-00010" ref-type="bibr">49</xref>,<xref rid="B58-biomolecules-06-00010" ref-type="bibr">58</xref>], which could lead to an escalating cycle wherein the peripheral terminals are able to maintain their own sensitization and exacerbate chronic pain ([<xref rid="B62-biomolecules-06-00010" ref-type="bibr">62</xref>]. Similarly, glutamate is involved in sensitization of dorsal horn neurons to afferent stimulation [<xref rid="B63-biomolecules-06-00010" ref-type="bibr">63</xref>,<xref rid="B64-biomolecules-06-00010" ref-type="bibr">64</xref>,<xref rid="B65-biomolecules-06-00010" ref-type="bibr">65</xref>,<xref rid="B66-biomolecules-06-00010" ref-type="bibr">66</xref>]. The presence of glutamate receptors on central axon terminals [<xref rid="B67-biomolecules-06-00010" ref-type="bibr">67</xref>] could enhance central glutamate release via a positive feedback mechanism. Therefore, increased glutamate production may be involved in both peripheral and central sensitization mechanisms that culminate in chronic pain. The increase of GLS specifically in small diameter DRG neurons at 8 days AIA would correspond with a chronic pain mechanism originating from nociceptive DRG neurons. Future studies are directed toward evaluating GLS alterations during inflammation in DRG neurons with specific nociceptive markers, e.g., CGRP.</p><p>Since GLS is only one of many proteins involved in the glutamate-glutamine cycle, other proteins within the cycle may increase their activities and/or expressions in order to effectively increase the flux of glutamate through the cycle. Very little is known about the glutamate-glutamine cycle during inflammation, although many of these proteins have been localized to the DRG and peripheral nerve [<xref rid="B20-biomolecules-06-00010" ref-type="bibr">20</xref>]. The neuronal glutamate transporter responsible for reuptake of glutamate, excitatory amino acid transporter 3 (EAAT3), localizes to primarily small diameter DRG neurons [<xref rid="B21-biomolecules-06-00010" ref-type="bibr">21</xref>] and the glial glutamate transporter, EAAT1, localizes to satellite glial cells of the DRG [<xref rid="B17-biomolecules-06-00010" ref-type="bibr">17</xref>]. Glutamine synthetase, the glial enzyme that converts glutamate to glutamine, not only serves as a specific marker for satellite glial cells in the rat DRG [<xref rid="B20-biomolecules-06-00010" ref-type="bibr">20</xref>] and mouse trigeminal ganglia (TG) [<xref rid="B68-biomolecules-06-00010" ref-type="bibr">68</xref>,<xref rid="B69-biomolecules-06-00010" ref-type="bibr">69</xref>], but increases along with glutamine in satellite glial cells after peripheral inflammation [<xref rid="B70-biomolecules-06-00010" ref-type="bibr">70</xref>]. Increases in GS and glutamine concur with the notion that multiple glutamate-glutamine cycle proteins and substrates increase in response to inflammation. Little is known concerning glutamine transporters in the DRG, but we have detected sodium-coupled neutral amino acid transporters (SNAT) 1 [<xref rid="B71-biomolecules-06-00010" ref-type="bibr">71</xref>] and 2 [<xref rid="B72-biomolecules-06-00010" ref-type="bibr">72</xref>] in DRG neurons. Vesicular glutamate transporters (VGLUTs) are necessary at sites of glutamate neurotransmission and VGLUT1 and 2 localize to different size classes of DRG and TG neuron cell bodies [<xref rid="B73-biomolecules-06-00010" ref-type="bibr">73</xref>,<xref rid="B74-biomolecules-06-00010" ref-type="bibr">74</xref>,<xref rid="B75-biomolecules-06-00010" ref-type="bibr">75</xref>] in addition to the peripheral and central terminals [<xref rid="B73-biomolecules-06-00010" ref-type="bibr">73</xref>,<xref rid="B75-biomolecules-06-00010" ref-type="bibr">75</xref>,<xref rid="B76-biomolecules-06-00010" ref-type="bibr">76</xref>,<xref rid="B77-biomolecules-06-00010" ref-type="bibr">77</xref>]. Regulation of VGLUT1 and 2 levels at the cell body occurs after peripheral nerve crush and/or axotomy [<xref rid="B73-biomolecules-06-00010" ref-type="bibr">73</xref>,<xref rid="B78-biomolecules-06-00010" ref-type="bibr">78</xref>,<xref rid="B79-biomolecules-06-00010" ref-type="bibr">79</xref>] and VGLUT2 expression appears to regulate glutamate release during neuropathic pain [<xref rid="B80-biomolecules-06-00010" ref-type="bibr">80</xref>]. Information, however, about alterations of VGLUT during chronic inflammation is lacking. We hypothesize that post-translational and/or expression dependent mechanisms may act on some or all of the aforementioned proteins to increase glutamate production during inflammation and contribute to peripheral and central sensitization. Support for this hypothesis comes from the observations that pharmacological intervention of GLS with an irreversible inhibitor at the peripheral terminal [<xref rid="B81-biomolecules-06-00010" ref-type="bibr">81</xref>,<xref rid="B82-biomolecules-06-00010" ref-type="bibr">82</xref>] or glutamine transporter and GS inhibition in dorsal horn [<xref rid="B83-biomolecules-06-00010" ref-type="bibr">83</xref>,<xref rid="B84-biomolecules-06-00010" ref-type="bibr">84</xref>] provide analgesia during inflammation. Peripheral inhibition of GLS also decreases Fos activation in dorsal horn neurons after inflammation [<xref rid="B60-biomolecules-06-00010" ref-type="bibr">60</xref>].</p></sec><sec id="sec5-biomolecules-06-00010"><title>5. Conclusions</title><p>The present results indicate that an increase in GLS production occurs during the chronic stage of inflammatory pain. Further study of glutamate-glutamine cycle proteins both peripherally and centrally during inflammation is necessary to fully understand the role glutamate metabolism plays in peripheral and central sensitization. It is expected that such knowledge of glutamate metabolism will provide useful targets for chronic pain.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was supported in part by NIH Grant R01 AR047410</p></ack><notes><title>Author Contributions</title><p>E. Matthew Hoffman designed these experiments, performed the immunohistochemical analyses, and wrote the manuscript. Zijia Zhang and Ruben Schechter performed the Western blot analyses. Kenneth E. Miller helped design the experiments and write the manuscript.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-biomolecules-06-00010"><label>1.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>J.H.</given-names></name></person-group>
+<source>Spinal Somatic Sensory Systems, Neuroanatomy: Text and Atlas</source>
+<publisher-name>McGraw Hill</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2003</year>
+<fpage>107</fpage>
+<lpage>133</lpage>
+</element-citation></ref><ref id="B2-biomolecules-06-00010"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Biasi</surname><given-names>S.</given-names></name><name><surname>Rustioni</surname><given-names>A.</given-names></name></person-group>
+<article-title>Ultrastructural immunocytochemical localization of excitatory amino acids in the somatosensory system</article-title>
+<source>J. Histochem. Cytochem.</source>
+<year>1990</year>
+<volume>38</volume>
+<fpage>1745</fpage>
+<lpage>1754</lpage>
+<pub-id pub-id-type="doi">10.1177/38.12.1701456</pub-id>
+<pub-id pub-id-type="pmid">1701456</pub-id></element-citation></ref><ref id="B3-biomolecules-06-00010"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dmitrieva</surname><given-names>N.</given-names></name><name><surname>Rodriguez-Malaver</surname><given-names>A.J.</given-names></name><name><surname>Perez</surname><given-names>J.</given-names></name><name><surname>Hernandez</surname><given-names>L.</given-names></name></person-group>
+<article-title>Differential release of neurotransmitters from superficial and deep layers of the dorsal horn in response to acute noxious stimulation and inflammation of the rat paw</article-title>
+<source>Eur. J. Pain</source>
+<year>2004</year>
+<volume>8</volume>
+<fpage>245</fpage>
+<lpage>252</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ejpain.2003.09.001</pub-id>
+<pub-id pub-id-type="pmid">15109975</pub-id></element-citation></ref><ref id="B4-biomolecules-06-00010"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skilling</surname><given-names>S.R.</given-names></name><name><surname>Smullin</surname><given-names>D.H.</given-names></name><name><surname>Beitz</surname><given-names>A.J.</given-names></name><name><surname>Larson</surname><given-names>A.A.</given-names></name></person-group>
+<article-title>Extracellular amino acid concentrations in the dorsal spinal cord of freely moving rats following veratridine and nociceptive stimulation</article-title>
+<source>J. Neurochem.</source>
+<year>1988</year>
+<volume>51</volume>
+<fpage>127</fpage>
+<lpage>132</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1471-4159.1988.tb04845.x</pub-id>
+<pub-id pub-id-type="pmid">2898001</pub-id></element-citation></ref><ref id="B5-biomolecules-06-00010"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zahn</surname><given-names>P.K.</given-names></name><name><surname>Sluka</surname><given-names>K.A.</given-names></name><name><surname>Brennan</surname><given-names>T.J.</given-names></name></person-group>
+<article-title>Excitatory amino acid release in the spinal cord caused by plantar incision in the rat</article-title>
+<source>Pain</source>
+<year>2002</year>
+<volume>100</volume>
+<fpage>65</fpage>
+<lpage>76</lpage>
+<pub-id pub-id-type="doi">10.1016/S0304-3959(02)00241-5</pub-id>
+<pub-id pub-id-type="pmid">12435460</pub-id></element-citation></ref><ref id="B6-biomolecules-06-00010"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sann</surname><given-names>H.</given-names></name><name><surname>Pierau</surname><given-names>F.K.</given-names></name></person-group>
+<article-title>Efferent functions of C-fiber nociceptors</article-title>
+<source>Z. Rheumatol.</source>
+<year>1998</year>
+<volume>57</volume>
+<fpage>8</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1007/s003930050226</pub-id>
+<pub-id pub-id-type="pmid">10025074</pub-id></element-citation></ref><ref id="B7-biomolecules-06-00010"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Hoffman</surname><given-names>E.M.</given-names></name><name><surname>Sutharshan</surname><given-names>M.</given-names></name><name><surname>Schechter</surname><given-names>R.</given-names></name></person-group>
+<article-title>Glutamate pharmacology and metabolism in peripheral primary afferents: Physiological and pathophysiological mechanisms</article-title>
+<source>Pharmacol. Ther.</source>
+<year>2011</year>
+<volume>130</volume>
+<fpage>283</fpage>
+<lpage>309</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pharmthera.2011.01.005</pub-id>
+<pub-id pub-id-type="pmid">21276816</pub-id></element-citation></ref><ref id="B8-biomolecules-06-00010"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>DeGroot</surname><given-names>J.</given-names></name><name><surname>Zhou</surname><given-names>S.</given-names></name><name><surname>Carlton</surname><given-names>S.M.</given-names></name></person-group>
+<article-title>Peripheral glutamate release in the hindpaw following low and high intensity sciatic stimulation</article-title>
+<source>Neuroreport</source>
+<year>2000</year>
+<volume>11</volume>
+<fpage>497</fpage>
+<lpage>502</lpage>
+<pub-id pub-id-type="doi">10.1097/00001756-200002280-00014</pub-id>
+<pub-id pub-id-type="pmid">10718302</pub-id></element-citation></ref><ref id="B9-biomolecules-06-00010"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jin</surname><given-names>Y.H.</given-names></name><name><surname>Nishioka</surname><given-names>H.</given-names></name><name><surname>Wakabayashi</surname><given-names>K.</given-names></name><name><surname>Fujita</surname><given-names>T.</given-names></name><name><surname>Yonehara</surname><given-names>N.</given-names></name></person-group>
+<article-title>Effect of morphine on the release of excitatory amino acids in the rat hind instep: Pain is modulated by the interaction between the peripheral opioid and glutamate systems</article-title>
+<source>Neuroscience</source>
+<year>2006</year>
+<volume>138</volume>
+<fpage>1329</fpage>
+<lpage>1339</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2005.12.049</pub-id>
+<pub-id pub-id-type="pmid">16473472</pub-id></element-citation></ref><ref id="B10-biomolecules-06-00010"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Omote</surname><given-names>K.</given-names></name><name><surname>Kawamata</surname><given-names>T.</given-names></name><name><surname>Kawamata</surname><given-names>M.</given-names></name><name><surname>Namiki</surname><given-names>A.</given-names></name></person-group>
+<article-title>Formalin-induced release of excitatory amino acids in the skin of the rat hindpaw</article-title>
+<source>Brain Res.</source>
+<year>1998</year>
+<volume>787</volume>
+<fpage>161</fpage>
+<lpage>164</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-8993(97)01568-0</pub-id>
+<pub-id pub-id-type="pmid">9518591</pub-id></element-citation></ref><ref id="B11-biomolecules-06-00010"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woolf</surname><given-names>C.J.</given-names></name><name><surname>Ma</surname><given-names>Q.</given-names></name></person-group>
+<article-title>Nociceptors&#x02014;Noxious stimulus detectors</article-title>
+<source>Neuron</source>
+<year>2007</year>
+<volume>55</volume>
+<fpage>353</fpage>
+<lpage>364</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuron.2007.07.016</pub-id>
+<pub-id pub-id-type="pmid">17678850</pub-id></element-citation></ref><ref id="B12-biomolecules-06-00010"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woolf</surname><given-names>C.J.</given-names></name><name><surname>Salter</surname><given-names>M.W.</given-names></name></person-group>
+<article-title>Neuronal plasticity: Increasing the gain in pain</article-title>
+<source>Science</source>
+<year>2000</year>
+<volume>288</volume>
+<fpage>1765</fpage>
+<lpage>1769</lpage>
+<pub-id pub-id-type="doi">10.1126/science.288.5472.1765</pub-id>
+<pub-id pub-id-type="pmid">10846153</pub-id></element-citation></ref><ref id="B13-biomolecules-06-00010"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Merighi</surname><given-names>A.</given-names></name><name><surname>Polak</surname><given-names>J.M.</given-names></name><name><surname>Theodosis</surname><given-names>D.T.</given-names></name></person-group>
+<article-title>Ultrastructural visualization of glutamate and aspartate immunoreactivities in the rat dorsal horn, with special reference to the co-localization of glutamate, substance P and calcitonin-gene related peptide</article-title>
+<source>Neuroscience</source>
+<year>1991</year>
+<volume>40</volume>
+<fpage>67</fpage>
+<lpage>80</lpage>
+<pub-id pub-id-type="doi">10.1016/0306-4522(91)90175-N</pub-id>
+<pub-id pub-id-type="pmid">1711177</pub-id></element-citation></ref><ref id="B14-biomolecules-06-00010"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Douglas</surname><given-names>V.D.</given-names></name><name><surname>Kaneko</surname><given-names>T.</given-names></name></person-group>
+<article-title>Glutaminase immunoreactive neurons in the rat dorsal root ganglion contain calcitonin gene-related peptide (CGRP)</article-title>
+<source>Neurosci. Lett.</source>
+<year>1993</year>
+<volume>160</volume>
+<fpage>113</fpage>
+<lpage>116</lpage>
+<pub-id pub-id-type="doi">10.1016/0304-3940(93)90926-C</pub-id>
+<pub-id pub-id-type="pmid">8247321</pub-id></element-citation></ref><ref id="B15-biomolecules-06-00010"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Balb&#x000e1;s</surname><given-names>J.C.</given-names></name><name><surname>Benton</surname><given-names>R.L.</given-names></name><name><surname>Lam</surname><given-names>T.S.</given-names></name><name><surname>Edwards</surname><given-names>K.M.</given-names></name><name><surname>Kriebel</surname><given-names>R.M.</given-names></name><name><surname>Schechter</surname><given-names>R.</given-names></name></person-group>
+<article-title>Glutaminase immunoreactivity and enzyme activity is increased in the rat dorsal root ganglion following peripheral inflammation</article-title>
+<source>Pain Res. Treat.</source>
+<year>2012</year>
+<pub-id pub-id-type="doi">10.1155/2012/414697</pub-id>
+<pub-id pub-id-type="pmid">22229088</pub-id></element-citation></ref><ref id="B16-biomolecules-06-00010"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McKenna</surname><given-names>M.C.</given-names></name></person-group>
+<article-title>The glutamate-glutamine cycle is not stoichiometric: Fates of glutamate in brain</article-title>
+<source>J. Neurosci. Res.</source>
+<year>2007</year>
+<volume>85</volume>
+<fpage>3347</fpage>
+<lpage>3358</lpage>
+<pub-id pub-id-type="doi">10.1002/jnr.21444</pub-id>
+<pub-id pub-id-type="pmid">17847118</pub-id></element-citation></ref><ref id="B17-biomolecules-06-00010"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berger</surname><given-names>U.V.</given-names></name><name><surname>Hediger</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Distribution of the glutamate transporters GLAST and GLT-1 in rat circumventricular organs, meninges, and dorsal root ganglia</article-title>
+<source>J. Comp. Neurol.</source>
+<year>2000</year>
+<volume>421</volume>
+<fpage>385</fpage>
+<lpage>399</lpage>
+<pub-id pub-id-type="doi">10.1002/(SICI)1096-9861(20000605)421:3&#x0003c;385::AID-CNE7&#x0003e;3.0.CO;2-S</pub-id>
+<pub-id pub-id-type="pmid">10813794</pub-id></element-citation></ref><ref id="B18-biomolecules-06-00010"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoffman</surname><given-names>E.M.</given-names></name><name><surname>Schechter</surname><given-names>R.</given-names></name><name><surname>Miller</surname><given-names>K.E.</given-names></name></person-group>
+<article-title>Fixative composition alters distributions of immunoreactivity for glutaminase and two markers of nociceptive neurons, Nav1.8 and TRPV1, in the rat dorsal root ganglion</article-title>
+<source>J. Histochem. Cytochem.</source>
+<year>2010</year>
+<volume>58</volume>
+<fpage>329</fpage>
+<lpage>344</lpage>
+<pub-id pub-id-type="doi">10.1369/jhc.2009.954008</pub-id>
+<pub-id pub-id-type="pmid">20026672</pub-id></element-citation></ref><ref id="B19-biomolecules-06-00010"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rajasekhar</surname><given-names>P.</given-names></name><name><surname>Poole</surname><given-names>D.P.</given-names></name><name><surname>Liedtke</surname><given-names>W.</given-names></name><name><surname>Bunnett</surname><given-names>N.W.</given-names></name><name><surname>Veldhuis</surname><given-names>N.A.</given-names></name></person-group>
+<article-title>P2Y1 Receptor activation of the TRPV4 ion channel enhances purinergic signaling in satellite glial cells</article-title>
+<source>J. Biol. Chem.</source>
+<year>2015</year>
+<volume>290</volume>
+<fpage>29051</fpage>
+<lpage>29062</lpage>
+<pub-id pub-id-type="doi">10.1074/jbc.M115.689729</pub-id>
+<pub-id pub-id-type="pmid">26475857</pub-id></element-citation></ref><ref id="B20-biomolecules-06-00010"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Richards</surname><given-names>B.A.</given-names></name><name><surname>Kriebel</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Glutamine-, glutamine synthetase-, glutamate dehydrogenase- and pyruvate carboxylase-immunoreactivities in the rat dorsal root ganglion and peripheral nerve</article-title>
+<source>Brain Res.</source>
+<year>2002</year>
+<volume>945</volume>
+<fpage>202</fpage>
+<lpage>211</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-8993(02)02802-0</pub-id>
+<pub-id pub-id-type="pmid">12126882</pub-id></element-citation></ref><ref id="B21-biomolecules-06-00010"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tao</surname><given-names>F.</given-names></name><name><surname>Liaw</surname><given-names>W.J.</given-names></name><name><surname>Zhang</surname><given-names>B.</given-names></name><name><surname>Yaster</surname><given-names>M.</given-names></name><name><surname>Rothstein</surname><given-names>J.D.</given-names></name><name><surname>Johns</surname><given-names>R.A.</given-names></name><name><surname>Tao</surname><given-names>Y.X.</given-names></name></person-group>
+<article-title>Evidence of neuronal excitatory amino acid carrier 1 expression in rat dorsal root ganglion neurons and their central terminals</article-title>
+<source>Neuroscience</source>
+<year>2004</year>
+<volume>123</volume>
+<fpage>1045</fpage>
+<lpage>1051</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2003.11.026</pub-id>
+<pub-id pub-id-type="pmid">14751295</pub-id></element-citation></ref><ref id="B22-biomolecules-06-00010"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zimmermann</surname><given-names>M.</given-names></name></person-group>
+<article-title>Ethical guidelines for investigations of experimental pain in conscious animals</article-title>
+<source>Pain</source>
+<year>1983</year>
+<volume>16</volume>
+<fpage>109</fpage>
+<lpage>110</lpage>
+<pub-id pub-id-type="doi">10.1016/0304-3959(83)90201-4</pub-id>
+<pub-id pub-id-type="pmid">6877845</pub-id></element-citation></ref><ref id="B23-biomolecules-06-00010"><label>23.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>National Institutes of Health, N.R.C</collab></person-group>
+<source>Guidelines for the Care and Use of Mammals in Neuroscience and Behavioral Research</source>
+<publisher-name>The National Academic Press</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2003</year>
+<fpage>223</fpage>
+</element-citation></ref><ref id="B24-biomolecules-06-00010"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaneko</surname><given-names>T.</given-names></name><name><surname>Itoh</surname><given-names>K.</given-names></name><name><surname>Shigemoto</surname><given-names>R.</given-names></name><name><surname>Mizuno</surname><given-names>N.</given-names></name></person-group>
+<article-title>Glutaminase-like immunoreactivity in the lower brainstem and cerebellum of the adult rat</article-title>
+<source>Neuroscience</source>
+<year>1989</year>
+<volume>32</volume>
+<fpage>79</fpage>
+<lpage>98</lpage>
+<pub-id pub-id-type="doi">10.1016/0306-4522(89)90109-7</pub-id>
+<pub-id pub-id-type="pmid">2586753</pub-id></element-citation></ref><ref id="B25-biomolecules-06-00010"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoffman</surname><given-names>E.M.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Anderson</surname><given-names>M.B.</given-names></name><name><surname>Edwards</surname><given-names>K.M.</given-names></name><name><surname>Schechter</surname><given-names>R.</given-names></name><name><surname>Miller</surname><given-names>K.E.</given-names></name></person-group>
+<article-title>Potential mechanisms for hypoalgesia induced by anti-nerve growth factor immunoglobulin are identified using autoimmune nerve growth factor deprivation</article-title>
+<source>Neuroscience</source>
+<year>2011</year>
+<volume>193</volume>
+<fpage>452</fpage>
+<lpage>465</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2011.06.069</pub-id>
+<pub-id pub-id-type="pmid">21802499</pub-id></element-citation></ref><ref id="B26-biomolecules-06-00010"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>T.</given-names></name><name><surname>Miller</surname><given-names>K.E.</given-names></name></person-group>
+<article-title>Characterization of glutamatergic neurons in the rat atrial intrinsic cardiac ganglia that project to the cardiac ventricular wall</article-title>
+<source>Neuroscience</source>
+<year>2016</year>
+<comment>in revision</comment>
+</element-citation></ref><ref id="B27-biomolecules-06-00010"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fang</surname><given-names>X.</given-names></name><name><surname>Djouhri</surname><given-names>L.</given-names></name><name><surname>McMullan</surname><given-names>S.</given-names></name><name><surname>Berry</surname><given-names>C.</given-names></name><name><surname>Waxman</surname><given-names>S.G.</given-names></name><name><surname>Okuse</surname><given-names>K.</given-names></name><name><surname>Lawson</surname><given-names>S.N.</given-names></name></person-group>
+<article-title>Intense isolectin-B4 binding in rat dorsal root ganglion neurons distinguishes <italic>C</italic>-fiber nociceptors with broad action potentials and high Nav1.9 expression</article-title>
+<source>J. Neurosci.</source>
+<year>2006</year>
+<volume>26</volume>
+<fpage>7281</fpage>
+<lpage>7292</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.1072-06.2006</pub-id>
+<pub-id pub-id-type="pmid">16822986</pub-id></element-citation></ref><ref id="B28-biomolecules-06-00010"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fang</surname><given-names>X.</given-names></name><name><surname>McMullan</surname><given-names>S.</given-names></name><name><surname>Lawson</surname><given-names>S.N.</given-names></name><name><surname>Djouhri</surname><given-names>L.</given-names></name></person-group>
+<article-title>Electrophysiological differences between nociceptive and non-nociceptive dorsal root ganglion neurones in the rat <italic>in vivo</italic></article-title>
+<source>J. Physiol.</source>
+<year>2005</year>
+<volume>565</volume>
+<fpage>927</fpage>
+<lpage>943</lpage>
+<pub-id pub-id-type="doi">10.1113/jphysiol.2005.086199</pub-id>
+<pub-id pub-id-type="pmid">15831536</pub-id></element-citation></ref><ref id="B29-biomolecules-06-00010"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schechter</surname><given-names>R.</given-names></name><name><surname>Beju</surname><given-names>D.</given-names></name><name><surname>Miller</surname><given-names>K.E.</given-names></name></person-group>
+<article-title>The effect of insulin deficiency on tau and neurofilament in the insulin knockout mouse</article-title>
+<source>Biochem. Biophys. Res. Commun.</source>
+<year>2005</year>
+<volume>334</volume>
+<fpage>979</fpage>
+<lpage>986</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bbrc.2005.07.001</pub-id>
+<pub-id pub-id-type="pmid">16039605</pub-id></element-citation></ref><ref id="B30-biomolecules-06-00010"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holcomb</surname><given-names>T.</given-names></name><name><surname>Taylor</surname><given-names>L.</given-names></name><name><surname>Trohkimoinen</surname><given-names>J.</given-names></name><name><surname>Curthoys</surname><given-names>N.P.</given-names></name></person-group>
+<article-title>Isolation, characterization and expression of a human brain mitochondrial glutaminase cDNA</article-title>
+<source>Brain Res. Mol. Brain Res.</source>
+<year>2000</year>
+<volume>76</volume>
+<fpage>56</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="doi">10.1016/S0169-328X(99)00331-9</pub-id>
+<pub-id pub-id-type="pmid">10719215</pub-id></element-citation></ref><ref id="B31-biomolecules-06-00010"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schechter</surname><given-names>R.</given-names></name><name><surname>Yanovitch</surname><given-names>T.</given-names></name><name><surname>Abboud</surname><given-names>M.</given-names></name><name><surname>Johnson</surname><given-names>G.</given-names><suffix>3rd</suffix></name><name><surname>Gaskins</surname><given-names>J.</given-names></name></person-group>
+<article-title>Effects of brain endogenous insulin on neurofilament and MAPK in fetal rat neuron cell cultures</article-title>
+<source>Brain Res.</source>
+<year>1998</year>
+<volume>808</volume>
+<fpage>270</fpage>
+<lpage>278</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-8993(98)00842-7</pub-id>
+<pub-id pub-id-type="pmid">9767173</pub-id></element-citation></ref><ref id="B32-biomolecules-06-00010"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kvamme</surname><given-names>E.</given-names></name><name><surname>Torgner</surname><given-names>I.A.</given-names></name><name><surname>Roberg</surname><given-names>B.</given-names></name></person-group>
+<article-title>Kinetics and localization of brain phosphate activated glutaminase</article-title>
+<source>J. Neurosci. Res.</source>
+<year>2001</year>
+<volume>66</volume>
+<fpage>951</fpage>
+<lpage>958</lpage>
+<pub-id pub-id-type="doi">10.1002/jnr.10041</pub-id>
+<pub-id pub-id-type="pmid">11746423</pub-id></element-citation></ref><ref id="B33-biomolecules-06-00010"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Altier</surname><given-names>C.</given-names></name><name><surname>Zamponi</surname><given-names>G.W.</given-names></name></person-group>
+<article-title>Targeting Ca<sup>2+</sup> channels to treat pain: T-type <italic>versus</italic> N-type</article-title>
+<source>Trends Pharmacol. Sci.</source>
+<year>2004</year>
+<volume>25</volume>
+<fpage>465</fpage>
+<lpage>470</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tips.2004.07.004</pub-id>
+<pub-id pub-id-type="pmid">15559248</pub-id></element-citation></ref><ref id="B34-biomolecules-06-00010"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bautista</surname><given-names>D.M.</given-names></name><name><surname>Jordt</surname><given-names>S.E.</given-names></name><name><surname>Nikai</surname><given-names>T.</given-names></name><name><surname>Tsuruda</surname><given-names>P.R.</given-names></name><name><surname>Read</surname><given-names>A.J.</given-names></name><name><surname>Poblete</surname><given-names>J.</given-names></name><name><surname>Yamoah</surname><given-names>E.N.</given-names></name><name><surname>Basbaum</surname><given-names>A.I.</given-names></name><name><surname>Julius</surname><given-names>D.</given-names></name></person-group>
+<article-title>TRPA1 mediates the inflammatory actions of environmental irritants and proalgesic agents</article-title>
+<source>Cell</source>
+<year>2006</year>
+<volume>124</volume>
+<fpage>1269</fpage>
+<lpage>1282</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cell.2006.02.023</pub-id>
+<pub-id pub-id-type="pmid">16564016</pub-id></element-citation></ref><ref id="B35-biomolecules-06-00010"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Westlund</surname><given-names>K.N.</given-names></name><name><surname>Sun</surname><given-names>Y.C.</given-names></name><name><surname>Sluka</surname><given-names>K.A.</given-names></name><name><surname>Dougherty</surname><given-names>P.M.</given-names></name><name><surname>Sorkin</surname><given-names>L.S.</given-names></name><name><surname>Willis</surname><given-names>W.D.</given-names></name></person-group>
+<article-title>Neural changes in acute arthritis in monkeys. II. Increased glutamate immunoreactivity in the medial articular nerve</article-title>
+<source>Brain Res. Brain Res. Rev.</source>
+<year>1992</year>
+<volume>17</volume>
+<fpage>15</fpage>
+<lpage>27</lpage>
+<pub-id pub-id-type="doi">10.1016/0165-0173(92)90003-5</pub-id>
+<pub-id pub-id-type="pmid">1353392</pub-id></element-citation></ref><ref id="B36-biomolecules-06-00010"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Messersmith</surname><given-names>W.</given-names></name><name><surname>Oppenheimer</surname><given-names>D.</given-names></name><name><surname>Peralba</surname><given-names>J.</given-names></name><name><surname>Sebastiani</surname><given-names>V.</given-names></name><name><surname>Amador</surname><given-names>M.</given-names></name><name><surname>Jimeno</surname><given-names>A.</given-names></name><name><surname>Embuscado</surname><given-names>E.</given-names></name><name><surname>Hidalgo</surname><given-names>M.</given-names></name><name><surname>Iacobuzio-Donahue</surname><given-names>C.</given-names></name></person-group>
+<article-title>Assessment of epidermal growth factor receptor (EGFR) signaling in paired colorectal cancer and normal colon tissue samples using computer-aided immunohistochemical analysis</article-title>
+<source>Cancer Biol. Ther.</source>
+<year>2005</year>
+<volume>4</volume>
+<fpage>1381</fpage>
+<lpage>1386</lpage>
+<pub-id pub-id-type="doi">10.4161/cbt.4.12.2287</pub-id>
+<pub-id pub-id-type="pmid">16319527</pub-id></element-citation></ref><ref id="B37-biomolecules-06-00010"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chada</surname><given-names>S.R.</given-names></name><name><surname>Hollenbeck</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>Mitochondrial movement and positioning in axons: The role of growth factor signaling</article-title>
+<source>J. Exp. Biol.</source>
+<year>2003</year>
+<volume>206</volume>
+<fpage>1985</fpage>
+<lpage>1992</lpage>
+<pub-id pub-id-type="doi">10.1242/jeb.00263</pub-id>
+<pub-id pub-id-type="pmid">12756280</pub-id></element-citation></ref><ref id="B38-biomolecules-06-00010"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chada</surname><given-names>S.R.</given-names></name><name><surname>Hollenbeck</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>Nerve growth factor signaling regulates motility and docking of axonal mitochondria</article-title>
+<source>Curr. Biol.</source>
+<year>2004</year>
+<volume>14</volume>
+<fpage>1272</fpage>
+<lpage>1276</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cub.2004.07.027</pub-id>
+<pub-id pub-id-type="pmid">15268858</pub-id></element-citation></ref><ref id="B39-biomolecules-06-00010"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pezet</surname><given-names>S.</given-names></name><name><surname>McMahon</surname><given-names>S.B.</given-names></name></person-group>
+<article-title>Neurotrophins: Mediators and modulators of pain</article-title>
+<source>Annu. Rev. Neurosci.</source>
+<year>2006</year>
+<volume>29</volume>
+<fpage>507</fpage>
+<lpage>538</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.neuro.29.051605.112929</pub-id>
+<pub-id pub-id-type="pmid">16776595</pub-id></element-citation></ref><ref id="B40-biomolecules-06-00010"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McDougal</surname><given-names>D.B.</given-names><suffix>Jr.</suffix></name><name><surname>Yu</surname><given-names>M.J.</given-names></name><name><surname>Gorin</surname><given-names>P.D.</given-names></name><name><surname>Johnson</surname><given-names>E.M.</given-names><suffix>Jr.</suffix></name></person-group>
+<article-title>Transported enzymes in sciatic nerve and sensory ganglia of rats exposed to maternal antibodies against nerve growth factor</article-title>
+<source>J. Neurochem.</source>
+<year>1981</year>
+<volume>36</volume>
+<fpage>1847</fpage>
+<lpage>1852</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1471-4159.1981.tb00439.x</pub-id>
+<pub-id pub-id-type="pmid">6165807</pub-id></element-citation></ref><ref id="B41-biomolecules-06-00010"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Akesson</surname><given-names>E.</given-names></name><name><surname>Seiger</surname><given-names>A.</given-names></name></person-group>
+<article-title>Nerve growth factor-induced stimulation of dorsal root ganglion/spinal cord co-grafts in oculo: Enhanced survival and growth of CGRP-immunoreactive sensory neurons</article-title>
+<source>Cell Tissue Res.</source>
+<year>1999</year>
+<volume>298</volume>
+<fpage>243</fpage>
+<lpage>253</lpage>
+<pub-id pub-id-type="doi">10.1007/s004419900097</pub-id>
+<pub-id pub-id-type="pmid">10571113</pub-id></element-citation></ref><ref id="B42-biomolecules-06-00010"><label>42.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Caire</surname><given-names>S.R.</given-names></name><name><surname>Dennis</surname><given-names>R.W.</given-names></name><name><surname>Chandler</surname><given-names>M.J.</given-names></name><name><surname>Foreman</surname><given-names>R.D.</given-names></name><name><surname>Kriebel</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Effects of nerve growth factor (NGF) on glutamate metabolism in primary sensory neurons</article-title>
+<source>Proceedings of the Society for Neuroscience</source>
+<conf-loc>San Diego, CA, USA</conf-loc>
+<conf-date>10&#x02013;15 November 2001</conf-date>
+</element-citation></ref><ref id="B43-biomolecules-06-00010"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tomita</surname><given-names>H.</given-names></name><name><surname>Ishiguro</surname><given-names>S.</given-names></name><name><surname>Abe</surname><given-names>T.</given-names></name><name><surname>Tamai</surname><given-names>M.</given-names></name></person-group>
+<article-title>Administration of nerve growth factor, brain-derived neurotrophic factor and insulin-like growth factor-II protects phosphate-activated glutaminase in the ischemic and reperfused rat retinas</article-title>
+<source>Tohoku J. Exp. Med.</source>
+<year>1999</year>
+<volume>187</volume>
+<fpage>227</fpage>
+<lpage>236</lpage>
+<pub-id pub-id-type="doi">10.1620/tjem.187.227</pub-id>
+<pub-id pub-id-type="pmid">10458479</pub-id></element-citation></ref><ref id="B44-biomolecules-06-00010"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Du</surname><given-names>J.</given-names></name><name><surname>Koltzenburg</surname><given-names>M.</given-names></name><name><surname>Carlton</surname><given-names>S.M.</given-names></name></person-group>
+<article-title>Glutamate-induced excitation and sensitization of nociceptors in rat glabrous skin</article-title>
+<source>Pain</source>
+<year>2001</year>
+<volume>89</volume>
+<fpage>187</fpage>
+<lpage>198</lpage>
+<pub-id pub-id-type="doi">10.1016/S0304-3959(00)00362-6</pub-id>
+<pub-id pub-id-type="pmid">11166475</pub-id></element-citation></ref><ref id="B45-biomolecules-06-00010"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bhave</surname><given-names>G.</given-names></name><name><surname>Karim</surname><given-names>F.</given-names></name><name><surname>Carlton</surname><given-names>S.M.</given-names></name><name><surname>Gereau</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>Peripheral group I metabotropic glutamate receptors modulate nociception in mice</article-title>
+<source>Nat. Neurosci.</source>
+<year>2001</year>
+<volume>4</volume>
+<fpage>417</fpage>
+<lpage>423</lpage>
+<pub-id pub-id-type="doi">10.1038/86075</pub-id>
+<pub-id pub-id-type="pmid">11276233</pub-id></element-citation></ref><ref id="B46-biomolecules-06-00010"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carlton</surname><given-names>S.M.</given-names></name><name><surname>Hargett</surname><given-names>G.L.</given-names></name><name><surname>Coggeshall</surname><given-names>R.E.</given-names></name></person-group>
+<article-title>Localization and activation of glutamate receptors in unmyelinated axons of rat glabrous skin</article-title>
+<source>Neurosci. Lett.</source>
+<year>1995</year>
+<volume>197</volume>
+<fpage>25</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/0304-3940(95)11889-5</pub-id>
+<pub-id pub-id-type="pmid">8545047</pub-id></element-citation></ref><ref id="B47-biomolecules-06-00010"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carlton</surname><given-names>S.M.</given-names></name><name><surname>Zhou</surname><given-names>S.</given-names></name><name><surname>Coggeshall</surname><given-names>R.E.</given-names></name></person-group>
+<article-title>Localization and activation of substance P receptors in unmyelinated axons of rat glabrous skin</article-title>
+<source>Brain Res.</source>
+<year>1996</year>
+<volume>734</volume>
+<fpage>103</fpage>
+<lpage>108</lpage>
+<pub-id pub-id-type="doi">10.1016/0006-8993(96)00619-1</pub-id>
+<pub-id pub-id-type="pmid">8896815</pub-id></element-citation></ref><ref id="B48-biomolecules-06-00010"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carlton</surname><given-names>S.M.</given-names></name><name><surname>Zhou</surname><given-names>S.</given-names></name><name><surname>Coggeshall</surname><given-names>R.E.</given-names></name></person-group>
+<article-title>Evidence for the interaction of glutamate and NK1 receptors in the periphery</article-title>
+<source>Brain Res.</source>
+<year>1998</year>
+<volume>790</volume>
+<fpage>160</fpage>
+<lpage>169</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-8993(97)01471-6</pub-id>
+<pub-id pub-id-type="pmid">9593874</pub-id></element-citation></ref><ref id="B49-biomolecules-06-00010"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carlton</surname><given-names>S.M.</given-names></name><name><surname>Coggeshall</surname><given-names>R.E.</given-names></name></person-group>
+<article-title>Inflammation-induced changes in peripheral glutamate receptor populations</article-title>
+<source>Brain Res.</source>
+<year>1999</year>
+<volume>820</volume>
+<fpage>63</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-8993(98)01328-6</pub-id>
+<pub-id pub-id-type="pmid">10023031</pub-id></element-citation></ref><ref id="B50-biomolecules-06-00010"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davidson</surname><given-names>E.M.</given-names></name><name><surname>Coggeshall</surname><given-names>R.E.</given-names></name><name><surname>Carlton</surname><given-names>S.M.</given-names></name></person-group>
+<article-title>Peripheral NMDA and non-NMDA glutamate receptors contribute to nociceptive behaviors in the rat formalin test</article-title>
+<source>Neuroreport</source>
+<year>1997</year>
+<volume>8</volume>
+<fpage>941</fpage>
+<lpage>946</lpage>
+<pub-id pub-id-type="doi">10.1097/00001756-199703030-00025</pub-id>
+<pub-id pub-id-type="pmid">9141069</pub-id></element-citation></ref><ref id="B51-biomolecules-06-00010"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giovengo</surname><given-names>S.L.</given-names></name><name><surname>Kitto</surname><given-names>K.F.</given-names></name><name><surname>Kurtz</surname><given-names>H.J.</given-names></name><name><surname>Velazquez</surname><given-names>R.A.</given-names></name><name><surname>Larson</surname><given-names>A.A.</given-names></name></person-group>
+<article-title>Parenterally administered kainic acid induces a persistent hyperalgesia in the mouse and rat</article-title>
+<source>Pain</source>
+<year>1999</year>
+<volume>83</volume>
+<fpage>347</fpage>
+<lpage>358</lpage>
+<pub-id pub-id-type="doi">10.1016/S0304-3959(99)00118-9</pub-id>
+<pub-id pub-id-type="pmid">10534608</pub-id></element-citation></ref><ref id="B52-biomolecules-06-00010"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jackson</surname><given-names>D.L.</given-names></name><name><surname>Graff</surname><given-names>C.B.</given-names></name><name><surname>Richardson</surname><given-names>J.D.</given-names></name><name><surname>Hargreaves</surname><given-names>K.M.</given-names></name></person-group>
+<article-title>Glutamate participates in the peripheral modulation of thermal hyperalgesia in rats</article-title>
+<source>Eur. J. Pharmacol.</source>
+<year>1995</year>
+<volume>284</volume>
+<fpage>321</fpage>
+<lpage>325</lpage>
+<pub-id pub-id-type="doi">10.1016/0014-2999(95)00449-U</pub-id>
+<pub-id pub-id-type="pmid">8666015</pub-id></element-citation></ref><ref id="B53-biomolecules-06-00010"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lawand</surname><given-names>N.B.</given-names></name><name><surname>Willis</surname><given-names>W.D.</given-names></name><name><surname>Westlund</surname><given-names>K.N.</given-names></name></person-group>
+<article-title>Excitatory amino acid receptor involvement in peripheral nociceptive transmission in rats</article-title>
+<source>Eur. J. Pharmacol.</source>
+<year>1997</year>
+<volume>324</volume>
+<fpage>169</fpage>
+<lpage>177</lpage>
+<pub-id pub-id-type="doi">10.1016/S0014-2999(97)00072-1</pub-id>
+<pub-id pub-id-type="pmid">9145768</pub-id></element-citation></ref><ref id="B54-biomolecules-06-00010"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhou</surname><given-names>S.</given-names></name><name><surname>Bonasera</surname><given-names>L.</given-names></name><name><surname>Carlton</surname><given-names>S.M.</given-names></name></person-group>
+<article-title>Peripheral administration of NMDA, AMPA or KA results in pain behaviors in rats</article-title>
+<source>Neuroreport</source>
+<year>1996</year>
+<volume>7</volume>
+<fpage>895</fpage>
+<lpage>900</lpage>
+<pub-id pub-id-type="doi">10.1097/00001756-199603220-00012</pub-id>
+<pub-id pub-id-type="pmid">8724668</pub-id></element-citation></ref><ref id="B55-biomolecules-06-00010"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gazerani</surname><given-names>P.</given-names></name><name><surname>Wang</surname><given-names>K.</given-names></name><name><surname>Cairns</surname><given-names>B.E.</given-names></name><name><surname>Svensson</surname><given-names>P.</given-names></name><name><surname>Arendt-Nielsen</surname><given-names>L.</given-names></name></person-group>
+<article-title>Effects of subcutaneous administration of glutamate on pain, sensitization and vasomotor responses in healthy men and women</article-title>
+<source>Pain</source>
+<year>2006</year>
+<volume>124</volume>
+<fpage>338</fpage>
+<lpage>348</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pain.2006.06.015</pub-id>
+<pub-id pub-id-type="pmid">16919390</pub-id></element-citation></ref><ref id="B56-biomolecules-06-00010"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lawand</surname><given-names>N.B.</given-names></name><name><surname>McNearney</surname><given-names>T.</given-names></name><name><surname>Westlund</surname><given-names>K.N.</given-names></name></person-group>
+<article-title>Amino acid release into the knee joint: Key role in nociception and inflammation</article-title>
+<source>Pain</source>
+<year>2000</year>
+<volume>86</volume>
+<fpage>69</fpage>
+<lpage>74</lpage>
+<pub-id pub-id-type="doi">10.1016/S0304-3959(99)00311-5</pub-id>
+<pub-id pub-id-type="pmid">10779662</pub-id></element-citation></ref><ref id="B57-biomolecules-06-00010"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nordlind</surname><given-names>K.</given-names></name><name><surname>Johansson</surname><given-names>O.</given-names></name><name><surname>Liden</surname><given-names>S.</given-names></name><name><surname>Hokfelt</surname><given-names>T.</given-names></name></person-group>
+<article-title>Glutamate- and aspartate-like immunoreactivities in human normal and inflamed skin</article-title>
+<source>Virchows Arch. B Cell Pathol. Incl. Mol. Pathol.</source>
+<year>1993</year>
+<volume>64</volume>
+<fpage>75</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1007/BF02915098</pub-id>
+<pub-id pub-id-type="pmid">8106099</pub-id></element-citation></ref><ref id="B58-biomolecules-06-00010"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Du</surname><given-names>J.</given-names></name><name><surname>Zhou</surname><given-names>S.</given-names></name><name><surname>Coggeshall</surname><given-names>R.E.</given-names></name><name><surname>Carlton</surname><given-names>S.M.</given-names></name></person-group>
+<article-title><italic>N</italic>-methyl-<sc>d</sc>-aspartate-induced excitation and sensitization of normal and inflamed nociceptors</article-title>
+<source>Neuroscience</source>
+<year>2003</year>
+<volume>118</volume>
+<fpage>547</fpage>
+<lpage>562</lpage>
+<pub-id pub-id-type="doi">10.1016/S0306-4522(03)00009-5</pub-id>
+<pub-id pub-id-type="pmid">12699789</pub-id></element-citation></ref><ref id="B59-biomolecules-06-00010"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Warncke</surname><given-names>T.</given-names></name><name><surname>Jorum</surname><given-names>E.</given-names></name><name><surname>Stubhaug</surname><given-names>A.</given-names></name></person-group>
+<article-title>Local treatment with the <italic>N</italic>-methyl-<sc>d</sc>-aspartate receptor antagonist ketamine, inhibit development of secondary hyperalgesia in man by a peripheral action</article-title>
+<source>Neurosci. Lett.</source>
+<year>1997</year>
+<volume>227</volume>
+<fpage>1</fpage>
+<lpage>4</lpage>
+<pub-id pub-id-type="doi">10.1016/S0304-3940(97)00263-2</pub-id>
+<pub-id pub-id-type="pmid">9178844</pub-id></element-citation></ref><ref id="B60-biomolecules-06-00010"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoffman</surname><given-names>E.M.</given-names></name><name><surname>Miller</surname><given-names>K.E.</given-names></name></person-group>
+<article-title>Peripheral inhibition of glutaminase reduces carrageenan-induced Fos expression in the superficial dorsal horn of the rat</article-title>
+<source>Neurosci. Lett.</source>
+<year>2010</year>
+<volume>472</volume>
+<fpage>157</fpage>
+<lpage>160</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neulet.2010.01.066</pub-id>
+<pub-id pub-id-type="pmid">20132864</pub-id></element-citation></ref><ref id="B61-biomolecules-06-00010"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>X.M.</given-names></name><name><surname>Sessle</surname><given-names>B.J.</given-names></name><name><surname>Haas</surname><given-names>D.A.</given-names></name><name><surname>Izzo</surname><given-names>A.</given-names></name><name><surname>Vernon</surname><given-names>H.</given-names></name><name><surname>Hu</surname><given-names>J.W.</given-names></name></person-group>
+<article-title>Involvement of NMDA receptor mechanisms in jaw electromyographic activity and plasma extravasation induced by inflammatory irritant application to temporomandibular joint region of rats</article-title>
+<source>Pain</source>
+<year>1996</year>
+<volume>68</volume>
+<fpage>169</fpage>
+<lpage>178</lpage>
+<pub-id pub-id-type="doi">10.1016/S0304-3959(96)03181-8</pub-id>
+<pub-id pub-id-type="pmid">9252012</pub-id></element-citation></ref><ref id="B62-biomolecules-06-00010"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carlton</surname><given-names>S.M.</given-names></name></person-group>
+<article-title>Peripheral excitatory amino acids</article-title>
+<source>Curr. Opin. Pharmacol.</source>
+<year>2001</year>
+<volume>1</volume>
+<fpage>52</fpage>
+<lpage>56</lpage>
+<pub-id pub-id-type="doi">10.1016/S1471-4892(01)00002-9</pub-id>
+<pub-id pub-id-type="pmid">11712535</pub-id></element-citation></ref><ref id="B63-biomolecules-06-00010"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dougherty</surname><given-names>P.M.</given-names></name><name><surname>Willis</surname><given-names>W.D.</given-names></name></person-group>
+<article-title>Enhancement of spinothalamic neuron responses to chemical and mechanical stimuli following combined micro-iontophoretic application of <italic>N</italic>-methyl-<sc>d</sc>-aspartic acid and substance P</article-title>
+<source>Pain</source>
+<year>1991</year>
+<volume>47</volume>
+<fpage>85</fpage>
+<lpage>93</lpage>
+<pub-id pub-id-type="doi">10.1016/0304-3959(91)90015-P</pub-id>
+<pub-id pub-id-type="pmid">1722895</pub-id></element-citation></ref><ref id="B64-biomolecules-06-00010"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dougherty</surname><given-names>P.M.</given-names></name><name><surname>Palecek</surname><given-names>J.</given-names></name><name><surname>Zorn</surname><given-names>S.</given-names></name><name><surname>Willis</surname><given-names>W.D.</given-names></name></person-group>
+<article-title>Combined application of excitatory amino acids and substance P produces long-lasting changes in responses of primate spinothalamic tract neurons</article-title>
+<source>Brain Res. Brain Res. Rev.</source>
+<year>1993</year>
+<volume>18</volume>
+<fpage>227</fpage>
+<lpage>246</lpage>
+<pub-id pub-id-type="doi">10.1016/0165-0173(93)90003-I</pub-id>
+<pub-id pub-id-type="pmid">7687919</pub-id></element-citation></ref><ref id="B65-biomolecules-06-00010"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>H.J.</given-names></name><name><surname>Alter</surname><given-names>B.J.</given-names></name><name><surname>Carrasquillo</surname><given-names>Y.</given-names></name><name><surname>Qiu</surname><given-names>C.S.</given-names></name><name><surname>Gereau</surname><given-names>R.W.T.</given-names></name></person-group>
+<article-title>Metabotropic glutamate receptor 5 modulates nociceptive plasticity via extracellular signal-regulated kinase-Kv4.2 signaling in spinal cord dorsal horn neurons</article-title>
+<source>J. Neurosci.</source>
+<year>2007</year>
+<volume>27</volume>
+<fpage>13181</fpage>
+<lpage>13191</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.0269-07.2007</pub-id>
+<pub-id pub-id-type="pmid">18045912</pub-id></element-citation></ref><ref id="B66-biomolecules-06-00010"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pezet</surname><given-names>S.</given-names></name><name><surname>Marchand</surname><given-names>F.</given-names></name><name><surname>D&#x02019;Mello</surname><given-names>R.</given-names></name><name><surname>Grist</surname><given-names>J.</given-names></name><name><surname>Clark</surname><given-names>A.K.</given-names></name><name><surname>Malcangio</surname><given-names>M.</given-names></name><name><surname>Dickenson</surname><given-names>A.H.</given-names></name><name><surname>Williams</surname><given-names>R.J.</given-names></name><name><surname>McMahon</surname><given-names>S.B.</given-names></name></person-group>
+<article-title>Phosphatidylinositol 3-kinase is a key mediator of central sensitization in painful inflammatory conditions</article-title>
+<source>J. Neurosci.</source>
+<year>2008</year>
+<volume>28</volume>
+<fpage>4261</fpage>
+<lpage>4270</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.5392-07.2008</pub-id>
+<pub-id pub-id-type="pmid">18417706</pub-id></element-citation></ref><ref id="B67-biomolecules-06-00010"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>H.</given-names></name><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Sheng</surname><given-names>M.</given-names></name><name><surname>Jan</surname><given-names>L.Y.</given-names></name><name><surname>Jan</surname><given-names>Y.N.</given-names></name><name><surname>Basbaum</surname><given-names>A.I.</given-names></name></person-group>
+<article-title>Evidence for presynaptic <italic>N</italic>-methyl-<sc>d</sc>-aspartate autoreceptors in the spinal cord dorsal horn</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>1994</year>
+<volume>91</volume>
+<fpage>8383</fpage>
+<lpage>8387</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.91.18.8383</pub-id>
+<pub-id pub-id-type="pmid">8078891</pub-id></element-citation></ref><ref id="B68-biomolecules-06-00010"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hanani</surname><given-names>M.</given-names></name></person-group>
+<article-title>Satellite glial cells in sensory ganglia: From form to function</article-title>
+<source>Brain Res. Brain Res. Rev.</source>
+<year>2005</year>
+<volume>48</volume>
+<fpage>457</fpage>
+<lpage>476</lpage>
+<pub-id pub-id-type="doi">10.1016/j.brainresrev.2004.09.001</pub-id>
+<pub-id pub-id-type="pmid">15914252</pub-id></element-citation></ref><ref id="B69-biomolecules-06-00010"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weick</surname><given-names>M.</given-names></name><name><surname>Cherkas</surname><given-names>P.S.</given-names></name><name><surname>Hartig</surname><given-names>W.</given-names></name><name><surname>Pannicke</surname><given-names>T.</given-names></name><name><surname>Uckermann</surname><given-names>O.</given-names></name><name><surname>Bringmann</surname><given-names>A.</given-names></name><name><surname>Tal</surname><given-names>M.</given-names></name><name><surname>Reichenbach</surname><given-names>A.</given-names></name><name><surname>Hanani</surname><given-names>M.</given-names></name></person-group>
+<article-title>P2 receptors in satellite glial cells in trigeminal ganglia of mice</article-title>
+<source>Neuroscience</source>
+<year>2003</year>
+<volume>120</volume>
+<fpage>969</fpage>
+<lpage>977</lpage>
+<pub-id pub-id-type="doi">10.1016/S0306-4522(03)00388-9</pub-id>
+<pub-id pub-id-type="pmid">12927203</pub-id></element-citation></ref><ref id="B70-biomolecules-06-00010"><label>70.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Kriebel</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Glutamine and glutamine synthetase levels are increased in rat DRG satellite cells following peripheral inflammation</article-title>
+<source>Proceedings of the Society for Neuroscience</source>
+<conf-loc>New Orleans, LA, USA</conf-loc>
+<conf-date>8&#x02013;12 November 2003</conf-date>
+</element-citation></ref><ref id="B71-biomolecules-06-00010"><label>71.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Kriebel</surname><given-names>R.M.</given-names></name><name><surname>Edwards</surname><given-names>K.M.</given-names></name><name><surname>Bartley</surname><given-names>E.</given-names></name><name><surname>Varoqui</surname><given-names>H.</given-names></name><name><surname>Erickson</surname><given-names>J.D.</given-names></name><name><surname>Schechter</surname><given-names>R.</given-names></name></person-group>
+<article-title>Localization of neutral amino acid transporters (SNAT1, ASCT1, ASCT2) in rat DRG and spinal dorsal horn</article-title>
+<source>Proceedings of the Society for Neuroscience</source>
+<conf-loc>Washington, DC, USA</conf-loc>
+<conf-date>12&#x02013;16 November 2005</conf-date>
+</element-citation></ref><ref id="B72-biomolecules-06-00010"><label>72.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Edwards</surname><given-names>K.M.</given-names></name><name><surname>Schechter</surname><given-names>R.</given-names></name></person-group>
+<article-title>Localization of neutral amino acid transporter SNAT2 in rat DRG</article-title>
+<publisher-name>Oklahoma State University</publisher-name>
+<publisher-loc>Tulsa, OK, USA</publisher-loc>
+<comment>Unpublished work</comment>
+<year>2008</year>
+</element-citation></ref><ref id="B73-biomolecules-06-00010"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brumovsky</surname><given-names>P.</given-names></name><name><surname>Watanabe</surname><given-names>M.</given-names></name><name><surname>Hokfelt</surname><given-names>T.</given-names></name></person-group>
+<article-title>Expression of the vesicular glutamate transporters-1 and -2 in adult mouse dorsal root ganglia and spinal cord and their regulation by nerve injury</article-title>
+<source>Neuroscience</source>
+<year>2007</year>
+<volume>147</volume>
+<fpage>469</fpage>
+<lpage>490</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2007.02.068</pub-id>
+<pub-id pub-id-type="pmid">17577523</pub-id></element-citation></ref><ref id="B74-biomolecules-06-00010"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.L.</given-names></name><name><surname>Xiong</surname><given-names>K.H.</given-names></name><name><surname>Dong</surname><given-names>Y.L.</given-names></name><name><surname>Fujiyama</surname><given-names>F.</given-names></name><name><surname>Kaneko</surname><given-names>T.</given-names></name><name><surname>Mizuno</surname><given-names>N.</given-names></name></person-group>
+<article-title>Vesicular glutamate transporters, VGluT1 and VGluT2, in the trigeminal ganglion neurons of the rat, with special reference to coexpression</article-title>
+<source>J. Comp. Neurol.</source>
+<year>2003</year>
+<volume>463</volume>
+<fpage>212</fpage>
+<lpage>220</lpage>
+<pub-id pub-id-type="doi">10.1002/cne.10755</pub-id>
+<pub-id pub-id-type="pmid">12815758</pub-id></element-citation></ref><ref id="B75-biomolecules-06-00010"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morris</surname><given-names>J.L.</given-names></name><name><surname>Konig</surname><given-names>P.</given-names></name><name><surname>Shimizu</surname><given-names>T.</given-names></name><name><surname>Jobling</surname><given-names>P.</given-names></name><name><surname>Gibbins</surname><given-names>I.L.</given-names></name></person-group>
+<article-title>Most peptide-containing sensory neurons lack proteins for exocytotic release and vesicular transport of glutamate</article-title>
+<source>J. Comp. Neurol.</source>
+<year>2005</year>
+<volume>483</volume>
+<fpage>1</fpage>
+<lpage>16</lpage>
+<pub-id pub-id-type="doi">10.1002/cne.20399</pub-id>
+<pub-id pub-id-type="pmid">15672399</pub-id></element-citation></ref><ref id="B76-biomolecules-06-00010"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nunzi</surname><given-names>M.G.</given-names></name><name><surname>Pisarek</surname><given-names>A.</given-names></name><name><surname>Mugnaini</surname><given-names>E.</given-names></name></person-group>
+<article-title>Merkel cells, corpuscular nerve endings and free nerve endings in the mouse palatine mucosa express three subtypes of vesicular glutamate transporters</article-title>
+<source>J. Neurocytol.</source>
+<year>2004</year>
+<volume>33</volume>
+<fpage>359</fpage>
+<lpage>376</lpage>
+<pub-id pub-id-type="doi">10.1023/B:NEUR.0000044196.45602.92</pub-id>
+<pub-id pub-id-type="pmid">15475690</pub-id></element-citation></ref><ref id="B77-biomolecules-06-00010"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>J.L.</given-names></name><name><surname>Fujiyama</surname><given-names>F.</given-names></name><name><surname>Kaneko</surname><given-names>T.</given-names></name><name><surname>Mizuno</surname><given-names>N.</given-names></name></person-group>
+<article-title>Expression of vesicular glutamate transporters, VGluT1 and VGluT2, in axon terminals of nociceptive primary afferent fibers in the superficial layers of the medullary and spinal dorsal horns of the rat</article-title>
+<source>J. Comp. Neurol.</source>
+<year>2003</year>
+<volume>457</volume>
+<fpage>236</fpage>
+<lpage>249</lpage>
+<pub-id pub-id-type="doi">10.1002/cne.10556</pub-id>
+<pub-id pub-id-type="pmid">12541308</pub-id></element-citation></ref><ref id="B78-biomolecules-06-00010"><label>78.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Alothman</surname><given-names>S.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Bolt</surname><given-names>B.</given-names></name><name><surname>Miller</surname><given-names>K.E.</given-names></name></person-group>
+<article-title>Vesicular glutamate transporter 2 expression is altered in dorsal root ganglion neurons during the regenerative phase following sciatic nerve crush</article-title>
+<source>Proceedings of the 14th International Symposium on Neural Regeneration, P-8</source>
+<conf-loc>Pacific Grove, CA, USA</conf-loc>
+<conf-date>7 December 2011</conf-date>
+</element-citation></ref><ref id="B79-biomolecules-06-00010"><label>79.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Alothman</surname><given-names>S.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Bolt</surname><given-names>B.</given-names></name><name><surname>Anderson</surname><given-names>M.B.</given-names></name><name><surname>Miller</surname><given-names>K.E.</given-names></name></person-group>
+<article-title>Expression of vesicular glutamate transporter 2 in dorsal root ganglion neurons during the acute phase following sciatic nerve transection</article-title>
+<source>Proceedings of the Society for Neuroscience</source>
+<conf-loc>New Orleans, LA, USA</conf-loc>
+<conf-date>13&#x02013;17 October 2012</conf-date>
+</element-citation></ref><ref id="B80-biomolecules-06-00010"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moechars</surname><given-names>D.</given-names></name><name><surname>Weston</surname><given-names>M.C.</given-names></name><name><surname>Leo</surname><given-names>S.</given-names></name><name><surname>Callaerts-Vegh</surname><given-names>Z.</given-names></name><name><surname>Goris</surname><given-names>I.</given-names></name><name><surname>Daneels</surname><given-names>G.</given-names></name><name><surname>Buist</surname><given-names>A.</given-names></name><name><surname>Cik</surname><given-names>M.</given-names></name><name><surname>van der Spek</surname><given-names>P.</given-names></name><name><surname>Kass</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Vesicular glutamate transporter VGLUT2 expression levels control quantal size and neuropathic pain</article-title>
+<source>J. Neurosci.</source>
+<year>2006</year>
+<volume>26</volume>
+<fpage>12055</fpage>
+<lpage>12066</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.2556-06.2006</pub-id>
+<pub-id pub-id-type="pmid">17108179</pub-id></element-citation></ref><ref id="B81-biomolecules-06-00010"><label>81.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>K.E.</given-names></name><name><surname>Herzog</surname><given-names>B.H.</given-names></name><name><surname>Sutharshan</surname><given-names>M.</given-names></name></person-group>
+<article-title>6-Diazo-5-oxo-<sc>l</sc>-norleucine: A glutaminase inhibitor with local analgesic properties</article-title>
+<source>Proceedings of the 13th World Congress on Pain, PT 421</source>
+<conf-loc>Montreal, Canada</conf-loc>
+<conf-date>31 August 2010</conf-date>
+</element-citation></ref><ref id="B82-biomolecules-06-00010"><label>82.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Z.</given-names></name></person-group>
+<article-title>The Role of Dorsal Root Ganglion Glutaminase in Acute and Chronic Inflammatory Pain</article-title>
+<source>Ph.D. Dissertation</source>
+<publisher-name>Oklahoma State University</publisher-name>
+<publisher-loc>Stillwater, OK, USA</publisher-loc>
+<year>2013</year>
+</element-citation></ref><ref id="B83-biomolecules-06-00010"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chiang</surname><given-names>C.Y.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Xie</surname><given-names>Y.F.</given-names></name><name><surname>Zhang</surname><given-names>S.</given-names></name><name><surname>Hu</surname><given-names>J.W.</given-names></name><name><surname>Dostrovsky</surname><given-names>J.O.</given-names></name><name><surname>Sessle</surname><given-names>B.J.</given-names></name></person-group>
+<article-title>Astroglial glutamate-glutamine shuttle is involved in central sensitization of nociceptive neurons in rat medullary dorsal horn</article-title>
+<source>J. Neurosci.</source>
+<year>2007</year>
+<volume>27</volume>
+<fpage>9068</fpage>
+<lpage>9076</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.2260-07.2007</pub-id>
+<pub-id pub-id-type="pmid">17715343</pub-id></element-citation></ref><ref id="B84-biomolecules-06-00010"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chiang</surname><given-names>C.Y.</given-names></name><name><surname>Li</surname><given-names>Z.</given-names></name><name><surname>Dostrovsky</surname><given-names>J.O.</given-names></name><name><surname>Hu</surname><given-names>J.W.</given-names></name><name><surname>Sessle</surname><given-names>B.J.</given-names></name></person-group>
+<article-title>Glutamine uptake contributes to central sensitization in the medullary dorsal horn</article-title>
+<source>Neuroreport</source>
+<year>2008</year>
+<volume>19</volume>
+<fpage>1151</fpage>
+<lpage>1154</lpage>
+<pub-id pub-id-type="doi">10.1097/WNR.0b013e3283086781</pub-id>
+<pub-id pub-id-type="pmid">18596618</pub-id></element-citation></ref></ref-list></back></article>

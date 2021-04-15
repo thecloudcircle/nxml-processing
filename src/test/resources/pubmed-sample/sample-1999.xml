@@ -1,0 +1,278 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Appl Clin Med Phys</journal-id><journal-id journal-id-type="iso-abbrev">J Appl Clin Med Phys</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1526-9914</journal-id><journal-id journal-id-type="publisher-id">ACM2</journal-id><journal-title-group><journal-title>Journal of Applied Clinical Medical Physics</journal-title></journal-title-group><issn pub-type="epub">1526-9914</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">18716586</article-id><article-id pub-id-type="pmc">5722295</article-id><article-id pub-id-type="doi">10.1120/jacmp.v9i3.2756</article-id><article-id pub-id-type="publisher-id">ACM20026</article-id><article-categories><subj-group subj-group-type="overline"><subject>Radiation Oncology Physics</subject></subj-group><subj-group subj-group-type="heading"><subject>Radiation Oncology Physics</subject></subj-group></article-categories><title-group><article-title>Clinical experience of the importance of daily portal imaging for head and neck IMRT treatments</article-title></title-group><contrib-group><contrib id="acm20026-cr-0001" contrib-type="author" corresp="yes"><name><surname>Court</surname><given-names>Laurence E</given-names></name><address><email>lcourt@lroc.harvard.edu</email></address><xref ref-type="aff" rid="acm20026-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acm20026-cr-0002" contrib-type="author"><name><surname>Wolfsberger</surname><given-names>Luciant</given-names></name><xref ref-type="aff" rid="acm20026-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acm20026-cr-0003" contrib-type="author"><name><surname>Allen</surname><given-names>Aaron M</given-names></name><xref ref-type="aff" rid="acm20026-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acm20026-cr-0004" contrib-type="author"><name><surname>James</surname><given-names>Steven</given-names></name><xref ref-type="aff" rid="acm20026-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acm20026-cr-0005" contrib-type="author"><name><surname>Tishler</surname><given-names>Roy B</given-names></name><xref ref-type="aff" rid="acm20026-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="acm20026-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Radiation Oncology</named-content>
+<institution>Dana&#x02010;Farber / Brigham &#x00026; Women's Cancer Center</institution>
+<named-content content-type="city">Boston</named-content>
+<named-content content-type="country-part">MA</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Corrresponding author: Laurence E Court, Department of Radiation Oncology, Dana&#x02010;Farber / Brigham &#x00026; Women's Cancer Center, 75 Francis Street, Boston, MA 02115, USA; phone: 617&#x02010;632&#x02010;4929; fax: 617&#x02010;632&#x02010;4247;email: <email>lcourt@lroc.harvard.edu</email></corresp></author-notes><pub-date pub-type="collection"><month>6</month><year>2008</year></pub-date><pub-date pub-type="epub"><day>23</day><month>6</month><year>2008</year></pub-date><volume>9</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/acm2.2008.9.issue-3</issue-id><fpage>26</fpage><lpage>33</lpage><history><date date-type="received"><day>28</day><month>8</month><year>2007</year></date><date date-type="accepted"><day>14</day><month>2</month><year>2008</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; American Association of Physicists in Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2008 The Authors.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ACM2-9-026.pdf"/><abstract><p>The purpose of this study was to evaluate patient setup in head and neck IMRT using daily portal imaging. At our institution, orthogonal digital portal images are taken daily to check patient positioning prior to head and neck IMRT treatment. Isocenter misalignments are corrected using a couch shift (3 mm action level). Therapists also compare the DRRs and portal images looking at points more distant from the isocenter, particularly in the supraclavicular region, and re&#x02010;position the patient's shoulders in the mask if considered necessary. The daily isocenter shifts (C2 region) and frequency of patient repositioning were investigated by review of record&#x02010;and&#x02010;verify records for 15 patients. The magnitude of the shoulder repositioning was evaluated for 10 of these patients by comparing portal images and plan DRRs for a point 8 cm inferior of isocenter (T2&#x02010;T4).</p><p>For all patients, pretreatment isocenter discrepancies 3 mm or smaller were recorded for a median of 92.5% of fractions (range: 71.4 &#x02013; 100%). Patients were repositioned in the immobilization mask before treatment for a median of 14% of fractions (3&#x02013;34%). Thirty percent of these were for shoulder shifts of 1 cm or larger. Twenty percent of patients needed shoulder shifts of 1 cm or more for more than 7/35 fractions, meaning that without setup based on daily imaging, parts of the CTV would have received less than 95% of the prescribed dose. In conclusion, with our current immobilization, isocenter positioning accuracy is excellent, while correct shoulder position is more variable, particularly for a small subset of patients. Frequent imaging of head and neck IMRT patients is essential to accurate delivery of therapy, with shoulder position an important factor.</p><p>PACS number: 87.53.Oq</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="acm20026-kwd-0001">image&#x02010;guided</kwd><kwd id="acm20026-kwd-0002">localization</kwd><kwd id="acm20026-kwd-0003">head and neck</kwd><kwd id="acm20026-kwd-0004">IMRT</kwd></kwd-group><counts><fig-count count="3"/><table-count count="0"/><ref-count count="19"/><page-count count="8"/><word-count count="4052"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>acm20026</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2008</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.5 mode:remove_FC converted:16.11.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="acm20026-sec-0001"><title>I. INTRODUCTION</title><p>When intensity modulated radiation therapy (IMRT) is used to treat tumors in the head and neck region, planning target volume (PTV) treatment margins are typically as small as 3&#x02013;5 mm.<xref rid="c1" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="c4" ref-type="ref">
+<sup>4</sup>
+</xref> Target immobilization is usually achieved using head immobilization masks,<xref rid="c5" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="c12" ref-type="ref">
+<sup>12</sup>
+</xref> often combined with patient&#x02010;specific neck cushions. We found that in spite of the use of immobilization masks, the many degrees of freedom, shape change and large (long) targets in the head and neck region, make immobilization within these 3&#x02013;5 mm criteria for the entire target volume a significant challenge. In particular, changes in the shape of the neck, and relative position of the shoulders (or supraclavicular region) can make achieving these goals difficult. Also, our experience showed that setup issues are particularly problematic for a relatively small sub&#x02010;set of patients. For these reasons, all head and neck IMRT patients at our clinic are treated using image&#x02010;guided radiation therapy techniques, where they are first positioned based on daily orthogonal portal images. We now have treated more than 300 patients using this technique. For this work we analyzed a subset of these patients to quantify our immobilization at isocenter (close to C2) and also in the supraclavicular region. This data will be useful as a benchmark of our current practice, allowing comparison with other immobilization techniques.</p></sec><sec id="acm20026-sec-0002"><title>II. METHODS AND MATERIALS</title><p>We retrospectively reviewed the records of 15 patients treated with IMRT for head and neck cancer at the Dana&#x02010;Farber Cancer Institute, with IRB approval. The treated sites covered all head and neck subsites including: nasopharynx, larynx, oral tongue, base of tongue, paraesophageal mass, paranasal sinus, thyroid, and unknown primary.</p><p>Head and neck IMRT patients at our institution are immobilized using a head&#x02010;neck&#x02010;shoulder thermoplastic immobilization system (S&#x02010;Type, Medtec, Orange City, IA) and a custom constructed headrest (Acuform, Medtec), as shown in Fig. <xref rid="acm20026-fig-0001" ref-type="fig">1</xref>. Previous (anecdotal) experience at DFCI/BWH found that this gave better daily setup than with thermoplastic masks and standard head cups. For IMRT cases we use a generic isocenter, typically located around C2. All IMRT plans start with an imaging plan consisting of daily orthogonal portal imaging fields (6MV, 3MU per field). The imaging plan is included by the treatment planning system (Eclipse, Varian Medical Systems Inc., Palo Alto, CA) when optimizing the IMRT treatment. The final plan is considered as the sum of the imaging plan (which contributes approximately 2&#x02013;3 Gy to the overall dose) and the IMRT plan (60&#x02013;70 Gy, depending on the treatment site, and clinical situation). The CT images used for the plans and DRRs had <mml:math id="nlm-math-1"><mml:mn>0.98</mml:mn><mml:mo>&#x000d7;</mml:mo><mml:mn>0.98</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mtext>mm</mml:mtext></mml:math> axial pixels, and 2.5 mm slice width.</p><fig fig-type="Figure" xml:lang="en" id="acm20026-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Head&#x02010;neck&#x02010;shoulder thermoplastic immobilization system (S&#x02010;Type, Medtec, Orange City, IA) and a custom constructed headrest (Acuform: Medtec).</title></caption><graphic id="nlm-graphic-1" xlink:href="ACM2-9-026-g001"/></fig><p>In the treatment room, the patient is positioned in the immobilization mask. Before leaving the treatment room, the therapists carefully visually check the patient's positioning in the mask, and adjust if necessary. Orthogonal 6MV portal images are then taken using a digital portal imaging device (PortalVision, Varian Medical Systems Inc., Palo Alto, CA). Radiation therapist teams (2&#x02013;3 therapists) visually compare the portal images to planned DRRs using Viewstation (IMPAC,</p><p>Mountain View, CA) to view the images. The therapists have full control over image display contrast, window level, image filter (smoothing filters etc.), and magnification. The DRR and portal image are displayed adjacent to each other, on the same screen. Based on comparison of AP and right lateral DRRs and portal images, isocenter misalignments are corrected by the therapists using a couch shift, with a 3 mm action level, prior to each fraction. This comparison is based on boney structures in the region of C2. Therapists also compare the DRRs and portal images looking at points more distant from the isocenter, particularly in the supraclavicular region. If there is poor agreement between the DRR and portal images for the supraclavicular region, then the therapists re&#x02010;enter the treatment room and physically reposition the patient in the mask. For the patient data analyzed here, we did not have a formal action level for repositioning the patient based on shoulder position. However, the therapists made this decision based on their knowledge that we planned using 5 mm margins. Because of the difficulty in judging shoulder movements, if a shoulder shift was needed the portal images were repeated and compared with the planned DRR to double check the actual amount the shoulders were moved. Similarly, we require re&#x02010;imaging for isocenter shifts 5 mm or larger, prior to daily treatment delivery. In summary, the flow is as follows:
+<list list-type="simple" id="acm20026-list-0001"><list-item><label>1.</label><p>Position patient in immobilization system.</p></list-item><list-item><label>2.</label><p>Take AP and right lateral portal images.</p></list-item><list-item><label>3.</label><p>Visually compare orthogonal portal images with orthogonal planned DRRs.</p></list-item><list-item><label>4.</label><p>If the patient is not positioned correctly (i.e., if there are rotations that cannot be corrected with a couch shift), then reposition the patient in the mask and go back to [2].</p></list-item><list-item><label>5.</label><p>If the patient is correctly positioned in the immobilization system, but there is a shift between portal images and DRRs larger than 3 mm, then move the patient couch to correct for the shift.</p></list-item><list-item><label>6.</label><p>If the necessary isocenter shift was 5 mm or larger, go back to [2].</p></list-item></list>
+</p><p>We evaluated the size and frequency of isocenter shifts in each orthogonal direction and lateral shoulder shifts. Isocenter shifts were collected for 15 patients (30&#x02013;35 fractions per patient). The couch coordinates in record&#x02010;and&#x02010;verify records (IMPAC, Mountain View, CA) were reviewed for these patients, and the daily shift calculated as the change in couch coordinates recorded between the orthogonal images and the actual treatment fields. The frequency of shoulder shifts was also collected using therapists' notes in the patient record&#x02010;and&#x02010;verify chart for 10 of these patients. The size of shoulder shifts was not recorded in the chart, so was evaluated retrospectively by an experienced radiation therapist, who reviewed the original portal images and plan DRRs and noted the size and direction of the required shift for a point 8 cm inferior of isocenter. This is equivalent to T2&#x02013;T4, and is close to the inferior edge of our head and neck IMRT fields (which include the supraclavicular region.)</p><p>Uncertainties in the isocenter shifts were estimated by asking a single therapist to independently review the isocenter position by comparing portal images and plan DRRs for 16 patient&#x02010;days (two patients). These shifts were compared with the shifts that were made clinically to estimate user&#x02010;dependent uncertainty in the isocenter shifts. The same images were used to estimate uncertainty in the shoulder shift data, where the user re&#x02010;reviewed the necessary shoulder shift two months after the original study. For this purpose, images were chosen which had been noted to require a shoulder shift in the patient chart.</p></sec><sec id="acm20026-sec-0003"><title>III. RESULTS</title><sec id="acm20026-sec-0004"><title>A. Isocenter and shoulder shift results</title><p>For individual patients, isocenter discrepancies of 3 mm or smaller in any direction were recorded for 71.4 &#x02013; 100% (median: 92.5%). Isocenter shifts larger than 5 mm were only recorded twice (2 patients, 1 posterior, 1 right, respectively; 0.38% of all fractions). Although individual patients often had a dominant direction of the shift, this was different for different patients. For example, for one patient, 83% of AP shifts were in the anterior direction, whereas for a different patient the situation was reversed, with 86% of AP shifts being made in the posterior direction. This was also true for R1 and SI shifts.</p><p>On the basis of pre&#x02010;treatment daily imaging, individual patients were repositioned in the immobilization mask before treatment for 3&#x02013;34% of fractions (medial 14%, or 4.9/35 fractions). Fifty&#x02010;nine percent of these repositioning were for a shoulder shift of less than 5mm. Eleven percent of the shifts were from 6&#x02013;9 mm. Thirty percent, however, were for shoulder shifts of 1 cm or larger. For each individual patient, all shoulder shifts of 1 cm or larger were in the same direction (left or right, depending on the patient). For the patients as a group, these were evenly divided between left and right. The worst case was a patient who had shoulder shifts 1 cm or larger for 11 out of 35 fractions (31%). For this patient, all large shoulder shifts were to the right. Fig. <xref rid="acm20026-fig-0002" ref-type="fig">2</xref> shows the magnitude of the shoulder shifts. It can be seen that the distribution has two peaks. The first peak relates to small shifts (5 mm or less). The second shows large shifts centered at 1 cm.</p><fig fig-type="Figure" xml:lang="en" id="acm20026-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Size of shoulder shifts necessary (based on image review) for patients where shoulder shifts were originally made.</title></caption><graphic id="nlm-graphic-3" xlink:href="ACM2-9-026-g002"/></fig></sec><sec id="acm20026-sec-0005"><title>B. Estimate of uncertainties</title><p>The disagreement between the two groups for the isocenter shift was <mml:math id="nlm-math-2"><mml:mn>0.3</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>2.1</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mtext>mm</mml:mtext></mml:math> (1s) for all directions. The 0.3 mm indicates a small systematic difference between the two groups. The standard deviation of 2.1 mm indicates the random differences in how the groups compared the DRRs and portal images. The maximum difference in the isocenter shift determined by the two groups was 3 mm in any one direction. That is, the two groups disagreed on the necessary shift by up to 3 mm. The standard deviation and maximum difference are fairly large, and for this data set led to disagreement between the groups of whether a shift was needed (using 3 mm criteria) for 35% of cases. That is, for 35% of cases there was disagreement whether the necessary shift was smaller or larger than 3mm.</p><p>The difference in the supraclavicular shifts found by the same user for the same patients when the images were reviewed two months apart was <mml:math id="nlm-math-3"><mml:mo>&#x02212;</mml:mo><mml:mn>1.8</mml:mn><mml:mo>&#x000b1;</mml:mo><mml:mn>2.9</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mtext>mm</mml:mtext></mml:math>. The 1.8 mm indicates a systematic difference in how the user interpreted the images. The maximum difference in the shift was 5 mm. This is worse than found for isocenter, but much smaller than the shoulder shifts found for the large shift peak <mml:math id="nlm-math-4"><mml:mo stretchy="false">(</mml:mo><mml:mi>~</mml:mi><mml:mn>1</mml:mn><mml:mo>&#x02009;</mml:mo><mml:mtext>cm</mml:mtext><mml:mo stretchy="false">)</mml:mo></mml:math>.</p></sec></sec><sec id="acm20026-sec-0006"><title>IV. DISCUSSION</title><p>PTV margins are a geometric concept, defined to ensure that, in the presence of setup and other uncertainties, the prescribed dose is actually delivered to the clinical target volume (CTV). For conformal head&#x02010;and&#x02010;neck treatments, many centers use an empirical PTV expansion of 5&#x02013;10 mm based on historical norms and clinical experience. This expansion may have been appropriate for conventional treatment planning. However, with the increased use of IMRT a more exact understanding of the true uncertainty and corrections for it are necessary. There are several published formulations for calculating the necessary PTV.<xref rid="c13" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="c17" ref-type="ref">
+<sup>17</sup>
+</xref> For example, one formulation of van Herk<xref rid="c14" ref-type="ref">
+<sup>(14)</sup>
+</xref> showed that to ensure that the dose to the CTV is 95% for 90% of patients, the margin should be 2.5 times the systematic uncertainty plus 0.7 times the random uncertainty. For a systematic uncertainty of 1 mm, and random uncertainty of 2.5 mm, which is typical of those previously reported in the literature<xref rid="c7" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="c18" ref-type="ref">
+<sup>18</sup>
+</xref> for the head and neck region, this formula requires a margin of 4 mm. Another approach is to define margins based on radiobiological consideration, and this tends to require smaller margins.<xref rid="c17" ref-type="ref">
+<sup>(17)</sup>
+</xref> The many degrees of freedom and large (long) targets in the head and neck region mean that different portions of the target can move very differently to each other, and different anatomical regions can have different uncertainties. This makes immobilization within 3&#x02013;5 mm criteria a significant challenge. In particular, even when localization at the isocenter is excellent, some patients exhibit large uncertainties in the supraclavicular region. These patients represent an important minority for whom margins based on the global population might not give sufficient coverage of the target.</p><p>One of the limitations of our study was the uncertainty related to visual interpretation of the images. The total (range) uncertainties were estimated less than 3 mm and 5 mm for isocenter and 8 cm inferior of isocenter, respectively. The effect of these uncertainties is to spread out the shifts reported here. Importantly, these uncertainties are smaller than the reported shifts for the supraclavicular region &#x02013; which is the region with the larger, and therefore more important, shifts. We also made an assumption that the position of targets or avoidance structures relative to bony landmarks is consistent fraction to fraction. This assumption, which has been made by other researchers,<xref rid="c7" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="c8" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="c18" ref-type="ref">
+<sup>18</sup>
+</xref> seems reasonable given the close proximity of all the structures in the head and neck region.</p><p>Another limitation is the use of 2D/2D matching to determine the accuracy of patient setup. This is the traditional technique, and is also the only technique available in most clinics. However, there is an important flaw in this technique because it is not always possible to distinguish mismatches due to translational shifts from those due to rotations. For example, a rotation of the head can appear as a shift when viewing the AP image. Similarly, a yaw (rotation about the anterior&#x02010;posterior direction) will appear as a translation for the supraclavicular region. The appropriate corrective action is, in this case, somewhat unclear, as it is unlikely that the entire head and neck region will be subject to exactly the same yaw. That is, the head is better immobilized than the neck and may move differently. The approach taken in our clinic is to correct for these types of setup errors by repositioning the patient in the immobilization system so that all setup errors can be corrected with shifts alone. Although it may be argued that a couch rotation is sufficient to correct for these errors in the positioning of the supraclavicular region, this requires further study (including dosimetric analysis) with multiple CT images of the patient, and is beyond the scope of this work.</p><p>Our results for isocenter shifts are consistent with results recently presented by Zhang et al., <xref rid="c18" ref-type="ref">
+<sup>(18)</sup>
+</xref> who, based on analysis of daily CT images, reported a 90% confidence interval of 3.2 &#x02013; 3.8 mm for C2. They reported no significant difference when using the S&#x02010;board or conventional face mask. Our results for T2&#x02013;T4 (8 cm inferior of isocenter), for which we found shifts smaller than 5 mm for 94% of all fractions, were also similar to those of Zhang et al., who reported a 90% confidence interval of 5.2 mm in the RL direction for C6. Similarly, for similar thermoplastic masks, Gibleau<xref rid="c7" ref-type="ref">
+<sup>(7)</sup>
+</xref> found uncertainties (1 standard deviation) of 1.8 mm in the head and neck region, and 2.4 mm in the shoulders.</p><p>A particularly important result of this work is that we have identified the presence of dosimetrically significant outliers for the shoulder position that have not been reported in other studies. Although 94% of all fractions across all patients showed shoulder shifts less than 5 mm, a small group of patients required a significant number of large (1 cm) shoulder shifts. A review by the authors of typical head&#x02010;and&#x02010;neck IMRT plans (5 mm margins) at our institution showed that a 1 cm lateral shift in the shoulder region can reduce the dose to the CTV by as much as 25% or more. An example is shown in Fig. <xref rid="acm20026-fig-0003" ref-type="fig">3</xref>, which shows a detail from an IMRT plan at the level of the shoulders. It can be seen that a 5 mm shift would move the volume covered by the 100% isodose to the 75% isodose line. A 1 cm shift would move the physician&#x02010;drawn CTV to the 75% isodose line. This means that, to keep any cumulative dose reduction to any point of the CTV to less than 5%, no more than 7 out of 35 fractions (20%) can have 1 cm shifts (in the same direction). If we had not used daily imaging to check setup, this would not have been met for 20% (2/10) of our patients. Daily imaging, therefore, is important to prevent underdosing of the targets. The setup uncertainty does not present an issue for cord dose, partly because we use a 7 mm margin around the cord, and (more importantly) because most of the targets in the supraclavicular region are anterior to, and not adjacent to, the cord.</p><fig fig-type="Figure" xml:lang="en" id="acm20026-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><title>A detail of an IMRT plan at the shoulder level showing the physician&#x02010;drawn CTV (black contour), PTV after 5 mm expansion (green shaded area), 100% isodose line (yellow) and 75% isodose line (purple). Also shown are measurements indicating that the CTV is 1 cm away from the 75% isodose line, and that there is 0.5 cm between the 75% and 100% isodoses.</title></caption><graphic id="nlm-graphic-5" xlink:href="ACM2-9-026-g003"/></fig><p>We have noted that it is not possible to predict which patients will experience large shoulder shifts nor do we have a strategy for identifying those patients. In addition, no significant shoulder shifts in the first week of treatment does not necessarily correspond to few/no shoulder shifts later in that patients treatment. One patient had no shoulder shifts larger than 5 mm until their 32<sup>nd</sup> fraction, but had large shifts for every fraction thereafter (total treatment: 35 fractions). Other patients had large shifts from the very start of treatment. This would suggest that daily imaging is necessary throughout the entire course of therapy for head and neck IMRT patients in order to have confidence in our dosimetry for each and every patient.</p><p>Since one significant source of uncertainty is movement of the supraclavicular region, an approach taken by some investigators is to treat the supraclaviclular region using a conventional anterior field. However, recent work of Thorstad et al.,<xref rid="c19" ref-type="ref">
+<sup>(19)</sup>
+</xref> indicated that a cold match line between conventional and IMRT fields can be a significant cause of recurrences. Another option would be to use larger margins for targets in the supraclavicular region. However, for the majority of patients, this would mean an unnecessary increase in dose to normal tissue. We are also looking at alternative immobilization techniques to improve setup uncertainty in the shoulder region. Alternatively, because we use daily imaging it might be argued that we could reduce our PTV margin from 5 mm to 3 mm or smaller. However, because of the size of the user uncertainties from visual evaluation of the data, and other uncertainties indicated above, together with the shape change that we notice for these large (long) targets (e.g., neck yaw and tilt) mean that we are currently maintaining use of 5 mm margins in the clinic. Also, we have not investigated intra&#x02010;fraction motion, although this is usually less than 1 mm, depending on details of the immobilization device used.<xref rid="c5" ref-type="ref">
+<sup>(5)</sup>
+</xref>
+</p><p>An important result of this work is that we have demonstrated that digital portal imaging, which is available in most radiation therapy centers, can be used clinically on a daily basis to correct daily patient setup. Our use of daily imaging is straightforward and only adds approximately three minutes to each fraction. Although global population data might provide an ability to create a class solution for PTV expansion, we have shown that there is an important minority who would not receive the planned dose distribution if we did not use daily imaging to check positioning immediately before treatment of each fraction.</p></sec><sec id="acm20026-sec-0007"><title>V. CONCLUSIONS</title><p>When thermoplastic head&#x02010;neck&#x02010;shoulder immobilization and customized headrests are used, isocenter positioning accuracy can be excellent, but shoulder positioning is more variable. For some patients, this variability can be dosimetrically important. Frequent imaging of head and neck IMRT patients is important to accurate delivery of therapy. It is essential for the imaging field size to show the entire treatment area, as shoulder position is an important factor and the most variable aspect of positioning. Weekly imaging, while giving some feedback on positioning, does not identify these variations in positioning.</p></sec></body><back><ref-list id="acm20026-bibl-0001"><title>REFERENCES</title><ref id="c1"><label>1</label><mixed-citation publication-type="journal" id="cit1">
+<string-name>
+<surname>Astreinidou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Raaijmakers</surname>
+<given-names>CPJ</given-names>
+</string-name>. <article-title>Adequate margins for random setup uncertainties in head&#x02010;and&#x02010;neck IMRT</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2005</year>;<volume>61</volume>(<issue>3</issue>):<fpage>938</fpage>&#x02013;<lpage>944</lpage>.<pub-id pub-id-type="pmid">15708278</pub-id></mixed-citation></ref><ref id="c2"><label>2</label><mixed-citation publication-type="journal" id="cit2">
+<string-name>
+<surname>Cozzi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fogliata</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bolsi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nicolini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bernier</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Three&#x02010;dimensional conformal vs. intensity&#x02010;modulated radiotherapy in head&#x02010;and&#x02010;neck cancer patients: Comparative analysis of dosimetric and technical parameters</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2004</year>;<volume>58</volume>(<issue>2</issue>):<fpage>617</fpage>&#x02013;<lpage>624</lpage>.<pub-id pub-id-type="pmid">14751535</pub-id></mixed-citation></ref><ref id="c3"><label>3</label><mixed-citation publication-type="journal" id="cit3">
+<string-name>
+<surname>Hansen</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name>
+<surname>Bucci</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Quivey</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Weinberg</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Repeat CT imaging and replanning during the course of IMRT for head&#x02010;and&#x02010;neck cancer</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2006</year>;<volume>64</volume>(<issue>2</issue>):<fpage>355</fpage>&#x02013;<lpage>362</lpage>.<pub-id pub-id-type="pmid">16256277</pub-id></mixed-citation></ref><ref id="c4"><label>4</label><mixed-citation publication-type="journal" id="cit4">
+<string-name>
+<surname>Wolden</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Wexler</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Kraus</surname>
+<given-names>DH</given-names>
+</string-name>, et al. <article-title>Intensity&#x02010;modulated radiotherapy for head&#x02010;and&#x02010;neck rhabdomyosarcoma</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2005</year>;<volume>61</volume>(<issue>5</issue>):<fpage>1432</fpage>&#x02013;<lpage>1438</lpage>.<pub-id pub-id-type="pmid">15817347</pub-id></mixed-citation></ref><ref id="c5"><label>5</label><mixed-citation publication-type="journal" id="cit5">
+<string-name>
+<surname>Engelsman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Michaud</surname>
+<given-names>SL</given-names>
+</string-name>, et al. <article-title>Intra&#x02010; and interfractional patient motion for a variety of immobilization devices</article-title>. <source>Med Phys.</source>
+<year>2005</year>;<volume>32</volume>(<issue>11</issue>):<fpage>3468</fpage>&#x02013;<lpage>3474</lpage>.<pub-id pub-id-type="pmid">16372417</pub-id></mixed-citation></ref><ref id="c6"><label>6</label><mixed-citation publication-type="journal" id="cit6">
+<string-name>
+<surname>Linthout</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Verellen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tournel</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Storme</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Six dimensional analysis with daily stereoscopic x&#x02010;ray imaging of intrafraction patient motion in head and neck treatments using five points fixation masks</article-title>. <source>Med Phys.</source>
+<year>2006</year>;<volume>33</volume>(<issue>2</issue>):<fpage>504</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">16532958</pub-id></mixed-citation></ref><ref id="c7"><label>7</label><mixed-citation publication-type="journal" id="cit7">
+<string-name>
+<surname>Gilbeau</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Octave&#x02010;Prignot</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Loncol</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Comparison of setup accuracy of three different thermoplastic masks for the treatment of brain and head and neck tumors</article-title>. <source>Radiother Oncl.</source>
+<year>2001</year>;<volume>58</volume>(<issue>2</issue>):<fpage>155</fpage>&#x02013;<lpage>162</lpage>.</mixed-citation></ref><ref id="c8"><label>8</label><mixed-citation publication-type="journal" id="cit8">
+<string-name>
+<surname>van Lin</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>van der Vight</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Huizenga</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Set&#x02010;up improvement in head and neck radiotherapy using a 3D off&#x02010;line EPID&#x02010;based correction protocol and a customized head and neck support</article-title>. <source>Radiother Oncl.</source>
+<year>2003</year>;<volume>68</volume>(<issue>2</issue>):<fpage>137</fpage>&#x02013;<lpage>148</lpage>.</mixed-citation></ref><ref id="c9"><label>9</label><mixed-citation publication-type="journal" id="cit9">
+<string-name>
+<surname>Fuss</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Salter</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Cheek</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Repositioning accuracy of a commercially available thermoplastic mask system</article-title>. <source>Radiother Oncl.</source>
+<year>2004</year>;<volume>71</volume>(<issue>3</issue>):<fpage>339</fpage>&#x02013;<lpage>345</lpage>.</mixed-citation></ref><ref id="c10"><label>10</label><mixed-citation publication-type="journal" id="cit10">
+<string-name>
+<surname>Bentel</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Marks</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Hendren</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Brizel</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Comparison of two head and neck immobilization systems</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>1997</year>;<volume>38</volume>(<issue>4</issue>):<fpage>867</fpage>&#x02013;<lpage>873</lpage>.<pub-id pub-id-type="pmid">9240656</pub-id></mixed-citation></ref><ref id="c11"><label>11</label><mixed-citation publication-type="journal" id="cit11">
+<string-name>
+<surname>Karger</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Jakel</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Debus</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Three&#x02010;dimensional accuracy and interfractional reproducibility of patient fixation and positioning using a stereotactic head mask system</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2001</year>;<volume>49</volume>(<issue>5</issue>):<fpage>1493</fpage>&#x02013;<lpage>1504</lpage>.<pub-id pub-id-type="pmid">11286858</pub-id></mixed-citation></ref><ref id="c12"><label>12</label><mixed-citation publication-type="journal" id="cit12">
+<string-name>
+<surname>Sharp</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lewin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Randomized trial on two types of thermoplastic masks for patient immobilization during radiation therapy for head&#x02010;and&#x02010;neck cancer</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2005</year>;<volume>61</volume>(<issue>1</issue>):<fpage>250</fpage>&#x02013;<lpage>256</lpage>.<pub-id pub-id-type="pmid">15629618</pub-id></mixed-citation></ref><ref id="c13"><label>13</label><mixed-citation publication-type="journal" id="cit13">
+<string-name>
+<surname>McKenzie</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>How should breathing motion be combined with other errors when drawing margins around the clinical target volumes?</article-title>
+<source>Br J Radiol.</source>
+<year>2000</year>;<volume>73</volume>(<issue>873</issue>):<fpage>973</fpage>&#x02013;<lpage>977</lpage>.<pub-id pub-id-type="pmid">11064651</pub-id></mixed-citation></ref><ref id="c14"><label>14</label><mixed-citation publication-type="journal" id="cit14">
+<string-name>
+<surname>van Herk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Remeijer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rasch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lebesque</surname>
+<given-names>JV</given-names>
+</string-name>. <article-title>The probability of correct target dosage: Dose&#x02010;population histograms for deriving treatment margins in radiotherapy</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2000</year>;<volume>47</volume>(<issue>4</issue>):<fpage>1121</fpage>&#x02013;<lpage>1135</lpage>.<pub-id pub-id-type="pmid">10863086</pub-id></mixed-citation></ref><ref id="c15"><label>15</label><mixed-citation publication-type="journal" id="cit15">
+<string-name>
+<surname>Stroom</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>de Boer</surname>
+<given-names>HCJ</given-names>
+</string-name>, <string-name>
+<surname>Huizinga</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Visser</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Inclusion of geometrical uncertainties in radiotherapy treatment planning by means of coverage probability</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>1999</year>;<volume>43</volume>(<issue>4</issue>):<fpage>905</fpage>&#x02013;<lpage>919</lpage>.<pub-id pub-id-type="pmid">10098447</pub-id></mixed-citation></ref><ref id="c16"><label>16</label><mixed-citation publication-type="journal" id="cit16">
+<string-name>
+<surname>McKenzie</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>van Herk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mijnheer</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>The width of margins in radiotherapy treatment plans</article-title>. <source>Phys Med Biol.</source>
+<year>2000</year>;<volume>45</volume>(<issue>11</issue>);<fpage>3331</fpage>&#x02013;<lpage>3342</lpage>.<pub-id pub-id-type="pmid">11098907</pub-id></mixed-citation></ref><ref id="c17"><label>17</label><mixed-citation publication-type="journal" id="cit17">
+<string-name>
+<surname>van Herk</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Errors and Margins in Radiotherapy</article-title>. <source>Semin Radiat Oncol.</source>
+<year>2004</year>;<volume>14</volume>(<issue>1</issue>):<fpage>52</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">14752733</pub-id></mixed-citation></ref><ref id="c18"><label>18</label><mixed-citation publication-type="journal" id="cit18">
+<string-name>
+<surname>Zhang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>A region&#x02010;of&#x02010;interest analysis of setup uncertainties in head and neck radiotherapy</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2005</year>;<volume>63</volume>:<fpage>S88</fpage> &#x02013; <lpage>S89</lpage>.</mixed-citation></ref><ref id="c19"><label>19</label><mixed-citation publication-type="journal" id="cit19">
+<string-name>
+<surname>Thorstad</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hope</surname>
+<given-names>AJ</given-names>
+</string-name>, et al. <article-title>Patterns of failure in patients receiving intensity modulated radiation therapy (IMRT) for head and neck cancer</article-title>. <source>Int J Radiat Oncol Biol Phys.</source>
+<year>2005</year>;<volume>63</volume>:<fpage>S74</fpage>.</mixed-citation></ref></ref-list></back></article>

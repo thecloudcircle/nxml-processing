@@ -1,0 +1,632 @@
+
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="article-commentary"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer</journal-id><journal-id journal-id-type="iso-abbrev">Cancer</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1097-0142</journal-id><journal-id journal-id-type="publisher-id">CNCR</journal-id><journal-title-group><journal-title>Cancer</journal-title></journal-title-group><issn pub-type="ppub">0008-543X</issn><issn pub-type="epub">1097-0142</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26695702</article-id><article-id pub-id-type="pmc">4864440</article-id><article-id pub-id-type="doi">10.1002/cncr.29814</article-id><article-id pub-id-type="publisher-id">CNCR29814</article-id><article-categories><subj-group subj-group-type="overline"><subject>Commentary</subject></subj-group><subj-group subj-group-type="heading"><subject>Commentaries</subject></subj-group></article-categories><title-group><article-title>Delivering a research&#x02010;enabled multistakeholder partnership for enhanced patient care at a population level: The Northern Ireland Comprehensive Cancer Program</article-title><alt-title alt-title-type="right-running-head">Research&#x02010;Enabled Cancer Patient Care</alt-title><alt-title alt-title-type="left-running-head">Lawler et al</alt-title></title-group><contrib-group><contrib id="cncr29814-cr-0001" contrib-type="author" corresp="yes"><name><surname>Lawler</surname><given-names>Mark</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr29814-cr-0002" contrib-type="author"><name><surname>Gavin</surname><given-names>Anna</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="cncr29814-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cncr29814-cr-0003" contrib-type="author"><name><surname>Salto&#x02010;Tellez</surname><given-names>Manuel</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cncr29814-cr-0004" contrib-type="author"><name><surname>Kennedy</surname><given-names>Richard D.</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cncr29814-cr-0005" contrib-type="author"><name><surname>Van Schaeybroeck</surname><given-names>Sandra</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr29814-cr-0006" contrib-type="author"><name><surname>Wilson</surname><given-names>Richard H.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cncr29814-cr-0007" contrib-type="author"><name><surname>Harkin</surname><given-names>Denis Paul</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cncr29814-cr-0008" contrib-type="author"><name><surname>Grayson</surname><given-names>Margaret</given-names></name><xref ref-type="aff" rid="cncr29814-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cncr29814-cr-0009" contrib-type="author"><name><surname>Boyd</surname><given-names>Ruth E.</given-names></name><xref ref-type="aff" rid="cncr29814-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cncr29814-cr-0010" contrib-type="author"><name><surname>Hamilton</surname><given-names>Peter W.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="cncr29814-cr-0011" contrib-type="author"><name><surname>McArt</surname><given-names>Darragh G.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr29814-cr-0012" contrib-type="author"><name><surname>James</surname><given-names>Jacqueline</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="cncr29814-cr-0013" contrib-type="author"><name><surname>Robson</surname><given-names>Tracy</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="cncr29814-cr-0014" contrib-type="author"><name><surname>Ladner</surname><given-names>Robert D.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="cncr29814-cr-0015" contrib-type="author"><name><surname>Prise</surname><given-names>Kevin M.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr29814-cr-0016" contrib-type="author"><name><surname>O'Sullivan</surname><given-names>Joe M.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cncr29814-cr-0017" contrib-type="author"><name><surname>Harrison</surname><given-names>Timothy</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cncr29814-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="cncr29814-cr-0018" contrib-type="author"><name><surname>Murray</surname><given-names>Liam</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="cncr29814-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="cncr29814-cr-0019" contrib-type="author"><name><surname>Johnston</surname><given-names>Patrick G.</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cncr29814-cr-0020" contrib-type="author"><name><surname>Waugh</surname><given-names>David J.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="cncr29814-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="cncr29814-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Centre for Cancer Research and Cell Biology</named-content><institution>Queen's University Belfast</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Northern Ireland Cancer Registry, Centre for Public Health</named-content><institution>Queen's University Belfast</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Northern Ireland Molecular Pathology Laboratory, Centre for Cancer Research and Cell Biology</named-content><institution>Queen's University Belfast</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0004"><label><sup>4</sup></label><institution>Almac Diagnostics</institution><named-content content-type="city">Craigavon</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0005"><label><sup>5</sup></label><institution>Northern Ireland Cancer Centre</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0006"><label><sup>6</sup></label><institution>Northern Ireland Cancer Research Consumer Forum</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0007"><label><sup>7</sup></label><institution>PathXL, Innovation Centre, Northern Ireland Science Park</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0008"><label><sup>8</sup></label><named-content content-type="organisation-division">Northern Ireland Biobank, Centre for Cancer Research and Cell Biology</named-content><institution>Queen's University Belfast</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0009"><label><sup>9</sup></label><named-content content-type="organisation-division">School of Pharmacy</named-content><institution>Queen's University Belfast</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0010"><label><sup>10</sup></label><named-content content-type="organisation-division">CV6 Therapeutics, Centre for Cancer Research and Cell Biology</named-content><institution>Queen's University Belfast</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0011"><label><sup>11</sup></label><institution>Almac Discovery</institution><named-content content-type="city">Craigavon</named-content><country country="GB">United Kingdom</country></aff><aff id="cncr29814-aff-0012"><label><sup>12</sup></label><institution>Centre for Public Health, Queen's University Belfast</institution><named-content content-type="city">Belfast</named-content><country country="GB">United Kingdom</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Corresponding author:</bold> Mark Lawler, PhD, Centre for Cancer Research and Cell Biology, Queen's University Belfast, 97 Lisburn Rd, Belfast, UK; Fax: (011) 44 028 9097 2776; <email>mark.lawler@qub.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>12</month><year>2015</year></pub-date><pub-date pub-type="ppub"><day>01</day><month>3</month><year>2016</year></pub-date><volume>122</volume><issue>5</issue><issue-id pub-id-type="doi">10.1002/cncr.v122.5</issue-id><fpage>664</fpage><lpage>673</lpage><history><date date-type="received"><day>20</day><month>7</month><year>2015</year></date><date date-type="rev-recd"><day>28</day><month>10</month><year>2015</year></date><date date-type="accepted"><day>04</day><month>11</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 American Cancer Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>Cancer</italic> published by Wiley Periodicals, Inc. on behalf of <italic>American Cancer Society</italic>.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:CNCR-122-664.pdf"/><abstract abstract-type="short"><p>The last 20 years have seen significant advances in cancer care in Northern Ireland, leading to measureable improvements in patient outcomes. Crucial to this transformation has been an ethos that recognizes the primacy role of research in effecting heath care change. The authors' model of a cross&#x02010;sectoral partnership that unites patients, scientists, health care professionals, hospital trusts, bioindustry, and government agencies can be truly transformative, empowering tripartite clinical&#x02010;academic&#x02010;industry efforts that have already yielded significant benefit and will continue to inform strategy and its implementation going forward.</p></abstract><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>cncr29814</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 1, 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:23.06.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="cncr29814-sec-0001"><title>INTRODUCTION</title><p>
+<italic>&#x0201c;This Centre is forging global partnerships to relieve the human suffering from cancer.&#x0201d;</italic>
+</p><p>The words of former US Senator George Mitchell, captured on a giant 10&#x02010;meter high banner, greet every visitor to the Centre for Cancer Research and Cell Biology (CCRCB) at Queen's University Belfast (QUB) in Northern Ireland (NI), reflecting the aspiration to match local ambition with global collaboration to achieve better outcomes for patients with cancer. The opening of the CCRCB by Senator Mitchell represented an important step in a capacity&#x02010;building initiative that commenced in the mid&#x02010;1990s to address the fragmented and uncoordinated nature of cancer care and research in NI.</p></sec><sec id="cncr29814-sec-0002"><title>THE CHALLENGE: FRAGMENTED CANCER SERVICES AND POOR CANCER OUTCOMES</title><p>The publication of the Campbell Report in 1996<sup>1</sup> highlighted significant deficiencies in cancer services in NI. For example, among patients with breast cancer, there was wide variation in treatment provision across the province. Although some patients received quality care from specialist breast cancer teams, audit data indicated that 64% of surgeons in NI had performed &#x0003c;10 breast cancer surgeries per year.<xref rid="cncr29814-bib-0001" ref-type="ref">1</xref> Similar issues were identified for several other malignancies, such that NI had the poorest cancer outcomes in the United Kingdom for the majority of cancers.<xref rid="cncr29814-bib-0002" ref-type="ref">2</xref> However, as well as highlighting the problems that an uncoordinated cancer care system with a limited and underresourced cancer research activity can pose, the Campbell Report<xref rid="cncr29814-bib-0001" ref-type="ref">1</xref> also provided a blueprint for change, recommending the development and implementation of a population&#x02010;level cancer plan that emphasized the need for a comprehensive and coordinated research&#x02010;enabled partnership approach to achieve improved outcomes for patients with cancer. Key principles of this strategy included: 1) the consolidation and expansion of cancer services within an overarching cancer center framework; 2) the production of comprehensive incidence and mortality data through a research&#x02010;active national cancer registry; 3) the introduction of robust cancer screening services; and 4) the development of an expanded research capacity to enable discovery science to be translated into clinical applications.</p></sec><sec id="cncr29814-sec-0003"><title>RESPONDING TO THE CHALLENGE: EXEMPLARS OF AN INTEGRATED PARTNERSHIP&#x02010;ENABLED APPROACH TO IMPROVING CANCER CARE AND RESEARCH</title><p>The question remains: were the ambitions of the Campbell Report rewarded with measurable outputs of success? In the clinical setting, the introduction of a province&#x02010;wide 2&#x02010;view mammography screening program (unlike the single&#x02010;view approach that was used initially in the rest of the United Kingdom) raised attendance levels at breast screening clinics from just under 30% to nearly 80% and resulted in better detection of small invasive cancers. Breast cancer services were reorganized to ensure patients were seen by specialist teams with dedicated breast cancer surgeons rather than general surgeons with low&#x02010;volume activity as had been the case previously. Enhanced screening, in combination with this consolidation of breast cancer services, yielded a decrease in breast cancer mortality of 29.6% by 2006.<xref rid="cncr29814-bib-0003" ref-type="ref">3</xref> Continuing this upward trend, by 2013, survival in NI for breast cancer was the highest in the United Kingdom (81.9%) compared with England (79.3%), Scotland (78.5%), and Wales (78.2%).<xref rid="cncr29814-bib-0004" ref-type="ref">4</xref>
+</p><p>From a public health perspective, the ability to capture NI population&#x02010;level data through the precise development and interrogation of comprehensive population&#x02010;based cohorts, particularly in patients with cancers of the gastrointestinal tract, has yielded findings that not only increased our understanding of disease etiology but also delivered population&#x02010;relevant, practice&#x02010;changing clinical interventions. The NI Barrett Esophagus Register<xref rid="cncr29814-bib-0005" ref-type="ref">5</xref> is to our knowledge one of the largest population&#x02010;based registries of Barrett esophagus (BE) in the world (&#x0003e;13,000), and includes every patient in NI diagnosed between 1993 and 2010. The precise evaluation of this unrivalled resource has revealed that progression from BE to esophageal cancer is lower than was previously suspected,<xref rid="cncr29814-bib-0006" ref-type="ref">6</xref> thus questioning the cost&#x02010;effectiveness of a BE surveillance program. Research on the NI BE cohort has also revealed that smoking leads to a 2&#x02010;fold increase in the risk of esophageal cancer,<xref rid="cncr29814-bib-0007" ref-type="ref">7</xref> emphasizing the need for smoking cessation strategies for patients with BE. The availability of population&#x02010;based cohorts for colorectal adenoma/colorectal cancer (CRC) has also contributed to research with potentially practice&#x02010;changing clinical implications.<xref rid="cncr29814-bib-0008" ref-type="ref">8</xref> Pharmacoepidemiological studies of general practitioner databases have shown that bisphosphonates (which are increasingly used to treat osteoporosis but are potentially associated with a higher risk of esophagitis) do not lead to an increased risk of esophageal cancer,<xref rid="cncr29814-bib-0009" ref-type="ref">9</xref> thus supporting their continued use for the treatment of a common complication, particularly in postmenopausal women. Similar investigations of the use of statins after diagnosis have indicated that these drugs may increase overall survival in patients with CRC.<xref rid="cncr29814-bib-0010" ref-type="ref">10</xref>
+</p><p>From the perspective of translational research, biomarker and drug discovery research has underpinned the development of new prognostic/predictive tests and the identification of novel agents with therapeutic potential. For example, in CRC, gene expression profiling in &#x0003e;500 patients with AJCC TNM stage II disease (using proprietary CRC disease&#x02010;specific array technology developed in collaboration with Almac Diagnostics [Craigavon, UK]) has led to the identification of a 634&#x02010;gene signature (ColDx). Initial validation of this signature in primary tumors from 215 patients with AJCC TNM stage II disease from 12 centers as part of an international clinical trial yielded positive results that outperformed conventional clinicopathological risk factors (hazard ratio of 2.53 [95% confidence interval,1.54&#x02010;4.15] [<italic>P</italic>&#x02009;=&#x02009;.0003] for 5&#x02010;year recurrence&#x02010;free survival and 2.21 [<italic>P</italic>&#x02009;=&#x02009;.008] for cancer&#x02010;related death).<xref rid="cncr29814-bib-0011" ref-type="ref">11</xref> This research has resulted in the development, commercialization, and licensing of a molecular test (GeneFx Colon; Helomics, Pittsburgh, Pa) with significant prognostic potential.<xref rid="cncr29814-bib-0012" ref-type="ref">12</xref>
+</p><p>These exemplars highlight the relevance of a cross&#x02010;sectoral, patient&#x02010;focused partnership (involving clinicians, allied health care professionals, pathologists, patient advocates, basic and translational scientists, bioinformaticians, biostatisticians, and the biotech/biopharma industry) to improve patient outcomes. The success of this partnership was recognized in 2012, when Queen Elizabeth II presented her Queen's Diamond Jubilee Award to the Vice Chancellor and the Dean of Medicine of QUB, thus valorizing the impact of the university&#x02010;led comprehensive cancer program on patient care.<xref rid="cncr29814-bib-0013" ref-type="ref">13</xref>
+</p></sec><sec id="cncr29814-sec-0004"><title>COMPREHENSIVE CANCER CARE IN NI: PARTNERSHIP AND INTEGRATION</title><p>The development of an integrated cancer plan, aggregating services and expertise around a single comprehensive cancer center,<xref rid="cncr29814-bib-0001" ref-type="ref">1</xref> and the implementation of a collaborative translational research strategy that values innovation and cross&#x02010;sectoral partnership have, as outlined above, underpinned a significant change in the last 20 years. The cross&#x02010;sectoral embrace of the program is key to its ongoing activities, connecting patient research advocacy, academic endeavor, industry rigor, and clinical excellence in an added&#x02010;value partnership (underpinned by support from government agencies, industry and academic leaders, National Health Service Hospital Trusts, research councils, and charities) that drives a translational continuum from discovery science to clinical application. Herein, we detail the collaborative activities of the key stakeholders that catalyzed and delivered a truly transformative change for patients with cancer in NI.</p><sec id="cncr29814-sec-0005"><title>Cancer at the Population Level: The Northern Ireland Cancer Registry</title><p>Having a functional, research&#x02010;enabled cancer registry that captures population&#x02010;level data has played a key role in the development of the comprehensive cancer program in NI. The Northern Ireland Cancer Registry (NICR) (<ext-link ext-link-type="uri" xlink:href="http://www.qub.ac.uk/research-centers/nicr/">www.qub.ac.uk/research-centers/nicr/</ext-link>) was founded in 1994 and demonstrates the value of an intersectoral partnership located within the Centre for Public Health at QUB, but funded through NI's Public Health Agency, a government body. Capturing cancer incidence, prevalence, and survival data at an entire population level is a vital resource, underpinning not only cancer research efforts but also service planning and cancer policy initiatives. Unlike many other European registries in which data coverage can be suboptimal (varying from 17%&#x02010;100%, with a European average of 50%),<xref rid="cncr29814-bib-0014" ref-type="ref">14</xref> data coverage in the NICR is extremely high, with a registry completeness of 100%.<xref rid="cncr29814-bib-0015" ref-type="ref">15</xref> In 1995, the NICR established what to our knowledge is the first entirely electronic total population&#x02010;based cancer registry in the world. The NICR embraces the outreach ethos that Senator Mitchell highlighted, contributing significantly to European and international initiatives including EUROCARE (a collaborative research project on cancer survivorship in Europe), the International Cancer Benchmarking Partnership (ICBP), and RARECARENet (an information network on rare cancers in Europe).<xref rid="cncr29814-bib-0003" ref-type="ref">3</xref>, <xref rid="cncr29814-bib-0004" ref-type="ref">4</xref>, <xref rid="cncr29814-bib-0016" ref-type="ref">16</xref> An added&#x02010;value aspect of the NICR is its ability to collect data across the entire cancer journey because health and social care in NI are linked at a service delivery level, thus increasing the potential impact for both patients with cancer and cancer survivors. The NICR is increasingly patient&#x02010;focused and has recently commenced a &#x000a3;2.1&#x02010;million ($3.23&#x02010;million) Movember&#x02010;funded program to evaluate patient&#x02010;reported outcomes in individuals with prostate cancer.</p></sec><sec id="cncr29814-sec-0006"><title>Molecular Pathology: The Foundation of Innovation</title><p>The establishment of the Northern Ireland Molecular Pathology Laboratory<xref rid="cncr29814-bib-0017" ref-type="ref">17</xref> and the Northern Ireland Biobank (<ext-link ext-link-type="uri" xlink:href="http://www.nibiobank.org">www.nibiobank.org</ext-link>) have been key infrastructural components of the translational research approach, providing a tripartite linkage between QUB, the hospital trusts, and the bioindustry sector. Collecting high&#x02010;quality, clinically annotated biospecimens, both for specific targeted cohorts and on a population basis through the Northern Ireland Biobank, has provided additional impetus to the translational research effort, delivering a rich resource with which to maximize the clinical impact of discovery science in molecular diagnostics, molecular therapeutics, and molecular cancer epidemiology.</p><p>Molecular pathology is a key enabler of the precision cancer medicine revolution, accelerating the introduction of new therapies through the discovery, validation, and clinical application of biomarkers for patient stratification and the evaluation of disease response. We have developed a hybrid molecular pathology model, moving away from the traditional division between diagnostics and translational research. In this model,<xref rid="cncr29814-bib-0018" ref-type="ref">18</xref> we apply the same analytical, quality&#x02010;control, and organizational rigor to research discovery and its translation as we do to pathology test validation and its clinical application. The capability to perform both diagnostic and research functions is housed within a single &#x0201c;hybrid&#x0201d; laboratory infrastructure, with appropriate laboratory accreditation, thus ensuring the robust delivery of both the diagnostic requirements and the research translation activities of the program.</p><p>Within this integrated environment, we have also embedded digital pathology and automated quantitative imaging of tissue biomarkers,<xref rid="cncr29814-bib-0019" ref-type="ref">19</xref> providing a platform for accelerated discovery, validation, and translation in patients with solid tumors. To realize the value of the comprehensive &#x0201c;omic&#x0201d; interrogation of cancer biospecimens, we developed a novel translational platform, PICan (Pathology Integromics in Cancer) (Fig. <xref rid="cncr29814-fig-0001" ref-type="fig">1</xref>),<xref rid="cncr29814-bib-0020" ref-type="ref">20</xref> that integrates all laboratory data (traditional, molecular, and digital pathology) with relevant clinical information, thus maximizing our ability to discover new biomarkers/therapeutic targets. PICan's integromics framework was tested and valorized in a study of a 288 tissue microarray cores from a cohort of patients with breast cancer, incorporating image&#x02010;related information including p53 immunohistochemistry and tissue pathology, mutational analysis, next&#x02010;generation sequencing, and unsupervised clustering of gene expression profiling, in combination with clinical data to comprehensively probe the involvement of p53 in breast cancer.<xref rid="cncr29814-bib-0020" ref-type="ref">20</xref> PICan's browser&#x02010;based approach allows for data analysis and interpretation and digital image assessment to be achieved seamlessly, facilitating the incorporation of multiple high&#x02010;dimensional data into a single searchable interface. The translational bioinformatics team continues to build on this unique platform for internal tissue biomarker discovery and validation of multiplex genomic signatures.</p><fig fig-type="Figure" xml:lang="en" id="cncr29814-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The PICan (Pathology Integromics in Cancer Platform) translational platform.</p></caption><graphic id="nlm-graphic-1" xlink:href="CNCR-122-664-g001"/></fig><p>Moving forward, a QUB&#x02010;led collaborative approach with centers at the University of Southampton, University College London, University of Manchester, University of Newcastle, and University of Leicester that was recently supported through 1 of 5 Cancer Research UK (CRUK) Centres Network Accelerator Awards<xref rid="cncr29814-bib-0021" ref-type="ref">21</xref> will allow this integrated digital and molecular pathology model to be standardized and adopted at a UK level.</p></sec><sec id="cncr29814-sec-0007"><title>Bringing Precision Medicine to the Clinic: The NI Cancer Trials Centre and the Experimental Cancer Medicine Centre</title><p>In 1999, a historic agreement was signed between the US National Cancer Institute (NCI) and the departments of health in both the Republic of Ireland and NI. The NCI&#x02010;Ireland&#x02010;Northern Ireland Memorandum of Understanding underpinned the development of appropriate infrastructure in cancer epidemiology, cancer care, and cancer research and education on the island of Ireland<xref rid="cncr29814-bib-0022" ref-type="ref">22</xref> and its outputs and legacy are the subject of a separate publication (unpublished data). From the perspective of clinical cancer research and cancer treatment, one of the first key outcomes from this agreement was the establishment of a robust cancer clinical trials infrastructure through the creation of the Northern Ireland Cancer Clinical Trials Unit (now known as the Northern Ireland Cancer Trials Centre). Since its establishment in early 2000, the Northern Ireland Cancer Trials Centre has significantly enhanced participation in cancer clinical trials in Northern Ireland, such that in the period between April 2013 and March 2014, a total of 1665 patients in Northern Ireland were recruited to cancer clinical trials and related translational studies, a rate that is nearly twice the recruitment target of 850 patients (10% of the incident cancers in NI).<xref rid="cncr29814-bib-0023" ref-type="ref">23</xref>
+</p><p>This enhanced cancer clinical trial activity, underpinned by patient&#x02010;focused discovery research and its translation, led to the subsequent designation of the CCRCB as a CRUK center (one of the first to be established in the United Kingdom) in 2009 and a Department of Health/CRUK Experimental Cancer Medicine Centre (ECMC) in 2007. Focused on driving early&#x02010;phase clinical trials, the ECMC provides the perfect conduit for translating discovery science conducted within the research program into new treatments for patients with cancer.</p><p>A key exemplar of this approach has resulted from a discovery joint research program between QUB, Almac Discovery, and Almac Diagnostics. Discovery research revealed that the endogenous protein FKBPL (FK506 binding&#x02010;like) has significant antiangiogenic properties and is mediated through a CD44&#x02010;dependent mechanism.<xref rid="cncr29814-bib-0024" ref-type="ref">24</xref>, <xref rid="cncr29814-bib-0025" ref-type="ref">25</xref> In collaboration with Almac Discovery, a 23&#x02010;amino acid linear peptide that represents the active domain of FKBPL has been developed (ALM201). QUB is now leading a national first&#x02010;in&#x02010;human phase 1 clinical trial of this novel antiangiogenic peptide, ALM201,<xref rid="cncr29814-bib-0026" ref-type="ref">26</xref> for the treatment of platinum&#x02010;resistant ovarian cancer (EudraCT number: 2014&#x02010;001175&#x02010;31). This trial is now actively recruiting patients across 3 ECMC locations in the United Kingdom and will be biomarker&#x02010;driven, using a novel &#x0201c;angiogenic (AADX) signature&#x0201d; developed by Almac Diagnostics and Edinburgh University to select patients for the expansion phase of the trial.</p><p>In patients with CRC, research within the center concerning drug&#x02010;resistant signaling pathways implicated activation of c&#x02010;MET as a key mediator of resistance to MEK inhibition in patients with <italic>KRAS&#x02010;</italic>mutant CRC,<xref rid="cncr29814-bib-0027" ref-type="ref">27</xref> providing the rationale for a successful &#x020ac;6&#x02010;million (approximately $6.65 million) European Commission Framework VII&#x02010;funded bid for the CCRCB to lead a pan&#x02010;European translational clinical trial program with 13 partners from 7 European countries (MErCuRIC trial) (mercuric.eu/). The novel therapeutic strategy of the MErCuRIC trial investigates the combination of a MET and a MEK inhibitor to combat metastasis, improve survival, and potentially develop a new clinical intervention approach in patients with this poor&#x02010;prognosis subtype of CRC.</p><p>In patients with prostate cancer, QUB, in partnership with the University of Manchester, has been awarded a &#x000a3;5&#x02010;million (approximately $7.8 million) program to establish FASTMAN (BelFAST MANchester), an International Movember Centre of Excellence in Prostate Cancer Research<xref rid="cncr29814-bib-0028" ref-type="ref">28</xref> to address the issue of disease recurrence and the use of advanced radiotherapy and DNA damage&#x02010;inducing treatments in this disease. All these examples emphasize how complimentary partnerships with academia and/or bioindustry are driving our precision medicine pipeline, and delivering novel and informed opportunities to benefit patients.</p></sec><sec id="cncr29814-sec-0008"><title>Crossing the Rubicon: Bridging the Academia&#x02010;Industry Divide</title><p>The significant resources invested by the pharmaceutical industry to create &#x0201c;in&#x02010;house&#x0201d; oncology research and development capacity has yielded limited success rates for new drug approvals, and therapeutic improvements that can often only be considered as marginal.<xref rid="cncr29814-bib-0029" ref-type="ref">29</xref>, <xref rid="cncr29814-bib-0030" ref-type="ref">30</xref> Within the CCRCB, our investigators have been quick to adopt a team science approach, but also to realize that team science is not the sole preserve of academia and also should straddle the academia&#x02010;industry intersect for mutual advantage and benefit to patients. In pooling resources and expertise, we have promoted the belief that we derisk biomarker and drug discovery/development programs, allowing for the delivery of transformative solutions that will improve patient outcomes. Assets such as the antiangiogenic peptide ALM201<xref rid="cncr29814-bib-0026" ref-type="ref">26</xref> and the GeneFX Colon prognostic/predictive test<xref rid="cncr29814-bib-0012" ref-type="ref">12</xref> stemming from our collaborative pipeline as described above are now beginning to demonstrate the validity and merits of such an approach.</p></sec><sec id="cncr29814-sec-0009"><title>CCRCB&#x02010;Almac: A Mutually Productive Academia&#x02010;Industry Partnership</title><p>Recognizing the need to bridge the divide outlined above,<xref rid="cncr29814-bib-0031" ref-type="ref">31</xref> the CCRCB has promoted increased engagement between academia and industry. Almac is one of NI's leading indigenous companies, operating in the pharmaceutical and biotechnology sectors and employing &#x0003e;3500 employees worldwide. Within the Almac Group, Almac Diagnostics specializes in biomarker discovery and development. It has historical linkages with QUB, spinning out from the CCRCB in the early 2000s. The recent collaborative partnership, in operation since 2010, has been extremely productive, delivering a series of high&#x02010;impact publications<xref rid="cncr29814-bib-0011" ref-type="ref">11</xref>, <xref rid="cncr29814-bib-0032" ref-type="ref">32</xref>, <xref rid="cncr29814-bib-0033" ref-type="ref">33</xref> and several validated clinical tests, as well as licensing and collaborative agreements with global biotechnology/biopharmaceutical companies. For example, discovery DNA microarray analysis of the Fanconi anemia/BRCA DNA damage response (DDR) pathway identified a 44&#x02010;gene expression&#x02010;based DDR deficiency signature.<xref rid="cncr29814-bib-0032" ref-type="ref">32</xref> Evaluation of this 44&#x02010;gene signature in 3 independent data sets from 203 patients with breast cancer highlighted the ability of this biology to predict response to DNA&#x02010;damaging chemotherapy, leading to the development of a formalin&#x02010;fixed paraffin&#x02010;embedded tissue assay that was validated as a predictor of response in the neoadjuvant setting and recurrence&#x02010;free survival in the adjuvant setting after anthracycline/cyclophosphamide&#x02010;based therapy.<xref rid="cncr29814-bib-0032" ref-type="ref">32</xref>
+</p><p>CCRCB researchers, in collaboration with Almac Diagnostics, also have identified the potential for this biomarker to be relevant in patients with CRC, and this work has led to the CCRCB becoming a significant partner in a &#x000a3;5&#x02010;million (approximately $7.8 million) University of Oxford&#x02010;led Medical Research Council&#x02010;CRUK stratified medicine program in CRC (S&#x02010;CORT [Stratification in COloRecTal cancer]),<xref rid="cncr29814-bib-0034" ref-type="ref">34</xref> which brings together all the major UK centers in CRC research in a national collaborative partnership with bioindustry and patient advocacy groups. S&#x02010;CORT aims to develop novel validated biomarker tests to stratify patients for more effective chemotherapy&#x02010;based, radiotherapy&#x02010;based, or surgical or novel biological therapeutic interventions.<xref rid="cncr29814-bib-0035" ref-type="ref">35</xref>
+</p><p>Key joint academic industry appointments at the professorial level have helped to embed the QUB&#x02010;Almac partnership approach for mutual benefit. We have nurtured this close relationship, creating a &#x0201c;spin&#x02010;in&#x0201d; biomarker and drug discovery research hub, with &#x0003e;25 research scientists from Almac currently embedded within the CCRCB, operating in close proximity to the academic research programs. There have been tangible benefits to QUB, not least the adoption of an industry rigor to our core operation and research practice, together with an appreciably greater entrepreneurial culture permeating across the scientific and clinical staff. The physical integration of the collaborating research structures with their complementary skill sets has led to a productive acceleration of asset delivery within the biomarker and drug development pipelines as outlined above, and the industrial partner has recognized the value of direct access to the clinical expertise of the university/hospital to inform clinical development while exploiting the wider biomedical and medical expertise to appraise other potential exploitable medical indications for their products.</p></sec><sec id="cncr29814-sec-0010"><title>Embedding National and International Joint Academia&#x02010;Industry Partnerships</title><p>A crucial partner in enabling our precision medicine program has been the local government development agency, Invest Northern Ireland, which has recognized the importance of academic&#x02010;industrial collaboration in expanding the life science sector and directly contributing to the growth of the regional knowledge&#x02010;based economy. The success of the CCRCB&#x02010;Almac partnership model has been adapted further and supported to help embed other joint academia&#x02010;industry activities within the CCRCB. Such examples follow below.</p><sec id="cncr29814-sec-0011"><title>PathXL</title><p>PathXL (<ext-link ext-link-type="uri" xlink:href="http://www.pathxl.com">www.pathxl.com</ext-link>) is a digital pathology software company that spun out of the CCRCB and has become a global leader in the provision of innovative digital pathology solutions for biomarker/drug discovery research and clinical applications. The company, in partnership with the CCRCB, has pioneered a novel software algorithm (TissueMark) for automated tumor recognition and quantitative analysis for nucleic acid extraction and molecular diagnostics in solid tumors.<xref rid="cncr29814-bib-0036" ref-type="ref">36</xref> TissueMark was tested and validated for its ability to provide automated tumor annotation and measurement of the percentage of tumor nuclei in 245 hematoxylin and eosin&#x02010;stained slides from patients with non&#x02010;small cell lung cancer. The automated approach demonstrated strong concordance with manually drawn boundaries and automated analysis of cell counts for percentage tumor measurements by TissueMark demonstrated reduced variability and significant correlation (<italic>P</italic>&#x0003c;.001) with benchmark tumor cell counts.<xref rid="cncr29814-bib-0036" ref-type="ref">36</xref> This technology is now being applied across lung, colon, breast, and prostate cancer, thereby facilitating tissue&#x02010;based molecular assays including next&#x02010;generation sequencing. These studies have demonstrated that robust image analysis technology can facilitate the automated quantitative analysis of tissue samples for molecular profiling, bridging the gap between traditional anatomical pathology and molecular diagnostics and providing the appropriate quality for application in precision medicine.</p></sec><sec id="cncr29814-sec-0012"><title>CV6 Therapeutics</title><p>Attracting international bioindustry into the program, based on the academia&#x02010;industry partnership model described above, also has been successful. CV6 Therapeutics has relocated from the University of Southern California and is now embedded within the CCRCB.<xref rid="cncr29814-bib-0037" ref-type="ref">37</xref> Targeting a process such as thymidylate biosynthesis and the enzyme thymidylate synthase have been critical components of cancer treatment, with fluoropyrimidines such as 5&#x02010;fluorouracil and antifolates such as methotrexate underpinning therapeutic intervention in many solid tumors and hematological malignancies. Researchers at CV6 Therapeutics have characterized resistance mechanisms within the thymidylate biosynthesis pathway<xref rid="cncr29814-bib-0038" ref-type="ref">38</xref> and are using this knowledge to drive the development of new innovative therapeutic approaches that will have relevance and clinical applicability for many cancers. Complementing existing research in drug resistance mechanisms (particularly in CRC) by CCRCB researchers,<xref rid="cncr29814-bib-0027" ref-type="ref">27</xref>, <xref rid="cncr29814-bib-0039" ref-type="ref">39</xref>, <xref rid="cncr29814-bib-0040" ref-type="ref">40</xref>, <xref rid="cncr29814-bib-0041" ref-type="ref">41</xref> this partnership has significant potential to deliver new drug combinations and novel approaches with therapeutic potential.</p><p>Overall, our partnership model has proven attractive to the biotechnology and industry sectors, allowing distinct but complementary skills to be brought together in an academic environment that favors innovation, with the ability to unlock new collaborative funding schemes at local, national, and international levels. The model also enhances the opportunities for testing potential industry assets in appropriate clinical settings. Similar cross&#x02010;sectoral approaches are being developed in this cancer drug discovery space between the University of Manchester, GlaxoSmithKline, and Cancer Research Technology, with a particular emphasis on epigenetic targeting in cancer,<xref rid="cncr29814-bib-0042" ref-type="ref">42</xref> whereas Pfizer's Centers for Therapeutic Innovation are strategically placed in biomedical research hubs and aligned with academic centers in Boston, New York, San Diego, and San Francisco and have recently partnered with the National Institutes of Health's National Center for Advancing Translational Sciences.<xref rid="cncr29814-bib-0043" ref-type="ref">43</xref>
+</p></sec></sec><sec id="cncr29814-sec-0013"><title>Patient&#x02010;Focused Research: The Northern Ireland Cancer Research Consumer Forum</title><p>The patient voice is a key supporter of an evolving precision cancer medicine partnership to deliver personalized cancer care. The Northern Ireland Cancer Research Consumer Forum (NICRCF)<xref rid="cncr29814-bib-0023" ref-type="ref">23</xref> engages at the earliest stages of the translational process, being involved in research grant preparation (the NICRCF is a funded partner in both the MErCuRIC and S&#x02010;CORT programs) and submission, clinical trial design, and patient&#x02010;reported outcomes research, thus providing a distinctive and extremely beneficial added&#x02010;value flavor to the research effort. Patients increasingly want to be part of the research process. A recent strategic review of personal and public involvement (PPI) in research (commissioned by the National Institute for Health Research) emphasizes the importance of a partnership model.<xref rid="cncr29814-bib-0044" ref-type="ref">44</xref> In relation to cancer, a survey of 811 patients revealed that&#x02009;&#x0003e;&#x02009;90% indicated a desire for their samples to be used in future research, whereas a significant number of patients also indicated that they wanted to participate in genomic testing to allow for personalization of their treatment.<xref rid="cncr29814-bib-0045" ref-type="ref">45</xref> As a member of the European Patients' Academy on Therapeutic Innovation (EUPATI),<xref rid="cncr29814-bib-0046" ref-type="ref">46</xref> patient advocates from the NICRCF promote a wider appreciation among patients and the general public of the benefits and challenges of translational research and its application.</p><p>Although patient advocacy groups are particularly active within the global cancer community, a PPI that focuses primarily on research is unusual, particularly in the European context. NICRCF members have a very particular experience of cancer, either as a cancer survivor, a member of a family affected by cancer, or as a cancer caregiver, and are committed to work with cancer researchers and health care professionals to advance cancer research activities and initiatives. In collaboration with Macmillan Cancer Support, the NICRCF has piloted &#x0201c;Building Research Partnerships in Northern Ireland,&#x0201d; a shared learning activity between patients and health care professionals to support PPI in health and social research. Semiquantitative assessment of stage I (immediate evaluation) has indicated&#x02009;&#x0003e;&#x02009;95% efficacy in meeting participants' needs, whereas stage II of the activity (transfer of learning evaluation) is ongoing and its results are eagerly awaited. As part of the S&#x02010;CORT program, we also will attempt to measure the value that patient advocacy brings to research endeavors through a combination of surveys and qualitative/semiquantitative assessments. The NICRCF combines a pro&#x02010;research advocacy agenda with a gatekeeper function to ensure that the best, most ethically responsible research is conducted that delivers both academic excellence and patient relevance.</p></sec><sec id="cncr29814-sec-0014"><title>Education and Outreach: Innovative Doctoral Training and Public Engagement</title><p>At a clinical level, a clinical academic training program, mediated initially through fellowship training and short&#x02010;stay visits at the NCI and at NCI comprehensive cancer centers as part of the All&#x02010;Ireland&#x02010;NCI Cancer Consortium, underpinned the development of a cohort of individuals who have now assumed leadership roles in clinical oncology, radiation oncology, and cancer clinical trials. Specialist nursing expertise, particularly for cancer clinical trials, also was developed through this mechanism.</p><p>Underpinning the framework described above are a series of innovative educational and outreach activities. The CCRCB doctoral training program in precision cancer medicine is providing students not only with the scientific rigor and wet laboratory/bioinformatics skill sets with which to conduct high&#x02010;quality research, but also with the business, entrepreneurial, innovation, and leadership skills and acumen that will benefit them in their evolving careers. Embedding bioindustry, the QUB's Management School, and the William J. Clinton Leadership Institute within the educational program is ensuring the active transfer of relevant career&#x02010;enhancing skills to the students. A new aspect of the program is a recently established partnership with the NCI in the United States, allowing students to perform research at the NCI as part of their PhD studies. In this program, students first complete a Masters by Research degree in precision cancer medicine, acquiring not only the technical laboratory expertise but also the innovation, business, and leadership skills to underpin their future careers. Subsequent mentorship at the NCI as part of the NIH Graduate Partnership Program will provide the students with a comprehensive research training experience.</p><p>In pathology, we recognize the need for histopathologists to undergo molecular pathology training<xref rid="cncr29814-bib-0047" ref-type="ref">47</xref> and have developed a model for integrating specialist formal training in molecular diagnostic/molecular pathology within the existing 5&#x02010;year histopathology training curriculum.<xref rid="cncr29814-bib-0048" ref-type="ref">48</xref> The recent CRUK Accelerator Award is underpinning this innovative training program through a blended learning Masters in the Molecular Pathology of Cancer degree delivered by QUB for pathology trainees in Belfast, the University of Southampton, University College London, the University of Manchester, the University of Newcastle, and the University of Leicester.</p><p>From a public engagement perspective, a vibrant outreach program, supported through Cancer Research UK and local charities and delivered by our Engagement Committee, highlights our precision medicine approach to personalized cancer care. Precision medicine has been a significant theme at the inaugural NI Science Festival, the CCRCB Open Day, and a recent Culture Night event. These engagement events provide an essential opportunity to inform and educate our stakeholders of the importance of research to improving patient care and outcomes. At a political level, we deliver engagement activities at the NI Parliament buildings and regularly host government and all&#x02010;party committees at the CCRCB, thus both informing politicians and policy makers of the importance of research as well as highlighting the shared responsibilities for all stakeholders to enhance the health and wealth of NI's citizens and societies.</p></sec></sec><sec id="cncr29814-sec-0015"><title>IMPLEMENTING OUR VISION THROUGH CONTINUED PATIENT&#x02010;FOCUSED AND RESEARCH&#x02010;ENABLED INTERSECTORAL PARTNERSHIP</title><p>As we have demonstrated in this article, the last 20 years have witnessed significant advances in cancer care in NI, leading to measureable improvements in patient outcomes. Crucial to this transformation has been an ethos that recognizes the primacy role of research in effecting heath care change. Our model of a cross&#x02010;sectoral partnership that unites patients, scientists, health care professionals, hospital trusts, bioindustry, and government agencies can be truly transformative, empowering tripartite clinical&#x02010;academic&#x02010;industry efforts that have already yielded significant benefit and will continue to inform our strategy and its implementation going forward. NI has a population of only 1.85 million individuals, with approximately 9000 new patients diagnosed with cancer each year (excluding nonmelanoma skin cancer), but it is precisely this compact size that works in our favor, allowing cancer research and cancer services to be integrated, planned, and delivered at the population level. A coordinated partnership of all the key stakeholders with a clear unity of purpose is beginning to catalyze a truly integrated research&#x02010;driven comprehensive cancer program, which we will continue to deliver through a linked health and social care infrastructure that allows change to be effected across the cancer continuum. As we move forward, the CCRCB hopes to attract other biotechnology and pharma partners to exploit the established discovery pipeline. Expanded access will deliver significant health, wealth, and societal benefits to NI and beyond, but also keep faith with the challenge laid down by Senator Mitchell, to use &#x0201c;global partnerships to relieve human suffering from cancer.&#x0201d;</p></sec><sec id="cncr29814-sec-0016"><title>FUNDING SUPPORT</title><p>Supported by Cancer Research UK, Medical Research Council UK, Prostate Cancer UK, European Commission Framework VII, and Invest Northern Ireland.</p></sec><sec id="cncr29814-sec-0017"><title>CONFLICT OF INTEREST DISCLOSURES</title><p>Manuel Salto&#x02010;Tellez has received personal fees from Ventana, Roche, Pfizer, PathXL, Almac, and AstraZeneca for work performed outside of the current study. Richard D. Kennedy is the paid medical director for Almac Diagnostics and is an author of issued patent WO/2012/037378 (DNA damage response deficiency signature assay from Almac). Richard H. Wilson has received grants from Cancer Research UK, Northern Ireland HSC Research and Development Division, and Friends of the Cancer Centre for work performed as part of the current study and has received honoraria from and had advisory roles with Roche, Hospira, Sanofi Oncology, and Merck Serono for work performed outside of the current study. Denis Paul Harkin is the Chief Executive Officer of Almac Diagnostics. Peter W. Hamilton has received grants from Cancer Research UK, Invest Northern Ireland, Marie Curie FP7 EU, and HSC Research and Development Agency for work performed as part of the current study; has received outside fees as the founder of, shareholder in, and director of PathXL Ltd and Lewis Fertility Tests Ltd; and has the following patents pending: UK App No. 1315597.3, UK App No. 1509878.3, UK App No. 1308460.3, UK App No. 1509886.6, UK App No. 1516866.9, UK App No. 1516869.3, UK App No. 1516873.5, UK App No. 1516871.9, PCT/GB2014/051427, and PCT/GB2014/051426. Tracy Robson has received a grant from Almac Discovery for work performed as part of the current study and has patent WO/2007/141533 issued and licensed and patent WO/2010/133880 issued. Robert D. Ladner is the Chief Executive Officer of and a shareholder in CV6 Therapeutics and has a pending and licensed patent for Deoxyuridine Triphosphate Inhibitors for CV6 Therapeutics. Timothy Harrison is an employee of Queen's University Belfast and is Vice President of Almac Discovery. Patrick G. Johnston is the previous founder of and a shareholder in Almac Diagnostics; has received honorarium and acted as a paid consultant for Pfizer and Chugai Pharmaceuticals for work performed outside of the current study; and has stock ownership and interest in Almac Diagnostics, Fusion Antibodies, and CV6 Therapeutics. David J. Waugh has received grants from HPSS Research and Development Division, Medical Research Council, Cancer Research UK, and Movember/Prostate Cancer UK for work performed as part of the current study and has acted as a paid consultant and member of the Advisory Board for Almac Group and Almac Discovery.</p></sec></body><back><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="cncr29814-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0001">
+<collab collab-type="authors">Northern Ireland Cancer Network</collab>
+. <article-title>Cancer Services&#x02010;Investing for the Future (Campbell Report) 1996</article-title>. Accessed July 15, 2015.
+</mixed-citation></ref><ref id="cncr29814-bib-0002"><label>2</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0002">
+<string-name>
+<surname>Fitzpatrick</surname>
+<given-names>DA</given-names>
+</string-name>, 
+<string-name>
+<surname>Gavin</surname>
+<given-names>AT</given-names>
+</string-name>. <article-title>Survival of cancer patients in Northern Ireland 1993&#x02010;1996</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.publichealth.hscni.net/directorate-public-health/service-development-and-screening/northern-ireland-cancer-registry">http://www.publichealth.hscni.net/directorate-public-health/service-development-and-screening/northern-ireland-cancer-registry</ext-link>. Accessed July 9, 2015.
+</mixed-citation></ref><ref id="cncr29814-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cncr29814-cit-0003">
+<string-name>
+<surname>Autier</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Boniol</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Gavin</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Vatten</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Breast cancer mortality in neighbouring European countries with different levels of screening but similar access to treatment: trend analysis of WHO mortality database</article-title>. <source>BMJ</source>. <year>2011</year>;<volume>343</volume>:<fpage>d4411</fpage>.
+<pub-id pub-id-type="pmid">21798968</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cncr29814-cit-0004">
+<string-name>
+<surname>De Angelis</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Sant</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Coleman</surname>
+<given-names>MP</given-names>
+</string-name>, et al; <collab collab-type="authors">EUROCARE&#x02010;5 Working Group</collab>
+. <article-title>Cancer survival in Europe 1999&#x02010;2007 by country and age: results of EUROCARE&#x02010;5&#x02010;a population&#x02010;based study</article-title>. <source>Lancet Oncol</source>. <year>2014</year>;<volume>15</volume>:<fpage>23</fpage>&#x02010;<lpage>34</lpage>.
+<pub-id pub-id-type="pmid">24314615</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cncr29814-cit-0005">
+<string-name>
+<surname>Murray</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Watson</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Johnston</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Sloan</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Mainie</surname>
+<given-names>IM</given-names>
+</string-name>, 
+<string-name>
+<surname>Gavin</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Risk of adenocarcinoma in Barrett's oesophagus: population based study</article-title>. <source>BMJ</source>. <year>2003</year>;<volume>327</volume>:<fpage>534</fpage>&#x02010;<lpage>535</lpage>.
+<pub-id pub-id-type="pmid">12958113</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cncr29814-cit-0006">
+<string-name>
+<surname>Bhat</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Coleman</surname>
+<given-names>HG</given-names>
+</string-name>, 
+<string-name>
+<surname>Yousef</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Risk of malignant progression in Barrett's esophagus patients: results from a large population&#x02010;based study</article-title>. <source>J Natl Cancer Inst</source>. <year>2011</year>;<volume>103</volume>:<fpage>1049</fpage>&#x02010;<lpage>1057</lpage>.
+<pub-id pub-id-type="pmid">21680910</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cncr29814-cit-0007">
+<string-name>
+<surname>Coleman</surname>
+<given-names>HG</given-names>
+</string-name>, 
+<string-name>
+<surname>Bhat</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Johnston</surname>
+<given-names>BT</given-names>
+</string-name>, 
+<string-name>
+<surname>McManus</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Gavin</surname>
+<given-names>AT</given-names>
+</string-name>, 
+<string-name>
+<surname>Murray</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Tobacco smoking increases the risk of high&#x02010;grade dysplasia and cancer among patients with Barrett's esophagus</article-title>. <source>Gastroenterology</source>. <year>2012</year>;<volume>142</volume>:<fpage>233</fpage>&#x02010;<lpage>240</lpage>.
+<pub-id pub-id-type="pmid">22062359</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cncr29814-cit-0008">
+<string-name>
+<surname>Coleman</surname>
+<given-names>HG</given-names>
+</string-name>, 
+<string-name>
+<surname>Loughrey</surname>
+<given-names>MB</given-names>
+</string-name>, 
+<string-name>
+<surname>Murray</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>Colorectal cancer risk following adenoma removal: a large prospective population&#x02010;based cohort study</article-title>. <source>Cancer Epidemiol Biomarkers Prev</source>. <year>2015</year>;<volume>24</volume>:<fpage>1373</fpage>&#x02010;<lpage>1380</lpage>.
+<pub-id pub-id-type="pmid">26082403</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cncr29814-cit-0009">
+<string-name>
+<surname>Cardwell</surname>
+<given-names>CR</given-names>
+</string-name>, 
+<string-name>
+<surname>Abnet</surname>
+<given-names>CC</given-names>
+</string-name>, 
+<string-name>
+<surname>Cantwell</surname>
+<given-names>MM</given-names>
+</string-name>, 
+<string-name>
+<surname>Murray</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Exposure to oral bisphosphonates and risk of esophageal cancer</article-title>. <source>JAMA</source>. <year>2010</year>;<volume>304</volume>:<fpage>657</fpage>&#x02010;<lpage>663</lpage>.
+<pub-id pub-id-type="pmid">20699457</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cncr29814-cit-0010">
+<string-name>
+<surname>Cardwell</surname>
+<given-names>CR</given-names>
+</string-name>, 
+<string-name>
+<surname>Hicks</surname>
+<given-names>BM</given-names>
+</string-name>, 
+<string-name>
+<surname>Hughes</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Murray</surname>
+<given-names>LJ</given-names>
+</string-name>. <article-title>Statin use after colorectal cancer diagnosis and survival: a population&#x02010;based cohort study</article-title>. <source>J Clin Oncol</source>. <year>2014</year>;<volume>32</volume>:<fpage>3177</fpage>&#x02010;<lpage>3183</lpage>.
+<pub-id pub-id-type="pmid">25092779</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cncr29814-cit-0011">
+<string-name>
+<surname>Kennedy</surname>
+<given-names>RD</given-names>
+</string-name>, 
+<string-name>
+<surname>Davison</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Kerr</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Development and independent validation of a prognostic assay for stage II colon cancer using formalin&#x02010;fixed paraffin&#x02010;embedded tissue</article-title>. <source>J Clin Oncol</source>. <year>2011</year>;<volume>29</volume>:<fpage>4620</fpage>&#x02010;<lpage>4626</lpage>.
+<pub-id pub-id-type="pmid">22067406</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0012"><label>12</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0012">
+<collab collab-type="authors">Almac Group</collab>
+. <article-title>Data presented supporting Almac&#x02010;developed colon signature as a significant predictor of risk of recurrence in stage II colon cancer</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.almacgroup.com/news/data-presented-supporting-almac-developed-colon-signature-as-a-significant-predictor-of-risk-of-recurrence-in-stage-ii-colon-cancer/">http://www.almacgroup.com/news/data-presented-supporting-almac-developed-colon-signature-as-a-significant-predictor-of-risk-of-recurrence-in-stage-ii-colon-cancer/</ext-link>. Accessed October 20, <year>2015</year>.
+</mixed-citation></ref><ref id="cncr29814-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0013">The Royal Anniversary Trust. Winners of the Queen's Anniversary Prizes announced. <ext-link ext-link-type="uri" xlink:href="http://www.royalanniversarytrust.org.uk/news/winners-announced">http://www.royalanniversarytrust.org.uk/news/winners-announced</ext-link>. Accessed October 20, <year>2015</year>.
+</mixed-citation></ref><ref id="cncr29814-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cncr29814-cit-0014">
+<string-name>
+<surname>Zanetti</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Schmidtmann</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Sacchetto</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Completeness and timeliness: cancer registries could/should improve their performance</article-title>. <source>Eur J Cancer</source>. <year>2015</year>;<volume>51</volume>:<fpage>1091</fpage>&#x02010;<lpage>1098</lpage>.
+<pub-id pub-id-type="pmid">24393522</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cncr29814-cit-0015">
+<string-name>
+<surname>Kearney</surname>
+<given-names>TM</given-names>
+</string-name>, 
+<string-name>
+<surname>Donnelly</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Kelly</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>O'Callaghan</surname>
+<given-names>EP</given-names>
+</string-name>, 
+<string-name>
+<surname>Fox</surname>
+<given-names>CR</given-names>
+</string-name>, 
+<string-name>
+<surname>Gavin</surname>
+<given-names>AT</given-names>
+</string-name>. <article-title>Validation of the completeness and accuracy of the Northern Ireland Cancer Registry</article-title>. <source>Cancer Epidemiol</source>. <year>2015</year>;<volume>39</volume>:<fpage>401</fpage>&#x02010;<lpage>404</lpage>.
+<pub-id pub-id-type="pmid">25770641</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cncr29814-cit-0016">
+<string-name>
+<surname>Gavin</surname>
+<given-names>AT</given-names>
+</string-name>, 
+<string-name>
+<surname>Francisci</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Foschi</surname>
+<given-names>R</given-names>
+</string-name>, et al; <collab collab-type="authors">EUROCARE&#x02010;4 Working Group</collab>
+. <article-title>Oesophageal cancer survival in Europe: a EUROCARE&#x02010;4 study</article-title>. <source>Cancer Epidemiol</source>. <year>2012</year>;<volume>36</volume>:<fpage>505</fpage>&#x02010;<lpage>512</lpage>.
+<pub-id pub-id-type="pmid">22910036</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cncr29814-cit-0017">
+<string-name>
+<surname>Salto&#x02010;Tellez</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Raison</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>An interview with Manuel Salto&#x02010;Tellez on diagnostic pathology: the future is morphomolecular</article-title>. <source>Expert Rev Mol Diagn</source>. <year>2015</year>;<volume>15</volume>:<fpage>585</fpage>&#x02010;<lpage>588</lpage>.
+<pub-id pub-id-type="pmid">25838030</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cncr29814-cit-0018">
+<string-name>
+<surname>Salto&#x02010;Tellez</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>James</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Hamilton</surname>
+<given-names>PW</given-names>
+</string-name>. <article-title>Molecular pathology&#x02010;the value of an integrative approach</article-title>. <source>Mol Oncol</source>. <year>2014</year>;<volume>8</volume>:<fpage>1163</fpage>&#x02010;<lpage>1168</lpage>.
+<pub-id pub-id-type="pmid">25160635</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cncr29814-cit-0019">
+<string-name>
+<surname>Hamilton</surname>
+<given-names>PW</given-names>
+</string-name>, 
+<string-name>
+<surname>Bankhead</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Digital pathology and image analysis in tissue biomarker research</article-title>. <source>Methods</source>. <year>2014</year>;<volume>70</volume>:<fpage>59</fpage>&#x02010;<lpage>73</lpage>.
+<pub-id pub-id-type="pmid">25034370</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cncr29814-cit-0020">
+<string-name>
+<surname>McArt</surname>
+<given-names>DG</given-names>
+</string-name>, 
+<string-name>
+<surname>Blayney</surname>
+<given-names>JK</given-names>
+</string-name>, 
+<string-name>
+<surname>Boyle</surname>
+<given-names>DP</given-names>
+</string-name>, et al. <article-title>PICan: an integromics framework for dynamic cancer biomarker discovery</article-title>. <source>Mol Oncol</source>. <year>2015</year>;<volume>9</volume>:<fpage>1234</fpage>&#x02010;<lpage>1240</lpage>.
+<pub-id pub-id-type="pmid">25814194</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0021"><label>21</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0021">
+<collab collab-type="authors">Cancer Research UK</collab>
+. <article-title>Cancer Research UK invests &#x000a3;15 million to unite finest minds across UK to develop better treatments</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.cancerresearchuk.org/about-us/cancer-news/press-release/2015-10-07-cancer-research-uk-invests-ps15-million-to-unite-finest-minds-across-uk-to-develop-better-treatments">http://www.cancerresearchuk.org/about-us/cancer-news/press-release/2015-10-07-cancer-research-uk-invests-ps15-million-to-unite-finest-minds-across-uk-to-develop-better-treatments</ext-link>. Accessed October 20, 2015.
+</mixed-citation></ref><ref id="cncr29814-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cncr29814-cit-0022">
+<string-name>
+<surname>Johnston</surname>
+<given-names>PG</given-names>
+</string-name>, 
+<string-name>
+<surname>Daly</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>The NCI&#x02010;Ireland consortium: a unique international partnership in cancer care</article-title>. <source>Oncologist</source>. <year>2001</year>;<volume>6</volume>:<fpage>453</fpage>&#x02010;<lpage>458</lpage>.
+<pub-id pub-id-type="pmid">11675524</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0023"><label>23</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0023">Northern Ireland Cancer Research Consumer Forum. 3rd Year Report of the Northern Ireland Cancer Research Consumer Forum: September 2013&#x02010;August 2014. <ext-link ext-link-type="uri" xlink:href="http://www.qub.ac.uk/research-centres/media/Media,488612,en.pdf">http://www.qub.ac.uk/research-centres/media/Media,488612,en.pdf</ext-link>. Accessed October 22, <year>2015</year>.
+</mixed-citation></ref><ref id="cncr29814-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cncr29814-cit-0024">
+<string-name>
+<surname>Valentine</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>O'Rourke</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Yakkundi</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>FKBPL and peptide derivatives: novel biological agents that inhibit angiogenesis by a CD44&#x02010;dependent mechanism</article-title>. <source>Clin Cancer Res</source>. <year>2011</year>;<volume>17</volume>:<fpage>1044</fpage>&#x02010;<lpage>1056</lpage>.
+<pub-id pub-id-type="pmid">21364036</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cncr29814-cit-0025">
+<string-name>
+<surname>McClements</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Yakkundi</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Papaspyropoulos</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Targeting treatment&#x02010;resistant breast cancer stem cells with FKBPL and its peptide derivative, AD&#x02010;01, via the CD44 pathway</article-title>. <source>Clin Cancer Res</source>. <year>2013</year>;<volume>19</volume>:<fpage>3881</fpage>&#x02010;<lpage>3893</lpage>.
+<pub-id pub-id-type="pmid">23741069</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0026"><label>26</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0026">
+<collab collab-type="authors">NHS Health Research Authority</collab>
+. <article-title>Phase 1&#x02013;ALM201 in advanced ovarian cancer and other solid tumours</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.hra.nhs.uk/news/research-summaries/phase-1-alm201-in-advanced-ovarian-cancer-and-other-solid-tumours/">http://www.hra.nhs.uk/news/research-summaries/phase-1-alm201-in-advanced-ovarian-cancer-and-other-solid-tumours/</ext-link>. Accessed September 18, <year>2015</year>.
+</mixed-citation></ref><ref id="cncr29814-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cncr29814-cit-0027">
+<string-name>
+<surname>Van Schaeybroeck</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Kalimutho</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Dunne</surname>
+<given-names>PD</given-names>
+</string-name>, et al. <article-title>ADAM17&#x02010;dependent c&#x02010;MET&#x02010;STAT3 signaling mediates resistance to MEK inhibitors in KRAS mutant colorectal cancer</article-title>. <source>Cell Rep</source>. <year>2014</year>;<volume>7</volume>:<fpage>1940</fpage>&#x02010;<lpage>1955</lpage>.
+<pub-id pub-id-type="pmid">24931611</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0028"><label>28</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0028">
+<ext-link ext-link-type="uri" xlink:href="http://prostatecanceruk.org/research/about-our-research/movember-centres-of-excellence">http://prostatecanceruk.org/research/about-our-research/movember-centres-of-excellence</ext-link>. Accessed October 20, 2015.
+</mixed-citation></ref><ref id="cncr29814-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cncr29814-cit-0029">
+<string-name>
+<surname>Hay</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Thomas</surname>
+<given-names>DW</given-names>
+</string-name>, 
+<string-name>
+<surname>Craighead</surname>
+<given-names>JL</given-names>
+</string-name>, 
+<string-name>
+<surname>Economides</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Rosenthal</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Clinical development success rates for investigational drugs</article-title>. <source>Nat Biotechnol</source>. <year>2014</year>;<volume>2</volume>:<fpage>40</fpage>&#x02010;<lpage>51</lpage>.
+<pub-id pub-id-type="pmid">24406927</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cncr29814-cit-0030">
+<string-name>
+<surname>Toniatti</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Jones</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Graham</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Pagliara</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Draetta</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Oncology drug discovery: planning a turnaround</article-title>. <source>Cancer Discov</source>. <year>2014</year>;<volume>4</volume>:<fpage>397</fpage>&#x02010;<lpage>404</lpage>.
+<pub-id pub-id-type="pmid">24706659</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cncr29814-cit-0031">
+<string-name>
+<surname>Doroshow</surname>
+<given-names>JH</given-names>
+</string-name>, 
+<string-name>
+<surname>Sleijfer</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Stupp</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Anderson</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Cancer clinical trials&#x02013;do we need a new algorithm in the age of stratified medicine?</article-title>
+<source>Oncologist</source>. <year>2013</year>;<volume>18</volume>:<fpage>651</fpage>&#x02010;<lpage>652</lpage>.
+<pub-id pub-id-type="pmid">23814160</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cncr29814-cit-0032">
+<string-name>
+<surname>Mulligan</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Hill</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Deharo</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Identification and validation of a DNA damage response deficiency assay in breast cancer</article-title>. <source>J Natl Cancer Inst</source>. <year>2014</year>;<volume>106</volume>:<fpage>82</fpage>&#x02010;<lpage>86</lpage>.
+</mixed-citation></ref><ref id="cncr29814-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cncr29814-cit-0033">
+<string-name>
+<surname>McCabe</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Hanna</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Walker</surname>
+<given-names>SM</given-names>
+</string-name>, et al. <article-title>Mechanistic rationale to target PTEN&#x02010;deficient tumor cells with inhibitors of the DNA damage response kinase ATM</article-title>. <source>Cancer Res</source>. <year>2015</year>;<volume>75</volume>:<fpage>2159</fpage>&#x02010;<lpage>2165</lpage>.
+<pub-id pub-id-type="pmid">25870146</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cncr29814-cit-0034">
+<string-name>
+<surname>Burki</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>UK and US governments to fund personalised medicine</article-title>. <source>Lancet Oncol</source>. <year>2015</year>;<volume>16</volume>:<fpage>e108</fpage>.
+<pub-id pub-id-type="pmid">25660810</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cncr29814-cit-0035">
+<string-name>
+<surname>Lawler</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Kaplan</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Wilson</surname>
+<given-names>RH</given-names>
+</string-name>, 
+<string-name>
+<surname>Maughan</surname>
+<given-names>T</given-names>
+</string-name>; <collab collab-type="authors">S&#x02010;CORT Consortium</collab>
+. <article-title>Changing the paradigm&#x02010;multistage multiarm randomized trials and stratified cancer medicine</article-title>. <source>Oncologist.</source>
+<year>2015</year>;<volume>20</volume>:<fpage>849</fpage>&#x02010;<lpage>851</lpage>.
+<pub-id pub-id-type="pmid">26070918</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cncr29814-cit-0036">
+<string-name>
+<surname>Hamilton</surname>
+<given-names>PW</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Boyd</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Automated tumor analysis for molecular profiling in lung cancer</article-title>. <source>Oncotarget</source>. <year>2015</year>;<volume>6</volume>:<fpage>27938</fpage>&#x02010;<lpage>27952</lpage>.
+<pub-id pub-id-type="pmid">26317646</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0037"><label>37</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0037">
+<collab collab-type="authors">Invest Northern Ireland</collab>
+. <article-title>New investor CV6 partners with QUB in major cancer R&#x00026;D project</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.investni.com/news/new-investor-cv6-partners-with-qub-in-major-cancer-r-and-d-project.html">http://www.investni.com/news/new-investor-cv6-partners-with-qub-in-major-cancer-r-and-d-project.html</ext-link>. Accessed November 16, 2015.
+</mixed-citation></ref><ref id="cncr29814-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cncr29814-cit-0038">
+<string-name>
+<surname>Wilson</surname>
+<given-names>PM</given-names>
+</string-name>, 
+<string-name>
+<surname>Danenberg</surname>
+<given-names>PV</given-names>
+</string-name>, 
+<string-name>
+<surname>Johnston</surname>
+<given-names>PG</given-names>
+</string-name>, 
+<string-name>
+<surname>Lenz</surname>
+<given-names>HJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Ladner</surname>
+<given-names>RD</given-names>
+</string-name>. <article-title>Standing the test of time: targeting thymidylate biosynthesis in cancer therapy</article-title>. <source>Nat Rev Clin Oncol</source>. <year>2014</year>;<volume>11</volume>:<fpage>282</fpage>&#x02010;<lpage>298</lpage>.
+<pub-id pub-id-type="pmid">24732946</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cncr29814-cit-0039">
+<string-name>
+<surname>Carson</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Celtikci</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Fenning</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>HDAC inhibition overcomes acute resistance to MEK inhibition in BRAF&#x02010;mutant colorectal cancer by downregulation of c&#x02010;FLIPL</article-title>. <source>Clin Cancer Res</source>. <year>2015</year>;<volume>21</volume>:<fpage>3230</fpage>&#x02010;<lpage>3240</lpage>.
+<pub-id pub-id-type="pmid">25813020</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cncr29814-cit-0040">
+<string-name>
+<surname>Holohan</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Van Schaeybroeck</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Longley</surname>
+<given-names>DB</given-names>
+</string-name>, 
+<string-name>
+<surname>Johnston</surname>
+<given-names>PG</given-names>
+</string-name>. <article-title>Cancer drug resistance: an evolving paradigm</article-title>. <source>Nat Rev Cancer</source>. <year>2013</year>;<volume>13</volume>:<fpage>714</fpage>&#x02010;<lpage>726</lpage>.
+<pub-id pub-id-type="pmid">24060863</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cncr29814-cit-0041">
+<string-name>
+<surname>Van Schaeybroeck</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Kyula</surname>
+<given-names>JN</given-names>
+</string-name>, 
+<string-name>
+<surname>Fenton</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Oncogenic Kras promotes chemotherapy&#x02010;induced growth factor shedding via ADAM17</article-title>. <source>Cancer Res</source>. <year>2011</year>;<volume>71</volume>:<fpage>1071</fpage>&#x02010;<lpage>1080</lpage>.
+<pub-id pub-id-type="pmid">21148749</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cncr29814-cit-0042">
+<string-name>
+<surname>Jordan</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Waddell</surname>
+<given-names>ID</given-names>
+</string-name>, 
+<string-name>
+<surname>Ogilvie</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Rethinking &#x02018;academic&#x02019; drug discovery: the Manchester Institute perspective</article-title>. <source>Drug Discov Today</source>. <year>2015</year>;<volume>20</volume>:<fpage>525</fpage>&#x02010;<lpage>535</lpage>.
+<pub-id pub-id-type="pmid">25542353</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0043"><label>43</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0043">
+<collab collab-type="authors">National Center for Advancing Translational Sciences</collab>
+. <article-title>Pfizer's Centers for Therapeutic Innovation (CTI) for NIH Researchers</article-title>. <ext-link ext-link-type="uri" xlink:href="http://ncats.nih.gov/cti">http://ncats.nih.gov/cti</ext-link>. Accessed July 13, <year>2015</year>.
+</mixed-citation></ref><ref id="cncr29814-bib-0044"><label>44</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0044">
+<collab collab-type="authors">National Institute for Health Research</collab>
+. <article-title>Going the extra mile: improving the nation's health and wellbeing through public involvement in research</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.nihr.ac.uk/get-involved/Extra%20Mile2.pdf">http://www.nihr.ac.uk/get-involved/Extra%20Mile2.pdf</ext-link>. Accessed October 22, <year>2015</year>.
+</mixed-citation></ref><ref id="cncr29814-bib-0045"><label>45</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0045">Oncology//Pro. 1382P_PR&#x02010;Awareness and understanding of stratified/personalized medicine in patients treated for cancer: a multinational. <ext-link ext-link-type="uri" xlink:href="http://oncologypro.esmo.org/Meeting-Resources/ESMO-2012/Awareness-and-understanding-of-stratified-personalized-medicine-in-patients-treated-for-cancer-a-multinational-survey">http://oncologypro.esmo.org/Meeting-Resources/ESMO-2012/Awareness-and-understanding-of-stratified-personalized-medicine-in-patients-treated-for-cancer-a-multinational-survey</ext-link>. Accessed October 13, <year>2015</year>.
+</mixed-citation></ref><ref id="cncr29814-bib-0046"><label>46</label><mixed-citation publication-type="miscellaneous" id="cncr29814-cit-0046">European Patients' Academy on Therapeutic Innovation. Welcome page. <ext-link ext-link-type="uri" xlink:href="http://www.patientsacademy.eu/index.php/en/">http://www.patientsacademy.eu/index.php/en/</ext-link>. Accessed October 20, <year>2015</year>.
+</mixed-citation></ref><ref id="cncr29814-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cncr29814-cit-0047">
+<string-name>
+<surname>James</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Salto&#x02010;Tellez</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The training of future tissue pathologists in a changing world</article-title>. <source>J Clin Pathol</source>. <year>2014</year>;<volume>67</volume>:<fpage>549</fpage>.
+<pub-id pub-id-type="pmid">24742715</pub-id></mixed-citation></ref><ref id="cncr29814-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cncr29814-cit-0048">
+<string-name>
+<surname>Flynn</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>James</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Maxwell</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Integrating molecular diagnostics into histopathology training: the Belfast model</article-title>. <source>J Clin Pathol</source>. <year>2014</year>;<volume>67</volume>:<fpage>632</fpage>&#x02010;<lpage>636</lpage>.
+<pub-id pub-id-type="pmid">24493649</pub-id></mixed-citation></ref></ref-list></back></article>

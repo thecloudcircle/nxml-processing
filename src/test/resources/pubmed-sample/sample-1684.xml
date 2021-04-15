@@ -1,0 +1,387 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1582-4934</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32519803</article-id><article-id pub-id-type="pmc">7348173</article-id><article-id pub-id-type="doi">10.1111/jcmm.15468</article-id><article-id pub-id-type="publisher-id">JCMM15468</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Polysaccharides derived from <italic>Balanophora polyandra</italic> significantly suppressed the proliferation of ovarian cancer cells through P53&#x02010;mediated pathway</article-title><alt-title alt-title-type="left-running-head">QU et al.</alt-title></title-group><contrib-group><contrib id="jcmm15468-cr-0001" contrib-type="author"><name><surname>Qu</surname><given-names>Jiayuan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2691-8656</contrib-id><xref ref-type="aff" rid="jcmm15468-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15468-cr-0002" contrib-type="author"><name><surname>He</surname><given-names>Yumin</given-names></name><xref ref-type="aff" rid="jcmm15468-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm15468-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm15468-cr-0003" contrib-type="author"><name><surname>Shi</surname><given-names>Yue</given-names></name><xref ref-type="aff" rid="jcmm15468-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15468-cr-0004" contrib-type="author"><name><surname>Gai</surname><given-names>Liyue</given-names></name><xref ref-type="aff" rid="jcmm15468-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15468-cr-0005" contrib-type="author"><name><surname>Xiao</surname><given-names>Li</given-names></name><xref ref-type="aff" rid="jcmm15468-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15468-cr-0006" contrib-type="author"><name><surname>Peng</surname><given-names>Fan</given-names></name><xref ref-type="aff" rid="jcmm15468-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15468-cr-0007" contrib-type="author"><name><surname>Li</surname><given-names>Zicheng</given-names></name><xref ref-type="aff" rid="jcmm15468-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15468-cr-0008" contrib-type="author"><name><surname>Wang</surname><given-names>Xiaomin</given-names></name><xref ref-type="aff" rid="jcmm15468-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jcmm15468-cr-0009" contrib-type="author" corresp="yes"><name><surname>Yuan</surname><given-names>Chengfu</given-names></name><xref ref-type="aff" rid="jcmm15468-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm15468-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jcmm15468-aff-0004">
+<sup>4</sup>
+</xref><address><email>yuancf46@ctgu.edu.cn</email></address></contrib></contrib-group><aff id="jcmm15468-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">College of Medical Science</named-content>
+<named-content content-type="organisation-division">China Three Gorges University</named-content>
+<city>Yichang</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm15468-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Third&#x02010;Grade Pharmacological Laboratory on Chinese Medicine Approved by State Administration of Traditional Chinese Medicine</named-content>
+<institution>Medical College of China Three Gorges</institution>
+<city>Yichang</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm15468-aff-0003">
+<label><sup>3</sup></label>
+<institution>Chumeiren Medical Cosmetic Clinic</institution>
+<city>Yichang</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm15468-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Hubei Key Laboratory of Tumour Microenvironment and Immunotherapy</named-content>
+<institution>China Three Gorges University</institution>
+<city>Yichang</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Chengfu Yuan, China Three Gorges University, Yichang, Hubei 443002, China.<break/>
+Email: <email>yuancf46@ctgu.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>6</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2020</year></pub-date><volume>24</volume><issue>14</issue><issue-id pub-id-type="doi">10.1111/jcmm.v24.14</issue-id><fpage>8115</fpage><lpage>8125</lpage><history><date date-type="received"><day>30</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>25</day><month>4</month><year>2020</year></date><date date-type="accepted"><day>03</day><month>5</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Journal of Cellular and Molecular Medicine</italic> published by Foundation for Cellular and Molecular Medicine and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JCMM-24-8115.pdf"/><abstract id="jcmm15468-abs-0001"><title>Abstract</title><p>Ovarian cancer (OC) is ranked the first among the cancers threatening women's health. It attracts tremendous attention of cancer researchers because of its extremely high mortality rate. Recent studies have indicated that traditional herbal medicines (THMs) can play a pivotal role in cancer prevention and treatment. THMs are gaining popularity as a source of anti&#x02010;cancer agents. The plant of <italic>Balanophora polyandra</italic>, which has been used as a traditional herbal medicine, has been known for exhibiting potential haemostatic, analgesic, anti&#x02010;inflammatory and anti&#x02010;cancer properties. However, few studies on inhibitory effect of <italic>B. polyandra</italic> on OC have been performed. In the present study, we found that <italic>B. polyandra</italic> polysaccharides (BPP) induced cell cycle arrest at S phase, triggered apoptosis and inhibited migration and invasion of OC cells. Furthermore, we also found that there was a potential and close relationship between BPP and P53&#x02010;mediated pathway. Overall, these findings suggest that BPP can be a potential therapeutic agent for the treatment of OC.</p></abstract><kwd-group><kwd id="jcmm15468-kwd-0001">apoptosis</kwd><kwd id="jcmm15468-kwd-0002"><italic>Balanophora polyandra</italic></kwd><kwd id="jcmm15468-kwd-0003">cell cycle arrest</kwd><kwd id="jcmm15468-kwd-0004">migration and invasion</kwd><kwd id="jcmm15468-kwd-0005">ovarian cancer</kwd><kwd id="jcmm15468-kwd-0006">P53</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>Tumor Microenvironment and Immunotherapy Key Laboratory of Hubei province in China</funding-source><award-id>2019KZL09</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>81773959</award-id><award-id>81974528</award-id></award-group><award-group id="funding-0003"><funding-source>Health commission of Hubei Province scientific research project in China</funding-source><award-id>WJ2019H527</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="11"/><word-count count="5822"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.5 mode:remove_FC converted:10.07.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm15468-cit-1001">
+<string-name>
+<surname>Qu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Polysaccharides derived from <italic>Balanophora polyandra</italic> significantly suppressed the proliferation of ovarian cancer cells through P53&#x02010;mediated pathway</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2020</year>;<volume>24</volume>:<fpage>8115</fpage>&#x02013;<lpage>8125</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.15468</pub-id>
+</mixed-citation>
+</p><fn-group id="jcmm15468-ntgp-0001"><fn id="jcmm15468-note-0001"><p>Jiayuan Qu and Yumin He contributed equally to this work.</p></fn></fn-group></notes></front><body id="jcmm15468-body-0001"><sec id="jcmm15468-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Uncontrolled proliferation is known to be one of the most important cancer cell hallmarks and plays critical roles in carcinogenesis and progression in malignant tumours. Among gynaecological cancer, ovarian cancer (OC) is a leading driver of cancer&#x02010;related mortality in women, according to the systematization global examination of the disease.<xref rid="jcmm15468-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> While the OC incidence has remained relatively static over the last 35&#x000a0;years,<xref rid="jcmm15468-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> its survival rates are still low, partly because of its resistance to the currently existing therapies. About 75% of patients with OC responded well to the standard first&#x02010;line chemotherapy treatment, but soon OC usually returns and develops resistance to the previous chemotherapy agents. Therefore, discovery and development of new anti&#x02010;OC therapeutic agents is urgently and highly demanded for improving the clinical outcome.</p><p>Traditional herbal medicines (THMs) have been applied as the important components of complementary and alternative medicine. They can be used to treat more than 100 diseases.<xref rid="jcmm15468-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref> In the recent years, THMs are gaining popularity because of their significant role in preventing and treating various types of cancer, with advantages of preventing tumorigenesis, enhancing the therapeutic effect as well as attenuating toxicity.<xref rid="jcmm15468-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> In previous reports, several kinds of THMs have been shown to possess prospective anti&#x02010;cancer properties, and some bioactive components from THMs have been used for clinical therapy for several types of diseases, such as Kanglaite, artemisinin, podophyllotoxin and paclitaxel.<xref rid="jcmm15468-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="jcmm15468-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="jcmm15468-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="jcmm15468-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> Those research literatures indicate that HTMs can have a great potential to be developed into a new type of anti&#x02010;ovarian cancer agents.</p><p>
+<italic>Balanophora polyandra</italic> (<italic>B. polyandra</italic>), belonging to the family Balanophoraceae, is a native parasitic plant that grows on the root system of various hosts, especially the evergreen vine shrubs in south&#x02010;west of China.<xref rid="jcmm15468-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> It has been traditionally used as a medicinal plant for treatment of various diseases, including haemorrhoids, metrorrhagia, stomach ache and hemoptysis. Phytochemical studies on the whole plant of <italic>B. polyandra</italic> have reported the presence of hydrolysable tannins, particularly the ellagitannins, which are considered to be the characteristic components in genus Balanophora.<xref rid="jcmm15468-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> In addition, other components like phenylpropanoids, flavonoids, terpenoids and polysaccharides are also existed.<xref rid="jcmm15468-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> Previous studies have revealed that the polysaccharides derived from <italic>B. polyandra</italic> possessed anti&#x02010;fatigue, antioxidant and hypoglycaemic activities, whereas the polysaccharides from B. spicata could efficiently inhibit the growth of the implanted S180 tumour.<xref rid="jcmm15468-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> However, there have been no studies on its roles in other types of cancers, such as OC, and the underlying mechanisms.</p><p>Herein, we assessed how <italic>B. polyandra</italic> polysaccharides (BPP) inhibit the growth of OC cells. We found that BPP was significantly related with proliferation, apoptosis, cell cycle arrest, invasion and migration of OC cells. Moreover, we gained some insight into the mechanisms by which BPP inhibits the proliferation of OC cells. We also found that P53 pathway was involved in the induction of the cell cycle arrest and apoptosis in vitro. These findings suggest that BPP can have the potential to inhibit OC progression.</p></sec><sec sec-type="materials-and-methods" id="jcmm15468-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jcmm15468-sec-0003"><label>2.1</label><title>Cells culture</title><p>Two human ovarian cancer cell lines, A2780 and OVSAHO, came from Cell Resource Center of Shanghai Institutes for Biological Sciences (Shanghai, China). These cells were grown with DMEM containing 10% FBS and 1% penicillin/streptomycin. All the cells were grown in a 5% CO<sub>2</sub> incubator at 37&#x000b0;C. Cells were used when they were in the logarithmic growth phase.</p><p>MTT, crystal violet and propidium iodide (PI) were obtained from Sigma&#x02010;Aldrich (St. Louis, MO, USA). Annexin V&#x02010;FITC/PI was purchased from Bestbio (Bestbio, Shanghai, China), and all primary antibodies were purchased from Wanleibio (Wanleibio, Shenyang, China). Matrigel&#x02122; Basement Membrane Matrix was from BD Biosciences (San Jose, CA, USA). All the primer sequences were synthesized at Sangon Biotech (Shanghai) Co., Ltd.</p></sec><sec id="jcmm15468-sec-0004"><label>2.2</label><title>Plant material</title><p>Whole <italic>B. polyandra</italic> plants were obtained from Wufeng county of Hubei province (China) in 2016. A voucher sample (2W16080501) has been deposited in Third&#x02010;Grade Pharmacological Laboratory on TCM with approval from the State Administration of Traditional Chinese Medicine (SATCM). All the other chemical and reagents used for the preparation and analysis of BPP were of analytical grade from China.</p></sec><sec id="jcmm15468-sec-0005"><label>2.3</label><title>Preparation of polysaccharides and measurement of carbohydrate content</title><p>The dried whole plant of <italic>B. polyandra</italic> (300&#x000a0;g) was firstly minced into small pieces, then extracted using 2.0&#x000a0;L of distilled water at 95&#x000b0;C for 2.5&#x000a0;hours thrice and finally filtered through a multi&#x02010;layer gauze. After centrifugation at 1500&#x000a0;<italic>g</italic> for 10&#x000a0;minutes, the supernatant was saved and concentrated to 1.5&#x000a0;L, and precipitated with 95% ethanol (2.5 volumes) overnight at 4&#x000b0;C. The pellet was separated by centrifugation, then dissolved in distilled water and treated with Sevag reagent (4:1 of chloroform/&#x02010;butanol) to remove proteins. The deproteinized solution was lyophilized, and light brown polysaccharide extract (26.5&#x000a0;g) was obtained. The total carbohydrate content of the polysaccharide extract was determined with phenol&#x02010;sulphuric acid methods to be 54.0% (g/g) and expressed as anhydrous glucose equivalent.</p></sec><sec id="jcmm15468-sec-0006"><label>2.4</label><title>MTT assay</title><p>Both A2780 and OVSAHO cells were added to 96&#x02010;well plates (2000 per well). The next day, compounds were diluted to different concentrations with media supplemented using 5% FBS before addition to appropriate wells. After incubated for 24, 48 and 72&#x000a0;hours, the cell viability was detected via incubation in a 1&#x000a0;mg/mL MTT solution in media for 4&#x000a0;hours, respectively. Next, formazan was solubilized through addition of DMSO (100&#x000a0;&#x003bc;L) for 10&#x000a0;minutes, shaking while protected from light. Finally, absorbance 570&#x000a0;nm (OD<sub>570</sub>) was assessed via microplate reader (Thermo Electron, TYPE1500&#x02010;458, Waltham, MA, USA).</p></sec><sec id="jcmm15468-sec-0007"><label>2.5</label><title>Crystal violet staining assay</title><p>A2780 and OVSAHO cells were plated at 2&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>&#x000a0;cells/well in a 12&#x02010;well culture plates and cultured in 37&#x000b0;C incubators with a DMEM medium containing 5% newborn calf serum and 1% antibiotics. A medium containing BPP at different concentrations was added for 72&#x000a0;hours. The crystal violet solution was added to cover the cell surface and incubated for 20&#x02010;30&#x000a0;minutes. The residual crystal violet was washed away with deionized water, noting that water was not dropped directly to cells. The plate was air&#x02010;dried and photographed with scanner. Then, the crystal violet was solubilized with 1% SDS reagent and the concentration of the colorimetric probe was determined by an optical density measurement at 570&#x000a0;nm.</p></sec><sec id="jcmm15468-sec-0008"><label>2.6</label><title>RNA extraction and cDNA analysis by qPCR</title><p>Quantitative PCR (qPCR) was applied to analyse the mRNA expression levels of cyclin A, CDK2, Bax, Bal&#x02010;2, P53 and P21 in OC cells samples. The sequences of the primers are listed in support data. Total RNA samples were extracted from A2780 and OVSAHO cells using TRIzol (Takara, Cat. 9109), following the protocol. An aliquot of RNA from A2780 and OVSAHO cells was reverse&#x02010;transcribed via M&#x02010;MLV Reverse Transcriptase (New England Biolabs, Cat. M0251S) and random hexamers, following the protocol. The primers were synthesized by Sangon Biotech (Shanghai, China). Amplification and melt curve analysis were performed using an qTOWER 3.0 system (Analytik Jena, Jena, Germany). SYBR<sup>&#x000ae;</sup> Premix Ex Taq kit (Takara, Dalian China) was used for reactions, and total reaction volume was 10&#x000a0;&#x003bc;L. The 2<sup>&#x02212;&#x00394;&#x00394;Ct</sup> method was used for quantifying relative expression.</p></sec><sec id="jcmm15468-sec-0009"><label>2.7</label><title>Western blotting</title><p>Protein samples were prepared from untreated or treated OC cells and first separated by SDS&#x02010;polyacrylamide gel electrophoresis (SDS&#x02010;PAGE) and then transferred to PVDF membranes. The proteins of interest were probed by incubation with the primary antibody (1000 times dilution) at 4&#x000b0;C overnight. The membrane was washed three times (10&#x000a0;min/time) in TBST with gentle agitating to remove residual primary antibody and incubated with corresponding secondary antibody for 1&#x000a0;hour at 37&#x000b0;C. The membranes were washed and imaged by using an ECL chemiluminescent substrate kit according to the instructions provided (Thermo Scientific).</p></sec><sec id="jcmm15468-sec-0010"><label>2.8</label><title>Cell cycle analysis by flow cytometry</title><p>OC cells treated using serially diluted BPP for 48&#x000a0;hours were fixed in ice&#x02010;cold 70% ethanol for 4&#x000a0;hours at 4&#x000b0;C. After washed two times in PBS, cells were resuspended in citrate buffer with RNase A and propidium iodide (10&#x000a0;ng/mL and 50&#x000a0;&#x003bc;g/mL) and incubated for 30&#x000a0;minutes at 37&#x000b0;C. The cell cycle was analysed with the flow cytometry (FACS CantoTM, BD Bioscience, Franklin Lakes, NJ, USA). Data were analysed using ModFit 161 LT version 3.0 software (Verity Software House).</p></sec><sec id="jcmm15468-sec-0011"><label>2.9</label><title>Apoptosis assay by flow cytometer</title><p>Apoptosis in cells was induced by using serial concentrations of BPP for 48&#x000a0;hours with no BPP sample used as a negative control. After incubation, the cells were harvested and washed in cold PBS. Next, annexin V and PI (Bestbio, Shanghai, China) were used for staining at room temperature for 15&#x000a0;minutes and the stained cells were analysed immediately by flow cytometry (FACS CantoTM, BD Bioscience, Franklin Lakes, NJ, USA) to assess apoptotic cell frequency.</p></sec><sec id="jcmm15468-sec-0012"><label>2.10</label><title>Wound healing assay</title><p>OC cells were placed in 6&#x02010;well plates and cultured until full confluence. A 10&#x000a0;&#x003bc;L pipette tip was used to make a straight scratch, simulating a wound, and the wells were gently washed two times using PBS to remove the detached cells. After scratching, serum&#x02010;free medium containing BPP at 0, 20, 40 and 60&#x000a0;&#x003bc;g/mL serial concentrations was added, respectively. Images of the wound area were obtained at 0, 24 and 48&#x000a0;hours. ImageJ was used to measure the scratch area in the visual field for statistical analysis.</p></sec><sec id="jcmm15468-sec-0013"><label>2.11</label><title>Migration assay</title><p>The Matrigel with serum&#x02010;free DMEM medium formed 1:7 complex and then vertically added to a chamber (50&#x000a0;&#x003bc;L/well) at 37&#x000b0;C for 4&#x000a0;hours to be coagulated. A mix of 0.6&#x000a0;mL of DMEM containing 10% newborn calf serum was added in the lower compartment, after which a Transwell insert was put in place. Cells were grown in serum&#x02010;free medium for 24&#x000a0;hours, after which 2&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup>&#x000a0;cells treated with BPP at different concentrations were gently put in the upper compartment and incubated for 48&#x000a0;hours. Thereafter, the chamber out was taken out and the cells in the chamber were removed via cotton swab, and then, crystal violet solution was added to cover the cell surface for 20&#x02010;30&#x000a0;minutes. The cells were observed, and photographs were taken under optical microscope. Then, the crystal violet was solubilized with the 1% SDS reagent, and the concentration of the colorimetric probe was determined by an optical density measurement at 570&#x000a0;nm (OD<sub>570</sub>). Each experiment was repeated three times.</p></sec><sec id="jcmm15468-sec-0014"><label>2.12</label><title>Animals and treatment</title><p>All the animal experiments were consistent with the &#x02018;Guide for the Care and Use of Laboratory Animals&#x02019;, with the China Three Gorges University Animal Experimental Ethics Committee approving these studies. Female BALB/c nu/nu mice (approximately 16&#x000a0;g, 5&#x000a0;weeks old) were purchased from Beijing Vital River Laboratory Animal Technology Co., Ltd. Animals were given 1&#x000a0;week to acclimate. The cell suspensions in log phase of human ovarian cancer of A2780 cell line were implanted into the dorsal skin of nude mice to develop a tumour model. Then, these nude mice were randomly separated into control group (only given NS), low&#x02010;dose group (200&#x000a0;mg/kg&#x000b7;d BPP) and high&#x02010;dose group (400&#x000a0;mg/kg&#x000b7;d BPP). These nude mice were intragastrically administrated once a day. The parameters of the longest and the shortest diameter were observed by vernier caliper on 7, 14, 21 and 28&#x000a0;days after treatment. The tumour volume was calculated according to the calculation formula of V&#x000a0;=&#x000a0;length&#x000a0;&#x000d7;&#x000a0;width<sup>2</sup>&#x000a0;&#x000d7;&#x000a0;<italic>&#x003c0;</italic>/6. After being treated for 28&#x000a0;days, the tumour weight was measured and the inhibitory rate of tumour growth was calculated.</p></sec><sec id="jcmm15468-sec-0015"><label>2.13</label><title>Statistical analysis</title><p>The experimental results were means&#x000a0;&#x000b1;&#x000a0;SD. The statistical software SPSS 20.0 was used for analysis, and one&#x02010;way ANOVA was used for multi&#x02010;group analysis. All the results were repeated at least three times.</p></sec></sec><sec sec-type="results" id="jcmm15468-sec-0016"><label>3</label><title>RESULT</title><sec id="jcmm15468-sec-0017"><label>3.1</label><title>BPP inhibits ovarian cancer cell proliferation</title><p>To study whether BPP inhibits OC cell proliferation, we used MTT to test its proliferation&#x02010;inhibiting effect of human OC cells, A2780 and OVSAHO treated with BPP. We found that at each time&#x02010;point, the proliferation rates of the OC cells were significantly increased (<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.005) with increasing BPP concentration. In addition, the cell viability of the OC cells was significantly decreased as time was prolonged (<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.005) (Figure&#x000a0;<xref rid="jcmm15468-fig-0001" ref-type="fig">1A</xref>). As shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0001" ref-type="fig">1B</xref>, the IC<sub>50</sub> values of BPP on A2780 and OVSAHO were gradually decreased with prolonging the treatment time and increasing concentration of BPP. These experimental results showed that BPP inhibited the proliferation of OC cells in a dose&#x02010; and time&#x02010;dependent manner.</p><fig fig-type="FIGURE" xml:lang="en" id="jcmm15468-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>BPP suppresses proliferation of ovarian cancer cells in vitro. MTT experiments (A) and crystal violet (C) to show the inhibitory effect on the growth/proliferation of BPP on OVSAHO and A2780 cells after treatment with BPP at different concentrations. Representative images are shown. B, 50% inhibitive concentration (IC<sub>50</sub>) of BPP was examined. Data are means&#x000a0;&#x000b1;&#x000a0;SD from three experiments. The experiments were repeated at least three times. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 compared with the control; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 compared with the control; ***<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.001 compared with the control</p></caption><graphic id="nlm-graphic-1" xlink:href="JCMM-24-8115-g001"/></fig><p>Then, we choose the concentrations of BPP at 50, 100 and 150&#x000a0;&#x003bc;g/mL for treatment of A2780 and OVSAHO cells for 48&#x000a0;hours. Surviving cells were fixed and stained with crystal violet, and the OD570 was measured. As shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0001" ref-type="fig">1C</xref>, with the concentration of BPP increased, the number of the cells significantly reduced with increasing BPP concentration. These results suggest that BPP is capable of inhibiting the proliferation of the two lines of OC cells.</p></sec><sec id="jcmm15468-sec-0018"><label>3.2</label><title>BPP inhibited the invasion and migration on ovarian cancer cells</title><p>To discover whether BPP is capable of suppressing the invasion and migration of A2780 and OVSAHO OC cells in vitro, we conducted the wound healing assay and Transwell invasion assay to assess its effects on the invasion and migration of A2780 and OVSAHO cells after treatment with BPP at 20, 40 and 60&#x000a0;&#x003bc;g/mL. In wound healing assay (Figure&#x000a0;<xref rid="jcmm15468-fig-0002" ref-type="fig">2A</xref>), migration (the open space) of A2780 cells was gradually reduced to 71.39% (20&#x000a0;&#x003bc;g/mL), 59.77% (40&#x000a0;&#x003bc;g/mL) and 51.05% (60&#x000a0;&#x003bc;g/mL) after 24&#x000a0;hours treatment with BPP and to 64.79% (20&#x000a0;&#x003bc;g/mL), 55.53% (40&#x000a0;&#x003bc;g/mL) and 56.25% (60&#x000a0;&#x003bc;g/mL) after 48&#x000a0;hours treatment with BPP, respectively. For OVSAHO cells (Figure&#x000a0;<xref rid="jcmm15468-fig-0001" ref-type="fig">1B</xref>), the cell migration rate was decreased to 52.81% (20&#x000a0;&#x003bc;g/mL), 45.78% (40&#x000a0;&#x003bc;g/mL) and 23.32% (60&#x000a0;&#x003bc;g/mL) after 24&#x000a0;hours treatment with BPP and to 37.61% (20&#x000a0;&#x003bc;g/mL), 32.35% (40&#x000a0;&#x003bc;g/mL) and 9.54% (60&#x000a0;&#x003bc;g/mL) after 48&#x000a0;hours treatment with BPP, respectively. These data indicate that the migration capability of OC cells is significantly reduced by BPP.</p><fig fig-type="FIGURE" xml:lang="en" id="jcmm15468-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>BPP inhibits A2780 and OVSAHO mobility. A2780(A) and OVSAHO(B) cell migration was assessed via wound healing assay after treatment with BPP at different concentrations. The area covered with cells was used for quantifying migration rats. C, Transwell method was used to detect the invasiveness of the cells and the absorbance of the stained cells was detected after elution. Data are means&#x000a0;&#x000b1;&#x000a0;SD of triplicate experiments. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 compared with the control; **<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.01 compared with the control; ***<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.001 compared with the control</p></caption><graphic id="nlm-graphic-3" xlink:href="JCMM-24-8115-g002"/></fig><p>Having demonstrated the capability of BPP in inhibiting invasion and migration, we further investigated its effects on cell invasiveness with a Transwell assay. As shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0002" ref-type="fig">2C,D</xref>, BPP was capable of significantly inhibiting the invasion ability and collagenolytic activity of A2780 and OVSAHO in an obvious dose&#x02010;dependent manner. Taken together, our data indicate that the migration and invasion abilities could be suppressed by BPP at low concentration, and the abilities of migration and invasion were reduced constantly with increasing BPP concentration.</p></sec><sec id="jcmm15468-sec-0019"><label>3.3</label><title>BPP induced apoptosis on ovarian cancer cells</title><p>It has been known that apoptosis is an important component mediating suppression of cell proliferation. In the present study, we estimated apoptosis after BPP treatment based on Annexin V/PI staining and assessment via flow cytometry. Compared with that of the negative control, the total apoptotic cells were significantly increased from 5.963% to 51.50% in A2780 cells and 6.557% to 24.48% in OVSAHO cells after BPP treatment at 150&#x000a0;&#x003bc;g/mL for 48&#x000a0;hours (<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.05), respectively (Figure&#x000a0;<xref rid="jcmm15468-fig-0003" ref-type="fig">3A</xref>). Moreover, the expression levels of apoptosis&#x02010;related gene Bax were significantly increased in A2780 and OVSAHO cells after being treated with BPP. Both qPCR analysis and Western blot revealed that the expression levels of Bcl&#x02010;2 were dramatically lowered after BPP treatment (Figure&#x000a0;<xref rid="jcmm15468-fig-0003" ref-type="fig">3B&#x02010;D</xref>). With increasing the drug concentration, the ratio of Bcl&#x02010;2/Bax was dropped progressively and apoptosis cells appeared. Our data thus show that BPP is capable of inducing apoptosis in A2780 and OVSAHO cells.</p><fig fig-type="FIGURE" xml:lang="en" id="jcmm15468-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>BPP promotes apoptosis of ovarian cancer cells in vitro. A, Annexin V/PI staining was used for measuring apoptosis using a flow cytometer. A2780 and OVSAHO cells were treated with BPP at different concentrations for 72&#x000a0;h, and cell cycle distribution was analysed by flow cytometry; Bax, Bcl&#x02010;2, P53 and Bcl&#x02010;2/Bax expression was determined by qPCR (B) and Western blot (C &#x00026; D). Data are presented as mean&#x000a0;&#x000b1;&#x000a0;SD. The experiments were repeated at least three times. *<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.05 compared with the control; **<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.01 compared with the control; ***<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.001 compared with the control</p></caption><graphic id="nlm-graphic-5" xlink:href="JCMM-24-8115-g003"/></fig></sec><sec id="jcmm15468-sec-0020"><label>3.4</label><title>BPP arrested cell cycle progression in S phase</title><p>To explore the possible mechanism underlying the inhibition of cell proliferation activity of BPP towards A2780 and OVSAHO cells, we estimated the changes in cell cycle phases using flow cytometry analysis. As shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0004" ref-type="fig">4A</xref>, treatment of A2780 and OVSAHO cells with BPP at concentrations of 50, 100 and 150&#x000a0;&#x003bc;g/mL for 48&#x000a0;hours induced significantly S&#x02010;phase arrest in a concentration&#x02010;dependent manner. The S&#x02010;phase arrest rates of A2780 and OVSAHO cells treated with the highest BPP concentration (150&#x000a0;&#x003bc;g/mL) tested were significantly increased from 28.40% to 42.95% and from 26.49% to 41.23%, respectively, as compared with those of the negative control group (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001).</p><fig fig-type="FIGURE" xml:lang="en" id="jcmm15468-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>BPP changes OC cell cycle distribution in vitro. A, A2780 and OVSAHO cells were treated using BPP at different concentrations for 72&#x000a0;h, and the cell cycle distributions were measured; the expression levels of cyclin A, CDK2, P21 and P53 were examined by qPCR (B&#x00026;C) and Western blot (D&#x00026;E). Data are presented as mean&#x000a0;&#x000b1;&#x000a0;SD. The experiments were repeated at least three times. *<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.05 compared with the control; **<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.01 compared with the control; ***<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.001 compared with the control</p></caption><graphic id="nlm-graphic-7" xlink:href="JCMM-24-8115-g004"/></fig><p>As we know, cyclin A&#x02010;kinase function is essential for S&#x02010;phase progression; therefore, we examined the expression levels of cyclin A and the corresponding cyclin&#x02010;dependent kinase 2 (CDK2).<xref rid="jcmm15468-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> As shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0004" ref-type="fig">4</xref>B,D,E, the expression levels of both cyclin A and CDK2 were significantly down&#x02010;regulated in BPP&#x02010;treated A2780 and OVSAHO cells at both mRNA and protein levels. These data indicate that BPP can induce S&#x02010;phase cell cycle arrest in both A2780 and OVSAHO cells.</p></sec><sec id="jcmm15468-sec-0021"><label>3.5</label><title>BPP affected the P53 signalling pathway</title><p>As described above, BPP is capable of inducing S cell cycle arrest, triggering apoptosis and preventing OC cells invasion and migration. However, the underlying mechanism is poorly understood. It is well known that P53 is one of the most important genes associated with human tumours, which can influence tumour proliferation by mediating both apoptosis and cell cycle. Therefore, we assessed the mRNA levels and protein expression levels of both P53 and P21 in OC cells and nude mouse models. As shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0004" ref-type="fig">4</xref>C,F, P53 expression was increased, whereas P21 was down&#x02010;regulated by BPP in a dose&#x02010;dependent fashion. Altogether, these data revealed that BPP has strong anti&#x02010;tumour effects, which are related with P53 pathway&#x02010;mediated apoptosis and S cell cycle arrest.</p></sec><sec id="jcmm15468-sec-0022"><label>3.6</label><title>BPP significantly suppresses ovarian tumour growth in vivo</title><p>Having shown that in vitro BPP can inhibit the proliferation and induce the apoptosis of OC cells, we then conducted the experimentation to examine the anti&#x02010;tumour effect with BPP recombinant antibodies in vivo. As shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0005" ref-type="fig">5A</xref>, BPP suppressed the growth of transplanted tumour from ovarian neoplasm nude mice after 28&#x000a0;days of intragastric administration, and the tumour weight was significantly reduced (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05). And in low&#x02010;dose and high&#x02010;dose groups, the suppression rates of xenograft tumour growth were 36.06% and 32.56%, respectively. And then, Bax, Bcl&#x02010;2 and P53 protein levels in the normal group, the low&#x02010;dose group and the high&#x02010;dose group were also examined by Western blot. Relative to the control group, the expression levels of Bax (Figure&#x000a0;<xref rid="jcmm15468-fig-0005" ref-type="fig">5B</xref>) and P53 were significantly increased and Bcl&#x02010;2 was decreased when dose of BPP was increased (<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.05). Together, this indicates that BPP is capable of inhibiting the growth of ovarian tumour by inducing apoptosis via P53 signalling pathways in vivo.</p><fig fig-type="FIGURE" xml:lang="en" id="jcmm15468-fig-0005" orientation="portrait" position="float"><label>FIGURE 5</label><caption><p>BPP treatment reduces the growth and metastasis of tumours in vivo. A, Images of excised tumours 28&#x000a0;d after treatment by BPP. B, Bax, Bcl&#x02010;2 and P53 levels measured by Western blotting. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 compared with the control; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 compared with the control; ***<italic>P&#x000a0;&#x0003c;&#x000a0;</italic>0.001 compared with the control</p></caption><graphic id="nlm-graphic-9" xlink:href="JCMM-24-8115-g005"/></fig></sec></sec><sec sec-type="discussion" id="jcmm15468-sec-0023"><label>4</label><title>DISCUSSION</title><p>OC is ranked the first among the cancers threatening women's health. It has attracted tremendous attention of cancer researchers because of its extremely high mortality rate. At the present, radiotherapy and chemotherapy are widely used in clinic. However, their side effects are relatively serious. The use of THMs as adjuvant therapy to alleviate cancer symptoms has advantages over Western medicine in specific aspects, such as prevention of tumorigenesis, attenuation of toxicity and enhancement of the therapeutic effect. Thus, OC has become a hot research and development object of anti&#x02010;cancer drugs.</p><p>BPP from <italic>Balanophora</italic> plants has the effects of haemostatic, analgesic, anti&#x02010;inflammation and anti&#x02010;tumour.<xref rid="jcmm15468-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="jcmm15468-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="jcmm15468-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> BPP is extracted from the whole plant of <italic>B. polyandra</italic> by the methods involving hot&#x02010;water lixiviation, ethanol sedimentation and Sevag's deproteinization. However, at the present, there have been no reports on the treatment of ovarian cancer with BPP. Herein, we reported for the first time that BPP has an inhibitory effect on the growth of OC cells and xenograft tumours in a dose&#x02010;dependent manner. In addition, BPP can inhibit cell invasion and migration, induce cancer cell apoptosis and block cell cycle, which might be resulted from the BPP multiple targets of complex diseases, including ovarian cancer.</p><p>To investigate the influence of BPP on the invasion and migration of OC cells, the wound healing assay and migration assay were used to observe the changes of the migration and invasion of OC cells under the action of BPP, respectively. Because the results of MTT experiment showed that when the BPP concentration was above 60&#x000a0;&#x003bc;g/Ml, the cell survival rate of OC cells is &#x0003c;80% at 48&#x000a0;hours. To avoid the proliferation inhibition of BPP on OC cells leading to false&#x02010;positive results of the wound healing assay and migration assay, 20, 40 and 60&#x000a0;&#x003bc;g/mL of BPP were selected for subsequent studies. The results, shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0002" ref-type="fig">2A,B</xref>, indicate that BPP has significant effects of anti&#x02010;migration and anti&#x02010;invasion on A2780 and OVSAHO cells.</p><p>Apoptosis is a programmed death which is highly regulated. It has been shown by relevant studies that the occurrence, development and regression of OC are closely related to apoptosis, so inducing apoptosis of cancer cells has become a hot spot and a new target for tumour treatment.<xref rid="jcmm15468-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> In this study, we used Annexin V/PI staining to assess OC cell apoptosis induced by BPP and found that BPP could significantly induce apoptosis of human ovarian cancer cells A2780 and OVSAHO. Both Bcl&#x02010;2 and Bax play important regulatory roles in apoptotic pathways.<xref rid="jcmm15468-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> When Bax is highly expressed, cells are sensitive to death signals and promote apoptosis; when Bcl&#x02010;2 is highly expressed, Bcl&#x02010;2 and Bax can form heterodimers and inhibit apoptosis.<xref rid="jcmm15468-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Therefore, the relative expression levels of Bcl&#x02010;2 and Bax in cells and the ratio of Bcl&#x02010;2/Bax are the very important indicators for determining the sensitivity of cell apoptosis. In this study, we found that BPP could significantly inhibit Bcl&#x02010;2 expression in both OC cells and xenograft tumours in nude mice, and significantly rose the expression level of Bax. The decrease in Bcl&#x02010;2/Bax ratio suggested that BPP could significantly activate apoptosis in ovarian cancer.</p><p>The mitotic intervals in cell cycle can be divided into three stages: DNA pre&#x02010;synthetic stage (G1 stage), DNA synthesis stage (S stage) and DNA post&#x02010;synthetic stage (G2 stage). PI staining assay indicated that the DNA synthesis of ovarian cancer cells was inhibited after BPP treatment and that the cell cycle was blocked at S stage in a dose&#x02010;dependent manner. Research by Nurse et al<xref rid="jcmm15468-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> found that cyclin&#x02010;dependent kinase (CDK) plays an important role in the cell cycle, which is regulated the cell cycle by chemically modifying other proteins; Timothy Hunt demonstrated that cyclin is cyclically degraded during each cell division and regulates the cell cycle by regulating CDK.<xref rid="jcmm15468-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> Recent researches have found 8 types of cyclin, cyclin A&#x02010;H, in mammalian cells.<xref rid="jcmm15468-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> In the process of cell cycle regulation, cyclin proteins that are cyclically expressed bind to CDK proteins to form complexes, thereby activating the kinase activity of CDK and regulating the cell cycle. Relevant studies have shown that if the expression of cyclin A is inhibited in cells, resulting in the down&#x02010;regulated expression of the bound CDK2, the cell cycle will be stagnant in the S phase.<xref rid="jcmm15468-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref>, <xref rid="jcmm15468-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> As shown in Figure&#x000a0;<xref rid="jcmm15468-fig-0004" ref-type="fig">4</xref>, BPP can inhibit the formation of cyclin A&#x02010;CDK2 complex by inhibiting their expression and, thus, mediates cell cycle arrest in S stage.</p><p>P53 signalling is important in the development of cancer. It controls a wide and flexible signalling networks and regulates the genome integrity. There are two ways for P53 to participate in the repair of cell damage as follows: first, P21 gene promoter region has p53 binding site, so p53 can bind to it and activates p21 gene transcription.<xref rid="jcmm15468-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> When the DNA of cells is damaged, the expression level of p21 gene is increased under the induction of p53, and the CDK activity is inhibited; thus, the cell cycle is affected. Second, when DNA damage is too serious to be repaired, P53 can induce Bax expression, thus regulating cell apoptosis.<xref rid="jcmm15468-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> In this experiment, we explored whether BPP affected P53 signalling pathway and found that the changes in P53 and P21 activities were correlated with the proliferation of OC cells and tissues stimulated by BPP, suggesting that P53 may be one of the important signalling pathways in the process of BPP regulating the proliferation of OC cells.</p><p>At the present, the continuous exploration of the inhibition of BPP on the proliferation of cervical cancer has provided new ideas and directions for pro&#x02010;drug screening and treatment of ovarian cancer. However, there are still some defects in the current research on the treatment of BPP on ovarian cancer, and the main aspects are as follows: (a) while BPP showed a moderate to strong inhibitory activity against ovarian cancer cells, its specific chemical and structural properties are still unclear and need to be further studied; (b) the present anti&#x02010;cervical cancer activity experiment of BPP is still at a relatively shallow level, and there are few studies on the related mechanism, which is urgent to be further elucidated at present and in the future stage; and (c) the effect of BPP combined with surgery or radiotherapy and chemotherapy has not been studied yet. It is hopeful to explore a new direction for the development and application of anti&#x02010;cancer drugs for clinical ovarian cancer by taking the advantages of BPP, such as multi&#x02010;target, lower toxicity and fewer side effects. Therefore, it is necessary to further study the anti&#x02010;cancer activity and the underlying mechanism of anti&#x02010;ovarian cancer drugs in order to achieve a deeper understanding of the mechanism and biomedicine of ovarian cancer.</p></sec><sec sec-type="conclusions" id="jcmm15468-sec-0024"><label>5</label><title>CONCLUSION</title><p>This research has clearly revealed that BPP can inhibit proliferation ovarian cancer cells via inducing apoptosis, blocking cell cycle in S phase and inhibiting migration and invasion. The results also suggest that P53 pathway may be an important signal pathway involved in inhibition of proliferation of ovarian cancer. BPP can effectively prohibit the proliferation of ovarian cancer and, thus, can be a new medicine to be used for treatment of ovarian cancer.</p></sec><sec sec-type="COI-statement" id="jcmm15468-sec-0026"><title>CONFLICT OF INTEREST</title><p>The authors declare that they have no conflict of interest.</p></sec><sec id="jcmm15468-sec-0027"><title>AUTHOR CONTRIBUTIONS</title><p>Jiayuan Qu contributions: writing (original draft) and data curation. Yumin He contributions: methodology and investigation. Liyue Gai, Yue Shi and Fan Peng contributions: formal analysis. Li Xiao, Zicheng Li and Xiaomin Wang contributions: supervision and project administration. Chengfu Yuan contributions: writing (review and editing) and funding acquisition. All authors read and approved the final manuscript.</p></sec><sec id="jcmm15468-sec-0028"><title>ETHICAL APPROVAL</title><p>All the animal experiments were consistent with the &#x02018;Guide for the Care and Use of Laboratory Animals&#x02019;, with the China Three Gorges University Animal Experimental Ethics Committee approving these studies.</p></sec></body><back><ack id="jcmm15468-sec-0025"><title>ACKNOWLEDGEMENTS</title><p>The work was supported by the grants from National Natural Science Foundation of China (Grant No. 81773959 to CF Yuan and No. 81974528 to CF Yuan), Open Foundation for Tumor Microenvironment and Immunotherapy Key Laboratory of Hubei province in China (Grant No. 2019KZL09 to CF Yuan) and Health commission of Hubei Province scientific research project in China (Grant No. WJ2019H527 to CF Yuan).</p></ack><sec sec-type="data-availability" id="jcmm15468-sec-0030"><title>DATA AVAILABILITY STATEMENT</title><p>The data used to support the findings of this study are available from the corresponding author upon request.</p></sec><ref-list content-type="cited-references" id="jcmm15468-bibl-0001"><title>REFERENCES</title><ref id="jcmm15468-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0001">
+<string-name>
+<surname>Torre</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Trabert</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Desantis</surname>
+<given-names>CE</given-names>
+</string-name>, et al. <article-title>Ovarian cancer statistics, 2018</article-title>. <source xml:lang="en">Histopathology</source>. <year>2018</year>.</mixed-citation></ref><ref id="jcmm15468-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0002">
+<string-name>
+<surname>Coburn</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Bray</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sherman</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Trabert</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>International patterns and trends in ovarian cancer incidence, overall and by histologic subtype</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2017</year>;<volume>140</volume>:<fpage>2451</fpage>&#x02010;<lpage>2460</lpage>.<pub-id pub-id-type="pmid">28257597</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0003">
+<string-name>
+<surname>Chang&#x02010;quan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Xiao&#x02010;qiang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ling</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Three advantages of using traditional Chinese medicine to prevent and treat tumor</article-title>. <source xml:lang="en">J Integr Med</source>. <year>2014</year>;<volume>12</volume>:<fpage>331</fpage>&#x02010;<lpage>335</lpage>.<pub-id pub-id-type="pmid">25074882</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0004">
+<collab collab-type="authors">Cancer IAfRo</collab>
+. <article-title>Some traditional herbal medicines, some mycotoxins, naphthalene and styrene</article-title>. <source xml:lang="en">IARC Monogr Eval Carcinog RisksHumans</source>. <year>2002</year>;<volume>82</volume>:<fpage>1</fpage>&#x02010;<lpage>556</lpage>.</mixed-citation></ref><ref id="jcmm15468-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0005">
+<string-name>
+<surname>Yi&#x02010;Ping</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Xin&#x02010;En</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Jie</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Clinical safety and efficacy of Kanglaite? (Coix Seed Oil) injection combined with chemotherapy in treating patients with gastric cancer</article-title>. <source xml:lang="en">Asian Pac J Cancer Prev</source>. <year>2012</year>;<volume>13</volume>:<fpage>5319</fpage>&#x02010;<lpage>5321</lpage>.<pub-id pub-id-type="pmid">23244156</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0006">
+<string-name>
+<surname>Chaturvedi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Goswami</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Saikia</surname>
+<given-names>PP</given-names>
+</string-name>, <string-name>
+<surname>Barua</surname>
+<given-names>NC</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>PG</given-names>
+</string-name>. <article-title>ChemInform abstract: artemisinin and its derivatives: a novel class of antimalarial and anticancer agents</article-title>. <source xml:lang="en">Cheminform</source>. <year>2010</year>;<volume>39</volume>:<fpage>435</fpage>&#x02010;<lpage>454</lpage>.</mixed-citation></ref><ref id="jcmm15468-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0007">
+<string-name>
+<surname>Kamal</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Recent developments towards podophyllotoxin congeners as potential apoptosis inducers</article-title>. <source xml:lang="en">Anti&#x02010;Cancer Agents Med Chem</source>. <year>2015</year>;<volume>15</volume>:<fpage>1781</fpage>&#x02010;<lpage>1785</lpage>.</mixed-citation></ref><ref id="jcmm15468-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0008">
+<string-name>
+<surname>Lerzo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>O'Connor</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Mendez</surname>
+<given-names>GA</given-names>
+</string-name>, et al. <article-title>Pembrolizumab versus paclitaxel for previously treated, advanced gastric or gastro&#x02010;oesophageal junction cancer (KEYNOTE&#x02010;061): a randomised, open&#x02010;label, controlled, phase 3 trial</article-title>. <source xml:lang="en">Lancet</source>. <year>2018</year>;<volume>392</volume>:<fpage>1251</fpage>&#x02010;<lpage>1262</lpage>.</mixed-citation></ref><ref id="jcmm15468-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0009">
+<string-name>
+<surname>Feng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Peng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>ZL</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Chemical constituents of <italic>Balanophora involucrata</italic>
+</article-title>. <source xml:lang="en">Chem Nat Compd</source>. <year>2018</year>;<volume>1&#x02013;3</volume>.</mixed-citation></ref><ref id="jcmm15468-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0010">
+<string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Qiao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>She</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Phytochemicals and biological studies of plants from the genus Balanophora</article-title>. <source xml:lang="en">Chem Cent J</source>. <year>2012</year>;<volume>6</volume>(<issue>1</issue>):<fpage>79</fpage>.<pub-id pub-id-type="pmid">22853440</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0011">
+<string-name>
+<surname>Su</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Murata</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Morphology and phylogenetics of two holoparasitic plants, Balanophora japonica and Balanophora yakushimensis (Balanophoraceae), and their hosts in Taiwan and Japan</article-title>. <source xml:lang="en">J Plant Res</source>. <year>2012</year>;<volume>125</volume>:<fpage>317</fpage>&#x02010;<lpage>326</lpage>.<pub-id pub-id-type="pmid">21894574</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0012">
+<string-name>
+<surname>Hisamatsu</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Antitumor Effects of (1.RAR.3)&#x02010;.BETA.&#x02010;D&#x02010;Glucan and (1.RAR.6)&#x02010;.BETA.&#x02010;D&#x02010;Glucan Purified from Newly Cultivated Mushroom, Hatakeshimeji (Lyophyllum decastes Sing.)</article-title>. <source xml:lang="en">J Biosci Bioeng</source>. <year>2000</year>;<volume>90</volume>:<fpage>98</fpage>&#x02010;<lpage>104</lpage>.<pub-id pub-id-type="pmid">16232825</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0013">
+<string-name>
+<surname>Krek</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Livingston</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Cyclin A&#x02010;kinase regulation of E2F&#x02013;1 DNA binding function underlies suppression of an S phase checkpoint</article-title>. <source xml:lang="en">Cell</source>. <year>1995</year>;<volume>83</volume>:<fpage>1149</fpage>&#x02010;<lpage>1158</lpage>.<pub-id pub-id-type="pmid">8548802</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0014">
+<string-name>
+<surname>Wang</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>CR</given-names>
+</string-name>. <article-title>New phenolic constituents from <italic>Balanophora polyandra</italic> with radical&#x02010;scavenging activity</article-title>. <source xml:lang="en">Chem Biodivers</source>. <year>2010</year>;<volume>38</volume>:<fpage>1932</fpage>&#x02010;<lpage>1936</lpage>.</mixed-citation></ref><ref id="jcmm15468-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0015">
+<string-name>
+<surname>Chen</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Ching</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Hsieh</surname>
+<given-names>WT</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>HY</given-names>
+</string-name>
+<article-title>
+<italic>Balanophora spicata</italic> and lupeol acetate possess antinociceptive and anti&#x02010;inflammatory activities in vivo and in vitro</article-title>. <source xml:lang="en">Evid Based Complement Alternat Med</source>. <year>2012</year>;<volume>2012</volume>:<fpage>371273</fpage>.<pub-id pub-id-type="pmid">23243439</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0016">
+<string-name>
+<surname>Tao</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Improvement of high&#x02010;fat&#x02010;diet&#x02010;induced metabolic syndrome by a compound from Balanophora polyandra Griff in mice</article-title>. <source xml:lang="en">Eur J Pharmacol</source>. <year>2009</year>;<volume>616</volume>:<fpage>328</fpage>&#x02010;<lpage>333</lpage>.<pub-id pub-id-type="pmid">19540228</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0017">
+<string-name>
+<surname>Kleemann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Unger</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Induction of apoptosis in ovarian cancer cells by miR&#x02010;493&#x02010;3p directly targeting AKT2, STK38L, HMGA2, ETS1 and E2F5</article-title>. <source xml:lang="en">Cell Mol Life Sci</source>. <year>2019</year>;<volume>76</volume>:<fpage>1</fpage>&#x02010;<lpage>21</lpage>.<pub-id pub-id-type="pmid">30302529</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0018">
+<string-name>
+<surname>Hajiahmadi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Panjehpour</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aghaei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shabani</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Activation of A2b adenosine receptor regulates ovarian cancer cell growth: involvement of Bax/Bcl&#x02010;2 and caspase&#x02010;3.####Adenosine Receptor 2A Blockade Increases the Efficacy of Anti&#x02010;PD&#x02010;1 through Enhanced Antitumor T&#x02010;cell Responses.####Activation of adenosine</article-title>. <source xml:lang="en">Biochem Cell Biol</source>. <year>2015</year>;<volume>93</volume>:<fpage>321</fpage>.<pub-id pub-id-type="pmid">25877700</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0019">
+<string-name>
+<surname>Zi&#x000f3;&#x00142;kowska&#x02010;Seta</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>M&#x00105;dry</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kraszewska</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>TP53, BCL&#x02010;2 and BAX analysis in 199 ovarian cancer patients treated with taxane&#x02010;platinum regimens</article-title>. <source xml:lang="en">Gynecol Oncol</source>. <year>2009</year>;<volume>112</volume>:<fpage>179</fpage>&#x02010;<lpage>184</lpage>.<pub-id pub-id-type="pmid">18937971</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0020">
+<string-name>
+<surname>Nurse</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Tyrosine phosphorylation of the fission yeast cdc2+ protein kinase regulates entry into mitosis</article-title>. <source xml:lang="en">Nature</source>. <year>1989</year>;<volume>342</volume>:<fpage>39</fpage>&#x02010;<lpage>45</lpage>.<pub-id pub-id-type="pmid">2682257</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0021">
+<string-name>
+<surname>West</surname>
+<given-names>SC</given-names>
+</string-name>. <article-title>CDK&#x02010;dependent phosphorylation of BRCA2 as a regulatory mechanism for recombinational repair</article-title>. <source xml:lang="en">Nature</source>. <year>2005</year>;<volume>434</volume>:<fpage>598</fpage>&#x02010;<lpage>604</lpage>.<pub-id pub-id-type="pmid">15800615</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0022">
+<string-name>
+<surname>Kirschner</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Cyclin is degraded by the ubiquitin pathway</article-title>. <source xml:lang="en">Nature</source>. <year>1991</year>;<volume>349</volume>:<fpage>132</fpage>&#x02010;<lpage>138</lpage>.<pub-id pub-id-type="pmid">1846030</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0023">
+<string-name>
+<surname>Kudo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ikeda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nishikawa</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The RASSF3 candidate tumor suppressor induces apoptosis and G1&#x02010;S cell&#x02010;cycle arrest via p53</article-title>. <source xml:lang="en">Can Res</source>. <year>2012</year>;<volume>72</volume>:<fpage>2901</fpage>.</mixed-citation></ref><ref id="jcmm15468-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0024">
+<string-name>
+<surname>Raithatha</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Stuart</surname>
+<given-names>DT</given-names>
+</string-name>. <article-title>Meiosis&#x02010;specific regulation of the saccharomyces cerevisiae S&#x02010;phase cyclin CLB5 is dependent on mlui cell cycle box (MCB) elements in its promoter but is independent of MCB&#x02010;binding factor activity</article-title>. <source xml:lang="en">Genetics</source>. <year>2005</year>;<volume>169</volume>:<fpage>1329</fpage>&#x02010;<lpage>1342</lpage>.<pub-id pub-id-type="pmid">15654101</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0025">
+<string-name>
+<surname>Goodheart</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ritchie</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rose</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Fruehauf</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>De</surname>
+<given-names>BRE</given-names>
+</string-name>. <article-title>The relationship of molecular markers of p53 function and angiogenesis to prognosis of stage I epithelial ovarian cancer</article-title>. <source xml:lang="en">Clin Cancer Res</source>. <year>2005</year>;<volume>11</volume>:<fpage>3733</fpage>&#x02010;<lpage>3742</lpage>.<pub-id pub-id-type="pmid">15897570</pub-id></mixed-citation></ref><ref id="jcmm15468-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm15468-cit-0026">
+<string-name>
+<surname>Chan</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Schorge</surname>
+<given-names>JO</given-names>
+</string-name>, et al. <article-title>Bcl&#x02010;2 and p53 protein expression, apoptosis, and p53 mutation in human epithelial ovarian cancers</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>2000</year>;<volume>156</volume>:<fpage>409</fpage>&#x02010;<lpage>417</lpage>.<pub-id pub-id-type="pmid">10666369</pub-id></mixed-citation></ref></ref-list></back></article>

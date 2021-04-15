@@ -1,0 +1,956 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Insect Sci</journal-id><journal-id journal-id-type="iso-abbrev">J. Insect Sci</journal-id><journal-id journal-id-type="hwp">jis</journal-id><journal-id journal-id-type="publisher-id">jis</journal-id><journal-title-group><journal-title>Journal of Insect Science</journal-title></journal-title-group><issn pub-type="epub">1536-2442</issn><publisher><publisher-name>Oxford University Press</publisher-name><publisher-loc>Oxford, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25373196</article-id><article-id pub-id-type="pmc">4206241</article-id><article-id pub-id-type="doi">10.1093/jis/14.1.49</article-id><article-categories><subj-group subj-group-type="heading"><subject>Papers</subject></subj-group></article-categories><title-group><article-title>Identification, rearing, and distribution of stick insects of Madeira Island: An example of raising biodiversity awareness</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Aguiar</surname><given-names>Ant&#x000f3;nio M. F.</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="cor1">a</xref><!--<email>antonioaguiar.sra@gov-madeira.pt</email>--></contrib><contrib contrib-type="author"><name><surname>Pombo</surname><given-names>Dora Aguin</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref><xref ref-type="corresp" rid="cor2">b</xref><!--<email>aguin@uma.pt</email>--></contrib><contrib contrib-type="author"><name><surname>Gon&#x000e7;alves</surname><given-names>Ysabel M.</given-names></name><xref ref-type="aff" rid="aff4">4</xref><xref ref-type="corresp" rid="cor3">c</xref><!--<email>ysabel.goncalves@cm-funchal.pt</email>--></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Hagedorn</surname><given-names>Henry</given-names></name></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+Secretaria Regional do Ambiente e Recursos Naturais, Laborat&#x000f3;rio de Qualidade Agr&#x000ed;cola, Caminho Municipal dos Caboucos, 61, 9135-372, Camacha, Madeira, Portugal
+</aff><aff id="aff2">
+<label>2</label>
+Universidade da Madeira, 9000-390 Funchal, Madeira, Portugal
+</aff><aff id="aff3">
+<label>3</label>
+CIBIO, Centro de Investiga&#x000e7;&#x000e3;o em Biodiversidade e Recursos Gen&#x000e9;ticos, Universidade do Porto, 4485-601 Vair&#x000e3;o, Portugal
+</aff><aff id="aff4">
+<label>4</label>
+Museu de Hist&#x000f3;ria Natural do Funchal, Rua da Mouraria, 31, 9004-546 Funchal, Madeira, Portugal
+</aff><author-notes><corresp id="cor1"><label>a</label><email>antonioaguiar.sra@gov-madeira.pt</email></corresp><corresp id="cor2"><label>b</label><email>aguin@uma.pt</email></corresp><corresp id="cor3"><label>c</label><email>ysabel.goncalves@cm-funchal.pt</email></corresp><corresp id="cor4"><label>*</label>
+Corresponding author
+</corresp></author-notes><pub-date pub-type="collection"><year>2014</year></pub-date><pub-date pub-type="epub"><day>01</day><month>1</month><year>2014</year></pub-date><pub-date pub-type="pmc-release"><day>01</day><month>1</month><year>2014</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>14</volume><elocation-id>49</elocation-id><history><date date-type="received"><day>27</day><month>5</month><year>2012</year></date><date date-type="accepted"><day>09</day><month>10</month><year>2013</year></date></history><permissions><copyright-statement>This is an open access paper. We use the Creative Commons Attribution 3.0 license that permits unrestricted use, provided that the paper is properly attributed.</copyright-statement><copyright-year>2014</copyright-year><license license-type="cc-by" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p><!--CREATIVE COMMONS-->This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>), which permits unrestricted reuse, distribution, and reproduction in any medium, providedthe original work is properly cited.</license-p></license></permissions><self-uri xlink:href="jis14-0049.pdf"/><abstract><title>Abstract</title><p>
+Two species of stick insects are currently known to be present in the Macaronesian archipelagos:
+<italic>Clonopsis gallica</italic>
+(Charpentier) (Phasmatodea: Bacillidae) on the Canary Islands and in the Azores and
+<italic>Carausius morosus</italic>
+(Sin&#x000e9;ty) (Phasmatidae) in the Azores. Here, we provide the first reliable records of the presence and distribution of
+<italic>C. gallica</italic>
+and
+<italic>C. morosus</italic>
+on Madeira Island. Egg and adult stages are briefly described along with some notes on the life history of these species in captivity. Data on islandwide distribution are based on specimens donated by the public in response to an article published in a daily newspaper. This method of data collection raised great popular interest in stick insects. The role of newspapers as a means of communicating awareness in biodiversity issues is discussed.
+</p></abstract><kwd-group><kwd>Bacillidae</kwd><kwd><italic>Clonopsis gallica</italic></kwd><kwd><italic>Carausius morosus</italic></kwd><kwd>Macaronesia</kwd><kwd>Phasmatidae</kwd></kwd-group><counts><page-count count="13"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>
+The apparent paucity of stick insect (Phasmatodea) species in Macaronesia is surprising when compared with the stick insect faunas of other islands. A recent checklist of terrestrial taxa from Madeira and Selvagens archipelagos lists 3,394 taxa of arthropods (3,097 are insects), of which about 30% are endemic (
+<xref rid="R10" ref-type="bibr">Borges et al. 2008</xref>
+). However, this list does not provide records of Phasmatodea. The absence of stick insect records from Madeira was referred to by
+<xref rid="R2" ref-type="bibr">Ba&#x000e9;z (1993)</xref>
+, who considered the single specimen observed by M. Biscoito, the director of the Museum of Natural History of Funchal, a likely case of &#x02018;fortuitous introduction.&#x02019; According to
+<xref rid="R41" ref-type="bibr">van Harten (1993)</xref>
+and
+<xref rid="R1" ref-type="bibr">Arechavaleta et al. (2005)</xref>
+, records of Phasmatodea from the Cape Verde archipelago are also unknown. However, the Canary Islands archipelago has one confirmed species,
+<italic>Clonopsis gallica</italic>
+(Charpentier) (Bacillidae)
+<italic>,</italic>
+and the Azores has this species and
+<italic>Carausius morosus</italic>
+(Sin&#x000e9;ty) (Phasmatidae). Both species are considered to be non-native to these archipelagos (
+<xref rid="R26" ref-type="bibr">Lop&#x000e9;z and Morales 2010</xref>
+;
+<xref rid="R40" ref-type="bibr">Sousa 2010</xref>
+).
+</p><p>
+More specifically,
+<italic>C. gallica</italic>
+has being reported from Tenerife (Canary Islands) and from Faial and S&#x000e3;o Miguel (Azores). In the Canary Islands, this species was first cited by
+<xref rid="R9" ref-type="bibr">Bol&#x000ed;var (1926)</xref>
+, who didn&#x02019;t give an indication of a specific island, and afterward by
+<xref rid="R18" ref-type="bibr">Chopard (1954)</xref>
+. In the Azores, it was first cited by
+<xref rid="R8" ref-type="bibr">Bol&#x000ed;var (1894)</xref>
+from S&#x000e3;o Miguel Island and later from Faial Island by
+<xref rid="R17" ref-type="bibr">Chopard (1940)</xref>
+. More recently,
+<xref rid="R3" ref-type="bibr">Ba&#x000e9;z (1996)</xref>
+collected a few specimens on Tenerife in a cultivated area to the north side of the island. In addition, there are some other unreliable records of an un-documented species for this archipelago. The identification of some of these species is questionable, and their presence still remains unstudied (
+<xref rid="R7" ref-type="bibr">Blands et al. 1996</xref>
+). In the Azores,
+<italic>C. morosus</italic>
+has been reported for Faial and Terceira by
+<xref rid="R40" ref-type="bibr">Sousa (2010)</xref>
+and more recently from Santa Maria and S&#x000e3;o Miguel islands by
+<xref rid="R11" ref-type="bibr">Borges et al. (2013)</xref>
+.
+</p><p>
+Species of stick insects range in size from large to very large, with one recently described Malaysian species,
+<italic>Phobaeticus chani</italic>
+Bragg, having an astounding total length of 570 mm. This is considered the largest extant insect known to date (
+<xref rid="R23" ref-type="bibr">Hennemann and Conle 2008</xref>
+). However, despite their large size, stick insects have very effective camouflage, adopting the appearance of sticks or leaves. Together with low population densities, this may be one of the reasons why so few specimens have been collected until recently in Macaronesian archipelagos. Over the last decade, stick insects have occasionally been found by professional entomologists, and recently many people have started to find them in houses across the Madeira Island. This clearly suggests that the populations are increasing in density and distribution. As a result, interest has been sparked among the general public and requests for information were made to a local newspaper.
+</p><p>In response to this sudden interest, the authors were contacted by the local newspaper for more information such as: how many species live on Madeira, when did they first appear, whether they were originally from Madeira, and if they could cause damage to crops or people. Our interest was raised and, as we did not feel qualified to answer many of the questions, we made a request through the paper inviting people to bring us specimens. There was an excellent response to our request which allowed us to generate a very comprehensive distribution database. Collectors were pleased to know that their name could appear on the publication of this information. This sudden interest leads us to publish these records and reflect on communicating biodiversity awareness: are we doing the right things to generate interest in people and convince them that biodiversity and taxonomy are important?</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><p>
+The classification adopted follows the Phasmida Species File online database by Paul Brock (
+<ext-link ext-link-type="uri" xlink:href="http://Phasmida.SpeciesFile.org">http://Phasmida.SpeciesFile.org</ext-link>
+). The specimens studied and collected by the general public were deposited in the following Institutions:
+</p><p>MMF &#x02013; Museu Municipal do Funchal (Hist&#x000f3;ria Natural), Funchal, Madeira, Portugal ICLAM &#x02013; Laborat&#x000f3;rio de Qualidade Agr&#x000ed;cola, Camacha, Madeira, Portugal UMa &#x02013; Universidade da Madeira, Funchal, Madeira, Portugal</p><sec><title>Insect sampling</title><p>
+Madeira is an oceanic island located in the North Atlantic at about 635 km from North Africa (Morocco) and 849 km from Europe (Sagres, Portugal). In Madeira, most specimens of
+<italic>Clonopsis gallica</italic>
+and
+<italic>Carasius morosus</italic>
+were sampled by citizens primarily in houses and gardens by hand collecting, although some specimens were collected during regular entomological field trips by two of the authors (A. Aguiar and Y. Gon&#x000e7;alves).
+</p></sec><sec><title>Insect rearing</title><p>
+A female
+<italic>Clonopsis gallica</italic>
+only a few days old was collected on 15 April 2010 and an adult mature female
+<italic>Carasius morosus</italic>
+was collected on 28 June 2010 in the same locality: Assomada, Madeira, 28SCB2914 (UTM). They were fed in the laboratory on elm leaf blackberry,
+<italic>Rubus ulmifolius</italic>
+Schott (Rosales: Rosaceae), until they died eight months later.The stick insects were kept in round plastic breeding cages with leafy branches of
+<italic>R. ulmifolius</italic>
+provided in jars of water that were replenished each week. The cages consisted of transparent cylinders 20 cm in diameter and 40 cm high, with a base and lid of durable green polythene. Throughout their development, in an unheated room, no particular light source was used other than the room artificial illumination consisting of eight fluorescent tubes, which were turned on for at least seven hours each day. Eggs were collected from the floor of the cages at regular periods and kept in separate cages. The preoviposition, oviposition, and postoviposition periods were registered. The preoviposition period is considered the number of days required for females to start laying eggs following eclosion, the ovipositon period refers to the number of days they oviposit, and the postoviposition period is equivalent to the number of days they survive after oviposition has terminated.
+</p></sec></sec><sec sec-type="Results"><title>Results</title><sec><title>Identification of species breeding in Madeira</title><p>
+The two species of stick insect,
+<italic>Clonopsis gallica</italic>
+and
+<italic>Carausius morosus</italic>
+, presently breeding in the wild on Madeira Island can be easily differentiated macroscopically. These stick insects are parthenogenetic, and so, as males are extremely rare in nature, we will be referring exclusively to female characters (see
+<xref ref-type="table" rid="t1">Table 1</xref>
+). The most common species,
+<italic>C. morosus</italic>
+, has a slightly longer body (
+<xref ref-type="fig" rid="f1">Figure 1a</xref>
+) and long antennae (
+<xref ref-type="fig" rid="f1">Figure 1a</xref>
+,
+<xref ref-type="fig" rid="f2">2a</xref>
+), almost filiform with numerous small segments; the inner face of the fore femur&#x02019;s base is bright red (
+<xref ref-type="fig" rid="f2">Figure 2a</xref>
+); the subgenital plate reaches the apex of tergite 10 (
+<xref ref-type="fig" rid="f3">Figure 3a</xref>
+); the eggs are globose, brown, and the operculum located at the anterior pole has a button-like yellowish capitulum (
+<xref ref-type="fig" rid="f4">Figure 4a</xref>
+,
+<xref ref-type="fig" rid="f4">b</xref>
+,
+<xref ref-type="fig" rid="f4">c</xref>
+) and a brownish micropylar plate occupying about half length of the egg&#x02019;s dorsal surface. The second species,
+<italic>C. gallica</italic>
+, has short antennae with 13 segments (
+<xref ref-type="fig" rid="f1">Figure 1b</xref>
+,
+<xref ref-type="fig" rid="f2">2b</xref>
+); inner face of fore femur&#x02019;s base the same color as body (
+<xref ref-type="fig" rid="f2">Figure 2b</xref>
+); subgenital plate reaches the apex of tergite 9 (
+<xref ref-type="fig" rid="f3">Figure 3b</xref>
+), and the egg of similar shape but the operculum does not present a capitulum and the micropylar plate has the same colour of the main capsule, occupying about 0.66 of the egg&#x02019;s length (
+<xref ref-type="fig" rid="f4">Figure 4d</xref>
+,
+<xref ref-type="fig" rid="f4">e</xref>
+,
+<xref ref-type="fig" rid="f4">f</xref>
+).
+</p><table-wrap id="t1" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Main distinguishing characters differentiating the females of both species.</p></caption><graphic xlink:href="jis-14-1-0049-tab1"/></table-wrap><fig id="f1" orientation="portrait" position="float"><label>Figure 1.</label><caption><p>
+General habitus in dorsal view: a &#x02013; female
+<italic>Carausius morosus</italic>
+, b &#x02013; female
+<italic>Clonopsis gallica</italic>
+. High quality figures are available online.
+</p></caption><graphic xlink:href="jis-14-1-0049-fig1"/></fig><fig id="f2" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>
+Details of head, antennae, and pronotum in dorsal view: a &#x02013; female
+<italic>Carausius morosus</italic>
+, b &#x02013; female
+<italic>Clonopsis gallica</italic>
+. High quality figures are available online.
+</p></caption><graphic xlink:href="jis-14-1-0049-fig2"/></fig><fig id="f3" orientation="portrait" position="float"><label>Figure 3.</label><caption><p>
+Details of last abdominal segments of female: a &#x02013;
+<italic>Carausius morosus</italic>
+, b &#x02013;
+<italic>Clonopsis gallica</italic>
+. T &#x02013; tergites, S &#x02013; sternite, c &#x02013; cerci, d.v. &#x02013; dorsal valvulae, s.p. &#x02013; subgenital plate. High quality figures are available online.
+</p></caption><graphic xlink:href="jis-14-1-0049-fig3"/></fig><fig id="f4" orientation="portrait" position="float"><label>Figure 4.</label><caption><p>
+Comparison of both species eggs: lateral view (a, d), dorsal view (b, e), anterior pole (c, f); a, b, c &#x02013;
+<italic>Carausius morosus</italic>
+, d, e, f &#x02013;
+<italic>Clonopsis gallica</italic>
+. High quality figures are available online.
+</p></caption><graphic xlink:href="jis-14-1-0049-fig4"/></fig><p>
+Infraorder
+<bold>Anareolatae</bold></p><p>
+Family
+<bold>Phasmatidae</bold></p><p>
+<italic><bold><italic>Carausius morosus</italic></bold></italic>
+(
+<xref rid="R39" ref-type="bibr">Sin&#x000e9;ty 1901</xref>
+)
+</p><p>
+<italic>Dixippus morosus,</italic>
+<xref rid="R39" ref-type="bibr">Sin&#x000e9;ty 1901</xref>
+, Cellula 19: 121 [Type locality: Asia-Tropical, Indian Subcontinent, India, Shambaganur]
+</p><p>
+<bold>Material studied</bold>
+(36 females, 3 nymphs): MMF 27694 &#x02013; 1F, Rua da Rochinha, Funchal, 28SCB2213, 2.iv.1990, Rui Humberto Correia Luiz leg.; UMa &#x02013; 1 nymph; Palheiro Ferreiro, 28SCB2414, 10.i.2002, Jos&#x000e9; Jesus leg.; Uma &#x02013; 2F, Port of Funchal, 28SCB2012, 30.x.2002, Isabel leg.; MMF 36293 &#x02013; 1F, Caminho da Achada, Funchal, 28SCB2014, ii.2003, Miguel S. Gon&#x000e7;alves leg.; MMF 36289 &#x02013; 1F, Livramento, Funchal, 28SCB2115, 14.xii.2003, Roberto Mendes leg.; UMa &#x02013; 1F, Ribeira de S&#x000e3;o Gon&#x000e7;alo, Funchal, 28SCB2313, 2.iv.2005, Mario Correia leg.; MMF 36291 (a,b) &#x02013; 2F, Longueira, Campan&#x000e1;rio, 28SCB1016, 31.viii.2005, J. Luis Sousa leg.; MMF 36292 &#x02013; 1F, Longueira, Campan&#x000e1;rio, 28SCB1016, 26.ix.2005, Ana Luisa Sousa leg.; UMa &#x02013; 1 nymph, Centre of Funchal city, 35 m, 28SCB2113, 11.xi.2005, M&#x000e1;rcio N&#x000f3;brega leg.; MMF 36617 &#x02013; 1F, S. Gon&#x000e7;alo, Funchal, 28SCB2414, 24.vi.2006, Maria R. Gon&#x000e7;alves leg. (laid 47 eggs in captivity); UMa &#x02013; 1F, Monte, Corujeira, 28SCB2116, 30.vi.2006, Marcio N&#x000f3;brega leg., on
+<italic>Acacia</italic>
+sp.; ICLAM 02905 &#x02013; 16F, Palheiro Ferreiro, Urb. de S&#x000e3;o Gon&#x000e7;alo, Funchal, ex.
+<italic>Lavandula angustifolia</italic>
+28SCB2414, 446 m, 7.iii.2007; UMa &#x02013; 1F, Cancela 7.iii.2008, Henrique Rosa leg., (laid 20 eggs in captivity); UMa &#x02013; 1F, Monte, Funchal, 28SCB2216, 16.xii.2009, Maria Jesus Viveiros leg.; UMa &#x02013; 1F, Santo Ant&#x000f3;nio, Lombo dos Aguiares, 28SCB1816, 8.iii.2010, Nelson Aguiar leg.; UMa &#x02013; 2 F, Caminho do Lombo, Monte, Funchal, &#x000b1;340m, 28SCB2215, 27.iii.2010, Fabio Reis leg.; UMa &#x02013; 1 nymph and photo of an adult taken on 1.v.2010 by C&#x000e9;lia Fern&#x000e1;ndez; UMa &#x02013; 1F, Madeira, date and collector unknown; ICLAM 03237 &#x02013; 1F, Assomada, Cani&#x000e7;o, Santa Cruz, 28SCB2914, 28.vi.2010, Lina Noite leg.; ICLAM 03241 &#x02013; 1F, S&#x000e3;o Vicente, village centre, 40 m, 28SCB0830, 20.Jan.2011, Joel Freitas leg.; UMa &#x02013; 1F, Caminho do Lombo, Monte, &#x000b1;340m, 28SCB2215, 9.iv.2011, Fabio Reis Leg.
+</p><p>
+This species seems to be largely distributed in the southern part of the island, from the coast inland to 600 meters. Older specimens were collected only after 1990, and most of the specimens were collected without food plant information. In one case, the insects were feeding on lavender,
+<italic>Lavandula angustifolia</italic>
+Miller (Lamiales: Lamiaceae). Several females of this sample were used to start a laboratory colony and were fed with
+<italic>R. ulmifolius</italic>
+.
+</p><p>
+<bold>Doubtful specimen:</bold>
+Among the females collected on
+<italic>L. angustifolia</italic>
+was a specimen with external characteristics of females but abnormal genitalia. This specimen, which was killed shortly after being collected, had a body with cuticle granulated and matt, similar to other females. The antennae were long, but not reaching 0.66 of body length as in the males. The meso and metathoraxic sternites did not show any reddish coloration as in males, and the general dimensions were those of a typical female. The external genitalia deformity of this specimen affected only the last three abdominal segments. Compared with normal females (
+<xref ref-type="fig" rid="f5">Figure 5</xref>
+), tergites 8 to 10 were still identifiable, although differently shaped. However, on the ventral side the subgenital plate (s.p.) was greatly reduced, not surpassing tergite 9 when it should have reached the apex of tergite 10. This undeveloped subgenital plate left exposed a pair of appendices, which under high magnification were revealed to be the dorsal valvulae (d.v.). The other ovipositor components, the inner and ventral valvulae, were much reduced, but discernible if viewed from a different angle. Also identifiable on this deformed female were the cerci (c.).
+</p><fig id="f5" orientation="portrait" position="float"><label>Figure 5.</label><caption><p>
+Last abdominal segments of a
+<italic>Carausius morosus</italic>
+abnormal female: T &#x02013; tergites, S &#x02013; sternite, c &#x02013; cerci, d.v. &#x02013; dorsal valvulae, s.p. &#x02013; subgenital plate. High quality figures are available online.
+</p></caption><graphic xlink:href="jis-14-1-0049-fig5"/></fig><p>
+<bold>Oviposition:</bold>
+An adult female kept in laboratory from 28.vi.2010 to 26.xi.2010 laid 339 eggs. The comparatively large oviposition rate was similar to that observed by other authors (
+<xref rid="R36" ref-type="bibr">Roth 1916</xref>
+). The number of eggs laid per day during the oviposition period observed over 25 days varied greatly between 0 and 10 (the mean number of eggs per day was 3.76). This was considerably larger than the mean number of eggs calculated for the whole oviposition period (2.26 eggs per day) (
+<xref ref-type="fig" rid="f7">Figure 7</xref>
+). The number of eggs laid decreased considerably after the 11th week with less than one egg produced per day. The postovipositional period lasted eight weeks (
+<xref ref-type="fig" rid="f6">Figure 6</xref>
+). According to
+<xref rid="R25" ref-type="bibr">Lelong (1995)</xref>
+,
+<italic>C. morosus</italic>
+only reproduces sexually in its Asian country of origin; in Europe, populations are made up exclusively of females. The males are reported to be very rare, and we were unable to observe any in the field or in the laboratory population.
+</p><fig id="f6" orientation="portrait" position="float"><label>Figure 6.</label><caption><p>
+Number of eggs (y axis) laid by a female
+<italic>C. morosus</italic>
+and
+<italic>C. gallica</italic>
+weekly (x axis) during a 27-week period. High quality figures are available online.
+</p></caption><graphic xlink:href="jis-14-1-0049-fig6"/></fig><fig id="f7" orientation="portrait" position="float"><label>Figure 7.</label><caption><p>
+Number of days (y axis) in which were collected, from 0 to 11 eggs per day (x axis) for
+<italic>Carausius morosus</italic>
+and
+<italic>Clonopsis gallica.</italic>
+High quality figures are available online.
+</p></caption><graphic xlink:href="jis-14-1-0049-fig7"/></fig><p>
+Infraorder
+<bold>Areolatae</bold></p><p>
+Family
+<bold>Bacillidae</bold></p><p>
+<bold><italic>Clonopsis gallica</italic></bold>
+(
+<xref rid="R16" ref-type="bibr">Charpentier 1825</xref>
+)
+</p><p>
+<italic>Phasma gallicum</italic>
+,
+<xref rid="R16" ref-type="bibr">Charpentier 1825</xref>
+Horae entom, p.94. [Type locality: Europe, South Western Europe, France, Southern]
+</p><p>
+<italic>Bacillus granulatus,</italic>
+<xref rid="R15" ref-type="bibr">Brull&#x000e9; 1832</xref>
+Exp. sc. de Mor&#x000e9;e Ins., p.84, t.29,
+<xref ref-type="fig" rid="f6">Figure 6</xref>
+.
+</p><p>
+<italic>Bacillus gallicus</italic>
+var.
+<italic>occidentalis,</italic><xref rid="R8" ref-type="bibr">Bol&#x000ed;var 1894</xref>
+An. Soc. esp. Hist. Nat., 23: 73
+</p><p>
+<italic>Bacillus affinis,</italic>
+<xref rid="R37" ref-type="bibr">Salfi 1925</xref>
+, Ann. Mus. Zool. Uni. Napoli, 5(12):1
+</p><p>Material studied (13 females): MMF 33667 &#x02013; 1F, Santo da Serra, 28SCB3121, 06.vii.1952; MMF 27693 &#x02013; 1F, Monte, Funchal, 28SCB2216, 24.viii.1981, R. Garton leg.; MMF 27022 &#x02013; 1F, Boa Nova, Funchal, 28SCB2314, viii.1996, Maria da Luz leg.; MMF 36294 &#x02013; 1F, Caminho da Choupana n&#x000ba;173, 28SCB2215, 12.ix.2001, Jos&#x000e9; Exequiel Rodrigues leg.; ICLAM 0992 &#x02013; 1F, Confeiteira, Monte, 450 m, 28SCB2216, 16.viii.2002, Ant&#x000f3;nio Domingos Abreu leg.; UMa &#x02013; 1F, S&#x000e3;o Gon&#x000e7;alo, Funchal, 28SCB2313, 5.viii.2003, Rog&#x000e9;rio Correia leg.; ICLAM 03239 &#x02013; 1F, Urbaniza&#x000e7;&#x000e3;o Portada de Santo Ant&#x000f3;nio, Monte, Funchal, 28SCB2115, 409 m, 20.viii.2004, Rui V. Silva leg.; ICLAM 03240 &#x02013; 1F, Urbaniza&#x000e7;&#x000e3;o Portada de Santo Ant&#x000f3;nio, Monte, Funchal, 28SCB2115, 409 m, 1.vi.2005, Rui V. Silva leg.; MMF 36290 &#x02013; 1F, Longueira, Campan&#x000e1;rio, 28SCB1016, 7.viii.2005, Ysabel Gon&#x000e7;alves leg.; UMa &#x02013; 1F, Gaula, Santa Cruz, 28SCB2916, 22.vi.2006, Gilda Freitas leg.; UMa -1F, Camacha, Santa Cruz, 28SCB2716, 31.viii.2008, Jo&#x000e3;o Reis leg.; ICLAM 03238 &#x02013; 1F, Assomada, Cani&#x000e7;o, Santa Cruz, 28SCB2914, 15.iv.2010, Lina Noite leg.; MMF 41446 -1F, Longueira, Campan&#x000e1;rio, 28SCB1016, 20.vii.2010, Hil&#x000e1;rio Sousa leg.</p><p>
+<italic>Clonopsis gallica</italic>
+is a circum-Mediterranean species, which extends its distribution in mainland Europe and Africa throughout Portugal, Spain, France, Italy, Greece, and North Africa (excluding the Sinai Peninsula). It is also present in many Mediterranean Islands. Although this species went more or less unnoticed by entomologists in Madeira from many decades, first reports date back to 1952, and the seven specimens studied so far clearly suggest that this species is located in the southern parts of Madeira.
+</p><p>
+<bold>Oviposition:</bold>
+The single specimen of
+<italic>C. gallica</italic>
+kept in the laboratory showed a long preoviposition period of 11 weeks after which it suddenly started to oviposit. The oviposition period lasted 27 weeks (191 days), and during this period 426 eggs were laid. The number of eggs laid per day varied from zero to seven eggs with a mean number of 2.23 eggs per day (
+<xref ref-type="fig" rid="f7">Figure 7</xref>
+). During the ovipositional period, the number of eggs laid decreased after the 15th week and increased again in the 18th week (
+<xref ref-type="fig" rid="f6">Figure 6</xref>
+). This female continued to lay eggs until it died, but in the last three weeks the number of eggs laid was less than one per day. This species is an obligate parthenogen. Males were never observed in fieldwork or laboratory populations.
+</p></sec></sec><sec sec-type="Discussion"><title>Discussion</title><sec><title>Phasmids of Madeira</title><p>
+A study of the specimens deposited in several institutional collections across Madeira revealed that the first collected specimen belongs to
+<italic>C. gallica</italic>
+and dates back to 1952. Since 2003, several specimens of this and
+<italic>C. morosus</italic>
+have been collected each year.
+<italic>Carausius morosus</italic>
+is an exotic species originally from Shembaganur, oriental India, and is widely-known in Europe as a laboratory insect for over a century, since it was imported by R. P. Pantel in 1897 for the laboratorial study of parthenogenesis. Due to its fecundity, long life span, and the relative ease with which it can be reared, it is a widely commercialized species. It is an attractive pet for collectors, and these stick insects are often kept in dense colonies for scientific use or for science education programs and demonstrations in schools. It has been introduced in Florida (
+<xref rid="R20" ref-type="bibr">Denmark and Porter 1973</xref>
+), California (
+<xref rid="R12" ref-type="bibr">Brock 1992</xref>
+), the U.K. (
+<xref rid="R24" ref-type="bibr">Lee 1993</xref>
+), Germany (
+<xref rid="R43" ref-type="bibr">Weidner 1981</xref>
+), South Africa (
+<xref rid="R13" ref-type="bibr">Brock 1999</xref>
+), and Madagascar (
+<xref rid="R19" ref-type="bibr">Cliquennois 2007</xref>
+). This species currently seems to be rather common in Madeira, but the first specimens were sampled only after 1990. Although it is not possible to know whether it has been recently introduced, the larger number of records in the last year suggests that this species is increasing its area of distribution on the island. In contrast,
+<italic>C. gallica</italic>
+, which has been present at least since 1952 seems to be more localised. The distribution and comparatively larger oviposition rate of
+<italic>C. morosus</italic>
+kept in laboratory suggests that in Madeira this species is probably expanding its area at a more rapid rate than
+<italic>C. gallica.</italic>
+Both species were mostly collected from southern coastal localities, predominantly in the Municipality of Funchal (
+<xref ref-type="fig" rid="f8">Figure 8</xref>
+), and no evidence is known to us that supports that they escaped or were introduced as stowaways from the port of Funchal, although this is not excluded especially for
+<italic>C. morosus</italic>
+.
+</p><fig id="f8" orientation="portrait" position="float"><label>Figure 8.</label><caption><p>
+Distribution map with the collection localities plotted for
+<italic>Carausius morosus</italic>
+(blue dots) and
+<italic>Clonopsis gallica</italic>
+(red dots). The island is divided in 10 municipalities. The distribution map uses the UTM coordinate system (South East Base Datum), and each coordinate associated with a record identifies a specific 1 km square quadricule. High quality figures are available online.
+</p></caption><graphic xlink:href="jis-14-1-0049-fig8"/></fig><p>
+The origin of phasmids in Macaronesian archipelagos is unknown, and although both species are considered to be introduced or possibly introduced (
+<xref rid="R1" ref-type="bibr">Arechavaleta et al. 2005</xref>
+;
+<xref rid="R40" ref-type="bibr">Sousa 2010</xref>
+), a native origin for
+<italic>C. gallica</italic>
+cannot be excluded. The first reason is that
+<italic>C. gallica</italic>
+is present in Morocco, the closest mainland area to Madeira, 635 km to the east. According to recent studies on reproductive and chromosomal diversification, Morocco (the Rif region) is considered to be the radiation centre of the genus
+<italic>Clonopsis</italic>
+(
+<xref rid="R38" ref-type="bibr">Scali and Milani 2009</xref>
+). In Morocco, the genus
+<italic>Clonopsis</italic>
+includes two other species in addition to
+<italic>C. gallica</italic>
+,
+<italic>C. algerica</italic>
+and
+<italic>C. maroccana</italic>
+, but the relationship between them is unknown (
+<xref rid="R29" ref-type="bibr">Milani et al. 2009</xref>
+). A second reason is that Madeira is an oceanic island, and geological evidences show that it has never been connected to mainland; therefore, the only possible ways for phasmids to colonize Madeira are either by natural means or as stowaways. Although phasmids have a limited power of dispersal due to inactive and strictly herbivorous habits, they are in fact successful island colonizers. A proof of this capability is illustrated by the presence of phasmids in isolated archipelagos composed of oceanic islands. A great number of phasmid species are known to be present on the Pacific oceanic islands, with more than 60 species belonging to 30 genera (
+<xref rid="R30" ref-type="bibr">Nakata 1961</xref>
+). Their considerable polyphagia and parthenogenetic mode of reproduction may help them to establish populations after reaching these new insular areas.
+</p><p>
+<italic>Carausius morosus</italic>
+and
+<italic>Clonopsis gallica</italic>
+are two obligate parthenoforms that occasionally produce males. According to
+<xref rid="R25" ref-type="bibr">Lelong (1995)</xref>
+,
+<italic>C. morosus</italic>
+has sexual reproduction only in its country of origin and reproduces by thelytokous parthenogenesis in other regions; here, males are very rare (
+<xref rid="R33" ref-type="bibr">Pijnacker and Ferwerda 1980</xref>
+). In laboratory populations of the parthenogenetic
+<italic>C. morosus</italic>
+, both males and masculinised females occasionally appear. Masculinised females of spontaneous origin may be either intersexes and/or gynandromorphs (Pickjaker 1964). Gynandromorphs have genetically male and female tissues. Intersexes are genetically uniform. They may be intermediate between typical female or male genotypes, or purely male or female genotypes with some parts of the body with a phenotype opposite to their genetic sex (Narita et al. 2010). The abnormal female-like specimen collected on
+<italic>L. angustifolia</italic>
+is a significant find given that only 22 specimens of
+<italic>C. morosus</italic>
+were sampled. Because we did not examine the follicle cells, it is not possible to know the genetic sex of the specimen, but external genitalia correspond to a female, some parts of which were not fully developed. Identification of stick insects is difficult because body and karyotype &#x02018;phenotypes&#x02019; are considerably independent (
+<xref rid="R29" ref-type="bibr">Milani et al. 2009</xref>
+). Genetic diversity is related to their ability to overcome speciesspecific reproductive isolation mechanisms through hybridization, polyploidy, parthenogenesis, hybridogenesis, and androgenesis (
+<xref rid="R28" ref-type="bibr">Milani et al. 2010</xref>
+). This gives rise to individuals with both male and female morphological and/or genetic characters (i.e., intersexes and gynandromorphs).
+</p></sec><sec><title>Communicating biodiversity to public and the need for faunistics</title><p>
+Invertebrates are by far the largest group of all living beings and they are of enormous importance to general conservation because of their biomass and the ecological services they provide. Despite this, worldwide awareness of invertebrate conservation, particularly of insects, is a rare phenomenon, with the exception of a few species of groups such as butterflies. This lack of awareness not only affects invertebrates. According to recent Eurobarometer (2007) surveys, only 35% of the European population knows what biodiversity means. The term &#x0201c;biodiversity&#x0201d; itself is not clearly and generally understood, because it refers to a very complex concept. It has been suggested that awareness and experience of biodiversity at an early age are important for the future development of understanding (
+<xref rid="R22" ref-type="bibr">Helld&#x000e9;n and Helld&#x000e9;n 2008</xref>
+). Feelings and beliefs about the environment determine people&#x02019;s attitudes (
+<xref rid="R34" ref-type="bibr">Pooley 2000</xref>
+). Negative attitudes among adults particularly towards insects and other less popular animals are common and can be highly resistant to change (
+<xref rid="R5" ref-type="bibr">Bjerke et al. 2003</xref>
+). However, there are cases of success among insects as the tree lobsters,
+<italic>Dryococelus australis</italic>
+, a phasmid from Lord Howe Island that is considered the rarest insect of the world. This species, once thought to be extinct, was rediscovered in 2001 on a volcanic offshore islet off the cost of mainland Australia, producing an enormous interest among public and insect conservationists (Pridel et al. 2003).
+</p><p>
+The form of appreciating insects varies according to age and different cultures (
+<xref rid="R42" ref-type="bibr">Vargas 2006</xref>
+). Children are ideal recipients for teaching about biodiversity and conservation because of their tremendous capacity for learning (
+<xref rid="R27" ref-type="bibr">Matthews et al. 1997</xref>
+;
+<xref rid="R4" ref-type="bibr">Balmford et al. 2002</xref>
+). Communicating biodiversity to adults is more difficult. According to the Eurobarometer survey (2007), the most typical ways that Europeans learn about biodiversity issues are watching news and documentaries on TV, searching the Internet, and reading newspapers and magazines. Mass media are important tools for disseminating science. The collaboration of scientists with journalists can be valuable for selecting a news story based on what is important to the readers, not the scientists (
+<xref rid="R6" ref-type="bibr">Bishop 1997</xref>
+). Faunistics is considered
+<italic>soft science</italic>
+and of little interest for publication by many researchers. During their career, biologists are under great pressure to focus on more conceptual articles and so see no reason to spend precious time and energy on faunistic publications. However, this information is not only a useful base for biodiversity conservation, but is also of interest to the general public and, as such, increases their awareness and interest in biodiversity conservation. Communicating biodiversity science issues in ways that are useful and meaningful for science and society remains a challenge. The solution may be in more effective communication and partnership with newspapers. This could be particularly useful in areas where resources for communicating with the public are limited.
+</p></sec></sec></body><back><ack><p>We wish to thank colleagues Jos&#x000e9; Jesus, F&#x000e1;bio Reis, and D&#x000e9;lia Cravo for laboratory breeding and sampling data. We are also grateful to the members of the public who contributed with insect material and to Silvia Ornelas of the newspaper Di&#x000e1;rio de Not&#x000ed;cias for her contribution to communicating biodiversity awareness. Part of this study was financed by the Foundation for Science and Technology (FCT) through the project PTDC/BIA-BEC/103411/2008. We are also thankful to Dr Andrew Wakeham-Dawson for English revisions and comments.</p></ack><ref-list><title>References</title><ref id="R1"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Arechavaleta</surname><given-names>M</given-names></name><name><surname>Zurita</surname><given-names>N</given-names></name><name><surname>Marrero</surname><given-names>MC</given-names></name><name><surname>Mart&#x000ed;n</surname><given-names>JL</given-names></name></person-group>
+.
+<year>2005</year>
+.
+<article-title>Lista preliminar de esp&#x000e9;cies silvestres de Cabo Verde (hongos, plantas y animales terrestres)</article-title>
+.
+<publisher-name>Consejer&#x000ed;a de Medio Ambiente y Ordenaci&#x000f3;n Territorial, Gobierno de Canarias</publisher-name>
+.
+</mixed-citation></ref><ref id="R2"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ba&#x000e9;z</surname><given-names>M</given-names></name></person-group>
+.
+<year>1993</year>
+.
+<article-title>Origins and affinities of the fauna of Madeira</article-title>
+.
+<source>Boletim do Museu Municipal do Funchal</source>
+Supl. No.
+<volume>2</volume>
+:
+<fpage>9</fpage>
+&#x02013;
+<lpage>40</lpage>
+.
+</mixed-citation></ref><ref id="R3"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ba&#x000e9;z</surname><given-names>M</given-names></name></person-group>
+.
+<year>1996</year>
+.
+<article-title>Nuevas citas de insectos en las islas Canarias (Phasmatodea, Lepidoptera, Embioptera)</article-title>
+.
+<source>Bolet&#x000ed;n de la Asociaci&#x000f3;n. Espa&#x000f1;ola de Entomolog&#x000ed;a</source>
+20(1&#x02013;2):
+<fpage>252</fpage>
+&#x02013;
+<lpage>253</lpage></mixed-citation></ref><ref id="R4"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balmford</surname><given-names>A</given-names></name><name><surname>Clegg</surname><given-names>L</given-names></name><name><surname>Coulson</surname><given-names>T</given-names></name><name><surname>Taylor</surname><given-names>J</given-names></name></person-group>
+.
+<year>2002</year>
+.
+<article-title>Why conservationists should heed Pok&#x000e9;mon</article-title>
+.
+<source>Science</source><volume>295</volume>
+:
+<fpage>23</fpage>
+&#x02013;
+<lpage>67</lpage></mixed-citation></ref><ref id="R5"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bjerke</surname><given-names>T</given-names></name><name><surname>&#x000d8;stdahl</surname><given-names>T</given-names></name><name><surname>Kleiven</surname><given-names>J</given-names></name></person-group>
+.
+<year>2003</year>
+.
+<article-title>Attitudes and activities related to urban wildlife: Pet owners and non-owners</article-title>
+.
+<source>Anthroz&#x000f6;os</source><volume>16</volume>
+(
+<issue>3</issue>
+):
+<fpage>252</fpage>
+&#x02013;
+<lpage>262</lpage>
+.
+</mixed-citation></ref><ref id="R6"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bishop</surname><given-names>JE</given-names></name></person-group>
+.
+<year>1997</year>
+.
+<article-title>The Media and Communicating Science to the Public</article-title>
+.
+<source>CBE Views</source><volume>20</volume>
+:
+<fpage>88</fpage>
+&#x02013;
+<lpage>89</lpage>
+.
+</mixed-citation></ref><ref id="R7"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blands</surname><given-names>RG</given-names></name><name><surname>Gangwere</surname><given-names>K</given-names></name><name><surname>Morales-Martin</surname><given-names>M</given-names></name></person-group>
+.
+<year>1996</year>
+.
+<article-title>An Annotated List of the Orthoptera (sens. lat.) of the Canary Islands</article-title>
+.
+<source>Journal of Orthoptera Research</source><volume>5</volume>
+:
+<fpage>159</fpage>
+&#x02013;
+<lpage>73</lpage>
+.
+</mixed-citation></ref><ref id="R8"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bol&#x000ed;var</surname><given-names>I</given-names></name></person-group>
+.
+<year>1894</year>
+.
+<article-title>Ort&#x000f3;pteros recogidos en las Azores por el Sr. Affonso Chaves</article-title>
+.
+<source>Anales de la Sociedad Espa&#x000f1;ola de Historia Natural, Actas</source><volume>23</volume>
+:
+<fpage>70</fpage>
+&#x02013;
+<lpage>76</lpage>
+.
+</mixed-citation></ref><ref id="R9"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bol&#x000ed;var</surname><given-names>I</given-names></name></person-group>
+.
+<year>1926</year>
+.
+<article-title>Datos complementarios sobre los Ort&#x000f3;pteros de la Pen&#x000ed;nsula Ib&#x000e9;rica</article-title>
+.
+<source>Bolet&#x000ed;n de la Sociedad Espa&#x000f1;ola de Historia Natural</source><volume>26</volume>
+:
+<fpage>98</fpage>
+&#x02013;
+<lpage>102</lpage>
+.
+</mixed-citation></ref><ref id="R10"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Borges</surname><given-names>PAV</given-names></name><name><surname>Abreu</surname><given-names>C</given-names></name><name><surname>Aguiar</surname><given-names>AMF</given-names></name><name><surname>et</surname><given-names>al</given-names></name></person-group>
+.
+<year>2008</year>
+.
+<article-title>A list of the terrestrial fungi, flora and fauna of Madeira and Selvagens archipelagos</article-title>
+.
+<publisher-name>Direc&#x000e7;&#x000e3;o Regional do Ambiente da Madeira and Universidade dos A&#x000e7;ores, Funchal and Angra do Hero&#x000ed;smo</publisher-name>
+.
+</mixed-citation></ref><ref id="R11"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Borges</surname><given-names>PAV</given-names></name><name><surname>Reut</surname><given-names>M</given-names></name><name><surname>da Ponte</surname><given-names>NB</given-names></name><name><surname>Quartau</surname><given-names>JA</given-names></name><name><surname>Fletcher</surname><given-names>M</given-names></name><name><surname>Sousa</surname><given-names>AB</given-names></name><name><surname>Pollet</surname><given-names>M</given-names></name><name><surname>Soares</surname><given-names>AO</given-names></name><name><surname>Marcelino</surname><given-names>JAP</given-names></name><name><surname>Rego</surname><given-names>C</given-names></name><name><surname>Cardoso</surname><given-names>P</given-names></name></person-group>
+.
+<year>2013</year>
+.
+<article-title>New records of exotic spiders and insects to the Azores, and new data on recently introduced species</article-title>
+.
+<source>Arquipelago. Life and Marine Sciences</source><volume>30</volume>
+:
+<fpage>57</fpage>
+&#x02013;
+<lpage>70</lpage>
+.
+</mixed-citation></ref><ref id="R12"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brock</surname><given-names>PD</given-names></name></person-group>
+.
+<year>1992</year>
+.
+<article-title>Rearing and studying stick and leaf &#x02013; insects</article-title>
+.
+<source>The Amateur Entomologist</source><volume>22</volume>
+:
+<fpage>1</fpage>
+&#x02013;
+<lpage>73</lpage>
+.
+</mixed-citation></ref><ref id="R13"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brock</surname><given-names>PD</given-names></name></person-group>
+.
+<year>1999</year>
+.
+<article-title>New records of alien stick &#x02013; insects</article-title>
+.
+<source>Phasmid Studies</source><volume>7</volume>
+(
+<issue>1</issue>
+):
+<fpage>39</fpage>
+&#x02013;
+<lpage>40</lpage>
+.
+</mixed-citation></ref><ref id="R14"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brock</surname><given-names>PD</given-names></name></person-group>
+.
+<source>Phasmida Species File Online</source>
+. Version 2.1/4.0. (
+<fpage>20</fpage>
+&#x02013;
+<lpage>10</lpage>
+-2010). Available online:
+<ext-link ext-link-type="uri" xlink:href="http://Phasmida.SpeciesFile.org">http://Phasmida.SpeciesFile.org</ext-link></mixed-citation></ref><ref id="R15"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brull&#x000e9;</surname><given-names>A</given-names></name></person-group>
+.
+<year>1832</year>
+.
+<article-title>Insectes. Exp&#x000e9;dition Scientifique de Mor&#x000e9;e. Zoologie, Paris</article-title><volume>3</volume>
+(
+<issue>1</issue>
+) Zool 2, 1&#x02013;29, 64&#x02013;395, pls
+<fpage>1</fpage>
+&#x02013;
+<lpage>22</lpage>
+.
+</mixed-citation></ref><ref id="R16"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Charpentier</surname><given-names>T</given-names></name></person-group>
+.
+<year>1825</year>
+.
+<source>De Orthopteris Europaeis. Horae Entomologicae, adjectis tabulis novem coloratis</source>
+1&#x02013;259, pls
+<fpage>1</fpage>
+&#x02013;
+<lpage>9</lpage>
+.
+</mixed-citation></ref><ref id="R17"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chopard</surname><given-names>L</given-names></name></person-group>
+.
+<year>1940</year>
+.
+<article-title>Insectes Orthopt&#x000e9;roides (Blattidae, Mantidae, Gryllidae, Phasmidae, Dermaptera) r&#x000e9;colt&#x000e9;s dans les &#x000ee;les atlantiques</article-title>
+.
+<source>Commentationes Biologicae</source><volume>8</volume>
+(
+<issue>4</issue>
+):
+<fpage>1</fpage>
+&#x02013;
+<lpage>13</lpage>
+.
+</mixed-citation></ref><ref id="R18"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chopard</surname><given-names>L</given-names></name></person-group>
+.
+<year>1954</year>
+.
+<article-title>Contributions entomologiques de l&#x02019;exp&#x000e9;dition finlandaise aux Canaries 1947&#x02013;1951. No: 7. Insectes orthopt&#x000e9;roides r&#x000e9;colt&#x000e9;s aux Iles Canaries par M. H. Lindberg</article-title>
+.
+<source>Commentationes Biologicae</source><volume>14</volume>
+(
+<issue>7</issue>
+):
+<fpage>1</fpage>
+&#x02013;
+<lpage>15</lpage>
+.
+</mixed-citation></ref><ref id="R19"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cliquennois</surname><given-names>N</given-names></name></person-group>
+.
+<year>2007</year>
+.
+<article-title>Aper&#x000e7;u g&#x000e9;n&#x000e9;ral de la diversit&#x000e9; des phasmes de Madagascar (Insecta, Phasmatodea)</article-title>
+.
+<source>Le Bulletin d&#x02019;Arthropoda</source><volume>32</volume>
+:
+<fpage>3</fpage>
+&#x02013;
+<lpage>16</lpage>
+.
+</mixed-citation></ref><ref id="R20"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Denmark</surname><given-names>HA</given-names></name><name><surname>Porter</surname><given-names>JE</given-names></name></person-group>
+.
+<year>1973</year>
+.
+<article-title>Regulation of importation of arthropods into and of their movement within Florida</article-title>
+.
+<source>Florida Entomologist</source><volume>56</volume>
+(
+<issue>4</issue>
+):
+<fpage>347</fpage>
+&#x02013;
+<lpage>358</lpage>
+.
+</mixed-citation></ref><ref id="R21"><mixed-citation publication-type="web">
+<comment>Flash Eurobarometer</comment>
+<year>2007</year>
+.
+<source>Survey conducted by the Gallup Organization Hungary upon the request of Directorate-General Environment 219</source>
+. European Union. Available online:
+<ext-link ext-link-type="uri" xlink:href="http://ec.europa.eu/public_opinion/archives/flash_arch_en.htm">http://ec.europa.eu/public_opinion/archives/flash_arch_en.htm</ext-link>
+and
+<ext-link ext-link-type="uri" xlink:href="http://ec.europa.eu/environment/pdf/flash_eurobarometer_2007_biodiversity_summary.pdf">http://ec.europa.eu/environment/pdf/flash_eurobarometer_2007_biodiversity_summary.pdf</ext-link></mixed-citation></ref><ref id="R22"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Helld&#x000e9;n</surname><given-names>G</given-names></name><name><surname>Helld&#x000e9;n</surname><given-names>S</given-names></name></person-group>
+.
+<year>2008</year>
+.
+<article-title>Students&#x02019; early experiences of biodiversity and education for a sustainable future</article-title>
+.
+<source>Nordina</source><volume>4</volume>
+(
+<issue>2</issue>
+):
+<fpage>23</fpage>
+&#x02013;
+<lpage>31</lpage>
+.
+</mixed-citation></ref><ref id="R23"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hennemann</surname><given-names>FH</given-names></name><name><surname>Conle</surname><given-names>OV</given-names></name></person-group>
+.
+<year>2008</year>
+.
+<article-title>Revision of Oriental Phasmatodea: The tribe Pharnaciini G&#x000fc;nther, 1953, including the description of the world&#x02019;s longest insect, and a survey of the family Phasmatidae Gray, 1835 with keys to the subfamilies and tribes (Phasmatodea: &#x0201c;Anareolatae&#x0201d;: Phasmatidae)</article-title>
+.
+<source>Zootaxa</source><volume>1906</volume>
+:
+<fpage>1</fpage>
+&#x02013;
+<lpage>316</lpage>
+.
+</mixed-citation></ref><ref id="R24"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>M</given-names></name></person-group>
+.
+<year>1993</year>
+.
+<article-title>A survey into the distribution of the stick insects of Britain</article-title>
+.
+<source>Phasmid Studies</source><volume>4</volume>
+:
+<fpage>15</fpage>
+&#x02013;
+<lpage>23</lpage>
+.
+</mixed-citation></ref><ref id="R25"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lelong</surname><given-names>P</given-names></name></person-group>
+.
+<year>1995</year>
+.
+<article-title><italic>Carausius morosus</italic>
+(
+<xref rid="R39" ref-type="bibr">Sin&#x000e9;ty, 1901</xref>
+) P.S.G. n&#x000ba; 1
+</article-title>
+.
+<source>Le Monde Des Phasmes</source>
+31:
+<fpage>14</fpage>
+&#x02013;
+<lpage>16</lpage>
+.
+</mixed-citation></ref><ref id="R26"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lop&#x000e9;z</surname><given-names>H</given-names></name><name><surname>Morales</surname><given-names>E</given-names></name></person-group>
+.
+<year>2010</year>
+.
+<article-title>Blattaria, Mantodea, Isoptera, Embioptera, Phasmatodea, Orthoptera, Dermaptera. In: Arechavaleta M, Rodr&#x000ed;guez S, Zurita N, Garc&#x000ed;a A, Editors</article-title>
+.
+<source>Lista de especies silvestres de Canarias. Hongos, plantas y animales terrestres</source>
+, p. 229.
+<publisher-name>Gobierno de Canarias</publisher-name>
+.
+</mixed-citation></ref><ref id="R27"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matthews</surname><given-names>RW</given-names></name><name><surname>Flage</surname><given-names>LR</given-names></name><name><surname>Matthews</surname><given-names>J.R.</given-names></name></person-group>
+.
+<year>1997</year>
+.
+<article-title>Insects as teaching tools in primary and secondary education</article-title>
+.
+<source>Annual Review of Entomology</source><volume>42</volume>
+:
+<fpage>269</fpage>
+&#x02013;
+<lpage>289</lpage>
+.
+</mixed-citation></ref><ref id="R28"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Milani</surname><given-names>L</given-names></name><name><surname>Ghiselli</surname><given-names>F</given-names></name><name><surname>Pellecchia</surname><given-names>M</given-names></name><name><surname>Scali</surname><given-names>V</given-names></name><name><surname>Passamonti</surname><given-names>M</given-names></name></person-group>
+.
+<year>2010</year>
+.
+<article-title>
+Reticulate evolution in stick insects: the case of
+<italic>Clonopsis</italic>
+(Insecta Phasmida)
+</article-title>
+.
+<source>BMC Evolutionary Biology</source><volume>10</volume>
+: 258. Available online:
+<ext-link ext-link-type="uri" xlink:href="http://www.biomedcentral.com/14712148/10/258">http://www.biomedcentral.com/14712148/10/258</ext-link></mixed-citation></ref><ref id="R29"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Milani</surname><given-names>L</given-names></name><name><surname>Scali</surname><given-names>V</given-names></name><name><surname>Passamonti</surname><given-names>M</given-names></name></person-group>
+.
+<year>2009</year>
+.
+<article-title>
+The
+<italic>Clonopsis gallica</italic>
+puzzle: Mendelian species, polyploid parthenogens with karyotype re-diploidization and clonal androgens in Moroccan stick insects (Phasmida)
+</article-title>
+.
+<source>Journal of Zoological Systematics and Evolutionary Research</source><volume>47</volume>
+:
+<fpage>132</fpage>
+&#x02013;
+<lpage>140</lpage>
+.
+</mixed-citation></ref><ref id="R30"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakata</surname><given-names>S</given-names></name></person-group>
+.
+<year>1961</year>
+.
+<article-title>Some notes on the occurrence of Phasmatodea in oceania</article-title>
+.
+<source>Pacific Insects Monograph</source><volume>2</volume>
+:
+<fpage>107</fpage>
+&#x02013;
+<lpage>121</lpage>
+.
+</mixed-citation></ref><ref id="R31"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Narita</surname><given-names>S</given-names></name><name><surname>Pereira</surname><given-names>RAS</given-names></name><name><surname>Kjellberg</surname><given-names>F</given-names></name><name><surname>Kageyama</surname><given-names>D</given-names></name></person-group>
+.
+<year>2010</year>
+.
+<article-title>Gynandromorphs and intersexes: potential to understand the mechanism of sex determination in arthropods</article-title>
+.
+<source>Terrestrial Arthropod Reviews</source><volume>3</volume>
+:
+<fpage>63</fpage>
+&#x02013;
+<lpage>96</lpage>
+.
+</mixed-citation></ref><ref id="R32"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Pijnacker</surname><given-names>LP</given-names></name></person-group>
+.
+<year>1964</year>
+.
+<source>The cytology, sex determination and parthenogenesis of Carausius morosus (BR.).</source>
+Thesis,
+<publisher-name>RUG, Rijksuniversiteit Groningen</publisher-name>
+,
+<publisher-loc>Netherlands</publisher-loc>
+.
+</mixed-citation></ref><ref id="R33"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pijnacker</surname><given-names>LP</given-names></name><name><surname>Ferwerda</surname><given-names>MA</given-names></name></person-group>
+.
+<year>1980</year>
+.
+<article-title>
+Sex chromosomes and origin of males and sex mosaics of the parthenogenetic stick insect
+<italic>Carausius morosus</italic>
+Br
+</article-title>
+.
+<source>Chromosoma</source><volume>79</volume>
+:
+<fpage>105</fpage>
+&#x02013;
+<lpage>114</lpage>
+.
+</mixed-citation></ref><ref id="R34"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pooley</surname><given-names>JA</given-names></name></person-group>
+.
+<year>2000</year>
+.
+<article-title>Environmental education and attitudes: emotions and beliefs are what is needed</article-title>
+.
+<source>Environment and Behavior</source><volume>32</volume>
+(
+<issue>5</issue>
+):
+<fpage>711</fpage>
+&#x02013;
+<lpage>723</lpage>
+.
+</mixed-citation></ref><ref id="R35"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Priddel</surname><given-names>D</given-names></name><name><surname>Carlile</surname><given-names>N</given-names></name><name><surname>Humphrey</surname><given-names>M</given-names></name><name><surname>Fellenberg</surname><given-names>S</given-names></name><name><surname>Hiscox</surname><given-names>D</given-names></name></person-group>
+.
+<year>2003</year>
+.
+<article-title>
+Rediscovery of the &#x02018;extinct&#x02019; Lord Howe Island stick insect (
+<italic>Dryococelus australis</italic>
+(Montrouzier)) (Phasmatodea) and recommendations for its conservation
+</article-title>
+.
+<source>Biodiversity and Conservation</source><volume>12</volume>
+:
+<fpage>1391</fpage>
+&#x02013;
+<lpage>1403</lpage>
+.
+</mixed-citation></ref><ref id="R36"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roth</surname><given-names>H</given-names></name></person-group>
+.
+<year>1916</year>
+.
+<article-title>
+XIX. Observations on the Growth and Habits of the Stick Insect,
+<italic>Carausius morosus</italic>
+, Br.; intended as a contribution towards a knowledge of variation in an organism which reproduces itself by the parthenogenetic method
+</article-title>
+.
+<source>Transactions of the Royal Entomological Society of London</source>
+64(
+<fpage>3</fpage>
+&#x02013;
+<lpage>4</lpage>
+):
+<fpage>345</fpage>
+&#x02013;
+<lpage>386</lpage>
+.
+</mixed-citation></ref><ref id="R37"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Salfi</surname><given-names>M</given-names></name></person-group>
+.
+<year>1925</year>
+.
+<article-title>
+Di una nuova sottospecie di
+<italic>Bacillus</italic>
+(
+<italic>Clonopsis</italic>
+)
+<italic>gallicus</italic>
+(Charp.)
+</article-title>
+.
+<source>Annuario del Museo Zoologico della R. Universit&#x000e1; di Napoli</source><volume>5</volume>
+(
+<issue>12</issue>
+):
+<fpage>1</fpage>
+&#x02013;
+<lpage>3</lpage>
+.
+</mixed-citation></ref><ref id="R38"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scali</surname><given-names>V</given-names></name><name><surname>Milani</surname><given-names>L</given-names></name></person-group>
+.
+<year>2009</year>
+.
+<article-title>
+New
+<italic>Clonopsis</italic>
+stick insects from Morocco: The amphigonic
+<italic>C. felicitatis</italic>
+sp.n., the parthenogenetic
+<italic>C. soumiae</italic>
+sp.n., and two androgenetic taxa
+</article-title>
+.
+<source>Italian Journal of Zoology</source><volume>76</volume>
+:
+<fpage>291</fpage>
+&#x02013;
+<lpage>305</lpage>
+.
+</mixed-citation></ref><ref id="R39"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Sin&#x000e9;ty</surname><given-names>R</given-names></name></person-group>
+.
+<year>1901</year>
+.
+<article-title>Recherches sur la biologie et l&#x000b4;anatomie des Phasmes</article-title>
+.
+<source>Cellula</source><volume>19</volume>
+:
+<fpage>1</fpage>
+&#x02013;
+<lpage>164</lpage>
+.
+</mixed-citation></ref><ref id="R40"><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sousa</surname><given-names>AB</given-names></name></person-group>
+.
+<year>2010</year>
+.
+<article-title>Orthoptera, Dermaptera, Phasmatodea, Blattaria. In: Borges PAV, Costa A, Cunha R, et al., Editors</article-title>
+.
+<source>A list of the terrestrial and marine biota from the Azores</source>
+.
+<publisher-name>Princ&#x000ed;pia, Cascais</publisher-name>
+.
+</mixed-citation></ref><ref id="R41"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Harten</surname><given-names>A</given-names></name></person-group>
+.
+<year>1993</year>
+.
+<article-title>Terrestrial arthropods of the Cape Verde Islands &#x02013; A checklist</article-title>
+.
+<source>Courier Forschungs Institute Senckenberg</source><volume>159</volume>
+:
+<fpage>235</fpage>
+&#x02013;
+<lpage>309</lpage>
+.
+</mixed-citation></ref><ref id="R42"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vargas</surname><given-names>CM</given-names></name></person-group>
+.
+<year>2006</year>
+.
+<article-title>&#x000bf;Qu&#x000e9; percepci&#x000f3;n tenemos de los insectos-palo (Insecta: Phasmatodea)? What Perception do we Have of Stick Insects (Insecta: Phasmatodea)?</article-title><source>Acta biologica colombiana</source><volume>11</volume>
+(
+<issue>2</issue>
+):
+<fpage>113</fpage>
+&#x02013;
+<lpage>124</lpage>
+.
+</mixed-citation></ref><ref id="R43"><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weidner</surname><given-names>H</given-names></name></person-group>
+.
+<year>1981</year>
+.
+<article-title>Einschleppung von Heuschrecken (Saltatoria und Phasmida) nach Hamburg</article-title>
+.
+<source>Anzeiger f&#x000fc;r Schaedlingskunde Pflanzenschutz Umweltschutz</source><volume>54</volume>
+:
+<fpage>65</fpage>
+&#x02013;
+<lpage>67</lpage>
+.
+</mixed-citation></ref></ref-list></back></article>

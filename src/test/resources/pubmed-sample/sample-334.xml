@@ -1,0 +1,376 @@
+
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Sensors (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Sensors (Basel)</journal-id><journal-id journal-id-type="publisher-id">sensors</journal-id><journal-title-group><journal-title>Sensors (Basel, Switzerland)</journal-title></journal-title-group><issn pub-type="epub">1424-8220</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27322276</article-id><article-id pub-id-type="pmc">4934328</article-id><article-id pub-id-type="doi">10.3390/s16060902</article-id><article-id pub-id-type="publisher-id">sensors-16-00902</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Mechanical Strength and Broadband Transparency Improvement of Glass Wafers via Surface Nanostructures</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Kumar</surname><given-names>Amarendra</given-names></name><xref ref-type="aff" rid="af1-sensors-16-00902">1</xref></contrib><contrib contrib-type="author"><name><surname>Kashyap</surname><given-names>Kunal</given-names></name><xref ref-type="aff" rid="af1-sensors-16-00902">1</xref></contrib><contrib contrib-type="author"><name><surname>Hou</surname><given-names>Max T.</given-names></name><xref ref-type="aff" rid="af2-sensors-16-00902">2</xref></contrib><contrib contrib-type="author"><name><surname>Yeh</surname><given-names>J. Andrew</given-names></name><xref ref-type="aff" rid="af1-sensors-16-00902">1</xref><xref ref-type="aff" rid="af3-sensors-16-00902">3</xref><xref ref-type="aff" rid="af4-sensors-16-00902">4</xref><xref rid="c1-sensors-16-00902" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Meen</surname><given-names>Teen-Hang</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-sensors-16-00902"><label>1</label>Institute of Nanoengineering and Microsystems, National Tsing Hua University, No. 101, Section 2, Kuang-Fu Road, Hsinchu 30013, Taiwan; <email>s9935584@m99.nthu.edu.tw</email> (A.K.); <email>s9835878@m98.nthu.edu.tw</email> (K.K.)</aff><aff id="af2-sensors-16-00902"><label>2</label>Department of Mechanical Engineering, National United University, No.2, Lienda, Miaoli 36063, Taiwan; <email>max@nuu.edu.tw</email></aff><aff id="af3-sensors-16-00902"><label>3</label>Department of Power Mechanical Engineering, National Tsing Hua University, No. 101, Section 2, Kuang-Fu Road, Hsinchu 30013, Taiwan</aff><aff id="af4-sensors-16-00902"><label>4</label>Instrument Technology Research Center, National Applied Research Laboratories, 20, R&#x00026;D Road VI, Hsinchu Science Park, Hsinchu 30076, Taiwan</aff><author-notes><corresp id="c1-sensors-16-00902"><label>*</label>Correspondence: <email>jayeh@mx.nthu.edu.tw</email>; Tel.: +886-03-574-2912</corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>6</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2016</year></pub-date><volume>16</volume><issue>6</issue><elocation-id>902</elocation-id><history><date date-type="received"><day>05</day><month>5</month><year>2016</year></date><date date-type="accepted"><day>13</day><month>6</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>In this study, we mechanically strengthened a borosilicate glass wafer by doubling its bending strength and simultaneously enhancing its transparency using surface nanostructures for different applications including sensors, displays and panels. A fabrication method that combines dry and wet etching is used for surface nanostructure fabrication. Specifically, we improved the bending strength of plain borosilicate glass by 96% using these surface nanostructures on both sides. Besides bending strength improvement, a limited optical transmittance enhancement of 3% was also observed in the visible light wavelength region (400&#x02013;800 nm). Both strength and transparency were improved by using surface nanostructures of 500 nm depth on both sides of the borosilicate glass without affecting its bulk properties or the glass manufacturing process. Moreover, we observed comparatively smaller fragments during the breaking of the nanostructured glass, which is indicative of strengthening. The range for the nanostructure depth is defined for different applications with which improvements of the strength and transparency of borosilicate glass substrate are obtained.</p></abstract><kwd-group><kwd>surface nanostructure</kwd><kwd>bending strength</kwd><kwd>transparency</kwd><kwd>borosilicate glass</kwd></kwd-group></article-meta></front><body><sec id="sec1-sensors-16-00902"><title>1. Introduction</title><p>Glass is frequently used in almost all branches of engineering because of its mechanical and optical properties. Glass is commonly used for optical pressure sensors, displays, photovoltaic (PV) and other optical systems because of its high transmittance and lightweight nature [<xref rid="B1-sensors-16-00902" ref-type="bibr">1</xref>,<xref rid="B2-sensors-16-00902" ref-type="bibr">2</xref>]. Glass substrates are also used in micro-machined mechanical devices for acceleration or vibration sensing applications and panels because of the low cost of glass substrates compare to that of silicon [<xref rid="B3-sensors-16-00902" ref-type="bibr">3</xref>,<xref rid="B4-sensors-16-00902" ref-type="bibr">4</xref>]. Furthermore, glass is frequently used for chemical sensors, chemical glassware and biomedical applications because of its chemical inertness and biocompatibility [<xref rid="B5-sensors-16-00902" ref-type="bibr">5</xref>,<xref rid="B6-sensors-16-00902" ref-type="bibr">6</xref>]. Its strength is one of the most desirable mechanical properties for all of the above applications [<xref rid="B3-sensors-16-00902" ref-type="bibr">3</xref>,<xref rid="B7-sensors-16-00902" ref-type="bibr">7</xref>,<xref rid="B8-sensors-16-00902" ref-type="bibr">8</xref>] and, therefore, improving the strength of glass has been a crucial area of study for decades.</p><p>There is a long history of efforts to improve the strength of glass. Surface defects are a major cause of strength reduction because they increase the local stress to a value that is much higher than the applied stress around corners, holes, and scratches [<xref rid="B9-sensors-16-00902" ref-type="bibr">9</xref>,<xref rid="B10-sensors-16-00902" ref-type="bibr">10</xref>]. Several strength improvement techniques are available, e.g., the reduction of the size of defects using coatings, the reduction of the severity of the defects, the introduction of surface compression, among others [<xref rid="B11-sensors-16-00902" ref-type="bibr">11</xref>]. Coating or lamination can improve the strength by reducing the defect severity of the glass but it leads to a shorter lifetime [<xref rid="B12-sensors-16-00902" ref-type="bibr">12</xref>]. Surface compression techniques, such as the ion-exchange method, can be applied to alkali-containing glasses only [<xref rid="B13-sensors-16-00902" ref-type="bibr">13</xref>,<xref rid="B14-sensors-16-00902" ref-type="bibr">14</xref>]. Reinforcement of glass with short fibers not only improves its strength but also changes the bulk property and processes for manufacturing the glass substrates [<xref rid="B15-sensors-16-00902" ref-type="bibr">15</xref>]. All of these strength improvement methods can strengthen the glass substrates, but these methods either have no effect on transparency or can worsen it.</p><p>Furthermore, broadband transmittance and antireflection properties are also highly desirable for glass substrates in optical sensors, PV panels, displays and other applications [<xref rid="B16-sensors-16-00902" ref-type="bibr">16</xref>,<xref rid="B17-sensors-16-00902" ref-type="bibr">17</xref>]. Moth-eye-like nanostructures [<xref rid="B18-sensors-16-00902" ref-type="bibr">18</xref>] and antireflective coatings (ARCs) [<xref rid="B19-sensors-16-00902" ref-type="bibr">19</xref>] are established modifications that result in glass substrates with low reflection and high transparency. Fresnel reflection occurs when light travels between transparent media [<xref rid="B20-sensors-16-00902" ref-type="bibr">20</xref>] of differing refractive indices. This change in refractive indices causes a reflection from the front surface that degrades the optical performance and thus reduces the transmission. ARCs are applied to achieve better transparency by reducing the reflection from the surface. This method requires specific designs to achieve narrow wavelength windows as well as the use of a precise thickness of ARCs [<xref rid="B21-sensors-16-00902" ref-type="bibr">21</xref>]. Biomimetic subwavelength structures (SWSs), inspired by moth and butterfly corneas [<xref rid="B22-sensors-16-00902" ref-type="bibr">22</xref>,<xref rid="B23-sensors-16-00902" ref-type="bibr">23</xref>], have a smaller dimension compared to that of the incident light wavelength. Therefore, these structures have attracted increasing interest as alternatives to ARCs. These SWSs suppress the undesired Fresnel reflection losses using subwavelength texturing at the air-glass boundary [<xref rid="B24-sensors-16-00902" ref-type="bibr">24</xref>]. All of the above-mentioned methods for transparency improvement have been reported to improve transparency only and do not affect mechanical strength.</p><p>Given the above limitations, the glass industry requires a strengthening technique that can improve strength without affecting optical properties or altering the current manufacturing processes. Surface nanostructure can improve the silicon substrate strength by stress redistribution, which consequently suppresses crack initiation [<xref rid="B25-sensors-16-00902" ref-type="bibr">25</xref>,<xref rid="B26-sensors-16-00902" ref-type="bibr">26</xref>,<xref rid="B27-sensors-16-00902" ref-type="bibr">27</xref>]. Crystalline materials show higher resistances to crack initiation because of lattice trapping, which depends on the atomic configuration and cleavage planes [<xref rid="B28-sensors-16-00902" ref-type="bibr">28</xref>], but for an amorphous material crack initiation is related to the material composition [<xref rid="B29-sensors-16-00902" ref-type="bibr">29</xref>,<xref rid="B30-sensors-16-00902" ref-type="bibr">30</xref>,<xref rid="B31-sensors-16-00902" ref-type="bibr">31</xref>] and, therefore, lattice trapping is not possible. The strength of the silicon sample is enhanced [<xref rid="B27-sensors-16-00902" ref-type="bibr">27</xref>] and the effects of the strength-degrading defects are eliminated [<xref rid="B25-sensors-16-00902" ref-type="bibr">25</xref>] using surface nanostructures, but the effects of surface nanostructures on the material strength of amorphous substrates are unknown. Therefore, the effects of surface nanostructures on the mechanical strength of amorphous substrate need to be studied. This study explores the application of surface nanostructures for both mechanical strength and optical transparency improvement of amorphous borosilicate glass substrates.</p><p>More specifically, we present our findings, which demonstrate the achievement of both higher strength and better transparency compared to plain glass via SWS fabrication. SWSs can be fabricated using a photolithography mask; however, the fabrication steps are complex [<xref rid="B32-sensors-16-00902" ref-type="bibr">32</xref>,<xref rid="B33-sensors-16-00902" ref-type="bibr">33</xref>]. Thermal dewetting is a relatively simple, less expensive, and more widely reproducible process compared to e-beam, laser interference and nanoimprint lithography processes, but thermal dewetting is normally a wafer-by-wafer process, and a high temperature is needed [<xref rid="B34-sensors-16-00902" ref-type="bibr">34</xref>]. Coating of nanoparticles on glass substrate has a similar masking function but a simultaneous coating of nanoparticles on both sides of the substrate can be difficult [<xref rid="B35-sensors-16-00902" ref-type="bibr">35</xref>,<xref rid="B36-sensors-16-00902" ref-type="bibr">36</xref>]. SWSs for the current study were fabricated using a combination of wet and dry etching techniques. This fabrication method is suitable for producing large substrates and has mass production capabilities. A single-side nanostructured substrate for display and PV applications to prevent particle entrapping between nanostructures can also be fabricated using this fabrication method. The optimum range of the nanostructure depth for both strength and transparency improvement of borosilicate glass substrate is also discussed for practical applications.</p></sec><sec id="sec2-sensors-16-00902"><title>2. Materials and Methods</title><sec id="sec2dot1-sensors-16-00902"><title>2.1. Nanostructure Fabrication</title><p>In our current study, we used a mass-producible mask fabrication method. This fabrication method is also suitable for double-sided mask preparation in a single step. First 100 nm Si was deposited on a borosilicate glass substrate by low pressure chemical vapor deposition (LPCVD). The first step of the fabrication process involves wet chemical etching, which was used for Ag nanoparticle mask formation without incorporating any photolithography process. When a glass sample with a thin Si film was dipped in a solution of hydrofluoric acid (HF) and silver nitrate (AgNO<sub>3</sub>), Si reacted with HF near the vicinity of the Ag nanoparticles. Ag nanoparticles were deposited using electro-less metal deposition assisted by Ag+ ions in an etchant composed of 4.6 M HF and 0.02 M AgNO<sub>3</sub> [<xref rid="B37-sensors-16-00902" ref-type="bibr">37</xref>]. The Ag nanoparticles deposited by wet chemical etching act as a mask for inductively coupled plasma reactive ion etching (ICP-RIE) in the second step. Inductively coupled plasma was generated by perfluorocyclobutane (C<sub>4</sub>F<sub>8</sub>) and oxygen (O<sub>2</sub>) gas (ratio 4:1), RF power of 100 W, ICP power of 200 W and pressure of 13 mtorr. Very anisotropic etch profile of nanostructure was obtained because of mostly vertical delivery of reactive ions. The nanostructure depth was controlled by the etching time of ICP-RIE. Following the fabrication process, Ag particles were removed using a nitric acid solution at 25 &#x000b0;C and the Si layer was removed using tetramethylammonium hydroxide bath at 85 &#x000b0;C. (<xref ref-type="fig" rid="sensors-16-00902-f001">Figure 1</xref>).</p></sec><sec id="sec2dot2-sensors-16-00902"><title>2.2. Three-Point Bending Test</title><p>Three-point bending (3PB) was performed for measuring the bending strength of plain borosilicate glass and different depth nanostructured borosilicate glass samples. All samples were diced using a sawing machine (Disco DAD 2H/6T) with dimensions of 60 mm &#x000d7; 20 mm &#x000d7; 0.7 mm according to the ASTM 855-08 standard [<xref rid="B38-sensors-16-00902" ref-type="bibr">38</xref>]. For the 3PB test, the specimens were placed in the material testing machine (Hung Ta HT-2102A) with a load cell (Hung Ta 8336) and were loaded to fail at a displacement rate of 30 mm/min by the load applicator. The bending strength was then calculated using the following equation [<xref rid="B38-sensors-16-00902" ref-type="bibr">38</xref>].
+<disp-formula id="FD1-sensors-16-00902"><label>(1)</label><mml:math id="mm1"><mml:mrow><mml:msub><mml:mi>&#x003c3;</mml:mi><mml:mrow><mml:mi>b</mml:mi><mml:mi>r</mml:mi></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mn>1.5</mml:mn><mml:msub><mml:mi>F</mml:mi><mml:mi>r</mml:mi></mml:msub><mml:mi>L</mml:mi></mml:mrow><mml:mrow><mml:mi>w</mml:mi><mml:msup><mml:mi>t</mml:mi><mml:mn>2</mml:mn></mml:msup></mml:mrow></mml:mfrac></mml:mrow></mml:math></disp-formula>
+where &#x003c3;<sub>br</sub>, <italic>F</italic><sub>r</sub>, <italic>L</italic>, <italic>w</italic>, and <italic>t</italic> are the bending strength, load at rupture, span length, width, and sample thickness, respectively.</p></sec><sec id="sec2dot3-sensors-16-00902"><title>2.3. Fragmentation Analysis Using High Speed Camera</title><p>Fragmentation analysis was conducted for borosilicate glass with dimensions of 60 mm &#x000d7; 20 mm &#x000d7; 0.7 mm using a high-speed camera (IDT Y-4), illuminated by a 500 W halogen lamp. A dynamic response of the 3PB fracture at a frame rate of 2000 frames/s with a 950 &#x003bc;s exposure time and 1280 &#x000d7; 1024 pixel resolution was recorder. The lens (TAMRON A09N) in the camera had a focal length of 30 cm. The schematic of fragmentation analysis by high speed camera set up is shown in <xref ref-type="fig" rid="sensors-16-00902-f002">Figure 2</xref>.</p></sec><sec id="sec2dot4-sensors-16-00902"><title>2.4. Transparency and Reflection Measurement</title><p>We measured both the reflection and transparency for the different nanostructured sample depths using a UV-Vis-NIR spectrophotometer (U4001, Hitachi Inc., Tokyo, Japan) equipped with an integrating sphere for the 400&#x02013;1000 nm range. The transmittance and reflectance were measured with a fixed incident angle of 5&#x000b0;.</p></sec></sec><sec id="sec3-sensors-16-00902"><title>3. Results</title><sec id="sec3dot1-sensors-16-00902"><title>3.1. Bending Strength Measurement for Different Depths of Nanostructure Borosilicate Glass</title><p>For the borosilicate glass, the bending strength was measured for nanostructured samples with different depths, including 100, 250, 500, 750, and 1000 nm. The bending strength of the plain sample was measured to be 0.28 GPa. After limited improvement for the 100-nm-deep nanostructure, the bending strength improved to 0.37 GPa for 250-nm-deep nanostructured borosilicate glass as shown in <xref ref-type="fig" rid="sensors-16-00902-f003">Figure 3</xref>. The bending strength further increased to 0.55 GPa for the 500-nm-deep nanostructured glass, and to 0.61 GPa for the 750-nm-deep nanostructured glass.</p></sec><sec id="sec3dot2-sensors-16-00902"><title>3.2. Comparison of Load-Displacement Curve Before and After Nanostructure Fabrication</title><p>The load displacement graph from the 3PB test showed similar responses in the nonlinear and linear regions, as well as in the regions near sudden fracture points. As shown in <xref ref-type="fig" rid="sensors-16-00902-f004">Figure 4</xref>, the stiffness of the nanostructured sample measured by the slope of the load displacement curve, 29.9 kN/m, is highly similar to the stiffness of the plain borosilicate glass sample, 30.1 kN/m.</p></sec><sec id="sec3dot3-sensors-16-00902"><title>3.3. Fragmentation Analysis Before and After Nanostructure Fabrication</title><p>Fragmentation analysis displayed two major fragments for plain borosilicate glass after failure in the three-point bending test as shown in <xref ref-type="fig" rid="sensors-16-00902-f005">Figure 5</xref>a. The number of fragments multiplied for the 500-nm-deep nanostructured borosilicate glass (<xref ref-type="fig" rid="sensors-16-00902-f005">Figure 5</xref>b).</p></sec><sec id="sec3dot4-sensors-16-00902"><title>3.4. Transparency and Reflection Comparison for Different Depths of Nanostructured Borosilicate Glass</title><p>Besides bending strength improvement, the total surface reflection from both sides was also reduced from 8% to 6% and then further to 4% for 250 nm and 500 nm nanostructured borosilicate glass samples, respectively, as shown in <xref ref-type="fig" rid="sensors-16-00902-f006">Figure 6</xref>. The transparency improves to 94% and 95% for 250 nm and 500 nm nanostructured borosilicate glass samples, respectively, because of the reduction in surface reflections.</p></sec></sec><sec id="sec4-sensors-16-00902"><title>4. Discussion</title><sec id="sec4dot1-sensors-16-00902"><title>4.1. Bending Strength Improvement by Nanostructure Fabrication</title><p>Every substrate contains random defects on its surface or subsurface area. Surface and subsurface defects cause local stress enhancement and act as crack initiation points [<xref rid="B10-sensors-16-00902" ref-type="bibr">10</xref>]. Nanostructures improve the strength by redistributing local stress at the defect tip to the nearby nanostructured area [<xref rid="B25-sensors-16-00902" ref-type="bibr">25</xref>]. More force is required to generate the same stress at the defect tip after stress redistribution, resulting in strength improvement. Since deeper nanostructures are closer to deeper defects, these can redistribute the stress more effectively. Therefore, a deeper nanostructure increases the redistribution of the stress at deeper defects. The bending strength improved from 0.28 GPa to 0.37 GPa for 250 nm-deep nanostructured borosilicate glass as shown in <xref ref-type="fig" rid="sensors-16-00902-f003">Figure 3</xref> because 250 nm-deep nanostructures are closer to deeper defects compared to plain glass. This explanation was further confirmed by an increase in bending strength to 0.55 GPa for the 500 nm-deep nanostructured glass, and to 0.61 GPa for the 750-nm-deep nanostructured glass. Since defects exist inevitably in all kinds of materials, this nanostructure strengthening method can be applied to all kinds of glass.</p></sec><sec id="sec4dot2-sensors-16-00902"><title>4.2. Unchanged Bulk Properties After Nanostructure Fabrication</title><p>Although almost all strengthening methods affect the bulk properties of a material to increase its strength, nanostructure fabrication has no effect on the bulk properties of the glass substrate. The stiffness and the unchanged Young&#x02019;s modulus for both plain borosilicate glass and nanostructured borosilicate glass confirm that the bulk properties remained unchanged after the surface nanostructure fabrication (<xref ref-type="fig" rid="sensors-16-00902-f004">Figure 4</xref>).</p></sec><sec id="sec4dot3-sensors-16-00902"><title>4.3. Higher Strength Confirmation by Fragmentation Analysis</title><p>Fragmentation analysis explains the relationship between the number of fragments during fracture and the strength of the material. The higher the number of fragments after the fracture, the larger the sample strength because of the high-strain energy absorption [<xref rid="B39-sensors-16-00902" ref-type="bibr">39</xref>]. The presence of two major fragments in the fragmentation analysis results for the plain borosilicate glass sample fracturing illustrates the presence of surface and subsurface defects in plain borosilicate glass (<xref ref-type="fig" rid="sensors-16-00902-f005">Figure 5</xref>a). After nanostructure fabrication, the nanostructures can redistribute the stress near existing defects and cause the sample to break in many small fragments (<xref ref-type="fig" rid="sensors-16-00902-f005">Figure 5</xref>b).</p></sec><sec id="sec4dot4-sensors-16-00902"><title>4.4. Transparency Improvement by Reduction in Reflection</title><p>The glass substrates had refractive indices close to 1.5, which created a surface reflection of approximately 4% from a single side of the plain glass and of approximately 8% from both sides of the glass surface [<xref rid="B40-sensors-16-00902" ref-type="bibr">40</xref>,<xref rid="B41-sensors-16-00902" ref-type="bibr">41</xref>]. The suppression of reflection over a broad spectral range was achieved by subwavelength texturing at the air-glass boundary, enabling a gradual refractive index transition [<xref rid="B42-sensors-16-00902" ref-type="bibr">42</xref>]. For higher-depth nanostructure, the reflection will reduce and transparency will be increased as shown in <xref ref-type="fig" rid="sensors-16-00902-f006">Figure 6</xref>. It is commonly believed that surface reflection will decrease with the increasing nanostructure depth [<xref rid="B20-sensors-16-00902" ref-type="bibr">20</xref>] and will increase the optical performance of the glass. However, random nanostructures with a greater depth than the light wavelength can increase the scattering of the light [<xref rid="B18-sensors-16-00902" ref-type="bibr">18</xref>,<xref rid="B43-sensors-16-00902" ref-type="bibr">43</xref>]. Light scattering increases linearly with the nanostructure depth. Therefore, a reduction in the transparency of 750-nm-deep nanostructured glass to 89% (<xref ref-type="fig" rid="sensors-16-00902-f007">Figure 7</xref>) in our study can be attributed to light scattering by the deeper nanostructure. The loss caused by scattering is negligible for 250 nm-deep nanostructured glass which increased to 1% for 500-nm-deep nanostructured glass and increased further to 9% for 750-nm-deep nanostructured glass.</p></sec><sec id="sec4dot5-sensors-16-00902"><title>4.5. Optimum Design Window for Enhancement of Strength and Transparency</title><p>To determine an optimum range of nanostructure depth, the strength and transparency were measured for samples with nanostructure depths ranging from 0 to 1000 nm. Based on the transparency and bending strength results, we can divide the entire range into three distinct regions as shown in <xref ref-type="fig" rid="sensors-16-00902-f007">Figure 7</xref>. Region A is where the nanostructure depth is less than 100 nm, and random nanostructure fabrication does not affect the strength. Region B is where depths range from 100 to 500 nm, and both strength and transparency were enhanced compared with the reference value. The transparency improved from 92% to 95% at a nanostructure depth of 500 nm, and the bending strength improved from 0.28 to 0.55 GPa. Therefore, to achieve both higher strength and improved transparency, the nanostructure depth should be in the range of 100&#x02013;500 nm. This range of nanostructure depth is suitable for all applications which utilize both mechanical and optical properties of glass. Optical sensors, displays, panels, and the PV industry are a few of those major applications which can utilize this range of nanostructure depth. Region C is where the nanostructure depth is greater than 500 nm, and the strength increases further to 0.61 GPa for the 750 nm nanostructure sample, but the transparency decreases to 89% because of the scattering in the visible region. Nanostructures with depths greater than 500 nm could improve the mechanical strengths of glass substrates but would degrade their optical performances. Therefore, this region can be useful for applications including pressure sensors and micro-machined mechanical devices which mostly use the mechanical properties of the glass substrate.</p></sec></sec><sec id="sec5-sensors-16-00902"><title>5. Conclusions</title><p>In this study, surface nanostructures fabricated by combined wet and dry etching techniques on borosilicate glass improved the bending strength from 0.28 to 0.55 GPa. Moreover, the nanostructure surfaces exhibited limited transparency enhancements from 92% to 95% as an added advantage. The proposed fabrication process does not require a photolithography mask, which is typically required in the semiconductor industry. Metal-assisted wet chemical etching was used for the silver nanoparticle deposition process, which acted as a mask for dry etching using ICP-RIE. This masking process reduced both the cost and time by depositing a silver nanoparticle mask on both sides of the sample in a single step. The borosilicate glass obtained using this fabrication method exhibited bending strengths enhanced by 96% and improved transparency (from 92% to 95%) in nanostructure depth ranges of 100&#x02013;500 nm. This nanostructure depth range is suitable for all applications which require both enhanced strength and transparency of the glass substrate. The strength of borosilicate glass can be further improved by increasing the nanostructure depth for applications including pressure sensors and micro-machined mechanical devices where high transparency is not required. Our proposed method can be used to enhance the mechanical and optical performance of all glass substrates without changing their current manufacturing process.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was partly supported by the Ministry of Science and Technology, Taiwan (MOST) through the projects 104-2622-E-007-008-CC2. The authors are grateful for the research support from Instrument Technology Research Center (ITRC).</p></ack><notes><title>Author Contributions</title><p>J.A.Y. conceived the idea and supervised the project. A.K. designed and conducted the experiments. A.K, K.K, M.T.H and J.A.Y. performed the data analysis. A.K., K.K., and M.T.H. wrote the manuscript. All of the authors discussed the manuscript.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><glossary><title>Abbreviations</title><p>The following abbreviations are used in this manuscript:
+<array><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">PV</td><td align="left" valign="top" rowspan="1" colspan="1">Photovoltaic</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LPCVD</td><td align="left" valign="top" rowspan="1" colspan="1">Low pressure chemical vapor deposition</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ICP-RIE</td><td align="left" valign="top" rowspan="1" colspan="1">Inductively coupled plasma reactive ion etching</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">3PB</td><td align="left" valign="top" rowspan="1" colspan="1">Three-point bending</td></tr></tbody></array></p></glossary><ref-list><title>References</title><ref id="B1-sensors-16-00902"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brow</surname><given-names>R.K.</given-names></name><name><surname>Schmitt</surname><given-names>M.L.</given-names></name></person-group>
+<article-title>A survey of energy and environmental applications of glass</article-title>
+<source>J. Eur. Ceram. Soc.</source>
+<year>2009</year>
+<volume>29</volume>
+<fpage>1193</fpage>
+<lpage>1201</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jeurceramsoc.2008.08.011</pub-id>
+</element-citation></ref><ref id="B2-sensors-16-00902"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramuz</surname><given-names>M.</given-names></name><name><surname>Tee</surname><given-names>B.C.K.</given-names></name><name><surname>Tok</surname><given-names>J.B.H.</given-names></name><name><surname>Bao</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Transparent, Optical, Pressure-Sensitive Artificial Skin for Large-Area Stretchable Electronics</article-title>
+<source>Adv. Mater.</source>
+<year>2012</year>
+<volume>24</volume>
+<fpage>3223</fpage>
+<lpage>3227</lpage>
+<pub-id pub-id-type="doi">10.1002/adma.201200523</pub-id>
+<pub-id pub-id-type="pmid">22641411</pub-id></element-citation></ref><ref id="B3-sensors-16-00902"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Belloy</surname><given-names>E.</given-names></name><name><surname>Sayah</surname><given-names>A.</given-names></name><name><surname>Gijs</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>Micromachining of glass inertial sensors</article-title>
+<source>Microelectromech. Syst. J.</source>
+<year>2002</year>
+<volume>11</volume>
+<fpage>85</fpage>
+<lpage>90</lpage>
+<pub-id pub-id-type="doi">10.1109/84.982867</pub-id>
+</element-citation></ref><ref id="B4-sensors-16-00902"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rao</surname><given-names>C.K.</given-names></name></person-group>
+<article-title>Safety of glass panels against wind loads</article-title>
+<source>Eng. Struct.</source>
+<year>1984</year>
+<volume>6</volume>
+<fpage>232</fpage>
+<lpage>234</lpage>
+</element-citation></ref><ref id="B5-sensors-16-00902"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>X.</given-names></name><name><surname>Huang</surname><given-names>W.</given-names></name><name><surname>Fu</surname><given-names>H.</given-names></name><name><surname>Yao</surname><given-names>A.</given-names></name><name><surname>Wang</surname><given-names>D.</given-names></name><name><surname>Pan</surname><given-names>H.</given-names></name><name><surname>Lu</surname><given-names>W.W.</given-names></name></person-group>
+<article-title>Bioactive borosilicate glass scaffolds: Improvement on the strength of glass-based scaffolds for tissue engineering</article-title>
+<source>J. Mater. Sci. Mater. Med.</source>
+<year>2009</year>
+<volume>20</volume>
+<fpage>365</fpage>
+<lpage>372</lpage>
+<pub-id pub-id-type="doi">10.1007/s10856-008-3582-3</pub-id>
+<pub-id pub-id-type="pmid">18807266</pub-id></element-citation></ref><ref id="B6-sensors-16-00902"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ruan</surname><given-names>Y.</given-names></name><name><surname>Foo</surname><given-names>T.C.</given-names></name><name><surname>Warren-Smith</surname><given-names>S.</given-names></name><name><surname>Hoffmann</surname><given-names>P.</given-names></name><name><surname>Moore</surname><given-names>R.C.</given-names></name><name><surname>Ebendorff-Heidepriem</surname><given-names>H.</given-names></name><name><surname>Monro</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Antibody immobilization within glass microstructured fibers: A route to sensitive and selective biosensors</article-title>
+<source>Opt. Express</source>
+<year>2008</year>
+<volume>16</volume>
+<fpage>18514</fpage>
+<lpage>18523</lpage>
+<pub-id pub-id-type="doi">10.1364/OE.16.018514</pub-id>
+<pub-id pub-id-type="pmid">18958130</pub-id></element-citation></ref><ref id="B7-sensors-16-00902"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haldimann</surname><given-names>M.</given-names></name></person-group>
+<article-title>Fracture strength of structural glass elements</article-title>
+<source>OAI</source>
+<year>2006</year>
+<pub-id pub-id-type="doi">10.5075/epfl-thesis-3671</pub-id>
+</element-citation></ref><ref id="B8-sensors-16-00902"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lo</surname><given-names>C.-M.</given-names></name><name><surname>Wang</surname><given-names>H.-B.</given-names></name><name><surname>Dembo</surname><given-names>M.</given-names></name><name><surname>Wang</surname><given-names>Y.-L.</given-names></name></person-group>
+<article-title>Cell movement is guided by the rigidity of the substrate</article-title>
+<source>Biophys. J.</source>
+<year>2000</year>
+<volume>79</volume>
+<fpage>144</fpage>
+<lpage>152</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-3495(00)76279-5</pub-id>
+<pub-id pub-id-type="pmid">10866943</pub-id></element-citation></ref><ref id="B9-sensors-16-00902"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Griffith</surname><given-names>A.A.</given-names></name></person-group>
+<article-title>The phenomena of rupture and flow in solids. Philosophical transactions of the royal society of london. Series A, containing papers of a mathematical or physical character</article-title>
+<source>NASA</source>
+<year>1921</year>
+<volume>221</volume>
+<fpage>163</fpage>
+<lpage>198</lpage>
+</element-citation></ref><ref id="B10-sensors-16-00902"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Inglis</surname><given-names>C.</given-names></name></person-group>
+<article-title>Stresses in a cracked plate due to the presence of cracks and sharp corners</article-title>
+<source>Trans. Naval Arch. (Lond.)</source>
+<year>1913</year>
+<volume>60</volume>
+<fpage>213</fpage>
+</element-citation></ref><ref id="B11-sensors-16-00902"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Varshneya</surname><given-names>A.K.</given-names></name></person-group>
+<article-title>Chemical Strengthening of Glass: Lessons Learned and Yet To Be Learned</article-title>
+<source>Int. J. Appl. Glass Sci.</source>
+<year>2010</year>
+<volume>1</volume>
+<fpage>131</fpage>
+<lpage>142</lpage>
+<pub-id pub-id-type="doi">10.1111/j.2041-1294.2010.00010.x</pub-id>
+</element-citation></ref><ref id="B12-sensors-16-00902"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoshide</surname><given-names>T.</given-names></name><name><surname>Nebu</surname><given-names>A.</given-names></name><name><surname>Hayashi</surname><given-names>K.</given-names></name></person-group>
+<article-title>Bending strength of borosilicate glass coated with alumina and silicon carbide by RF magnetron sputtering</article-title>
+<source>JSME Int. J. A Solid M</source>
+<year>1998</year>
+<volume>41</volume>
+<fpage>332</fpage>
+<lpage>337</lpage>
+<pub-id pub-id-type="doi">10.1299/jsmea.41.332</pub-id>
+</element-citation></ref><ref id="B13-sensors-16-00902"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gy</surname><given-names>R.</given-names></name></person-group>
+<article-title>Ion exchange for glass strengthening</article-title>
+<source>Mater. Sci. Eng. B</source>
+<year>2008</year>
+<volume>149</volume>
+<fpage>159</fpage>
+<lpage>165</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mseb.2007.11.029</pub-id>
+</element-citation></ref><ref id="B14-sensors-16-00902"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shim</surname><given-names>G.I.</given-names></name><name><surname>Eom</surname><given-names>H.W.</given-names></name><name><surname>Kim</surname><given-names>S.H.</given-names></name><name><surname>Park</surname><given-names>J.K.</given-names></name><name><surname>Choi</surname><given-names>S.Y.</given-names></name></person-group>
+<article-title>Fabrication of lightweight and thin bulletproof windows using borosilicate glass strengthened by ion exchange</article-title>
+<source>Compos. Part B Eng.</source>
+<year>2015</year>
+<volume>69</volume>
+<fpage>44</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="doi">10.1016/j.compositesb.2014.09.023</pub-id>
+</element-citation></ref><ref id="B15-sensors-16-00902"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Briggs</surname><given-names>A.</given-names></name><name><surname>Davidge</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>Borosilicate Glass Reinforced with Continuous Silicon-Carbide Fibers&#x02014;A New Engineering Ceramic</article-title>
+<source>Mater. Sci. Eng. A Struct.</source>
+<year>1989</year>
+<volume>109</volume>
+<fpage>363</fpage>
+<lpage>372</lpage>
+<pub-id pub-id-type="doi">10.1016/0921-5093(89)90616-3</pub-id>
+</element-citation></ref><ref id="B16-sensors-16-00902"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lampert</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>Large-area smart glass and integrated photovoltaics</article-title>
+<source>Sol. Energy Mater. Sol. Cells</source>
+<year>2003</year>
+<volume>76</volume>
+<fpage>489</fpage>
+<lpage>499</lpage>
+<pub-id pub-id-type="doi">10.1016/S0927-0248(02)00259-3</pub-id>
+</element-citation></ref><ref id="B17-sensors-16-00902"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellison</surname><given-names>A.</given-names></name><name><surname>Cornejo</surname><given-names>I.A.</given-names></name></person-group>
+<article-title>Glass substrates for liquid crystal displays</article-title>
+<source>Int. J. Appl. Glass Sci.</source>
+<year>2010</year>
+<volume>1</volume>
+<fpage>87</fpage>
+<lpage>103</lpage>
+<pub-id pub-id-type="doi">10.1111/j.2041-1294.2010.00009.x</pub-id>
+</element-citation></ref><ref id="B18-sensors-16-00902"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ji</surname><given-names>S.</given-names></name><name><surname>Song</surname><given-names>K.</given-names></name><name><surname>Nguyen</surname><given-names>T.B.</given-names></name><name><surname>Kim</surname><given-names>N.</given-names></name><name><surname>Lim</surname><given-names>H.</given-names></name></person-group>
+<article-title>Optimal Moth Eye Nanostructure Array on Transparent Glass Towards Broadband Antireflection</article-title>
+<source>ACS Appl. Mater. Int.</source>
+<year>2013</year>
+<volume>5</volume>
+<fpage>10731</fpage>
+<lpage>10737</lpage>
+<pub-id pub-id-type="doi">10.1021/am402881x</pub-id>
+<pub-id pub-id-type="pmid">24116953</pub-id></element-citation></ref><ref id="B19-sensors-16-00902"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>S.W.</given-names></name><name><surname>Bae</surname><given-names>D.S.</given-names></name><name><surname>Shin</surname><given-names>H.</given-names></name></person-group>
+<article-title>Zinc-embedded silica nanoparticle layer in a multilayer coating on a glass substrate achieves broadband antireflection and high transparency</article-title>
+<source>J. Appl. Phys.</source>
+<year>2004</year>
+<volume>96</volume>
+<fpage>6766</fpage>
+<lpage>6771</lpage>
+<pub-id pub-id-type="doi">10.1063/1.1806997</pub-id>
+</element-citation></ref><ref id="B20-sensors-16-00902"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xi</surname><given-names>J.Q.</given-names></name><name><surname>Schubert</surname><given-names>M.F.</given-names></name><name><surname>Kim</surname><given-names>J.K.</given-names></name><name><surname>Schubert</surname><given-names>E.F.</given-names></name><name><surname>Chen</surname><given-names>M.F.</given-names></name><name><surname>Lin</surname><given-names>S.Y.</given-names></name><name><surname>Liu</surname><given-names>W.</given-names></name><name><surname>Smart</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Optical thin-film materials with low refractive index for broadband elimination of Fresnel reflection</article-title>
+<source>Nat. Photonics</source>
+<year>2007</year>
+<volume>1</volume>
+<fpage>176</fpage>
+<lpage>179</lpage>
+</element-citation></ref><ref id="B21-sensors-16-00902"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dobrowolski</surname><given-names>J.</given-names></name><name><surname>Poitras</surname><given-names>D.</given-names></name><name><surname>Ma</surname><given-names>P.</given-names></name><name><surname>Vakil</surname><given-names>H.</given-names></name><name><surname>Acree</surname><given-names>M.</given-names></name></person-group>
+<article-title>Toward perfect antireflection coatings: Numerical investigation</article-title>
+<source>Appl. Opt.</source>
+<year>2002</year>
+<volume>41</volume>
+<fpage>3075</fpage>
+<lpage>3083</lpage>
+<pub-id pub-id-type="doi">10.1364/AO.41.003075</pub-id>
+<pub-id pub-id-type="pmid">12064383</pub-id></element-citation></ref><ref id="B22-sensors-16-00902"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bernhard</surname><given-names>C.G.</given-names></name></person-group>
+<article-title>Structural and Functional Adaptation in a Visual System</article-title>
+<source>Endeavour</source>
+<year>1967</year>
+<volume>26</volume>
+<fpage>79</fpage>
+<lpage>84</lpage>
+</element-citation></ref><ref id="B23-sensors-16-00902"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parker</surname><given-names>A.R.</given-names></name><name><surname>Townley</surname><given-names>H.E.</given-names></name></person-group>
+<article-title>Biomimetics of photonic nanostructures</article-title>
+<source>Nat. Nanotechnol.</source>
+<year>2007</year>
+<volume>2</volume>
+<fpage>347</fpage>
+<lpage>353</lpage>
+<pub-id pub-id-type="doi">10.1038/nnano.2007.152</pub-id>
+<pub-id pub-id-type="pmid">18654305</pub-id></element-citation></ref><ref id="B24-sensors-16-00902"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Q.Y.</given-names></name><name><surname>Zhang</surname><given-names>X.A.</given-names></name><name><surname>Bagal</surname><given-names>A.</given-names></name><name><surname>Guo</surname><given-names>W.</given-names></name><name><surname>Chang</surname><given-names>C.H.</given-names></name></person-group>
+<article-title>Antireflection effects at nanostructured material interfaces and the suppression of thin-film interference</article-title>
+<source>Nanotechnology</source>
+<year>2013</year>
+<volume>24</volume>
+<fpage>235202</fpage>
+<pub-id pub-id-type="doi">10.1088/0957-4484/24/23/235202</pub-id>
+<pub-id pub-id-type="pmid">23676429</pub-id></element-citation></ref><ref id="B25-sensors-16-00902"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kashyap</surname><given-names>K.</given-names></name><name><surname>Kumar</surname><given-names>A.</given-names></name><name><surname>Huang</surname><given-names>C.T.</given-names></name><name><surname>Lin</surname><given-names>Y.Y.</given-names></name><name><surname>Hou</surname><given-names>M.T.</given-names></name><name><surname>Yeh</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Elimination of strength degrading effects caused by surface microdefect: A prevention achieved by silicon nanotexturing to avoid catastrophic brittle fracture</article-title>
+<source>Sci. Rep. UK</source>
+<year>2015</year>
+<volume>5</volume>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1038/srep10869</pub-id>
+<pub-id pub-id-type="pmid">26040924</pub-id></element-citation></ref><ref id="B26-sensors-16-00902"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kashyap</surname><given-names>K.</given-names></name><name><surname>Kumar</surname><given-names>A.</given-names></name><name><surname>Hou</surname><given-names>M.T.</given-names></name><name><surname>Yeh</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Sidewall Nanotexturing for High Rupture Strength of Silicon Solar Cells</article-title>
+<source>J. Microelectromech. S</source>
+<year>2015</year>
+<volume>24</volume>
+<fpage>7</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1109/JMEMS.2014.2365589</pub-id>
+</element-citation></ref><ref id="B27-sensors-16-00902"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kashyap</surname><given-names>K.</given-names></name><name><surname>Zheng</surname><given-names>L.C.</given-names></name><name><surname>Lai</surname><given-names>D.Y.</given-names></name><name><surname>Hou</surname><given-names>M.T.</given-names></name><name><surname>Yeh</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Rollable Silicon IC Wafers Achieved by Backside Nanotexturing</article-title>
+<source>IEEE Electr. Device Lett.</source>
+<year>2015</year>
+<volume>36</volume>
+<fpage>829</fpage>
+<lpage>831</lpage>
+<pub-id pub-id-type="doi">10.1109/LED.2015.2439701</pub-id>
+</element-citation></ref><ref id="B28-sensors-16-00902"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kermode</surname><given-names>J.R.</given-names></name><name><surname>Albaret</surname><given-names>T.</given-names></name><name><surname>Sherman</surname><given-names>D.</given-names></name><name><surname>Bernstein</surname><given-names>N.</given-names></name><name><surname>Gumbsch</surname><given-names>P.</given-names></name><name><surname>Payne</surname><given-names>M.C.</given-names></name><name><surname>Csanyi</surname><given-names>G.</given-names></name><name><surname>De Vita</surname><given-names>A.</given-names></name></person-group>
+<article-title>Low-speed fracture instabilities in a brittle crystal</article-title>
+<source>Nature</source>
+<year>2008</year>
+<volume>455</volume>
+<fpage>1224</fpage>
+<lpage>1227</lpage>
+<pub-id pub-id-type="doi">10.1038/nature07297</pub-id>
+</element-citation></ref><ref id="B29-sensors-16-00902"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arora</surname><given-names>A.</given-names></name><name><surname>Marshall</surname><given-names>D.B.</given-names></name><name><surname>Lawn</surname><given-names>B.R.</given-names></name></person-group>
+<article-title>Indentation Deformation-Fracture of Normal and Anomalous Glasses</article-title>
+<source>J. Non-Cryst. Solids</source>
+<year>1979</year>
+<volume>31</volume>
+<fpage>415</fpage>
+<lpage>428</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-3093(79)90154-6</pub-id>
+</element-citation></ref><ref id="B30-sensors-16-00902"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leonhard</surname><given-names>A.</given-names></name><name><surname>Xing</surname><given-names>L.Q.</given-names></name><name><surname>Heilmaier</surname><given-names>M.</given-names></name><name><surname>Gebert</surname><given-names>A.</given-names></name><name><surname>Eckert</surname><given-names>J.</given-names></name><name><surname>Schultz</surname><given-names>L.</given-names></name></person-group>
+<article-title>Effect of crystalline precipitations on the mechanical behavior of bulk glass forming Zr-based alloys</article-title>
+<source>Nanostruct. Mater.</source>
+<year>1998</year>
+<volume>10</volume>
+<fpage>805</fpage>
+<lpage>817</lpage>
+<pub-id pub-id-type="doi">10.1016/S0965-9773(98)00117-2</pub-id>
+</element-citation></ref><ref id="B31-sensors-16-00902"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cook</surname><given-names>R.F.</given-names></name><name><surname>Pharr</surname><given-names>G.M.</given-names></name></person-group>
+<article-title>Direct Observation and Analysis of Indentation Cracking in Glasses and Ceramics</article-title>
+<source>J. Am. Ceram. Soc.</source>
+<year>1990</year>
+<volume>73</volume>
+<fpage>787</fpage>
+<lpage>817</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1151-2916.1990.tb05119.x</pub-id>
+</element-citation></ref><ref id="B32-sensors-16-00902"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Park</surname><given-names>K.C.</given-names></name><name><surname>Choi</surname><given-names>H.J.</given-names></name><name><surname>Chang</surname><given-names>C.H.</given-names></name><name><surname>Cohen</surname><given-names>R.E.</given-names></name><name><surname>McKinley</surname><given-names>G.H.</given-names></name><name><surname>Barbastathis</surname><given-names>G.</given-names></name></person-group>
+<article-title>Nanotextured Silica Surfaces with Robust Superhydrophobicity and Omnidirectional Broadband Supertransmissivity</article-title>
+<source>ACS Nano</source>
+<year>2012</year>
+<volume>6</volume>
+<fpage>3789</fpage>
+<lpage>3799</lpage>
+<pub-id pub-id-type="doi">10.1021/nn301112t</pub-id>
+<pub-id pub-id-type="pmid">22482937</pub-id></element-citation></ref><ref id="B33-sensors-16-00902"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Son</surname><given-names>J.</given-names></name><name><surname>Kundu</surname><given-names>S.</given-names></name><name><surname>Verma</surname><given-names>L.K.</given-names></name><name><surname>Sakhuja</surname><given-names>M.</given-names></name><name><surname>Danner</surname><given-names>A.J.</given-names></name><name><surname>Bhatia</surname><given-names>C.S.</given-names></name><name><surname>Yang</surname><given-names>H.</given-names></name></person-group>
+<article-title>A practical superhydrophilic self cleaning and antireflective surface for outdoor photovoltaic applications</article-title>
+<source>Sol. Energy Mater. Sol. Cells</source>
+<year>2012</year>
+<volume>98</volume>
+<fpage>46</fpage>
+<lpage>51</lpage>
+<pub-id pub-id-type="doi">10.1016/j.solmat.2011.10.011</pub-id>
+</element-citation></ref><ref id="B34-sensors-16-00902"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>J.-M.</given-names></name><name><surname>Kim</surname><given-names>B.-I.</given-names></name></person-group>
+<article-title>Thermal dewetting of Pt thin film: Etch-masks for the fabrication of semiconductor nanostructures</article-title>
+<source>Mater. Sci. Eng. A</source>
+<year>2007</year>
+<volume>449</volume>
+<fpage>769</fpage>
+<lpage>773</lpage>
+<pub-id pub-id-type="doi">10.1016/j.msea.2006.02.403</pub-id>
+</element-citation></ref><ref id="B35-sensors-16-00902"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morhard</surname><given-names>C.</given-names></name><name><surname>Pacholski</surname><given-names>C.</given-names></name><name><surname>Lehr</surname><given-names>D.</given-names></name><name><surname>Brunner</surname><given-names>R.</given-names></name><name><surname>Helgert</surname><given-names>M.</given-names></name><name><surname>Sundermann</surname><given-names>M.</given-names></name><name><surname>Spatz</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Tailored antireflective biomimetic nanostructures for UV applications</article-title>
+<source>Nanotechnology</source>
+<year>2010</year>
+<volume>21</volume>
+<fpage>425301</fpage>
+<pub-id pub-id-type="doi">10.1088/0957-4484/21/42/425301</pub-id>
+<pub-id pub-id-type="pmid">20858934</pub-id></element-citation></ref><ref id="B36-sensors-16-00902"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nishioka</surname><given-names>K.</given-names></name><name><surname>Horita</surname><given-names>S.</given-names></name><name><surname>Ohdaira</surname><given-names>K.</given-names></name><name><surname>Matsumura</surname><given-names>H.</given-names></name></person-group>
+<article-title>Antireflection subwavelength structure of silicon surface formed by wet process using catalysis of single nano-sized gold particle</article-title>
+<source>Sol. Energy Mater. Sol. Cells</source>
+<year>2008</year>
+<volume>92</volume>
+<fpage>919</fpage>
+<lpage>922</lpage>
+<pub-id pub-id-type="doi">10.1016/j.solmat.2008.02.017</pub-id>
+</element-citation></ref><ref id="B37-sensors-16-00902"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peng</surname><given-names>K.Q.</given-names></name><name><surname>Yan</surname><given-names>Y.J.</given-names></name><name><surname>Gao</surname><given-names>S.P.</given-names></name><name><surname>Zhu</surname><given-names>J.</given-names></name></person-group>
+<article-title>Synthesis of large-area silicon nanowire arrays via self-assembling nanoelectrochemistry</article-title>
+<source>Adv. Mater.</source>
+<year>2002</year>
+<volume>14</volume>
+<fpage>1164</fpage>
+<lpage>1167</lpage>
+</element-citation></ref><ref id="B38-sensors-16-00902"><label>38.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Designation E855-08, ASTM</collab></person-group>
+<source>Standard Test Methods for Bend Testing of Metallic Flat Materials for Spring Applications Involving Static Loading</source>
+<publisher-name>ASTM International</publisher-name>
+<publisher-loc>West Conshohocken, PA, USA</publisher-loc>
+<year>2013</year>
+</element-citation></ref><ref id="B39-sensors-16-00902"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cook</surname><given-names>R.F.</given-names></name></person-group>
+<article-title>Strength and sharp contact fracture of silicon</article-title>
+<source>J. Mater. Sci.</source>
+<year>2006</year>
+<volume>41</volume>
+<fpage>841</fpage>
+<lpage>872</lpage>
+<pub-id pub-id-type="doi">10.1007/s10853-006-6567-y</pub-id>
+</element-citation></ref><ref id="B40-sensors-16-00902"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hong</surname><given-names>S.-H.</given-names></name><name><surname>Bae</surname><given-names>B.-J.</given-names></name><name><surname>Han</surname><given-names>K.-S.</given-names></name><name><surname>Hong</surname><given-names>E.-J.</given-names></name><name><surname>Lee</surname><given-names>H.</given-names></name><name><surname>Choi</surname><given-names>K.-W.</given-names></name></person-group>
+<article-title>Imprinted moth-eye antireflection patterns on glass substrate</article-title>
+<source>Electron. Mater. Lett.</source>
+<year>2009</year>
+<volume>5</volume>
+<fpage>39</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.3365/eml.2009.03.039</pub-id>
+</element-citation></ref><ref id="B41-sensors-16-00902"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walheim</surname><given-names>S.</given-names></name><name><surname>Sch&#x000e4;ffer</surname><given-names>E.</given-names></name><name><surname>Mlynek</surname><given-names>J.</given-names></name><name><surname>Steiner</surname><given-names>U.</given-names></name></person-group>
+<article-title>Nanophase-separated polymer films as high-performance antireflection coatings</article-title>
+<source>Science</source>
+<year>1999</year>
+<volume>283</volume>
+<fpage>520</fpage>
+<lpage>522</lpage>
+<pub-id pub-id-type="doi">10.1126/science.283.5401.520</pub-id>
+<pub-id pub-id-type="pmid">9915695</pub-id></element-citation></ref><ref id="B42-sensors-16-00902"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wilson</surname><given-names>S.</given-names></name><name><surname>Hutley</surname><given-names>M.</given-names></name></person-group>
+<article-title>The optical properties of'moth eye'antireflection surfaces</article-title>
+<source>J. Mod. Opt.</source>
+<year>1982</year>
+<volume>29</volume>
+<fpage>993</fpage>
+<lpage>1009</lpage>
+</element-citation></ref><ref id="B43-sensors-16-00902"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ji</surname><given-names>S.</given-names></name><name><surname>Park</surname><given-names>J.</given-names></name><name><surname>Lim</surname><given-names>H.</given-names></name></person-group>
+<article-title>Improved antireflection properties of moth eye mimicking nanopillars on transparent glass: Flat antireflection and color tuning</article-title>
+<source>Nanoscale</source>
+<year>2012</year>
+<volume>4</volume>
+<fpage>4603</fpage>
+<lpage>4610</lpage>
+<pub-id pub-id-type="doi">10.1039/c2nr30787a</pub-id>
+<pub-id pub-id-type="pmid">22706661</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="sensors-16-00902-f001" position="float"><label>Figure 1</label><caption><p>(<bold>a</bold>) Complete process for nanostructure formation; (<bold>b</bold>) SEM image for masking and dry etching process of glass nanostructure (all scale bars represent 500 nm).</p></caption><graphic xlink:href="sensors-16-00902-g001"/></fig><fig id="sensors-16-00902-f002" position="float"><label>Figure 2</label><caption><p>Schematic diagram for fragmentation analysis using three-point bending test.</p></caption><graphic xlink:href="sensors-16-00902-g002"/></fig><fig id="sensors-16-00902-f003" position="float"><label>Figure 3</label><caption><p>Comparison of bending strengths as determined by 3PB tests between plain (no nanostructure) and different-depth nanostructured borosilicate glass: Bending strength was enhanced from 0.28 GPa for the plain borosilicate glass sample to 0.37 GPa, 0.55 GPa, 0.61 GPa, and 0.59 GPa for 250-nm-, 500-nm-, 750-nm-, and 1000-nm-deep nanostructured borosilicate glass, respectively.</p></caption><graphic xlink:href="sensors-16-00902-g003"/></fig><fig id="sensors-16-00902-f004" position="float"><label>Figure 4</label><caption><p>Load-displacement curve for plain borosilicate glass and 500-nm-deep nanostructured borosilicate glass. The almost similar slope for both plain and 500-nm-deep nanostructured confirms unchanged bulk properties after nanostructure fabrication.</p></caption><graphic xlink:href="sensors-16-00902-g004"/></fig><fig id="sensors-16-00902-f005" position="float"><label>Figure 5</label><caption><p>Dynamic fracture behavior captured by a high-speed camera for fragmentation analysis in 3PB test for borosilicate glass with dimensions of 60 mm &#x000d7; 20 mm &#x000d7; 0.7 mm: (<bold>a</bold>) plain borosilicate glass with two major fragments after fracture; (<bold>b</bold>) 500-nm-deep nanostructured borosilicate glass with multiple fragments after fracture.</p></caption><graphic xlink:href="sensors-16-00902-g005"/></fig><fig id="sensors-16-00902-f006" position="float"><label>Figure 6</label><caption><p>Transparency and reflection measurement in visible light wavelength region (400&#x02013;800 nm) for plain borosilicate glass, 250-nm-deep, and 500-nm-deep nanostructured borosilicate glass.</p></caption><graphic xlink:href="sensors-16-00902-g006"/></fig><fig id="sensors-16-00902-f007" position="float"><label>Figure 7</label><caption><p>Strengths and transparencies for nanostructured samples with different depths; Region A shows the range of nanostructure depths for which there is almost no change in strength and transparency; Region B is the optimum range for both strength and transparency, where both strength and transparency are improved relative to the plain borosilicate glass; and Region C shows the range of nanostructure depths at which strength is improved and saturated, but transparency is reduced due to scattering.</p></caption><graphic xlink:href="sensors-16-00902-g007"/></fig></floats-group></article>

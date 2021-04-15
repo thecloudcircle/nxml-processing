@@ -1,0 +1,632 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell Prolif</journal-id><journal-id journal-id-type="iso-abbrev">Cell Prolif</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2184</journal-id><journal-id journal-id-type="publisher-id">CPR</journal-id><journal-title-group><journal-title>Cell Proliferation</journal-title></journal-title-group><issn pub-type="ppub">0960-7722</issn><issn pub-type="epub">1365-2184</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31889368</article-id><article-id pub-id-type="pmc">7046308</article-id><article-id pub-id-type="doi">10.1111/cpr.12752</article-id><article-id pub-id-type="publisher-id">CPR12752</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>IGFBP7 acts as a negative regulator of RANKL&#x02010;induced osteoclastogenesis and oestrogen deficiency&#x02010;induced bone loss</article-title><alt-title alt-title-type="left-running-head">YE et al.</alt-title></title-group><contrib-group><contrib id="cpr12752-cr-0001" contrib-type="author"><name><surname>Ye</surname><given-names>Chenyi</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpr12752-cr-0002" contrib-type="author"><name><surname>Hou</surname><given-names>Weiduo</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpr12752-cr-0003" contrib-type="author"><name><surname>Chen</surname><given-names>Mo</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cpr12752-cr-0004" contrib-type="author"><name><surname>Lu</surname><given-names>Jinwei</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpr12752-cr-0005" contrib-type="author"><name><surname>Chen</surname><given-names>Erman</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpr12752-cr-0006" contrib-type="author"><name><surname>Tang</surname><given-names>Lan</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpr12752-cr-0007" contrib-type="author"><name><surname>Hang</surname><given-names>Kai</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpr12752-cr-0008" contrib-type="author"><name><surname>Ding</surname><given-names>Qianhai</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpr12752-cr-0009" contrib-type="author"><name><surname>Li</surname><given-names>Yan</given-names></name><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cpr12752-cr-0010" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Wei</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4858-0684</contrib-id><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref><address><email>zhangweilook@zju.edu.cn</email></address></contrib><contrib id="cpr12752-cr-0011" contrib-type="author" corresp="yes"><name><surname>He</surname><given-names>Rongxin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5937-3878</contrib-id><xref ref-type="aff" rid="cpr12752-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cpr12752-aff-0002">
+<sup>2</sup>
+</xref><address><email>herongxin@zju.edu.cn</email></address></contrib></contrib-group><aff id="cpr12752-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Orthopedic Surgery</named-content>
+<named-content content-type="organisation-division">the Second Affiliated Hospital</named-content>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>Zhejiang University</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cpr12752-aff-0002">
+<label><sup>2</sup></label>
+<institution>Orthopedics Research Institute of Zhejiang University</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="cpr12752-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Rheumatology</named-content>
+<named-content content-type="organisation-division">Second Affiliated Hospital</named-content>
+<named-content content-type="organisation-division">School of Medicine</named-content>
+<institution>Zhejiang University</institution>
+<city>Hangzhou</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Rongxin He or Wei Zhang, Department of Orthopedic Surgery, the Second Affiliated Hospital, School of Medicine, Zhejiang University, No. 88, Jiefang Road, Hangzhou 310009, China.<break/>
+Emails: <email>herongxin@zju.edu.cn</email> (RH); <email>zhangweilook@zju.edu.cn</email> (WZ)<break/></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>12</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2020</year></pub-date><volume>53</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/cpr.v53.2</issue-id><elocation-id>e12752</elocation-id><history><date date-type="received"><day>19</day><month>9</month><year>2019</year></date><date date-type="rev-recd"><day>04</day><month>12</month><year>2019</year></date><date date-type="accepted"><day>11</day><month>12</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Cell Proliferation</italic> Published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CPR-53-e12752.pdf"/><abstract id="cpr12752-abs-0001"><title>Abstract</title><sec id="cpr12752-sec-0001"><title>Objectives</title><p>Insulin&#x02010;like growth factor&#x02010;binding protein 7 (IGFBP7) is a low&#x02010;affinity insulin growth factor (IGF) binder that may play an important role in bone metabolism. We previously reported that IGFBP7 enhanced osteogenic differentiation of bone marrow&#x02010;derived mesenchymal stem cells (BMSCs) via the Wnt/&#x003b2;&#x02010;catenin signalling pathway. In this study, we tried to reveal its function in osteoclast differentiation and osteoporosis.</p></sec><sec id="cpr12752-sec-0002"><title>Methods</title><p>We used both in vitro and in vivo studies to investigate the effects of IGFBP7 on RANKL&#x02010;induced osteoclastogenesis and osteoporosis, together with the underlying molecular mechanisms of these processes.</p></sec><sec id="cpr12752-sec-0003"><title>Results</title><p>We show that IGFBP7 inhibited receptor activation of nuclear factor&#x02010;&#x003ba;B (NF&#x02010;&#x003ba;B) ligand (RANKL)&#x02010;induced osteoclastogenesis, F&#x02010;actin ring formation and bone resorption, which was confirmed by using recombinant IGFBP7 protein, lentivirus and siRNA. The NF&#x02010;&#x003ba;B signalling pathway was inhibited during this process. Moreover, in a mouse ovariectomy&#x02010;induced osteoporosis model, IGFBP7 treatment attenuated osteoporotic bone loss by inhibiting osteoclast activity.</p></sec><sec id="cpr12752-sec-0004"><title>Conclusions</title><p>Taken together, these findings show that IGFBP7 suppressed osteoclastogenesis in vitro and in vivo and suggest that IGFBP7 is a negative regulator of osteoclastogenesis and plays a protective role in osteoporosis. These novel insights into IGFBP7 may facilitate the development of potential treatment strategies for oestrogen deficiency&#x02010;induced osteoporosis and other osteoclast&#x02010;related disorders.</p></sec></abstract><funding-group><award-group id="funding-0001"><funding-source>Zhejiang Provincial Postdoctoral Preferred Foundation</funding-source><award-id>zj20180131</award-id></award-group><award-group id="funding-0002"><funding-source>Zhejiang Provincial Natural Science Foundation of China</funding-source><award-id>LY15H060003</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>China Postdoctoral Science Foundation </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100002858</institution-id></institution-wrap></funding-source><award-id>2018M640567</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>81501906</award-id><award-id>81572124</award-id><award-id>81802228</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="15"/><word-count count="7849"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.6.1 mode:remove_FC converted:27.02.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cpr12752-cit-1001">
+<string-name>
+<surname>Ye</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hou</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>IGFBP7 acts as a negative regulator of RANKL&#x02010;induced osteoclastogenesis and oestrogen deficiency&#x02010;induced bone loss</article-title>. <source xml:lang="en">Cell Prolif</source>. <year>2020</year>;<volume>53</volume>:<elocation-id>e12752</elocation-id>
+<pub-id pub-id-type="doi">10.1111/cpr.12752</pub-id>
+</mixed-citation>
+</p><fn-group id="cpr12752-ntgp-0001"><fn fn-type="equal" id="cpr12752-note-0001"><p>Ye, Hou, Mo Chen are contributed equally to this work.</p></fn></fn-group></notes></front><body id="cpr12752-body-0001"><sec id="cpr12752-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Osteoporosis is one of the most common diseases in elderly individuals and is a devastating disease with significant mortality, morbidity and disability. Osteoporosis and osteopoenia affect approximately 72% of females and 62% of males over the age of 50&#x000a0;years.<xref rid="cpr12752-bib-0001" ref-type="ref">1</xref>, <xref rid="cpr12752-bib-0002" ref-type="ref">2</xref> Based on previous studies, there are more than 44 million Americans suffering from osteoporosis.<xref rid="cpr12752-bib-0001" ref-type="ref">1</xref>, <xref rid="cpr12752-bib-0003" ref-type="ref">3</xref> With the ageing population, there is an increasing prevalence of osteoporosis with subsequent fragility fractures, which continues to be a major challenge for orthopaedic surgeons and for society. Currently, the most common clinical treatment for osteoporosis is the use of medications such as bisphosphonates, calcitonin and oestrogen. However, due to widely reported serious side effects such as fever, hypocalcaemia, bone pain, hypercalcaemia, nausea, endometrial and breast cancer, and cardiovascular disease, these treatments are not optimal.<xref rid="cpr12752-bib-0004" ref-type="ref">4</xref>, <xref rid="cpr12752-bib-0005" ref-type="ref">5</xref> Identification of novel alternative treatment strategies with minimal side effects is therefore urgently needed.</p><p>Previous studies on postmenopausal osteoporosis showed that osteoporosis is mainly characterized by excessive osteoclastogenesis, abnormally increased osteoclastic bone resorption and deficient bone formation.<xref rid="cpr12752-bib-0006" ref-type="ref">6</xref> Osteoclasts are usually differentiated from the monocyte/macrophage lineage upon stimulation with macrophage colony&#x02010;stimulating factor and receptor activator of nuclear factor&#x02010;&#x003ba;B ligand (RANKL). The interaction of RANKL with RANK results in the activation of intracellular downstream signalling pathways, including mitogen&#x02010;activated protein kinases (MAPKs), PI3K/AKT and NF&#x02010;&#x003ba;B. Following activation, transcription factors such as nuclear factor of activated T&#x02010;cell cytoplasmic 1 (NFATc1) and activator protein 1 are then activated, resulting in the induction of osteoclast markers including tartrate&#x02010;resistant acid phosphatase, matrix metalloproteinase 9 and cathepsin K, leading to the formation of mature multinucleated osteoclasts.<xref rid="cpr12752-bib-0007" ref-type="ref">7</xref>, <xref rid="cpr12752-bib-0008" ref-type="ref">8</xref> The mechanism of the disrupted balance of osteoblasts and osteoclasts is presently largely unknown, and there have been numerous efforts towards rebalancing this process. Because osteoclasts are the only cells capable of bone resorption, a better understanding of osteoclastogenesis, particularly the involvement of genetic factors, is necessary for the clinical management of osteoporosis.</p><p>Insulin&#x02010;like growth factor&#x02010;binding protein 7 (IGFBP7), also known as Mac25 or IGFBP&#x02010;related protein 1, is a secreted protein of the IGFBP superfamily, with binding affinity to insulin growth factor (IGF). Binding of IGFBP7 is much lower than that of conventional IGFBP1&#x02010;6. As a unique member of IGFBPs, studies have shown that IGFBP7 plays important roles in regulating cell proliferation, adhesion and differentiation in many cell lines.<xref rid="cpr12752-bib-0009" ref-type="ref">9</xref>, <xref rid="cpr12752-bib-0010" ref-type="ref">10</xref> IGFBP7 has also been implicated as a tumour suppressor in a variety of human malignancies including thyroid carcinoma,<xref rid="cpr12752-bib-0011" ref-type="ref">11</xref> cholangiocarcinoma,<xref rid="cpr12752-bib-0012" ref-type="ref">12</xref> gastric cancer,<xref rid="cpr12752-bib-0013" ref-type="ref">13</xref> hepatocellular carcinoma<xref rid="cpr12752-bib-0014" ref-type="ref">14</xref> and breast cancer.<xref rid="cpr12752-bib-0015" ref-type="ref">15</xref> Notably, there is increasing evidence, suggesting that IGFBP7 is involved in bone metabolism. Pereira et al found that the expression of IGFBP7 and parathyroid hormone (PTH) was increased in osteoblasts.<xref rid="cpr12752-bib-0016" ref-type="ref">16</xref> Arnold et al reported that IGFBP7 promoted osteogenesis of stem cells and may protect them from bone disease in multiple myeloma.<xref rid="cpr12752-bib-0017" ref-type="ref">17</xref> Using protein interaction and microRNA network analyses, Wang et al reported that IGFBP7 expression was associated with the development of osteoarthritis (OA),<xref rid="cpr12752-bib-0018" ref-type="ref">18</xref> which was confirmed by two other studies.<xref rid="cpr12752-bib-0019" ref-type="ref">19</xref>, <xref rid="cpr12752-bib-0020" ref-type="ref">20</xref> In our previous study, we reported that IGFBP7 enhanced osteogenic differentiation of BMSCs via the Wnt/&#x003b2;&#x02010;catenin signalling pathway in vitro and promoted new bone formation in vivo.<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> However, the function of IGFBP7 in osteoclast differentiation and osteoporosis still remains unclear.</p><p>For a better understanding of the role of IGFBP7 in bone metabolism, we used both in vitro and in vivo studies to investigate the effects of IGFBP7 on RANKL&#x02010;induced osteoclastogenesis and osteoporosis and characterized the underlying molecular mechanisms of these processes.</p></sec><sec sec-type="materials-and-methods" id="cpr12752-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="cpr12752-sec-0007"><label>2.1</label><title>Reagents</title><p>Alpha modification of Eagle's medium (&#x003b1;&#x02010;MEM), PBS and 1% penicillin/streptomycin (P/S) were purchased from GENOM. Foetal bovine serum (FBS) was purchased from Gemini. Recombinant M&#x02010;CSF and RANKL were purchased from Novoprotein. Cell Counting Kit&#x02010;8 (CCK&#x02010;8) was purchased from Dojindo (Kumamoto, Japan). Antibodies against p38, phospho&#x02010;p38 (p&#x02010;p38), c&#x02010;Jun N&#x02010;terminal kinase (JNK), p&#x02010;JNK, p65, p&#x02010;p65, extracellular signal&#x02010;regulated kinase (ERK), p&#x02010;ERK, nuclear factor of kappa light polypeptide gene enhancer in B&#x02010;cell inhibitor alpha (I&#x003ba;B&#x003b1;), p&#x02010;I&#x003ba;B&#x003b1;, AKT, p&#x02010;AKT, osteocalcin (OCN), transforming growth factor &#x003b2;&#x02010;activated kinase 1 (TAK1), p&#x02010;TAK1 and glyceraldehyde&#x02010;3&#x02010;phosphate dehydrogenase (GAPDH) were purchased from Cell Signaling Technology (CST). Antibodies against NFATc1/NFAT2 and c&#x02010;Fos were purchased from Abcam. Antibodies against OPG and RANKL were purchased from Affinity Biosciences (Changzhou, China). HRP&#x02010;linked secondary antibodies against IgG were purchased from BOSTER Biological Technology. About 4% paraformaldehyde (PFA) and the TRAP staining kit were purchased from Sigma&#x02010;Aldrich. Masson's trichrome staining kit was obtained from Nanjing&#x000a0;Jiancheng&#x000a0;Bioengineering&#x000a0;Institute. Alkaline phosphatase (ALP) activity kit was supplied by Beyotime. RNAiso reagent, complementary DNA (cDNA) synthesis kit and SYBR Premix Ex Taq&#x02122; II kit were purchased from TaKaRa. Recombinant IGFBP7 protein was purchased from R&#x00026;D Systems.</p></sec><sec id="cpr12752-sec-0008"><label>2.2</label><title>Bone marrow&#x02010;derived macrophage (BMM) preparation and osteoclast differentiation</title><p>Bone marrow&#x02010;derived macrophages were prepared from long bones of 6&#x02010; to 8&#x02010;week&#x02010;old male C57BL/6 mice as previously described,<xref rid="cpr12752-bib-0007" ref-type="ref">7</xref> which were then cultured in complete &#x003b1;&#x02010;MEM supplemented with 10% FBS, 1% P/S and 30&#x000a0;ng/mL M&#x02010;CSF. After that, BMMs (8&#x000a0;&#x000d7;&#x000a0;10<sup>3&#x000a0;</sup>cells/well) were seeded into 96&#x02010;well plates and cultured with M&#x02010;CSF (30&#x000a0;ng/mL), RANKL (100&#x000a0;ng/mL) and different concentrations of recombinant IGFBP7 protein (0&#x02010;1000&#x000a0;ng/mL) for 5&#x000a0;days until the formation of mature osteoclasts. After that, cells were fixed with 4% PFA and stained with a TRAP staining kit, following the standard procedures. TRAP&#x02010;positive cells with five or more nuclei were considered as mature osteoclasts, which were then counted and quantified using ImageJ software (NIH).</p></sec><sec id="cpr12752-sec-0009"><label>2.3</label><title>Cell viability and cytotoxicity assay</title><p>To assess the effect of IGFBP7 on BMM viability, BMMs (8&#x000a0;&#x000d7;&#x000a0;10<sup>3&#x000a0;</sup>cells/well) were seeded into a 96&#x02010;well plate and cultured in &#x003b1;&#x02010;MEM containing 30&#x000a0;ng/mL M&#x02010;CSF and serial concentration of recombinant IGFBP7 protein (0&#x02010;1000&#x000a0;ng/mL) for 48 or 96&#x000a0;hours. Then, the medium was removed and BMMs were treated with 100&#x000a0;&#x003bc;L &#x003b1;&#x02010;MEM containing M&#x02010;CSF (30&#x000a0;ng/mL) and 10% CCK&#x02010;8 for another 4&#x000a0;hours at 37&#x000b0;C. The optical density (OD) value at 450&#x000a0;nm was measured by a microplate reader (ELX808; BioTek).</p></sec><sec id="cpr12752-sec-0010"><label>2.4</label><title>RNA extraction, reverse transcription and real&#x02010;time PCR</title><p>Total RNA from BMMs or RAW264.7 cells was extracted using RNAiso reagent (TaKaRa) and quantified by reading the absorbance at 260&#x000a0;nm (NanoDrop 2000; Thermo Fisher). According to the manufacturer's instructions (Takara), cDNA was synthesized using total RNA (&#x02264;1000&#x000a0;ng) in a reaction volume of 20&#x000a0;&#x003bc;L. After that, RT&#x02010;PCR was then performed on the ABI StepOnePlus System (Applied Biosystems) using SYBR Premix Ex Taq<sup>&#x02122;</sup> II kit (Takara), following cycling conditions as: 5&#x000b0;C for 30&#x000a0;seconds and 45 cycles of denaturation at 95&#x000b0;C for 5&#x000a0;seconds and amplification at 60&#x000b0;C for 30&#x000a0;seconds. The 2<sup>&#x02212;&#x025b3;&#x025b3;Ct</sup> method was used to calculate the relative expression levels of target genes. The detailed murine primer sequences of all genes are shown in Table <xref rid="cpr12752-tbl-0001" ref-type="table">1</xref>. 18S was amplified as a housekeeping gene.</p><table-wrap id="cpr12752-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Sequences of primers for quantitative real&#x02010;time PCR</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Gene</th><th align="left" valign="top" rowspan="1" colspan="1">Reverse (5&#x02032;&#x02010;3&#x02032;)</th><th align="left" valign="top" rowspan="1" colspan="1">Reverse (3&#x02032;&#x02010;5&#x02032;)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">IGFBP7</td><td align="left" rowspan="1" colspan="1">TCAGCGGACAGAACTCTTGC</td><td align="left" rowspan="1" colspan="1">CCAGCCCGTTACTTCATGCT</td></tr><tr><td align="left" rowspan="1" colspan="1">NFATc1</td><td align="left" rowspan="1" colspan="1">GGAGAGTCCGAGAATCGAGAT</td><td align="left" rowspan="1" colspan="1">TTGCAGCTAGGAAGTACGTCT</td></tr><tr><td align="left" rowspan="1" colspan="1">TRAP</td><td align="left" rowspan="1" colspan="1">CACTCCCACCCTGAGATTTGT</td><td align="left" rowspan="1" colspan="1">CCCCAGAGACATGATGAAGTCA</td></tr><tr><td align="left" rowspan="1" colspan="1">V&#x02010;ATPase&#x02010;d2</td><td align="left" rowspan="1" colspan="1">CAGAGCTGTACTTCAATGTGGAC</td><td align="left" rowspan="1" colspan="1">AGGTCTCACACTGCACTAGGT</td></tr><tr><td align="left" rowspan="1" colspan="1">CTSK</td><td align="left" rowspan="1" colspan="1">CTCGGCGTTTAATTTGGGAGA</td><td align="left" rowspan="1" colspan="1">TCGAGAGGGAGGTATTCTGAGT</td></tr><tr><td align="left" rowspan="1" colspan="1">DC&#x02010;STAMP</td><td align="left" rowspan="1" colspan="1">GGGGACTTATGTGTTTCCACG</td><td align="left" rowspan="1" colspan="1">ACAAAGCAACAGACTCCCAAAT</td></tr><tr><td align="left" rowspan="1" colspan="1">MMP&#x02010;9</td><td align="left" rowspan="1" colspan="1">CTGGACAGCCAGACACTAAAG</td><td align="left" rowspan="1" colspan="1">CTCGCGGCAAGTCTTCAGAG</td></tr><tr><td align="left" rowspan="1" colspan="1">IGF1R</td><td align="left" rowspan="1" colspan="1">TGACATCCGCAACGACTATCA</td><td align="left" rowspan="1" colspan="1">CCAGTGCGTAGTTGTAGAAGAGT</td></tr><tr><td align="left" rowspan="1" colspan="1">18S</td><td align="left" rowspan="1" colspan="1">CGGACACGGACAGGATTGACA</td><td align="left" rowspan="1" colspan="1">CCAGACAAATCGCTCCACCAACTA</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cpr12752-sec-0011"><label>2.5</label><title>Bone resorption pit assay</title><p>To explore the effects of IGFBP7 on osteoclast function, bone resorption pit assay was performed using the standard procedure. In brief, BMMs (3.2&#x000a0;&#x000d7;&#x000a0;10<sup>4&#x000a0;</sup>cells/well) were seeded onto bovine bone slides in 24&#x02010;well plates. After 24&#x000a0;hours, cells were treated with RANKL (100&#x000a0;ng/mL) and M&#x02010;CSF (30&#x000a0;ng/mL) and different concentrations of recombinant IGFBP7 (0, 250, 500 and 1000&#x000a0;ng/mL) for 5&#x000a0;days. Using the same method, RAW264.7 cells (6&#x000a0;&#x000d7;&#x000a0;10<sup>3&#x000a0;</sup>cells/well) were also seeded onto bovine bone slides in 24&#x02010;well plates and treated with RANKL (100&#x000a0;ng/mL) for 5&#x000a0;days. Cells on the bone slices were then removed by gentle brushing. The resorption area was evaluated by a scanning electron microscope (Hitachi S&#x02010;3700N) and quantified by ImageJ software.</p></sec><sec id="cpr12752-sec-0012"><label>2.6</label><title>F&#x02010;Actin Ring Immunofluorescence (IF)</title><p>To evaluate the effects of IGFBP7 on F&#x02010;actin ring formation, BMMs were cultured on bovine bone slices. Twenty four hours after the seeding, the culture medium was replaced with fresh osteoclastogenic medium with recombinant IGFBP7 (1000&#x000a0;ng/mL) for 5&#x000a0;days. After that, cells were fixed with 4% PFA, permeabilized with 0.1% Triton X&#x02010;100 and stained with rhodamine&#x02010;conjugated phalloidin (1:200, diluted in 2% BSA in PBS; Invitrogen) for 1&#x000a0;hour at room temperature (RT). After washing with PBS for three times, the nuclei of cells were stained with DAPI for 5&#x000a0;minutes at RT. Fluorescent images of F&#x02010;actin were finally captured using a fluorescence microscope (Leica, Germany). ImageJ software was used for the quantification of selected randomly images. IF analysis of p65 nuclear translocation was conducted using NIKON A1Si laser scanning confocal system.</p></sec><sec id="cpr12752-sec-0013"><label>2.7</label><title>Osteoblastogenesis assay</title><p>To evaluate the role of IGFBP7 on osteogenesis, MC3T3&#x02010;E1 cells from the Cell Bank of the Chinese Academy of Sciences were used. For the osteogenic differentiation, MC3T3&#x02010;E1 cells (1&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> cells/well) were seeded in 12&#x02010;well plates and cultured in osteogenic medium (5&#x000a0;&#x003bc;mol/L L&#x02010;ascorbic acid 2&#x02010;phosphate 1&#x000a0;mmol/L &#x003b2;&#x02010;glycerophosphate), with/without different concentrations of recombinant IGFBP7, which were then maintained by replacing fresh osteogenic medium every 2&#x02010;3&#x000a0;days. Three days after the induction, ALP staining was performed using an ALP Activity Assay (Beyotime). To investigate the effect of IGFBP7 on mineralization, alizarin red staining (ARS) was applied at 14&#x000a0;days after the induction of osteogenic differentiation, using 1% solution of ARS kit (Cyagen Biosciences). The steps of ALP staining and ARS, together with the quantification, were consistent with our previous studies,<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref>, <xref rid="cpr12752-bib-0022" ref-type="ref">22</xref> strictly following the manufacturers&#x02019; instructions.</p></sec><sec id="cpr12752-sec-0014"><label>2.8</label><title>Western blot analysis</title><p>To determine the protein expression of osteoclast&#x02010;related markers, BMMs (1.2&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup>/well) were seeded into 6&#x02010;well plates and cultured with 0 or 1000&#x000a0;ng/mL IGFBP7 for 0, 1 and 3&#x000a0;days. To discover the underlying signalling pathways, RAW264.7 cells (5&#x000a0;&#x000d7;&#x000a0;10<sup>5</sup> cells per well) were seeded into 6&#x02010;well plates. RAW264.7 cells were pre&#x02010;treated with vehicle or IGFBP7 (1000&#x000a0;ng/mL) for 6&#x000a0;h and thereafter exposed to RANKL (100&#x000a0;ng/mL) for the indicated time (0, 5, 10, 20, 30 and 60&#x000a0;min). Total cellular protein extracts were obtained using RIPA lysis buffer with a protease inhibitor and a phosphatase inhibitor (Beyotime). Equal amounts of protein extracts were separated by 10% SDS&#x02010;PAGE and then electroblotted to PVDF membranes (Millipore). The membranes were thereafter blocked with 5% BSA for 1&#x000a0;hour and then incubated with primary antibodies at 4&#x000b0;C overnight. After that, the membranes were probed with secondary antibodies (BOSTER) for 2&#x000a0;hours at 4&#x000b0;C. The immunoreactive bands were detected by an enhanced chemiluminescent detection reagent (Millipore) in a Bio&#x02010;Rad XRS chemiluminescence detection system (Bio&#x02010;Rad).</p></sec><sec id="cpr12752-sec-0015"><label>2.9</label><title>IGFBP7 overexpression and knockdown in RAW264.7 cells</title><p>Overexpression of IGFBP7 was conducted using lentivirus, and knockdown of IGFBP7 was conducted using siRNA transfection, following the methods we reported previously.<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> In brief, lentivirus&#x02010;overexpressing IGFBP7 particles (IGFBP7&#x02010;OE group) and overexpressing control particles (Ctrl&#x02010;OE group) were obtained from GenePharma. Full&#x02010;length cDNA of IGFBP7 was prepared by PCR and then cloned into the BamHI and XhoI sites of the CMV&#x02010;MCSEGFP&#x02010;IRES retroviral vector (GenePharma). For infections, 40%&#x02010;60% confluent RAW264.7 cells were incubated with lentiviral particles and 1&#x000a0;mg/mL polybrene in growth medium at a multiplicity of infection of 20. After 12&#x000a0;hours, the infection medium was changed with fresh medium.</p><p>To knock down IGFBP7 expression in RAW264.7 cells, silencer predesigned siRNA targeting IGFBP7 (5&#x02032;&#x02010;GGTATCTCCTCTAAGTAAG&#x02010;3&#x02032;) (IGFBP7&#x02010;siR group) and silencer negative control siRNA (Ctrl&#x02010;siR group) were used (GenePharma). RAW264.7 cells were prepared at 40%&#x02010;60% confluence in 6&#x02010;well plates. To prepare the transfection mixture, Opti&#x02010;MEM (250&#x000a0;&#x003bc;L) containing Lipofectamine 2000 Reagent (5&#x000a0;&#x003bc;L, Thermo Fisher Scientific) was added to the Opti&#x02010;MEM (250&#x000a0;&#x003bc;L) containing siRNA (60&#x000a0;pmol/L). The mixture was then incubated for 20&#x000a0;minutes at RT, which was then added to the 6&#x02010;well plates containing 1&#x000a0;mL FBS&#x02010;free DMEM and incubated at 37&#x000b0;C. After 6&#x000a0;hours, the infection medium was changed with fresh medium. Knockdown of IGFBP7 expression in MC3T3&#x02010;E1 cells was conducted using the same method.</p><p>Real&#x02010;time PCR, immunofluorescence (IF) and Western blot analyses were conducted to determine the expression of IGFBP7. After that, cells were collected, and subsequent experiments were conducted.</p></sec><sec id="cpr12752-sec-0016"><label>2.10</label><title>NF&#x02010;&#x003ba;B activation luciferase reporter assay</title><p>To further study the effect of IGFBP7 on RANKL&#x02010;induced activation of NF&#x02010;&#x003ba;B, BMMs were transfected with NF&#x02010;&#x003ba;B luciferase reporter plasmid (Beyotime) following the manufacturer's protocol.<xref rid="cpr12752-bib-0023" ref-type="ref">23</xref> After that, BMMs were pre&#x02010;treated with vehicle or the recombinant IGFBP7 (250, 500 and 1000&#x000a0;ng/mL) for 1&#x000a0;hour and then stimulated with RANKL (100&#x000a0;ng/mL) for 6&#x000a0;hours. To detect luciferase activity, BMMs were then lysed with passive lysis buffer (Beyotime). Luciferase activity was measured using the Luciferase Reporter Assay Kit (Beyotime). To explore the effect of IGFBP7 overexpression on RANKL&#x02010;induced NF&#x02010;&#x003ba;B activation, a luciferase reporter assay was also conducted. In brief, RAW 264.7 cells were stably transfected with control lentivirus or IGFBP7 overexpression lentivirus. After 24&#x000a0;hours, RAW 264.7 cells were co&#x02010;transfected with NF&#x02010;&#x003ba;B luciferase reporter plasmid (Beyotime) and stimulated with RANKL (100&#x000a0;ng/mL) for 6&#x000a0;hours. Luciferase Reporter Assay Kit was applied as introduced above.</p></sec><sec id="cpr12752-sec-0017"><label>2.11</label><title>Co&#x02010;culture of osteoblast and osteoclast precursors</title><p>To confirm the role of IGFBP7 on osteogenesis and osteoclastogenesis, a co&#x02010;culture system (24&#x02010;well Transwell chamber co&#x02010;culture system, 0.4&#x000a0;&#x003bc;m pores (Transwell) of osteoblast and osteoclast precursors was applied.<xref rid="cpr12752-bib-0024" ref-type="ref">24</xref>, <xref rid="cpr12752-bib-0025" ref-type="ref">25</xref>, <xref rid="cpr12752-bib-0026" ref-type="ref">26</xref>, <xref rid="cpr12752-bib-0027" ref-type="ref">27</xref>, <xref rid="cpr12752-bib-0028" ref-type="ref">28</xref> 5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> MC3T3&#x02010;E1 cells (with/without IGFBP7 knockdown) were seeded into the upper chambers with 10% FBS/&#x003b1;&#x02010;MEM, and 5&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> BMM cells were cultured in the lower chamber supplemented with osteoclastogenesis medium containing M&#x02010;CSF and RANKL, as described above. Following 5&#x000a0;days of co&#x02010;culture, the upper chamber was removed and osteoclastogenesis of the lower chamber was evaluated using TRAP staining.</p></sec><sec id="cpr12752-sec-0018"><label>2.12</label><title>In vivo experiments</title><p>All procedures of the animal experiments were approved by the Institutional Animal Care and Use Committee of the Second Affiliated Hospital, School of Medicine, Zhejiang University (Permission number: 2015&#x02010;031), strictly following the laboratory animal care and use guidelines. In total, 15 eight&#x02010;week&#x02010;old female C57BL/6 mice provided by the Academy of Medical Sciences of Zhejiang Province were used to establish an ovariectomized (OVX) murine osteoporosis model. The mice were divided evenly and randomly into three groups (n&#x000a0;=&#x000a0;5 per group): Sham group, OVX group, OVX&#x000a0;+&#x000a0;IGFBP7 group. The details of the establishment of the OVX murine model were consistent with previous studies.<xref rid="cpr12752-bib-0004" ref-type="ref">4</xref>, <xref rid="cpr12752-bib-0029" ref-type="ref">29</xref> One week after the ovariectomy operation, mice in the OVX&#x000a0;+&#x000a0;IGFBP7 group were treated with tail vein injection of IGFBP7 (2&#x000a0;&#x003bc;g rIGFBP7 in a total volume of 100&#x000a0;&#x003bc;l PBS, once a week, based on previous studies),<xref rid="cpr12752-bib-0017" ref-type="ref">17</xref>, <xref rid="cpr12752-bib-0030" ref-type="ref">30</xref>, <xref rid="cpr12752-bib-0031" ref-type="ref">31</xref>, <xref rid="cpr12752-bib-0032" ref-type="ref">32</xref> while mice in the Sham and OVX groups were treated with PBS. After 6&#x000a0;weeks, all mice were sacrificed in a CO<sub>2</sub> chamber. There were no deaths or side effects being observed during the 6&#x000a0;weeks' intervention. The distal femur specimens were collected and fixed in 4% PFA (Sigma). A random side distal femur from each mouse was scanned by micro&#x02010;CT (Scanco Medical). After 3D reconstruction, bone morphometric analysis including the bone volume/tissue volume ratio (BV/TV), trabecular thickness (Tb. Th), trabecular number (Tb. N), Conn. D and SMI was quantified and analysed. After micro&#x02010;CT analysis, all specimens were decalcified in 10% EDTA (Sigma) for 1&#x000a0;month and embedded in paraffin. Serial 4&#x000a0;&#x000b5;m thick sections were stained with H&#x00026;E, TRAP and Masson's trichrome staining, and immunocytochemistry (IHC) staining in standard methods.<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> Images were obtained for histomorphological analysis using a microscope (Leica).</p></sec><sec id="cpr12752-sec-0019"><label>2.13</label><title>Statistical analysis</title><p>Data were all presented as means&#x000a0;&#x000b1;&#x000a0;SD. Statistical analysis was conducted using SPSS 19.0 software. All experiments were confirmed for at least three times independently, and the statistical differences were assessed using Student's <italic>t</italic> test and one&#x02010;way ANOVA. <italic>P</italic>&#x02010;value &#x02264;.05 was considered statistically significant among groups.</p></sec></sec><sec sec-type="results" id="cpr12752-sec-0020"><label>3</label><title>RESULTS</title><sec id="cpr12752-sec-0021"><label>3.1</label><title>IGFBP7 suppressed RANKL&#x02010;induced osteoclastogenesis in vitro</title><p>To determine the possible relationship between IGFBP7 and osteoclastogenesis, we assessed the expression of IGFBP7 during the osteoclast differentiation of BMM cells. As is shown in Figure <xref rid="cpr12752-sup-0001" ref-type="supplementary-material">S4</xref>A, the results of PCR analysis showed that the mRNA expression level of IGFBP7 decreased during osteoclastogenesis. Similar trend was also observed regarding the protein expression level of IGFBP7 (Figure <xref rid="cpr12752-sup-0001" ref-type="supplementary-material">S4</xref>B). These results indicated a possible role of IGFBP7 on osteoclastogenesis.</p><p>We then tested the effects of recombinant IGFBP7 on the cell viability of BMMs. As is shown in Figure <xref rid="cpr12752-fig-0001" ref-type="fig">1</xref>A,B, CCK&#x02010;8 analysis showed that there were no cytotoxic effects of IGFBP7 at doses 0&#x02010;1000&#x000a0;ng/mL on BMMs, after incubation for 48 and 96&#x000a0;hours below 0.8&#x000a0;&#x003bc;mol/L. To determine the effect of IGFBP7 on RANKL&#x02010;induced osteoclastogenesis, we treated BMMs with 100&#x000a0;ng/mL RANKL and 30&#x000a0;ng/mL M&#x02010;CSF in the presence of 0, 250, 500 or 1000&#x000a0;ng/mL of recombinant IGFBP7. As shown in Figure <xref rid="cpr12752-fig-0001" ref-type="fig">1</xref>C&#x02010;E, IGFBP7 effectively suppressed the TRAP&#x02010;positive multinucleated osteoclast number and the total osteoclast area, in a dose&#x02010;dependent manner.</p><fig fig-type="Figure" xml:lang="en" id="cpr12752-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>IGFBP7 suppressed RANKL&#x02010;induced osteoclastogenesis in vitro. A&#x02010;B, CCK&#x02010;8 analysis was conducted to evaluate cell viability after treated by different concentration of recombinant IGFBP7 protein for 48 and 96&#x000a0;h. C, BMMs were cultured with different concentration of recombinant IGFBP7 protein in osteoclastogenic medium for 5&#x000a0;d, and TRAP staining was performed. Scale bar&#x000a0;=&#x000a0;200&#x000a0;&#x000b5;m. D&#x02010;E, The number and area of osteoclasts were calculated. F&#x02010;H, BMMs were treated with either vehicle or 1000&#x000a0;ng/mL recombinant IGFBP7 protein from days 1&#x02010;3 (early stage), days 3&#x02010;5 (late stage) or days 1&#x02010;5 (early&#x000a0;+&#x000a0;late stage) during osteoclastogenesis. The number and area of osteoclasts were calculated. Scale bar&#x000a0;=&#x000a0;200&#x000a0;&#x000b5;m. I and K, Representative fluorescence images showed that recombinant IGFBP7 treatment significantly decreased the size of F&#x02010;actin ring structures. Scale bar&#x000a0;=&#x000a0;100&#x000a0;&#x000b5;m. J and L, Representative SEM (scanning electron microscopy) images showed that recombinant IGFBP7 treatment decreased the area of bone resorption pits. Scale bars&#x000a0;=&#x000a0;200&#x000a0;&#x000b5;m. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs the control group</p></caption><graphic id="nlm-graphic-1" xlink:href="CPR-53-e12752-g001"/></fig><p>To further explore which particular stage of osteoclast differentiation was affected by IGFBP7, BMMs were treated with either vehicle or 1000&#x000a0;ng/mL recombinant IGFBP7 from days 1&#x02010;3 (early stage), days 3&#x02010;5 (late stage) or days 1&#x02010;5 (early&#x000a0;+&#x000a0;late stage) during osteoclastogenesis. As shown in Figure <xref rid="cpr12752-fig-0001" ref-type="fig">1</xref>F&#x02010;H, IGFBP7 significantly reduced TRAP&#x02010;positive osteoclast number and size at the early stage of osteoclast differentiation, while there was little effect observed in the late&#x02010;stage group. Collectively, it can be deduced IGFBP7 could inhibit osteoclastogenesis without interfering cell viability.</p></sec><sec id="cpr12752-sec-0022"><label>3.2</label><title>IGFBP7 impaired F&#x02010;actin ring formation and bone resorption in vitro</title><p>To determine the effect of IGFBP7 on the osteoclasts, we first investigated its efficiency in inhibiting F&#x02010;actin ring formation, a vital prerequisite of osteoclastic bone resorption. As is shown in Figure <xref rid="cpr12752-fig-0001" ref-type="fig">1</xref>I,K, typical F&#x02010;actin ring structures were observed in the RANKL&#x02010;treated control group, whereas significantly smaller F&#x02010;actin ring structures were observed in the IGFBP7 protein&#x02010;treated group. We next evaluated the effects of IGFBP7 on osteoclastic bone resorption in vitro. As is shown in Figure <xref rid="cpr12752-fig-0001" ref-type="fig">1</xref>J,L, extensive and typical resorbed bone pits were observed in the RANKL&#x02010;treated control group, whereas significantly less resorbed bone pits and smaller resorption areas were observed in the IGFBP7 protein&#x02010;treated group. These data indicated that IGFBP7 inhibited F&#x02010;actin ring formation and bone resorption in vitro.</p></sec><sec id="cpr12752-sec-0023"><label>3.3</label><title>IGFBP7 suppressed mRNA expression of osteoclast&#x02010;specific markers</title><p>To determine the inhibitory effects of IGFBP7 on osteoclastogenesis, real&#x02010;time PCR analysis was applied to examine the mRNA expression level of osteoclast&#x02010;specific genes, including TRAP, NFATc1, MMP&#x02010;9, CTSK, V&#x02010;ATPase&#x02010;d2 and DC&#x02010;STAMP. As demonstrated in Figure <xref rid="cpr12752-fig-0002" ref-type="fig">2</xref>A, recombinant IGFBP7 treatment significantly suppressed the mRNA expression levels of osteoclast&#x02010;specific genes at day 5 of osteoclastogenesis induction, in a dose&#x02010;dependent manner. Moreover, we explored the time&#x02010;dependent effect (days 0, 3 and 5 of the osteoclastogenesis induction) of IGFBP7 on osteoclastogenesis. As is shown in Figure <xref rid="cpr12752-fig-0002" ref-type="fig">2</xref>B, these genes were remarkably upregulated during osteoclast differentiation for 3 or 5&#x000a0;days. In contrast, recombinant IGFBP7 treatment significantly suppressed their expression.</p><fig fig-type="Figure" xml:lang="en" id="cpr12752-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>IGFBP7 suppressed mRNA expression of osteoclast&#x02010;specific markers. A, BMMs were cultured in osteoclastogenic medium for 5&#x000a0;d with various concentrations of recombinant IGFBP7 protein, and the mRNA expression of osteoclast&#x02010;specific markers including TRAP, NFATc1, MMP&#x02010;9, CTSK, V&#x02010;ATPase&#x02010;d2 and DC&#x02010;STAMP was determined by PCR at day 5. B, BMMs were cultured in osteoclastogenic medium with or without 1000&#x000a0;ng/mL recombinant IGFBP7 protein, and the mRNA expression of osteoclast&#x02010;specific markers at days 0, 3 and 5 was quantified by PCR. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs the control group</p></caption><graphic id="nlm-graphic-3" xlink:href="CPR-53-e12752-g002"/></fig></sec><sec id="cpr12752-sec-0024"><label>3.4</label><title>IGFBP7 suppressed osteoclastogenesis via inhibition of the NF&#x02010;&#x003ba;B signalling pathway</title><p>To elucidate the underlying molecular mechanisms under the effects of IGFBP7 on osteoclastogenesis, signalling pathways involved in osteoclastogenesis were investigated. As is shown in Figure <xref rid="cpr12752-fig-0003" ref-type="fig">3</xref>A&#x02010;H, recombinant IGFBP7 (1000&#x000a0;ng/mL) significantly attenuated p65 and I&#x003ba;B&#x003b1; phosphorylation. However, the phosphorylation level of AKT, ERK, JNK and P38 was unchanged after IGFBP7 treatment. Further IF analysis showed that IGFBP7 inhibited p65 nuclear translocation (Figure <xref rid="cpr12752-fig-0003" ref-type="fig">3</xref>I).</p><fig fig-type="Figure" xml:lang="en" id="cpr12752-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>IGFBP7 suppressed osteoclastogenesis via inhibition of the NF&#x02010;&#x003ba;B signalling pathway. A&#x02010;H, RAW264.7 cells were pre&#x02010;treated with vehicle or IGFBP7 (1000&#x000a0;ng/mL) for 6&#x000a0;h and thereafter exposed to RANKL (100&#x000a0;ng/mL) for indicated time (0, 5, 10, 20, 30 and 60&#x000a0;min). The activation of NF&#x02010;&#x003ba;B, MAPKs and PI3K/AKT signalling pathways was examined by Western blot analysis and quantified accordingly. I, Representative confocal images showed that recombinant IGFBP7 treatment inhibited p65 nuclear translocation. J&#x02010;K, RAW264.7 cells were pre&#x02010;treated with vehicle or IGFBP7 (1000&#x000a0;ng/mL) for 6&#x000a0;h and thereafter exposed to RANKL (100&#x000a0;ng/mL) for 5&#x000a0;min. The activation of upstream kinase TAK1 was examined by Western blot analysis and quantified accordingly. L&#x02010;N, BMMs were cultured in osteoclastogenic medium with or without recombinant 1000&#x000a0;ng/mL IGFBP7 for 0, 1 and 3&#x000a0;d, and the expression of NFATc1 and c&#x02010;Fos was determined by Western blot analysis. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs the control group</p></caption><graphic id="nlm-graphic-5" xlink:href="CPR-53-e12752-g003"/></fig><p>To further explore the exact targets of IGFBP7, we assessed its effect on the phosphorylation of the upstream kinase TAK1. However, there was no significant change in the phosphorylation of TAK1 in the presence of recombinant IGFBP7 (Figure <xref rid="cpr12752-fig-0003" ref-type="fig">3</xref>J,K). As NFATc1 and c&#x02010;Fos are vital transcription factors for osteoclastogenesis, we next explored the effects of IGFBP7 on their protein expression. As expected, Western blot analysis showed that RANKL&#x02010;induced expression of NFATc1 and c&#x02010;Fos was remarkably downregulated after recombinant IGFBP7 (1000&#x000a0;ng/mL) treatment (Figure <xref rid="cpr12752-fig-0003" ref-type="fig">3</xref>L&#x02010;N).</p></sec><sec id="cpr12752-sec-0025"><label>3.5</label><title>IGFBP7 enhanced osteogenesis in vitro</title><p>The effect of recombinant IGFBP7 on osteogenesis was explored using osteoblastic cell line MC3T3&#x02010;E1. As is shown in Figure <xref rid="cpr12752-fig-0004" ref-type="fig">4</xref>A, different concentrations of recombinant IGFBP7 (250, 500, and 1000&#x000a0;ng/mL) effectively increased the number of ALP&#x02010;positive cells on day 3 of the induction of osteogenic differentiation. Furthermore, the results of ARS analysis showed that recombinant IGFBP7 significantly enhanced the deposition of minerals in a dose&#x02010;dependent manner. Being consistent with our previous study,<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> these results again confirmed that IGFBP7 enhanced osteogenesis in vitro.</p><fig fig-type="Figure" xml:lang="en" id="cpr12752-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Confirmation of the effects of IGFBP7 on osteogenesis and osteoclastogenesis. A, Recombinant IGFBP7 (250, 500, and 1000&#x000a0;ng/mL) effectively increased the number of ALP&#x02010;positive cells and mineral depositions in a dose&#x02010;dependent manner. B, Representative light microscope and fluorescence images showed that the lentiviral vectors were efficiently applied to overexpress IGFBP7 in &#x0003e;80% of RAW264.7 cells. C&#x02010;H, The results of quantitative PCR and Western blotting at 3&#x000a0;days after the infection confirmed the successful establishment of IGFBP7 overexpression and knockdown in RAW264.7 cells. I, TRAP staining and SEM analysis showed that overexpression of IGFBP7 significantly decreased the TRAP&#x02010;positive multinucleated osteoclast number and inhibited bone resorption, vice versa. ALP, alkaline phosphatase; ARS, alizarin red staining; GFP, green fluorescent protein; OE, overexpression; SEM, scanning electron microscope; siR, siRNA. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs the control group</p></caption><graphic id="nlm-graphic-7" xlink:href="CPR-53-e12752-g004"/></fig><p>We also evaluated the effects of IGFBP7 on OPG and RANKL expression. In our previous study,<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> we have shown that IGFBP7 increased the OPG expression in vivo, this time we applied additional in vitro experiments using MC3T3&#x02010;E1 cells. The results of Western blot analysis showed that different concentrations of recombinant IGFBP7 increased the protein expression of OPG, which is consistent with our previous study.<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> Moreover, the expression of RANKL was not affected after IGFBP7 treatment (Figure <xref rid="cpr12752-sup-0001" ref-type="supplementary-material">S1</xref>). Taken together, these results showed that IGFBP7 increased OPG expression and enhanced osteogenesis in MC3T3&#x02010;E1 cells.</p><p>To confirm the role of IGFBP7 on osteogenesis and osteoclastogenesis, a co&#x02010;culture system of osteoblast and osteoclast precursors was applied. As is shown in Figure <xref rid="cpr12752-sup-0001" ref-type="supplementary-material">S5</xref>, although no statistical significance between groups was reached, there was an obvious trend that more TRAP&#x02010;positive cells were formed in the co&#x02010;culture system containing MC3T3&#x02010;E1 cells with IGFBP7 knockdown, when compared with the control group. The results of our study showed that IGFBP7 might also inhibit osteoclastogenesis through regulating the interactions between osteoblast and osteoclast precursors. Future studies are needed to confirm our results.</p></sec><sec id="cpr12752-sec-0026"><label>3.6</label><title>Confirmation of the effects of IGFBP7 on osteoclastogenesis using IGFBP7 overexpression and knockdown</title><p>To confirm the role of IGFBP7 during osteoclast differentiation, IGFBP7 was overexpressed in RAW264.7 cells by lentiviral particles or downregulated by siRNA. The lentiviral vectors were efficiently applied to overexpress IGFBP7 in &#x0003e;80% of RAW264.7 cells, which was confirmed by examining the ratio of green fluorescent protein (GFP)&#x02010;positive RAW264.7 cells using IF analysis (Figure <xref rid="cpr12752-fig-0004" ref-type="fig">4</xref>B). Besides, the results of quantitative PCR and Western blotting at 3&#x000a0;days after the infection again confirmed the successful establishment of IGFBP7 overexpression and knockdown in RAW264.7 cells (Figure <xref rid="cpr12752-fig-0004" ref-type="fig">4</xref>C&#x02010;H).</p><p>We next inducted the osteoclast differentiation of RAW264.7 cells using the same method and evaluated the role of IGFBP7 on osteoclastogenesis using TRAP staining and scanning electron microscope (SEM) analysis. As is shown in Figure <xref rid="cpr12752-fig-0004" ref-type="fig">4</xref>H, the results of TRAP staining showed that overexpression of IGFBP7 significantly decreased the TRAP&#x02010;positive multinucleated osteoclast number, while IGFBP7 knockdown remarkably enhanced osteoclastogenesis. The results of SEM analysis showed that overexpression of IGFBP7 can effectively inhibit bone resorption in vitro and vice versa (Figure <xref rid="cpr12752-fig-0004" ref-type="fig">4</xref>I).</p><p>The result of NF&#x02010;&#x003ba;B activation luciferase reporter assay demonstrated that stimulation of BMMs with RANKL resulted in a significant increase in NF&#x02010;&#x003ba;B luciferase activity, which was attenuated by recombinant IGFBP7 in a dose&#x02010;dependent manner. Similar results were also confirmed by IGFBP7 overexpression in RAW264.7 cells (Figure <xref rid="cpr12752-fig-0005" ref-type="fig">5</xref>A,B). In addition, we also applied IGFBP7 overexpression and knockdown in BMM cells using the same method as introduced above. The results of TRAP staining, SEM analysis and NF&#x02010;&#x003ba;B activation luciferase reporter assay confirmed the results we found using RAW264.7 cells (Figures <xref rid="cpr12752-sup-0001" ref-type="supplementary-material">S2</xref> and <xref rid="cpr12752-sup-0001" ref-type="supplementary-material">S3</xref>). Taken together, these data indicated that IGFBP7 inhibited osteoclastogenesis through downregulating the NF&#x02010;&#x003ba;B signalling pathway (Figure <xref rid="cpr12752-fig-0005" ref-type="fig">5</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="cpr12752-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Effects of IGFBP7 on RANKL&#x02010;induced activation of NF&#x02010;&#x003ba;B in RAW264.7 cells. A, Transfected RAW264.7 cells were treated with various concentrations of recombinant IGFBP7. RANKL&#x02010;induced NF&#x02010;&#x003ba;B activation was measured with the NF&#x02010;&#x003ba;B luciferase reporter assay. B, NF&#x02010;&#x003ba;B luciferase reporter assay was also applied in RAW264.7 cells with/without IGFBP7 overexpression. Overexpression of IGFBP7 significantly inhibited RANKL&#x02010;induced NF&#x02010;&#x003ba;B activity. C, Schematic diagram of the possible mechanism by which IGFBP7 inhibits osteoclast differentiation and osteoclastic bone resorption. OE, overexpression. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs the control group</p></caption><graphic id="nlm-graphic-9" xlink:href="CPR-53-e12752-g005"/></fig></sec><sec id="cpr12752-sec-0027"><label>3.7</label><title>IGFBP7 protected against OVX&#x02010;induced bone loss in vivo</title><p>To evaluate the effect of IGFBP7 on bone loss in vivo, recombinant IGFBP7 was used in a murine model of OVX&#x02010;induced osteoporosis. Radiographic and histological analyses were used to confirm the effects. The results of micro&#x02010;CT analysis showed a significant bone loss in the OVX group when compared with the Sham group, which was confirmed by BV/TV, Tb. N, Conn. D, SMI and Tb.Th (Figure <xref rid="cpr12752-fig-0006" ref-type="fig">6</xref>A&#x02010;F). Together with histological analysis including H&#x00026;E and Masson's trichrome staining (Figure <xref rid="cpr12752-fig-0006" ref-type="fig">6</xref>G&#x02010;I), the results of in vivo analysis showed that IGFBP7 treatment (OVX&#x000a0;+&#x000a0;IGFBP7 group) in OVX mice remarkably reduced OVX&#x02010;induced osteoporotic bone loss.</p><fig fig-type="Figure" xml:lang="en" id="cpr12752-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>IGFBP7 protected against OVX&#x02010;induced bone loss in vivo. A, Representative 3D micro&#x02010;CT analysis images of trabecular bone of distal femur were reconstructed. Scale bar&#x000a0;=&#x000a0;500&#x000a0;&#x000b5;m. B&#x02010;F, The BV/TV, Tb. N, Conn. D, SMI and Tb. Th values of micro&#x02010;CT analysis were obtained and evaluated. G, Representative images of histomorphological analysis including H&#x00026;E, Masson's trichrome staining, TRAP staining and IHC staining of OCN from each group. Scale bar for H&#x00026;E and Masson's trichrome staining&#x000a0;=&#x000a0;200&#x000a0;&#x000b5;m. Scale bar for TRAP staining&#x000a0;=&#x000a0;50&#x000a0;&#x000b5;m. H, The BV/TV (%) values of histomorphological sections were quantified using ImageJ software. I, The number of TRAP (+) cells of the TRAP staining sections was quantified. J, The number of IHC staining&#x02010;positive cells was quantified. IHC, immunocytochemistry; OCN, osteocalcin. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs the control group</p></caption><graphic id="nlm-graphic-11" xlink:href="CPR-53-e12752-g006"/></fig><p>To further determine how IGFBP7 mitigated OVX&#x02010;induced osteoporotic bone loss, TRAP staining and IHC staining of OCN were subsequently applied (Figure <xref rid="cpr12752-fig-0006" ref-type="fig">6</xref>G&#x02010;J). The results of TRAP staining showed that osteoclast formation was significantly enhanced in the OVX group when compared with the Sham group. In the IGFBP7&#x02010;treated group (OVX&#x000a0;+&#x000a0;IGFBP7 group), the elevated osteoclast formation following OVX surgeries was significantly diminished, which was consistent with the results of micro&#x02010;CT analysis, H&#x00026;E staining and Masson's trichrome staining. The results of IHC staining showed that the reduced expression of OCN in the OVX group was also diminished after recombinant IGFBP7 treatment. These results demonstrated that IGFBP7 effectively protected against OVX&#x02010;induced osteoporotic bone loss in vivo by suppressing osteoclastogenesis.</p></sec></sec><sec sec-type="discussion" id="cpr12752-sec-0028"><label>4</label><title>DISCUSSION</title><p>Osteoporosis is one of the most challenging ageing&#x02010;related disorders; thus, it is a major public health problem. Although current anti&#x02010;osteoporotic therapies such as oestrogen replacement therapy and bisphosphonates have been widely used, severe limitations still exist.<xref rid="cpr12752-bib-0004" ref-type="ref">4</xref> Studies of genetic factors involved in bone development are required to identify novel therapeutic approaches, particularly genes that inhibit bone resorption and improve bone formation. The hypothesis of this study was, IGFBP7, an osteogenesis&#x02010;regulating gene that had been reported in our previous study,<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> might play an important role in osteoclast differentiation and osteoporosis. In the present study, we showed that IGFBP7 inhibited osteoclastogenesis and bone resorption. IGFBP7 suppressed the NF&#x02010;&#x003ba;B signalling pathway during osteoclastogenesis. Moreover, in a mouse ovariectomy&#x02010;induced osteoporosis model, IGFBP7 treatment attenuated osteoporotic bone loss by inhibiting osteoclast activity and enhancing osteoblast activity. In conclusion, these findings indicate that IGFBP7 is a negative regulator of osteoclastogenesis via the NF&#x02010;&#x003ba;B signalling pathway and plays a protective role in osteoporosis. To the best of our knowledge, this is the first study to explore the effects of IGFBP7 on osteoclastogenesis and osteoporosis.</p><p>This study emphasized a novel role for IGFBP7 in regulating osteoclastogenesis and bone resorption. IGFBP7 is widely expressed in multiple human tissues and has various functions. As an important protein coding gene, studies of IGFBP7 have mainly focused on its suppressive role in various human malignancies, including thyroid carcinoma, cholangiocarcinoma, gastric cancer, hepatocellular carcinoma and breast cancer.<xref rid="cpr12752-bib-0011" ref-type="ref">11</xref>, <xref rid="cpr12752-bib-0013" ref-type="ref">13</xref>, <xref rid="cpr12752-bib-0014" ref-type="ref">14</xref> However, there are reports that the effects of IGFBP7 involve insulin resistance and the risk of metabolic syndrome,<xref rid="cpr12752-bib-0033" ref-type="ref">33</xref> which are considered closely related to the development of osteoporosis.<xref rid="cpr12752-bib-0034" ref-type="ref">34</xref>, <xref rid="cpr12752-bib-0035" ref-type="ref">35</xref>, <xref rid="cpr12752-bib-0036" ref-type="ref">36</xref> More importantly, recent studies have reported that IGFBP7 may play considerable roles in bone metabolism. For example, PTH, a stimulator of osteogenesis, increases IGFBP7 expression in osteoblasts.<xref rid="cpr12752-bib-0016" ref-type="ref">16</xref> IGFBP7 is methylated in subchondral bones and is related to its sclerosis.<xref rid="cpr12752-bib-0037" ref-type="ref">37</xref>, <xref rid="cpr12752-bib-0038" ref-type="ref">38</xref> IGFBP7 is also reported to be associated with the development of OA, another bone metabolism&#x02010;related orthopaedic disease.<xref rid="cpr12752-bib-0020" ref-type="ref">20</xref> As direct evidence, our previous study showed that IGFBP7 enhanced osteogenesis in vitro and in vivo.<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> In the present study, osteoclast formation, osteoclast function, osteoclast&#x02010;related gene expression and bone resorption together with in vivo osteoporotic bone loss were significantly inhibited by IGFBP7, which again confirmed the role of IGFBP7 in bone metabolism.</p><p>The NF&#x02010;&#x003ba;B signalling pathway has been shown to be required for osteoclastogenesis.<xref rid="cpr12752-bib-0039" ref-type="ref">39</xref> RANKL&#x02010;RANK signalling is usually activated after RANKL binds to RANK and recruits TRAF6. Following the activation of RANKL&#x02010;RANK signalling, TAK1 is phosphorylated and activated, leading to the initiation of the MAPK and NF&#x02010;&#x003ba;B signalling pathways, followed by nuclear translocation of NF&#x02010;&#x003ba;B p65 to stimulate osteoclast formation. Under the stimulation of RANKL, the PI3K/AKT signalling pathway is also activated, which is partly responsible for the survival and differentiation of osteoclasts.<xref rid="cpr12752-bib-0040" ref-type="ref">40</xref> Activation of NF&#x02010;&#x003ba;B signalling has also been reported to enhance osteoclastogenesis. Tzeng et al reported that Radix Paeoniae Rubra promoted osteoclastogenesis partly via activation of the NF&#x02010;&#x003ba;B pathway.<xref rid="cpr12752-bib-0041" ref-type="ref">41</xref> In a mouse model, iron&#x02010;induced oxidative stress was reported to stimulate osteoclastogenesis by upregulating the NF&#x02010;&#x003ba;B signalling pathway.<xref rid="cpr12752-bib-0042" ref-type="ref">42</xref> Another similar study reported that FSTL1 enhanced osteoclast formation via the activation of NF&#x02010;&#x003ba;B.<xref rid="cpr12752-bib-0043" ref-type="ref">43</xref> In addition, the inhibition of the NF&#x02010;&#x003ba;B pathway has been widely reported as an effective approach to inhibit osteoclast formation and prevent the development of osteoporosis. Zhang et al reported that mTORC1 inhibited NF&#x02010;&#x003ba;B signalling and prevented osteoclastogenesis in vitro and in vivo.<xref rid="cpr12752-bib-0044" ref-type="ref">44</xref> 4&#x02010;IPP, a macrophage migration inhibitory factor inhibitor, was also reported to suppress osteoclast formation by inhibiting the NF&#x02010;&#x003ba;B signalling pathway.<xref rid="cpr12752-bib-0045" ref-type="ref">45</xref> In the present study, we found that IGFBP7 inhibited the phosphorylation of the NF&#x02010;&#x003ba;B signalling pathway during stimulation with RANKL. We found that IGFBP7 suppressed the phosphorylation of p65 and I&#x003ba;B&#x003b1;, and the nuclear translocation of p65, with no significant effect on the activation of TAK1. Along with the inhibition of the NF&#x02010;&#x003ba;B pathway, the protein expression of NFATc1 and c&#x02010;Fos was also reduced by IGFBP7. Taken together, these results indicate that IGFBP7 inhibits osteoclastogenesis through the inhibition of NF&#x02010;&#x003ba;B signalling.</p><p>Although there are studies indicating that the function of IGFBPs is through binding to IGFs with high affinity, thereby limiting IGF access to IGF1 receptor (IGF1R) and finally inhibiting IGF activity,<xref rid="cpr12752-bib-0046" ref-type="ref">46</xref>, <xref rid="cpr12752-bib-0047" ref-type="ref">47</xref> it is reported that IGFBPs also exert IGF&#x02010;independent actions.<xref rid="cpr12752-bib-0048" ref-type="ref">48</xref> Moreover, IGFBP7 has 100 times lower affinity for IGF&#x02010;I than the other six members of this family (IGFBP1&#x02010;6).<xref rid="cpr12752-bib-0009" ref-type="ref">9</xref>, <xref rid="cpr12752-bib-0010" ref-type="ref">10</xref> Unlike IGFBP1&#x02010;6, so far, no definite receptor of IGFBP7 has been reported. In this study, we did not find the regulatory effect of IGFBP7 on IGF1R expression (Figure <xref rid="cpr12752-sup-0001" ref-type="supplementary-material">S6</xref>) and the receptors of IGFBP7 on osteoclast progenitor cells remained to be explored. Nevertheless, we do find that IGFBP7 inhibited osteoclastogenesis via inhibition of the NF&#x02010;&#x003ba;B signalling pathway directly or indirectly. As IGF&#x02010;I is reported to be essential for osteoclastogenesis,<xref rid="cpr12752-bib-0049" ref-type="ref">49</xref> future studies are still needed to uncover the possible role of IGF&#x02010;I under the effects of IGFBP7 on osteoclastogenesis, and whether IGF&#x02010;I is involved during the internalization of IGFBP7 within the osteoclast progenitor cells.</p><p>Some limitations of the present study should be noted. First, although we showed that IGFBP7 effectively inhibited osteoclastogenesis in vitro and in vivo, its safety was not evaluated. As an important regulator involved in many physiological and pathological processes, an understanding of the role of IGFBP7 in humans is far from complete. Second, we reported the role of IGFBP7 on the osteogenesis of BMSCs in our previous study<xref rid="cpr12752-bib-0021" ref-type="ref">21</xref> and the current study focused on the role of IGFBP7 on osteoclastogenesis. The effect of IGFBP7 on osteoblasts, osteocytes and BMSCs, together with their interactions during the development of OVX, was not studied. Future studies on this topic will be of interest. Similarly, future studies with additional the Sham&#x000a0;+&#x000a0;IGFBP7 group and positive control group using anti&#x02010;osteoclastogenesis drugs will be helpful to confirm the roles of IGFBP7 on bone metabolism. Third, we also acknowledge that we did not use transgenic or gene knockout mice, which may decrease the robustness of our conclusions. Fourth, the progress of osteoclastogenesis is very complicated, involving multiple signalling pathways. We only studied the classical pathways and not the non&#x02010;canonical pathways. The potential receptors of IGFBP7 in osteoclast progenitor cells are remained to be illuminated in future studies. In addition, in the present study, only oestrogen deficiency&#x02010;induced osteoporosis was studied; other osteoclast&#x02010;related disorders, such as inflammation&#x02010;induced osteoporosis, remain to be studied. Nevertheless, our study used both recombinant IGFBP7 protein and overexpression/knockdown to characterize the role of IGFBP7 in osteoclastogenesis. Together with our previous study, this study provides useful insight into the potential effects of IGFBP7 in regulating bone metabolism and preventing osteoporosis.</p></sec><sec sec-type="conclusions" id="cpr12752-sec-0029"><label>5</label><title>CONCLUSION</title><p>Our results show that IGFBP7 acted as a negative regulator of osteoclastogenesis by inhibiting the NF&#x02010;&#x003ba;B signalling pathway and played a protective role in osteoporosis. These novel insights into IGFBP7 may aid in developing potential treatment strategies for oestrogen deficiency&#x02010;induced osteoporosis and other osteoclast&#x02010;related disorders, although further studies are needed.</p></sec><sec sec-type="COI-statement" id="cpr12752-sec-0031"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest.</p></sec><sec id="cpr12752-sec-0032"><title>AUTHOR CONTRIBUTIONS</title><p>CY, WZ and RH: conception and design; CY, WH, MC, JL, EC, LT, KH, QD and YL: experiments and/or data analysis; CY, WH and MC: intellectual input and supervision; CY, WZ and RH: article writing with contributions from other authors.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="cpr12752-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="CPR-53-e12752-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="cpr12752-sec-0030"><title>ACKNOWLEDGEMENT</title><p>This work was supported by grants from the National Natural Science Foundation of China (Nos. 81572124, 81501906 and 81802228), Zhejiang Provincial Natural Science Foundation of China (LY15H060003), China Postdoctoral Science Foundation (2018M640567) and the Zhejiang Provincial Postdoctoral Preferred Foundation (zj20180131).</p></ack><sec sec-type="data-availability" id="cpr12752-sec-0034"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="cpr12752-bibl-0001"><title>REFERENCES</title><ref id="cpr12752-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cpr12752-cit-0001">
+<string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ayoub</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Xiu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>TGFbeta&#x02010;induced degradation of TRAF3 in mesenchymal progenitor cells causes age&#x02010;related osteoporosis</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2019</year>;<volume>10</volume>:<elocation-id>2795</elocation-id>.<pub-id pub-id-type="pmid">31243287</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cpr12752-cit-0002">
+<string-name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Mettl3&#x02010;mediated m(6)A RNA methylation regulates the fate of bone marrow mesenchymal stem cells and osteoporosis</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2018</year>;<volume>9</volume>:<elocation-id>4772</elocation-id>.<pub-id pub-id-type="pmid">30429466</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="cpr12752-cit-0003">
+<string-name>
+<surname>Ng</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>TJ</given-names>
+</string-name>. <article-title>New therapeutics for osteoporosis</article-title>. <source xml:lang="en">Curr Opin Pharmacol</source>. <year>2014</year>;<volume>16</volume>:<fpage>58</fpage>&#x02010;<lpage>63</lpage>.<pub-id pub-id-type="pmid">24699340</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cpr12752-cit-0004">
+<string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>KE</given-names>
+</string-name>, et al. <article-title>Madecassoside inhibits estrogen deficiency&#x02010;induced osteoporosis by suppressing RANKL&#x02010;induced osteoclastogenesis</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2019</year>;<volume>23</volume>:<fpage>380</fpage>&#x02010;<lpage>394</lpage>.<pub-id pub-id-type="pmid">30338925</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cpr12752-cit-0005">
+<string-name>
+<surname>Jin</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Screening for osteoporosis to prevent fractures</article-title>. <source xml:lang="en">JAMA</source>. <year>2018</year>;<volume>319</volume>:<fpage>2566</fpage>.<pub-id pub-id-type="pmid">29946730</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cpr12752-cit-0006">
+<string-name>
+<surname>Vargas&#x02010;Franco</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Castaneda</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Redini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gomez</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name>
+<surname>Heymann</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lezot</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Paradoxical side effects of bisphosphonates on the skeleton: What do we know and what can we do?</article-title>
+<source xml:lang="en">J Cell Physiol</source>. <year>2018</year>;<volume>233</volume>:<fpage>5696</fpage>&#x02010;<lpage>5715</lpage>.<pub-id pub-id-type="pmid">29323712</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cpr12752-cit-0007">
+<string-name>
+<surname>Wu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Artemether attenuates LPS&#x02010;induced inflammatory bone loss by inhibiting osteoclastogenesis and bone resorption via suppression of MAPK signaling pathway</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2018</year>;<volume>9</volume>:<elocation-id>498</elocation-id>.<pub-id pub-id-type="pmid">29703893</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cpr12752-cit-0008">
+<string-name>
+<surname>Wei</surname>
+<given-names>C&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>F&#x02010;M</given-names>
+</string-name>, et al. <article-title>Artesunate inhibits RANKL&#x02010;induced osteoclastogenesis and bone resorption in vitro and prevents LPS&#x02010;induced bone loss in vivo</article-title>. <source xml:lang="en">J Cell Physiol</source>. <year>2018</year>;<volume>233</volume>:<fpage>476</fpage>&#x02010;<lpage>485</lpage>.<pub-id pub-id-type="pmid">28294321</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cpr12752-cit-0009">
+<string-name>
+<surname>Maizel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Daubin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Vong</surname>
+<given-names>LV</given-names>
+</string-name>, et al. <article-title>Urinary TIMP2 and IGFBP7 identifies high risk patients of short&#x02010;term progression from mild and moderate to severe acute kidney injury during septic shock: a prospective cohort study</article-title>. <source xml:lang="en">Dis Markers</source>. <year>2019</year>;<volume>2019</volume>:<elocation-id>3471215</elocation-id>.<pub-id pub-id-type="pmid">31061681</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cpr12752-cit-0010">
+<string-name>
+<surname>Larsen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kristensen</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Momeni</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Farajzadeh</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bendixen</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>A&#x02010;to&#x02010;I RNA editing of the IGFBP7 transcript increases during aging in porcine brain tissues</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2016</year>;<volume>479</volume>:<fpage>596</fpage>&#x02010;<lpage>601</lpage>.<pub-id pub-id-type="pmid">27687550</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cpr12752-cit-0011">
+<string-name>
+<surname>Zhang</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Lian</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>IGFBP7 inhibits cell proliferation by suppressing AKT activity and cell cycle progression in thyroid carcinoma</article-title>. <source xml:lang="en">Cell Biosci</source>. <year>2019</year>;<volume>9</volume>:<fpage>44</fpage>.<pub-id pub-id-type="pmid">31183073</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cpr12752-cit-0012">
+<string-name>
+<surname>Yue</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>IGFBP7 is associated to prognosis and could suppress cell survival in cholangiocarcinoma</article-title>. <source xml:lang="en">Artif Cells Nanomed Biotechnol</source>. <year>2018</year>;<volume>46</volume>:<fpage>817</fpage>&#x02010;<lpage>825</lpage>.</mixed-citation></ref><ref id="cpr12752-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cpr12752-cit-0013">
+<string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Byeon</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Epigenetic downregulation and growth inhibition of IGFBP7 in gastric cancer</article-title>. <source xml:lang="en">Asian Pac J Cancer Prev</source>. <year>2018</year>;<volume>19</volume>:<fpage>667</fpage>&#x02010;<lpage>675</lpage>.<pub-id pub-id-type="pmid">29580038</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cpr12752-cit-0014">
+<string-name>
+<surname>Akiel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>IGFBP7 deletion promotes hepatocellular carcinoma</article-title>. <source xml:lang="en">Cancer Res</source>. <year>2017</year>;<volume>77</volume>:<fpage>4014</fpage>&#x02010;<lpage>4025</lpage>.<pub-id pub-id-type="pmid">28619711</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cpr12752-cit-0015">
+<string-name>
+<surname>Benatar</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Amemiya</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>IGFBP7 reduces breast tumor growth by induction of senescence and apoptosis pathways</article-title>. <source xml:lang="en">Breast Cancer Res Treat</source>. <year>2012</year>;<volume>133</volume>:<fpage>563</fpage>&#x02010;<lpage>573</lpage>.<pub-id pub-id-type="pmid">21997538</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cpr12752-cit-0016">
+<string-name>
+<surname>Pereira</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Canalis</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Parathyroid hormone increases mac25/insulin&#x02010;like growth factor&#x02010;binding protein&#x02010;related protein&#x02010;1 expression in cultured osteoblasts</article-title>. <source xml:lang="en">Endocrinology</source>. <year>1999</year>;<volume>140</volume>:<fpage>1998</fpage>&#x02010;<lpage>2003</lpage>.<pub-id pub-id-type="pmid">10218947</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cpr12752-cit-0017">
+<string-name>
+<surname>Bolomsky</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hose</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schreder</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Insulin like growth factor binding protein 7 (IGFBP7) expression is linked to poor prognosis but may protect from bone disease in multiple myeloma</article-title>. <source xml:lang="en">J Hematol Oncol</source>. <year>2015</year>;<volume>8</volume>:<elocation-id>10</elocation-id>.<pub-id pub-id-type="pmid">25887188</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cpr12752-cit-0018">
+<string-name>
+<surname>Wang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>YM</given-names>
+</string-name>. <article-title>Protein interaction and microRNA network analysis in osteoarthritis meniscal cells</article-title>. <source xml:lang="en">Genet Mol Res</source>. <year>2013</year>;<volume>12</volume>:<fpage>738</fpage>&#x02010;<lpage>746</lpage>.<pub-id pub-id-type="pmid">23546957</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cpr12752-cit-0019">
+<string-name>
+<surname>Kawahara</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Forster</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Carr</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Loughlin</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Genetic association analysis of the IGFBP7, ADAMTS3, and IL8 genes as the potential osteoarthritis susceptibility that maps to chromosome 4q</article-title>. <source xml:lang="en">Ann Rheum Dis</source>. <year>2005</year>;<volume>64</volume>:<fpage>474</fpage>&#x02010;<lpage>476</lpage>.<pub-id pub-id-type="pmid">15708897</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cpr12752-cit-0020">
+<string-name>
+<surname>Aki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hashimoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ogasawara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Itoi</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>A whole&#x02010;genome transcriptome analysis of articular chondrocytes in secondary osteoarthritis of the hip</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2018</year>;<volume>13</volume>:<elocation-id>e0199734</elocation-id>.<pub-id pub-id-type="pmid">29944724</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cpr12752-cit-0021">
+<string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>IGFBP7 regulates the osteogenic differentiation of bone marrow&#x02010;derived mesenchymal stem cells via Wnt/beta&#x02010;catenin signaling pathway</article-title>. <source xml:lang="en">FASEB J</source>. <year>2018</year>;<volume>32</volume>:<fpage>2280</fpage>&#x02010;<lpage>2291</lpage>.<pub-id pub-id-type="pmid">29242275</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cpr12752-cit-0022">
+<string-name>
+<surname>Ye</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Knockdown of FOXA2 enhances the osteogenic differentiation of bone marrow&#x02010;derived mesenchymal stem cells partly via activation of the ERK signalling pathway</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2018</year>;<volume>9</volume>:<elocation-id>836</elocation-id>.<pub-id pub-id-type="pmid">30082727</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cpr12752-cit-0023">
+<string-name>
+<surname>Ding</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zhong</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Qi</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Anti&#x02010;arthritic effects of crocin in interleukin&#x02010;1beta&#x02010;treated articular chondrocytes and cartilage in a rabbit osteoarthritic model</article-title>. <source xml:lang="en">Inflamm Res</source>. <year>2013</year>;<volume>62</volume>:<fpage>17</fpage>&#x02010;<lpage>25</lpage>.<pub-id pub-id-type="pmid">22903188</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cpr12752-cit-0024">
+<string-name>
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Regulation of osteogenesis and osteoclastogenesis by zoledronic acid loaded on biodegradable magnesium&#x02010;strontium alloy</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2019</year>;<volume>9</volume>:<elocation-id>933</elocation-id>.<pub-id pub-id-type="pmid">30700724</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cpr12752-cit-0025">
+<string-name>
+<surname>Sinnesael</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jardi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Deboel</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>The androgen receptor has no direct antiresorptive actions in mouse osteoclasts</article-title>. <source xml:lang="en">Mol Cell Endocrinol</source>. <year>2015</year>;<volume>411</volume>:<fpage>198</fpage>&#x02010;<lpage>206</lpage>.<pub-id pub-id-type="pmid">25958043</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cpr12752-cit-0026">
+<string-name>
+<surname>Hayashida</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nakayachi</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Osteocytes produce interferon&#x02010;beta as a negative regulator of osteoclastogenesis</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2014</year>;<volume>289</volume>:<fpage>11545</fpage>&#x02010;<lpage>11555</lpage>.<pub-id pub-id-type="pmid">24610813</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cpr12752-cit-0027">
+<string-name>
+<surname>Honma</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ikebuchi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kariya</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>RANKL subcellular trafficking and regulatory mechanisms in osteocytes</article-title>. <source xml:lang="en">J Bone Miner Res</source>. <year>2013</year>;<volume>28</volume>:<fpage>1936</fpage>&#x02010;<lpage>1949</lpage>.<pub-id pub-id-type="pmid">23529793</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cpr12752-cit-0028">
+<string-name>
+<surname>Xie</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xie</surname>
+<given-names>P&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>X&#x02010;H</given-names>
+</string-name>, et al. <article-title>Omentin&#x02010;1 exerts bone&#x02010;sparing effect in ovariectomized mice</article-title>. <source xml:lang="en">Osteoporos Int</source>. <year>2012</year>;<volume>23</volume>:<fpage>1425</fpage>&#x02010;<lpage>1436</lpage>.<pub-id pub-id-type="pmid">21755404</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cpr12752-cit-0029">
+<string-name>
+<surname>Zhou</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Dihydroartemisinin, an anti&#x02010;malaria drug, suppresses estrogen deficiency&#x02010;induced osteoporosis, osteoclast formation, and RANKL&#x02010;induced signaling pathways</article-title>. <source xml:lang="en">J Bone Miner Res</source>. <year>2016</year>;<volume>31</volume>:<fpage>964</fpage>&#x02010;<lpage>974</lpage>.<pub-id pub-id-type="pmid">26684711</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cpr12752-cit-0030">
+<string-name>
+<surname>Infante</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>CI</given-names>
+</string-name>. <article-title>Secretome analysis of in vitro aged human mesenchymal stem cells reveals IGFBP7 as a putative factor for promoting osteogenesis</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2018</year>;<volume>8</volume>:<elocation-id>4632</elocation-id>.<pub-id pub-id-type="pmid">29545581</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cpr12752-cit-0031">
+<string-name>
+<surname>Gambaro</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Quinn</surname>
+<given-names>MCJ</given-names>
+</string-name>, <string-name>
+<surname>C&#x000e1;ceres&#x02010;Gorriti</surname>
+<given-names>KY</given-names>
+</string-name>, et al. <article-title>Low levels of IGFBP7 expression in high&#x02010;grade serous ovarian carcinoma is associated with patient outcome</article-title>. <source xml:lang="en">BMC Cancer</source>. <year>2015</year>;<volume>15</volume>:<elocation-id>135</elocation-id>.<pub-id pub-id-type="pmid">25886299</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cpr12752-cit-0032">
+<string-name>
+<surname>Laranjeira</surname>
+<given-names>ABA</given-names>
+</string-name>, <string-name>
+<surname>de Vasconcellos</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Sodek</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>IGFBP7 participates in the reciprocal interaction between acute lymphoblastic leukemia and BM stromal cells and in leukemia resistance to asparaginase</article-title>. <source xml:lang="en">Leukemia</source>. <year>2012</year>;<volume>26</volume>:<fpage>1001</fpage>&#x02010;<lpage>1011</lpage>.<pub-id pub-id-type="pmid">22005787</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cpr12752-cit-0033">
+<string-name>
+<surname>Liu</surname>
+<given-names>YI</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ling</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Serum IGFBP7 levels associate with insulin resistance and the risk of metabolic syndrome in a Chinese population</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2015</year>;<volume>5</volume>:<elocation-id>10227</elocation-id>.<pub-id pub-id-type="pmid">25984973</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cpr12752-cit-0034">
+<string-name>
+<surname>Chen</surname>
+<given-names>D&#x02010;Z</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Q&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>X&#x02010;X</given-names>
+</string-name>, et al. <article-title>The combined effect of nonalcoholic fatty liver disease and metabolic syndrome on osteoporosis in postmenopausal females in Eastern China</article-title>. <source xml:lang="en">Int J Endocrinol</source>. <year>2018</year>;<volume>2018</volume>:<elocation-id>2314769</elocation-id>.<pub-id pub-id-type="pmid">30151008</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cpr12752-cit-0035">
+<string-name>
+<surname>De Pablos</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Espinosa&#x02010;Oliva</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Hornedo&#x02010;Ortega</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Arguelles</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Hydroxytyrosol protects from aging process via AMPK and autophagy; a review of its effects on cancer, metabolic syndrome, osteoporosis, immune&#x02010;mediated and neurodegenerative diseases</article-title>. <source xml:lang="en">Pharmacol Res</source>. <year>2019</year>;<volume>143</volume>:<fpage>58</fpage>&#x02010;<lpage>72</lpage>.<pub-id pub-id-type="pmid">30853597</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cpr12752-cit-0036">
+<string-name>
+<surname>Wong</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>
+<given-names>KY</given-names>
+</string-name>, <string-name>
+<surname>Suhaimi</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Ahmad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Jamil</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Ima&#x02010;Nirwana</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Osteoporosis is associated with metabolic syndrome induced by high&#x02010;carbohydrate high&#x02010;fat diet in a rat model</article-title>. <source xml:lang="en">Biomed Pharmacother</source>. <year>2018</year>;<volume>98</volume>:<fpage>191</fpage>&#x02010;<lpage>200</lpage>.<pub-id pub-id-type="pmid">29257979</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cpr12752-cit-0037">
+<string-name>
+<surname>Jeffries</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Donica</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>
+<given-names>LW</given-names>
+</string-name>, et al. <article-title>Genome&#x02010;wide DNA methylation study identifies significant epigenomic changes in osteoarthritic subchondral bone and similarity to overlying cartilage</article-title>. <source xml:lang="en">Arthritis Rheumatol</source>. <year>2016</year>;<volume>68</volume>:<fpage>1403</fpage>&#x02010;<lpage>1414</lpage>.<pub-id pub-id-type="pmid">26713865</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cpr12752-cit-0038">
+<string-name>
+<surname>Chen</surname>
+<given-names>H&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Kraus</surname>
+<given-names>VB</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y&#x02010;J</given-names>
+</string-name>, et al. <article-title>Genome&#x02010;wide linkage analysis of quantitative biomarker traits of osteoarthritis in a large, multigenerational extended family</article-title>. <source xml:lang="en">Arthritis Rheum</source>. <year>2010</year>;<volume>62</volume>:<fpage>781</fpage>&#x02010;<lpage>790</lpage>.<pub-id pub-id-type="pmid">20187133</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cpr12752-cit-0039">
+<string-name>
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ryu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ha</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Osteoclast differentiation requires TAK1 and MKK6 for NFATc1 induction and NF&#x02010;kappaB transactivation by RANKL</article-title>. <source xml:lang="en">Cell Death Differ</source>. <year>2006</year>;<volume>13</volume>:<fpage>1879</fpage>&#x02010;<lpage>1891</lpage>.<pub-id pub-id-type="pmid">16498455</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cpr12752-cit-0040">
+<string-name>
+<surname>Xiong</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cawley</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Piemontese</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Soluble RANKL contributes to osteoclast formation in adult mice but not ovariectomy&#x02010;induced bone loss</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2018</year>;<volume>9</volume>:<elocation-id>2909</elocation-id>.<pub-id pub-id-type="pmid">30046091</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cpr12752-cit-0041">
+<string-name>
+<surname>Tzeng</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>
+<given-names>TY</given-names>
+</string-name>, et al. <article-title>Radix Paeoniae Rubra stimulates osteoclast differentiation by activation of the NF&#x02010;kappaB and mitogen&#x02010;activated protein kinase pathways</article-title>. <source xml:lang="en">BMC Complement Altern Med</source>. <year>2018</year>;<volume>18</volume>:<elocation-id>132</elocation-id>.<pub-id pub-id-type="pmid">29688864</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cpr12752-cit-0042">
+<string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Iron&#x02010;induced oxidative stress stimulates osteoclast differentiation via NF&#x02010;kappaB signaling pathway in mouse model</article-title>. <source xml:lang="en">Metabolism</source>. <year>2018</year>;<volume>83</volume>:<fpage>167</fpage>&#x02010;<lpage>176</lpage>.<pub-id pub-id-type="pmid">29378199</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cpr12752-cit-0043">
+<string-name>
+<surname>Kim</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name>
+<surname>Seong</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>
+<given-names>YR</given-names>
+</string-name>. <article-title>Follistatin&#x02010;like 1 promotes osteoclast formation via RANKL&#x02010;mediated NF&#x02010;kappaB activation and M&#x02010;CSF&#x02010;induced precursor proliferation</article-title>. <source xml:lang="en">Cell Signal</source>. <year>2016</year>;<volume>28</volume>:<fpage>1137</fpage>&#x02010;<lpage>1144</lpage>.<pub-id pub-id-type="pmid">27234130</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cpr12752-cit-0044">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>mTORC1 inhibits NF&#x02010;kappaB/NFATc1 signaling and prevents osteoclast precursor differentiation, in vitro and in mice</article-title>. <source xml:lang="en">J Bone Miner Res</source>. <year>2017</year>;<volume>32</volume>:<fpage>1829</fpage>&#x02010;<lpage>1840</lpage>.<pub-id pub-id-type="pmid">28520214</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cpr12752-cit-0045">
+<string-name>
+<surname>Zheng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Macrophage migration inhibitory factor (MIF) inhibitor 4&#x02010;IPP suppresses osteoclast formation and promotes osteoblast differentiation through the inhibition of the NF&#x02010;kappaB signaling pathway</article-title>. <source xml:lang="en">FASEB J</source>. <year>2019</year>;<volume>33</volume>:<fpage>7667</fpage>&#x02010;<lpage>7683</lpage>.<pub-id pub-id-type="pmid">30893559</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cpr12752-cit-0046">
+<string-name>
+<surname>Pollak</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Insulin and insulin&#x02010;like growth factor signalling in neoplasia</article-title>. <source xml:lang="en">Nat Rev Cancer</source>. <year>2008</year>;<volume>8</volume>:<fpage>915</fpage>&#x02010;<lpage>928</lpage>.<pub-id pub-id-type="pmid">19029956</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="cpr12752-cit-0047">
+<string-name>
+<surname>Hwa</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Rosenfeld</surname>
+<given-names>RG</given-names>
+</string-name>. <article-title>The insulin&#x02010;like growth factor&#x02010;binding protein (IGFBP) superfamily</article-title>. <source xml:lang="en">Endocr Rev</source>. <year>1999</year>;<volume>20</volume>:<fpage>761</fpage>&#x02010;<lpage>787</lpage>.<pub-id pub-id-type="pmid">10605625</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="cpr12752-cit-0048">
+<string-name>
+<surname>Chen</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Siddiq</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Emdad</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Insulin&#x02010;like growth factor&#x02010;binding protein&#x02010;7 (IGFBP7): a promising gene therapeutic for hepatocellular carcinoma (HCC)</article-title>. <source xml:lang="en">Mol Ther</source>. <year>2013</year>;<volume>21</volume>:<fpage>758</fpage>&#x02010;<lpage>766</lpage>.<pub-id pub-id-type="pmid">23319057</pub-id></mixed-citation></ref><ref id="cpr12752-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="cpr12752-cit-0049">
+<string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nishida</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Elalieh</surname>
+<given-names>HZ</given-names>
+</string-name>, <string-name>
+<surname>Long</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Halloran</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Bikle</surname>
+<given-names>DD</given-names>
+</string-name>. <article-title>Role of IGF&#x02010;I signaling in regulating osteoclastogenesis</article-title>. <source xml:lang="en">J Bone Miner Res</source>. <year>2006</year>;<volume>21</volume>:<fpage>1350</fpage>&#x02010;<lpage>1358</lpage>.<pub-id pub-id-type="pmid">16939393</pub-id></mixed-citation></ref></ref-list></back></article>

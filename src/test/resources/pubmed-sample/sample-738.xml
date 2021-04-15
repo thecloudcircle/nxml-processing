@@ -1,0 +1,348 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Clin Lab Anal</journal-id><journal-id journal-id-type="iso-abbrev">J Clin Lab Anal</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1098-2825</journal-id><journal-id journal-id-type="publisher-id">JCLA</journal-id><journal-title-group><journal-title>Journal of Clinical Laboratory Analysis</journal-title></journal-title-group><issn pub-type="ppub">0887-8013</issn><issn pub-type="epub">1098-2825</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32710451</article-id><article-id pub-id-type="pmc">7676186</article-id><article-id pub-id-type="doi">10.1002/jcla.23497</article-id><article-id pub-id-type="publisher-id">JCLA23497</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>The association of miR&#x02010;27a rs895819 polymorphism with colorectal cancer risk in Chinese population</article-title><alt-title alt-title-type="left-running-head">ZHANG et al.</alt-title></title-group><contrib-group><contrib id="jcla23497-cr-0001" contrib-type="author" corresp="yes"><name><surname>Zhang</surname><given-names>Shulong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1100-2995</contrib-id><xref ref-type="aff" rid="jcla23497-aff-0001">
+<sup>1</sup>
+</xref><address><email>230139279@seu.edu.cn</email></address></contrib><contrib id="jcla23497-cr-0002" contrib-type="author"><name><surname>Han</surname><given-names>Qi</given-names></name><xref ref-type="aff" rid="jcla23497-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcla23497-cr-0003" contrib-type="author"><name><surname>Zhu</surname><given-names>Kaihua</given-names></name><xref ref-type="aff" rid="jcla23497-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcla23497-cr-0004" contrib-type="author"><name><surname>Wang</surname><given-names>Quan</given-names></name><xref ref-type="aff" rid="jcla23497-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jcla23497-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of General Surgery</named-content>
+<institution>Xuhui District Central Hospital of Shanghai</institution>
+<city>Shanghai</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Shulong Zhang, Department of General Surgery, Xuhui District Central Hospital of Shanghai, Shanghai 200031, China.<break/>
+Email: <email>230139279@seu.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>7</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2020</year></pub-date><volume>34</volume><issue>11</issue><issue-id pub-id-type="doi">10.1002/jcla.v34.11</issue-id><elocation-id>e23497</elocation-id><history><date date-type="received"><day>17</day><month>4</month><year>2020</year></date><date date-type="rev-recd"><day>27</day><month>6</month><year>2020</year></date><date date-type="accepted"><day>08</day><month>7</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. Journal of Clinical Laboratory Analysis published by Wiley Periodicals LLC</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JCLA-34-e23497.pdf"/><abstract id="jcla23497-abs-0001"><title>Abstract</title><sec id="jcla23497-sec-0001"><title>Background</title><p>Besides environment and living habits, such as a sedentary lifestyle, smoking and drinking, genetic variation also plays an important role in the development of colorectal cancer (CRC). This study was aimed to investigate the role of miR&#x02011;27a rs895819 polymorphism on CRC risk in Chinese population.</p></sec><sec id="jcla23497-sec-0002"><title>Methods</title><p>In a case&#x02010;control study including 208 CRC and 312 age&#x02010; and gender&#x02010;matched healthy control subjects, the rs895819 polymorphism was genotyped using the TaqMan allelic discrimination assay. Furthermore, a pooled analysis based on eligible studies was performed by using the STATA software.</p></sec><sec id="jcla23497-sec-0003"><title>Results</title><p>Logistic regression analysis showed that the rs895819 polymorphism was not associated with CRC risk. However, a pooled analysis based on five studies from Chinese population showed a statistically significant association between the rs895819 polymorphism and CRC risk (GG vs AA: OR&#x000a0;=&#x000a0;1.56, 95% CI&#x000a0;=&#x000a0;1.27&#x02010;1.92, <italic>P</italic>z&#x000a0;&#x0003c;&#x000a0;.01; (AG&#x000a0;+&#x000a0;GG) vs AA: OR&#x000a0;=&#x000a0;1.14, 95% CI&#x000a0;=&#x000a0;1.01&#x02010;1.30, <italic>P</italic>z&#x000a0;=&#x000a0;.04; GG vs (AG&#x000a0;+&#x000a0;AA): OR&#x000a0;=&#x000a0;1.54, 95% CI&#x000a0;=&#x000a0;1.27&#x02010;1.88, <italic>P</italic>z&#x000a0;&#x0003c;&#x000a0;.01; G vs A: OR&#x000a0;=&#x000a0;1.20, 95% CI&#x000a0;=&#x000a0;1.09&#x02010;1.33, <italic>P</italic>z&#x000a0;&#x0003c;&#x000a0;.01).</p></sec><sec id="jcla23497-sec-0004"><title>Conclusion</title><p>Our study suggests that miR&#x02011;27a rs895819 polymorphism plays an important role in CRC risk in Chinese population and may serve as a valuable biomarker for predicting an individual's susceptibility to CRC.</p></sec></abstract><abstract abstract-type="graphical" id="jcla23497-abs-0002"><p>Rs895819 polymorphism located in miR&#x02010;27a was associated with colorectal cancer risk in Chinese population.<boxed-text position="anchor" content-type="graphic" id="jcla23497-blkfxd-0001" orientation="portrait"><graphic xlink:href="JCLA-34-e23497-g003.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group><kwd id="jcla23497-kwd-0001">colorectal cancer</kwd><kwd id="jcla23497-kwd-0002">MiR&#x02010;27a</kwd><kwd id="jcla23497-kwd-0003">polymorphism</kwd><kwd id="jcla23497-kwd-0004">risk</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>scientific research project of Shanghai Municipal Health Commission</funding-source><award-id>201940389</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="4"/><page-count count="5"/><word-count count="3321"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.4 mode:remove_FC converted:19.11.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcla23497-cit-1001">
+<string-name>
+<surname>Zhang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>The association of miR&#x02010;27a rs895819 polymorphism with colorectal cancer risk in Chinese population</article-title>. <source xml:lang="en">J Clin Lab Anal</source>. <year>2020</year>;<volume>34</volume>:<elocation-id>e23497</elocation-id>
+<pub-id pub-id-type="doi">10.1002/jcla.23497</pub-id>
+</mixed-citation>
+</p></notes></front><body id="jcla23497-body-0001"><sec id="jcla23497-sec-0005"><label>1</label><title>INTRODUCTION</title><p>MicroRNAs (miRNAs) are a class of small non&#x02010;coding RNAs participating in the regulation of&#x000a0;the expression of downstream genes by targeting the 3&#x02032;&#x02010;untranslated region (3&#x02032;&#x02010;UTR) of the corresponding mRNAs. Growing evidence suggests that miRNAs play a major role in the development of cancer.<xref rid="jcla23497-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> For instance, miR&#x02011;27a, located on chromosome 19, has been demonstrated to be abnormally expressed in many types of cancer, including colorectal cancer (CRC).<xref rid="jcla23497-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="jcla23497-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="jcla23497-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> Gao et al found that miR&#x02011;27a highly expressed in patients with colon cancer could enhance proliferation and invasion of colon cancer cells.<xref rid="jcla23497-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> Liu et al<xref rid="jcla23497-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> found that miR&#x02011;27a could promote proliferation, migration, and invasion of CRC by targeting FAM172A and might serve as a diagnostic and prognostic biomarker of CRC. These findings indicated that miR&#x02011;27a could function as an oncogene in CRC.</p><p>Besides environment and living habits, such as a sedentary lifestyle, smoking, and drinking, genetic variation also plays an important role in the development of CRC.<xref rid="jcla23497-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="jcla23497-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref> Rs895819 polymorphism is a single nucleotide polymorphism (SNP) located in the terminal loop of pre&#x02010;miR&#x02010;27a and has been reported to be associated with the risk of cancer, such as non&#x02010;small cell lung cancer, cervical cancer, diffuse large B&#x02010;cell lymphoma, and CRC.<xref rid="jcla23497-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="jcla23497-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="jcla23497-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="jcla23497-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> Although several studies have suggested that the rs895819 polymorphism was associated with CRC risk in Chinese population, these results need to be further confirmed.<xref rid="jcla23497-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="jcla23497-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="jcla23497-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> Hence, we conducted a case&#x02010;control study and pooled analysis to investigate the effect of the rs895819 polymorphism on CRC risk in Chinese population.</p></sec><sec sec-type="materials-and-methods" id="jcla23497-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jcla23497-sec-0007"><label>2.1</label><title>A case&#x02010;control study</title><p>A total of 208 CRC patients and 312 healthy check&#x02010;up individuals matched with age and gender were recruited from Xuhui District Central Hospital of Shanghai between October 2017 and December 2019. All enrolled individuals were Chinese Han population. The mean age (mean&#x000a0;&#x000b1; SD) of CRC patients and healthy individuals was 60.1&#x000a0;&#x000b1;&#x000a0;8.6 and 59.8&#x000a0;&#x000b1;&#x000a0;8.1&#x000a0;years, respectively (<italic>P</italic>&#x000a0;=&#x000a0;.69). The ratio of male and female was 156:52 and 230:82 in CRC patients and healthy individuals, respectively (<italic>P</italic>&#x000a0;=&#x000a0;.74). CRC patients were diagnosed by histological examination. Written informed consent was obtained from all participants. The research protocol was approved by the ethics committee of Xuhui District Central Hospital of Shanghai.</p><p>Genomic DNA was extracted from peripheral blood of all participants by the QIAamp DNA mini Kit (Qiagen, Hilden, Germany) according to the manufacturer's instruction. The miR&#x02010;27a rs895819 polymorphism was detected using the TaqMan allelic discrimination assay. The primer and probe sequences and reaction conditions were used according to a description of previous literature.<xref rid="jcla23497-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> In addition, 10% samples were randomly selected to DNA sequencing. The results showed 100% concordance.</p></sec><sec id="jcla23497-sec-0008"><label>2.2</label><title>A pooled analysis</title><p>PubMed, Embase, and CNKI databases were independently retrieved by two investigators to obtain eligible literatures on the association of rs895819 polymorphism with CRC risk in Chinese population. Flowchart&#x000a0;of&#x000a0;study&#x000a0;selection was shown in Figure&#x000a0;<xref rid="jcla23497-fig-0001" ref-type="fig">1</xref>. The following search terms were used: &#x0201c;MIR27A or miR&#x02010;27a&#x0201d;, &#x0201c;rs895819 or polymorphism or variant&#x0201d; and &#x0201c;colorectal cancer or CRC&#x0201d;. Last retrieval date was on April 2, 2020. Eligible literatures should meet all the following criteria: (a) case&#x02010;control design for assessing the association of the rs895819 polymorphism with CRC risk among Chinese population; (b) detailed genotype data for calculating pooled odds ratio (OR) and 95% confidence interval (CI); (c) <italic>P</italic> value for Hardy&#x02010;Weinberg equilibrium (<italic>P</italic>
+<sub>HWE</sub>) in the control group&#x000a0;&#x0003e;&#x000a0;.05. The relevant data, including the first author's name, publication year, country, cancer type, genotyping method, and genotype frequency distribution of the rs895819 polymorphism in cases and controls, were extracted independently by two investigators (Table&#x000a0;<xref rid="jcla23497-tbl-0001" ref-type="table">1</xref>). In addition, two investigators independently assessed the quality of each qualified study using the quality assessment criteria.<xref rid="jcla23497-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="jcla23497-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> Quality scores of each study ranged from 0 to 15. Studies with scores&#x000a0;&#x02264;9 were categorized into low quality, while those with scores&#x000a0;&#x0003e;9 were considered as high quality.&#x000a0;Any discrepancies would be resolved by discussion.</p><fig fig-type="FIGURE" xml:lang="en" id="jcla23497-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Flowchart of study selection</p></caption><graphic id="nlm-graphic-3" xlink:href="JCLA-34-e23497-g001"/></fig><table-wrap id="jcla23497-tbl-0001" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 1</label><caption><p>The relevant data from eligible literatures</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Author</th><th align="left" rowspan="2" valign="bottom" colspan="1">Year</th><th align="left" rowspan="2" valign="bottom" colspan="1">Country</th><th align="left" rowspan="2" valign="bottom" colspan="1">Cancer</th><th align="left" rowspan="2" valign="bottom" colspan="1">Genotyping</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Cases</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Controls</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic>P</italic>
+<sub>HWE</sub>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">AA</th><th align="left" valign="bottom" rowspan="1" colspan="1">AG</th><th align="left" valign="bottom" rowspan="1" colspan="1">GG</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total</th><th align="left" valign="bottom" rowspan="1" colspan="1">AA</th><th align="left" valign="bottom" rowspan="1" colspan="1">AG</th><th align="left" valign="bottom" rowspan="1" colspan="1">GG</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Jiang et al</td><td align="char" char="." rowspan="1" colspan="1">2016</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">TaqMan</td><td align="char" char="." rowspan="1" colspan="1">245</td><td align="char" char="." rowspan="1" colspan="1">176</td><td align="char" char="." rowspan="1" colspan="1">87</td><td align="char" char="." rowspan="1" colspan="1">508</td><td align="char" char="." rowspan="1" colspan="1">275</td><td align="char" char="." rowspan="1" colspan="1">222</td><td align="char" char="." rowspan="1" colspan="1">65</td><td align="char" char="." rowspan="1" colspan="1">562</td><td align="char" char="." rowspan="1" colspan="1">.05</td></tr><tr><td align="left" rowspan="1" colspan="1">Bian et al</td><td align="char" char="." rowspan="1" colspan="1">2015</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">TaqMan</td><td align="char" char="." rowspan="1" colspan="1">199</td><td align="char" char="." rowspan="1" colspan="1">143</td><td align="char" char="." rowspan="1" colspan="1">70</td><td align="char" char="." rowspan="1" colspan="1">412</td><td align="char" char="." rowspan="1" colspan="1">205</td><td align="char" char="." rowspan="1" colspan="1">166</td><td align="char" char="." rowspan="1" colspan="1">41</td><td align="char" char="." rowspan="1" colspan="1">412</td><td align="char" char="." rowspan="1" colspan="1">.39</td></tr><tr><td align="left" rowspan="1" colspan="1">Cao et al</td><td align="char" char="." rowspan="1" colspan="1">2014</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">PCR&#x02010;RFLP</td><td align="char" char="." rowspan="1" colspan="1">92</td><td align="char" char="." rowspan="1" colspan="1">113</td><td align="char" char="." rowspan="1" colspan="1">49</td><td align="char" char="." rowspan="1" colspan="1">254</td><td align="char" char="." rowspan="1" colspan="1">114</td><td align="char" char="." rowspan="1" colspan="1">93</td><td align="char" char="." rowspan="1" colspan="1">31</td><td align="char" char="." rowspan="1" colspan="1">238</td><td align="char" char="." rowspan="1" colspan="1">.09</td></tr><tr><td align="left" rowspan="1" colspan="1">Zhang</td><td align="char" char="." rowspan="1" colspan="1">2012</td><td align="left" rowspan="1" colspan="1">China</td><td align="left" rowspan="1" colspan="1">CRC</td><td align="left" rowspan="1" colspan="1">PCR&#x02010;RFLP</td><td align="char" char="." rowspan="1" colspan="1">248</td><td align="char" char="." rowspan="1" colspan="1">178</td><td align="char" char="." rowspan="1" colspan="1">37</td><td align="char" char="." rowspan="1" colspan="1">463</td><td align="char" char="." rowspan="1" colspan="1">270</td><td align="char" char="." rowspan="1" colspan="1">166</td><td align="char" char="." rowspan="1" colspan="1">32</td><td align="char" char="." rowspan="1" colspan="1">468</td><td align="char" char="." rowspan="1" colspan="1">.35</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jcla23497-sec-0009"><label>2.3</label><title>Statistical analysis</title><p>In the case&#x02010;control study, chi&#x02010;square test and Student's <italic>t</italic> test were used to compare the gender and age distribution between cases and controls, respectively. <italic>P</italic>
+<sub>HWE</sub> in the control group was calculated by a goodness&#x02010;of&#x02010;fit chi&#x02010;square test. Logistic regression was used to assess the association of rs895819 polymorphism with CRC risk, which was adjusted for age and gender. The above analyses were performed using the SAS software, version 8.0. (SAS Institute, Cary, CA, USA).</p><p>In the pooled analysis, the pooled ORs with 95% CIs were calculated based on the random or fixed effect model under the additive (G vs A), dominant [(GG&#x000a0;+&#x000a0;GA) vs AA], recessive [GG vs (GA&#x000a0;+&#x000a0;AA)], and codominant model (GG vs AA; GA vs AA). Between&#x02010;study heterogeneity was evaluated through the chi&#x02010;square&#x02010;based Q test and <italic>I</italic>
+<sup>2</sup> index. If a significant Q&#x02010;statistic (<italic>P</italic>
+<sub>het</sub>&#x000a0;&#x0003c;&#x000a0;.05) or <italic>I</italic>
+<sup>2</sup>&#x000a0;&#x0003e;&#x000a0;50% indicating the existence of between&#x02010;study heterogeneity, the random effect model was used. Otherwise, the fixed effect model was used. In addition, sensitivity analysis was performed by omitting each study in turn to assess the consistency of the results. Begg's and Egger's tests were used to evaluate potential publication bias. <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 was set as the criterion of statistical significance. These analyses were conducted using the Stata software, version 12.0 (StataCorp, College Station, Texas). Furthermore, false&#x02010;positive report probability (FPRP) was calculated with threshold value&#x000a0;=&#x000a0;.2, prior probability&#x000a0;=&#x000a0;.01 and OR value&#x000a0;=&#x000a0;1.50 to evaluate the significant findings.<xref rid="jcla23497-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> The significant result with an FPRP value&#x000a0;&#x0003c;&#x000a0;.2 was considered a noteworthy finding.</p></sec></sec><sec sec-type="results" id="jcla23497-sec-0010"><label>3</label><title>RESULTS</title><p>In the current case&#x02010;control study, there were no significant differences in the distribution of age or gender between cases and controls. Genotype distributions had no deviation from HWE in control groups (<italic>P</italic>
+<sub>HWE</sub>&#x000a0;=&#x000a0;.75). Logistic regression analysis showed that rs895819 polymorphism was not significantly associated with CRC risk in a Chinese population (Table&#x000a0;<xref rid="jcla23497-tbl-0002" ref-type="table">2</xref>).&#x000a0;However, a pooled analysis based on five studies with 1845 CRC patients and 1992 healthy individuals showed that rs895819 polymorphism was significantly associated with CRC risk in Chinese population (Table&#x000a0;<xref rid="jcla23497-tbl-0003" ref-type="table">3</xref>). Under the codominant model, we found that compared with the reference genotype (AA), the GG genotype of rs895819 was significantly associated with an increased risk of CRC (OR&#x000a0;=&#x000a0;1.56, 95% CI&#x000a0;=&#x000a0;1.27&#x02010;1.92, <italic>P</italic>z&#x000a0;&#x0003c;&#x000a0;.01). Under the dominant [(AG&#x000a0;+&#x000a0;GG) vs AA: OR&#x000a0;=&#x000a0;1.14, 95% CI&#x000a0;=&#x000a0;1.01&#x02010;1.30, <italic>P</italic>z&#x000a0;=&#x000a0;.04], recessive [GG vs (AG&#x000a0;+&#x000a0;AA): OR&#x000a0;=&#x000a0;1.54, 95% CI&#x000a0;=&#x000a0;1.27&#x02010;1.88, <italic>P</italic>z&#x000a0;&#x0003c;&#x000a0;.01], and additive [G vs A: OR&#x000a0;=&#x000a0;1.20, 95% CI&#x000a0;=&#x000a0;1.09&#x02010;1.33, <italic>P</italic>z&#x000a0;&#x0003c;&#x000a0;.01] models, significant associations between rs895819 polymorphism and CRC risk were also observed (Table&#x000a0;<xref rid="jcla23497-tbl-0003" ref-type="table">3</xref> and Figure&#x000a0;<xref rid="jcla23497-fig-0002" ref-type="fig">2</xref>). Under the additive (G vs A), recessive [GG vs (GA&#x000a0;+&#x000a0;AA)], codominant model (GG vs AA), FPRP values were .048, .005 and .007, respectively. Furthermore, the results of both Begg's test and Egger's test did not show publication bias in the pooled analysis (Table&#x000a0;<xref rid="jcla23497-tbl-0004" ref-type="table">4</xref>). Sensitivity analysis showed that the pooled OR was not significantly changed by omitting&#x000a0;each&#x000a0;study at&#x000a0;a&#x000a0;time under the additive, recessive, or codominant model. However, under the dominant model, the pooled OR was significantly changed after removing Cao's or Zhang's study.</p><table-wrap id="jcla23497-tbl-0002" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 2</label><caption><p>A case&#x02010;control study of association between miR&#x02011;27a rs895819 polymorphism and CRC risk</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Comparison model</th><th align="left" valign="top" rowspan="1" colspan="1">Genotype and allele</th><th align="left" valign="top" rowspan="1" colspan="1">Case (%) (N&#x000a0;=&#x000a0;208)</th><th align="left" valign="top" rowspan="1" colspan="1">Controls (%) (N&#x000a0;=&#x000a0;312)</th><th align="left" valign="top" rowspan="1" colspan="1">OR (95% CI)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="3" colspan="1">Codominant model</td><td align="left" rowspan="1" colspan="1">AA</td><td align="left" rowspan="1" colspan="1">100 (48.1)</td><td align="left" rowspan="1" colspan="1">157 (50.3)</td><td align="left" rowspan="1" colspan="1">Reference</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">GA</td><td align="left" rowspan="1" colspan="1">83 (39.9)</td><td align="left" rowspan="1" colspan="1">127 (40.7)</td><td align="left" rowspan="1" colspan="1">1.02 (0.70&#x02010;1.48)</td><td align="char" char="." rowspan="1" colspan="1">.92</td></tr><tr><td align="left" rowspan="1" colspan="1">GG</td><td align="left" rowspan="1" colspan="1">25 (12.0)</td><td align="left" rowspan="1" colspan="1">28 (9.0)</td><td align="left" rowspan="1" colspan="1">1.39 (0.77&#x02010;2.53)</td><td align="char" char="." rowspan="1" colspan="1">.27</td></tr><tr><td align="left" rowspan="2" colspan="1">Dominant model</td><td align="left" rowspan="1" colspan="1">AA</td><td align="left" rowspan="1" colspan="1">100 (48.1)</td><td align="left" rowspan="1" colspan="1">157 (50.3)</td><td align="left" rowspan="1" colspan="1">Reference</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">GA&#x000a0;+&#x000a0;GG</td><td align="left" rowspan="1" colspan="1">108 (51.9)</td><td align="left" rowspan="1" colspan="1">155 (49.7)</td><td align="left" rowspan="1" colspan="1">1.09 (0.77&#x02010;1.54)</td><td align="char" char="." rowspan="1" colspan="1">.64</td></tr><tr><td align="left" rowspan="2" colspan="1">Recessive model</td><td align="left" rowspan="1" colspan="1">AA&#x000a0;+&#x000a0;GA</td><td align="left" rowspan="1" colspan="1">183 (88.0)</td><td align="left" rowspan="1" colspan="1">284 (91.0)</td><td align="left" rowspan="1" colspan="1">Reference</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">GG</td><td align="left" rowspan="1" colspan="1">25 (12.0)</td><td align="left" rowspan="1" colspan="1">28 (9.0)</td><td align="left" rowspan="1" colspan="1">1.38 (0.78&#x02010;2.44)</td><td align="char" char="." rowspan="1" colspan="1">.27</td></tr><tr><td align="left" rowspan="2" colspan="1">Additive model</td><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">283 (68.0)</td><td align="left" rowspan="1" colspan="1">441 (70.7)</td><td align="left" rowspan="1" colspan="1">Reference</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">133 (32.0)</td><td align="left" rowspan="1" colspan="1">183 (29.3)</td><td align="left" rowspan="1" colspan="1">1.13 (0.86&#x02010;1.47)</td><td align="char" char="." rowspan="1" colspan="1">.38</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="jcla23497-tbl-0003" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 3</label><caption><p>Pooled analysis of the association between miR&#x02011;27a rs895819 polymorphism and CRC risk</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Comparison</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Heterogeneity</th><th align="left" rowspan="2" valign="bottom" colspan="1">Effect model</th><th align="left" rowspan="2" valign="bottom" colspan="1">OR (95% CI)</th><th align="left" rowspan="2" valign="bottom" colspan="1">
+<italic>P</italic>
+<sub>Z</sub>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>
+<sub>het</sub>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>I</italic>
+<sup>2</sup>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">(AG&#x000a0;+&#x000a0;GG) vs AA</td><td align="char" char="." rowspan="1" colspan="1">.32</td><td align="char" char="." rowspan="1" colspan="1">15.5%</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="left" rowspan="1" colspan="1">1.14 (1.01, 1.30)</td><td align="char" char="." rowspan="1" colspan="1">.04</td></tr><tr><td align="left" rowspan="1" colspan="1">GG vs (AG&#x000a0;+&#x000a0;AA)</td><td align="char" char="." rowspan="1" colspan="1">.73</td><td align="char" char="." rowspan="1" colspan="1">0.0%</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="left" rowspan="1" colspan="1">1.54 (1.27, 1.88)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.01</td></tr><tr><td align="left" rowspan="1" colspan="1">GG vs AA</td><td align="char" char="." rowspan="1" colspan="1">.76</td><td align="char" char="." rowspan="1" colspan="1">0.0%</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="left" rowspan="1" colspan="1">1.56 (1.27, 1.92)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.01</td></tr><tr><td align="left" rowspan="1" colspan="1">AG vs AA</td><td align="char" char="." rowspan="1" colspan="1">.16</td><td align="char" char="." rowspan="1" colspan="1">39.7%</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="left" rowspan="1" colspan="1">1.04 (0.90, 1.19)</td><td align="char" char="." rowspan="1" colspan="1">.60</td></tr><tr><td align="left" rowspan="1" colspan="1">G vs A</td><td align="char" char="." rowspan="1" colspan="1">.57</td><td align="char" char="." rowspan="1" colspan="1">0.0%</td><td align="left" rowspan="1" colspan="1">Fixed</td><td align="left" rowspan="1" colspan="1">1.20 (1.09, 1.33)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.01</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="FIGURE" xml:lang="en" id="jcla23497-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>Forest plot of meta&#x02010;analysis on miR&#x02010;27a rs895819 polymorphism and colorectal cancer risk under G vs A</p></caption><graphic id="nlm-graphic-5" xlink:href="JCLA-34-e23497-g002"/></fig><table-wrap id="jcla23497-tbl-0004" xml:lang="en" content-type="TABLE" orientation="portrait" position="float"><label>TABLE 4</label><caption><p>Assessment&#x000a0;of&#x000a0;publication&#x000a0;bias&#x000a0;in&#x000a0;the pooled analysis</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Comparison</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value of Begg's test</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value of Egger's test</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">(AG&#x000a0;+&#x000a0;GG) vs AA</td><td align="char" char="." rowspan="1" colspan="1">.22</td><td align="char" char="." rowspan="1" colspan="1">.23</td></tr><tr><td align="left" rowspan="1" colspan="1">GG vs (AG&#x000a0;+&#x000a0;AA)</td><td align="char" char="." rowspan="1" colspan="1">.22</td><td align="char" char="." rowspan="1" colspan="1">.39</td></tr><tr><td align="left" rowspan="1" colspan="1">GG vs AA</td><td align="char" char="." rowspan="1" colspan="1">1.00</td><td align="char" char="." rowspan="1" colspan="1">.94</td></tr><tr><td align="left" rowspan="1" colspan="1">AG vs AA</td><td align="char" char="." rowspan="1" colspan="1">.22</td><td align="char" char="." rowspan="1" colspan="1">.32</td></tr><tr><td align="left" rowspan="1" colspan="1">G vs A</td><td align="char" char="." rowspan="1" colspan="1">.46</td><td align="char" char="." rowspan="1" colspan="1">.40</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec sec-type="discussion" id="jcla23497-sec-0011"><label>4</label><title>DISCUSSION</title><p>In recent years, the role of miR&#x02011;27a rs895819 polymorphism on CRC risk has been investigated in Chinese population.<xref rid="jcla23497-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="jcla23497-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="jcla23497-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="jcla23497-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="jcla23497-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Bian et al found that GG genotype of the rs895819 polymorphism was positively associated with an increased risk of CRC in codominant (GG vs AA) and recessive (GG vs AA/GA) models, indicating that GG genotype of the locus might increase CRC risk in Chinese population.<xref rid="jcla23497-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> Jiang et al found that GG genotype of the rs895819 polymorphism was associated with an increased risk of CRC in Chinese population, and individuals with A allele (AA/AG) were significantly associated with a decreased risk for CRC.<xref rid="jcla23497-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> Cao et al<xref rid="jcla23497-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> observed that subjects with variant genotypes (AG&#x000a0;+&#x000a0;GG) of the rs895819 polymorphism had a significantly increased risk of CRC compared with subjects with AA genotype. Wang et al found that the GG genotype of the rs895819 polymorphism was significantly associated with CRC risk when taking the AA genotype as a reference.<xref rid="jcla23497-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> Zhang's study found that rs895819 polymorphism was associated with CRC risk in Chinese female population, and compared with female individuals with AA genotype, female individuals with AG genotype had a significantly increased risk of CRC.<xref rid="jcla23497-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> In order to further confirm the association of rs895819 polymorphism with CRC risk in Chinese population, a case&#x02010;control study with 208 CRC patients and 312 healthy individuals was carried out. The result showed that rs895819 polymorphism was not significantly associated with CRC risk in Chinese population, which was not consistent with the result of previous studies. The inconsistent result might be due to a small sample size or lack of adjustment for lifestyle and environmental factors. Subsequently, we obtained four relevant studies from several electronic databases according to inclusion criteria. The four studies from Chinese population contained 1637 CRC patients and 1680 healthy individuals. Pooled analysis based on current case&#x02010;control study and previous four studies showed that rs895819 polymorphism was significantly associated with CRC risk in Chinese population, which was consistent with those of a previous meta&#x02010;analysis.<xref rid="jcla23497-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> Genotypes GG and allele G were significantly associated with an increased risk of CRC.</p><p>Although the pooled analysis revealed the role of miR&#x02011;27a rs895819 polymorphism on CRC risk in Chinese population, some limitations should be addressed. Firstly, the pooled result was not adjusted for potential confounding factors, while a more precise assessment should be performed if individual information, such as smoking, drinking, and red meat intake, was available. Furthermore, sensitivity analysis showed that the pooled OR was unstable under the dominant model, suggesting that the result needed to be further confirmed by more case&#x02010;control studies.</p></sec><sec sec-type="conclusions" id="jcla23497-sec-0012"><label>5</label><title>CONCLUSION</title><p>Our study observed a significant association between miR&#x02011;27a rs895819 polymorphism and CRC risk in Chinese population. The rs895819 polymorphism might serve as a valuable biomarker for predicting an individual's susceptibility to CRC.</p></sec><sec id="jcla23497-sec-0014"><title>AUTHOR CONTRIBUTIONS</title><p>Shulong Zhang,&#x000a0;Qi Han,&#x000a0;Kaihua Zhu, and Quan Wang conceived of the study and participated in its design. Shulong Zhang,&#x000a0;Qi Han,&#x000a0;and Kaihua Zhu conducted the systematic literature review. Shulong Zhang and Quan Wang performed the experiment and data analyses. Shulong Zhang drafted the study.</p></sec></body><back><ack id="jcla23497-sec-0013"><title>ACKNOWLEDGMENTS</title><p>This work was supported by scientific research project of Shanghai Municipal Health Commission (No. 201940389).</p></ack><ref-list content-type="cited-references" id="jcla23497-bibl-0001"><title>REFERENCES</title><ref id="jcla23497-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcla23497-cit-0001">
+<string-name>
+<surname>Tie</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Big roles of microRNAs in tumorigenesis and tumor development</article-title>. <source xml:lang="en">Histol Histopathol</source>. <year>2011</year>;<volume>26</volume>(<issue>10</issue>):<fpage>1353</fpage>&#x02010;<lpage>1361</lpage>.<pub-id pub-id-type="pmid">21870338</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcla23497-cit-0002">
+<string-name>
+<surname>Jiang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>miR&#x02010;27a promotes human breast cancer cell migration by inducing EMT in a FBXW7&#x02010;dependent manner</article-title>. <source xml:lang="en">Mol Med Rep</source>. <year>2018</year>;<volume>18</volume>(<issue>6</issue>):<fpage>5417</fpage>&#x02010;<lpage>5426</lpage>.<pub-id pub-id-type="pmid">30365154</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcla23497-cit-0003">
+<string-name>
+<surname>Wang</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Gong</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>QL</given-names>
+</string-name>. <article-title>Effects of miR&#x02010;27a upregulation on thyroid cancer cells migration, invasion, and angiogenesis</article-title>. <source xml:lang="en">Genet Mol Res</source>. <year>2016</year>;<volume>15</volume>(<issue>4</issue>). <pub-id pub-id-type="doi">10.4238/gmr15049070</pub-id>
+</mixed-citation></ref><ref id="jcla23497-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcla23497-cit-0004">
+<string-name>
+<surname>Gao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>YG</given-names>
+</string-name>. <article-title>Effect of miR27a on proliferation and invasion in colonic cancer cells</article-title>. <source xml:lang="en">Asian Pac J Cancer Prev</source>. <year>2013</year>;<volume>14</volume>(<issue>8</issue>):<fpage>4675</fpage>&#x02010;<lpage>4678</lpage>.<pub-id pub-id-type="pmid">24083724</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcla23497-cit-0005">
+<string-name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>miR&#x02010;27a promotes proliferation, migration, and invasion of colorectal cancer by targeting FAM172A and acts as a diagnostic and prognostic biomarker</article-title>. <source xml:lang="en">Oncol Rep</source>. <year>2017</year>;<volume>37</volume>(<issue>6</issue>):<fpage>3554</fpage>&#x02010;<lpage>3564</lpage>.<pub-id pub-id-type="pmid">28440497</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcla23497-cit-0006">
+<string-name>
+<surname>Hua</surname>
+<given-names>RX</given-names>
+</string-name>, <string-name>
+<surname>Zhuo</surname>
+<given-names>ZJ</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>XPG gene polymorphisms contribute to colorectal cancer susceptibility: a two&#x02010;stage case&#x02010;control study</article-title>. <source xml:lang="en">J Cancer</source>. <year>2016</year>;<volume>7</volume>(<issue>12</issue>):<fpage>1731</fpage>&#x02010;<lpage>1739</lpage>.<pub-id pub-id-type="pmid">27698911</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcla23497-cit-0007">
+<string-name>
+<surname>Hua</surname>
+<given-names>RX</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>DH</given-names>
+</string-name>, et al. <article-title>Association of XPC gene polymorphisms with colorectal cancer risk in a southern Chinese population: a case&#x02010;control study and meta&#x02010;analysis</article-title>. <source xml:lang="en">Genes (Basel)</source>. <year>2016</year>;<volume>7</volume>(<issue>10</issue>):<fpage>73</fpage>.</mixed-citation></ref><ref id="jcla23497-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcla23497-cit-0008">
+<string-name>
+<surname>Ma</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>ZH</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Rs895819 within miR&#x02010;27a might be involved in development of non small cell lung cancer in the Chinese Han population</article-title>. <source xml:lang="en">Asian Pac J Cancer Prev</source>. <year>2015</year>;<volume>16</volume>(<issue>5</issue>):<fpage>1939</fpage>&#x02010;<lpage>1944</lpage>.<pub-id pub-id-type="pmid">25773791</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcla23497-cit-0009">
+<string-name>
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Common genetic variants in pre&#x02010;microRNAs are associated with cervical cancer susceptibility in southern Chinese women</article-title>. <source xml:lang="en">J Cancer</source>. <year>2020</year>;<volume>11</volume>(<issue>8</issue>):<fpage>2133</fpage>&#x02010;<lpage>2138</lpage>.<pub-id pub-id-type="pmid">32127940</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcla23497-cit-0010">
+<string-name>
+<surname>Tang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Pre&#x02010;miR&#x02010;27a rs895819 polymorphism and risk of diffuse large B&#x02010;cell lymphoma</article-title>. <source xml:lang="en">J Clin Lab Anal</source>. <year>2020</year>;<volume>34</volume>(<issue>3</issue>):<elocation-id>e23088</elocation-id>.<pub-id pub-id-type="pmid">31797450</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcla23497-cit-0011">
+<string-name>
+<surname>Bian</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Association between pre&#x02010;miR&#x02010;27a functional polymorphism and risk of colorectal cancer in north Chinese Han population</article-title>. <source xml:lang="en">Onco Targets Ther</source>. <year>2015</year>;<volume>8</volume>:<fpage>3003</fpage>&#x02010;<lpage>3007</lpage>.<pub-id pub-id-type="pmid">26527885</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcla23497-cit-0012">
+<string-name>
+<surname>Jiang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>WX</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Genotype GG of rs895819 functional polymorphism within miR&#x02010;27a might increase genetic susceptibility to colorectal cancer in Han Chinese population</article-title>. <source xml:lang="en">J Clin Lab Anal</source>. <year>2016</year>;<volume>30</volume>(<issue>4</issue>):<fpage>351</fpage>&#x02010;<lpage>355</lpage>.<pub-id pub-id-type="pmid">26302683</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcla23497-cit-0013">
+<string-name>
+<surname>Cao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Association between a functional variant in microRNA&#x02010;27a and susceptibility to colorectal cancer in a Chinese Han population</article-title>. <source xml:lang="en">Genet Mol Res</source>. <year>2014</year>;<volume>13</volume>(<issue>3</issue>):<fpage>7420</fpage>&#x02010;<lpage>7427</lpage>.<pub-id pub-id-type="pmid">25222241</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcla23497-cit-0014">
+<string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>A genetic polymorphism in pre&#x02010;miR&#x02010;27a confers clinical outcome of non&#x02010;small cell lung cancer in a Chinese population</article-title>. <source xml:lang="en">PLoS One</source>. <year>2013</year>;<volume>8</volume>(<issue>11</issue>):<elocation-id>e79135</elocation-id>.<pub-id pub-id-type="pmid">24223174</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcla23497-cit-0015">
+<string-name>
+<surname>He</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liao</surname>
+<given-names>XY</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>JH</given-names>
+</string-name>, et al. <article-title>Association of MTHFR C677T and A1298C polymorphisms with non&#x02010;Hodgkin lymphoma susceptibility: evidence from a meta&#x02010;analysis</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2014</year>;<volume>4</volume>:<fpage>6159</fpage>.<pub-id pub-id-type="pmid">25146845</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcla23497-cit-0016">
+<string-name>
+<surname>Thakkinstian</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McKay</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>McEvoy</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Systematic review and meta&#x02010;analysis of the association between complement component 3 and age&#x02010;related macular degeneration: a HuGE review and meta&#x02010;analysis</article-title>. <source xml:lang="en">Am J Epidemiol</source>. <year>2011</year>;<volume>173</volume>(<issue>12</issue>):<fpage>1365</fpage>&#x02010;<lpage>1379</lpage>.<pub-id pub-id-type="pmid">21576320</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcla23497-cit-0017">
+<string-name>
+<surname>Wacholder</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chanock</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Closas</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>El Ghormli</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Rothman</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Assessing the probability that a positive report is false: an approach for molecular epidemiology studies</article-title>. <source xml:lang="en">J Natl Cancer Inst</source>. <year>2004</year>;<volume>96</volume>(<issue>6</issue>):<fpage>434</fpage>&#x02010;<lpage>442</lpage>.<pub-id pub-id-type="pmid">15026468</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcla23497-cit-0018">
+<string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Xuan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Association between miR&#x02010;27a genetic variants and susceptibility to colorectal cancer</article-title>. <source xml:lang="en">Diagn Pathol</source>. <year>2014</year>;<volume>9</volume>:<fpage>146</fpage>.<pub-id pub-id-type="pmid">25078482</pub-id></mixed-citation></ref><ref id="jcla23497-bib-0019"><label>19</label><mixed-citation publication-type="book" id="jcla23497-cit-0019">
+<string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>. <source xml:lang="en">Study on the Associations of Lifestyle&#x02010;Related Factors, Genetic Variants in miRNA Encoding Regions and miRNA Binding Sites with Colorectal Cancer Risk [doctor]</source>. <publisher-loc>Hangzhou, China</publisher-loc>: <publisher-name>Zhejiang University</publisher-name>; <year>2012</year>.</mixed-citation></ref><ref id="jcla23497-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcla23497-cit-0020">
+<string-name>
+<surname>Liu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dear</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Association between microRNA&#x02010;27a rs895819 polymorphism and risk of colorectal cancer: A meta&#x02010;analysis</article-title>. <source xml:lang="en">Cancer Genet</source>. <year>2016</year>;<volume>209</volume>(<issue>9</issue>):<fpage>388</fpage>&#x02010;<lpage>394</lpage>.<pub-id pub-id-type="pmid">27751356</pub-id></mixed-citation></ref></ref-list></back></article>

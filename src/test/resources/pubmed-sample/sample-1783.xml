@@ -1,0 +1,719 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Neurosci</journal-id><journal-id journal-id-type="iso-abbrev">Eur. J. Neurosci</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1460-9568</journal-id><journal-id journal-id-type="publisher-id">EJN</journal-id><journal-title-group><journal-title>The European Journal of Neuroscience</journal-title></journal-title-group><issn pub-type="ppub">0953-816X</issn><issn pub-type="epub">1460-9568</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31891427</article-id><article-id pub-id-type="pmc">7497269</article-id><article-id pub-id-type="doi">10.1111/ejn.14665</article-id><article-id pub-id-type="publisher-id">EJN14665</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Report</subject></subj-group><subj-group subj-group-type="heading"><subject>Systems Neuroscience</subject></subj-group></article-categories><title-group><article-title>Electrical stimulation of the ventral tegmental area evokes sleep&#x02010;like state transitions under urethane anaesthesia in the rat medial prefrontal cortex via dopamine D<sub>1</sub>&#x02010;like receptors</article-title><alt-title alt-title-type="left-running-head">GRETENKORD et al.</alt-title></title-group><contrib-group><contrib id="ejn14665-cr-0001" contrib-type="author"><name><surname>Gretenkord</surname><given-names>Sabine</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0007-8062</contrib-id><xref ref-type="aff" rid="ejn14665-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejn14665-cr-0002" contrib-type="author"><name><surname>Olthof</surname><given-names>Bas M. J.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0099-8849</contrib-id><xref ref-type="aff" rid="ejn14665-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejn14665-cr-0003" contrib-type="author"><name><surname>Stylianou</surname><given-names>Myrto</given-names></name><xref ref-type="aff" rid="ejn14665-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejn14665-cr-0004" contrib-type="author"><name><surname>Rees</surname><given-names>Adrian</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3313-8375</contrib-id><xref ref-type="aff" rid="ejn14665-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejn14665-cr-0005" contrib-type="author"><name><surname>Gartside</surname><given-names>Sarah E.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3792-6205</contrib-id><xref ref-type="aff" rid="ejn14665-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ejn14665-cr-0006" contrib-type="author" corresp="yes"><name><surname>LeBeau</surname><given-names>Fiona E. N.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1453-4022</contrib-id><xref ref-type="aff" rid="ejn14665-aff-0001">
+<sup>1</sup>
+</xref><address><email>fiona.lebeau@ncl.ac.uk</email></address></contrib></contrib-group><aff id="ejn14665-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Biosciences Institute</named-content>
+<named-content content-type="organisation-division">Medical School</named-content>
+<institution>Newcastle University</institution>
+<city>Newcastle Upon Tyne</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Fiona E. N. LeBeau, Biosciences Institute,&#x000a0;Medical School, Newcastle University, Framlington Place, NE2 4HH, UK.<break/>
+Email: <email>fiona.lebeau@ncl.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>2</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2020</year></pub-date><volume>52</volume><issue>2</issue><issue-id pub-id-type="doi">10.1111/ejn.v52.2</issue-id><fpage>2915</fpage><lpage>2930</lpage><history><date date-type="received"><day>27</day><month>8</month><year>2019</year></date><date date-type="rev-recd"><day>20</day><month>12</month><year>2019</year></date><date date-type="accepted"><day>27</day><month>12</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 Federation of European Neuroscience Societies and John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>European Journal of Neuroscience</italic> published by Federation of European Neuroscience Societies and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:EJN-52-2915.pdf"/><abstract id="ejn14665-abs-0001"><title>Abstract</title><p>The role of dopamine in regulating sleep&#x02010;state transitions during, both natural sleep and under anaesthesia, is still unclear. Recording in vivo in the rat mPFC under urethane anaesthesia, we observed predominantly slow wave activity (SWA) of &#x0003c;1&#x000a0;Hz in the local field potential interrupted by occasional spontaneous transitions to a low&#x02010;amplitude&#x02010;fast (LAF) pattern of activity. During periods of SWA, transitions to LAF activity could be rapidly and consistently evoked by electrical stimulation of the ventral tegmental area (VTA). Spontaneous LAF activity, and that evoked by stimulation of&#x000a0;the VTA, consisted of fast oscillations similar to those seen in the rapid eye movement (REM)&#x02010;like sleep state. Spontaneous and VTA stimulation&#x02010;evoked LAF activity occurred simultaneously along the dorsoventral extent of all mPFC subregions. Evoked LAF activity depended on VTA stimulation current and could be elicited using either regular (25&#x02013;50&#x000a0;Hz) or burst stimulation patterns and was reproducible upon repeated stimulation. Simultaneous extracellular&#x000a0;single&#x02010;unit recordings showed that during SWA, presumed pyramidal cells fired phasically and almost exclusively on the Up state, while during both spontaneous and VTA&#x02010;evoked LAF activity, they fired tonically. The transition to LAF activity evoked by VTA stimulation depended on dopamine D<sub>1</sub>&#x02010;like receptor activation as it was almost completely blocked by systemic administration of the D<sub>1</sub>&#x02010;like receptor antagonist SCH23390. Overall, our data demonstrate that activation of dopamine D<sub>1</sub>&#x02010;like receptors in the mPFC is important for regulating sleep&#x02010;like state transitions.</p></abstract><abstract abstract-type="graphical" id="ejn14665-abs-0002"><p>Under urethane anaesthesia, activity in the PFC spontaneously switches between slow wave activity and rapid eye movement (REM)&#x02010;like, low&#x02010;amplitude fast (LAF) oscillations. Electrical stimulation of the ventral tegmental area (VTA) evokes LAF in the PFC. Transition to LAF evoked by stimulation of the VTA is blocked by systemic SCH23390, a D<sub>1/5</sub> antagonist. Dopamine, acting via D<sub>1/5</sub> receptors, contributes to SWA/LAF transitions demonstrating a new role for dopamine in sleep&#x02010;like state transitions.<boxed-text position="anchor" content-type="graphic" id="ejn14665-blkfxd-0001" orientation="portrait"><graphic xlink:href="EJN-52-2915-g006.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group><kwd id="ejn14665-kwd-0001">Oscillations</kwd><kwd id="ejn14665-kwd-0002">REM&#x02010;like</kwd><kwd id="ejn14665-kwd-0003">slow wave activity</kwd><kwd id="ejn14665-kwd-0004">Up state</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Wellcome Trust </institution><institution-id institution-id-type="open-funder-registry">10.13039/100004440</institution-id></institution-wrap></funding-source><award-id>092994/2/10/2</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="17"/><word-count count="10803"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.0 mode:remove_FC converted:11.09.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ejn14665-cit-1001">
+<string-name>
+<surname>Gretenkord</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Olthof</surname>
+<given-names>BMJ</given-names>
+</string-name>, <string-name>
+<surname>Stylianou</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rees</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gartside</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>LeBeau</surname>
+<given-names>FEN</given-names>
+</string-name>. <article-title>Electrical stimulation of the ventral tegmental area evokes sleep&#x02010;like state transitions under urethane anaesthesia in the rat medial prefrontal cortex via dopamine D<sub>1</sub>&#x02010;like receptors</article-title>. <source xml:lang="en">Eur J Neurosci</source>. <year>2020</year>;<volume>52</volume>:<fpage>2915</fpage>&#x02013;<lpage>2930</lpage>. <pub-id pub-id-type="doi">10.1111/ejn.14665</pub-id>
+<pub-id pub-id-type="pmid">31891427</pub-id></mixed-citation>
+</p><fn-group id="ejn14665-ntgp-0001"><fn id="ejn14665-note-0001"><p>Sarah E. Gartside and Fiona E. N. LeBeau&#x000a0;are Joint senior authors.</p></fn><fn id="ejn14665-note-0003"><p>Edited by Jochen Roeper.</p></fn><fn id="ejn14665-note-0002"><p>The peer review history for this article is available at <ext-link ext-link-type="uri" xlink:href="https://publons.com/publon/10.1111/EJN.14665">https://publons.com/publon/10.1111/EJN.14665</ext-link>
+</p></fn></fn-group></notes></front><body id="ejn14665-body-0001"><def-list list-content="abbreviations" id="ejn14665-lp-0001"><title>Abbreviations</title><def-item><term>AC</term><def><p>Anterior cingulate</p></def></def-item><def-item><term>Base</term><def><p>Baseline</p></def></def-item><def-item><term>CV</term><def><p>Coefficient of variation</p></def></def-item><def-item><term>DA</term><def><p>Dopamine</p></def></def-item><def-item><term>DP</term><def><p>Dorsopeduncular</p></def></def-item><def-item><term>DREADDS</term><def><p>Designer receptors exclusively activated by designer drugs</p></def></def-item><def-item><term>EEG</term><def><p>Electroencephalogram</p></def></def-item><def-item><term>GABA</term><def><p>Gamma&#x02010;aminobutyric acid</p></def></def-item><def-item><term>i.p.</term><def><p>Intraperitoneal</p></def></def-item><def-item><term>IL</term><def><p>Infralimbic</p></def></def-item><def-item><term>IQR</term><def><p>Interquartile range</p></def></def-item><def-item><term>ISI</term><def><p>Interspike interval</p></def></def-item><def-item><term>KS</term><def><p>Kolmogorov&#x02013;Smirnov</p></def></def-item><def-item><term>LAF</term><def><p>Low&#x02010;amplitude&#x02010;fast (activity)</p></def></def-item><def-item><term>mPFC</term><def><p>Medial prefrontal cortex</p></def></def-item><def-item><term>Non&#x02010;REM</term><def><p>Non&#x02010;rapid eye movement (sleep)</p></def></def-item><def-item><term>PBS</term><def><p>Phosphate buffered saline</p></def></def-item><def-item><term>PrL</term><def><p>Prelimbic</p></def></def-item><def-item><term>REM</term><def><p>Rapid eye movement</p></def></def-item><def-item><term>s.e.m.</term><def><p>Standard error of the mean</p></def></def-item><def-item><term><italic>SD</italic></term><def><p>Standard deviation</p></def></def-item><def-item><term>SWA</term><def><p>Slow wave activity</p></def></def-item><def-item><term>UDS</term><def><p>Up&#x02013;Down state</p></def></def-item><def-item><term>VTA</term><def><p>Ventral tegmental area</p></def></def-item></def-list><sec id="ejn14665-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Dopamine neurons in the VTA are important in controlling emotional and motivational behaviour (reviewed in Morales &#x00026; Margolis, <xref rid="ejn14665-bib-0039" ref-type="ref">2017</xref>; Schultz, <xref rid="ejn14665-bib-0055" ref-type="ref">2015</xref>), but their role in regulating sleep and wakefulness remains controversial (Jones, <xref rid="ejn14665-bib-0027" ref-type="ref">2020</xref>; Monti &#x00026; Monti, <xref rid="ejn14665-bib-0038" ref-type="ref">2007</xref>; Oishi &#x00026; Lazarus, <xref rid="ejn14665-bib-0041" ref-type="ref">2017</xref>) . Sleep consists of two distinct patterns of cortical activity, rapid eye movement (REM) sleep and non&#x02010;rapid eye movement (non&#x02010;REM) sleep, that can be readily distinguished in local field potential recordings within the neocortex&#x000a0;or from surface electroencephalogram (EEG) electrodes.</p><p>Rapid eye movement sleep is distinguished by a low amplitude, faster network activity with oscillatory activity in the theta (4&#x02013;8&#x000a0;Hz) and gamma (30&#x02013;80&#x000a0;Hz) bands. In contrast, non&#x02010;REM sleep is characterised by large regular slow oscillations (~0.5&#x02013;2&#x000a0;Hz) that are highly synchronous across the cortex, and sleep spindles at ~9&#x02013;15&#x000a0;Hz (Isomura et al., <xref rid="ejn14665-bib-0025" ref-type="ref">2006</xref>; Ruiz&#x02010;Mejias, Ciria&#x02010;Suarez, Mattia, &#x00026; Sanchez&#x02010;Vives, <xref rid="ejn14665-bib-0052" ref-type="ref">2011</xref>; Volgushev, Chauvette, Mukovski, &#x00026; Timofeev, <xref rid="ejn14665-bib-0065" ref-type="ref">2006</xref>). The cortical slow oscillations seen in non&#x02010;REM sleep are characterised by transitions between Up and Down states evident in the local field potential or EEG. During Up and Down states, the membrane potential of cortical pyramidal cells is depolarised and hyperpolarised, respectively, with firing occurring predominantly during the depolarised Up state (Bartho et al., <xref rid="ejn14665-bib-0002" ref-type="ref">2014</xref>; Chauvette, Volgushev, &#x00026; Timofeev, <xref rid="ejn14665-bib-0007" ref-type="ref">2010</xref>; Steriade, Amzica, &#x00026; Contreras, <xref rid="ejn14665-bib-0057" ref-type="ref">1996</xref>; Steriade, Nunez, &#x00026; Amzica, <xref rid="ejn14665-bib-0058" ref-type="ref">1993</xref>). All mammals regularly alternate between non&#x02010;REM and REM states throughout the sleep period, albeit with different cyclical patterns in different species (Brown, Basheer, McKenna, Strecker, &#x00026; McCarley, <xref rid="ejn14665-bib-0005" ref-type="ref">2012</xref>; Hobson &#x00026; Pace&#x02010;Schott, <xref rid="ejn14665-bib-0022" ref-type="ref">2002</xref>; Pace&#x02010;Schott &#x00026; Hobson, <xref rid="ejn14665-bib-0045" ref-type="ref">2002</xref>).</p><p>Several studies have shown that the regular SWA observed under urethane anaesthesia displays many of the features characteristic of the non&#x02010;REM slow oscillations associated with deep sleep (Bartho et al., <xref rid="ejn14665-bib-0002" ref-type="ref">2014</xref>; Beltramo et al., <xref rid="ejn14665-bib-0003" ref-type="ref">2013</xref>; Chauvette et al., <xref rid="ejn14665-bib-0007" ref-type="ref">2010</xref>; Destexhe, Contreras, &#x00026; Steriade, <xref rid="ejn14665-bib-0011" ref-type="ref">1999</xref>; Steriade et al., <xref rid="ejn14665-bib-0058" ref-type="ref">1993</xref>). Although under anaesthesia SWA predominates, transitions to REM&#x02010;like activity have also been observed (Clement et al., <xref rid="ejn14665-bib-0009" ref-type="ref">2008</xref>; Pagliardini Funk &#x00026; Dickson, <xref rid="ejn14665-bib-0046" ref-type="ref">2013a</xref>; Pagliardini Gosgnach &#x00026; Dickson, <xref rid="ejn14665-bib-0047" ref-type="ref">2013b</xref>; Pagliardini, Greer, Funk, &#x00026; Dickson, <xref rid="ejn14665-bib-0048" ref-type="ref">2012</xref>; Sakata &#x00026; Harris, <xref rid="ejn14665-bib-0054" ref-type="ref">2012</xref>; Zhurakovskaya et al., <xref rid="ejn14665-bib-0067" ref-type="ref">2019</xref>).</p><p>What systems regulate sleep&#x02010;state transitions is still unclear, although there is evidence that several neurotransmitters including glutamate and GABA, as well as the cholinergic and noradrenergic systems all play a role in sleep and arousal (Hobson &#x00026; Pace&#x02010;Schott, <xref rid="ejn14665-bib-0022" ref-type="ref">2002</xref>; Jones, <xref rid="ejn14665-bib-0027" ref-type="ref">2020</xref>; Monti et. al., <xref rid="ejn14665-bib-0036" ref-type="ref">2013</xref>; Pace&#x02010;Schott &#x00026; Hobson, <xref rid="ejn14665-bib-0045" ref-type="ref">2002</xref>). Although early studies suggested that dopamine played no role in regulating sleep&#x02013;wake behaviour, more recent evidence points to the contrary (for reviews see Jones, <xref rid="ejn14665-bib-0027" ref-type="ref">2020</xref>; Monti &#x00026; Monti, <xref rid="ejn14665-bib-0038" ref-type="ref">2007</xref>; Oishi &#x00026; Lazarus, <xref rid="ejn14665-bib-0041" ref-type="ref">2017</xref>). Several recent studies have led to a renewed interest in the potential role of dopamine in modulating sleep&#x02013;wake transitions (Luo et al., <xref rid="ejn14665-bib-0032" ref-type="ref">2018</xref>; Oishi et al., <xref rid="ejn14665-bib-0042" ref-type="ref">2017</xref>; Qu et al., <xref rid="ejn14665-bib-0049" ref-type="ref">2010</xref>; Sun et al., <xref rid="ejn14665-bib-0059" ref-type="ref">2017</xref>; Taylor et al., <xref rid="ejn14665-bib-0062" ref-type="ref">2016</xref>). Electrical stimulation of the VTA has been shown to induce reanimation from general anaesthesia in rats (Solt et al., <xref rid="ejn14665-bib-0056" ref-type="ref">2014</xref>; Taylor et al., <xref rid="ejn14665-bib-0062" ref-type="ref">2016</xref>). Two recent electrophysiological studies using optogenetic and chemogenic approaches (in the absence of anaesthesia) have demonstrated a critical role for dopamine neurons in the VTA in regulating both the transition to the awake state and the maintenance of wakefulness (Eban&#x02010;Rothschild, Rothschild, Giardino, Jones, &#x00026; Lecea, <xref rid="ejn14665-bib-0013" ref-type="ref">2016</xref>; Oishi &#x00026; Lazarus, <xref rid="ejn14665-bib-0041" ref-type="ref">2017</xref>).</p><p>Neurons from the VTA heavily innervate the mPFC (Oades &#x00026; Halliday, <xref rid="ejn14665-bib-0040" ref-type="ref">1987</xref>; Swanson, <xref rid="ejn14665-bib-0060" ref-type="ref">1982</xref>). The VTA is also active during REM sleep when dopamine neurons fire in bursts of spikes up to 40&#x000a0;Hz (Dahan et al., <xref rid="ejn14665-bib-0010" ref-type="ref">2007</xref>). In rats under urethane anaesthesia, electrical stimulation of the VTA can lead to membrane depolarisation in presumed pyramidal cells in the mPFC (Lewis &#x00026; O'Donnell, <xref rid="ejn14665-bib-0031" ref-type="ref">2000</xref>). Onn and Wang (<xref rid="ejn14665-bib-0043" ref-type="ref">2005</xref>) also reported VTA stimulation&#x02010;evoked membrane depolarisation in mPFC neurons recorded under anaesthesia and showed that dopamine D<sub>1</sub>&#x02010;like receptors were involved in the depolarisation of pyramidal cells to the Up state. Thus, there is evidence that VTA stimulation can modulate pyramidal cell firing in the cortex, however, it remains unclear whether this regulates transitions between SWA and REM&#x02010;like sleep states.</p><p>In this study, we combined field and extracellular single&#x02010;unit recordings in the mPFC with electrical stimulation of the VTA to test the hypothesis that under anaesthesia projections from the VTA to the mPFC are involved in the switching between the slow oscillations of SWA to REM&#x02010;like, low&#x02010;amplitude&#x02010;fast oscillatory activity. In view of the different functional and anatomical differences between mPFC subregions (Heidbreder &#x00026; Groenewegen, <xref rid="ejn14665-bib-0020" ref-type="ref">2003</xref>; Kesner &#x00026; Churchwell, <xref rid="ejn14665-bib-0028" ref-type="ref">2011</xref>), we have recorded in all subregions: the anterior cingulate (AC), prelimbic (PrL), infralimbic (IL) and dorsopeduncular (DP) cortices. We found that electrical stimulation of VTA consistently abolished SWA and induced a low&#x02010;amplitude&#x02010;fast (LAF) network rhythm, similar to the REM&#x02010;like sleep state, that was evident along the dorsoventral extent of the mPFC. Systemic injection of a D<sub>1</sub>&#x02010;like dopamine receptor antagonist blocked the effects of VTA stimulation in all mPFC subregions. Our data demonstrate that dopamine, via D<sub>1</sub>&#x02010;like receptors, mediates the VTA stimulation&#x02010;induced transitions from SWA to a REM&#x02010;like state.</p></sec><sec sec-type="methods" id="ejn14665-sec-0002"><label>2</label><title>METHODS</title><sec id="ejn14665-sec-0003"><label>2.1</label><title>Animals</title><p>All procedures described were performed in accordance with the UK Animals (Scientific Procedures) Act 1986 and the European Union Directive 2010/63/EU. Male Hooded Lister rats (Charles River Laboratories) were housed at Newcastle University's animal facility in a temperature&#x02010; and humidity&#x02010;controlled environment consistent with the ARRIVE (Animal Research: Reporting of In Vivo Experiments) guidelines. Rats were kept in an enriched environment (cage toys) under a 12&#x02010;hr light&#x02013;dark cycle (lights on 7 a.m. &#x02013; 7&#x000a0;p.m.) with access to food and water ad libitum. Rats were housed up to four per cage and were allowed a week of acclimatisation before the experiment. Experiments were commenced ~2&#x000a0;hr into the light (sleep) phase of the circadian cycle.</p></sec><sec id="ejn14665-sec-0004"><label>2.2</label><title>Anaesthesia and surgery</title><p>Rats weighing 250&#x02013;330&#x000a0;g were anaesthetised with urethane (Sigma&#x02010;Aldrich). An initial dose of 1.5&#x02013;1.9&#x000a0;g/kg&#x000a0;was administered by intraperitoneal (i.p.) injection. Additional doses of 0.5&#x000a0;g/kg&#x000a0;i.p. were given every half hour until a surgical plane of anaesthesia (confirmed by absence of the pedal withdrawal reflex) was achieved. The animal was fixed in a stereotaxic frame (Kopf). A heating pad with feedback temperature control via a rectal probe (Harvard Apparatus) maintained the core temperature of the rat at 36.8&#x000b0;C. A pulse oximeter (Physiosuite, Kent Scientific) was attached to the animal's hind paw&#x000a0;to measure blood oxygen saturation. The animal breathed spontaneously, but to maintain an oxygen saturation of &#x0003e;90%, medical oxygen (BOC Industrial Gases, UK) was supplied through a tube mounted on the incisor bar of the stereotaxic frame. A skin incision was made in the scalp and infused with lidocaine before the periosteum was retracted to expose the skull. Craniotomies were drilled above the mPFC of both hemispheres (co&#x02010;ordinates from bregma AP&#x000a0;+&#x000a0;2.3&#x02013;2.5&#x000a0;mm, ML&#x000a0;+0.5&#x000a0;mm) and above the VTA (AP &#x02212;5.8&#x000a0;mm, ML&#x000a0;+&#x000a0;0.6&#x000a0;mm, left hemisphere). A concentric bipolar stimulating electrode (NE&#x02010;100 concentric, 50&#x000a0;mm shaft length, outer diameter 500&#x000a0;&#x003bc;M, contact separation 1&#x000a0;mm; Rhodes Medical Instruments) was implanted into the VTA (DV &#x02013; 8.0&#x000a0;mm), and recording electrodes were implanted in the mPFC as described below.</p></sec><sec id="ejn14665-sec-0005"><label>2.3</label><title>Data recording and acquisition</title><p>Two different recording configurations were used in this study. In some experiments, recordings were made from the right prelimbic region of the mPFC using glass&#x02010;coated tungsten electrodes implanted using a remote&#x02010;controlled stepper microdrive. Tungsten electrodes were connected to a headstage, and the signal was amplified (&#x000d7;1,000) and filtered (0.1&#x02013;10&#x000a0;kHz) using a preamplifier (DAM&#x02010;80, World Precision Instruments). The signal was further low&#x02010;pass filtered with a cut&#x02010;off frequency of 500&#x000a0;Hz (TDT system 2, Tucker Davis Technologies) to extract the local field potential and digitised by a Micro&#x02010;1401 (Cambridge Electronic Design) at a sampling rate of 2,000&#x000a0;Hz. In other experiments, multi&#x02010;channel recordings were made in all subregions of the mPFC in both hemispheres simultaneously with dual shank (1&#x000a0;mm separation) 16&#x02010;channel silicon probes (8 recording sites per shank, 500&#x000a0;&#x000b5;m inter&#x02010;site spacing; E16&#x02010;500&#x02013;S02&#x02013;1000&#x02010;L7.5, Atlas Neuroengineering). Silicon probes were lowered (with one shank in each hemisphere) to a depth of 5.3&#x000a0;mm using a one&#x02010;axis oil&#x02010;filled hydraulic micromanipulator (Narishige). Before insertion, the probes were coated with a fluorescent dye (DiI)(1,1&#x02019;&#x02010;dioctadecyl&#x02010;3,3,3&#x02019;,3&#x02019;&#x02010;tetramethylindocarbocyanine; Molecular Probes, Eugene, Oregon, USA), dissolved in DMSO (1.5&#x02013;2.5&#x000a0;mg/ml)) to mark the electrode tracks. For local field potential recordings, two recording contacts were located in each subregion of the mPFC: AC, PrL, IL and DP in both hemispheres as previously described (Gretenkord, Rees, Whittington, Gartside, &#x00026; LeBeau, <xref rid="ejn14665-bib-0019" ref-type="ref">2017</xref>). Local field potential recordings were similar in both hemispheres, so all statistics and data presented are only for recordings from the left hemisphere (ipsilateral to the VTA stimulation). For each channel, the signal was passed through a unity&#x02010;gain headstage (Plexon) and then amplified (&#x000d7;1,000) and filtered (0.07&#x02013;300&#x000a0;Hz for field potential; 0.15&#x02013;9&#x000a0;kHz for spikes) by a Plexon preamplifier (Plexon). The continuous local field potential was digitised at 1,000&#x000a0;Hz and recorded on a PC (Dell) running Plexon software (Sort Client).</p></sec><sec id="ejn14665-sec-0006"><label>2.4</label><title>Electrical stimulation of the VTA</title><p>Stimulation patterns were programmed on a Master&#x02010;8 stimulator (A.M.P.I, Jerusalem, Israel) and delivered via an Iso&#x02010;Flex stimulus isolator (A.M.P.I, Jerusalem, Israel). VTA electrical stimulation consisted predominantly of a 50&#x000a0;Hz/30&#x000a0;s stimulation protocol with a continuous train of 1,500 biphasic pulses (0.1&#x000a0;ms duration, 20&#x000a0;ms interval). To examine the current intensity response relationship and establish stimulation parameters to be used in drug experiments, the current was slowly increased from&#x000a0;~&#x000a0;0.1&#x000a0;mA in 0.02 to 0.05&#x000a0;mA steps, until a clear, but submaximal response to the stimulation was observed,&#x000a0;with a similar latency to onset of LAF&#x000a0;(See below). Electrical stimulation of the VTA was then applied at 10&#x000a0;min intervals. In some experiments, a burst stimulation pattern was used (30&#x000a0;s duration, 5 biphasic pulses per burst, intra&#x02010;burst frequency 25&#x000a0;Hz, 1&#x000a0;s&#x000a0;inter&#x02010;burst&#x02010;interval).</p></sec><sec id="ejn14665-sec-0007"><label>2.5</label><title>Drug administration</title><p>To investigate the role of dopamine D<sub>1</sub>&#x02010;like receptors, the response to VTA electrical stimulation was assessed during three baseline (Base1&#x02010;3) stimulations and at three time points (10, 20 and 30&#x000a0;min) after systemic (i.p.) administration of either saline (Sal1&#x02010;3), or the dopamine D<sub>1</sub>&#x02010;like antagonist SCH23390 (SCH1&#x02010;3). Two doses of SCH23390 were assessed (&#x0201c;low dose&#x0201d;: 0.3&#x000a0;mg/kg, or &#x0201c;high dose&#x0201d;: 0.6&#x000a0;mg/kg).</p></sec><sec id="ejn14665-sec-0008"><label>2.6</label><title>Histological verification of recording site position</title><p>After the experiment, the rat was killed by injection with Euthatal (200&#x000a0;mg/ml i.p.). The brain was removed from the skull and postfixed in 4% paraformaldehyde (PFA) in 0.1M phosphate buffer saline (PBS) at 4&#x000b0;C for a minimum of 12&#x000a0;hr and cryoprotected in 30% sucrose solution. Coronal sections (60&#x02013;100&#x000a0;&#x003bc;m) were cut on a cooled vibratome (Zeiss Hyrax V50, Zeiss, Oberkochen, Germany) and collected in 0.1M PBS. Cresyl violet staining (see below) was used to verify the position of single channel tungsten electrodes, and green fluorescent Nissl stain (NeuroTrace 500/525,&#x000a0;Molecular Probes, Eugene, Oregon, USA) or bisbenzimide H33258 (Sigma&#x02010;Aldrich, St. Louis, MO, USA) was used for the silicone probes marked with DiI. Following staining, sections were mounted and coverslipped using Vectashield HardSet mounting medium (Vector Labs LTD., Peterborough, UK).</p></sec><sec id="ejn14665-sec-0009"><label>2.7</label><title>Verification of stimulation sites</title><p>For verification of the stimulation electrode placement in the VTA, either a cresyl violet staining protocol or a tyrosine hydroxylase (TH) immunohistochemistry protocol was used. For TH immunohistochemistry, free floating sections were washed in PBS, incubated in 0.3% H<sub>2</sub>O<sub>2</sub> for 30&#x000a0;min and permeabilised with 1% Triton&#x02010;X (Sigma&#x02010;Aldrich) for 20&#x000a0;min before being incubated overnight at 8&#x000b0;C with mouse anti&#x02010;TH&#x02010;16&#x000a0;(Sigma&#x02010;Aldrich Cat. number T2928RRID:AB 477,569) (1:10,000,&#x000a0;in diluent, 3% bovine serum albumin, 1.8% lysine in PBS). The next day, sections were washed and incubated for 2&#x000a0;hr at room temperature in biotinylated conjugated horse anti&#x02010;mouse IgG (Vector laboratories) (1:100 in diluent), followed by horse radish peroxidase (HRP) conjugated streptavidin (1:300 in PBS) or HRP avidin D (1:100 in PBS) at room temperature. Finally, sections were incubated for 5&#x02013;10&#x000a0;min in diaminobenzidine (Sigma&#x02010;Aldrich). Sections were mounted on gelatin&#x02010;subbed slides and allowed to dry before being dehydrated in ethanol, cleared in Histoclear (National diagnostics) and coverslipped with Entellan (Sigma&#x02010;Aldrich). For cresyl violet staining, sections were mounted on gelatin&#x02010;subbed slides and allowed to dry before being dipped in cresyl violet, washed in water, dehydrated in ethanol, cleared in Histoclear and coverslipped with Entellan.</p></sec><sec id="ejn14665-sec-0010"><label>2.8</label><title>Data analysis</title><sec id="ejn14665-sec-0011"><label>2.8.1</label><title>Up&#x02013;down state detection</title><p>All data analysis was performed offline using custom MATLAB (Mathworks) scripts. Up&#x02013;Down state detection was performed using the phase of the slow oscillation, as described previously (Massi et al., <xref rid="ejn14665-bib-0033" ref-type="ref">2012</xref>), except that the Hilbert transform (rather than the wavelet transform) was used to calculate the phase of the slow oscillation (as described in Gretenkord et al., <xref rid="ejn14665-bib-0019" ref-type="ref">2017</xref>). The local field potential was first bandpass filtered (0.1&#x02013;0.9&#x000a0;Hz), and the instantaneous phase <mml:math id="nlm-math-1"><mml:mrow><mml:mi>&#x003d5;</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>t</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math> was calculated using the Hilbert transform. The threshold to discriminate between Up and Down states was <mml:math id="nlm-math-2"><mml:mrow><mml:mi mathvariant="normal">c</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">s</mml:mi><mml:mo stretchy="false">(</mml:mo><mml:mi>&#x003d5;</mml:mi><mml:mfenced close=")" open="("><mml:mi>t</mml:mi></mml:mfenced><mml:mo>=</mml:mo><mml:mn>0</mml:mn><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math>.&#x000a0;To qualify as an Up state, the average amplitude over all channels was required to be larger than 0.5&#x000a0;mV for a duration&#x000a0;&#x0003e;&#x000a0;300&#x000a0;ms.</p></sec><sec id="ejn14665-sec-0012"><label>2.8.2</label><title>Detection of LAF activity</title><p>Local field potential segments were aligned to the stimulation period, and the LAF activity induced by VTA stimulation was detected from the amplitude of the slow oscillation. Local field potential segments were filtered using a 0.1&#x02013;2&#x000a0;Hz 2nd order Butterworth bandpass filter. The analytical signal of the filtered local field potential was calculated using the Hilbert transform, and an amplitude envelope was calculated as the complex modulus (magnitude) of the analytical signal. The amplitude envelope was smoothed using a moving&#x02010;average filter with a 3&#x02010;s window. Visual inspection of the analysis confirmed that a 3&#x02010;s smoothing window&#x000a0;prevented most small, brief fluctuations in signal amplitude (including Up states during the SWA) from being detected as LAF activity. The mean amplitude in a one&#x02010;minute period immediately before stimulation onset (baseline) was calculated, and LAF activity was defined as activity with an amplitude &#x0003c;50% of the mean baseline amplitude. To capture both the latency to onset of the LAF activity transition, and interruptions in the evoked LAF activity, our main outcome measure was <italic>time in LAF activity&#x000a0;=&#x000a0;</italic>the total time spent in LAF activity during the stimulation period. In the case of spontaneous transitions, which were slower in onset than the VTA stimulation&#x02010;evoked transitions, the mean baseline amplitude was calculated for a period of clear SWA several minutes before the emergence of LAF activity (Figure <xref rid="ejn14665-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ejn14665-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Spontaneous transitions from SWA to LAF activity under urethane anaesthesia. (a) Local field potential trace recorded in the PrL subregion of the mPFC shows oscillatory activity changes from SWA activity to LAF. (b) Spectrograms and (c) expanded traces taken as indicated from the local field potential in (a) during (i) SWA (ii), during the transitions from SWA&#x02010;LAF activity and (iii) during LAF activity. (d) Local field potential trace recorded in the PrL subregion of the mPFC shows oscillatory activity changes from LAF activity to SWA. (e) Spectrograms and (f) expanded traces taken as indicated from the field potential in (d) during (i) LAF (ii), during the transitions from LAF activity to SWA and (iii) during SWA [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-3" xlink:href="EJN-52-2915-g001"/></fig></sec><sec id="ejn14665-sec-0013"><label>2.8.3</label><title>Single&#x02010;unit analysis</title><p>Single units recorded in the mPFC were sorted using principal component analysis in Offline Sorter (Plexon). Only units that could be well distinguished were included in the analysis. In most cases, one unit per channel was recorded although occasionally two or even three units could be isolated. For all isolated units, the percentage of spikes on the Up state was calculated in a 5&#x02010;min baseline period of SWA, either a few mins before a spontaneous transition to LAF activity, or immediately before VTA stimulation. The distribution of interspike intervals (ISIs) in SWA and LAF activity was calculated for a 25&#x02010;min period (bin width 50&#x000a0;ms) encompassing a spontaneous transition from SWA to LAF activity, or a 15&#x000a0;min period encompassing the third baseline (Base3) VTA stimulation. Intervals were divided into those occurring during SWA and those during LAF activity (detected as described above). The coefficient of variation (CV) of the interspike intervals (ISIs) was calculated for units recorded during periods of SWA and LAF.&#x000a0;ISIs that were not contained within a single Up state (longer than 1,500&#x000a0;ms) were excluded so that the calculated CV refers only to firing on the Up state of SWA. During both SWA and LAF activity, the mean and standard deviation (<italic>SD</italic>) of the ISI for individual units were calculated, and the CV for each unit was calculated as &#x003c3; ISI/&#x000b5; ISI.&#x000a0;The median and interquartile ranges of the CVs for all units are presented.</p></sec><sec id="ejn14665-sec-0014"><label>2.8.4</label><title>Statistics</title><p>Non&#x02010;parametric statistical methods in SPSS were used for all analysis, and data were presented as median and interquartile range (IQR). Between groups, comparisons were made using Kruskal&#x02013;Wallis test for independent samples. Within group comparisons were made using Friedman's one&#x02010;way ANOVA for related samples, and significant ANOVA findings were followed up with Wilcoxon signed rank test for related samples. Differences between distributions were tested using the Kolmogorov&#x02013;Smirnov (KS) test. Statistical significance was indicated with exact P&#x02010;values in the text.</p></sec></sec></sec><sec sec-type="results" id="ejn14665-sec-0015"><label>3</label><title>RESULTS</title><sec id="ejn14665-sec-0016"><label>3.1</label><title>Spontaneous state transitions occur under urethane anaesthesia</title><p>Prior to investigating the impact of electrical VTA stimulation on activity in the prefrontal cortex, we recorded the local field potential and spiking activity of neurons in all subregions of the mPFC in urethane&#x02010;anaesthetised rats. With a deep surgical plane of anaesthesia, SWA was the predominant activity pattern observed, but occasional spontaneous transitions back and forth between SWA and a low&#x02010;amplitude&#x02010;fast (LAF) activity pattern were observed (Figure <xref rid="ejn14665-fig-0001" ref-type="fig">1</xref>a&#x02010;f), similar to those reported previously (Clement et al., <xref rid="ejn14665-bib-0009" ref-type="ref">2008</xref>; Sakata &#x00026; Harris, <xref rid="ejn14665-bib-0054" ref-type="ref">2012</xref>). However, these spontaneous transitions were, as others have reported, very rare (Fenik, Marchenko, Davies, &#x00026; Kubin, <xref rid="ejn14665-bib-0014" ref-type="ref">2012</xref>; Rukhadze, Fenik, Branconi, &#x00026; Kubin, <xref rid="ejn14665-bib-0053" ref-type="ref">2008</xref>) , with 1&#x02013;2 events occurring in only 6/18 rats used in this study. During SWA, fast oscillatory activity, mainly in the beta (15&#x02013;30&#x000a0;Hz) and gamma (30&#x02013;80&#x000a0;Hz) bands (Figure <xref rid="ejn14665-fig-0001" ref-type="fig">1</xref>bi and eiii), was associated with the Up state (downward deflection in the extracellular LFP), while during the LAF activity, fast oscillations were more continuous (Figure <xref rid="ejn14665-fig-0001" ref-type="fig">1</xref>biii and ei).</p><p>The spontaneous sleep&#x02010;state transitions occurred simultaneously in all subregions throughout the dorsoventral extent of the mPFC and were associated with a significant change in single neuron spiking activity in the mPFC (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>a,b). During SWA, all mPFC neurons recorded exhibited phasic firing with spikes occurring almost exclusively on the Up state (mean 89.4% &#x000b1;&#x000a0;1.32 spikes on Up state, <italic>n</italic>&#x000a0;=&#x000a0;19, Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>ai&#x02013;bi). In contrast, during spontaneous periods of LAF activity, neurons switched to a tonic pattern of spiking (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>aii&#x02013;bii). The interspike interval (ISI) histogram (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>c) showed that during SWA, there are both short ISIs (reflecting spikes on the Up state) and long ISIs (&#x0003e;1,500&#x000a0;ms, reflecting intervals between spikes at the end of one Up state and the beginning of the next). In contrast, during LAF activity, in the absence of such state changes, fewer long ISIs occurred (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>c). Overall, the distribution of ISIs (grouped in 50&#x000a0;ms bins) during the spontaneous LAF activity was significantly different from that during SWA (<italic>p</italic>&#x000a0;=&#x000a0;1.968&#x000a0;x&#x000a0;10<sup>&#x02013;7</sup>, KS test). The median firing frequency (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>di) of all units in SWA was 1.78 (IQR 0.54&#x02013;4.02) Hz (<italic>n</italic>&#x000a0;=&#x000a0;19), which was not significantly different to that during spontaneous LAF activity, 1.81 (IQR 0.17&#x02013;2.57) Hz (<italic>p</italic>&#x000a0;=&#x000a0;.376, Wilcoxon signed rank test). To calculate the regularity of firing using the coefficient of variation (CV) of the ISIs, we excluded the long intervals (&#x0003e;1,500&#x000a0;ms) reflecting intervals between spikes in different Up states, thus comparing firing only on the Up state with firing during LAF activity. Our results showed that the median CV (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>dii) was significantly higher during SWA than during LAF activity, 1.39 (IQR 1.14&#x02013;1.78) versus 1.13 (IQR 0.94&#x02013;1.49),&#x000a0;<italic>n</italic>&#x000a0;=&#x000a0;16 ((3 units that stopped firing during LAF were excluded), <italic>p</italic>&#x000a0;=&#x000a0;.003, Wilcoxon signed rank test)). The lower CV in LAF activity, which occurs despite the removal of long intervals, indicates that unit firing was more regular during LAF activity.</p><fig fig-type="Figure" xml:lang="en" id="ejn14665-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Spontaneous transitions from SWA to LAF activity are associated with changes in mPFC unit firing properties. (ai) SWA activity recorded simultaneously in all subregions of the mPFC including the anterior cingulate (AC), prelimbic (PrL), infralimbic (IL) and dorsopeduncular (DP) cortices. Vertical lines show individual spike patterns from single neurons recorded simultaneously in mPFC subregions (except IL). Firing during SWA is phasic with spikes restricted to the Up state (corresponding to the downward deflection of the local field potential). (aii) Local field potential during the same recording session showing spontaneous LAF activity was present simultaneously in all mPFC subregions. The same neurons shown in (ai) now fire tonically during spontaneous LAF activity. (b) Expanded time scale showing the PrL channel recording during (bi) SWA and (bii) spontaneous LAF activity with corresponding spectrograms. During SWA, spiking is restricted to the Up state (blue line), but continuous firing occurs during spontaneous LAF activity. (c) Histogram of ISI distribution, 19 units (grouped in 250&#x000a0;ms bins) for SWA (grey) and LAF activity (magenta). Inset (truncated for clarity) shows more frequent long ISIs in SWA reflecting the phasic firing with spikes restricted to the Up state. di) Box plot shows the median (IQR) firing rate (Hz) for all units (<italic>n</italic>&#x000a0;=&#x000a0;19) recorded during SWA and spontaneous LAF activity were not significantly different. (dii) Box plot of CV for units (<italic>n</italic>&#x000a0;=&#x000a0;16) shows a significant (<italic>p</italic>&#x000a0;=&#x000a0;.003) decrease in CV during spontaneous LAF activity (3 units which stopped firing during LAF were removed) [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-5" xlink:href="EJN-52-2915-g002"/></fig></sec><sec id="ejn14665-sec-0017"><label>3.2</label><title>VTA stimulation induces a transition from SWA to LAF activity</title><p>To investigate the potential role of the VTA in mediating sleep&#x02010;state transitions, we combined electrical stimulation of the VTA with extracellular recordings in the mPFC. To prevent spontaneous transitions to LAF activity, we used a supplementary dose of urethane (0.3&#x000a0;mg/kg) as we have previously found that this produced an extended period (~2&#x02013;3&#x000a0;hr) of continuous SWA without spontaneous transitions (Gretenkord et al., <xref rid="ejn14665-bib-0019" ref-type="ref">2017</xref>). Electrical stimulation of the VTA (regular 50&#x000a0;Hz, 30&#x000a0;s, 0.1&#x02013;0.6&#x000a0;mA) resulted in clear transitions from SWA to LAF activity (Figure <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref>).&#x000a0;The transitions to LAF activity occurred either immediately following the start of the VTA stimulation, or after a short delay (e.g. ~15&#x000a0;s in Figure <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref>a). The LAF activity then persisted for the remainder of the stimulation period with SWA re&#x02010;emerging either rapidly on cessation of stimulation as in the example shown (Figure <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref>a), or following a few seconds delay. As seen with the spontaneous transitions outlined above (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>),&#x000a0;the VTA stimulation&#x02010;evoked switch from SWA to LAF activity evoked by VTA stimulation occurred in all subregions of the mPFC simultaneously and was associated with a transition from phasic to tonic firing (Figure <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref>a&#x02010;b).</p><fig fig-type="Figure" xml:lang="en" id="ejn14665-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Electrical stimulation of the VTA evokes a state switch from SWA to LAF activity. (a) Local field potential recordings for each mPFC subregion; anterior cingulate (AC), prelimbic (PrL), infralimbic (IL) and dorsopeduncular (DP) cortices. VTA electrical stimulation (purple bar) evoked a transition to LAF activity simultaneously in all mPFC subregions (LAF detection indicated by text above red line).Vertical lines show unit firing for one neuron from each mPFC subregion and illustrates the transition from phasic firing on the Up state to tonic firing during LAF activity. (b) Expanded time scale showing the PrL channel recording during (bi) SWA and (bii) VTA stimulation&#x02010;evoked LAF activity with corresponding spectrograms. During SWA activity spiking is restricted to the Up state (blue line) but continuous firing occurs during VTA stimulation&#x02010;evoked LAF activity. (c) Histogram of ISI distribution (grouped in 250&#x000a0;ms bins) for SWA (grey) and VTA stimulation&#x02010;evoked LAF activity (red). Inset (truncated for clarity) shows more frequent long ISIs in SWA reflecting the phasic firing with spikes restricted to the Up state. (di) Box plot shows the median (IQR) for all units (<italic>n</italic>&#x000a0;=&#x000a0;62) showing firing rate significantly increased (<italic>p</italic>&#x000a0;=&#x000a0;.000098) during VTA stimulation&#x02010;evoked LAF activity. (dii) Box plot shows the median (IQR) for all units showing a significant decrease in CV during VTA stimulation&#x02010;evoked LAF activity (<italic>p</italic>&#x000a0;=&#x000a0;1.44&#x000a0;x&#x000a0;10<sup>&#x02212;10</sup>, <italic>n</italic>&#x000a0;=&#x000a0;56, (6 units that either stopped firing during LAF or had only&#x000a0;ISI's&#x000a0;&#x0003e;&#x000a0;1,500&#x000a0;ms were removed)) [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-7" xlink:href="EJN-52-2915-g003"/></fig><p>We recorded a total of 64 single units across the mPFC subregions during SWA in nine animals. During SWA activity, the vast majority of these units (62/64) fired phasically with spikes almost exclusively on the Up state. The two units which fired mostly on the Down state were excluded from the subsequent analysis for clarity. In the 62 remaining units, the average percentage firing restricted only to the Up state was 95.1&#x000a0;&#x000b1;&#x000a0;1.0% with very little firing in the Down state. There were no significant differences in firing rate across the mPFC subregions during SWA (Table <xref rid="ejn14665-tbl-0001" ref-type="table">1</xref>, <italic>n</italic>&#x000a0;=&#x000a0;62); therefore, all mPFC units were combined for further analysis. The ISI histogram (Figure <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref>c) again showed that during SWA, there were both short and long ISIs, with the latter again reflecting the time between one Up state and the next. However, during LAF activity evoked by VTA stimulation, there was a reduction in the proportion of long intervals and, as was the case for spontaneous transitions reported above (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>c), the distributions of intervals (grouped in 50&#x000a0;ms bins) were significantly different (<italic>p</italic>&#x000a0;=&#x000a0;.000074, KS test).</p><table-wrap id="ejn14665-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Firing rates (Hz) in different mPFC subregions during SWA</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">AC</th><th align="left" valign="top" rowspan="1" colspan="1">PrL</th><th align="left" valign="top" rowspan="1" colspan="1">IL</th><th align="left" valign="top" rowspan="1" colspan="1">DP</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>N</italic>
+</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">17</td></tr><tr><td align="left" rowspan="1" colspan="1">Median</td><td align="left" rowspan="1" colspan="1">1.26</td><td align="left" rowspan="1" colspan="1">3.33</td><td align="left" rowspan="1" colspan="1">2.0</td><td align="left" rowspan="1" colspan="1">5.70</td></tr><tr><td align="left" rowspan="1" colspan="1">IQR</td><td align="left" rowspan="1" colspan="1">0.6&#x02013;5.7</td><td align="left" rowspan="1" colspan="1">1.0&#x02013;5.3</td><td align="left" rowspan="1" colspan="1">1.1&#x02013;4.0</td><td align="left" rowspan="1" colspan="1">0.5&#x02013;10.7</td></tr></tbody></table><table-wrap-foot id="ejn14665-ntgp-0002"><title>Note</title><fn id="ejn14665-note-0004"><p>AC, anterior cingulate cortex; DP, dorsopeduncular cortex; IL, infralimbic cortex; PrL, prelimbic cortex.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The changes seen in firing during LAF activity evoked by VTA stimulation were qualitatively similar to those observed during the spontaneous transitions to LAF activity, where firing also changed from a phasic to tonic pattern of activity (compare Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>b and Figure <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref>b). Firing rate was slightly, but significantly, higher during LAF activity evoked by VTA stimulation compared with SWA (Figure <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref>di) with a median for SWA of 2.41 (IQR 0.78 &#x02013; 5.85) Hz versus 2.90 (IQR 0.82 &#x02013; 7.81) Hz for LAF activity (<italic>n</italic>&#x000a0;=&#x000a0;62, <italic>p</italic>&#x000a0;=&#x000a0;.000098, Wilcoxon signed rank test). As for spontaneous transitions to LAF activity (Figure <xref rid="ejn14665-fig-0002" ref-type="fig">2</xref>), regularity of firing was also increased during stimulation&#x02010;evoked LAF activity, as indicated by a significant decrease in CV (Figure <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref>dii). Thus, the median CV in SWA was 1.59 (IQR 1.22 &#x02013; 2.03) compared with 1.15 (IQR 0.87 &#x02013; 1.48) for LAF activity ((<italic>n</italic>&#x000a0;=&#x000a0;56&#x000a0;(6 units that stopped firing or had only intervals &#x0003e;1,500&#x000a0;ms after the switch to LAF activity were excluded), <italic>p</italic>&#x000a0;=&#x000a0;1.44 x10<sup>&#x02010;10</sup>, Wilcoxon signed rank test)).</p></sec><sec id="ejn14665-sec-0018"><label>3.3</label><title>VTA stimulation&#x02010;evoked LAF activity is stimulus dependent</title><p>The transition from SWA to LAF activity evoked by regular VTA stimulation at 50&#x000a0;Hz occurred either immediately after stimulation or with a short delay of ~10&#x02013;15&#x000a0;s after stimulus onset (Figures <xref rid="ejn14665-fig-0003" ref-type="fig">3</xref> and <xref rid="ejn14665-fig-0004" ref-type="fig">4</xref>). Transitions from SWA to LAF activity could also be evoked by a burst pattern&#x000a0;of stimulation (Figure <xref rid="ejn14665-fig-0004" ref-type="fig">4</xref>ai), and by lower frequency (25&#x000a0;Hz) regular VTA stimulation (Figure <xref rid="ejn14665-fig-0004" ref-type="fig">4</xref>aii). Furthermore, with increasing stimulus intensity, the latency to the onset of LAF activity was reduced (compare Figure <xref rid="ejn14665-fig-0004" ref-type="fig">4</xref>aiii vs. 4Aiv), and in some cases, the transition to LAF occurred immediately.</p><fig fig-type="Figure" xml:lang="en" id="ejn14665-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Low&#x02010;amplitude&#x02010;fast (LAF) activity&#x000a0;can be induced by different VTA stimulation parameters&#x000a0;(LAF activity indicated by red lines). (a) Extracellular field recordings from the PrL region showing that during SWA VTA stimulation (purple bar) at 25&#x000a0;Hz with either (ai) a burst pattern or (aii) regular stimulation pattern could evoke short periods of LAF activity. Increasing the VTA stimulation frequency to 50&#x000a0;Hz (aiii) elicited a longer period of LAF activity, after a short delay, which returned to SWA on cessation of the stimulation. Increasing the stimulus intensity to 0.28&#x000a0;mA (aiv) then caused a rapid transition to LAF that lasted a few seconds after cessation of the stimulation. (bi&#x02013;iii) Three repeated 30&#x000a0;s VTA stimulations (50&#x000a0;Hz regular, 0.2&#x000a0;mA) at 10&#x000a0;min intervals evoked similar transitions from SWA to LAF activity. (c) Box plot shows no significant difference in median (IQR) time in LAF activity for the group data (<italic>n</italic>&#x000a0;=&#x000a0;19 animals) for 3 repeated VTA stimulations at the same intensity [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-9" xlink:href="EJN-52-2915-g004"/></fig><p>Before assessing the effects of dopamine modulation, we first established that the transitions to LAF activity evoked by VTA stimulation were reproducible (Figure <xref rid="ejn14665-fig-0004" ref-type="fig">4</xref>b&#x02010;c). We specifically selected a stimulus intensity that evoked LAF activity with a short delay to enable us to observe either increases or decreases in the duration of LAF activity after dopamine antagonist administration. Three stimulations of the VTA (with the same current and intensity) at 10&#x02010;min intervals evoked periods of LAF activity of similar duration (Figure <xref rid="ejn14665-fig-0004" ref-type="fig">4</xref>b). There was no significant difference in the time spent in LAF activity between the three stimulations (median stimulus 1&#x000a0;=&#x000a0;19.8 (IQR 16.4&#x02013;23.3) s; stimulus 2&#x000a0;=&#x000a0;17.7 (IQR 14.4&#x02013;19.3) s; stimulus 3&#x000a0;=&#x000a0;18.4&#x000a0;(IQR 14.6&#x02013;21.3) s (<italic>n</italic>&#x000a0;=&#x000a0;19)).</p></sec><sec id="ejn14665-sec-0019"><label>3.4</label><title>Dopamine D<sub>1</sub>&#x02010;like receptor blockade abolished the VTA&#x02010;evoked induction of LAF activity</title><p>Dopamine D<sub>1</sub>&#x02010;like receptors have been implicated in sleep&#x02010;state changes (Isaac &#x00026; Berridge, <xref rid="ejn14665-bib-0024" ref-type="ref">2003</xref>; Luo et al., <xref rid="ejn14665-bib-0032" ref-type="ref">2018</xref>; Taylor et al., <xref rid="ejn14665-bib-0062" ref-type="ref">2016</xref>). We tested their potential role in the VTA&#x02010;evoked transition to LAF activity by stimulating the VTA before and after systemic administration of the D<sub>1</sub>&#x02010;like receptor antagonist SCH23390 or saline (Figure <xref rid="ejn14665-fig-0005" ref-type="fig">5</xref>). In animals injected with saline, there was no significant difference in the time spent in LAF activity evoked by three baseline stimulations and the three postsaline stimulations (Friedman's ANOVA, Figure <xref rid="ejn14665-fig-0005" ref-type="fig">5</xref>ai&#x02013;iii). However, in animals injected with a&#x000a0;low dose&#x000a0;of SCH23390, the time in LAF activity evoked by VTA stimulations after the drug administration was significantly reduced, compared with that evoked by stimulations before drug administration (Figure <xref rid="ejn14665-fig-0005" ref-type="fig">5</xref>bi&#x02013;iii). Thus, Friedman's ANOVA showed a significant effect of stimulation (<italic>p</italic>&#x000a0;=&#x000a0;.048), and post hoc analysis (Wilcoxon signed ranks test) showed significant differences between the pre&#x02010;drug stimulations and post&#x02010;drug stimulations: Base3 versus SCH(0.3)2,&#x000a0;(<italic>p</italic>&#x000a0;=&#x000a0;.043) and Base2 and Base3 versus SCH(0.3)3, (<italic>p</italic>&#x000a0;=&#x000a0;.043). The higher dose of SCH23390 (0.6&#x000a0;mg/kg) had an even more dramatic effect causing a rapid and almost complete blockade of the effect of VTA stimulation (Figure <xref rid="ejn14665-fig-0005" ref-type="fig">5</xref>ci&#x02010;iii). A Friedman ANOVA showed a significant effect of stimulation&#x000a0;(<italic>p</italic>&#x000a0;=&#x000a0;.001), and a&#x000a0;Wilcoxon signed rank test showed significant differences between the pre&#x02010;drug stimulations and all post&#x02010;drug stimulations: Base2 versus SCH(0.6)1,(<italic>p</italic>&#x000a0;=&#x000a0;.046) and Base3 versus SCH(0.6)1, (<italic>p</italic>&#x000a0;=&#x000a0;.028) and Base1&#x02010;3 versus SCH(0.6)2 and SCH(0.6)3, (<italic>p</italic>&#x000a0;=&#x000a0;.028 all comparisons). In order to account for possible changes that might occur due to repeated stimulations, or the passage of time, we also made comparisons between the Sal and SCH(0.3) groups and the Sal and SCH(0.6) group for all baseline and post&#x02010;injection time points. These analyses showed that there were no differences between groups in the baseline time points. While the differences between Sal and SCH(0.3) groups post&#x02010;injection failed to reach significance, the differences between Sal and SCH(0.6) groups were highly significant at all three post&#x02010;injection points (<italic>p</italic>&#x000a0;=&#x000a0;.016, <italic>p</italic>&#x000a0;=&#x000a0;.003 and <italic>p</italic>&#x000a0;=&#x000a0;.003 at post&#x02010;injection time points 1, 2 and 3, respectively).&#x000a0;Overall, therefore, these results demonstrate that dopamine D<sub>1</sub>&#x02010;like receptors are involved in mediating the VTA stimulation&#x02010;evoked transition to LAF activity.</p><fig fig-type="Figure" xml:lang="en" id="ejn14665-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>VTA stimulation&#x02010;evoked transition to&#x000a0;LAF activityis dependent on D1&#x02010;like receptor activity. (a&#x02013;c) Example local field potential recordings in the PrL cortex during SWA showing effects of VTA stimulation (50&#x000a0;Hz, 30&#x000a0;s, purple bar). (ai) Response to the third (Base3) of three baseline VTA stimulations given at 10&#x000a0;min intervals and (aii) the third VTA stimulation given at 10&#x000a0;min intervals following an i.p. injection of saline (Sal3). (aiii) Box plot shows the group data for the time in LAF activity (s) following all three baseline (Base1&#x02010;3) VTA stimulations and all three stimulations following an i.p. injection of saline (Sal1&#x02010;3). Systemic application of saline had no significant effects on the time in LAF activity. (bi) In a separate experiment response to the third baseline (Base3) of three baseline VTA stimulations given at 10&#x000a0;min intervals and (bii) the third VTA stimulation given at 10&#x000a0;min intervals following an i.p. injection of the D<sub>1</sub>&#x02010;like receptor antagonist SCH23390 at 0.3&#x000a0;mg/kg (SCH(0.3)3). (biii) Box plot shows the group data for the time in LAF activity (s) following all three baseline (Base1&#x02010;3) VTA stimulations and all three stimulations following an i.p. injection of SCH23390 (SCH1&#x02010;3). Systemic application of the D<sub>1</sub>&#x02010;like receptor antagonist SCH23390 at 0.3&#x000a0;mg/kg caused a significant reduction in the time in LAF activity 20 and 30&#x000a0;min post&#x02010;injection (SCH2 and SCH3). (ci) In a separate experiment, response to the third baseline (Base3) of three baseline VTA stimulations given at 10&#x000a0;min intervals and (cii) the third VTA stimulation given at 10&#x000a0;min intervals following an i.p. injection of SCH23390 at 0.6&#x000a0;mg/kg (SCH(0.6)3). (ciii) Box plot shows the group data for the time in LAF activity (s) following all three baseline (Base1&#x02010;3) VTA stimulations and all three stimulations following an i.p. injection of SCH23390 (SCH1&#x02010;3). Systemic application of the D<sub>1</sub>&#x02010;like receptor antagonist SCH23390 at 0.6&#x000a0;mg/kg caused a rapid and significant reduction in the time in LAF activity for all post&#x02010;injection stimulations (SCH1&#x02010;3). Key: c&#x000a0;=&#x000a0;different to Base3, b&#x000a0;=&#x000a0;different to Base2, a&#x000a0;=&#x000a0;different to Base1. For full statistical analysis see text [Colour figure can be viewed at <ext-link ext-link-type="uri" xlink:href="http://wileyonlinelibrary.com">wileyonlinelibrary.com</ext-link>]</p></caption><graphic id="nlm-graphic-11" xlink:href="EJN-52-2915-g005"/></fig></sec></sec><sec sec-type="discussion" id="ejn14665-sec-0020"><label>4</label><title>DISCUSSION</title><p>In this study, we showed that in rats under urethane anaesthesia, electrical stimulation of the VTA is sufficient to evoke a transition in the mPFC local field potential from non&#x02010;REM&#x02010;like slow oscillations of SWA to low&#x02010;amplitude fast (LAF) activity, similar to that seen in REM&#x02010;like sleep. The transition from SWA to LAF activity occurred simultaneously in all subregions of the mPFC, with no subregional&#x02010;dependent differences in the effects of electrical VTA stimulation. The local field potential transitions were associated with a change in the firing patterns of presumed pyramidal cells from phasic firing during SWA, with spikes restricted to the Up state, to a more continuous, tonic firing during the VTA stimulation&#x02010;evoked LAF activity. In both its spectral content, and in the associated firing pattern, the LAF activity evoked by VTA stimulation was very similar to the spontaneous LAF activity that occurs under urethane anaesthesia. The transition from SWA to LAF activity evoked by stimulation of the VTA was completely blocked by systemic administration of the dopamine D<sub>1</sub>&#x02010;like receptor antagonist SCH23390.</p><p>The majority (~60%) of VTA neurons which project to mPFC are dopaminergic, while the remainder are GABAergic and glutamatergic neurons (Gorelova, Mulholland, Chandler, &#x00026; Seamans, <xref rid="ejn14665-bib-0016" ref-type="ref">2012</xref>). Furthermore, some dopamine neurons also co&#x02010;release glutamate and GABA (Hnasko et al., <xref rid="ejn14665-bib-0021" ref-type="ref">2010</xref>; Trudeau et al., <xref rid="ejn14665-bib-0063" ref-type="ref">2014</xref>). Thus, the effect of the VTA stimulation&#x02010;evoked transition to LAF activity could potentially be mediated by dopamine, glutamate or GABA. A key finding of our study, however, was that the transition from SWA to REM&#x02010;like LAF activity, evoked by VTA stimulation, was blocked by the D<sub>1</sub>&#x02010;like receptor antagonist SCH23390. Thus, although our VTA stimulation did not activate a specific class of neurons, we can conclude that the observed effect on the local field potential in the mPFC was a consequence of dopamine release and dopamine receptor activation.</p><sec id="ejn14665-sec-0021"><label>4.1</label><title>VTA firing patterns</title><p>In vivo, VTA neurons fire either with a slow (~1&#x02013;5&#x000a0;Hz) tonic firing pattern, or with a phasic burst pattern with inter&#x02010;burst intervals up to 40&#x02013;50&#x000a0;Hz (Grace, <xref rid="ejn14665-bib-0017" ref-type="ref">1991</xref>). The frequencies of our VTA electrical stimulation conditions (25&#x02013;50&#x000a0;Hz) were, therefore, selected to reflect the known VTA neuron activity patterns that have been recorded in vivo. We found that we could evoke the switch from SWA to LAF activity with stimuli of 25 or 50&#x000a0;Hz, and with regular or burst type patterns. Thus, we suggest that the effect of our VTA stimulation on the local field potential, and unit spiking activity in the mPFC, was evoked by physiologically relevant firing patterns of VTA neurons. Both the rate and firing pattern of VTA neurons impacts extracellular levels of dopamine in the forebrain, with higher levels of dopamine occurring during the burst firing pattern (Floresco, West, Ash, Moore, &#x00026; Grace, <xref rid="ejn14665-bib-0015" ref-type="ref">2003</xref>). We would, therefore, predict that all our VTA stimulation conditions should lead to significant levels of dopamine release in the mPFC.</p></sec><sec id="ejn14665-sec-0022"><label>4.2</label><title>Dopamine in the mPFC</title><p>The mPFC is heavily innervated by dopamine fibres, and D<sub>1</sub>&#x02010;like receptors are found in high density in the mPFC on pyramidal cells in layers 2/3, 5 and 6 (Radnikow &#x00026; Feldmeyer, <xref rid="ejn14665-bib-0050" ref-type="ref">2018</xref>). Our data demonstrated a dose&#x02010;dependent block of the transition to LAF activity following blockade of the D<sub>1</sub>&#x02010;like receptor with SCH23390, suggesting a clear role for D<sub>1</sub>&#x02010;like receptors in mediating the transition from SWA to LAF activity. We found that the transition to LAF activity resulted in a change in unit firing from spikes associated predominantly only with the Up state to a more persistent firing pattern. In addition, during both spontaneous LAF and VTA&#x02010;evoked LAF activity, firing patterns were significantly more regular as indicated by the decrease in CV. These data suggest VTA activation has a profound effect on the firing properties of&#x000a0;mPFC pyramidal cells. Earlier intracellular recordings in the mPFC have demonstrated a role for the D<sub>1</sub>&#x02010;like receptors in modulating mPFC neuronal activity (Lewis &#x00026; O'Donnell; Lavin &#x00026; Grace, <xref rid="ejn14665-bib-0029" ref-type="ref">2001</xref>; Onn &#x00026; Wang, <xref rid="ejn14665-bib-0043" ref-type="ref">2005</xref>). Lewis and O'Donnell (2000) reported that short trains of VTA stimulation elicited long&#x02010;lasting transitions to the Up state, which were reduced in duration by pretreatment with the D<sub>1</sub>&#x02010;like&#x000a0;receptor antagonist SCH23390. Again, recording in the mPFC, Onn and Wang (<xref rid="ejn14665-bib-0043" ref-type="ref">2005</xref>) showed that brief (1&#x000a0;s) trains of high&#x02010;frequency VTA stimulation (10 &#x02013; 50&#x000a0;Hz) evoked sustained membrane depolarisations (Up states) which were attenuated by SCH23390. Furthermore, catecholamine depletion blocked the prolongation of the VTA stimulation&#x02010;evoked Up states, again suggesting dopamine in the mPFC, acting via D<sub>1</sub>&#x02010;like receptors, plays a key role in the persistence of Up states (Onn &#x00026; Wang, <xref rid="ejn14665-bib-0043" ref-type="ref">2005</xref>).</p><p>Onn and Wang (<xref rid="ejn14665-bib-0043" ref-type="ref">2005</xref>) also showed that the depolarisation of mPFC neurons lasted a few seconds longer than the brief VTA stimulation. Thus, the slow return to SWA after VTA stimulation, that we observed in some cases, might reflect a similar prolonged depolarisation of mPFC neurons. Consistent with a prolonged effect of dopamine, Iwashita (<xref rid="ejn14665-bib-0026" ref-type="ref">2014</xref>) showed that brief, phasic high&#x02010;frequency (40&#x02013;50&#x000a0;Hz) stimulation of&#x000a0;the VTA in awake mice evoked a long&#x02010;lasting Ca<sup>2+</sup> transient recorded in mPFC that persisted for 20&#x02013;30&#x000a0;s. The long&#x02010;lasting Ca<sup>2+</sup> transient was reduced approximately 50% by systemic application of the dopamine D<sub>1</sub>&#x02010;like antagonist SCH23390, but was not affected by the dopamine D<sub>2</sub> antagonist eticlopride (Iwashita, <xref rid="ejn14665-bib-0026" ref-type="ref">2014</xref>). Interestingly, this Ca<sup>2+</sup> transient peaked 6 &#x02013; 7&#x000a0;s after the onset of stimulation, suggesting there is a delay to peak effect. This is consistent with the delay to the transition to LAF activity we saw with some stimulation parameters. In summary, these studies are consistent with our findings that VTA stimulation abolished the slow oscillations and evoked a transition to LAF activity&#x000a0;dependent on&#x000a0;D<sub>1</sub>&#x02010;like receptors,&#x000a0;despite electrical stimulation exciting both DA and non&#x02010;DA neurons in the VTA.</p></sec><sec id="ejn14665-sec-0023"><label>4.3</label><title>The role of the VTA and dopamine in sleep&#x02010;state transitions</title><p>During natural sleep, in both humans and rats, non&#x02010;REM sleep is characterised by SWA predominating in the local field potential or EEG, with fast (&#x0003e;15&#x000a0;Hz) network oscillations concentrated on the Up state and much less activity on the Down state. In contrast, during REM sleep, oscillations in the neocortex are more like the awake state with continuous activity in the theta (4&#x02013;12&#x000a0;Hz), beta (15&#x02013;30&#x000a0;Hz) and gamma (30&#x02013;80&#x000a0;Hz) frequency bands. REM&#x02010;like sleep states, where activity also consists of predominantly low&#x02010;amplitude&#x02010;faster activity, can also be recorded under urethane anaesthesia (Clement et al., <xref rid="ejn14665-bib-0009" ref-type="ref">2008</xref>; Fenik et al., <xref rid="ejn14665-bib-0014" ref-type="ref">2012</xref>; Rukhadze et al., <xref rid="ejn14665-bib-0053" ref-type="ref">2008</xref>; Sakata &#x00026; Harris, <xref rid="ejn14665-bib-0054" ref-type="ref">2012</xref>). Our findings suggest that electrical stimulation of the VTA induces a more activated state, with low&#x02010;amplitude&#x02010;faster oscillations, that are similar in spectral content to both the spontaneous alternations seen under urethane anaesthesia and natural REM sleep. Although, it is currently unclear whether the VTA&#x02010;evoked LAF, and the spontaneous transitions, share similar mechanisms (Clement et al., <xref rid="ejn14665-bib-0009" ref-type="ref">2008</xref>; Rukhadze et al., <xref rid="ejn14665-bib-0053" ref-type="ref">2008</xref>; Fenik et al., <xref rid="ejn14665-bib-0014" ref-type="ref">2012</xref>; Sakata &#x00026; Harris, <xref rid="ejn14665-bib-0054" ref-type="ref">2012</xref>).</p><p>Interestingly, in studies in unanaesthetised rats, Dahan et al. (<xref rid="ejn14665-bib-0010" ref-type="ref">2007</xref>) showed that VTA neurons fired slowly during non&#x02010;REM sleep states but exhibited sustained (~30&#x000a0;s) burst firing patterns during REM sleep. More recently, recordings from dopamine&#x02010;containing VTA neurons showed larger Ca<sup>2+</sup> transients during REM sleep than either awake or non&#x02010;REM sleep (Eban&#x02010;Rothschild et al., <xref rid="ejn14665-bib-0013" ref-type="ref">2016</xref>). In addition to the increased burst firing of VTA neurons, dopamine concentrations in the mPFC have also been shown to be higher during REM sleep, than non&#x02010;REM sleep (Lena et al., <xref rid="ejn14665-bib-0030" ref-type="ref">2005</xref>). Furthermore, electrical stimulation (30&#x000a0;s) of the VTA evoked theta oscillatory activity in the hippocampus, a characteristic of the REM&#x02010;like sleep state (Orzel&#x02010;Gryglewska, Kusmierczak, Majkutewicz, &#x00026; Jurkowlaniec, <xref rid="ejn14665-bib-0044" ref-type="ref">2012</xref>). Our data showing the delay to the onset of LAF activity after VTA stimulation is&#x000a0;also consistent with the observation that VTA neuron burst firing started 10&#x02013;20&#x000a0;s before the onset of the REM&#x02010;like sleep state (Dahan et al., <xref rid="ejn14665-bib-0010" ref-type="ref">2007</xref>). It is, therefore, possible that the dopamine concentration must reach a threshold level before a transition to REM&#x02010;like activity can occur. These findings, taken together with the present data, suggest that VTA stimulation at specific frequencies releases a sufficient concentration of dopamine to switch neurons from non&#x02010;REM to REM&#x02010;like activity in the mPFC.</p><p>Although it has long been known that stimulants that increase dopamine levels are potent wake&#x02010;promoting drugs (Boutrel &#x00026; Koob, <xref rid="ejn14665-bib-0004" ref-type="ref">2004</xref>), the role of dopamine in sleep regulation remains controversial (Monti &#x00026; Monti, <xref rid="ejn14665-bib-0038" ref-type="ref">2007</xref> for review). Intracerebroventricular infusion of a selective D<sub>1</sub>&#x02010;like agonist has been shown to increase the time awake (Isac &#x00026; Berridge, <xref rid="ejn14665-bib-0024" ref-type="ref">2003</xref>).&#x000a0;With regard to SWA to REM&#x02010;like sleep&#x02010;state transitions, SCH23390 has previously been shown to increase slow wave sleep and decrease REM sleep (Monti, Fernandez, &#x00026; Jantos, <xref rid="ejn14665-bib-0037" ref-type="ref">1990</xref>), while mice in a hyperdopaminergic state, due to knock&#x02010;out of the dopamine transporter, exhibited an increase in REM sleep (Dzirasa et al., <xref rid="ejn14665-bib-0012" ref-type="ref">2006</xref>). Furthermore, these authors found that dopamine depletion led to an increase in slow wave sleep, although these effects were mediated by D<sub>2</sub> receptors not D<sub>1</sub>&#x02010;like receptors.</p><p>Several recent studies have led to a further reassessment of the role of dopamine in both sleep&#x02010;state transitions and sleep&#x02013;wake transitions. Taylor et al. (<xref rid="ejn14665-bib-0062" ref-type="ref">2016</xref>) showed that optogenetic stimulation of VTA dopamineergic neurons was sufficient to restore consciousness to isoflurane anaesthetised mice and this arousal was blocked by systemic injection of the dopamine D<sub>1</sub>&#x02010;like antagonist SCH23390. Excitation of VTA neurons using chemogenetic control with DREADDs greatly increased the time mice spent awake (Oishi et al., <xref rid="ejn14665-bib-0042" ref-type="ref">2017</xref>). However, in the Oishi et al.&#x000a0;(<xref rid="ejn14665-bib-0042" ref-type="ref">2017</xref>)&#x000a0;study, the increase in wakefulness was found to depend upon activation of D<sub>2</sub> receptors as systemic injection of the D<sub>2</sub> antagonist raclopride completely blocked the wake&#x02010;promoting effects, while the D<sub>1</sub>&#x02010;like antagonist SCH23390 only slightly attenuated the effect (although importantly SCH23390 was used at a lower concentration than this study). Thus, there is clear evidence that dopamine does play a role in sleep and arousal, although the relative contribution of D<sub>1</sub>&#x02010;like or D<sub>2</sub>&#x000a0;receptor subtypes varies between studies.</p></sec><sec id="ejn14665-sec-0024"><label>4.4</label><title>Non&#x02010;dopaminergic control of sleep&#x02010;state transitions</title><p>We cannot exclude the possibility that either glutamatergic or GABAergic neurons may also have played a role in the transition to LAF we have observed with VTA stimulation. Onn and Wang (<xref rid="ejn14665-bib-0043" ref-type="ref">2005</xref>) recorded long latency excitatory post&#x02010;synaptic potentials in PFC following VTA stimulation that could reflect glutamate co&#x02010;released from dopamine neurons in the VTA (Rayport, <xref rid="ejn14665-bib-0051" ref-type="ref">2001</xref>; Chuhma et al., <xref rid="ejn14665-bib-0008" ref-type="ref">2004</xref>). More recently, Yu et al. (<xref rid="ejn14665-bib-0066" ref-type="ref">2019</xref>) have shown that both glutamatergic and GABAergic neurons in the VTA promoted wakefulness which persisted after systemic injection of the D<sub>1</sub>&#x02010;like antagonist SCH23303. Overall, these data suggest that multiple neurotransmitter systems from the VTA may each play a role in sleep&#x02010;state or sleep&#x02013;wake transitions. The situation is further complicated given that both direct and indirect pathways from the VTA could be activated.</p></sec><sec id="ejn14665-sec-0025"><label>4.5</label><title>Limitations of the current study</title><p>Although our data demonstrated a clear blockade of the VTA stimulation&#x02010;evoked transition to LAF activity following systemic application of the dopamine D<sub>1</sub>&#x02010;like receptor antagonist, we cannot rule out the possibility that complex multi&#x02010;synaptic connections contributed to this effect. VTA neurons project to multiple forebrain structures in addition to the mPFC (Ikemoto, <xref rid="ejn14665-bib-0023" ref-type="ref">2007</xref>; Oades &#x00026; Halliday, <xref rid="ejn14665-bib-0040" ref-type="ref">1987</xref>). Intermediate structures such as the nucleus accumbens (NAc) or central nucleus of the amygdala (CeA), which project to the mPFC (Ikemoto, <xref rid="ejn14665-bib-0023" ref-type="ref">2007</xref>; Oades &#x00026; Halliday, <xref rid="ejn14665-bib-0040" ref-type="ref">1987</xref>), could also play a role. Local infusion of the D<sub>1</sub>&#x02010;like antagonist into the PFC during VTA stimulation would confirm the role of&#x000a0;D<sub>1</sub>&#x02010;like receptors in the mPFC in mediating the transition to LAF activity&#x000a0;evoked by VTA stimulation. Furthermore, VTA stimulation could have antidromically activated brain regions that project&#x000a0;both to, and through, the VTA&#x000a0;and&#x000a0;(directly or indirectly) to the mPFC. Whether the transition to LAF activity we observed is due to direct or indirect activation will be important to ascertain in the future as another recent study suggested that selective optogenetic stimulation of the VTA&#x02010;mPFC projection did not significantly alter non&#x02010;REM sleep duration (Eban&#x02010;Rothschild et al., <xref rid="ejn14665-bib-0013" ref-type="ref">2016</xref>). The latter study proposed that the NAc projections played the most significant role in promoting wakefulness. However, it is possible that the pathways, neurotransmitters and receptor subtypes, involved in sleep&#x02010;state transitions may differ from those involved in sleep&#x02013;wake transitions.</p><p>The VTA is also not the only midbrain region whose activation is able to evoke a transition to an LAF pattern of activity (reviewed in Jones, <xref rid="ejn14665-bib-0027" ref-type="ref">2020</xref>). Stimulation of other brainstem structures, such as the pedunculopontine nucleus (Valencia, Artieda, Bolam, &#x00026; Mena&#x02010;Segovia, <xref rid="ejn14665-bib-0064" ref-type="ref">2013</xref>), cholinergic brainstem structures (Clement et al., <xref rid="ejn14665-bib-0009" ref-type="ref">2008</xref>), and nucleus pontis oralis (Takataet al., <xref rid="ejn14665-bib-0061" ref-type="ref">2018</xref>), have all been shown to evoke a sleep&#x02010;state transition to a more activated state. These data all indicate that&#x000a0;multiple pathways, neurotransmitters and receptor subtypes, contribute to both the&#x000a0;sleep&#x02010;state and sleep&#x02013;wake transitions. Future studies targeting specific neuronal populations using optogenetics would help elucidate which neuronal population, and brain regions, were responsible for the transition to LAF evoked VTA by stimulation.</p><p>In addition, slow oscillations propagate and spread along the cortex&#x000a0;as travelling waves in both humans (Massimini, Huber, Ferrarelli, Hill, &#x00026; Tononi, <xref rid="ejn14665-bib-0034" ref-type="ref">2004</xref>) and rodents (Ruiz&#x02010;Mejias et al., <xref rid="ejn14665-bib-0052" ref-type="ref">2011</xref>). Therefore, it is highly likely that the VTA&#x02010;evoked transition to LAF could spread to cortical areas beyond the mPFC. However, future studies using multi&#x02010;site recordings across the cortex are needed to elucidate how the VTA stimulation&#x02010;evoked changes we observed in the mPFC affect other cortical areas, and whether dopamine D<sub>1</sub>&#x02010;like receptors also play a role in sleep&#x02010;state transitions in other cortical areas.</p></sec><sec id="ejn14665-sec-0026"><label>4.6</label><title>Future directions</title><p>The role of DA in sleep&#x02010;state and sleep&#x02013;wake transitions has been re&#x02010;evaluated in recent years with several detailed studies, including those using optogenetic and DREADD chemogenetic approaches, demonstrating a role clear for dopamine. Many neuropsychiatric and neurodegenerative conditions are associated with changes in dopamine including schizophrenia (Grace, <xref rid="ejn14665-bib-0018" ref-type="ref">2016</xref>) and Parkinson's disease (Michel, Hirsch, &#x00026; Hunot, <xref rid="ejn14665-bib-0035" ref-type="ref">2016</xref>). Both these conditions are also linked to abnormalities in the sleep&#x02013;wake cycle (Amara, Chahine, &#x00026; Videnovic, <xref rid="ejn14665-bib-0001" ref-type="ref">2017</xref>; Monti et al., <xref rid="ejn14665-bib-0036" ref-type="ref">2013</xref>). In fact, changes in the sleep&#x02013;wake cycle may be central to the cognitive deficits associated with these conditions, especially in Parkinson's disease which is caused by a degenerative loss of dopamine neurons in the VTA and substantia nigra (see Michel et al., <xref rid="ejn14665-bib-0035" ref-type="ref">2016</xref> for review) and in which sleep changes occur decades before the onset of other clinical symptoms (Amara et al., <xref rid="ejn14665-bib-0001" ref-type="ref">2017</xref>; Chahine, Amara, &#x00026; Videnovic, <xref rid="ejn14665-bib-0006" ref-type="ref">2017</xref>). A better understanding of the role of dopamine in sleep&#x02010;state and sleep&#x02013;wake transitions will provide important insights into the sleep and memory disturbances associated with a wide range of neuropsychiatric and neurodegenerative diseases.</p></sec></sec><sec sec-type="COI-statement" id="ejn14665-sec-0028"><title>CONFLICT OF INTEREST</title><p>The authors have no conflicts of interest, financial or otherwise, to declare.</p></sec><sec id="ejn14665-sec-0029"><title>AUTHOR CONTRIBUTIONS</title><p>SG performed experiments; SG, SEG, BO and MS prepared analysis scripts and analysed data; SG, BO and SEG prepared figures; SG, AR, SEG, BO and FENL edited and revised manuscript; SG, AR, SEG and FENL approved final version of manuscript; AR, SEG, SG and FENL interpreted results of experiments; SEG and FENL drafted manuscript.</p></sec></body><back><ack id="ejn14665-sec-0027"><title>ACKNOWLEDGEMENTS</title><p>SG was funded by a Wellcome Trust PhD studentship to (FENL, SEG and AR) (092994/2/10/2). MS was funded by an Alzheimer's Society PhD studentship to FENL.</p></ack><sec sec-type="data-availability" id="ejn14665-sec-0031"><title>DATA AVAILABILITY STATEMENT</title><p>All original data will be made available upon reasonable request.</p></sec><ref-list content-type="cited-references" id="ejn14665-bibl-0001"><title>REFERENCES</title><ref id="ejn14665-bib-0001"><mixed-citation publication-type="journal" id="ejn14665-cit-0001">
+<string-name>
+<surname>Amara</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name>
+<surname>Chahine</surname>, <given-names>L. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Videnovic</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Treatment of sleep dysfunction in Parkinson's disease</article-title>. <source xml:lang="en">Current Treatment Options in Neurology</source>, <volume>19</volume>, <fpage>26</fpage>
+<pub-id pub-id-type="doi">10.1007/s11940-017-0461-6</pub-id>
+<pub-id pub-id-type="pmid">28567500</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0002"><mixed-citation publication-type="journal" id="ejn14665-cit-0002">
+<string-name>
+<surname>Bartho</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Slezia</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Matyas</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Faradzs&#x02010;Zade</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Ulbert</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>K. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Acsady</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>). <article-title>Ongoing network state controls the length of sleep spindles via inhibitory activity</article-title>. <source xml:lang="en">Neuron</source>, <volume>82</volume>, <fpage>1367</fpage>&#x02013;<lpage>1379</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2014.04.046</pub-id>
+<pub-id pub-id-type="pmid">24945776</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0003"><mixed-citation publication-type="journal" id="ejn14665-cit-0003">
+<string-name>
+<surname>Beltramo</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>D'Urso</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Dal Maschio</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Farisello</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Bovetti</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Clovis</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Fellin</surname>, <given-names>T.</given-names>
+</string-name> (<year>2013</year>). <article-title>Layer&#x02010;specific excitatory circuits differentially control recurrent network dynamics in the neocortex</article-title>. <source xml:lang="en">Nature Neuroscience</source>, <volume>16</volume>, <fpage>227</fpage>&#x02013;<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1038/nn.3306</pub-id>
+<pub-id pub-id-type="pmid">23313909</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0004"><mixed-citation publication-type="journal" id="ejn14665-cit-0004">
+<string-name>
+<surname>Boutrel</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koob</surname>, <given-names>G. F.</given-names>
+</string-name> (<year>2004</year>). <article-title>What keeps us awake: The neuropharmacology of stimulants and wakefulness&#x02010;promoting medications</article-title>. <source xml:lang="en">Sleep</source>, <volume>27</volume>, <fpage>1181</fpage>&#x02013;<lpage>1194</lpage>. <pub-id pub-id-type="doi">10.1093/sleep/27.6.1181</pub-id>
+<pub-id pub-id-type="pmid">15532213</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0005"><mixed-citation publication-type="journal" id="ejn14665-cit-0005">
+<string-name>
+<surname>Brown</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Basheer</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>McKenna</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name>
+<surname>Strecker</surname>, <given-names>R. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McCarley</surname>, <given-names>R. W.</given-names>
+</string-name> (<year>2012</year>). <article-title>Control of sleep and wakefulness</article-title>. <source xml:lang="en">Physiological Reviews</source>, <volume>92</volume>, <fpage>1087</fpage>&#x02013;<lpage>1187</lpage>. <pub-id pub-id-type="doi">10.1152/physrev.00032.2011</pub-id>
+<pub-id pub-id-type="pmid">22811426</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0006"><mixed-citation publication-type="journal" id="ejn14665-cit-0006">
+<string-name>
+<surname>Chahine</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Amara</surname>, <given-names>A. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Videnovic</surname>, <given-names>A.</given-names>
+</string-name> (<year>2017</year>). <article-title>A systematic review of the literature on disorders of sleep and wakefulness in Parkinson's disease from 2005 to 2015</article-title>. <source xml:lang="en">Sleep Medicine Reviews</source>, <volume>35</volume>, <fpage>33</fpage>&#x02013;<lpage>50</lpage>. <pub-id pub-id-type="doi">10.1016/j.smrv.2016.08.001</pub-id>
+<pub-id pub-id-type="pmid">27863901</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0007"><mixed-citation publication-type="journal" id="ejn14665-cit-0007">
+<string-name>
+<surname>Chauvette</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Volgushev</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Timofeev</surname>, <given-names>I.</given-names>
+</string-name> (<year>2010</year>). <article-title>Origin of active states in local neocortical networks during slow sleep oscillation</article-title>. <source xml:lang="en">Cerebral Cortex</source>, <volume>20</volume>, <fpage>2660</fpage>&#x02013;<lpage>2674</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/bhq009</pub-id>
+<pub-id pub-id-type="pmid">20200108</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0008"><mixed-citation publication-type="journal" id="ejn14665-cit-0008">
+<string-name>
+<surname>Chuhma</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Masson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Zhuang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Sulzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Hen</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rayport</surname>, <given-names>S.</given-names>
+</string-name> (<year>2004</year>). <article-title>Dopamine neurons mediate a fast excitatory signal via their glutamatergic synapses</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>24</volume>, <fpage>972</fpage>&#x02013;<lpage>981</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4317-03.2004</pub-id>
+<pub-id pub-id-type="pmid">14749442</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0009"><mixed-citation publication-type="journal" id="ejn14665-cit-0009">
+<string-name>
+<surname>Clement</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<surname>Richard</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Thwaites</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ailon</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dickson</surname>, <given-names>C. T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Cyclic and sleep&#x02010;like spontaneous alternations of brain state under urethane anaesthesia</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>3</volume>, <elocation-id>e2004</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0002004</pub-id>
+<pub-id pub-id-type="pmid">18414674</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0010"><mixed-citation publication-type="journal" id="ejn14665-cit-0010">
+<string-name>
+<surname>Dahan</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Astier</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Vautrelle</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Urbain</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Kocsis</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chouvet</surname>, <given-names>G.</given-names>
+</string-name> (<year>2007</year>). <article-title>Prominent burst firing of dopaminergic neurons in the ventral tegmental area during paradoxical sleep</article-title>. <source xml:lang="en">Neuropsychopharmacology</source>, <volume>32</volume>, <fpage>1232</fpage>&#x02013;<lpage>1241</lpage>. <pub-id pub-id-type="doi">10.1038/sj.npp.1301251</pub-id>
+<pub-id pub-id-type="pmid">17151599</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0011"><mixed-citation publication-type="journal" id="ejn14665-cit-0011">
+<string-name>
+<surname>Destexhe</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Contreras</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Steriade</surname>, <given-names>M.</given-names>
+</string-name> (<year>1999</year>). <article-title>Spatiotemporal analysis of local field potentials and unit discharges in cat cerebral cortex during natural wake and sleep states</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>19</volume>, <fpage>4595</fpage>&#x02013;<lpage>4608</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.19-11-04595.1999</pub-id>
+<pub-id pub-id-type="pmid">10341257</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0012"><mixed-citation publication-type="journal" id="ejn14665-cit-0012">
+<string-name>
+<surname>Dzirasa</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Ribeiro</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Costa</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Santos</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Grosmark</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Nicolelis</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Dopaminergic control of sleep&#x02010;wake states</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>26</volume>, <fpage>10577</fpage>&#x02013;<lpage>10589</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1767-06.2006</pub-id>
+<pub-id pub-id-type="pmid">17035544</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0013"><mixed-citation publication-type="journal" id="ejn14665-cit-0013">
+<string-name>
+<surname>Eban&#x02010;Rothschild</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Rothschild</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Giardino</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>de Lecea</surname>, <given-names>L.</given-names>
+</string-name> (<year>2016</year>). <article-title>VTA dopaminergic neurons regulate ethologically relevant sleep&#x02010;wake behaviors</article-title>. <source xml:lang="en">Nature Neuroscience</source>, <volume>19</volume>, <fpage>1356</fpage>&#x02013;<lpage>1366</lpage>. <pub-id pub-id-type="doi">10.1038/nn.4377</pub-id>
+<pub-id pub-id-type="pmid">27595385</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0014"><mixed-citation publication-type="journal" id="ejn14665-cit-0014">
+<string-name>
+<surname>Fenik</surname>, <given-names>V. B.</given-names>
+</string-name>, <string-name>
+<surname>Marchenko</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>, <given-names>R. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kubin</surname>, <given-names>L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Inhibition of A5 neurons facilitates the occurrence of REM sleep&#x02010;Like episodes in urethane&#x02010;anesthetized rats: A new role for noradrenergic A5 neurons?</article-title>
+<source xml:lang="en">Frontiers in Neurology</source>, <volume>3</volume>, <fpage>119</fpage>
+<pub-id pub-id-type="doi">10.3389/fneur.2012.00119</pub-id>
+<pub-id pub-id-type="pmid">22855683</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0015"><mixed-citation publication-type="journal" id="ejn14665-cit-0015">
+<string-name>
+<surname>Floresco</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<surname>West</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Ash</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Moore</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Grace</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2003</year>). <article-title>Afferent modulation of dopamine neuron firing differentially regulates tonic and phasic dopamine transmission</article-title>. <source xml:lang="en">Nature Neuroscience</source>, <volume>6</volume>, <fpage>968</fpage>&#x02013;<lpage>973</lpage>. <pub-id pub-id-type="doi">10.1038/nn1103</pub-id>
+<pub-id pub-id-type="pmid">12897785</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0016"><mixed-citation publication-type="journal" id="ejn14665-cit-0016">
+<string-name>
+<surname>Gorelova</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Mulholland</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Chandler</surname>, <given-names>L. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Seamans</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2012</year>). <article-title>The glutamatergic component of the mesocortical pathway emanating from different subregions of the ventral midbrain</article-title>. <source xml:lang="en">Cerebral Cortex</source>, <volume>22</volume>, <fpage>327</fpage>&#x02013;<lpage>336</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/bhr107</pub-id>
+<pub-id pub-id-type="pmid">21666135</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0017"><mixed-citation publication-type="journal" id="ejn14665-cit-0017">
+<string-name>
+<surname>Grace</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>1991</year>). <article-title>Phasic versus tonic dopamine release and the modulation of dopamine system responsivity: A hypothesis for the etiology of schizophrenia</article-title>. <source xml:lang="en">Neuroscience</source>, <volume>41</volume>, <fpage>1</fpage>&#x02013;<lpage>24</lpage>. <pub-id pub-id-type="doi">10.1016/0306-4522(91)90196-U</pub-id>
+<pub-id pub-id-type="pmid">1676137</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0018"><mixed-citation publication-type="journal" id="ejn14665-cit-0018">
+<string-name>
+<surname>Grace</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2016</year>). <article-title>Dysregulation of the dopamine system in the pathophysiology of schizophrenia and depression</article-title>. <source xml:lang="en">Nature Reviews Neuroscience</source>, <volume>17</volume>, <fpage>524</fpage>&#x02013;<lpage>532</lpage>. <pub-id pub-id-type="doi">10.1038/nrn.2016.57</pub-id>
+<pub-id pub-id-type="pmid">27256556</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0019"><mixed-citation publication-type="journal" id="ejn14665-cit-0019">
+<string-name>
+<surname>Gretenkord</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Rees</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Whittington</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Gartside</surname>, <given-names>S. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>LeBeau</surname>, <given-names>F. E.</given-names>
+</string-name> (<year>2017</year>). <article-title>Dorsal vs. ventral differences in fast Up&#x02010;state&#x02010;associated oscillations in the medial prefrontal cortex of the urethane&#x02010;anesthetized rat</article-title>. <source xml:lang="en">Journal of Neurophysiology</source>, <volume>117</volume>, <fpage>1126</fpage>&#x02013;<lpage>1142</lpage>. <pub-id pub-id-type="doi">10.1152/jn.00762.2016</pub-id>
+<pub-id pub-id-type="pmid">28003411</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0020"><mixed-citation publication-type="journal" id="ejn14665-cit-0020">
+<string-name>
+<surname>Heidbreder</surname>, <given-names>C. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Groenewegen</surname>, <given-names>H. J.</given-names>
+</string-name> (<year>2003</year>). <article-title>The medial prefrontal cortex in the rat: Evidence for a dorso&#x02010;ventral distinction based upon functional and anatomical characteristics</article-title>. <source xml:lang="en">Neuroscience and Biobehavioral Reviews</source>, <volume>27</volume>, <fpage>555</fpage>&#x02013;<lpage>579</lpage>. <pub-id pub-id-type="doi">10.1016/j.neubiorev.2003.09.003</pub-id>
+<pub-id pub-id-type="pmid">14599436</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0021"><mixed-citation publication-type="journal" id="ejn14665-cit-0021">
+<string-name>
+<surname>Hnasko</surname>, <given-names>T. S.</given-names>
+</string-name>, <string-name>
+<surname>Chuhma</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Goh</surname>, <given-names>G. Y.</given-names>
+</string-name>, <string-name>
+<surname>Sulzer</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Palmiter</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Edwards</surname>, <given-names>R. H.</given-names>
+</string-name> (<year>2010</year>). <article-title>Vesicular glutamate transport promotes dopamine storage and glutamate corelease in vivo</article-title>. <source xml:lang="en">Neuron</source>, <volume>65</volume>, <fpage>643</fpage>&#x02013;<lpage>656</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2010.02.012</pub-id>
+<pub-id pub-id-type="pmid">20223200</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0022"><mixed-citation publication-type="journal" id="ejn14665-cit-0022">
+<string-name>
+<surname>Hobson</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pace&#x02010;Schott</surname>, <given-names>E. F.</given-names>
+</string-name> (<year>2002</year>). <article-title>The cognitive neuroscience of sleep: Neuronal systems, consciousness and learning</article-title>. <source xml:lang="en">Nature Reviews Neuroscience</source>, <volume>3</volume>, <fpage>679</fpage>&#x02013;<lpage>693</lpage>. <pub-id pub-id-type="doi">10.1038/nrn915</pub-id>
+<pub-id pub-id-type="pmid">12209117</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0023"><mixed-citation publication-type="journal" id="ejn14665-cit-0023">
+<string-name>
+<surname>Ikemoto</surname>, <given-names>S.</given-names>
+</string-name> (<year>2007</year>). <article-title>Dopamine reward circuitry: Two projection systems from the ventral midbrain to the nucleus accumbens&#x02010;olfactory tubercle complex</article-title>. <source xml:lang="en">Brain Research Reviews</source>, <volume>56</volume>, <fpage>27</fpage>&#x02013;<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1016/j.brainresrev.2007.05.004</pub-id>
+<pub-id pub-id-type="pmid">17574681</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0024"><mixed-citation publication-type="journal" id="ejn14665-cit-0024">
+<string-name>
+<surname>Isaac</surname>, <given-names>S. O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Berridge</surname>, <given-names>C. W.</given-names>
+</string-name> (<year>2003</year>). <article-title>Wake&#x02010;promoting actions of dopamine D1 and D2 receptor stimulation</article-title>. <source xml:lang="en">Journal of Pharmacology and Experimental Therapeutics</source>, <volume>307</volume>, <fpage>386</fpage>&#x02013;<lpage>394</lpage>. <pub-id pub-id-type="doi">10.1124/jpet.103.053918</pub-id>
+<pub-id pub-id-type="pmid">12944496</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0025"><mixed-citation publication-type="journal" id="ejn14665-cit-0025">
+<string-name>
+<surname>Isomura</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Sirota</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Ozen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Montgomery</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mizuseki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Henze</surname>, <given-names>D. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Buzsaki</surname>, <given-names>G.</given-names>
+</string-name> (<year>2006</year>). <article-title>Integration and segregation of activity in entorhinal&#x02010;hippocampal subregions by neocortical slow oscillations</article-title>. <source xml:lang="en">Neuron</source>, <volume>52</volume>, <fpage>871</fpage>&#x02013;<lpage>882</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuron.2006.10.023</pub-id>
+<pub-id pub-id-type="pmid">17145507</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0026"><mixed-citation publication-type="journal" id="ejn14665-cit-0026">
+<string-name>
+<surname>Iwashita</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>). <article-title>Phasic activation of ventral tegmental neurons increases response and pattern similarity in prefrontal cortex neurons</article-title>. <source xml:lang="en">eLife</source>, <volume>3</volume>, <pub-id pub-id-type="doi">10.7554/eLife.02726</pub-id>
+</mixed-citation></ref><ref id="ejn14665-bib-0027"><mixed-citation publication-type="journal" id="ejn14665-cit-0027">
+<string-name>
+<surname>Jones</surname>, <given-names>B. E.</given-names>
+</string-name> (<year>2020</year>). <article-title>Arousal and sleep circuits</article-title>. <source xml:lang="en">Neuropsychopharmacology</source>, <volume>45</volume>, <fpage>6</fpage>&#x02013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1038/s41386-019-0444-2</pub-id>
+<pub-id pub-id-type="pmid">31216564</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0028"><mixed-citation publication-type="journal" id="ejn14665-cit-0028">
+<string-name>
+<surname>Kesner</surname>, <given-names>R. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Churchwell</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2011</year>). <article-title>An analysis of rat prefrontal cortex in mediating executive function</article-title>. <source xml:lang="en">Neurobiology of Learning and Memory</source>, <volume>96</volume>, <fpage>417</fpage>&#x02013;<lpage>431</lpage>. <pub-id pub-id-type="doi">10.1016/j.nlm.2011.07.002</pub-id>
+<pub-id pub-id-type="pmid">21855643</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0029"><mixed-citation publication-type="journal" id="ejn14665-cit-0029">
+<string-name>
+<surname>Lavin</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Grace</surname>, <given-names>A. A.</given-names>
+</string-name> (<year>2001</year>). <article-title>Stimulation of D1&#x02010;type dopamine receptors enhances excitability in prefrontal cortical pyramidal neurons in a state&#x02010;dependent manner</article-title>. <source xml:lang="en">Neuroscience</source>, <volume>104</volume>, <fpage>335</fpage>&#x02013;<lpage>346</lpage>. <pub-id pub-id-type="doi">10.1016/S0306-4522(01)00096-3</pub-id>
+<pub-id pub-id-type="pmid">11377838</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0030"><mixed-citation publication-type="journal" id="ejn14665-cit-0030">
+<string-name>
+<surname>Lena</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Parrot</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Deschaux</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Muffat&#x02010;Joly</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sauvinet</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Renaud</surname>, <given-names>B.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Gottesmann</surname>, <given-names>C.</given-names>
+</string-name> (<year>2005</year>). <article-title>Variations in extracellular levels of dopamine, noradrenaline, glutamate, and aspartate across the sleep&#x02013;wake cycle in the medial prefrontal cortex and nucleus accumbens of freely moving rats</article-title>. <source xml:lang="en">Journal of Neuroscience Research</source>, <volume>81</volume>, <fpage>891</fpage>&#x02013;<lpage>899</lpage>. <pub-id pub-id-type="doi">10.1002/jnr.20602</pub-id>
+<pub-id pub-id-type="pmid">16041801</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0031"><mixed-citation publication-type="journal" id="ejn14665-cit-0031">
+<string-name>
+<surname>Lewis</surname>, <given-names>B. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>O'Donnell</surname>, <given-names>P.</given-names>
+</string-name> (<year>2000</year>). <article-title>Ventral tegmental area afferents to the prefrontal cortex maintain membrane potential 'up' states in pyramidal neurons via D(1) dopamine receptors</article-title>. <source xml:lang="en">Cerebral Cortex</source>, <volume>10</volume>, <fpage>1168</fpage>&#x02013;<lpage>1175</lpage>. <pub-id pub-id-type="doi">10.1093/cercor/10.12.1168</pub-id>
+<pub-id pub-id-type="pmid">11073866</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0032"><mixed-citation publication-type="journal" id="ejn14665-cit-0032">
+<string-name>
+<surname>Luo</surname>, <given-names>Y. J.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y. D.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>, <given-names>X. S.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Huang</surname>, <given-names>Z. L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Nucleus accumbens controls wakefulness by a subpopulation of neurons expressing dopamine D1 receptors</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>9</volume>, <fpage>1576</fpage>
+<pub-id pub-id-type="doi">10.1038/s41467-018-03889-3</pub-id>
+</mixed-citation></ref><ref id="ejn14665-bib-0033"><mixed-citation publication-type="journal" id="ejn14665-cit-0033">
+<string-name>
+<surname>Massi</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lagler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hartwich</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Borhegyi</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Somogyi</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Klausberger</surname>, <given-names>T.</given-names>
+</string-name> (<year>2012</year>). <article-title>Temporal dynamics of parvalbumin&#x02010;expressing axo&#x02010;axonic and basket cells in the rat medial prefrontal cortex in vivo</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>32</volume>, <fpage>16496</fpage>&#x02013;<lpage>16502</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.3475-12.2012</pub-id>
+<pub-id pub-id-type="pmid">23152631</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0034"><mixed-citation publication-type="journal" id="ejn14665-cit-0034">
+<string-name>
+<surname>Massimini</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ferrarelli</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Tononi</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>). <article-title>The sleep slow oscillation as a traveling wave</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>24</volume>, <fpage>6862</fpage>&#x02013;<lpage>6870</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.1318-04.2004</pub-id>
+<pub-id pub-id-type="pmid">15295020</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0035"><mixed-citation publication-type="journal" id="ejn14665-cit-0035">
+<string-name>
+<surname>Michel</surname>, <given-names>P. P.</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>, <given-names>E. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hunot</surname>, <given-names>S.</given-names>
+</string-name> (<year>2016</year>). <article-title>Understanding dopaminergic cell death pathways in Parkinson disease</article-title>. <source xml:lang="en">Neuron</source>, <volume>18</volume>, <fpage>675</fpage>&#x02013;<lpage>691</lpage>.</mixed-citation></ref><ref id="ejn14665-bib-0036"><mixed-citation publication-type="journal" id="ejn14665-cit-0036">
+<string-name>
+<surname>Monti</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>BaHammam</surname>, <given-names>A. S.</given-names>
+</string-name>, <string-name>
+<surname>Pandi&#x02010;Perumal</surname>, <given-names>S. R.</given-names>
+</string-name>, <string-name>
+<surname>Bromundt</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Spence</surname>, <given-names>D. W.</given-names>
+</string-name>, <string-name>
+<surname>Cardinali</surname>, <given-names>D. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Sleep and circadian rhythm dysregulation in schizophrenia</article-title>. <source xml:lang="en">Progress in Neuro&#x02010;Psychopharmacology and Biological Psychiatry</source>, <volume>43</volume>, <fpage>209</fpage>&#x02013;<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1016/j.pnpbp.2012.12.021</pub-id>
+<pub-id pub-id-type="pmid">23318689</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0037"><mixed-citation publication-type="journal" id="ejn14665-cit-0037">
+<string-name>
+<surname>Monti</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jantos</surname>, <given-names>H.</given-names>
+</string-name> (<year>1990</year>). <article-title>Sleep during acute dopamine D1 agonist SKF 38393 or D1 antagonist SCH 23390 administration in rats</article-title>. <source xml:lang="en">Neuropsychopharmacology</source>, <volume>3</volume>, <fpage>153</fpage>&#x02013;<lpage>162</lpage>.<pub-id pub-id-type="pmid">2141985</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0038"><mixed-citation publication-type="journal" id="ejn14665-cit-0038">
+<string-name>
+<surname>Monti</surname>, <given-names>J. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Monti</surname>, <given-names>D.</given-names>
+</string-name> (<year>2007</year>). <article-title>The involvement of dopamine in the modulation of sleep and waking</article-title>. <source xml:lang="en">Sleep Medicine Reviews</source>, <volume>11</volume>, <fpage>113</fpage>&#x02013;<lpage>133</lpage>. <pub-id pub-id-type="doi">10.1016/j.smrv.2006.08.003</pub-id>
+<pub-id pub-id-type="pmid">17275369</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0039"><mixed-citation publication-type="journal" id="ejn14665-cit-0039">
+<string-name>
+<surname>Morales</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Margolis</surname>, <given-names>E. B.</given-names>
+</string-name> (<year>2017</year>). <article-title>Ventral tegmental area: Cellular heterogeneity, connectivity and behaviour</article-title>. <source xml:lang="en">Nature Reviews Neuroscience</source>, <volume>18</volume>, <fpage>73</fpage>&#x02013;<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1038/nrn.2016.165</pub-id>
+<pub-id pub-id-type="pmid">28053327</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0040"><mixed-citation publication-type="journal" id="ejn14665-cit-0040">
+<string-name>
+<surname>Oades</surname>, <given-names>R. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Halliday</surname>, <given-names>G. M.</given-names>
+</string-name> (<year>1987</year>). <article-title>Ventral tegmental (A10) system: Neurobiology. 1. Anatomy and Connectivity</article-title>. <source xml:lang="en">Brain Research Reviews</source>, <volume>434</volume>, <fpage>117</fpage>&#x02013;<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1016/0165-0173(87)90011-7</pub-id>
+</mixed-citation></ref><ref id="ejn14665-bib-0041"><mixed-citation publication-type="journal" id="ejn14665-cit-0041">
+<string-name>
+<surname>Oishi</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lazarus</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>The control of sleep and wakefulness by mesolimbic dopamine systems</article-title>. <source xml:lang="en">Neuroscience Research</source>, <volume>118</volume>, <fpage>66</fpage>&#x02013;<lpage>73</lpage>. <pub-id pub-id-type="doi">10.1016/j.neures.2017.04.008</pub-id>
+<pub-id pub-id-type="pmid">28434991</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0042"><mixed-citation publication-type="journal" id="ejn14665-cit-0042">
+<string-name>
+<surname>Oishi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Yonezawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kanda</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Takata</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lazarus</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Activation of ventral tegmental area dopamine neurons produces wakefulness through dopamine D2&#x02010;like receptors in mice</article-title>. <source xml:lang="en">Brain Structure and Function</source>, <volume>222</volume>, <fpage>2907</fpage>&#x02013;<lpage>2915</lpage>. <pub-id pub-id-type="doi">10.1007/s00429-017-1365-7</pub-id>
+<pub-id pub-id-type="pmid">28124114</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0043"><mixed-citation publication-type="journal" id="ejn14665-cit-0043">
+<string-name>
+<surname>Onn</surname>, <given-names>S. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>X. B.</given-names>
+</string-name> (<year>2005</year>). <article-title>Differential modulation of anterior cingulate cortical activity by afferents from ventral tegmental area and mediodorsal thalamus</article-title>. <source xml:lang="en">European Journal of Neuroscience</source>, <volume>21</volume>, <fpage>2975</fpage>&#x02013;<lpage>2992</lpage>. <pub-id pub-id-type="doi">10.1111/j.1460-9568.2005.04122.x</pub-id>
+<pub-id pub-id-type="pmid">15978009</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0044"><mixed-citation publication-type="journal" id="ejn14665-cit-0044">
+<string-name>
+<surname>Orzel&#x02010;Gryglewska</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kusmierczak</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Majkutewicz</surname>, <given-names>I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jurkowlaniec</surname>, <given-names>E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Induction of hippocampal theta rhythm by electrical stimulation of the ventral tegmental area and its loss after septum inactivation</article-title>. <source xml:lang="en">Brain Research</source>, <volume>1436</volume>, <fpage>51</fpage>&#x02013;<lpage>67</lpage>. <pub-id pub-id-type="doi">10.1016/j.brainres.2011.12.003</pub-id>
+<pub-id pub-id-type="pmid">22221734</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0045"><mixed-citation publication-type="journal" id="ejn14665-cit-0045">
+<string-name>
+<surname>Pace&#x02010;Schott</surname>, <given-names>E. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hobson</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2002</year>). <article-title>The neurobiology of sleep: Genetics, cellular physiology and subcortical networks</article-title>. <source xml:lang="en">Nature Reviews Neuroscience</source>, <volume>3</volume>, <fpage>591</fpage>&#x02013;<lpage>605</lpage>. <pub-id pub-id-type="doi">10.1038/nrn895</pub-id>
+<pub-id pub-id-type="pmid">12154361</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0046"><mixed-citation publication-type="journal" id="ejn14665-cit-0046">
+<string-name>
+<surname>Pagliardini</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Funk</surname>, <given-names>G. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dickson</surname>, <given-names>C. T.</given-names>
+</string-name> (<year>2013a</year>). <article-title>Breathing and brain state: Urethane anesthesia as a model for natural sleep</article-title>. <source xml:lang="en">Respiratory Physiology &#x00026; Neurobiology</source>, <volume>188</volume>, <fpage>324</fpage>&#x02013;<lpage>332</lpage>. <pub-id pub-id-type="doi">10.1016/j.resp.2013.05.035</pub-id>
+<pub-id pub-id-type="pmid">23751523</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0047"><mixed-citation publication-type="journal" id="ejn14665-cit-0047">
+<string-name>
+<surname>Pagliardini</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gosgnach</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dickson</surname>, <given-names>C. T.</given-names>
+</string-name> (<year>2013b</year>). <article-title>Spontaneous sleep&#x02010;like brain state alternations and breathing characteristics in urethane anesthetized mice</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <elocation-id>e70411</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0070411</pub-id>
+<pub-id pub-id-type="pmid">23936201</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0048"><mixed-citation publication-type="journal" id="ejn14665-cit-0048">
+<string-name>
+<surname>Pagliardini</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Greer</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Funk</surname>, <given-names>G. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dickson</surname>, <given-names>C. T.</given-names>
+</string-name> (<year>2012</year>). <article-title>State&#x02010;dependent modulation of breathing in urethane&#x02010;anesthetized rats</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>32</volume>, <fpage>11259</fpage>&#x02013;<lpage>11270</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.0948-12.2012</pub-id>
+<pub-id pub-id-type="pmid">22895710</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0049"><mixed-citation publication-type="journal" id="ejn14665-cit-0049">
+<string-name>
+<surname>Qu</surname>, <given-names>W. M.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>X. H.</given-names>
+</string-name>, <string-name>
+<surname>Yan</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>Y. Q.</given-names>
+</string-name>, <string-name>
+<surname>Urade</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Huang</surname>, <given-names>Z. L.</given-names>
+</string-name> (<year>2010</year>). <article-title>Essential role of dopamine D2 receptor in the maintenance of wakefulness, but not in homeostatic regulation of sleep, in mice</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>30</volume>, <fpage>4382</fpage>&#x02013;<lpage>4389</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.4936-09.2010</pub-id>
+<pub-id pub-id-type="pmid">20335474</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0050"><mixed-citation publication-type="journal" id="ejn14665-cit-0050">
+<string-name>
+<surname>Radnikow</surname>, <given-names>G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Feldmeyer</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Layer&#x02010; and cell type&#x02010;specific modulation of excitatory neuronal activity in the neocortex</article-title>. <source xml:lang="en">Frontiers in Neuroanatomy</source>, <volume>12</volume>, <fpage>1</fpage>&#x02013;<lpage>16</lpage>. <pub-id pub-id-type="doi">10.3389/fnana.2018.00001</pub-id>
+<pub-id pub-id-type="pmid">29440997</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0051"><mixed-citation publication-type="journal" id="ejn14665-cit-0051">
+<string-name>
+<surname>Rayport</surname>, <given-names>S.</given-names>
+</string-name> (<year>2001</year>). <article-title>Glutamate is a cotransmitter in ventral midbrain dopamine neurons</article-title>. <source xml:lang="en">Parkinsonism &#x00026; Related Disorders</source>, <volume>7</volume>, <fpage>261</fpage>&#x02013;<lpage>264</lpage>. <pub-id pub-id-type="doi">10.1016/S1353-8020(00)00068-7</pub-id>
+<pub-id pub-id-type="pmid">11331197</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0052"><mixed-citation publication-type="journal" id="ejn14665-cit-0052">
+<string-name>
+<surname>Ruiz&#x02010;Mejias</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ciria&#x02010;Suarez</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Mattia</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sanchez&#x02010;Vives</surname>, <given-names>M. V.</given-names>
+</string-name> (<year>2011</year>). <article-title>Slow and fast rhythms generated in the cerebral cortex of the anesthetized mouse</article-title>. <source xml:lang="en">Journal of Neurophysiology</source>, <volume>106</volume>, <fpage>2910</fpage>&#x02013;<lpage>2921</lpage>. <pub-id pub-id-type="doi">10.1152/jn.00440.2011</pub-id>
+<pub-id pub-id-type="pmid">21880935</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0053"><mixed-citation publication-type="journal" id="ejn14665-cit-0053">
+<string-name>
+<surname>Rukhadze</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Fenik</surname>, <given-names>V. B.</given-names>
+</string-name>, <string-name>
+<surname>Branconi</surname>, <given-names>J. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kubin</surname>, <given-names>L.</given-names>
+</string-name> (<year>2008</year>). <article-title>Fos expression in pontomedullary catecholaminergic cells following rapid eye movement sleep&#x02010;like episodes elicited by pontine carbachol in urethane&#x02010;anesthetized rats</article-title>. <source xml:lang="en">Neuroscience</source>, <volume>152</volume>, <fpage>208</fpage>&#x02013;<lpage>222</lpage>. <pub-id pub-id-type="doi">10.1016/j.neuroscience.2007.11.013</pub-id>
+<pub-id pub-id-type="pmid">18155849</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0054"><mixed-citation publication-type="journal" id="ejn14665-cit-0054">
+<string-name>
+<surname>Sakata</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Harris</surname>, <given-names>K. D.</given-names>
+</string-name> (<year>2012</year>). <article-title>Laminar&#x02010;dependent effects of cortical state on auditory cortical spontaneous activity</article-title>. <source xml:lang="en">Frontiers in Neural Circuits</source>, <volume>6</volume>, <fpage>109</fpage>
+<pub-id pub-id-type="doi">10.3389/fncir.2012.00109</pub-id>
+<pub-id pub-id-type="pmid">23267317</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0055"><mixed-citation publication-type="journal" id="ejn14665-cit-0055">
+<string-name>
+<surname>Schultz</surname>, <given-names>W.</given-names>
+</string-name> (<year>2015</year>). <article-title>Neuronal reward and decision signals: From theories to data</article-title>. <source xml:lang="en">Physiological Reviews</source>, <volume>95</volume>, <fpage>853</fpage>&#x02013;<lpage>951</lpage>. <pub-id pub-id-type="doi">10.1152/physrev.00023.2014</pub-id>
+<pub-id pub-id-type="pmid">26109341</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0056"><mixed-citation publication-type="journal" id="ejn14665-cit-0056">
+<string-name>
+<surname>Solt</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Van Dort</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Chemali</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>, <given-names>N. E.</given-names>
+</string-name>, <string-name>
+<surname>Kenny</surname>, <given-names>J. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Brown</surname>, <given-names>E. N.</given-names>
+</string-name> (<year>2014</year>). <article-title>Electrical stimulation of the ventral tegmental area induces reanimation from general anesthesia</article-title>. <source xml:lang="en">Anesthesiology</source>, <volume>121</volume>, <fpage>311</fpage>&#x02013;<lpage>319</lpage>. <pub-id pub-id-type="doi">10.1097/ALN.0000000000000117</pub-id>
+<pub-id pub-id-type="pmid">24398816</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0057"><mixed-citation publication-type="journal" id="ejn14665-cit-0057">
+<string-name>
+<surname>Steriade</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Amzica</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Contreras</surname>, <given-names>D.</given-names>
+</string-name> (<year>1996</year>). <article-title>Synchronization of fast (30&#x02013;40 Hz) spontaneous cortical rhythms during brain activation</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>16</volume>, <fpage>392</fpage>&#x02013;<lpage>417</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.16-01-00392.1996</pub-id>
+<pub-id pub-id-type="pmid">8613806</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0058"><mixed-citation publication-type="journal" id="ejn14665-cit-0058">
+<string-name>
+<surname>Steriade</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nunez</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Amzica</surname>, <given-names>F.</given-names>
+</string-name> (<year>1993</year>). <article-title>A novel slow (&#x0003c;1&#x000a0;Hz) oscillation of neocortical neurons in vivo: Depolarizing and hyperpolarizing components</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>13</volume>, <fpage>3252</fpage>&#x02013;<lpage>3265</lpage>.<pub-id pub-id-type="pmid">8340806</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0059"><mixed-citation publication-type="journal" id="ejn14665-cit-0059">
+<string-name>
+<surname>Sun</surname>, <given-names>H. X.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Ye</surname>, <given-names>C. B.</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>, <given-names>Z. Z.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>C. Y.</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>, <given-names>Z. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yang</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2017</year>). <article-title>Activation of the ventral tegmental area increased wakefulness in mice</article-title>. <source xml:lang="en">Sleep and Biological Rhythms</source>, <volume>15</volume>, <fpage>107</fpage>&#x02013;<lpage>115</lpage>. <pub-id pub-id-type="doi">10.1007/s41105-017-0094-x</pub-id>
+<pub-id pub-id-type="pmid">28386207</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0060"><mixed-citation publication-type="journal" id="ejn14665-cit-0060">
+<string-name>
+<surname>Swanson</surname>, <given-names>L. W.</given-names>
+</string-name> (<year>1982</year>). <article-title>The projections of the ventral tegmental area and adjacent regions: A combined fluorescent retrograde tracer and immunofluorescence study in the rat</article-title>. <source xml:lang="en">Brain Research Bulletin</source>, <volume>9</volume>, <fpage>321</fpage>&#x02013;<lpage>353</lpage>. <pub-id pub-id-type="doi">10.1016/0361-9230(82)90145-9</pub-id>
+<pub-id pub-id-type="pmid">6816390</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0061"><mixed-citation publication-type="journal" id="ejn14665-cit-0061">
+<string-name>
+<surname>Takata</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Oishi</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>X. Z.</given-names>
+</string-name>, <string-name>
+<surname>Hasegawa</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Cherasse</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lazarus</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Sleep and wakefulness are controlled by ventral medial midbrain/pons GABAergic neurons in mice</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>38</volume>, <fpage>10080</fpage>&#x02013;<lpage>10092</lpage>. <pub-id pub-id-type="doi">10.1523/JNEUROSCI.0598-18.2018</pub-id>
+<pub-id pub-id-type="pmid">30282729</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0062"><mixed-citation publication-type="journal" id="ejn14665-cit-0062">
+<string-name>
+<surname>Taylor</surname>, <given-names>N. E.</given-names>
+</string-name>, <string-name>
+<surname>Van Dort</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Kenny</surname>, <given-names>J. D.</given-names>
+</string-name>, <string-name>
+<surname>Pei</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Guidera</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Vlasov</surname>, <given-names>K. Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Solt</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>). <article-title>Optogenetic activation of dopamine neurons in the ventral tegmental area induces reanimation from general anesthesia</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>113</volume>, <fpage>12826</fpage>&#x02013;<lpage>12831</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1614340113</pub-id>
+<pub-id pub-id-type="pmid">27791160</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0063"><mixed-citation publication-type="journal" id="ejn14665-cit-0063">
+<string-name>
+<surname>Trudeau</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Hnasko</surname>, <given-names>T. S.</given-names>
+</string-name>, <string-name>
+<surname>Wallen&#x02010;Mackenzie</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Morales</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rayport</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sulzer</surname>, <given-names>D.</given-names>
+</string-name> (<year>2014</year>). <article-title>The multilingual nature of dopamine neurons</article-title>. <source xml:lang="en">Progress in Brain Research</source>, <volume>211</volume>, <fpage>141</fpage>&#x02013;<lpage>164</lpage>.<pub-id pub-id-type="pmid">24968779</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0064"><mixed-citation publication-type="journal" id="ejn14665-cit-0064">
+<string-name>
+<surname>Valencia</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Artieda</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Bolam</surname>, <given-names>J. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mena&#x02010;Segovia</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Dynamic interaction of spindles and gamma activity during cortical slow oscillations and its modulation by subcortical afferents</article-title>. <source xml:lang="en">PLoS ONE</source>, <volume>8</volume>, <elocation-id>e67540</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0067540</pub-id>
+<pub-id pub-id-type="pmid">23844020</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0065"><mixed-citation publication-type="journal" id="ejn14665-cit-0065">
+<string-name>
+<surname>Volgushev</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chauvette</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Mukovski</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Timofeev</surname>, <given-names>I.</given-names>
+</string-name> (<year>2006</year>). <article-title>Precise long&#x02010;range synchronization of activity and silence in neocortical neurons during slow&#x02010;wave oscillations [corrected]</article-title>. <source xml:lang="en">Journal of Neuroscience</source>, <volume>26</volume>, <fpage>5665</fpage>&#x02013;<lpage>5672</lpage>.<pub-id pub-id-type="pmid">16723523</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0066"><mixed-citation publication-type="journal" id="ejn14665-cit-0066">
+<string-name>
+<surname>Yu</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Tossell</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Harding</surname>, <given-names>E. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Wisden</surname>, <given-names>W.</given-names>
+</string-name> (<year>2019</year>). <article-title>GABA and glutamate neurons in the VTA regulate sleep and wakefulness</article-title>. <source xml:lang="en">Nature Neuroscience</source>, <volume>22</volume>, <fpage>106</fpage>&#x02013;<lpage>119</lpage>. <pub-id pub-id-type="doi">10.1038/s41593-018-0288-9</pub-id>
+<pub-id pub-id-type="pmid">30559475</pub-id></mixed-citation></ref><ref id="ejn14665-bib-0067"><mixed-citation publication-type="journal" id="ejn14665-cit-0067">
+<string-name>
+<surname>Zhurakovskaya</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Leikas</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pirttimaki</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Casas Mon</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gynther</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Aliev</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Jalkanen</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2019</year>). <article-title>Sleep&#x02010;state dependent alterations in brain functional connectivity under urethane Anesthesia in a rat model of early&#x02010;stage Parkinson's Disease</article-title>. <source xml:lang="en">eNeuro</source>, <volume>6</volume>(<issue>1</issue>), <fpage>ENEURO.0456&#x02010;18.2019</fpage>
+<pub-id pub-id-type="doi">10.1523/ENEURO.0456-18.2019</pub-id>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,529 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">JBMR Plus</journal-id><journal-id journal-id-type="iso-abbrev">JBMR Plus</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2473-4039</journal-id><journal-id journal-id-type="publisher-id">JBM4</journal-id><journal-title-group><journal-title>JBMR Plus</journal-title></journal-title-group><issn pub-type="epub">2473-4039</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32382691</article-id><article-id pub-id-type="pmc">7202417</article-id><article-id pub-id-type="doi">10.1002/jbm4.10358</article-id><article-id pub-id-type="publisher-id">JBM410358</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>How Does Obesity Influence the Risk of Vertebral Fracture? Findings From the UK Biobank Participants</article-title><alt-title alt-title-type="right-running-head">OBESITY AND RISK OF VERTEBRAL FRACTURE: FINDINGS FROM THE UK BIOBANK</alt-title><alt-title alt-title-type="left-running-head">Luo and Lee</alt-title></title-group><contrib-group><contrib id="jbm410358-cr-0001" contrib-type="author"><name><surname>Luo</surname><given-names>Jin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5451-9535</contrib-id><xref ref-type="aff" rid="jbm410358-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jbm410358-cr-0002" contrib-type="author" corresp="yes"><name><surname>Lee</surname><given-names>Raymond YW</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3580-5661</contrib-id><xref ref-type="aff" rid="jbm410358-aff-0002">
+<sup>2</sup>
+</xref><address><email>raymond.lee@port.ac.uk</email></address></contrib></contrib-group><aff id="jbm410358-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Applied Sciences</named-content>
+<institution>London South Bank University</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="jbm410358-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Faculty of Technology</named-content>
+<institution>University of Portsmouth</institution>
+<city>Portsmouth</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Address correspondence to: Raymond YW Lee, PhD, Faculty of Technology, University of Portsmouth, Portland Building, Portland Street, Portsmouth PO1 3AH, UK. E&#x02010;mail: <email>raymond.lee@port.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>3</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2020</year></pub-date><volume>4</volume><issue>5</issue><issue-id pub-id-type="doi">10.1002/jbm4.v4.5</issue-id><elocation-id>e10358</elocation-id><history><date date-type="received"><day>18</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>13</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>08</day><month>3</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 American Society for Bone and Mineral Research <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>JBMR Plus</italic> published by Wiley Periodicals, Inc. on behalf of American Society for Bone and Mineral Research.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JBM4-4-e10358.pdf"/><abstract><title>ABSTRACT</title><p>Obesity and osteoporotic&#x02010;related fractures are two common public health problems, although it is unclear how obesity affects the risk of vertebral fractures. The purpose of this study was to examine the association between different measures of obesity and the risk of vertebral fracture, and to establish the various clinical factors that can predict such risk. We analyzed data obtained from 502,543 participants in the UK Biobank (229,138 men and 273,405 women), aged 40 to 69&#x02009;years. Imaging information was available in a subset of this cohort (5189 participants: 2473 men and 2716 women). We further examined how BMD and geometry of the vertebrae were related to body fat measures. It was shown that a larger waist circumference (WC), but not BMI, was associated with an increase in fracture risk in men, but in women, neither BMI nor WC affected the risk. Trunk fat mass, visceral adipose tissue (VAT) mass, and limb fat mass were negatively associated with vertebral body BMD and geometry in men and women. BMD and geometry are related to vertebral strength, but may not be directly related to the risk of fractures, which is also influenced by other factors. The binary logistic regression equation established in this study may be useful to clinicians for the prediction of vertebral fracture risks, and may provide further information to supplement the fracture risk assessment tool, which assesses general fracture risks. &#x000a9; 2020 The Authors. <italic>JBMR Plus</italic> published by Wiley Periodicals, Inc. on behalf of American Society for Bone and Mineral Research.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jbm410358-kwd-0001">BODY MASS INDEX</kwd><kwd id="jbm410358-kwd-0002">FAT MASS</kwd><kwd id="jbm410358-kwd-0003">FRACTURE RISK ASSESSMENT</kwd><kwd id="jbm410358-kwd-0004">SPINE</kwd><kwd id="jbm410358-kwd-0005">WAIST CIRCUMFERENCE</kwd></kwd-group><counts><fig-count count="0"/><table-count count="6"/><page-count count="7"/><word-count count="6046"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.1 mode:remove_FC converted:06.05.2020</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="jbm410358-body-0001"><sec id="jbm410358-sec-0001"><title>Introduction</title><p>Obesity and osteoporosis are two very common public health problems. Obesity is sometimes thought to have a protective effect against osteoporotic fractures.<xref rid="jbm410358-bib-0001" ref-type="ref">1</xref> A higher body weight may impose larger mechanical loading on bone and consequently help improve bone health and reduce the risk of fracture.<xref rid="jbm410358-bib-0002" ref-type="ref">2</xref> However, recent studies show that when the mechanical loading effect of total body weight is accounted for, fat mass actually has a negative effect on bone health.<xref rid="jbm410358-bib-0003" ref-type="ref">3</xref>, <xref rid="jbm410358-bib-0004" ref-type="ref">4</xref> Recent epidemiological evidence also reveals that the relation between obesity and bone health may be site dependent.<xref rid="jbm410358-bib-0005" ref-type="ref">5</xref> Obesity has been shown to increase the risk of fractures at the ankle and upper leg in postmenopausal women,<xref rid="jbm410358-bib-0005" ref-type="ref">5</xref> but how it affects the risk in the vertebral column is still not clear.</p><p>Obesity is often believed to be beneficial to bone health because of the positive effect of mechanical loading conferred by body weight on bone formation.<xref rid="jbm410358-bib-0006" ref-type="ref">6</xref> However, adipose tissue may have negative effects on bone metabolism.<xref rid="jbm410358-bib-0006" ref-type="ref">6</xref> A number of previous studies have shown that fat mass was associated with a decrease of bone mass and bone quality at spine,<xref rid="jbm410358-bib-0007" ref-type="ref">7</xref>, <xref rid="jbm410358-bib-0008" ref-type="ref">8</xref>, <xref rid="jbm410358-bib-0009" ref-type="ref">9</xref> leading to lower vertebral bone strength. The interaction of the different effects of mechanical loading and adiposity is still unclear.<xref rid="jbm410358-bib-0010" ref-type="ref">10</xref> The underlying mechanism between obesity and bone health is likely to be complex, and may be different in men and women. Obesity in men is more characterized by central adiposity in comparison with women. Visceral adipose tissue (VAT) is particularly detrimental to bone health as it is associated with a number of hormones and cytokines that contribute to bone loss.<xref rid="jbm410358-bib-0006" ref-type="ref">6</xref> A number of studies have shown that obesity is more consistently associated with increased prevalence of vertebral fracture when obesity is assessed using visceral fat mass.<xref rid="jbm410358-bib-0011" ref-type="ref">11</xref>, <xref rid="jbm410358-bib-0012" ref-type="ref">12</xref>, <xref rid="jbm410358-bib-0013" ref-type="ref">13</xref> On the other hand, obesity has been found to be associated with increases in vertebral fracture risk in women, but not in men.<xref rid="jbm410358-bib-0011" ref-type="ref">11</xref>, <xref rid="jbm410358-bib-0013" ref-type="ref">13</xref>, <xref rid="jbm410358-bib-0014" ref-type="ref">14</xref>, <xref rid="jbm410358-bib-0015" ref-type="ref">15</xref>, <xref rid="jbm410358-bib-0016" ref-type="ref">16</xref> Waist circumference (WC) has been a reliable clinical parameter for predicting visceral fat,<xref rid="jbm410358-bib-0017" ref-type="ref">17</xref> whereas BMI has a stronger correlation with nonabdominal and abdominal subcutaneous fat.<xref rid="jbm410358-bib-0017" ref-type="ref">17</xref> The correlation between obesity and the risk of vertebral fracture is likely to be dependent on whether obesity is measured by BMI or WC. There is thus a need to clarify such correlation.</p><p>Vertebral body strength is related to its BMD and the geometry of the bone.<xref rid="jbm410358-bib-0018" ref-type="ref">18</xref>, <xref rid="jbm410358-bib-0019" ref-type="ref">19</xref>, <xref rid="jbm410358-bib-0020" ref-type="ref">20</xref>, <xref rid="jbm410358-bib-0021" ref-type="ref">21</xref> Previous studies have examined how fat mass influences vertebral body BMD, which is only a &#x0201c;proxy measure&#x0201d; of the risk of fractures.<xref rid="jbm410358-bib-0013" ref-type="ref">13</xref>, <xref rid="jbm410358-bib-0016" ref-type="ref">16</xref>, <xref rid="jbm410358-bib-0018" ref-type="ref">18</xref> It would also be useful to examine how fat mass affects the geometry of the vertebrae. The smaller vertebral size in women has been suggested as one of the reasons for the higher prevalence of vertebral fractures in women.<xref rid="jbm410358-bib-0022" ref-type="ref">22</xref> However, there is no information about how obesity may affect vertebral body geometry. There is clearly a need to study such a relationship, as it would provide additional insights into how fat mass may affect bone strength and potentially the risk of vertebral fractures.</p><p>Although the risk of vertebral fracture is possibly related to mechanical loading and adiposity as discussed above, various other clinical factors will need to be considered to provide an accurate prediction of the risk of vertebral fractures. They may include history of prior fractures, age, gender, smoking, alcohol use, glucocorticoid use, rheumatoid arthritis, and secondary osteoporosis. The fracture risk assessment tool (FRAX) has been developed to evaluate osteoporotic fracture risk in untreated postmenopausal women and men aged &#x0003e;50&#x02009;years,<xref rid="jbm410358-bib-0023" ref-type="ref">23</xref> although the algorithm is not specifically developed for vertebral fractures. Some previous studies attempted to predict vertebral fracture risk.<xref rid="jbm410358-bib-0024" ref-type="ref">24</xref>, <xref rid="jbm410358-bib-0025" ref-type="ref">25</xref> They showed that fracture risks are related to morphological factors such as vertebral size or kyphosis. But clinically this information may not be available for fracture prediction. Their sample sizes were also generally small with limited power. This study will further explore the prediction of vertebral fractures considering a range of clinical factors as used in FRAX.</p><p>The aim of this study was (i) to examine the association between obesity and the risk of vertebral fracture, and whether this association was influenced by the methods of measuring obesity, (ii) to predict the risks of vertebral fractures using various clinical factors, and (iii) to study how vertebral BMD and geometry, which are both related to vertebral strength, are associated with body fat measures.</p></sec><sec id="jbm410358-sec-0002"><title>Participants and Methods</title><sec id="jbm410358-sec-0003"><title>Study design and sample</title><p>The UK Biobank is a health resource aiming to provide data for researchers around world to study the cause of a wide range of diseases such as cancer, cardiovascular diseases, diabetes, arthritis, osteoporosis, eye disorders, depression, and dementia (<ext-link ext-link-type="uri" xlink:href="https://www.ukbiobank.ac.uk">https://www.ukbiobank.ac.uk</ext-link>). The UK Biobank is based on a prospective cohort consisting of around 500,000 UK volunteer participants aged 40 to 69&#x02009;years who were first recruited and assessed from 2006 to 2010. Subsets of this original cohort were then repeatedly assessed over several time periods. The current study was based on data sets collected from two time periods: 2006 to 2010 and 2014 to 2019. It was conducted in November 2016 after approval was obtained to access the data.</p><p>The full data set consisted of 502,543 participants (229,138 men and 273,405 women) aged 40 to 69&#x02009;years who were assessed using a self&#x02010;completion questionnaire and physical measurements from 2006 to 2010. The current study used this data set to examine the incidence of vertebral fractures in participants with different body weights. The data subset was a subset of this cohort, consisting of 5189 participants (2473 men and 2716 women) who were followed up in an imaging study (from 2014 to 2019) that provided DXA data of the body. This allowed us to further study BMD and the geometry of the vertebrae of the participants, as these data were not available for every participant in the full data set.</p></sec><sec id="jbm410358-sec-0004"><title>Clinical information from the full data set</title><sec id="jbm410358-sec-0005"><title>Anthropometric measurements</title><p>Height (standing), weight, and WC were obtained for all participants.</p></sec><sec id="jbm410358-sec-0006"><title>Incidence of fractures</title><p>Each participant was asked to fill in a self&#x02010;completion questionnaire in baseline assessment which included questions asking whether they had fractured/broken bones in the last 5&#x02009;years and where the fractured bone sites were (eg, spine, hip, wrist, leg, ankle, arm, or others).</p></sec><sec id="jbm410358-sec-0007"><title>Other information</title><p>Categorical data, including smoking status (never, previous, or current smoker), daily alcohol consumption of three or more units (yes or no), history of rheumatoid arthritis (yes or no), secondary osteoporosis (yes or no), type 2 diabetes (yes or no), hormone&#x02010;replacement therapy (yes or no), and menopause (yes or no) were obtained from a self&#x02010;completion questionnaire.</p></sec></sec><sec id="jbm410358-sec-0008"><title>Imaging information from the data subset</title><sec id="jbm410358-sec-0009"><title>Vertebral body BMD and geometry</title><p>DXA images (GE&#x02010;Lunar iDXA, Madison, WI, USA) were collected to obtain numerical measures of vertebral body size and areal BMD at the whole spine (C4 to L4) and the lumbar spine (L1 to L4) in the anteroposterior (AP) direction. The measures from the lumbar spine AP scan included L1 to L4 BMD, the L1 to L4 area (ie, the estimated projected area of L1 to L4 in the AP scan), L1 to L4 average height (ie, the vertebral height from the bottom of L4 to the top of L1), and L1 to L4 average width (ie, the average width of the four lumbar vertebrae L1 to L4). The measures from the whole&#x02010;spine AP scan included the spine BMD and the spine bone area. The vertebral body BMD and geometry data were obtained from 5189 participants (men = 2473, women = 2716).</p></sec><sec id="jbm410358-sec-0010"><title>Body composition</title><p>Body composition data were also obtained from this data subset. The measures used in this study included trunk fat mass, VAT mass, and limb fat mass, which is the sum of leg fat mass and arm fat mass. These measurements were not normalized to body weight or height.</p></sec></sec><sec id="jbm410358-sec-0011"><title>Data analysis</title><p>Participants (<italic>N</italic> = 502,543) were categorized into underweight, normal weight, and obese using BMI and WC. When BMI was used, both male and female participants were categorized according to the same criteria: underweight (BMI&#x02009;&#x0003c;&#x02009;25&#x02009;kg/m<sup>2</sup>), normal weight (25&#x02009;kg/m<sup>2</sup>&#x02009;&#x02264;&#x02009;BMI&#x02009;&#x0003c;&#x02009;30&#x02009;kg/m<sup>2</sup>), and obese (BMI &#x02265;30&#x02009;kg/m<sup>2</sup>). When WC was used, male and female participants were categorized using different criteria. Women were categorized as underweight (WC&#x02009;&#x0003c;80&#x02009;cm), normal weight (80&#x02009;cm&#x02009;&#x02264; WC&#x02009;&#x0003c;&#x02009;88&#x02009;cm), and obese (WC &#x02265;88&#x02009;cm); men were categorized as underweight (WC&#x02009;&#x0003c;94&#x02009;cm), normal weight (94&#x02009;cm&#x02009;&#x02264; WC&#x02009;&#x0003c;&#x02009;102&#x02009;cm), and obese (WC &#x02265;102&#x02009;cm).<xref rid="jbm410358-bib-0026" ref-type="ref">26</xref>
+</p><p>The association of the various categories of BMI and WC with incidence of vertebral fracture was examined in men and women using chi&#x02010;square tests.</p><p>The relationship between vertebral fractures and various clinical risk factors was studied using full data sets, including age, gender, body weight, height, history of hip and other limb fractures (they were studied separately as the risks of fractures were site&#x02010;dependent<xref rid="jbm410358-bib-0014" ref-type="ref">14</xref>), smoking, alcohol consumption, rheumatoid arthritis, type 2 diabetes, and secondary osteoporosis. The significance of these relations was examined using chi&#x02010;square tests for category data and logistic regression for continuous data. The ORs of each risk factor were determined.</p><p>Multivariate logistic regression was employed to predict the risks of vertebral fractures using the clinical factors identified above (enter method). However, only those statistically significant clinical factors were entered into the regression equation.</p><p>The imaging data subset provided information that allowed us to study fat mass, vertebral body BMD, and geometry, which was not available in the full data set. Linear regressions were employed to look at how BMD and geometry were related to trunk fat mass, VAT, and limb fat mass. Each of these fat mass measures was entered into regression analysis individually, while using age, weight, height, smoking status, hormone&#x02010;replacement therapy (for women only), and menopause (for women only) as covariates. Linear regression analysis was conducted on men and women separately. Multicollinearity between independent variables was checked by a variance inflation test (VIF &#x0003c;10).</p><p>SPSS 22.0 (IBM, Armonk, NY, USA) was used for all statistical analyses. Data from any participant with missing values were not included in the statistical analyses. The level of statistical significance was set at <italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05.</p></sec></sec><sec id="jbm410358-sec-0012"><title>Results</title><sec id="jbm410358-sec-0013"><title>Obesity and risk of vertebral fracture</title><p>Characteristics of the participants in the full data set and the imaging subset are provided in Tables <xref rid="jbm410358-tbl-0001" ref-type="table">1</xref> and <xref rid="jbm410358-tbl-0002" ref-type="table">2</xref>, respectively. The ethnic background for the majority of participants was white (94.1% for baseline assessment and 96.9% for imaging study).</p><table-wrap id="jbm410358-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of Participants in the Full Data Set (Mean&#x02009;&#x000b1;&#x02009;SD)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Men (<italic>N</italic> = 229,138)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Women (<italic>N</italic> = 273,405)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">56.75 &#x000b1;&#x02009;8.19</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">56.35 &#x000b1;&#x02009;8.00</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weight (kg)</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">85.93 &#x000b1;&#x02009;14.37</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">71.46 &#x000b1;&#x02009;14.09</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Height (m)</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">1.76 &#x000b1;&#x02009;0.68</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">1.62 &#x000b1;&#x02009;0.63</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">27.84 &#x000b1;&#x02009;4.25</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">27.09 &#x000b1;&#x02009;5.19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Waist circumference (cm)</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">96.96 &#x000b1;&#x02009;11.35</td><td align="char" char="&#x000b1;" valign="top" rowspan="1" colspan="1">84.72 &#x000b1;&#x02009;12.55</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Previous smoker</td><td align="center" valign="top" rowspan="1" colspan="1">87,614</td><td align="center" valign="top" rowspan="1" colspan="1">85,458</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Current smoker</td><td align="center" valign="top" rowspan="1" colspan="1">28,612</td><td align="center" valign="top" rowspan="1" colspan="1">24,367</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Rheumatoid arthritis (yes)</td><td align="center" valign="top" rowspan="1" colspan="1">1706</td><td align="center" valign="top" rowspan="1" colspan="1">3952</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Secondary osteoporosis (yes)</td><td align="center" valign="top" rowspan="1" colspan="1">3041</td><td align="center" valign="top" rowspan="1" colspan="1">6205</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Type 2 diabetes (yes)</td><td align="center" valign="top" rowspan="1" colspan="1">2030</td><td align="center" valign="top" rowspan="1" colspan="1">1347</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Menopause (yes)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">165,411</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hormone&#x02010;replacement therapy (yes)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">103,921</td></tr></tbody></table></table-wrap><table-wrap id="jbm410358-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Characteristics of Participants in the Data Subset (Mean&#x02009;&#x000b1;&#x02009;SD)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="&#x000b1;" span="1"/><col align="char" char="&#x000b1;" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Male (<italic>N</italic> = 2473)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Female (<italic>N</italic> = 2716)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age</td><td align="char" valign="top" rowspan="1" colspan="1">61.89 &#x000b1;&#x02009;7.09</td><td align="char" valign="top" rowspan="1" colspan="1">60.82 &#x000b1;&#x02009;7.17</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weight (kg)</td><td align="char" valign="top" rowspan="1" colspan="1">84.51 &#x000b1;&#x02009;13.39</td><td align="char" valign="top" rowspan="1" colspan="1">69.50 &#x000b1;&#x02009;12.74</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Height (m)</td><td align="char" valign="top" rowspan="1" colspan="1">1.76 &#x000b1;&#x02009;0.66</td><td align="char" valign="top" rowspan="1" colspan="1">1.63 &#x000b1;&#x02009;0.63</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">27.28 &#x000b1;&#x02009;3.99</td><td align="char" valign="top" rowspan="1" colspan="1">26.38 &#x000b1;&#x02009;4.86</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Waist circumference (cm)</td><td align="char" valign="top" rowspan="1" colspan="1">93.85 &#x000b1;&#x02009;10.23</td><td align="char" valign="top" rowspan="1" colspan="1">82.29 &#x000b1;&#x02009;11.59</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Visceral adipose tissue mass (g)</td><td align="char" valign="top" rowspan="1" colspan="1">1698.41 &#x000b1;&#x02009;949.57</td><td align="char" valign="top" rowspan="1" colspan="1">780.51 &#x000b1;&#x02009;583.32</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Trunk fat mass (g)</td><td align="char" valign="top" rowspan="1" colspan="1">15,378.56 &#x000b1;&#x02009;6199.79</td><td align="char" valign="top" rowspan="1" colspan="1">14,005.97 &#x000b1;&#x02009;6026.61</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Limb fat mass (g)</td><td align="char" valign="top" rowspan="1" colspan="1">8684.01 &#x000b1;&#x02009;3056.76</td><td align="char" valign="top" rowspan="1" colspan="1">12,024.89 &#x000b1;&#x02009;3998.66</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 BMD (g/cm<sup>2</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">1.25 &#x000b1;&#x02009;0.19</td><td align="char" valign="top" rowspan="1" colspan="1">1.14 &#x000b1;&#x02009;0.18</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 area (cm<sup>2</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">66.06 &#x000b1;&#x02009;6.23</td><td align="char" valign="top" rowspan="1" colspan="1">54.19 &#x000b1;&#x02009;5.20</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 average width (cm)</td><td align="char" valign="top" rowspan="1" colspan="1">4.64 &#x000b1;&#x02009;0.39</td><td align="char" valign="top" rowspan="1" colspan="1">4.08 &#x000b1;&#x02009;0.72</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 average height (cm)</td><td align="char" valign="top" rowspan="1" colspan="1">14.24 &#x000b1;&#x02009;0.82</td><td align="char" valign="top" rowspan="1" colspan="1">13.30 &#x000b1;&#x02009;0.82</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Spine BMD (g/cm<sup>2</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">1.19 &#x000b1;&#x02009;0.15</td><td align="char" valign="top" rowspan="1" colspan="1">1.02 &#x000b1;&#x02009;0.15</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Spine bone area (cm<sup>2</sup>)</td><td align="char" valign="top" rowspan="1" colspan="1">212.03 &#x000b1;&#x02009;25.47</td><td align="char" valign="top" rowspan="1" colspan="1">182.27 &#x000b1;&#x02009;20.48</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Current and previous smoker</td><td align="center" valign="top" rowspan="1" colspan="1">1072</td><td align="center" valign="top" rowspan="1" colspan="1">967</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Menopause (yes)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">2014</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hormone&#x02010;replacement therapy (yes)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1">1073</td></tr></tbody></table></table-wrap><p>There were 479 vertebral fractures in 229,138 male participants and 645 vertebral fractures in 273,405 female participants in the previous 5&#x02009;years, which resulted in an incidence rate of vertebral fracture at 4.2 per 10,000/ year in men and 4.7 per 10,000/ year in women.</p><p>Chi&#x02010;square analysis was conducted on BMI data from 496,812 (226,945 men and 269,867 women) participants out of 502,543 participants and WC data from 500,383 (228,062 men and 272,321 women) participants out of 502,543 participants because of missing data. There was no significant association between BMI and incident vertebral fracture in men (&#x003c7;<sup>2</sup> = 0.94, <italic>p</italic> = 0.625) or in women (&#x003c7;<sup>2</sup> = 4.28, <italic>p</italic> = 0.118; Table <xref rid="jbm410358-tbl-0003" ref-type="table">3</xref>). There was a significant association between WC and incident vertebral fracture in men (&#x003c7;<sup>2</sup> = 8.51, <italic>p</italic> = 0.014), but not in women (&#x003c7;<sup>2</sup> = 0.71, <italic>p</italic> = 0.701; Table <xref rid="jbm410358-tbl-0004" ref-type="table">4</xref>). Obese men (WC &#x02265;102&#x02009;cm) had higher vertebral fracture incidence (5.0 per 10,000/year) than normal weight men (3.7 per 10,000/ year) and underweight men (3.8 per 10,000/ year).</p><table-wrap id="jbm410358-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Contingency Table Showing the Number of Vertebral Fractures in Different BMI Categories in Men and Women</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1"/><th colspan="4" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">BMI (kg/m<sup>2</sup>)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">&#x0003c;25</th><th align="center" valign="bottom" rowspan="1" colspan="1">25 to 30</th><th align="center" valign="bottom" rowspan="1" colspan="1">&#x02265;30</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total</th></tr></thead><tbody valign="top"><tr><td colspan="5" align="left" valign="top" rowspan="1">Male</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vertebral fracture</td><td align="center" valign="top" rowspan="1" colspan="1">119</td><td align="center" valign="top" rowspan="1" colspan="1">223</td><td align="center" valign="top" rowspan="1" colspan="1">128</td><td align="center" valign="top" rowspan="1" colspan="1">470</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">No vertebral fracture</td><td align="center" valign="top" rowspan="1" colspan="1">56,634</td><td align="center" valign="top" rowspan="1" colspan="1">112,023</td><td align="center" valign="top" rowspan="1" colspan="1">57,818</td><td align="center" valign="top" rowspan="1" colspan="1">226,475</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total</td><td align="center" valign="top" rowspan="1" colspan="1">56,753</td><td align="center" valign="top" rowspan="1" colspan="1">112,246</td><td align="center" valign="top" rowspan="1" colspan="1">57,946</td><td align="center" valign="top" rowspan="1" colspan="1">226,945</td></tr><tr><td colspan="5" align="left" valign="top" rowspan="1">Female</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vertebral fracture</td><td align="center" valign="top" rowspan="1" colspan="1">267</td><td align="center" valign="top" rowspan="1" colspan="1">227</td><td align="center" valign="top" rowspan="1" colspan="1">131</td><td align="center" valign="top" rowspan="1" colspan="1">625</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">No vertebral fracture</td><td align="center" valign="top" rowspan="1" colspan="1">105,405</td><td align="center" valign="top" rowspan="1" colspan="1">99,656</td><td align="center" valign="top" rowspan="1" colspan="1">64,181</td><td align="center" valign="top" rowspan="1" colspan="1">269,242</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total</td><td align="center" valign="top" rowspan="1" colspan="1">105,672</td><td align="center" valign="top" rowspan="1" colspan="1">99,883</td><td align="center" valign="top" rowspan="1" colspan="1">64,312</td><td align="center" valign="top" rowspan="1" colspan="1">269,867</td></tr></tbody></table><table-wrap-foot id="jbm410358-ntgp-0001"><fn id="jbm410358-note-0001"><p>&#x003c7;<sup>2</sup> = 0.94, <italic>p</italic> = 0.625 for male; &#x003c7;<sup>2</sup> = 4.28, <italic>p</italic> = 0.118 for female.</p></fn></table-wrap-foot></table-wrap><table-wrap id="jbm410358-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Contingency Table Showing the Number of Vertebral Fractures in Different Waist Circumference Categories in Men and Women</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="4" style="border-bottom:solid 1px #000000" align="center" valign="bottom" rowspan="1">Waist circumference (cm)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Men</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;94</td><td align="center" valign="top" rowspan="1" colspan="1">94 to 102</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02265;102</td><td align="center" valign="top" rowspan="1" colspan="1">Total</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vertebral fracture</td><td align="center" valign="top" rowspan="1" colspan="1">176</td><td align="center" valign="top" rowspan="1" colspan="1">124</td><td align="center" valign="top" rowspan="1" colspan="1">174</td><td align="center" valign="top" rowspan="1" colspan="1">474</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">No vertebral fracture</td><td align="center" valign="top" rowspan="1" colspan="1">91,851</td><td align="center" valign="top" rowspan="1" colspan="1">66,243</td><td align="center" valign="top" rowspan="1" colspan="1">69,519</td><td align="center" valign="top" rowspan="1" colspan="1">227,588</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total</td><td align="center" valign="top" rowspan="1" colspan="1">92,016</td><td align="center" valign="top" rowspan="1" colspan="1">66,361</td><td align="center" valign="top" rowspan="1" colspan="1">69,685</td><td align="center" valign="top" rowspan="1" colspan="1">228,062</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Women</td><td align="center" valign="top" rowspan="1" colspan="1">&#x0003c;80</td><td align="center" valign="top" rowspan="1" colspan="1">80 to 88</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02265;88</td><td align="center" valign="top" rowspan="1" colspan="1">Total</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vertebral fracture</td><td align="center" valign="top" rowspan="1" colspan="1">237</td><td align="center" valign="top" rowspan="1" colspan="1">168</td><td align="center" valign="top" rowspan="1" colspan="1">237</td><td align="center" valign="top" rowspan="1" colspan="1">642</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">No vertebral fracture</td><td align="center" valign="top" rowspan="1" colspan="1">104,406</td><td align="center" valign="top" rowspan="1" colspan="1">68,168</td><td align="center" valign="top" rowspan="1" colspan="1">99,105</td><td align="center" valign="top" rowspan="1" colspan="1">271,679</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total</td><td align="center" valign="top" rowspan="1" colspan="1">104,643</td><td align="center" valign="top" rowspan="1" colspan="1">68,336</td><td align="center" valign="top" rowspan="1" colspan="1">99,342</td><td align="center" valign="top" rowspan="1" colspan="1">272,321</td></tr></tbody></table><table-wrap-foot id="jbm410358-ntgp-0002"><fn id="jbm410358-note-0002"><p>&#x003c7;<sup>2</sup> = 8.51, <italic>p</italic> = 0.014 for men; &#x003c7;<sup>2</sup> = 0.71, <italic>p</italic> = 0.701 for women.</p></fn></table-wrap-foot></table-wrap><p>The ORs of the various clinical risk factors are given in Table <xref rid="jbm410358-tbl-0005" ref-type="table">5</xref>. All these factors were entered into the logistic regression equation, with the exception of alcohol consumption and type 2 diabetes, which were not shown to be significantly related to vertebral fracture risks. The logistic regression model was found to be statistically significant (omnibus test, <italic>p</italic> = 0.000), and was therefore a good predictor of vertebral fractures.</p><table-wrap id="jbm410358-tbl-0005" xml:lang="en" orientation="portrait" position="float"><label>Table 5</label><caption><p>Coefficients (<italic>B</italic>) of the Various Predictive Variables in the Logistic Regression Equation and Odds Ratios of These Variables</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Predictive factor</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>B</italic> (SE)</th><th align="left" valign="bottom" rowspan="1" colspan="1">OR [95% CI]</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Constant</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;3.690 (0.836)</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age (years)</td><td align="center" valign="top" rowspan="1" colspan="1">0.011 (0.004)**</td><td align="center" valign="top" rowspan="1" colspan="1">1.012 [1.004 to 1.019]</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gender<xref ref-type="fn" rid="jbm410358-note-0005">a</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.221 (0.087)*</td><td align="center" valign="top" rowspan="1" colspan="1">1.248 [1.052 to 1.479]</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Weight (kg)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.005 (0.002)*</td><td align="center" valign="top" rowspan="1" colspan="1">0.995 [0.991 to 1.000]</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Height (cm)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.019 (0.005)**</td><td align="center" valign="top" rowspan="1" colspan="1">0.981 [0.971 to 0.990]</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">History of hip fracture<xref ref-type="fn" rid="jbm410358-note-0006">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">2.419 (0.184)**</td><td align="center" valign="top" rowspan="1" colspan="1">11.237 [7.833 to 16.121]</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">History of fractures other than hip and vertebrae<xref ref-type="fn" rid="jbm410358-note-0006">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1.428 (0.066)**</td><td align="center" valign="top" rowspan="1" colspan="1">4.169 [3.662 to 4.747]</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">History of smoking<xref ref-type="fn" rid="jbm410358-note-0006">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.275 (0.061)**</td><td align="center" valign="top" rowspan="1" colspan="1">1.316 [1.167 to 1.484]</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Rheumatoid arthritis<xref ref-type="fn" rid="jbm410358-note-0006">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.778 (0.184)**</td><td align="center" valign="top" rowspan="1" colspan="1">2.178 [1.518 to 3.126]</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Secondary osteoporosis<xref ref-type="fn" rid="jbm410358-note-0006">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.347 (0.183)*</td><td align="center" valign="top" rowspan="1" colspan="1">1.415 [0.988 to 2.027]</td></tr></tbody></table><table-wrap-foot id="jbm410358-ntgp-0003"><fn id="jbm410358-note-0003"><p>
+<italic>R</italic>
+<sup>2</sup> =&#x02009;0.001 (Cox &#x00026; Snell); 0.040 (Nagelkerke). Model &#x003c7;<sup>2</sup>(7) = 615.850; <italic>p</italic> = 0.000.</p></fn><fn id="jbm410358-note-0004"><p>Significance of the predictive variables: *<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05; **<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.01.</p></fn><fn id="jbm410358-note-0005"><label>a</label><p>Variable code (0 = female, 1 = male).</p></fn><fn id="jbm410358-note-0006"><label>b</label><p>Variable code (0 = no, 1 = yes).</p></fn></table-wrap-foot></table-wrap></sec><sec id="jbm410358-sec-0014"><title>Vertebral body BMD and geometry</title><p>Because of missing values, the multiple linear regression analysis was conducted on data from 4849 participants (2277 men and 2572 women).</p><p>Vertebral body BMD and geometry generally showed negative association with VAT mass, trunk fat mass, and limb fat mass in both men and women (<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05; Table <xref rid="jbm410358-tbl-0006" ref-type="table">6</xref>). However, spine bone area appeared to show positive association with VAT mass and trunk fat mass, but its association with limb fat mass remained negative (<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.01).</p><table-wrap id="jbm410358-tbl-0006" xml:lang="en" orientation="portrait" position="float"><label>Table 6</label><caption><p>Association Between Fat Mass, Vertebral BMD, and Geometry in Male (<italic>N</italic> = 2277) and Female (<italic>N</italic> = 2572) Participants</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">VAT mass (g)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Trunk fat mass (g)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Limb fat mass (g)</th></tr></thead><tbody valign="top"><tr><td colspan="4" align="left" valign="top" rowspan="1">Male</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 BMD (g/cm<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.036</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.148**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.284**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 area (cm<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.123**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.148**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.287**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 average width (cm)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.237**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.489**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.281**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 average height (cm)</td><td align="center" valign="top" rowspan="1" colspan="1">0.085**</td><td align="center" valign="top" rowspan="1" colspan="1">0.063</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.058</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Spine BMD (g/cm<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.084*</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.226**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.370**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Spine bone area (cm<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.248**</td><td align="center" valign="top" rowspan="1" colspan="1">0.235**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.212**</td></tr><tr><td colspan="4" align="left" valign="top" rowspan="1">Female</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 BMD (g/cm<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.035</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.071</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.450**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 area (cm<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.023</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.133**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.420**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 average width (cm)</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.018</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.178**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.189**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">L1 to L4 average height (cm)</td><td align="center" valign="top" rowspan="1" colspan="1">0.093**</td><td align="center" valign="top" rowspan="1" colspan="1">0.195**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.167**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Spine BMD (g/cm<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.054*</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.086</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.436**</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Spine bone area (cm<sup>2</sup>)</td><td align="center" valign="top" rowspan="1" colspan="1">0.346**</td><td align="center" valign="top" rowspan="1" colspan="1">0.518**</td><td align="center" valign="top" rowspan="1" colspan="1">&#x02212;0.406**</td></tr></tbody></table><table-wrap-foot id="jbm410358-ntgp-0004"><fn id="jbm410358-note-0007"><p>Values are the standardized regression coefficients from linear regression models adjusted for age, weight, height, smoking status, hormone&#x02010;replacement therapy (for women only), and menopause (for women only). *<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.05; **<italic>p</italic>&#x02009;&#x0003c;&#x02009;0.01. VAT = visceral adipose tissue.</p></fn></table-wrap-foot></table-wrap><p>The association of limb fat mass with vertebral body BMD and geometry, compared with VAT mass and trunk fat mass, appear to be stronger with larger correlation coefficients. It should also be noted the associations between L1&#x02010;to&#x02010;L4 BMD and VAT mass were weak and not statistically significant in both men and women (<italic>p</italic>&#x02009;&#x0003e;&#x02009;0.05).</p></sec></sec><sec id="jbm410358-sec-0015"><title>Discussion</title><p>A strength of the present study is that it utilized data from a large cohort and attempted to answer the important clinical question of how obesity may affect the risk of vertebral fractures. BMI and WC are commonly used clinical measures to assess obesity, but only WC appears to influence the risk of vertebral fractures in men. Obese men with WC over 102&#x02009;cm had a significantly higher vertebral fracture incidence compared with normal weight and underweight men. We also showed that trunk fat mass, VAT mass, and limb fat mass were negatively associated with vertebral body BMD and geometry, but the negative association was strongest for limb fat mass.</p><p>The current study provides important clinical information about how various clinical risk factors are related to and may predict the risk of vertebral fractures. These risk factors are in agreement with previous findings.<xref rid="jbm410358-bib-0027" ref-type="ref">27</xref> The binary regression equation derived in the present study may be used by clinicians to predict the risk of vertebral fractures, providing information additional to FRAX which assesses the general risk of fractures. It is noteworthy to mention that a previous history of hip fractures is the most significant predictive factor among all the variables in the equation. This finding is in agreement with those of previous studies that the risks of fractures of these two body regions are closely related.<xref rid="jbm410358-bib-0028" ref-type="ref">28</xref>
+</p><p>The current study provides support for previous findings that obesity measured by BMI is not associated with vertebral fracture risk.<xref rid="jbm410358-bib-0005" ref-type="ref">5</xref>, <xref rid="jbm410358-bib-0029" ref-type="ref">29</xref> However, in previous studies, there were inconsistent observations about the effect of BMI on the risk of fractures. Some studies reported BMI was associated with increased risk,<xref rid="jbm410358-bib-0009" ref-type="ref">9</xref>, <xref rid="jbm410358-bib-0015" ref-type="ref">15</xref>, <xref rid="jbm410358-bib-0016" ref-type="ref">16</xref> whereas others found BMI was negatively correlated with the risk.<xref rid="jbm410358-bib-0014" ref-type="ref">14</xref> When obesity was measured by different measures, especially those related to central adiposity such as WC, trunk fat mass, and VAT mass, previous studies found that obesity was associated with an increased prevalence of vertebral fracture.<xref rid="jbm410358-bib-0011" ref-type="ref">11</xref>, <xref rid="jbm410358-bib-0012" ref-type="ref">12</xref>, <xref rid="jbm410358-bib-0013" ref-type="ref">13</xref> This is in line with our findings from this study. Therefore, our study, together with others, suggests that central adiposity may be an important risk factor for the risk of vertebral fracture. In addition, the binary regression equation revealed that the risk of vertebral fractures is higher in men than in women, and this in general agreement with the observation reported previously.<xref rid="jbm410358-bib-0013" ref-type="ref">13</xref> However, previous studies reported that obesity only affects the risks in women, but not in men.<xref rid="jbm410358-bib-0011" ref-type="ref">11</xref>, <xref rid="jbm410358-bib-0012" ref-type="ref">12</xref>, <xref rid="jbm410358-bib-0014" ref-type="ref">14</xref>, <xref rid="jbm410358-bib-0016" ref-type="ref">16</xref> This is in contrast to our finding that WC affects men only. The effect of obesity in different genders is likely to be affected by how we measure or define obesity. Another explanation is that we looked at the risk of vertebral fractures, whereas the previous studies examined other anatomical sites.</p><p>Our findings are also in line with a previous study that found that lumbar spine BMD was negatively associated with trunk fat mass and limb fat mass, but not with abdominal fat mass.<xref rid="jbm410358-bib-0030" ref-type="ref">30</xref> However, some previous studies found that lumbar spine BMD was negatively correlated with VAT mass.<xref rid="jbm410358-bib-0004" ref-type="ref">4</xref>, <xref rid="jbm410358-bib-0007" ref-type="ref">7</xref>, <xref rid="jbm410358-bib-0008" ref-type="ref">8</xref>, <xref rid="jbm410358-bib-0031" ref-type="ref">31</xref> The different findings may be because of the different methods used in measuring vertebral body BMD and VAT mass. Although the data employed in the current study were based on DXA measurement,<xref rid="jbm410358-bib-0030" ref-type="ref">30</xref> CT was used in those studies where different results were found.<xref rid="jbm410358-bib-0004" ref-type="ref">4</xref>, <xref rid="jbm410358-bib-0007" ref-type="ref">7</xref>, <xref rid="jbm410358-bib-0008" ref-type="ref">8</xref>, <xref rid="jbm410358-bib-0031" ref-type="ref">31</xref> Although DXA is a valid method to estimate body composition, it may not be as accurate as CT when assessing abdominal fat.<xref rid="jbm410358-bib-0032" ref-type="ref">32</xref>
+</p><p>There were few studies that examined the effect of fat mass on vertebral geometry, and their findings were inconsistent. One recent study found that whole&#x02010;body fat mass was negatively associated with AP vertebral diameter of lumbar spine in both men and women aged 60 to 64&#x02009;years,<xref rid="jbm410358-bib-0033" ref-type="ref">33</xref> whereas another study found that there was no association between total body fat mass and cross&#x02010;sectional area of lumbar vertebrae in teenagers and young adults.<xref rid="jbm410358-bib-0034" ref-type="ref">34</xref> Our current study provided clear evidence that fat mass had a negative association with vertebral geometry in the lumbar spine and the whole spine.</p><p>The results from the imaging data subset showed that limb fat and trunk fat mass had a greater effect on vertebral body BMD and geometry than VAT fat mass, suggesting that visceral fat may have less influence on vertebral strength in comparison with other fat tissues. However, the results from the full data set showed that WC, which is related to visceral fat, is the only measure that is related to the risk of vertebral fracture in men. These two observations may appear to be in disagreement, but this clearly shows that BMD and the risk of fractures are not directly related to each other. Obese subjects have been found to have increased prevalence of vertebral fracture based on poor bone quality, despite normal BMD.<xref rid="jbm410358-bib-0009" ref-type="ref">9</xref> The risk of fractures is clearly not affected by BMD only, but also a range of clinical factors including smoking, alcohol use, glucocorticoid use, rheumatoid arthritis, and secondary osteoporosis.<xref rid="jbm410358-bib-0023" ref-type="ref">23</xref> Moreover, in obese patients, the accuracy of BMD measurement using DXA images has been shown to be adversely influenced by the thickness of VAT.<xref rid="jbm410358-bib-0035" ref-type="ref">35</xref> In summary, it is suggested that BMD does not adequately assess the risk of vertebral fracture, especially in obese subjects.</p><p>In this study, we observed weak associations between fat mass and vertebral body BMD and geometry in both men and women. This implies there are other factors that may also influence BMD and geometry. Biomechanical factors may play a role in the associations between obesity and vertebral fracture risk. Spinal loads depend on trunk mass and the distance between trunk center&#x02010;of&#x02010;mass to the vertebrae, both of which was found to be significantly larger in the obese subjects.<xref rid="jbm410358-bib-0036" ref-type="ref">36</xref>, <xref rid="jbm410358-bib-0037" ref-type="ref">37</xref> It has been shown that for the same body weight a larger WC, which is related to increased visceral fat mass, can significantly move the center&#x02010;of&#x02010;mass forward and increase the spinal loads.<xref rid="jbm410358-bib-0038" ref-type="ref">38</xref> It is possible that the increased spinal loads, together with the reduced BMD and smaller vertebral geometry associated with obesity, are responsible for the increased incidence of vertebral fractures.</p><p>The current study has some limitations. The incidence of vertebral fracture was obtained from self&#x02010;report questionnaires, and there was no information about how the reported vertebral fractures were diagnosed. It is possible that not all vertebral fractures were reported in the questionnaires as vertebral fracture is generally underdiagnosed.<xref rid="jbm410358-bib-0039" ref-type="ref">39</xref> However, the incidence rate of vertebral fracture observed in the current study is comparable to a previous study that was based on medical records.<xref rid="jbm410358-bib-0040" ref-type="ref">40</xref> This previous study found that for a UK population of 5 million adults the incidence rate of vertebral fracture was 3.2 per 10,000/ year for men and 5.6 per 10,000/ year for women, whereas our study found that the incidence rate was 4.0 per 10,000/year for men and 4.7 per 10,000/ year for women. Another limitation of the current study is that the logistic regression equation was derived from data obtained within a short period (between 2006 and 2010), and therefore does not represent the prospective risks as compared with FRAX, which provides a 10&#x02010;year risk prediction. However, the model is the only one at the moment that can assess vertebral fracture risk, and may be used clinically in conjunction with FRAX. Finally, low serum vitamin D level in the obese may be an important factor that may contribute to bone fragility,<xref rid="jbm410358-bib-0007" ref-type="ref">7</xref> but we were unable to include this as a risk factor in our analysis because this information was not available from the UK Biobank.</p></sec><sec id="jbm410358-sec-0016"><title>Conclusion</title><p>The results of the present study showed that obese men with WC over 102&#x02009;cm had a significantly higher vertebral fracture incidence compared with normal weight (94&#x02009;cm &#x02264; WC&#x02009;&#x0003c;&#x02009;102&#x02009;cm) and underweight (WC&#x02009;&#x0003c;&#x02009;94&#x02009;cm) men. Trunk fat mass, VAT mass, and limb fat mass were negatively associated with vertebral body BMD and geometry in men and women. BMD and geometry are related to vertebral strength, but they may not be directly related to the risk of fractures that are also influenced by other factors. The binary logistic regression equation established in this study may be clinically useful for the prediction of fracture risks.</p></sec><sec id="jbm410358-sec-0017"><title>Disclosures</title><p>The authors have no conflicts of interest and nothing to disclose.</p></sec></body><back><ack id="jbm410358-sec-0018"><title>Acknowledgments</title><p>This study was funded by a research grant from London South Bank University. This research was conducted using the UK Biobank Resource (project ID 23804).</p><p>Authors' roles: Study design: JL and RL; Study conduct: JL and RL; Data analysis: JL and RL; Data interpretation: JL and RL; Drafting manuscript: JL and RL; Revising manuscript content: JL and RL; Approving final version of manuscript: JL and RL. JL and RL take responsibility for the integrity of the data analysis.</p></ack><ref-list id="jbm410358-bibl-0001" content-type="cited-references"><title>References</title><ref id="jbm410358-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jbm410358-cit-0001">
+<string-name>
+<surname>Reid</surname>
+<given-names>IR</given-names>
+</string-name>. <article-title>Fat and bone</article-title>. <source xml:lang="en">Arch Biochem Biophys.</source>
+<year>2010</year>;<volume>503</volume>:<fpage>20</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">20599663</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jbm410358-cit-0002">
+<string-name>
+<surname>Felson</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hannan</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Effects of weight and body mass index on bone mineral density in men and women: the Framingham study</article-title>. <source xml:lang="en">J Bone Miner Res.</source>
+<year>1993</year>;<volume>8</volume>:<fpage>567</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">8511983</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jbm410358-cit-0003">
+<string-name>
+<surname>Zhao</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name>
+<surname>Hamilton</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Recker</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>HW</given-names>
+</string-name>. <article-title>Relationship of obesity with osteoporosis</article-title>. <source xml:lang="en">J Clin Endocrinol Metabol.</source>
+<year>2007</year>;<volume>92</volume>:<fpage>1640</fpage>&#x02013;<lpage>6</lpage>.</mixed-citation></ref><ref id="jbm410358-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jbm410358-cit-0004">
+<string-name>
+<surname>Choi</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>KM</given-names>
+</string-name>, et al. <article-title>Relationship between visceral adiposity and bone mineral density in Korean adults</article-title>. <source xml:lang="en">Calcif Tissue Int.</source>
+<year>2010</year>;<volume>87</volume>:<fpage>218</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">20631995</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jbm410358-cit-0005">
+<string-name>
+<surname>Compston</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name>
+<surname>Chapurlat</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Obesity is not protective against fracture in postmenopausal women: GLOW</article-title>. <source xml:lang="en">Am J Med.</source>
+<year>2011</year>;<volume>124</volume>:<fpage>1043</fpage>&#x02013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">22017783</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jbm410358-cit-0006">
+<string-name>
+<surname>Shapses</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Pop</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Obesity is a concern for bone health with aging</article-title>. <source xml:lang="en">Nutr Res.</source>
+<year>2017</year>;<volume>39</volume>:<fpage>1</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">28385284</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jbm410358-cit-0007">
+<string-name>
+<surname>Bredella</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Torriani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ghomi</surname>
+<given-names>RH</given-names>
+</string-name>, et al. <article-title>Determinants of bone mineral density in obese premenopausal women</article-title>. <source xml:lang="en">Bone.</source>
+<year>2011</year>;<volume>48</volume>:<fpage>748</fpage>&#x02013;<lpage>54</lpage>.<pub-id pub-id-type="pmid">21195217</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jbm410358-cit-0008">
+<string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Associations between fat distribution and volumetric bone mineral density in Chinese adults</article-title>. <source xml:lang="en">Endocrine.</source>
+<year>2014</year>;<volume>47</volume>:<fpage>862</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">24705911</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jbm410358-cit-0009">
+<string-name>
+<surname>Ruosi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Liccardo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rubino</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Colella</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Di Somma</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Colao</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Importance of spinal deformity index in risk evaluation of VCF (vertebral compression fractures) in obese subjects: prospective study</article-title>. <source xml:lang="en">Eur Spine J.</source>
+<year>2013</year>;<volume>22</volume>(<issue>Suppl 6</issue>):<fpage>S945</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">24061969</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jbm410358-cit-0010">
+<string-name>
+<surname>Bachmann</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Bruno</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Bredella</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Vertebral strength and estimated fracture risk across the BMI spectrum in women</article-title>. <source xml:lang="en">J Bone Miner Res.</source>
+<year>2016</year>;<volume>31</volume>:<fpage>281</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">26332401</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jbm410358-cit-0011">
+<string-name>
+<surname>Laslett</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Just Nee Foley</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Quinn</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Winzenberg</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Excess body fat is associated with higher risk of vertebral deformities in older women but not in men: a cross&#x02010;sectional study</article-title>. <source xml:lang="en">Osteoporos Int.</source>
+<year>2012</year>;<volume>23</volume>:<fpage>67</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">21850547</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jbm410358-cit-0012">
+<string-name>
+<surname>Kim</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Im</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>DC</given-names>
+</string-name>. <article-title>Relation between obesity and bone mineral density and vertebral fractures in Korean postmenopausal women</article-title>. <source xml:lang="en">Yonsei Med J.</source>
+<year>2010</year>;<volume>51</volume>:<fpage>857</fpage>&#x02013;<lpage>63</lpage>.<pub-id pub-id-type="pmid">20879051</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jbm410358-cit-0013">
+<string-name>
+<surname>Hind</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Pearce</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Birrell</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Total and visceral adiposity are associated with prevalent vertebral fracture in women but not men at age 62&#x02009;years: the Newcastle Thousand Families Study</article-title>. <source xml:lang="en">J Bone Miner Res.</source>
+<year>2017</year>;<volume>32</volume>:<fpage>1109</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">28261864</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jbm410358-cit-0014">
+<string-name>
+<surname>Premaor</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Compston</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Fina Aviles</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>The association between fracture site and obesity in men: a population&#x02010;based cohort study</article-title>. <source xml:lang="en">J Bone Miner Res.</source>
+<year>2013</year>;<volume>28</volume>:<fpage>1771</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">23371035</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jbm410358-cit-0015">
+<string-name>
+<surname>Pirro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fabbriciani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Leli</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>High weight or body mass index increase the risk of vertebral fractures in postmenopausal osteoporotic women</article-title>. <source xml:lang="en">J Bone Miner Metab.</source>
+<year>2010</year>;<volume>28</volume>:<fpage>88</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">19578807</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jbm410358-cit-0016">
+<string-name>
+<surname>Tanaka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kuroda</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Saito</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shiraki</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Overweight/obesity and underweight are both risk factors for osteoporotic fractures at different sites in Japanese postmenopausal women</article-title>. <source xml:lang="en">Osteoporos Int.</source>
+<year>2013</year>;<volume>24</volume>:<fpage>69</fpage>&#x02013;<lpage>76</lpage>.<pub-id pub-id-type="pmid">23229467</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jbm410358-cit-0017">
+<string-name>
+<surname>Janssen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Heymsfield</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Allison</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Kotler</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Body mass index and waist circumference independently contribute to the prediction of nonabdominal, abdominal subcutaneous, and visceral fat</article-title>. <source xml:lang="en">Am J Clin Nutr.</source>
+<year>2002</year>;<volume>75</volume>:<fpage>683</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">11916754</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jbm410358-cit-0018">
+<string-name>
+<surname>Yamaguchi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kanazawa</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Associations between components of the metabolic syndrome versus bone mineral density and vertebral fractures in patients with type 2 diabetes</article-title>. <source xml:lang="en">Bone.</source>
+<year>2009</year>;<volume>45</volume>:<fpage>174</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">19446053</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jbm410358-cit-0019">
+<string-name>
+<surname>Ruyssen&#x02010;Witrand</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gossec</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kolta</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dougados</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Roux</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Vertebral dimensions as risk factor of vertebral fracture in osteoporotic patients: a systematic literature review</article-title>. <source xml:lang="en">Osteoporos Int.</source>
+<year>2007</year>;<volume>18</volume>:<fpage>1271</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">17340217</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jbm410358-cit-0020">
+<string-name>
+<surname>Brinckmann</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Biggemann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hilweg</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Prediction of the compressive strength of human lumbar vertebrae</article-title>. <source xml:lang="en">Clin Biomech</source>. <year>1989</year>;<volume>4</volume>(<issue>Suppl 2</issue>):<elocation-id>iii&#x02013;27</elocation-id>.</mixed-citation></ref><ref id="jbm410358-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jbm410358-cit-0021">
+<string-name>
+<surname>Seeman</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Clinical review 137: sexual dimorphism in skeletal size, density, and strength</article-title>. <source xml:lang="en">J Clin Endocrinol Metab.</source>
+<year>2001</year>;<volume>86</volume>:<fpage>4576</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">11600506</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jbm410358-cit-0022">
+<string-name>
+<surname>Junno</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Paananen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Karppinen</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Age&#x02010;related trends in vertebral dimensions</article-title>. <source xml:lang="en">J Anat.</source>
+<year>2015</year>;<volume>226</volume>:<fpage>434</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">25913516</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jbm410358-cit-0023">
+<string-name>
+<surname>Siris</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Baim</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nattiv</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Primary care use of FRAX: absolute fracture risk assessment in postmenopausal women and older men</article-title>. <source xml:lang="en">Postgrad Med.</source>
+<year>2010</year>;<volume>122</volume>:<fpage>82</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">20107292</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jbm410358-cit-0024">
+<string-name>
+<surname>Lillholm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ghosh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pettersen</surname>
+<given-names>PC</given-names>
+</string-name>, et al. <article-title>Vertebral fracture risk (VFR) score for fracture prediction in postmenopausal women</article-title>. <source xml:lang="en">Osteoporos Int.</source>
+<year>2011</year>;<volume>22</volume>:<fpage>2119</fpage>&#x02013;<lpage>28</lpage>.<pub-id pub-id-type="pmid">21069295</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jbm410358-cit-0025">
+<string-name>
+<surname>Zvekic&#x02010;Svorcan</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Aleksic</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jankovic</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Capture the vertebral fracture: risk factors as a prediction</article-title>. <source xml:lang="en">J Back Musculoskelet Rehabil.</source>
+<year>2019</year>;<volume>32</volume>:<fpage>269</fpage>&#x02013;<lpage>76</lpage>.<pub-id pub-id-type="pmid">30347589</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jbm410358-cit-0026">
+<string-name>
+<surname>Lean</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>CE</given-names>
+</string-name>. <article-title>Waist circumference as a measure for indicating need for weight management</article-title>. <source xml:lang="en">BMJ.</source>
+<year>1995</year>;<volume>311</volume>:<fpage>158</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">7613427</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jbm410358-cit-0027">
+<string-name>
+<surname>Kanis</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Johnell</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Oden</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Johansson</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>McCloskey</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>FRAX and the assessment of fracture probability in men and women from the UK</article-title>. <source xml:lang="en">Osteoporos Int.</source>
+<year>2008</year>;<volume>19</volume>:<fpage>385</fpage>&#x02013;<lpage>97</lpage>.<pub-id pub-id-type="pmid">18292978</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jbm410358-cit-0028">
+<string-name>
+<surname>Puisto</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Heliovaara</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Impivaara</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Severity of vertebral fracture and risk of hip fracture: a nested case&#x02010;control study</article-title>. <source xml:lang="en">Osteoporos Int.</source>
+<year>2011</year>;<volume>22</volume>:<fpage>63</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">20195843</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jbm410358-cit-0029">
+<string-name>
+<surname>Prieto&#x02010;Alhambra</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Premaor</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Fina Aviles</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>The association between fracture and obesity is site&#x02010;dependent: a population&#x02010;based study in postmenopausal women</article-title>. <source xml:lang="en">J Bone Miner Res.</source>
+<year>2012</year>;<volume>27</volume>:<fpage>294</fpage>&#x02013;<lpage>300</lpage>.<pub-id pub-id-type="pmid">22095911</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jbm410358-cit-0030">
+<string-name>
+<surname>Liu</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wen</surname>
+<given-names>YB</given-names>
+</string-name>, et al. <article-title>Association of weight&#x02010;adjusted body fat and fat distribution with bone mineral density in middle&#x02010;aged Chinese adults: a cross&#x02010;sectional study</article-title>. <source xml:lang="en">PLoS One.</source>
+<year>2013</year>;<volume>8</volume>:<elocation-id>e63339</elocation-id>.<pub-id pub-id-type="pmid">23700417</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jbm410358-cit-0031">
+<string-name>
+<surname>Zhang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>SC</given-names>
+</string-name>. <article-title>Visceral adiposity is negatively associated with bone density and muscle attenuation</article-title>. <source xml:lang="en">Am J Clin Nutr.</source>
+<year>2015</year>;<volume>101</volume>:<fpage>337</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">25646331</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jbm410358-cit-0032">
+<string-name>
+<surname>Bredella</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Ghomi</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>BJ</given-names>
+</string-name>, et al. <article-title>Comparison of DXA and CT in the assessment of body composition in premenopausal women with obesity and anorexia nervosa</article-title>. <source xml:lang="en">Obesity</source>. <year>2010</year>;<volume>18</volume>:<fpage>2227</fpage>&#x02013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">20111013</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jbm410358-cit-0033">
+<string-name>
+<surname>Pavlova</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Muthuri</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Body mass index and waist circumference in early adulthood are associated with thoracolumbar spine shape at age 60&#x02010;64: the Medical Research Council National Survey of Health and Development</article-title>. <source xml:lang="en">PLoS One</source>. <year>2018</year>;<volume>13</volume>:<elocation-id>e0197570</elocation-id>.<pub-id pub-id-type="pmid">29902185</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jbm410358-cit-0034">
+<string-name>
+<surname>Janicka</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wren</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Sanchez</surname>
+<given-names>MM</given-names>
+</string-name>, et al. <article-title>Fat mass is not beneficial to bone in adolescents and young adults</article-title>. <source xml:lang="en">J Clin Endocrinol Metab.</source>
+<year>2007</year>;<volume>92</volume>:<fpage>143</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">17047019</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jbm410358-cit-0035">
+<string-name>
+<surname>Shepherd</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Schousboe</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Broy</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Engelke</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Leslie</surname>
+<given-names>WD</given-names>
+</string-name>. <article-title>Executive summary of the 2015 ISCD position development conference on advanced measures from DXA and QCT: fracture prediction beyond BMD</article-title>. <source xml:lang="en">J Clin Densitom.</source>
+<year>2015</year>;<volume>18</volume>:<fpage>274</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">26277847</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jbm410358-cit-0036">
+<string-name>
+<surname>Akhavanfar</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Kazemi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Eskandari</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Arjmand</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Obesity and spinal loads; a combined MR imaging and subject&#x02010;specific modeling investigation</article-title>. <source xml:lang="en">J Biomech.</source>
+<year>2018</year>;<volume>70</volume>:<fpage>102</fpage>&#x02013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">28859858</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jbm410358-cit-0037">
+<string-name>
+<surname>Hajihosseinali</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Arjmand</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Shirazi&#x02010;Adl</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Effect of body weight on spinal loads in various activities: a personalized biomechanical modeling approach</article-title>. <source xml:lang="en">J Biomech.</source>
+<year>2015</year>;<volume>48</volume>:<fpage>276</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">25498363</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jbm410358-cit-0038">
+<string-name>
+<surname>Ghezelbash</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Shirazi&#x02010;Adl</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Plamondon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Arjmand</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Parnianpour</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Obesity and obesity shape markedly influence spine biomechanics: a subject&#x02010;specific risk assessment model</article-title>. <source xml:lang="en">Ann Biomed Eng.</source>
+<year>2017</year>;<volume>45</volume>:<fpage>2373</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">28608245</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jbm410358-cit-0039">
+<string-name>
+<surname>Delmas</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>van de Langerijt</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Watts</surname>
+<given-names>NB</given-names>
+</string-name>, et al. <article-title>Underdiagnosis of vertebral fractures is a worldwide problem: the IMPACT study</article-title>. <source xml:lang="en">J Bone Miner Res.</source>
+<year>2005</year>;<volume>20</volume>:<fpage>557</fpage>&#x02013;<lpage>63</lpage>.<pub-id pub-id-type="pmid">15765173</pub-id></mixed-citation></ref><ref id="jbm410358-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jbm410358-cit-0040">
+<string-name>
+<surname>van Staa</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>Dennison</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Leufkens</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Epidemiology of fractures in England and Wales</article-title>. <source xml:lang="en">Bone</source>. <year>2001</year>;<volume>29</volume>:<fpage>517</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">11728921</pub-id></mixed-citation></ref></ref-list></back></article>

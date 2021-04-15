@@ -1,0 +1,1852 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">EMBO Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">EMBO Mol Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1757-4684</journal-id><journal-id journal-id-type="publisher-id">EMMM</journal-id><journal-id journal-id-type="hwp">embomm</journal-id><journal-title-group><journal-title>EMBO Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1757-4676</issn><issn pub-type="epub">1757-4684</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31015278</article-id><article-id pub-id-type="pmc">6554673</article-id><article-id pub-id-type="doi">10.15252/emmm.201810092</article-id><article-id pub-id-type="publisher-id">EMMM201810092</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Mutating chikungunya virus non&#x02010;structural protein produces potent live&#x02010;attenuated vaccine candidate</article-title><alt-title alt-title-type="left-running-head">Yi&#x02010;Hao Chan <italic>et&#x000a0;al</italic></alt-title></title-group><contrib-group><contrib id="emmm201810092-cr-0001" contrib-type="author"><name><surname>Chan</surname><given-names>Yi&#x02010;Hao</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="emmm201810092-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0002" contrib-type="author"><name><surname>Teo</surname><given-names>Teck&#x02010;Hui</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="emmm201810092-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0003" contrib-type="author"><name><surname>Utt</surname><given-names>Age</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0004" contrib-type="author"><name><surname>Tan</surname><given-names>Jeslin JL</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0005" contrib-type="author"><name><surname>Amrun</surname><given-names>Siti Naqiah</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0006" contrib-type="author"><name><surname>Abu Bakar</surname><given-names>Farhana</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="emmm201810092-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0007" contrib-type="author"><name><surname>Yee</surname><given-names>Wearn&#x02010;Xin</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0008" contrib-type="author"><name><surname>Becht</surname><given-names>Etienne</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0009" contrib-type="author"><name><surname>Lee</surname><given-names>Cheryl Yi&#x02010;Pin</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="emmm201810092-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0010" contrib-type="author"><name><surname>Lee</surname><given-names>Bernett</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0011" contrib-type="author"><name><surname>Rajarethinam</surname><given-names>Ravisankar</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0012" contrib-type="author"><name><surname>Newell</surname><given-names>Evan</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0013" contrib-type="author"><name><surname>Merits</surname><given-names>Andres</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0014" contrib-type="author"><name><surname>Carissimo</surname><given-names>Guillaume</given-names></name><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0015" contrib-type="author"><name><surname>Lum</surname><given-names>Fok&#x02010;Moon</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-5645-7048</contrib-id><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="emmm201810092-cr-0016" contrib-type="author" corresp="yes"><name><surname>Ng</surname><given-names>Lisa FP</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4071-5222</contrib-id><address><email>lisa_ng@immunol.a-star.edu.sg</email></address><xref ref-type="aff" rid="emmm201810092-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="emmm201810092-aff-0009">
+<sup>9</sup>
+</xref><xref ref-type="aff" rid="emmm201810092-aff-0010">
+<sup>10</sup>
+</xref></contrib></contrib-group><aff id="emmm201810092-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Singapore Immunology Network (SIgN)</named-content>
+<institution>Agency for Science, Technology and Research (A*STAR)</institution>
+<named-content content-type="city">Singapore City</named-content>
+<country country="SG">Singapore</country>
+</aff><aff id="emmm201810092-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">NUS Graduate School for Integrative Sciences and Engineering</named-content>
+<institution>National University of Singapore</institution>
+<named-content content-type="city">Singapore City</named-content>
+<country country="SG">Singapore</country>
+</aff><aff id="emmm201810092-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Molecular Microbial Pathogenesis Unit</named-content>
+<named-content content-type="organisation-division">Department of Cell Biology and Infection</named-content>
+<institution>Institute Pasteur</institution>
+<named-content content-type="city">Paris</named-content>
+<country country="FR">France</country>
+</aff><aff id="emmm201810092-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Institute of Technology</named-content>
+<institution>University of Tartu</institution>
+<named-content content-type="city">Tartu</named-content>
+<country country="EE">Estonia</country>
+</aff><aff id="emmm201810092-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">School of Biological Sciences</named-content>
+<institution>Nanyang Technological University</institution>
+<named-content content-type="city">Singapore City</named-content>
+<country country="SG">Singapore</country>
+</aff><aff id="emmm201810092-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Sir William Dunn School of Pathology</named-content>
+<institution>University of Oxford</institution>
+<named-content content-type="city">Oxford</named-content>
+<country country="GB">UK</country>
+</aff><aff id="emmm201810092-aff-0007">
+<label><sup>7</sup></label>
+<institution>Fred Hutchinson Cancer Research Center</institution>
+<named-content content-type="city">Seattle</named-content>
+<named-content content-type="country-part">WA</named-content>
+<country country="US">USA</country>
+</aff><aff id="emmm201810092-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Institute of Molecular and Cell Biology</named-content>
+<institution>A*STAR</institution>
+<named-content content-type="city">Singapore City</named-content>
+<country country="SG">Singapore</country>
+</aff><aff id="emmm201810092-aff-0009">
+<label><sup>9</sup></label>
+<named-content content-type="organisation-division">Department of Biochemistry</named-content>
+<named-content content-type="organisation-division">Yong Loo Lin School of Medicine</named-content>
+<institution>National University of Singapore</institution>
+<named-content content-type="city">Singapore City</named-content>
+<country country="SG">Singapore</country>
+</aff><aff id="emmm201810092-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Institute of Infection and Global Health</named-content>
+<institution>University of Liverpool</institution>
+<named-content content-type="city">Liverpool</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Corresponding author. Tel: +65&#x000a0;64070028; Fax: +65&#x000a0;64642057; E&#x02010;mail: <email>lisa_ng@immunol.a-star.edu.sg</email></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>4</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2019</year></pub-date><volume>11</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/emmm.v11.6</issue-id><elocation-id>e10092</elocation-id><history><date date-type="received"><day>20</day><month>11</month><year>2018</year></date><date date-type="rev-recd"><day>27</day><month>3</month><year>2019</year></date><date date-type="accepted"><day>28</day><month>3</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 EMBO <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 Agency for Science, Technology and Research (A*STAR). Published under the terms of the CC BY 4.0 license</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EMMM-11-e10092.pdf"/><abstract id="emmm201810092-abs-0001"><title>Abstract</title><p>Currently, there are no commercially available live&#x02010;attenuated vaccines against chikungunya virus (<styled-content style="fixed-case">CHIKV</styled-content>). Here, <styled-content style="fixed-case">CHIKV</styled-content>s with mutations in non&#x02010;structural proteins (nsPs) were investigated for their suitability as attenuated <styled-content style="fixed-case">CHIKV</styled-content> vaccines. R532H mutation in nsP1 caused reduced infectivity in mouse tail fibroblasts but an enhanced type&#x02010;I <styled-content style="fixed-case">IFN</styled-content> response compared to <styled-content style="fixed-case">WT</styled-content>&#x02010;<styled-content style="fixed-case">CHIKV</styled-content>. Adult mice infected with this nsP&#x02010;mutant exhibited a mild joint phenotype with low&#x02010;level viremia that rapidly cleared. Mechanistically, ingenuity pathway analyses revealed a tilt in the anti&#x02010;inflammatory <styled-content style="fixed-case">IL</styled-content>&#x02010;10 versus pro&#x02010;inflammatory <styled-content style="fixed-case">IL</styled-content>&#x02010;1&#x003b2; and <styled-content style="fixed-case">IL</styled-content>&#x02010;18 balance during <styled-content style="fixed-case">CHIKV</styled-content> nsP&#x02010;mutant infection that modified acute antiviral and cell signaling canonical pathways. Challenging <styled-content style="fixed-case">CHIKV</styled-content> nsP&#x02010;mutant&#x02010;infected mice with <styled-content style="fixed-case">WT</styled-content>&#x02010;<styled-content style="fixed-case">CHIKV</styled-content> or the closely related O'nyong&#x02010;nyong virus resulted in no detectable viremia, observable joint inflammation, or damage. Challenged mice showed high antibody titers with efficient neutralizing capacity, indicative of immunological memory. Manipulating molecular processes that govern <styled-content style="fixed-case">CHIKV</styled-content> replication could lead to plausible vaccine candidates against alphavirus infection.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="emmm201810092-kwd-0001">chikungunya</kwd><kwd id="emmm201810092-kwd-0002">live&#x02010;attenuated vaccine</kwd><kwd id="emmm201810092-kwd-0003">mutation</kwd><kwd id="emmm201810092-kwd-0004">neutralizing antibody</kwd><kwd id="emmm201810092-kwd-0005">non&#x02010;structural protein</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Immunology</kwd><kwd>Microbiology, Virology &#x00026; Host Pathogen Interaction</kwd></kwd-group><funding-group><award-group><funding-source>SIgN, Agency for Science, Technology and Research (A*STAR)</funding-source></award-group><award-group><funding-source>Biomedical Research Council</funding-source></award-group><award-group><funding-source>A*STAR Graduate Scholarships</funding-source></award-group><award-group><funding-source>BMRC</funding-source><award-id>IAF 311006</award-id><award-id>#H16/99/b0/011</award-id></award-group></funding-group><counts><fig-count count="12"/><table-count count="0"/><page-count count="17"/><word-count count="12155"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>emmm201810092</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.4 mode:remove_FC converted:07.06.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="emmm201810092-cit-1001">
+<source xml:lang="en">EMBO Mol Med</source> (<year>2019</year>) <volume>11</volume>: <elocation-id>e10092</elocation-id>
+</mixed-citation>
+</p></notes></front><body><sec id="emmm201810092-sec-0001"><title>Introduction</title><p>Chikungunya virus (CHIKV) is a mosquito&#x02010;borne alphavirus that causes chikungunya fever (CHIKF). Patients with CHIKF suffer from hallmark bilateral polyarthralgia accompanied by abrupt fever onset, a maculopapular rash, headache, and fatigue (Kam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0027" ref-type="ref">2009</xref>; Schwartz &#x00026; Albert, <xref rid="emmm201810092-bib-0061" ref-type="ref">2010</xref>). Viremia in the majority of CHIKV&#x02010;infected patients usually clears after 10&#x000a0;days, with no signs of further complications; however, up to 30% of patients can go on to experience prolonged debilitating arthralgia that can last up to years (Strauss &#x00026; Strauss, <xref rid="emmm201810092-bib-0064" ref-type="ref">1994</xref>).</p><p>CHIKV outbreaks are prevalent, as highlighted by recent outbreaks in Bangladesh in 2017 and the Americas, Thailand, Sudan, and Kenya in 2018 (Kabir <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0026" ref-type="ref">2017</xref>; European Centre for Disease Prevention and Control, <xref rid="emmm201810092-bib-0015" ref-type="ref">2018</xref>). Given the acute and chronic disabilities caused by CHIKV infection and the associated economic burden, effective preventive measures are urgently needed to halt CHIKV global expansion. A number of CHIKV vaccine candidates have been described, including attenuated or inactivated CHIKV, alphavirus chimeras, and subunit and genetic vaccines (Eckels <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0013" ref-type="ref">1970</xref>; Harrison <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0021" ref-type="ref">1971</xref>; Edelman <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0014" ref-type="ref">2000</xref>; Wang <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0068" ref-type="ref">2008</xref>). Attenuated vaccines can potently trigger CHIKV protection by stimulating both innate and adaptive immunity without causing disease (Baron, <xref rid="emmm201810092-bib-0002" ref-type="ref">1996</xref>). One attenuated CHIKV vaccine (181/clone 25) was developed and clinically evaluated (Levitt <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0036" ref-type="ref">1986</xref>; McClain <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0041" ref-type="ref">1998</xref>) but clinical trials were halted early when five treated subjects developed transient (&#x0003c;&#x000a0;24&#x000a0;h), mild arthralgia within the first 2&#x000a0;weeks of vaccination (Gorchakov <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0019" ref-type="ref">2012</xref>). Recently, a live&#x02010;attenuated vaccine (MV&#x02010;CHIK), generated from the insertion of CHIKV structural proteins into measles vectored vaccine strain, showed positive results in a phase 2 clinical trial (Ramsauer <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0053" ref-type="ref">2015</xref>; Reisinger <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0054" ref-type="ref">2018</xref>).</p><p>Innate immunity is the first line of defense against early pathogen infection, as adaptive immunity takes &#x0003e;&#x000a0;1&#x000a0;week to develop. A type&#x02010;I interferon (IFN) response is induced during CHIKV infection in both patients and experimental models (Ng <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0047" ref-type="ref">2009</xref>; Gardner <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0018" ref-type="ref">2010</xref>; Chow <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0010" ref-type="ref">2011</xref>; Teng <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0065" ref-type="ref">2015</xref>; Simarmata <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0062" ref-type="ref">2016</xref>). The importance of this response was demonstrated when mice deficient in type&#x02010;I IFN receptors succumbed to CHIKV infection (Couderc <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0011" ref-type="ref">2008</xref>). Another study showed that CHIKV nsP2 inhibited type&#x02010;I IFN signaling and reduced expression of antiviral mediators in the host by inhibiting IFN&#x02010;stimulated JAK/STAT signaling and suppressing IFN&#x02010;induced gene expression (Fros <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0017" ref-type="ref">2010</xref>). Others have demonstrated the effects of key missense mutations on alphavirus non&#x02010;structural proteins (nsPs) processing and downstream virus&#x02013;host interactions (Heise <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0022" ref-type="ref">2003</xref>; Saul <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0058" ref-type="ref">2015</xref>). These findings highlight that CHIKV nsPs may be manipulated to generate attenuated CHIKV vaccine candidates.</p><p>Here, we characterized the activity of three CHIKV nsP&#x02010;mutants <italic>in&#x000a0;vitro</italic> and <italic>in&#x000a0;vivo</italic> and determined the effects of these mutants on CHIKV pathogenesis. We then evaluated whether these CHIKV nsP&#x02010;mutants may serve as potential CHIKV vaccines. Finally, we monitored whether the vaccine candidate elicited cross&#x02010;protection with a&#x000a0;re&#x02010;emerging, closely related alphavirus, O'nyong&#x02010;nyong virus (ONNV).</p></sec><sec id="emmm201810092-sec-0002"><title>Results</title><sec id="emmm201810092-sec-0003"><title>Mutations in non&#x02010;structural proteins (nsPs) decrease CHIKV infectivity <italic>in&#x000a0;vitro</italic>
+</title><p>Missense mutations in the Semliki Forest virus (SFV) nsP1/nsP2 cleavage site and nsP2 protease region influence nsP processing and host immune responses (Saul <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0058" ref-type="ref">2015</xref>). Using this concept, the corresponding point mutations were generated in CHIKV to determine whether these also elicit an effect on the immune response. The three mutants comprised: (i) RH&#x02010;CHIKV, an arginine to histidine substitution (R532H) in position P4 of the processing site between nsP1 and nsP2 (nsP1/2 cleavage site); (ii) EV&#x02010;CHIKV, a glutamic acid to valine substitution (E515V) in nsP2; and (iii) a double RHEV&#x02010;CHIKV mutant (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="emmm201810092-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><title>R532H and E515V mutations in the nsP region limit <styled-content style="fixed-case">CHIKV</styled-content> pathogenicity and alter type&#x02010;I interferon responses in <styled-content style="fixed-case">WT</styled-content> C57<styled-content style="fixed-case">BL</styled-content>/6 mice</title><p>
+<list list-type="simple" id="emmm201810092-list-0002"><list-item><label>A</label><p>Schematic of the CHIKV mutation sites, including CHIKV with R to H (RH), E to V (EV), or both (RHEV) amino acid (a.a) substitutions.</p></list-item><list-item><label>B</label><p>Percentage infectivity of mouse tail fibroblasts (MTFs) infected with WT&#x02010;, RH&#x02010;, RHEV&#x02010;, and EV&#x02010;CHIKV (MOI 10, <italic>n</italic>&#x000a0;=&#x000a0;3 per group) harvested at 12&#x000a0;hpi. Data are presented as the means&#x000a0;&#x000b1;&#x000a0;SEM. Statistical analyses were performed using two&#x02010;tailed paired <italic>t</italic>&#x02010;test (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.019 RH&#x02010;CHIKV, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.019 RHEV&#x02010;CHIKV, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.020 EV).</p></list-item><list-item><label>C, D</label><p>(C) Viremia progression and (D) joint inflammation in virus&#x02010;infected mice were monitored over 2&#x000a0;weeks (<italic>n</italic>&#x000a0;=&#x000a0;11 per group). Viremia is detected with CHIKV nsP1 probe via qRT&#x02013;PCR. Statistical analyses were performed using two&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test; viremia (***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000003 RH&#x02010;CHIKV 1&#x02013;5&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000065 RH&#x02010;CHIKV 6&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000281 RH&#x02010;CHIKV 7&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000079 RH&#x02010;CHIKV 8&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000275 RHEV&#x02010;CHIKV 1&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000281 RHEV&#x02010;CHIKV 2&#x02013;4&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000054 RHEV&#x02010;CHIKV 5&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000763 RHEV&#x02010;CHIKV 6&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000077 RHEV&#x02010;CHIKV 7&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000595 RHEV&#x02010;CHIKV 8&#x000a0;dpi, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.007 EV&#x02010;CHIKV 2&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000011 EV&#x02010;CHIKV 3&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000034 EV&#x02010;CHIKV 4&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000394 EV&#x02010;CHIKV 5&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000128 EV&#x02010;CHIKV 6&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000006 EV&#x02010;CHIKV 7&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000054 EV&#x02010;CHIKV 8&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.00017 EV&#x02010;CHIKV 10&#x000a0;dpi, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.041 EV&#x02010;CHIKV 12&#x000a0;dpi, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.012 EV&#x02010;CHIKV 14&#x000a0;dpi) and joint inflammation (***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000003 RH&#x02010;CHIKV 2&#x02013;4&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000006 RH&#x02010;CHIKV 5&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000003 RH&#x02010;CHIKV 6&#x02013;8&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000085 RH&#x02010;CHIKV 9&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000045 RH&#x02010;CHIKV 10&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000011 RH&#x02010;CHIKV 11&#x000a0;dpi, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.002 RH&#x02010;CHIKV 12&#x000a0;dpi, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.004 RH&#x02010;CHIKV 13&#x000a0;dpi, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.012 RH&#x02010;CHIKV 14&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000003 RHEV&#x02010;CHIKV 2&#x02013;3&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000411 RHEV&#x02010;CHIKV 4&#x000a0;dpi, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008 RHEV&#x02010;CHIKV 5&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000017 RHEV&#x02010;CHIKV 6&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000094 RHEV&#x02010;CHIKV 7&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000964 RHEV&#x02010;CHIKV 8&#x000a0;dpi, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.002 RHEV&#x02010;CHIKV 11&#x000a0;dpi, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 EV&#x02010;CHIKV 10&#x000a0;dpi). Error bars are SEM.</p></list-item><list-item><label>E</label><p>Compiled percentages of CHIKV&#x02010;infected (ZsGreen positive) leukocytes at 2&#x000a0;days post&#x02010;infection (dpi) for the respective groups (<italic>n</italic>&#x000a0;=&#x000a0;5 per group). Background ZsGreen signals are indicated by the dotted line. Statistical analyses were performed using two&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test **<italic>P</italic>&#x000a0;=&#x000a0;0.008 RH&#x02010;CHIKV, **<italic>P</italic>&#x000a0;=&#x000a0;0.008 RHEV&#x02010;CHIKV, **<italic>P</italic>&#x000a0;=&#x000a0;0.008 EV&#x02010;CHIKV. Error bars are SD.</p></list-item><list-item><label>F</label><p>Dot&#x02010;plots of the localized type&#x02010;I interferon (IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b2;) concentrations at 15&#x000a0;hpi. Data are expressed as the means&#x000a0;&#x000b1;&#x000a0;SD. Data were analyzed by one&#x02010;way ANOVA with <italic>post hoc</italic> Tukey test; IFN&#x02010;&#x003b1; (***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000418 WT&#x02010;CHIKV versus RH&#x02010;CHIKV, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000688 WT&#x02010;CHIKV versus RHEV&#x02010;CHIKV, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000407 RH&#x02010;CHIKV versus EV&#x02010;CHIKV, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.00122 RH&#x02010;CHIKV versus PBS, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.00067 RHEV&#x02010;CHIKV versus EV&#x02010;CHIKV, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.002014 RHEV&#x02010;CHIKV versus PBS) and IFN&#x02010;&#x003b2; (***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 WT&#x02010;CHIKV versus RH&#x02010;CHIKV, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 WT&#x02010;CHIKV versus RHEV&#x02010;CHIKV, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 RH&#x02010;CHIKV versus EV&#x02010;CHIKV, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 RH&#x02010;CHIKV versus PBS, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000001 RHEV&#x02010;CHIKV versus EV&#x02010;CHIKV, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 RHEV&#x02010;CHIKV versus PBS). See also Fig&#x000a0;<xref rid="emmm201810092-fig-0001ev" ref-type="fig">EV1</xref>. <italic>n</italic>&#x000a0;=&#x000a0;5 per group. Data is from one independent experiment.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-5" xlink:href="EMMM-11-e10092-g002"/></fig><p>The effects of the mutations on virus infectivity and replication <italic>in&#x000a0;vitro</italic> in MTFs were first monitored. Although all three CHIKV nsP&#x02010;mutants showed decreased virus infectivity capacity (Figs&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>B and <xref rid="emmm201810092-fig-0001ev" ref-type="fig">EV1</xref>A), only RH&#x02010;CHIKV and RHEV&#x02010;CHIKV showed a low viral RNA titer compared to WT&#x02010;CHIKV at 12&#x000a0;hpi (Fig&#x000a0;<xref rid="emmm201810092-fig-0001ev" ref-type="fig">EV1</xref>B), indicative of reduced viral replication. IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b2; levels in the MTF supernatant were then quantified, as early CHIKV replication in host cells is tightly regulated by the type&#x02010;I IFN response (Schilte <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0059" ref-type="ref">2010</xref>). Indeed, the reduced viral RNA titers produced by RH&#x02010;CHIKV and RHEV&#x02010;CHIKV were associated with higher soluble IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b2; levels (Fig&#x000a0;<xref rid="emmm201810092-fig-0001ev" ref-type="fig">EV1</xref>C and D). Conversely, we observed low levels of IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b2; induction in the WT&#x02010; and EV&#x02010;CHIKV&#x02010;infected MTFs at 12&#x000a0;hpi (Fig&#x000a0;<xref rid="emmm201810092-fig-0001ev" ref-type="fig">EV1</xref>C and D), suggesting that these viruses did not induce a strong type&#x02010;I IFN response.</p><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="emmm201810092-fig-0001ev" orientation="portrait" position="float"><label>Figure EV1</label><caption><title>R532H and E515V mutations in nsP regions limit <styled-content style="fixed-case">CHIKV</styled-content> pathogenicity in primary <styled-content style="fixed-case">MTF</styled-content>s and affect proteolytic cleavage of nsP1/2</title><p>
+<list list-type="simple" id="emmm201810092-list-0008"><list-item><label>A</label><p>Representative fluorescence&#x02010;activated cell sorting histograms showing CHIKV nsP&#x02010;mutant infectivity of MTFs at 12&#x000a0;hpi.</p></list-item><list-item><label>B</label><p>Viral load of MTFs infected with WT&#x02010;, RH&#x02010;, RHEV&#x02010;, and EV&#x02010;CHIKV (MOI 10, <italic>n</italic>&#x000a0;=&#x000a0;3 per group) harvested at 12&#x000a0;hpi. Error bars are SEM.</p></list-item><list-item><label>C, D</label><p>Concentrations of soluble (C) IFN&#x02010;&#x003b1; and (D) IFN&#x02010;&#x003b2; levels in the supernatant of infected MTFs were measured by type&#x02010;I interferon detection immunoassay. Data are representative of three independent experiments and are presented as the means&#x000a0;&#x000b1;&#x000a0;SEM. Statistical analyses were performed using two&#x02010;tailed paired <italic>t</italic>&#x02010;test.</p></list-item><list-item><label>E</label><p>BHK&#x02010;21 cells were infected with WT&#x02010;CHIKV, RH&#x02010;CHIKV, EV&#x02010;CHIKV, or RHEV&#x02010;CHIKV (MOI 10). At 3&#x000a0;hpi, cells were starved (37&#x000b0;C, 30&#x000a0;min) in methionine&#x02010; and cysteine&#x02010;free DMEM. Cells were subsequently pulse&#x02010;labeled for 15&#x000a0;min with <sup>35</sup>S&#x02010;labeled methionine&#x02013;cysteine and chased for 45&#x000a0;min in DMEM containing excess unlabeled methionine and cysteine before lysis. NsPs were immunoprecipitated from cell lysates using combination of antibodies directed against nsP1 and nsP3 (1&#x000a0;+&#x000a0;3), or against nsP2 and nsP4 (2&#x000a0;+&#x000a0;4). Immunoprecipitated proteins were denatured by heating in Laemmli buffer and separated using 8% SDS&#x02013;PAGE and visualized using Typhoon imager.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-7" xlink:href="EMMM-11-e10092-g003"/></fig><p>The attenuation of RH&#x02010;CHIKV and RHEV&#x02010;CHIKV could stem from changes in polyprotein processing due to mutation, like in the case of SFV (Saul <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0058" ref-type="ref">2015</xref>). To analyze the effects of R532H and E515V mutation on CHIKV polyprotein processing, a pulse&#x02010;chase experiment was performed in BHK&#x02010;21 cells. For WT&#x02010;CHIKV&#x02010;infected cells, all mature nsPs, P1234 precursor, P123, P12, and P34 processing intermediates were detected in pulse samples (0&#x000a0;min; Fig&#x000a0;<xref rid="emmm201810092-fig-0001ev" ref-type="fig">EV1</xref>E). The levels of nsPs were shown to increase during the 45&#x02010;min chase experiment. EV&#x02010;CHIKV samples also showed comparable nsPs levels during the pulse (0&#x000a0;min) and chase (45&#x000a0;min). In contrast, the amount of mature nsPs in RH&#x02010;CHIKV&#x02010; and RHEV&#x02010;CHIKV&#x02010;infected cells were significantly decreased in both pulse (0&#x000a0;min) and chase (45&#x000a0;min), indicating a reduction in polyprotein processing efficiency and CHIKV replication.</p></sec><sec id="emmm201810092-sec-0004"><title>RH and RHEV nsP&#x02010;mutants attenuate CHIKV pathogenesis <italic>in&#x000a0;vivo</italic>
+</title><p>To ascertain whether reduced CHIKV replication also affects disease outcomes <italic>in&#x000a0;vivo</italic>, CHIKV nsP&#x02010;mutants were assessed in adult mice (Gardner <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0018" ref-type="ref">2010</xref>). Compared to the classic WT&#x02010;CHIKV infection phenotype, a drastic reduction in acute viremia (1&#x02013;4&#x000a0;dpi) was observed in RH&#x02010;CHIKV&#x02010; and RHEV&#x02010;CHIKV&#x02010;infected mice (2&#x02013;3 log units). In addition, complete viremia clearance was achieved by 8&#x000a0;dpi, 2&#x000a0;days earlier than in WT&#x02010;CHIKV infection (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>C). Nevertheless, the trend of disease progression remained similar between WT&#x02010;CHIKV, RH&#x02010;CHIKV, and RHEV&#x02010;CHIKV, with joint footpad inflammation peaking at 6&#x000a0;dpi (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>D). Instead, EV&#x02010;CHIKV showed heightened disease progression, with significantly higher viremia and severe joint inflammation compared to WT&#x02010;CHIKV, RHEV&#x02010;CHIKV, and RH&#x02010;CHIKV (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>C and D). These results are in line with the inefficient polyprotein processing of RH&#x02010;CHIKV and RHEV&#x02010;CHIKV, affecting replication complex assembly and CHIKV replication.</p><p>To examine whether reduced CHIKV nsP&#x02010;mutant infectivity <italic>in&#x000a0;vitro</italic> (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>B) translated <italic>in&#x000a0;vivo</italic>, joint footpad cells were harvested from mice during the peak of WT&#x02010;CHIKV viremia at 2&#x000a0;dpi and infection profiles were determined by flow cytometry (Fig&#x000a0;<xref rid="emmm201810092-fig-0002ev" ref-type="fig">EV2</xref>A). All three CHIKV nsP&#x02010;mutants showed significantly reduced virus infection in joint footpad CD45<sup>+</sup> leukocytes at 2&#x000a0;dpi (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>E). In addition, the reduced virus infectivity of all CHIKV nsP&#x02010;mutants was also observed in CD45&#x02010;negative cells in the CHIKV&#x02010;infected joints (Fig&#x000a0;<xref rid="emmm201810092-fig-0002ev" ref-type="fig">EV2</xref>B). The reduced infectivity in RH&#x02010;CHIKV and RHEV&#x02010;CHIKV could be due to an inefficient replication complex assembly. Interestingly, EV&#x02010;CHIKV showed comparable pathology in virus&#x02010;infected joints and a higher viremia as WT&#x02010;CHIKV, but infectivity in cell subsets was also reduced. It is possible that EV&#x02010;CHIKV was replicating well in other cell types like fibroblasts (Couderc <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0011" ref-type="ref">2008</xref>), which contributed to the increased viral titer.</p><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="emmm201810092-fig-0002ev" orientation="portrait" position="float"><label>Figure EV2</label><caption><title>R532H and E515V mutations in <styled-content style="fixed-case">CHIKV</styled-content> nsPs result in lower infectivity at the site of inflammation</title><p>
+<styled-content style="fixed-case">WT</styled-content> C57<styled-content style="fixed-case">BL</styled-content>/6 mice were infected subcutaneously with 1E6 <styled-content style="fixed-case">PFU</styled-content> ZsGreen&#x02010;tagged <styled-content style="fixed-case">WT</styled-content>&#x02010;<styled-content style="fixed-case">CHIKV</styled-content>,<styled-content style="fixed-case"> RH</styled-content>&#x02010;<styled-content style="fixed-case">CHIKV</styled-content>, EV&#x02010;<styled-content style="fixed-case">CHIKV</styled-content>, and <styled-content style="fixed-case">RHEV</styled-content>&#x02010;<styled-content style="fixed-case">CHIKV</styled-content> at the metatarsal region of the footpad.
+<list list-type="alpha-upper" id="emmm201810092-list-0009"><list-item><p>Representative fluorescence&#x02010;activated cell sorting gating strategy to isolate specific leukocyte subsets.</p></list-item><list-item><p>Infection at both 2 and 6&#x000a0;dpi was assessed in CD45&#x02010; cells. Background ZsGreen signals are indicated by the dotted line. The data are presented as the means&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;=&#x000a0;5 per group). Statistical analyses were performed using two&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test (**<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008 RH&#x02010;CHIKV 2 and 6&#x000a0;dpi, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008 RHEV&#x02010;CHIKV 2 and 6&#x000a0;dpi, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.008 EV&#x02010;CHIKV 2 and 6&#x000a0;dpi).</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-9" xlink:href="EMMM-11-e10092-g005"/></fig></sec><sec id="emmm201810092-sec-0005"><title>Suppressed disease pathology during RH&#x02010;CHIKV and RHEV&#x02010;CHIKV infection is driven by differential host type&#x02010;I IFN and acute innate immune responses</title><p>To investigate whether differences in the type&#x02010;I IFN response (IFN&#x02010;&#x003b1;, IFN&#x02010;&#x003b2;) could be observed <italic>in&#x000a0;vivo</italic>, IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b2; levels were assessed in joint footpad cell lysates at 15&#x000a0;hpi. Consistent with earlier findings <italic>in&#x000a0;vitro</italic>, both RH&#x02010;CHIKV and RHEV&#x02010;CHIKV infections induced higher IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b2; levels compared to WT&#x02010;CHIKV and EV&#x02010;CHIKV (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>F), despite achieving a lower infection level than WT&#x02010;CHIKV.</p><p>The levels of immune mediators in joint footpad cell lysates were next quantified in the early acute infection phase (15&#x000a0;hpi), and at the peaks of viremia and first joint inflammation (2&#x000a0;dpi) and inflammation (6&#x000a0;dpi; Fig&#x000a0;<xref rid="emmm201810092-fig-0002" ref-type="fig">2</xref>). At 15&#x000a0;hpi, pro&#x02010;inflammatory mediators (IL&#x02010;1&#x003b2;, TNF&#x02010;&#x003b1;, IL&#x02010;15), chemokines (GRO&#x02010;&#x003b1;, MCP&#x02010;1, RANTES, MIP&#x02010;1&#x003b2;, MIP&#x02010;1&#x003b1;), and hematopoietic growth factors (GM&#x02010;CSF) were significantly higher in the virus&#x02010;infected joints of RH&#x02010;CHIKV and RHEV&#x02010;CHIKV mutants relative to WT&#x02010;CHIKV (Fig&#x000a0;<xref rid="emmm201810092-fig-0002" ref-type="fig">2</xref>, <xref rid="emmm201810092-sup-0002" ref-type="supplementary-material">Dataset EV1</xref>). These findings are consistent with the high levels of IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b2; in these mutants (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>F). Higher levels of anti&#x02010;inflammatory cytokines IL&#x02010;4 and IL&#x02010;5 were also observed in these mutants compared to WT&#x02010;CHIKV (Fig&#x000a0;<xref rid="emmm201810092-fig-0002" ref-type="fig">2</xref>, <xref rid="emmm201810092-sup-0002" ref-type="supplementary-material">Dataset EV1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="emmm201810092-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Mutations in <styled-content style="fixed-case">CHIKV</styled-content> nsP regions affect local immune responses during the acute disease phase</title><p>Cell lysates were collected from the joints of mice infected with WT&#x02010;CHIKV or CHIKV nsP&#x02010;mutants at 15&#x000a0;hpi, 2&#x000a0;dpi, or 6&#x000a0;dpi (<italic>n</italic>&#x000a0;=&#x000a0;5 per group). The concentrations of 36 immune mediators were quantified using a 36&#x02010;plex microbead&#x02010;based immunoassay. Immune mediators are grouped based on function. Each color represents the relative concentration of a particular analyte. Blue and red indicate low and high concentrations, respectively. See also <xref rid="emmm201810092-sup-0002" ref-type="supplementary-material">Dataset EV1</xref>.</p></caption><graphic id="nlm-graphic-11" xlink:href="EMMM-11-e10092-g004"/></fig><p>At 2&#x000a0;dpi, this induction of immune mediators in the RH&#x02010;CHIKV&#x02010; and RHEV&#x02010;CHIKV&#x02010;infected joints became less prominent. Instead, cytokines such as GM&#x02010;CSF, G&#x02010;CSF, IL&#x02010;4, IL&#x02010;5, and IL&#x02010;18 were increased in the virus&#x02010;infected joints of WT&#x02010;CHIKV and EV&#x02010;CHIKV mice (Fig&#x000a0;<xref rid="emmm201810092-fig-0002" ref-type="fig">2</xref>, <xref rid="emmm201810092-sup-0002" ref-type="supplementary-material">Dataset EV1</xref>), suggesting a slower inflammatory response compared to RH&#x02010;CHIKV&#x02010; and RHEV&#x02010;CHIKV&#x02010;infected joints. At the peak of joint inflammation (6&#x000a0;dpi), RH&#x02010;CHIKV&#x02010; and RHEV&#x02010;CHIKV&#x02010;infected joints showed higher levels of anti&#x02010;inflammatory mediator IL&#x02010;10, and the chemokine eotaxin. Importantly, these infected joints also showed lower levels of pro&#x02010;inflammatory mediators (IL&#x02010;1&#x003b2;, IL&#x02010;1&#x003b1;, IL&#x02010;6, IL&#x02010;23, TNF&#x02010;&#x003b1;) and higher levels of pro&#x02010;inflammatory mediators (IL&#x02010;17A, IL&#x02010;31) when compared to WT&#x02010;CHIKV&#x02010;infected joints (Fig&#x000a0;<xref rid="emmm201810092-fig-0002" ref-type="fig">2</xref>, <xref rid="emmm201810092-sup-0002" ref-type="supplementary-material">Dataset EV1</xref>). The well&#x02010;regulated immune responses in the RH&#x02010;CHIKV&#x02010; and RHEV&#x02010;CHIKV&#x02010;infected mice indicate that an early increase in pro&#x02010;inflammatory mediators (15&#x000a0;hpi) followed by gradual depletion from 2 to 6&#x000a0;dpi is associated with suppressed disease pathology.</p></sec><sec id="emmm201810092-sec-0006"><title>Differences in acute antiviral and cell signaling canonical pathways augment CHIKV disease pathology</title><p>To identify the possible cellular pathways involved in the suppressed CHIKV disease pathology elicited by attenuated CHIKVs (RH&#x02010;CHIKV and RHEV&#x02010;CHIKV), ingenuity pathway analysis (IPA) was performed on the analytes described above (Fig&#x000a0;<xref rid="emmm201810092-fig-0002" ref-type="fig">2</xref>) and on publicly available RNA&#x02010;seq data from WT&#x02010;CHIKV&#x02010;infected joints (S1 Table in Wilson <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0070" ref-type="ref">2017</xref>) exhibiting complete or partial agreement (either 0&#x000a0;dpi to 2&#x000a0;dpi, or 2&#x000a0;dpi to 6/7&#x000a0;dpi) in their expression state.</p><p>IPA of the analytes and transcripts that were up&#x02010;regulated from mock to 2&#x000a0;dpi and then down&#x02010;regulated from 2&#x000a0;dpi to 6&#x02013;7&#x000a0;dpi (as previously observed; Fig&#x000a0;<xref rid="emmm201810092-fig-0002" ref-type="fig">2</xref>) was first performed. Four of the top five canonical pathways found were involved in acute antiviral responses (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>B). Many of the associated differentially expressed transcripts present in the acute antiviral canonical pathways, including DDX58, DHX58, IFIH1, IFIT2, IFNA4, IFNB1, IL5, IL6, IL10, IRF7, ISG15, STAT2, CCL5, EIF2AK2, LIF, OAS1, OAS2, OAS3, TLR2, TLR3, IFIT3, and IFITM3 (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>C), have been previously associated with the acute phase of CHIKV infection (Sourisseau <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0063" ref-type="ref">2007</xref>; Fros <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0017" ref-type="ref">2010</xref>; Gardner <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0018" ref-type="ref">2010</xref>; Werneke <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0069" ref-type="ref">2011</xref>; Schilte <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0060" ref-type="ref">2012</xref>; Chiam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0008" ref-type="ref">2015</xref>; Choi <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0009" ref-type="ref">2015</xref>; Her <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0024" ref-type="ref">2015</xref>; Reynaud <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0055" ref-type="ref">2015</xref>; Inglis <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0025" ref-type="ref">2016</xref>; Poddar <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0050" ref-type="ref">2016</xref>; Sanchez David <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0057" ref-type="ref">2016</xref>; Simarmata <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0062" ref-type="ref">2016</xref>). Comparing all CHIKV nsP&#x02010;mutants with WT&#x02010;CHIKV&#x02010;infected joints revealed differences in GRO&#x02010;&#x003b1; at 2&#x000a0;dpi, and IL&#x02010;27 and IL&#x02010;10 at 6&#x000a0;dpi in RH&#x02010;CHIKV&#x02010;infected joints, which participate in these acute antiviral canonical pathways (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="emmm201810092-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Attenuated <styled-content style="fixed-case">CHIKV</styled-content> infection may be due to aberrations in acute antiviral and cell signaling canonical pathways</title><p>
+<list list-type="simple" id="emmm201810092-list-0003"><list-item><label>A&#x02013;F</label><p>Luminex analytes from WT&#x02010;CHIKV&#x02010;infected joint cell lysates are categorized based on fold change states [up, down, or no difference (ND)] at 2&#x000a0;dpi relative to mock, and 6&#x000a0;dpi relative to 2&#x000a0;dpi. The numbers in the heatmap represent Log<sub>2</sub> fold changes of analytes or genes. Analytes in complete or partial agreement with corresponding gene expression values derived from RNA&#x02010;sequencing (RNA&#x02010;seq) data appeared predominantly in the (A) up then down state (mock to 2&#x000a0;dpi, then 2 to 6&#x000a0;dpi, respectively), or (D) up then ND state (mock to 2&#x000a0;dpi, then 2 to 6&#x000a0;dpi, respectively). &#x02020; indicates analyte involvement in the canonical pathways. Differences in analyte concentrations during attenuated CHIKV infection are indicated in the checkbox. Yellow represents lower, while green represents higher concentrations relative to WT&#x02010;CHIKV. Data were analyzed by one&#x02010;way ANOVA with <italic>post hoc</italic> Tukey test; *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05, **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01, and ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001. (B, E) Top canonical pathways discovered by ingenuity pathway analysis (IPA). The study analytes and transcripts in the RNA&#x02010;seq data from wild&#x02010;type CHIKV&#x02010;infected and mock&#x02010;infected samples in the same states were used. (C, F) Corresponding associated transcripts in acute antiviral and cell signaling canonical pathways are presented as a heatmap showing the Log<sub>2</sub> fold change. For exact <italic>P</italic>&#x02010;values, see <xref rid="emmm201810092-sup-0003" ref-type="supplementary-material">Dataset EV2</xref>.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-13" xlink:href="EMMM-11-e10092-g006"/></fig><p>IPA was then repeated for analytes and transcripts that were up&#x02010;regulated from mock to 2&#x000a0;dpi, but showed no difference from 2&#x000a0;dpi to 6&#x02013;7&#x000a0;dpi (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>D). Here, two of the top five canonical pathways were involved in cell signaling (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>E). Many of the associated transcripts in the cell signaling canonical pathways, including CCL4, CD40, CSF2, IL15, IL18, IL1&#x003b2;, and TNF (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>F), have been previously associated with CHIKV infection (Ng <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0047" ref-type="ref">2009</xref>; Labadie <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0034" ref-type="ref">2010</xref>; Chow <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0010" ref-type="ref">2011</xref>; Kelvin <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0031" ref-type="ref">2011</xref>; Simarmata <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0062" ref-type="ref">2016</xref>; Michlmayr <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0043" ref-type="ref">2018</xref>). Comparing all CHIKV nsP&#x02010;mutants with WT&#x02010;CHIKV&#x02010;infected joints revealed differences in analytes involved in cell signaling pathways, including MIP&#x02010;1&#x003b2;, IL&#x02010;1&#x003b2;, IL&#x02010;18, IFN&#x02010;&#x003b3;, and TNF&#x02010;&#x003b1; in RH&#x02010;CHIKV&#x02010;infected joints (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>D).</p></sec><sec id="emmm201810092-sec-0007"><title>High&#x02010;dimensional analysis reveals phenotypic differences in joint&#x02010;infiltrating leukocytes between CHIKV nsP&#x02010;mutant mice</title><p>The differences observed in the immune mediator profiles in all CHIKV nsP&#x02010;mutant&#x02010;infected groups may be due to differences in the leukocyte profile infiltrating the joints. To investigate this, joint footpad cells were harvested at 6&#x000a0;dpi and the immune&#x02010;cell profiles were characterized by flow cytometry (Fig&#x000a0;<xref rid="emmm201810092-fig-0003ev" ref-type="fig">EV3</xref>A). After quantifying the cell counts from major leukocyte subsets, including neutrophils, LFA&#x02010;1<sup>+</sup> CD4<sup>+</sup> T cells, LFA&#x02010;1<sup>+</sup> CD8<sup>+</sup> T cells, natural killer (NK) cells, and macrophages, no significant differences between the different groups were observed (Figs&#x000a0;<xref rid="emmm201810092-fig-0004" ref-type="fig">4</xref>A and <xref rid="emmm201810092-fig-0003ev" ref-type="fig">EV3</xref>A).</p><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="emmm201810092-fig-0003ev" orientation="portrait" position="float"><label>Figure EV3</label><caption><title>High&#x02010;dimensional analysis of fluorescence&#x02010;activated cell sorting (<styled-content style="fixed-case">FACS</styled-content>) data with <styled-content style="fixed-case">UMAP</styled-content> dimensionality reduction</title><p>
+<list list-type="alpha-upper" id="emmm201810092-list-0010"><list-item><p>Absolute numbers of immune subsets present in the joints as determined by immune&#x02010;phenotyping. Data are presented as the means&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;=&#x000a0;5 per group, except PBS <italic>n</italic>&#x000a0;=&#x000a0;10). No significance was obtained between the groups by Kruskal&#x02013;Wallis test with Dunn's multiple comparisons.</p></list-item><list-item><p>UMAP dimensionality reduction color&#x02010;coded by marker intensity. Representative visualizations of key surface marker expression levels on UMAP transformed FACS data. Joint cells were single&#x02010;stained for surface markers and acquired by flow cytometry.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-15" xlink:href="EMMM-11-e10092-g007"/></fig><fig fig-type="Figure" xml:lang="en" id="emmm201810092-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><title>High&#x02010;dimensional analysis of fluorescence&#x02010;activated cell sorting data reveals differences in <styled-content style="fixed-case">CHIKV</styled-content> nsP&#x02010;mutant&#x02010;infected groups</title><p>Joints from WT&#x02010;CHIKV&#x02010;, RH&#x02010;CHIKV&#x02010;, RHEV&#x02010;CHIKV&#x02010;, EV&#x02010;CHIKV&#x02010;, and mock&#x02010;infected WT C57BL/6 mice were harvested at 6&#x000a0;dpi.
+<list list-type="alpha-upper" id="emmm201810092-list-0004"><list-item><p>Absolute numbers of leukocytes present in the joints as determined by immune&#x02010;phenotyping. Data are presented as the means&#x000a0;&#x000b1;&#x000a0;SD (<italic>n</italic>&#x000a0;=&#x000a0;5 per group, except PBS <italic>n</italic>&#x000a0;=&#x000a0;10). No significance was obtained between the groups by Kruskal&#x02013;Wallis test with Dunn's multiple comparisons.</p></list-item><list-item><p>Jensen&#x02013;Shannon divergence heatmap showing the level of divergence between infected groups.</p></list-item><list-item><p>Superimposed PhenoGraphs of UMAP transformed FACS data from immune&#x02010;phenotyping of joint cells from WT&#x02010;CHIKV&#x02010;, RH&#x02010;CHIKV&#x02010;, RHEV&#x02010;CHIKV&#x02010;, EV&#x02010;CHIKV&#x02010;, and mock&#x02010;infected animals (<italic>n</italic>&#x000a0;=&#x000a0;5 per group).</p></list-item><list-item><p>PhenoGraph cluster IDs from 1 to 33. Clusters are grouped in proximity based on surface marker phenotypic similarities and do not represent conventional cell types.</p></list-item><list-item><p>Cluster ID annotation with heatmap. Cluster IDs are indicated in rows, while surface marker expression levels are indicated by the columns. The color represents the relative mean fluorescence intensity (MFI) of a surface marker. Blue and red represent low and high MFI, respectively. Red square and ovals highlight differences of several PhenoGraph clusters in infected joints at 6&#x000a0;dpi. See also Fig&#x000a0;<xref rid="emmm201810092-fig-0003ev" ref-type="fig">EV3</xref>.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-17" xlink:href="EMMM-11-e10092-g008"/></fig><p>To analyze this high&#x02010;dimensional cytometry dataset in an unbiased way, UMAP [an algorithm similar to t&#x02010;SNE that reduces data into two dimensions to retain both local and global structures (Becht <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0003" ref-type="ref">2019</xref>; preprint: McInnes &#x00026; Healy, <xref rid="emmm201810092-bib-0042" ref-type="ref">2018</xref>)] and PhenoGraph were used to obtain 33 clusters of cells with homogeneous marker expression profiles (Levine <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0035" ref-type="ref">2015</xref>). Cluster identity should be based on the collective expression levels of lineage surface markers. Using UMAP, a dissimilarity metric was computed across the samples (Jensen&#x02013;Shannon divergence; Amir <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0001" ref-type="ref">2013</xref>), and it confirmed that immune cells of each virus&#x02010;infected group were more similar to one another than to mock&#x02010;infected samples (Fig&#x000a0;<xref rid="emmm201810092-fig-0004" ref-type="fig">4</xref>B). This result is consistently observed on the UMAP biplot, which showed that mock&#x02010;infected joints were lacking an infiltrating leukocyte population corresponding to PhenoGraph clusters 1, 13, 14, 19, 29, 30, 32, 33 (Fig&#x000a0;<xref rid="emmm201810092-fig-0004" ref-type="fig">4</xref>C&#x02013;E). These clusters are collectively made up of populations expressing CD11b<sup>+</sup>, CD64<sup>+</sup>, Ly6C<sup>hi</sup>, and MHC&#x02010;II<sup>+</sup> (Figs&#x000a0;<xref rid="emmm201810092-fig-0004" ref-type="fig">4</xref>E and <xref rid="emmm201810092-fig-0003ev" ref-type="fig">EV3</xref>B), indicative of inflammatory monocytes (Haist <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0020" ref-type="ref">2017</xref>). Interestingly, the RH&#x02010;CHIKV&#x02010;infected group diverged the most from WT&#x02010;CHIKV and showed the highest level of similarity to the mock&#x02010;infected group (Fig&#x000a0;<xref rid="emmm201810092-fig-0004" ref-type="fig">4</xref>B).</p></sec><sec id="emmm201810092-sec-0008"><title>Challenge with RH&#x02010; and RHEV&#x02010;CHIKVs induces long&#x02010;lasting, neutralizing CHIKV&#x02010;specific antibodies</title><p>Given the attenuated infection phenotype elicited by RH&#x02010;CHIKV and RHEV&#x02010;CHIKV <italic>in&#x000a0;vivo</italic>, we hypothesized that these viruses may have potential as CHIKV vaccines. We considered the first infection as an episode of vaccination (Fig&#x000a0;<xref rid="emmm201810092-fig-0001" ref-type="fig">1</xref>C and D) and assessed the quantity and quality of the antibodies generated in these mice using virion&#x02010;based ELISA and neutralization assays (Kam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0028" ref-type="ref">2012a</xref>). While all mice vaccinated with CHIKV produced specific IgG detectable from 6&#x000a0;days post&#x02010;vaccination (dpv), the levels produced following RH&#x02010;CHIKV and RHEV&#x02010;CHIKV infection were lower than WT&#x02010;CHIKV and EV&#x02010;CHIKV (Fig&#x000a0;<xref rid="emmm201810092-fig-0005" ref-type="fig">5</xref>A). As the infection progressed to 14&#x000a0;dpv, however, we detected similar levels of CHIKV&#x02010;specific IgG between all infected groups (Fig&#x000a0;<xref rid="emmm201810092-fig-0005" ref-type="fig">5</xref>A). Concordantly, antibodies generated by RH&#x02010;CHIKV&#x02010; and RHEV&#x02010;CHIKV&#x02010;vaccinated mice were able to neutralize CHIKV infection from 6&#x000a0;dpv (Fig&#x000a0;<xref rid="emmm201810092-fig-0005ev" ref-type="fig">EV5</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="emmm201810092-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Vaccination with <styled-content style="fixed-case">CHIKV</styled-content> nsP&#x02010;mutants induces neutralizing antibodies and protects against pathology during <styled-content style="fixed-case">CHIKV</styled-content> challenge</title><p>
+<list list-type="simple" id="emmm201810092-list-0005"><list-item><label>A</label><p>Anti&#x02010;CHIKV IgG titers from the vaccination phase were determined with a CHIKV virion&#x02010;based ELISA. Sera from four animals were pooled and diluted 1:500 for the assay. Statistical analyses were performed using two&#x02010;tailed paired <italic>t</italic>&#x02010;test (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RH&#x02010;CHIKV 6&#x000a0;dpv, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RH&#x02010;CHIKV 90&#x000a0;dpv, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RHEV&#x02010;CHIKV 6&#x000a0;dpv, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RHEV&#x02010;CHIKV 90&#x000a0;dpv, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 EV&#x02010;CHIKV 90&#x000a0;dpv). Error bars are in SD.</p></list-item><list-item><label>B</label><p>Half maximal inhibitory concentration (IC<sub>50</sub>) of pooled sera collected on 90&#x000a0;dpv was characterized in HEK293T cells infected with WT&#x02010;CHIKV (MOI 5). Sera were serially diluted at 1:625,000, 1:125,000, 1:25,000, 1:16,000, 1:8,000, 1:5,000, 1:4,000, 1:2,000, 1:1,000, 1:500, 1:250. Sera dilution to obtain IC<sub>50</sub> is shown in parentheses. Data shown are representative of three independent experiments. Error bars are in SD.</p></list-item><list-item><label>C</label><p>WT C57BL/6 mice were vaccinated subcutaneously with 1E6 PFU of WT&#x02010;CHIKV or CHIKV nsP&#x02010;mutants (RH, RHEV, and EV) at the metatarsal region of the footpad. Challenge with 1E6 PFU of WT&#x02010;CHIKV was performed via the same route at 90&#x000a0;dpv.</p></list-item><list-item><label>D, E</label><p>(D) Viremia and (E) severity of joint inflammation were monitored over 2&#x000a0;weeks. Viremia is detected with CHIKV nsP1 probe via qRT&#x02013;PCR. The data are presented as the means&#x000a0;&#x000b1;&#x000a0;SD and are representative of two independent experiments (<italic>n</italic>&#x000a0;=&#x000a0;6 per group).</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-19" xlink:href="EMMM-11-e10092-g010"/></fig><p>To qualify as a protective CHIKV vaccine, the vaccine candidates should induce lasting CHIKV neutralizing antibodies. Indeed, all three CHIKV nsP&#x02010;mutant&#x02010;vaccinated groups showed similar titers of CHIKV&#x02010;specific IgG at 90&#x000a0;dpv (Fig&#x000a0;<xref rid="emmm201810092-fig-0005" ref-type="fig">5</xref>A). Half maximal inhibitory concentration (IC<sub>50</sub>) of the sera collected prior to WT&#x02010;CHIKV challenge at 90&#x000a0;dpv was also investigated. Notably, these antibodies retained their neutralizing capacity (Fig&#x000a0;<xref rid="emmm201810092-fig-0005" ref-type="fig">5</xref>B). Although the neutralizing capacity of antibodies for RH&#x02010;CHIKV&#x02010; and RHEV&#x02010;CHIKV&#x02010; was lower than WT&#x02010;CHIKV&#x02010;vaccinated mice at 90&#x000a0;dpv, shown by the lower dilution levels to reach IC<sub>50</sub> [RH&#x02010;CHIKV (1:613)&#x000a0;&#x0003c;&#x000a0;RHEV&#x02010;CHIKV (1:921)&#x000a0;&#x0003c;&#x000a0;WT&#x02010;CHIKV (1:2,863)], the levels of CHIKV neutralizing antibodies induced are sufficient for protection <italic>in&#x000a0;vivo</italic> when the vaccinated mice were challenged with WT&#x02010;CHIKV (Fig&#x000a0;<xref rid="emmm201810092-fig-0005" ref-type="fig">5</xref>C). Notably, there was neither detectable viremia in the peripheral blood nor observable joint swelling within 2&#x000a0;weeks from WT&#x02010;CHIKV challenge in any of the vaccine groups (Fig&#x000a0;<xref rid="emmm201810092-fig-0005" ref-type="fig">5</xref>D and E).</p><p>As RH&#x02010;CHIKV has the least pathologic symptoms upon vaccination, and can confer a protective response upon WT&#x02010;CHIKV challenge, it was investigated further as a vaccine candidate in &#x003bc;MT mice. These mice lack the ability to produce mature B cells and thus are unable to produce CHIKV&#x02010;specific antibodies following vaccination. As expected, vaccination with WT&#x02010;CHIKV or RH&#x02010;CHIKV conferred no protection (Fig&#x000a0;<xref rid="emmm201810092-fig-0004ev" ref-type="fig">EV4</xref>A and B), as both groups displayed viremia and joint inflammation during WT&#x02010;CHIKV challenge (Fig&#x000a0;<xref rid="emmm201810092-fig-0004ev" ref-type="fig">EV4</xref>C and D), confirming the role of neutralizing antibodies in disease protection (Lum <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0039" ref-type="ref">2013</xref>).</p><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="emmm201810092-fig-0004ev" orientation="portrait" position="float"><label>Figure EV4</label><caption><title>Antibodies are important in the protection against <styled-content style="fixed-case">WT</styled-content>&#x02010;<styled-content style="fixed-case">CHIV</styled-content> challenge</title><p>&#x003bc;<styled-content style="fixed-case">MT</styled-content> mice were vaccinated with either 1E6 <styled-content style="fixed-case">PFU WT</styled-content>&#x02010;<styled-content style="fixed-case">CHIKV</styled-content> or <styled-content style="fixed-case">RH</styled-content>&#x02010;<styled-content style="fixed-case">CHIKV</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;6&#x02013;8 per group) at the metatarsal region of the footpad.
+<list list-type="simple" id="emmm201810092-list-0011"><list-item><label>A, B</label><p>(A) Viremia and (B) joint inflammation in vaccinated mice were monitored over 2&#x000a0;weeks. Viremia is detected with CHIKV nsP1 probe via qRT&#x02013;PCR. Statistical analyses were performed using two&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test; viremia (***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000666 1&#x02013;3&#x000a0;dpv) and joint inflammation (***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000333 2&#x000a0;dpv, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000666 3&#x000a0;dpv, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.006 4&#x000a0;dpv, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.005 5&#x000a0;dpv, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000666 6&#x000a0;dpv, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000333 7&#x02013;8&#x000a0;dpv, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000666 9&#x02013;10&#x000a0;dpv, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000333 11&#x000a0;dpv, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.001 12&#x000a0;dpv, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.028 13&#x000a0;dpv, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000666 14&#x000a0;dpv). Error bars are in SEM.</p></list-item><list-item><label>C, D</label><p>(C) Vaccinated &#x003bc;MT mice were challenged with 1E6 PFU WT&#x02010;CHIKV (<italic>n</italic>&#x000a0;=&#x000a0;8&#x02013;10 per group) at the metatarsal region of the footpad. Joint inflammation and (D) viremia progression in challenged &#x003bc;MT mice were monitored over 2&#x000a0;weeks. The data are presented as the means&#x000a0;&#x000b1;&#x000a0;SEM and are representative of two independent experiments. Statistical analyses were performed using two&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test; viremia (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.016 2&#x000a0;dpc, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.009 3&#x000a0;dpc, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.016 4&#x000a0;dpc, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.009 7&#x000a0;dpc) and joint inflammation (**<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.006 3&#x000a0;dpc, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.001 5&#x000a0;dpc).</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-21" xlink:href="EMMM-11-e10092-g009"/></fig><p>To assess whether WT&#x02010;CHIKV challenge affected immunological memory development in the different mutant CHIKV&#x02010;vaccinated mice, we assessed CHIKV&#x02010;specific IgGs for neutralizing capacity on different days post&#x02010;challenge (dpc). Serum CHIKV&#x02010;specific IgGs from all vaccinated mice were significantly higher than mock&#x02010;vaccinated mice on 3, 6, and 14&#x000a0;dpc (Fig&#x000a0;<xref rid="emmm201810092-fig-0005ev" ref-type="fig">EV5</xref>B). In addition, the sera from the vaccinated mice were more neutralizing than the sera obtained from mock&#x02010;vaccinated mice from 3&#x000a0;dpc (Fig&#x000a0;<xref rid="emmm201810092-fig-0005ev" ref-type="fig">EV5</xref>C). In summary, these data show that CHIKV nsP&#x02010;mutant induced similar CHIKV&#x02010;specific antibody levels with comparable neutralizing capacity to WT&#x02010;CHIKV&#x02010;vaccinated mice (Fig&#x000a0;<xref rid="emmm201810092-fig-0005ev" ref-type="fig">EV5</xref>B and C).</p><fig fig-type="Figure" xml:lang="en" specific-use="collapsible" id="emmm201810092-fig-0005ev" orientation="portrait" position="float"><label>Figure EV5</label><caption><title>Vaccination with attenuated <styled-content style="fixed-case">CHIKV</styled-content> induces a robust antibody response against <styled-content style="fixed-case">WT</styled-content>&#x02010;<styled-content style="fixed-case">CHIKV</styled-content> challenge</title><p>
+<list list-type="alpha-upper" id="emmm201810092-list-0012"><list-item><p>The neutralizing capacity of the pooled sera was characterized at 1:1,000 dilution in HEK293T cells infected with WT&#x02010;CHIKV (MOI 5). The percentage infection was normalized to sera isolated from mock&#x02010;vaccinated mice. Tested sera were obtained at 0, 3, 6, 14, and 90&#x000a0;dpv. Statistical analyses were performed using two&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test against the positive control (WT&#x02010;CHIKV) on the respective dpv (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RH&#x02010;CHIKV 14 and 90&#x000a0;dpv, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RHEV&#x02010;CHIKV 90&#x000a0;dpv, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 EV&#x02010;CHIKV 6, 14 and 90&#x000a0;dpv). Error bars are in SD, from 4 replicates.</p></list-item><list-item><p>Anti&#x02010;CHIKV IgG titers were determined with a CHIKV virion&#x02010;based ELISA. Sera from four animals were pooled and diluted 1:500 for the assay. Statistical analyses were performed using two&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test against the mock&#x02010;vaccinated group on each respective dpc (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RH&#x02010;CHIKV 3, 6 and 14&#x000a0;dpc, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RHEV&#x02010;CHIKV 3, 6 and 14&#x000a0;dpc, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 EV&#x02010;CHIKV 3, 6 and 14&#x000a0;dpc). Error bars are in SD, from 4 replicates.</p></list-item><list-item><p>Neutralizing capacity of the pooled sera was characterized at a 1:1,000 dilution in HEK293T cells infected with WT&#x02010;CHIKV (MOI 5). Data are presented as the means&#x000a0;&#x000b1;&#x000a0;SD. The percentage infection was normalized to virus&#x02010;only infection. Sera tested were obtained at 3, 6, and 14&#x000a0;dpc. Statistical analyses were performed using two&#x02010;tailed Mann&#x02013;Whitney <italic>U</italic>&#x02010;test against the mock&#x02010;vaccinated group on each respective dpc (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RH&#x02010;CHIKV 3, 6, and 14&#x000a0;dpc, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 RHEV&#x02010;CHIKV 3 and 6&#x000a0;dpc, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.029 EV&#x02010;CHIKV 3, 6, and 14&#x000a0;dpc). Data is representative of 4 replicates.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-23" xlink:href="EMMM-11-e10092-g011"/></fig></sec><sec id="emmm201810092-sec-0009"><title>Vaccination with attenuated CHIKV protects against CHIKV&#x02010;induced tissue damage and edema in the joints</title><p>The effects of RH&#x02010;CHIKV&#x02010;mediated protection were assessed during WT&#x02010;CHIKV challenge microscopically in transverse sections of the virus&#x02010;infected joints (Fig&#x000a0;<xref rid="emmm201810092-fig-0006" ref-type="fig">6</xref>). Histologically, the challenged mock&#x02010;vaccinated mice showed distension of the joint footpad at 6&#x000a0;dpc, characterized by a moderate degree of edema and inflammation. In addition, they exhibited myositis, synovitis, and subcutaneous inflammation around the joint as well as mild&#x02010;to&#x02010;moderate muscle degeneration/necrosis (Fig&#x000a0;<xref rid="emmm201810092-fig-0006" ref-type="fig">6</xref>A and B). Affected muscle fibers were swollen and irregular in shape, and showed homogeneous loss of cross striations.</p><fig fig-type="Figure" xml:lang="en" id="emmm201810092-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><title>Vaccination with attenuated <styled-content style="fixed-case">CHIKV</styled-content>s protects against <styled-content style="fixed-case">CHIKV</styled-content>&#x02010;induced joint pathology</title><p>
+<list list-type="alpha-upper" id="emmm201810092-list-0006"><list-item><p>Representative hematoxylin and eosin (H&#x00026;E) images of inflamed joint footpad at 6&#x000a0;dpc. Ed, region of edema; red arrow, synovitis; black arrow, normal synovial membrane; blue arrow, mild synovial hyperplasia; D, degeneration of muscle; N, necrosis of muscle; R, regeneration of muscle.</p></list-item><list-item><p>Histopathological scoring of edema, inflammation in different regions of the joint footpad, and muscle pathology of WT&#x02010;CHIKV challenged animals (<italic>n</italic>&#x000a0;=&#x000a0;5) at 6 dpc, performed blind. Three sections from each joint footpad were scored. The data are expressed as the means&#x000a0;&#x000b1;&#x000a0;SD. Data were analyzed by one&#x02010;way ANOVA with Tukey post&#x02010;test; edema (***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000002 WT&#x02010;CHIKV versus PBS, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000004 RH&#x02010;CHIKV versus PBS), muscle necrosis (**<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.005521 WT&#x02010;CHIKV versus PBS, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.02628 RH&#x02010;CHIKV versus PBS), muscle regeneration (***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 WT&#x02010;CHIKV versus PBS, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 WT&#x02010;CHIKV versus RH&#x02010;CHIKV), muscle inflammation (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.040258 WT&#x02010;CHIKV versus PBS, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.040258 RH&#x02010;CHIKV versus PBS), synovial membrane inflammation (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.014457 WT&#x02010;CHIKV versus PBS, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.014457 RH&#x02010;CHIKV versus PBS), and subcutaneous area inflammation (***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.00004 WT&#x02010;CHIKV versus PBS, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000074 RH&#x02010;CHIKV versus PBS).</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-25" xlink:href="EMMM-11-e10092-g012"/></fig><p>In contrast, the joints of WT&#x02010;CHIKV&#x02010;vaccinated mice exhibited minimal histopathological features upon challenge (Fig&#x000a0;<xref rid="emmm201810092-fig-0006" ref-type="fig">6</xref>A). There was a low degree of edema in subcutaneous tissues and minimal mononuclear cell infiltration in the proximity of muscle bundles. Surprisingly, a moderate number of regenerated muscle fibers were common in this group; a similar degree of microscopic lesions was observed in RH&#x02010;CHIKV&#x02010;vaccinated mice, but only a few skeletal muscle fibers showed regenerative changes (Fig&#x000a0;<xref rid="emmm201810092-fig-0006" ref-type="fig">6</xref>A and B). The difference in regenerated muscle fibers could be due to higher extent of muscle damage in mice vaccinated with WT&#x02010;CHIKV. Mild synovial hyperplasia was more common in the RH&#x02010;CHIKV&#x02010;vaccinated group during challenge.</p></sec><sec id="emmm201810092-sec-0010"><title>Vaccinated mice show cross&#x02010;protection against O'nyong&#x02010;nyong virus (ONNV) infection</title><p>O'nyong&#x02010;nyong virus is a closely related alphavirus to CHIKV that causes similar, but milder clinical symptoms in patients. Concordantly, mild joint inflammation and low levels of viremia in our <italic>in&#x000a0;vivo</italic> mouse models of ONNV infection were also observed (Fig&#x000a0;<xref rid="emmm201810092-fig-0007" ref-type="fig">7</xref>A and B). To investigate whether vaccination with RH&#x02010;CHIKV offered cross&#x02010;protection against ONNV infection, vaccinated mice were challenged with WT&#x02010;ONNV 3&#x000a0;months later and monitored for signs of pathology. Vaccinated mice did not show any detectable viremia or observable footpad inflammation throughout the duration of the ONNV challenge (Fig&#x000a0;<xref rid="emmm201810092-fig-0007" ref-type="fig">7</xref>C and D). Of note, ONNV infection in na&#x000ef;ve mice 3&#x000a0;months later caused milder joint pathologies compared to 3&#x02010;week&#x02010;old mice, and viremia is naturally controlled to a hovering level near the detection limit (Fig&#x000a0;<xref rid="emmm201810092-fig-0007" ref-type="fig">7</xref>C and D).</p><fig fig-type="Figure" xml:lang="en" id="emmm201810092-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><title>Vaccination with attenuated <styled-content style="fixed-case">CHIKV</styled-content> protects mice against <styled-content style="fixed-case">WT</styled-content> O'nyong&#x02010;nyong virus (<styled-content style="fixed-case">ONNV</styled-content>)</title><p>Three&#x02010;week&#x02010;old WT C57BL/6 mice were infected with 1E6 PFU of WT&#x02010;ONNV at the metatarsal region of the footpad.
+<list list-type="simple" id="emmm201810092-list-0007"><list-item><label>A, B</label><p>(A) Viremia progression and (B) joint inflammation in ONNV&#x02010;infected mice were monitored over 2&#x000a0;weeks (<italic>n</italic>&#x000a0;=&#x000a0;5). Viremia is detected with ONNV nsP1 probe via qRT&#x02013;PCR. Error bars are in SD.</p></list-item><list-item><label>C, D</label><p>(C) Three&#x02010;week&#x02010;old WT C57BL/6 mice were vaccinated subcutaneously with 1E6 PFU of WT&#x02010;CHIKV or attenuated CHIKV (RH) at the metatarsal region of the footpad. Challenge with 1E6 PFU of WT&#x02010;ONNV was performed via the same route at 3&#x000a0;months post&#x02010;vaccination. Viremia progression and (D) joint inflammation of the mice were monitored over 2&#x000a0;weeks (<italic>n</italic>&#x000a0;=&#x000a0;5 per group). Viremia is detected with ONNV nsP1 probe via qRT&#x02013;PCR. All data are presented as the means&#x000a0;&#x000b1;&#x000a0;SD. Data were analyzed by one&#x02010;way ANOVA with Tukey post&#x02010;test; joint inflammation (ONNV challenge phase) (*<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.027516 WT&#x02010;CHIKV versus PBS 1&#x000a0;dpc, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.020452 WT&#x02010;CHIKV versus PBS 2&#x000a0;dpc, *<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.048344 WT&#x02010;CHIKV versus PBS 4&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000017 WT&#x02010;CHIKV versus PBS 6&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000077 RH&#x02010;CHIKV versus PBS 6&#x000a0;dpc, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 WT&#x02010;CHIKV versus PBS 7&#x000a0;dpc, ***<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.000001 RH&#x02010;CHIKV versus PBS 7&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000002 WT&#x02010;CHIKV versus PBS 8&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000002 RH&#x02010;CHIKV versus PBS 8&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000155 WT&#x02010;CHIKV versus PBS 9&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000278 RH&#x02010;CHIKV versus PBS 9&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000411 WT&#x02010;CHIKV versus PBS 10&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000411 RH&#x02010;CHIKV versus PBS 10&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000181 WT&#x02010;CHIKV versus PBS 11&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000351 RH&#x02010;CHIKV versus PBS 11&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000139 WT&#x02010;CHIKV versus PBS 12&#x000a0;dpc, ***<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.000684 RH&#x02010;CHIKV versus PBS 12&#x000a0;dpc, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.001081 WT&#x02010;CHIKV versus PBS 13&#x000a0;dpc, **<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.002107 RH&#x02010;CHIKV versus PBS 13&#x000a0;dpc). Black asterisks indicate significant differences between WT and PBS vaccination, while red asterisks indicate differences between RH and PBS vaccination.</p></list-item></list>
+</p></caption><graphic id="nlm-graphic-27" xlink:href="EMMM-11-e10092-g013"/></fig></sec></sec><sec id="emmm201810092-sec-0011"><title>Discussion</title><p>CHIKV has the potential for global transmission; the substantial health complications of CHIKV and resulting economic burden make finding prophylactic and therapeutic strategies against CHIKV infection a high priority. Existing live&#x02010;attenuated vaccines for poliovirus, yellow fever virus, and measles successfully prevent infection and disease in susceptible populations (Minor, <xref rid="emmm201810092-bib-0044" ref-type="ref">2015</xref>). Live&#x02010;attenuated vaccines might, therefore, be an effective prophylactic strategy against CHIKV. Recently, MV&#x02010;CHIK, a live&#x02010;attenuated recombinant vaccine, showed promising results in phase 2 clinical trials (Ramsauer <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0053" ref-type="ref">2015</xref>; Reisinger <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0054" ref-type="ref">2018</xref>). However, the functionality of MV&#x02010;CHIK has only been demonstrated in <italic>in&#x000a0;vitro</italic> assays. Moreover, it is a recombinant vaccine harboring only CHIKV structural genes. As previous studies have shown that antibodies against CHIKV nsP3 are present in CHIKV patient cohorts (Kam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0028" ref-type="ref">2012a</xref>), it is still uncertain how efficacious this vaccine will be in the long term. Here, we found that RH&#x02010;CHIKV produces a minimal pathologic response upon infection but offers a high level of protection against CHIKV challenge, suggesting that RH&#x02010;CHIKV presents a plausible preventive measure that warrants further exploration.</p><p>This report demonstrates that R532H mutation in nsP1 causes inefficient polyprotein processing and suppresses CHIKV&#x02010;mediated joint pathology due to differences in the local immune response. IPA of immune mediators in joint footpad cell lysates combined with differential gene expression data for CHIKV&#x02010;infected mice taken from publicly available RNA&#x02010;seq data (S1 Table&#x000a0;in Wilson <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0070" ref-type="ref">2017</xref>) identified several possible canonical pathways that may influence CHIKV severity during WT&#x02010;CHIKV infection. Notably, several of the transcripts were linked to the acute antiviral canonical pathways that are functionally important for CHIKV sensing (DDX58, DHX58, TLR2, TLR3, OAS3; Br&#x000e9;hin <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0006" ref-type="ref">2009</xref>; Her <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0024" ref-type="ref">2015</xref>; Inglis <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0025" ref-type="ref">2016</xref>; Sanchez David <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0057" ref-type="ref">2016</xref>), type&#x02010;I IFN responses (IFNA4, IFNB1, STAT2, IRF7, ISG15, IFIH1, IFITM3; Fros <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0017" ref-type="ref">2010</xref>; Gardner <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0018" ref-type="ref">2010</xref>; Poddar <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0050" ref-type="ref">2016</xref>; Sanchez David <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0057" ref-type="ref">2016</xref>; Schilte <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0060" ref-type="ref">2012</xref>; Werneke <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0069" ref-type="ref">2011</xref>), and inhibiting CHIKV replication (EIF2AK2, IFIT2, IFIT3; Chiam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0008" ref-type="ref">2015</xref>; Reynaud <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0055" ref-type="ref">2015</xref>). These findings support that acute antiviral canonical pathways may markedly influence CHIKV disease severity.</p><p>Specifically, significant differences in the levels of several analytes were found in the virus&#x02010;infected joints when comparing WT&#x02010;CHIKV and RH&#x02010;CHIKV infection, namely a decrease in GRO&#x02010;&#x003b1;, and an increase in IL&#x02010;27 and IL&#x02010;10 in the RH&#x02010;CHIKV&#x02010;infected animals (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>A). These differences may lead to changes in transcript expression levels and thus the associated canonical pathways, leading to suppressed inflammation. The anti&#x02010;inflammatory effects of IL&#x02010;10 have been previously associated with viral resolution during CHIKV infection in both patient cohorts and <italic>in&#x000a0;vivo</italic> infections (Ng <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0047" ref-type="ref">2009</xref>; Teng <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0065" ref-type="ref">2015</xref>; Kulkarni <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0033" ref-type="ref">2017</xref>). In addition, IL&#x02010;10 has a protective immune modulatory role against neuro&#x02010;adapted Sindbis virus&#x02010;associated encephalomyelitis (Kulcsar <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0032" ref-type="ref">2014</xref>). Although IL&#x02010;27 has not been extensively studied in the context of alphavirus infection, IL&#x02010;27 induces differentiation of diverse T&#x02010;cell populations and up&#x02010;regulates IL&#x02010;10. GRO&#x02010;&#x003b1; is a neutrophil chemoattractant that may increase infiltrating neutrophils into the inflamed joints, leading to a neutrophil&#x02010;dominated response and exacerbated CHIKV disease pathology (Poo <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0052" ref-type="ref">2014</xref>; Long &#x00026; Heise, <xref rid="emmm201810092-bib-0037" ref-type="ref">2015</xref>). Concordantly, slightly lower levels of neutrophils were observed in the RH&#x02010;CHIKV&#x02010;infected group, which could have contributed to the decrease in disease pathology.</p><p>IPA of the immune mediators and publicly available transcriptome data also revealed associations of CHIKV infection with cell signaling canonical pathways involved in innate immunity activation and the transition to adaptive immunity (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>E). Notably, MIP&#x02010;1&#x003b2; (CCL4) and CSF2 transcripts (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>F), which function as a macrophage chemoattractant and induce macrophage proliferation and activation, respectively, are increased in CHIKV&#x02010;infected patients (Chow <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0010" ref-type="ref">2011</xref>; Teng <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0065" ref-type="ref">2015</xref>). Macrophages reportedly trigger the CHIKV&#x02010;induced inflammatory cascade (Her <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0023" ref-type="ref">2010</xref>); this feature is consistent with our findings, as RH&#x02010;CHIKV infection exhibited decreased MIP&#x02010;1&#x003b2; expression compared to WT&#x02010;CHIKV, and slightly lower levels of macrophages (Fig&#x000a0;<xref rid="emmm201810092-fig-0003ev" ref-type="fig">EV3</xref>A), which could suppress joint inflammation. Furthermore, lower MIP&#x02010;1&#x003b2; and CSF2 could have caused a decrease in activation of inflammatory monocytes during RH&#x02010;CHIKV infection (Fig&#x000a0;<xref rid="emmm201810092-fig-0004" ref-type="fig">4</xref>C&#x02013;E), hence reducing pathology.</p><p>CD40 and IL&#x02010;18 transcripts (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>F) are also involved in activating adaptive immunity, and have been associated with CHIKV infection in patient cohort studies (Simarmata <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0062" ref-type="ref">2016</xref>; Michlmayr <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0043" ref-type="ref">2018</xref>). The co&#x02010;stimulatory protein CD40 and pro&#x02010;inflammatory cytokine IL&#x02010;18 mediate T&#x02010;cell activation, specifically IFN&#x02010;&#x003b3; secreting T helper 1 (Th1) cells (Dinarello, <xref rid="emmm201810092-bib-0012" ref-type="ref">1999</xref>). This feature is consistent with our findings, as RH&#x02010;CHIKV showed decreased IL&#x02010;18 and IFN&#x02010;&#x003b3; levels, indicative of a decreased Th1&#x02010;cell activation and suppression of their pathogenic role in RH&#x02010;CHIKV infection (Teo <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0066" ref-type="ref">2013</xref>, <xref rid="emmm201810092-bib-0067" ref-type="ref">2017</xref>). Compared with WT&#x02010;CHIKV, RH&#x02010;CHIKV infection resulted in reduced IL&#x02010;1&#x003b2; production (Fig&#x000a0;<xref rid="emmm201810092-fig-0003" ref-type="fig">3</xref>D). IL&#x02010;1&#x003b2; and IL&#x02010;18 are up&#x02010;regulated during the acute phase of CHIKV infection in both patients and <italic>in&#x000a0;vivo</italic> models, acting in the NLRP3 inflammasome pathway and contributing to CHIKV pathology (Chen <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0007" ref-type="ref">2017</xref>). Lower IL&#x02010;1&#x003b2; and IL&#x02010;18 levels in RH&#x02010;CHIKV infection may lead to dampened NLRP3 pathways, resulting in reduced joint inflammation during acute phase of infection (Chen <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0007" ref-type="ref">2017</xref>).</p><p>Consistent with the attenuated RH&#x02010;CHIKV phenotype in this study, IL&#x02010;1&#x003b2; and IFN&#x02010;&#x003b3; are important mediators for B&#x02010;cell activation and maturation (Finkelman <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0016" ref-type="ref">1988</xref>; Lowenthal <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0038" ref-type="ref">1998</xref>; Nakae <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0046" ref-type="ref">2001</xref>), and IL&#x02010;1&#x003b2; is also a marker of CHIKV severity in patients (Ng <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0047" ref-type="ref">2009</xref>). Despite the lower levels of these cytokines in the RH&#x02010;CHIKV&#x02010;vaccinated group, there was no impact on the neutralizing capacity of the antibodies upon WT&#x02010;CHIKV re&#x02010;challenge compared to the control group (Fig&#x000a0;<xref rid="emmm201810092-fig-0005ev" ref-type="fig">EV5</xref>B). Furthermore, vaccination with the RH&#x02010;mutant could still cross protect against the antigenically related ONNV (Partidos <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0048" ref-type="ref">2012</xref>), highlighting its potential for the development as a pan&#x02010;alphavirus vaccine. In conclusion, this study highlights the importance of the molecular processes governing CHIKV replication and pathogenesis, and the possible role of several immune mediators as drivers of pathology that do not affect the protective antibody response. These results indicate that the RH&#x02010;CHIKV mutant produces a minimal CHIKV clinical phenotype upon exposure yet exhibits conserved immunogenicity with WT&#x02010;CHIKV. These features render RH&#x02010;CHIKV an interesting CHIKV vaccine candidate with associated cross&#x02010;protection against other alphaviruses. In addition, the use of molecular manipulation methods to achieve live attenuation could be explored for cost&#x02010;effective interventions against other viral&#x02010;associated diseases.</p></sec><sec id="emmm201810092-sec-0012"><title>Materials and Methods</title><sec id="emmm201810092-sec-0013"><title>Wild&#x02010;type (WT) and mutant CHIKV infectious clones</title><p>The WT&#x02010;CHIKV isolate (LR2006&#x02010;OPY1) used for challenge experiments was isolated from an infected patient during the Reunion Island Outbreak in 2005&#x02013;2006 (Bessaud <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0004" ref-type="ref">2006a</xref>). The WT&#x02010;ONNV isolate used for cross&#x02010;protection challenge experiments was isolated from an infected patient from Chad in 2004 (Bessaud <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0005" ref-type="ref">2006b</xref>). NsP&#x02010;mutant CHIKV infectious clones were generated by recombination technology, PCR&#x02010;based site&#x02010;directed mutagenesis, and sub&#x02010;cloning from the full&#x02010;length infectious cDNA clone of the CHIKV LR2006&#x02010;OPY1 isolate, as previously described (Saul <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0058" ref-type="ref">2015</xref>). Mutant viruses were rescued in BHK&#x02010;21 cells (Pohjala <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0051" ref-type="ref">2011</xref>), and viruses were propagated in C6/36 (Kam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0029" ref-type="ref">2012b</xref>), as previously described. An infectious clone of this isolate containing ZsGreen under the control of a sub&#x02010;genomic promoter (Lum <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0040" ref-type="ref">2018</xref>) was used for neutralization assays.</p></sec><sec id="emmm201810092-sec-0014"><title>Production of virus stocks</title><p>Virus stocks used in <italic>in&#x000a0;vitro</italic> experiments were propagated in Vero E6 cells, as previously described (Her <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0023" ref-type="ref">2010</xref>). Virus stocks used in murine <italic>in&#x000a0;vivo</italic> experiments were propagated in C6/36 <italic>Aedes albopictus</italic> cells (ATCC) and purified by sucrose&#x02010;gradient ultracentrifugation, as previously described (Kam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0029" ref-type="ref">2012b</xref>). Viral stock titers were determined by standard plaque assay using Vero E6 cells (ATCC).</p></sec><sec id="emmm201810092-sec-0015"><title>
+<italic>In vitro</italic> mouse tail fibroblast (MTF) infection and infectivity&#x000a0;quantification</title><p>Primary MTFs were isolated from the tails of male WT C57BL/6 mice aged 10&#x000a0;weeks, as previously described (Salmon, <xref rid="emmm201810092-bib-0056" ref-type="ref">2005</xref>). Virus infections were performed with the respective CHIKV nsP&#x02010;mutants at a multiplicity of infection (MOI) of 10 in serum&#x02010;free Dulbecco's modified Eagle medium (DMEM; HyClone). Virus overlay was removed after incubation for 1.5&#x000a0;h at 37&#x000b0;C and replenished with fresh DMEM supplemented with 10% fetal bovine serum (FBS; HyClone). Mock infections were carried out in parallel. Infected MTFs were harvested 12&#x000a0;h post&#x02010;infection (hpi) for infectivity quantification. CHIKV infection was directly quantified based on ZsGreen signal detection under the FITC channel (Lum <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0040" ref-type="ref">2018</xref>), and data were acquired with a BD FACSCanto II flow cytometer (BD Biosciences). Viral RNA was extracted from 140&#x000a0;&#x003bc;l cell mixture using a QIAamp viral RNA kit (Qiagen). The viral load was determined by quantitative reverse transcription PCR (qRT&#x02013;PCR) with a probe that detects the nsP1 encoding part of CHIKV genomic RNA (Plaskon <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0049" ref-type="ref">2009</xref>).</p></sec><sec id="emmm201810092-sec-0016"><title>Pulse&#x02010;chase analysis</title><p>BHK&#x02010;21 cells were starved at 37&#x000b0;C for 30&#x000a0;min in methionine&#x02010; and cysteine&#x02010;free DMEM (Sigma&#x02010;Aldrich) at 3&#x000a0;hpi. Cells were pulse&#x02010;labeled with (50&#x000a0;mCi) <sup>35</sup>S&#x02010;labeled methionine and cysteine (Perkin Elmer) at 37&#x000b0;C for 15&#x000a0;min. The pulsed samples were chased for 45&#x000a0;min in medium containing an excess of unlabeled methionine and cysteine (37&#x000b0;C, 45&#x000a0;min).</p><p>Cells were washed with PBS and then lysed in 1% SDS. Proteins were subsequently denatured by boiling (100&#x000b0;C, 3&#x000a0;min). Samples were diluted 1:20 with NET buffer [50&#x000a0;mM Tris (pH 7.5), 150&#x000a0;mM NaCl, 5&#x000a0;mM EDTA, 0.5% NP&#x02010;40] and incubated for 1&#x000a0;h at 4&#x000b0;C with combinations of rabbit polyclonal antisera against nsPs (generated in&#x02010;house). Immunocomplexes were precipitated with protein A Sepharose CL&#x02010;4B (Amersham Biosciences) overnight at 4&#x000b0;C. The precipitates were washed four times with NET buffer containing 400&#x000a0;mM NaCl. The precipitated proteins were denatured by heating in Laemmli buffer [100&#x000a0;mM Tris&#x02013;HCl (pH 6.8), 4% SDS, 20% glycerol, 200&#x000a0;mM dithiothreitol (DTT), and 0.2% bromophenol blue], and the samples were separated by 8% SDS&#x02013;PAGE. Images were acquired by exposure to Typhoon imager (GE Healthcare).</p></sec><sec id="emmm201810092-sec-0017"><title>Mice</title><p>Male wild&#x02010;type (WT) and &#x003bc;MT C57BL/6J mice aged 3&#x000a0;weeks were bred and maintained under specific pathogen&#x02010;free conditions at the Biological Resource Center (BRC) of the Agency for Science, Technology, and Research, Singapore (A*STAR). At least 5 mice were used per group for all experiments. Littermates were randomly assigned to experimental groups. All experimental procedures involving mice were approved by the Institutional Animal Care and Use Committee (IACUC 181353) of A*STAR, and in compliance with the guidelines of the Agri&#x02010;Food and Veterinary Authority (AVA) and the National Advisory Committee for Laboratory Animal Research of Singapore (NACLAR).</p></sec><sec id="emmm201810092-sec-0018"><title>Virus infection and disease evaluation</title><p>Mice were inoculated subcutaneously in the ventral side of the right hind footpad with 1E6 plaque&#x02010;forming units (PFU) of the respective virus suspended in 30&#x000a0;&#x003bc;l Dulbecco's phosphate&#x02010;buffered saline (DPBS). Viremia levels were monitored daily from 1&#x000a0;day post&#x02010;infection (dpi) until 8&#x000a0;dpi, and then every alternate day until 14&#x000a0;dpi. Joint swelling of the virus&#x02010;inoculated foot was measured daily from 0 to 14&#x000a0;dpi, as previously described (Kam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0029" ref-type="ref">2012b</xref>). Height (thickness) and breadth measurements were made of the metatarsal region of the foot, and quantified as height&#x000a0;&#x000d7;&#x000a0;breadth. The disease score was expressed as the relative fold change in foot size compared with pre&#x02010;infected foot (0&#x000a0;dpi), using the following formula: [(<italic>x</italic>&#x000a0;&#x02013;&#x000a0;0&#x000a0;dpi)/0&#x000a0;dpi&#x000a0;&#x000d7;&#x000a0;100], where <italic>x</italic> is the quantified footpad measurement for each respective day.</p></sec><sec id="emmm201810092-sec-0019"><title>Viral RNA extraction and viral copies quantification</title><p>Blood (10&#x000a0;&#x003bc;l) was obtained from the tail vein and diluted in 120&#x000a0;&#x003bc;l DPBS supplemented with 10&#x000a0;&#x003bc;l citrate&#x02010;phosphate&#x02010;dextrose solution (Sigma&#x02010;Aldrich). Purification of viral RNA from the blood samples was performed using a QIAamp Viral RNA Kit (Qiagen), according to the manufacturer's instructions. Viral load was quantified by qRT&#x02013;PCR, as previously described (Plaskon <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0049" ref-type="ref">2009</xref>). For ONNV viral genome quantification, the following primers were designed to amplify negative nsP1 viral RNA: forward primer (AATTACGCGAGAAAACTTGCG), reverse primer (TTTTTCCAGAGATGTTTTTATCTGT), and TaqMan probe (CCGCTGGAAAGGT). Similar amplification conditions were used for ONNV nsP1 primers as described in previous studies (Plaskon <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0049" ref-type="ref">2009</xref>).</p></sec><sec id="emmm201810092-sec-0020"><title>Cytokine profiling in the joints</title><p>Mice were anesthetized by intraperitoneal injection of 150&#x000a0;mg of ketamine and 10&#x000a0;mg/kg xylazine cocktail, followed by intracardial perfusion with PBS at the indicated time&#x02010;points. Subsequently, the footpads were collected and homogenized in 1.5&#x000a0;ml RIPA buffer (50&#x000a0;mM Tris&#x02013;HCl pH7.4; 1% NP&#x02010;40; 0.25% sodium deoxycholate; 150&#x000a0;mM NaCl; 1&#x000a0;mM EDTA) with 1&#x000d7; protease inhibitors (Roche) using a gentleMACS M tube with a gentleMACS Dissociator (Miltenyi). Cell lysates were then sonicated at 70% intensity for 15&#x000a0;s (Branson Ultrasonics Sonifier&#x02122; S&#x02010;450), and the supernatants were collected for cytokine/chemokines quantification as described below. Data are expressed as pg/ml in footpad lysate.</p></sec><sec id="emmm201810092-sec-0021"><title>Multiplex microbead immunoassay for cytokine quantification</title><p>Cytokine and chemokine concentrations in mice serum and footpad lysates were quantified simultaneously using a multiplex microbead&#x02010;based immunoassay, ProcartaPlex mouse Cytokine &#x00026; Chemokine 36&#x02010;plex Panel&#x000a0;1A (EPX360&#x02010;26092&#x02010;901; Thermo Scientific) following the manufacturer's protocol. Data were acquired using a Luminex FlexMap&#x000a0;3D<sup>&#x000ae;</sup> instrument (Millipore) and analyzed with Bio&#x02010;Plex Manager&#x02122; 6.0 software (Bio&#x02010;Rad) based on standard curves plotted through a five&#x02010;parameter logistic curve setting. The cytokines and chemokines assayed included: IFN&#x02010;&#x003b3;, IL&#x02010;12p70, IL&#x02010;13, IL&#x02010;1&#x003b2;, IL&#x02010;2, IL&#x02010;4, IL&#x02010;5, IL&#x02010;6, TNF&#x02010;&#x003b1;, GM&#x02010;CSF, IL&#x02010;18, IL&#x02010;10, IL&#x02010;17A, IL&#x02010;22, IL&#x02010;23, IL&#x02010;27, IL&#x02010;9, GRO&#x02010;&#x003b1;, IP&#x02010;10, MCP&#x02010;1, MCP&#x02010;3, MIP&#x02010;1&#x003b1;, MIP&#x02010;1&#x003b2;, MIP&#x02010;2, RANTES, eotaxin, IFN&#x02010;&#x003b1;, IL&#x02010;15/IL&#x02010;15R, IL&#x02010;28, IL&#x02010;31, IL&#x02010;1&#x003b1;, IL&#x02010;3, G&#x02010;CSF, LIF, ENA&#x02010;78/CXCL5, and M&#x02010;CSF. A two&#x02010;plex microbead&#x02010;based immunoassay using ProcartaPlex Mouse IFN alpha/IFN beta Panel&#x000a0;(EPX020&#x02010;22187&#x02010;901; Thermo Scientific) was also performed to determine IFN&#x02010;&#x003b1; and IFN&#x02010;&#x003b2; levels in footpad lysates and in MTFs during CHIKV nsP&#x02010;mutant infection.</p></sec><sec id="emmm201810092-sec-0022"><title>Bioinformatic analyses of luminex and transcriptomic data</title><p>A previous study performed a comprehensive RNA&#x02010;sequencing analysis of CHIKV&#x02010;infected joints during peak viremia (2&#x000a0;dpi) and acute arthritis (7&#x000a0;dpi; Wilson <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0070" ref-type="ref">2017</xref>). Here, transcriptome data were extracted. Analyte concentrations in joint cell lysates, comprising cytokines and chemokines, were quantified using a multiplex microbead&#x02010;based immunoassay, ProcartaPlex mouse Cytokine &#x00026; Chemokine 36&#x02010;plex Panel&#x000a0;1A (EPX360&#x02010;26092&#x02010;901; Thermo Scientific) following the manufacturer's protocol, as described earlier. Both the extracted transcriptomic profiles and the quantified analytes were categorized based on their profiles across two critical phases: (i) at 2&#x000a0;days post&#x02010;WT&#x02010;CHIKV infection (2&#x000a0;dpi) relative to mock infection (0&#x000a0;dpi; background); and (ii) at peak joint swelling on 6&#x000a0;dpi (or 7&#x000a0;dpi for transcripts) relative to 2&#x000a0;dpi. Categorization was performed based on up&#x02010;regulated (up), down&#x02010;regulated (down) levels, or no difference (ND). This sequential categorization generated the analyte or DEG state: ND&#x02010;ND; ND&#x02010;up; ND&#x02010;down; up&#x02010;ND; up&#x02010;up; up&#x02010;down; down&#x02010;ND; down&#x02010;up; and down&#x02010;down. Analytes in complete or partial agreement (same trend on at least one phase) with their corresponding transcripts were first identified and categorized by their states. The remaining transcripts with Log<sub>2</sub> fold change &#x0003e;&#x000a0;2 were then categorized by their states. These transcripts were subsequently used to discover canonical pathways along with the analytes in the same state using ingenuity pathway analysis (IPA). Involvement of up&#x02010;down analytes with acute antiviral canonical pathways was established by expanding the IPA to include directly linked molecules (<xref rid="emmm201810092-sup-0003" ref-type="supplementary-material">Dataset EV2</xref>). A comparison of individual analyte concentrations between WT and attenuated CHIKV infection was performed to identify the analytes that differ during infection.</p></sec><sec id="emmm201810092-sec-0023"><title>Mouse joint cell isolation</title><p>Mice were infected with the respective CHIKV nsP&#x02010;mutants and euthanized at 6&#x000a0;dpi. The footpads and ankles were removed, de&#x02010;skinned, and placed immediately in 4&#x000a0;ml digestion medium containing dispase (2&#x000a0;U/ml; Invitrogen), collagenase IV (20&#x000a0;&#x003bc;g/ml; Sigma&#x02010;Aldrich), and DNase I mix (50&#x000a0;&#x003bc;g/ml; Roche Applied Science) in complete Roswell Park Memorial Institute medium. The cells were then isolated as previously described (Teo <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0066" ref-type="ref">2013</xref>).</p></sec><sec id="emmm201810092-sec-0024"><title>Phenotyping of leukocytes</title><p>Isolated joint cells were first blocked with 1% mouse/rat serum (Sigma&#x02010;Aldrich) blocking buffer for 10&#x000a0;min. The cells were then stained for 20&#x000a0;min with the following Abs: BUV395&#x02010;conjugated anti&#x02010;mouse CD45 (clone 30&#x02010;F11; BD Biosciences), Pacific Blue&#x02010;conjugated anti&#x02010;mouse CD4 (clone RM4&#x02010;5; BioLegend), CF594&#x02010;conjugated anti&#x02010;mouse CD8 (clone 53&#x02010;6.7; BD Biosciences), PE&#x02010;Cy7&#x02010;conjugated anti&#x02010;mouse CD3 (clone 17A2; BioLegend), APC&#x02010;Cy7&#x02010;conjugated anti&#x02010;mouse Ly6C (clone HK1.4; BioLegend), Alexa Flour 700&#x02010;conjugated anti&#x02010;mouse MHC&#x02010;II (clone M5/114.15.2; BioLegend), PerCP&#x02010;Cy5.5&#x02010;conjugated anti&#x02010;mouse LFA&#x02010;1 (clone H155&#x02010;78; BioLegend), BV650&#x02010;conjugated anti&#x02010;mouse CD11b (clone M1/70; BioLegend), BV605&#x02010;conjugated anti&#x02010;mouse CD11c (clone N418; BioLegend), CF594&#x02010;conjugated anti&#x02010;mouse Ly6G (clone 1A8; BD Biosciences), eFluor450&#x02010;conjugated anti&#x02010;mouse B220 (clone RA3&#x02010;6B2; eBioscience), PE&#x02010;conjugated anti&#x02010;mouse MerTK (clone DS5MMER; eBioscience), APC&#x02010;conjugated anti&#x02010;mouse CD64 (clone X54&#x02010;5/7.1; BioLegend), Biotin&#x02010;conjugated anti&#x02010;mouse NK1.1 (clone PK136; eBioscience), and BUV737 streptavidin (BD Biosciences). Samples were acquired on a LSR II flow cytometer (BD Biosciences) with FACSDiva software and analyzed using FlowJo software.</p></sec><sec id="emmm201810092-sec-0025"><title>High&#x02010;dimensional analysis of flow cytometry data</title><p>Each sample was pre&#x02010;gated on live CD45<sup>+</sup> singlet events and then randomly down&#x02010;sampled to the lowest event size observed among the samples (<italic>n</italic>&#x000a0;=&#x000a0;9,405). Logicle transformation was performed using the estimateLogicle function of the flowCore package. The dimensionality reduction algorithm UMAP (umap&#x02010;learn Python package v2.4.0) was then run using 1,000 epoch, 15 nearest neighbors, and otherwise default parameters (Becht <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0003" ref-type="ref">2019</xref>; preprint: McInnes &#x00026; Healy, <xref rid="emmm201810092-bib-0042" ref-type="ref">2018</xref>). For clustering, PhenoGraph (R package Rphenograph v0.99.1) was used with default parameters (<italic>k</italic>&#x000a0;=&#x000a0;30). To compute the Jensen&#x02013;Shannon divergence across pairs of samples, the UMAP embedding was binned into 40&#x000a0;&#x000d7;&#x000a0;40 bins into which one virtual observation (as an uninformative prior) was added. These counts were then log2&#x02010;transformed, and the JS divergence was computed as previously described (Amir <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0001" ref-type="ref">2013</xref>).</p></sec><sec id="emmm201810092-sec-0026"><title>Serum collection</title><p>Serum from individual mice was collected by retro&#x02010;orbital bleeding at the indicated time&#x02010;points. After leaving the blood to clot, the cells were spun down to remove cell contaminants from the resulting serum. Serum aliquots were either stored at &#x02212;20&#x000b0;C for luminex assays or heat inactivated at 56&#x000b0;C for 30&#x000a0;min before ELISA and viral neutralization assays.</p></sec><sec id="emmm201810092-sec-0027"><title>ELISA</title><p>Antibody (Ab) titers were assessed by virion&#x02010;based ELISA, as previously described (Kam <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0028" ref-type="ref">2012a</xref>,<xref rid="emmm201810092-bib-0029" ref-type="ref">b</xref>,<xref rid="emmm201810092-bib-0030" ref-type="ref">c</xref>). CHIKV&#x02010;coated (1E6 virions/well in 50&#x000a0;&#x003bc;l DPBS) polystyrene 96&#x02010;well MaxiSorp plates (Nunc) were blocked with PBS containing 0.05% Tween&#x02010;20 (PBST) and 5% w/v nonfat milk for 1.5&#x000a0;h at 37&#x000b0;C. Sera from normal and infected animals were heat inactivated and serially diluted in Ab diluent (0.05% PBST&#x000a0;+&#x000a0;2.5% w/v nonfat milk). The diluted sera (100&#x000a0;&#x003bc;l) were then added to each well and incubated for 1&#x000a0;h at 37&#x000b0;C. HRP&#x02010;conjugated goat anti&#x02010;mouse IgG was used. Total IgG quantification assays were performed using pooled sera of individual animals diluted at 1:500. All HRP&#x02010;conjugated Abs were purchased from Santa Cruz. ELISAs were developed using TMB substrate (Sigma&#x02010;Aldrich) and terminated with Stop reagent (Sigma&#x02010;Aldrich). Absorbance was measured at 450&#x000a0;nm.</p></sec><sec id="emmm201810092-sec-0028"><title>Neutralization assay</title><p>Ab neutralizing activity was tested using an immunofluorescence&#x02010;based cell infection assay in HEK293T cells. The WT&#x02010;CHIKV LR2006&#x02010;OPY1 infectious clone expressing sub&#x02010;genomic ZsGreen protein was incubated with heat&#x02010;inactivated mouse sera diluted in complete media (1:625,000, 1:125,000, 1:25,000, 1:16,000, 1:8,000, 1:5,000, 1:4,000, 1:2,000, 1:1,000, 1:500, 1:250), for 1&#x000a0;h at 37&#x000b0;C with gentle rocking (160&#x000a0;rpm). Virus&#x02013;Ab mixtures were added at MOI&#x000a0;=&#x000a0;5 to HEK293T cells seeded in a 96&#x02010;well plate (3&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> cells/well) and incubated for 18&#x000a0;h. The cells were then harvested, fixed with 4% paraformaldehyde, and acquired using a MACSQuant Analyzer (Miltenyi Biotec). Infected cells expressing ZsGreen were quantified with FlowJo v10.0.7 software (FlowJo, LLC). The percentage of infectivity of the neutralization group relative to the virus infection group was calculated as follows: % Infectivity&#x000a0;=&#x000a0;100&#x000a0;&#x000d7;&#x000a0;(% infection from neutralization group/% infection from virus infection group).</p></sec><sec id="emmm201810092-sec-0029"><title>Vaccination and challenge timeline</title><p>Mice were vaccinated subcutaneously in the ventral side of the right hind footpad with 1E6 PFU of the respective attenuated CHIKV in 30&#x000a0;&#x003bc;l DPBS. These vaccinated mice were then challenged via the same route with 1E6 PFU WT&#x02010;CHIKV 3&#x000a0;months later. Viremia and joint inflammation were monitored as described, for 2&#x000a0;weeks following challenge. Serum was collected at pre&#x02010;challenge, 3, 6, and 14&#x000a0;dpi for serological studies.</p></sec><sec id="emmm201810092-sec-0030"><title>Histology</title><p>Mice were euthanized on 6&#x000a0;dpi after challenge experiments and perfused with 10% neutral&#x02010;buffered formalin (NBF). Virus&#x02010;inoculated joints were harvested and fixed in 10% NBF for 24&#x000a0;h at room temperature. The joints were then decalcified in 5% formic acid and trimmed to three parts at 5&#x02010;mm intervals. Sectioned tissues were routinely processed, sliced into 5&#x02010;&#x003bc;m&#x02010;thick sections, and stained with hematoxylin and eosin (H&#x00026;E). Tissues were viewed under an Olympus BX53 upright microscope (Olympus Life Science, Japan), and images were captured with an Olympus DP71 digital color camera using Olympus DP controller and DP manager software. Histopathological assessment was performed blind by histopathologists, using a scoring method in each individual animal based on the presence of edema, inflammation, muscle necrosis, tendonitis, and synovitis, if any. Severity of the grades was assigned to the following scale: 0&#x02014;no finding; 1&#x02014;minimal; 2&#x02014;mild; 3&#x02014;moderate; 4&#x02014;marked; and 5&#x02014;severe, as previously described (Morrison <italic>et&#x000a0;al</italic>, <xref rid="emmm201810092-bib-0045" ref-type="ref">2011</xref>).</p></sec><sec id="emmm201810092-sec-0031"><title>Statistical analyses</title><p>Data are presented as the means&#x000a0;&#x000b1;&#x000a0;SD unless specified otherwise. Differences between groups and controls were analyzed using the unpaired non&#x02010;parametric Mann&#x02013;Whitney <italic>U</italic> statistical test unless specified otherwise. Statistical analyses were performed in GraphPad Prism 7.0a (GraphPad Software). <italic>P</italic>&#x02010;values considered statistically significant are represented with * for <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05, ** for <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.01, and *** for <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001.</p></sec></sec><sec id="emmm201810092-sec-0033"><title>Author contributions</title><p>LFPN, AM, and F&#x02010;ML conceived and supervised the study. Y&#x02010;HC, AU, T&#x02010;HT, JJLT, SNA, FAB, W&#x02010;XY, CY&#x02010;PL, and F&#x02010;ML performed the experiments. RR performed blind histopathological scoring of the infected joints. Y&#x02010;HC, T&#x02010;HT, FAB, BL, EB, EN, RR, and F&#x02010;ML performed data analysis. AM and AU&#x000a0;constructed the viral infectious clones. Y&#x02010;HC, T&#x02010;HT, GC, F&#x02010;ML, and LFPN wrote the manuscript.</p></sec><sec sec-type="COI-statement" id="emmm201810092-sec-0034"><title>Conflict of interest</title><p>The authors declare that they have no conflict of interest.</p></sec><sec id="emmm201810092-sec-0035"><boxed-text position="float" content-type="box" id="emmm201810092-blk-0001" orientation="portrait"><caption><title>The paper explained</title></caption><sec id="emmm201810092-sec-0036"><title>Problem</title><p>CHIKV outbreaks are still prevalent, with significant increase in incidences in the last decade. Given the acute and chronic disabilities caused by CHIKV infection and the associated economic burden, effective preventive measures are urgently needed to halt CHIKV global expansion. However, there is currently no full&#x02010;length live&#x02010;attenuated vaccine against CHIKV.</p></sec><sec id="emmm201810092-sec-0037"><title>Results</title><p>Using mouse <italic>ex&#x000a0;vivo</italic> and <italic>in&#x000a0;vivo</italic> infection models, we show that the mutation of nsPs at key positions caused prominent changes in viral replication and infectivity. Particularly, R532H mutation on nsP1 caused attenuation, with significant reduction in infectivity and pathogenesis in <italic>in&#x000a0;vivo</italic> murine model. Further investigation revealed that attenuation could be due to changes in anti&#x02010;inflammatory IL&#x02010;10 and pro&#x02010;inflammatory IL&#x02010;1&#x003b2; and IL&#x02010;18 levels during RH&#x02010;CHIKV infection that modified acute antiviral and cell signaling canonical pathways. However, this CHIKV nsP&#x02010;mutant was still immunogenic and able to induce a protective antibody response upon WT&#x02010;CHIKV challenge.</p></sec><sec id="emmm201810092-sec-0038"><title>Impact</title><p>This study highlights the effect mutations on key sites in the CHIKV non&#x02010;structural proteins have on host innate inflammatory responses. Particularly, the use of molecular manipulation methods to achieve live attenuation could be relevant to a broad spectrum of viruses and can be explored for cost&#x02010;effective interventions against other viral&#x02010;associated diseases.</p></sec></boxed-text></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"/><supplementary-material content-type="local-data" id="emmm201810092-sup-0001"><caption><p>Expanded View Figures PDF</p></caption><media xlink:href="EMMM-11-e10092-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="emmm201810092-sup-0002"><caption><p>Dataset EV1</p></caption><media xlink:href="EMMM-11-e10092-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="emmm201810092-sup-0003"><caption><p>Dataset EV2</p></caption><media xlink:href="EMMM-11-e10092-s003.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>Review Process File</p></caption><media xlink:href="EMMM-11-e10092-s004.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="emmm201810092-sec-0032"><title>Acknowledgements</title><p>The authors would like to thank the SIgN Flow Cytometry core for assistance with cytometry analyses, Chloe Boehm from Tufts University for assistance with experiments, Esther Mok from SIgN immune monitoring group for support in luminex assay, and the SIgN mouse core for support in animal breeding. The authors also thank Insight Editing London for review and editing of the manuscript prior to submission. This study was funded by SIgN, Agency for Science, Technology and Research (A*STAR) core grant and the Biomedical Research Council, A*STAR. Yi&#x02010;Hao Chan and Cheryl Yi&#x02010;Pin Lee are supported by A*STAR Graduate Scholarships. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. Flow cytometry and multiplex soluble protein assay platforms are part of the SIgN Immunomonitoring platform and supported by a BMRC IAF 311006 grant and BMRC transition funds #H16/99/b0/011.</p></ack><ref-list content-type="cited-references" id="emmm201810092-bibl-0001"><title>References</title><ref id="emmm201810092-bib-0001"><mixed-citation publication-type="journal" id="emmm201810092-cit-0001">
+<string-name>
+<surname>Amir</surname>
+<given-names>EAD</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Tadmor</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Simonds</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Levine</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Bendall</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Shenfeld</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Krishnaswamy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nolan</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Pe'Er</surname>
+<given-names>D</given-names>
+</string-name> (<year>2013</year>) <article-title>ViSNE enables visualization of high dimensional single&#x02010;cell data and reveals phenotypic heterogeneity of leukemia</article-title>. <source xml:lang="en">Nat Biotechnol</source>
+<volume>31</volume>: <fpage>545</fpage>
+<pub-id pub-id-type="pmid">23685480</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0002"><mixed-citation publication-type="miscellaneous" id="emmm201810092-cit-0002">
+<string-name>
+<surname>Baron</surname>
+<given-names>S</given-names>
+</string-name> (<year>1996</year>) <article-title>Medical microbiology</article-title>.</mixed-citation></ref><ref id="emmm201810092-bib-0003"><mixed-citation publication-type="journal" id="emmm201810092-cit-0003">
+<string-name>
+<surname>Becht</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>McInnes</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Healy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dutertre</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Kwok</surname>
+<given-names>IWH</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Ginhoux</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Newell</surname>
+<given-names>EW</given-names>
+</string-name>, (<year>2019</year>) <article-title>Dimensionality reduction for visualizing single&#x02010;cell data using UMAP</article-title>. <source xml:lang="en">Nat Biotechnol</source>
+<volume>37</volume>: <fpage>38</fpage>&#x02013;<lpage>44</lpage>
+</mixed-citation></ref><ref id="emmm201810092-bib-0004"><mixed-citation publication-type="journal" id="emmm201810092-cit-0004">
+<string-name>
+<surname>Bessaud</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Peyrefitte</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Pastorino</surname>
+<given-names>BAM</given-names>
+</string-name>, <string-name>
+<surname>Tock</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Merle</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Colpart</surname>
+<given-names>J&#x02010;J</given-names>
+</string-name>, <string-name>
+<surname>Dehecq</surname>
+<given-names>J&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Girod</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jaffar&#x02010;Bandjee</surname>
+<given-names>M&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Glass</surname>
+<given-names>PJ</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2006a</year>) <article-title>Chikungunya virus strains, Reunion Island Outbreak</article-title>. <source xml:lang="en">Emerg Infect Dis</source>
+<volume>12</volume>: <fpage>1604</fpage>&#x02013;<lpage>1605</lpage>
+<pub-id pub-id-type="pmid">17176585</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0005"><mixed-citation publication-type="journal" id="emmm201810092-cit-0005">
+<string-name>
+<surname>Bessaud</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Peyrefitte</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Pastorino</surname>
+<given-names>BAM</given-names>
+</string-name>, <string-name>
+<surname>Gravier</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tock</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Boete</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tolou</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Grandadam</surname>
+<given-names>M</given-names>
+</string-name> (<year>2006b</year>) <article-title>O'nyong&#x02010;nyong virus, Chad</article-title>. <source xml:lang="en">Emerg Infect Dis</source>
+<volume>12</volume>: <fpage>1248</fpage>&#x02013;<lpage>1250</lpage>
+<pub-id pub-id-type="pmid">16965706</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0006"><mixed-citation publication-type="journal" id="emmm201810092-cit-0006">
+<string-name>
+<surname>Br&#x000e9;hin</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Casad&#x000e9;mont</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Frenkiel</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Julier</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sakuntabhai</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Despr&#x000e8;s</surname>
+<given-names>P</given-names>
+</string-name> (<year>2009</year>) <article-title>The large form of human 2&#x02032;,5&#x02032;&#x02010;Oligoadenylate Synthetase (OAS3) exerts antiviral effect against Chikungunya virus</article-title>. <source xml:lang="en">Virology</source>
+<volume>384</volume>: <fpage>216</fpage>&#x02013;<lpage>222</lpage>
+<pub-id pub-id-type="pmid">19056102</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0007"><mixed-citation publication-type="journal" id="emmm201810092-cit-0007">
+<string-name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Foo</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Zaid</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Herrero</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tharmarajah</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vu</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Van Vreden</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Specific inhibition of NLRP3 in chikungunya disease reveals a role for inflammasomes in alphavirus&#x02010;induced inflammation</article-title>. <source xml:lang="en">Nat Microbiol</source>
+<volume>2</volume>: <fpage>1435</fpage>
+<pub-id pub-id-type="pmid">28848230</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0008"><mixed-citation publication-type="journal" id="emmm201810092-cit-0008">
+<string-name>
+<surname>Chiam</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Ong</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Sam</surname>
+<given-names>IC</given-names>
+</string-name> (<year>2015</year>) <article-title>Neurovirulence comparison of chikungunya virus isolates of the Asian and East/Central/South African genotypes from Malaysia</article-title>. <source xml:lang="en">J Gen Virol</source>
+<volume>96</volume>: <fpage>3243</fpage>&#x02013;<lpage>3254</lpage>
+<pub-id pub-id-type="pmid">26276497</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0009"><mixed-citation publication-type="journal" id="emmm201810092-cit-0009">
+<string-name>
+<surname>Choi</surname>
+<given-names>UY</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>YJ</given-names>
+</string-name> (<year>2015</year>) <article-title>Oligoadenylate synthase&#x02010;like (OASL) proteins: dual functions and associations with diseases</article-title>. <source xml:lang="en">Exp Mol Med</source>
+<volume>47</volume>: <fpage>e144</fpage>
+<pub-id pub-id-type="pmid">25744296</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0010"><mixed-citation publication-type="journal" id="emmm201810092-cit-0010">
+<string-name>
+<surname>Chow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Her</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Ong</surname>
+<given-names>EKS</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dimatatac</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Kwek</surname>
+<given-names>DJC</given-names>
+</string-name>, <string-name>
+<surname>Barkham</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Leo</surname>
+<given-names>Y&#x02010;S</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Persistent arthralgia induced by Chikungunya virus infection is associated with interleukin&#x02010;6 and granulocyte macrophage colony&#x02010;stimulating factor</article-title>. <source xml:lang="en">J Infect Dis</source>
+<volume>203</volume>: <fpage>149</fpage>&#x02013;<lpage>157</lpage>
+<pub-id pub-id-type="pmid">21288813</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0011"><mixed-citation publication-type="journal" id="emmm201810092-cit-0011">
+<string-name>
+<surname>Couderc</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chr&#x000e9;tien</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Schilte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Disson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Brigitte</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Guivel&#x02010;Benhassine</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Touret</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Barau</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cayet</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Schuffenecker</surname>
+<given-names>I</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2008</year>) <article-title>A mouse model for Chikungunya: young age and inefficient type&#x02010;I interferon signaling are risk factors for severe disease</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>4</volume>: <fpage>e29</fpage>
+<pub-id pub-id-type="pmid">18282093</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0012"><mixed-citation publication-type="journal" id="emmm201810092-cit-0012">
+<string-name>
+<surname>Dinarello</surname>
+<given-names>CA</given-names>
+</string-name> (<year>1999</year>) <article-title>IL&#x02010;18: a TH1 &#x02010;inducing, proinflammatory cytokine and new member of the IL&#x02010;1 family</article-title>. <source xml:lang="en">J Allergy Clin Immunol</source>
+<volume>103</volume>: <fpage>11</fpage>&#x02013;<lpage>24</lpage>
+<pub-id pub-id-type="pmid">9893178</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0013"><mixed-citation publication-type="journal" id="emmm201810092-cit-0013">
+<string-name>
+<surname>Eckels</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Harrison</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name>
+<surname>Hetrick</surname>
+<given-names>FM</given-names>
+</string-name> (<year>1970</year>) <article-title>Chikungunya virus vaccine prepared by Tween&#x02010;ether extraction</article-title>. <source xml:lang="en">Appl Microbiol</source>
+<volume>19</volume>: <fpage>321</fpage>&#x02013;<lpage>325</lpage>
+<pub-id pub-id-type="pmid">4985431</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0014"><mixed-citation publication-type="journal" id="emmm201810092-cit-0014">
+<string-name>
+<surname>Edelman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tacket</surname>
+<given-names>CO</given-names>
+</string-name>, <string-name>
+<surname>Wasserman</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Bodison</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Perry</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Mangiafico</surname>
+<given-names>JA</given-names>
+</string-name> (<year>2000</year>) <article-title>Phase II safety and immunogenicity study of live chikungunya virus vaccine TSI&#x02010;GSD&#x02010;218</article-title>. <source xml:lang="en">Am J Trop Med Hyg</source>
+<volume>62</volume>: <fpage>681</fpage>&#x02013;<lpage>685</lpage>
+<pub-id pub-id-type="pmid">11304054</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0015"><mixed-citation publication-type="miscellaneous" id="emmm201810092-cit-0015">
+<collab collab-type="authors">European Centre for Disease Prevention and Control</collab>
+(<year>2018</year>) <article-title>Communicable disease threats report, week 39</article-title>
+</mixed-citation></ref><ref id="emmm201810092-bib-0016"><mixed-citation publication-type="journal" id="emmm201810092-cit-0016">
+<string-name>
+<surname>Finkelman</surname>
+<given-names>FD</given-names>
+</string-name>, <string-name>
+<surname>Katona</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Mosmann</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Coffman</surname>
+<given-names>RL</given-names>
+</string-name> (<year>1988</year>) <article-title>IFN&#x02010;gamma regulates the isotypes of Ig secreted during <italic>in&#x000a0;vivo</italic> humoral immune responses</article-title>. <source xml:lang="en">J Immunol</source>
+<volume>140</volume>: <fpage>1022</fpage>&#x02013;<lpage>1027</lpage>
+<pub-id pub-id-type="pmid">3125247</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0017"><mixed-citation publication-type="journal" id="emmm201810092-cit-0017">
+<string-name>
+<surname>Fros</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Prow</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Geertsema</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ligtenberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vanlandingham</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Schnettler</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Vlak</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Suhrbier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Khromykh</surname>
+<given-names>AA</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Chikungunya virus nonstructural protein 2 inhibits type I/II interferon&#x02010;stimulated JAK&#x02010;STAT signaling</article-title>. <source xml:lang="en">J Virol</source>
+<volume>84</volume>: <fpage>10877</fpage>&#x02013;<lpage>10887</lpage>
+<pub-id pub-id-type="pmid">20686047</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0018"><mixed-citation publication-type="journal" id="emmm201810092-cit-0018">
+<string-name>
+<surname>Gardner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Anraku</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Larcher</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Major</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Roques</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Schroder</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Higgs</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Suhrbier</surname>
+<given-names>A</given-names>
+</string-name> (<year>2010</year>) <article-title>Chikungunya virus arthritis in adult wild&#x02010;type mice</article-title>. <source xml:lang="en">J Virol</source>
+<volume>84</volume>: <fpage>8021</fpage>&#x02013;<lpage>8032</lpage>
+<pub-id pub-id-type="pmid">20519386</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0019"><mixed-citation publication-type="journal" id="emmm201810092-cit-0019">
+<string-name>
+<surname>Gorchakov</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Leal</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Forrester</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Plante</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Partidos</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Seymour</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Weger</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012</year>) <article-title>Attenuation of Chikungunya virus vaccine strain 181/Clone 25 is determined by two amino acid substitutions in the E2 envelope glycoprotein</article-title>. <source xml:lang="en">J Virol</source>
+<volume>86</volume>: <fpage>6084</fpage>&#x02013;<lpage>6096</lpage>
+<pub-id pub-id-type="pmid">22457519</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0020"><mixed-citation publication-type="journal" id="emmm201810092-cit-0020">
+<string-name>
+<surname>Haist</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Burrack</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Davenport</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Morrison</surname>
+<given-names>TE</given-names>
+</string-name> (<year>2017</year>) <article-title>Inflammatory monocytes mediate control of acute alphavirus infection in mice</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>13</volume>: <fpage>e1006748</fpage>
+<pub-id pub-id-type="pmid">29244871</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0021"><mixed-citation publication-type="journal" id="emmm201810092-cit-0021">
+<string-name>
+<surname>Harrison</surname>
+<given-names>VR</given-names>
+</string-name>, <string-name>
+<surname>Eckels</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Bartelloni</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Hampton</surname>
+<given-names>C</given-names>
+</string-name> (<year>1971</year>) <article-title>Production and evaluation of a formalin&#x02010;killed Chikungunya vaccine</article-title>. <source xml:lang="en">J Immunol</source>
+<volume>107</volume>: <fpage>643</fpage>&#x02013;<lpage>647</lpage>
+<pub-id pub-id-type="pmid">4999088</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0022"><mixed-citation publication-type="journal" id="emmm201810092-cit-0022">
+<string-name>
+<surname>Heise</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Leonard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bernard</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Meeker</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>RE</given-names>
+</string-name> (<year>2003</year>) <article-title>An attenuating mutation in nsP1 of the Sindbis&#x02010;Group Virus S.A.AR86 accelerates nonstructural protein processing and up&#x02010;regulates viral 26S RNA synthesis</article-title>. <source xml:lang="en">J Virol</source>
+<volume>77</volume>: <fpage>1149</fpage>&#x02013;<lpage>1156</lpage>
+<pub-id pub-id-type="pmid">12502831</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0023"><mixed-citation publication-type="journal" id="emmm201810092-cit-0023">
+<string-name>
+<surname>Her</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Malleret</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ong</surname>
+<given-names>EKS</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>S&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Kwek</surname>
+<given-names>DJC</given-names>
+</string-name>, <string-name>
+<surname>Tolou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>RTP</given-names>
+</string-name>, <string-name>
+<surname>Tambyah</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Active infection of human blood monocytes by Chikungunya virus triggers an innate immune response</article-title>. <source xml:lang="en">J Immunol</source>
+<volume>184</volume>: <fpage>5903</fpage>&#x02013;<lpage>5913</lpage>
+<pub-id pub-id-type="pmid">20404274</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0024"><mixed-citation publication-type="journal" id="emmm201810092-cit-0024">
+<string-name>
+<surname>Her</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>
+<given-names>T&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Teo</surname>
+<given-names>T&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Kam</surname>
+<given-names>Y&#x02010;W</given-names>
+</string-name>, <string-name>
+<surname>Lum</surname>
+<given-names>F&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>WW</given-names>
+</string-name>, <string-name>
+<surname>Gabriel</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Melchiotti</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Andiappan</surname>
+<given-names>AK</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Loss of TLR3 aggravates CHIKV replication and pathology due to an altered virus&#x02010;specific neutralizing antibody response</article-title>. <source xml:lang="en">EMBO Mol Med</source>
+<volume>7</volume>: <fpage>24</fpage>&#x02013;<lpage>41</lpage>
+<pub-id pub-id-type="pmid">25452586</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0025"><mixed-citation publication-type="journal" id="emmm201810092-cit-0025">
+<string-name>
+<surname>Inglis</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Chiu</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Purcell</surname>
+<given-names>OM</given-names>
+</string-name>, <string-name>
+<surname>Didier</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Russell&#x02010;Lodrigue</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>MacLean</surname>
+<given-names>AG</given-names>
+</string-name> (<year>2016</year>) <article-title>Neuropathogenesis of Chikungunya infection: astrogliosis and innate immune activation</article-title>. <source xml:lang="en">J Neurovirol</source>
+<volume>22</volume>: <fpage>140</fpage>&#x02013;<lpage>148</lpage>
+<pub-id pub-id-type="pmid">26419894</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0026"><mixed-citation publication-type="journal" id="emmm201810092-cit-0026">
+<string-name>
+<surname>Kabir</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Dhimal</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Banik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Haque</surname>
+<given-names>U</given-names>
+</string-name> (<year>2017</year>) <article-title>The 2017 Dhaka chikungunya outbreak</article-title>. <source xml:lang="en">Lancet Infect Dis</source>
+<volume>17</volume>: <fpage>1118</fpage>
+</mixed-citation></ref><ref id="emmm201810092-bib-0027"><mixed-citation publication-type="journal" id="emmm201810092-cit-0027">
+<string-name>
+<surname>Kam</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Ong</surname>
+<given-names>EKS</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>LFP</given-names>
+</string-name> (<year>2009</year>) <article-title>Immuno&#x02010;biology of Chikungunya and implications for disease intervention</article-title>. <source xml:lang="en">Microbes Infect</source>
+<volume>11</volume>: <fpage>1186</fpage>&#x02013;<lpage>1196</lpage>
+<pub-id pub-id-type="pmid">19737625</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0028"><mixed-citation publication-type="journal" id="emmm201810092-cit-0028">
+<string-name>
+<surname>Kam</surname>
+<given-names>Y&#x02010;W</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>WWL</given-names>
+</string-name>, <string-name>
+<surname>Simarmata</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Harjanto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>
+<given-names>T&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Tolou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>RTP</given-names>
+</string-name>, <string-name>
+<surname>Leo</surname>
+<given-names>Y&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012a</year>) <article-title>Longitudinal analysis of the human antibody response to Chikungunya virus infection: implications for serodiagnosis and vaccine development</article-title>. <source xml:lang="en">J Virol</source>
+<volume>86</volume>: <fpage>13005</fpage>&#x02013;<lpage>13015</lpage>
+<pub-id pub-id-type="pmid">23015702</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0029"><mixed-citation publication-type="journal" id="emmm201810092-cit-0029">
+<string-name>
+<surname>Kam</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Lum</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Teo</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>WWL</given-names>
+</string-name>, <string-name>
+<surname>Simarmata</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Harjanto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chua</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Wee</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2012b</year>) <article-title>Early neutralizing IgG response to Chikungunya virus in infected patients targets a dominant linear epitope on the E2 glycoprotein</article-title>. <source xml:lang="en">EMBO Mol Med</source>
+<volume>4</volume>: <fpage>330</fpage>&#x02013;<lpage>343</lpage>
+<pub-id pub-id-type="pmid">22389221</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0030"><mixed-citation publication-type="journal" id="emmm201810092-cit-0030">
+<string-name>
+<surname>Kam</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Simarmata</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Her</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Teng</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Ong</surname>
+<given-names>EKS</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Leo</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>LFP</given-names>
+</string-name> (<year>2012c</year>) <article-title>Early appearance of neutralizing immunoglobulin G3 antibodies is associated with chikungunya virus clearance and long&#x02010;term clinical protection</article-title>. <source xml:lang="en">J Infect Dis</source>
+<volume>205</volume>: <fpage>1147</fpage>&#x02013;<lpage>1154</lpage>
+<pub-id pub-id-type="pmid">22389226</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0031"><mixed-citation publication-type="journal" id="emmm201810092-cit-0031">
+<string-name>
+<surname>Kelvin</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Banner</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Silvi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Moro</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Spataro</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gaibani</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cavrini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Pierro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rossini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>
+<given-names>MJ</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>Inflammatory cytokine expression is associated with Chikungunya virus resolution and symptom severity</article-title>. <source xml:lang="en">PLoS Negl Trop Dis</source>
+<volume>5</volume>: <fpage>e1279</fpage>
+<pub-id pub-id-type="pmid">21858242</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0032"><mixed-citation publication-type="journal" id="emmm201810092-cit-0032">
+<string-name>
+<surname>Kulcsar</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Baxter</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>IP</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>
+<given-names>DE</given-names>
+</string-name> (<year>2014</year>) <article-title>Interleukin 10 modulation of pathogenic Th17 cells during fatal alphavirus encephalomyelitis</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>
+<volume>111</volume>: <fpage>16053</fpage>&#x02013;<lpage>16058</lpage>
+<pub-id pub-id-type="pmid">25362048</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0033"><mixed-citation publication-type="journal" id="emmm201810092-cit-0033">
+<string-name>
+<surname>Kulkarni</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Ganu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jayawant</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Thanapati</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ganu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tripathy</surname>
+<given-names>AS</given-names>
+</string-name> (<year>2017</year>) <article-title>Regulatory T cells and IL&#x02010;10 as modulators of chikungunya disease outcome: a preliminary study</article-title>. <source xml:lang="en">Eur J Clin Microbiol Infect Dis</source>
+<volume>36</volume>: <fpage>2475</fpage>&#x02013;<lpage>2481</lpage>
+<pub-id pub-id-type="pmid">28840350</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0034"><mixed-citation publication-type="journal" id="emmm201810092-cit-0034">
+<string-name>
+<surname>Labadie</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Larcher</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Joubert</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mannioui</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Delache</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Brochard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Guigand</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dubreil</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lebon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Verrier</surname>
+<given-names>B</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Chikungunya disease in nonhuman primates involves long&#x02010;term viral persistence in macrophages</article-title>. <source xml:lang="en">J Clin Invest</source>
+<volume>120</volume>: <fpage>894</fpage>&#x02013;<lpage>906</lpage>
+<pub-id pub-id-type="pmid">20179353</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0035"><mixed-citation publication-type="journal" id="emmm201810092-cit-0035">
+<string-name>
+<surname>Levine</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Simonds</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Bendall</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Amir</surname>
+<given-names>EAD</given-names>
+</string-name>, <string-name>
+<surname>Tadmor</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Litvin</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Fienberg</surname>
+<given-names>HG</given-names>
+</string-name>, <string-name>
+<surname>Jager</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zunder</surname>
+<given-names>ER</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2015</year>) <article-title>Data&#x02010;driven phenotypic dissection of AML reveals progenitor&#x02010;like cells that correlate with prognosis</article-title>. <source xml:lang="en">Cell</source>
+<volume>162</volume>: <fpage>184</fpage>&#x02013;<lpage>197</lpage>
+<pub-id pub-id-type="pmid">26095251</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0036"><mixed-citation publication-type="journal" id="emmm201810092-cit-0036">
+<string-name>
+<surname>Levitt</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Ramsburg</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Hasty</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Repik</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Cole</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Lupton</surname>
+<given-names>HW</given-names>
+</string-name> (<year>1986</year>) <article-title>Development of an attenuated strain of chikungunya virus for use in vaccine production</article-title>. <source xml:lang="en">Vaccine</source>
+<volume>4</volume>: <fpage>157</fpage>&#x02013;<lpage>162</lpage>
+<pub-id pub-id-type="pmid">3020820</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0037"><mixed-citation publication-type="journal" id="emmm201810092-cit-0037">
+<string-name>
+<surname>Long</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Heise</surname>
+<given-names>MT</given-names>
+</string-name> (<year>2015</year>) <article-title>Protective and pathogenic responses to Chikungunya virus infection</article-title>. <source xml:lang="en">Curr Trop Med Rep</source>
+<volume>2</volume>: <fpage>13</fpage>&#x02013;<lpage>21</lpage>
+<pub-id pub-id-type="pmid">26366337</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0038"><mixed-citation publication-type="journal" id="emmm201810092-cit-0038">
+<string-name>
+<surname>Lowenthal</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>O'Neil</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Broadway</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Strom</surname>
+<given-names>ADG</given-names>
+</string-name>, <string-name>
+<surname>Digby</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Andrew</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>York</surname>
+<given-names>JJ</given-names>
+</string-name> (<year>1998</year>) <article-title>Coadministration of IFN&#x02010;&#x003b3; enhances antibody responses in chickens</article-title>. <source xml:lang="en">J Interferon Cytokine Res</source>
+<volume>18</volume>: <fpage>617</fpage>&#x02013;<lpage>622</lpage>
+<pub-id pub-id-type="pmid">9726443</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0039"><mixed-citation publication-type="journal" id="emmm201810092-cit-0039">
+<string-name>
+<surname>Lum</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Teo</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>WWL</given-names>
+</string-name>, <string-name>
+<surname>Kam</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>LFP</given-names>
+</string-name> (<year>2013</year>) <article-title>An essential role of antibodies in the control of Chikungunya virus infection</article-title>. <source xml:lang="en">J Immunol</source>
+<volume>190</volume>: <fpage>6295</fpage>&#x02013;<lpage>6302</lpage>
+<pub-id pub-id-type="pmid">23670192</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0040"><mixed-citation publication-type="journal" id="emmm201810092-cit-0040">
+<string-name>
+<surname>Lum</surname>
+<given-names>F&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Couderc</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chia</surname>
+<given-names>B&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Ong</surname>
+<given-names>R&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Her</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Leo</surname>
+<given-names>Y&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Kam</surname>
+<given-names>Y&#x02010;W</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lecuit</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Antibody&#x02010;mediated enhancement aggravates chikungunya virus infection and disease severity</article-title>. <source xml:lang="en">Sci Rep</source>
+<volume>8</volume>: <fpage>1860</fpage>
+<pub-id pub-id-type="pmid">29382880</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0041"><mixed-citation publication-type="journal" id="emmm201810092-cit-0041">
+<string-name>
+<surname>McClain</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Pittman</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Ramsburg</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>GO</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Mangiafico</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Schmaljohn</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Malinoski</surname>
+<given-names>FJ</given-names>
+</string-name> (<year>1998</year>) <article-title>Immunologic interference from sequential administration of live attenuated alphavirus vaccines</article-title>. <source xml:lang="en">J Infect Dis</source>
+<volume>177</volume>: <fpage>634</fpage>&#x02013;<lpage>641</lpage>
+<pub-id pub-id-type="pmid">9498442</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0042"><mixed-citation publication-type="journal" id="emmm201810092-cit-0042">
+<string-name>
+<surname>McInnes</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Healy</surname>
+<given-names>J</given-names>
+</string-name> (<year>2018</year>) <article-title>UMAP: uniform manifold approximation and projection for dimension reduction</article-title>. <source xml:lang="en">ArXiv</source>: arXiv:1802.03426v2 [PREPRINT]</mixed-citation></ref><ref id="emmm201810092-bib-0043"><mixed-citation publication-type="journal" id="emmm201810092-cit-0043">
+<string-name>
+<surname>Michlmayr</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Pak</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Rahman</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Amir</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kim&#x02010;Schulze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Suprun</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Stewart</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Balmaseda</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2018</year>) <article-title>Comprehensive innate immune profiling of chikungunya virus infection in pediatric cases</article-title>. <source xml:lang="en">Mol Syst Biol</source>
+<volume>14</volume>: <fpage>e7862</fpage>
+<pub-id pub-id-type="pmid">30150281</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0044"><mixed-citation publication-type="journal" id="emmm201810092-cit-0044">
+<string-name>
+<surname>Minor</surname>
+<given-names>PD</given-names>
+</string-name> (<year>2015</year>) <article-title>Live attenuated vaccines: historical successes and current challenges</article-title>. <source xml:lang="en">Virology</source>
+<volume>479</volume>: <fpage>379</fpage>&#x02013;<lpage>382</lpage>
+<pub-id pub-id-type="pmid">25864107</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0045"><mixed-citation publication-type="journal" id="emmm201810092-cit-0045">
+<string-name>
+<surname>Morrison</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Oko</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Montgomery</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Whitmore</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Lotstein</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Gunn</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Elmore</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Heise</surname>
+<given-names>MT</given-names>
+</string-name> (<year>2011</year>) <article-title>A mouse model of chikungunya virus&#x02010;induced musculoskeletal inflammatory disease: evidence of arthritis, tenosynovitis, myositis, and persistence</article-title>. <source xml:lang="en">Am J Pathol</source>
+<volume>178</volume>: <fpage>32</fpage>&#x02013;<lpage>40</lpage>
+<pub-id pub-id-type="pmid">21224040</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0046"><mixed-citation publication-type="journal" id="emmm201810092-cit-0046">
+<string-name>
+<surname>Nakae</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Asano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Horai</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Iwakura</surname>
+<given-names>Y</given-names>
+</string-name> (<year>2001</year>) <article-title>Interleukin&#x02010;1 beta, but not interleukin&#x02010;1 alpha, is required for T&#x02010;cell&#x02010;dependent antibody production</article-title>. <source xml:lang="en">Immunology</source>
+<volume>104</volume>: <fpage>402</fpage>&#x02013;<lpage>409</lpage>
+<pub-id pub-id-type="pmid">11899425</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0047"><mixed-citation publication-type="journal" id="emmm201810092-cit-0047">
+<string-name>
+<surname>Ng</surname>
+<given-names>LFP</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Kwek</surname>
+<given-names>DJC</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Dimatatac</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Ooi</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Chao</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Her</surname>
+<given-names>Z</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2009</year>) <article-title>IL&#x02010;1&#x003b2;, IL&#x02010;6, and RANTES as biomarkers of Chikungunya severity</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>4</volume>: <fpage>e4261</fpage>
+<pub-id pub-id-type="pmid">19156204</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0048"><mixed-citation publication-type="journal" id="emmm201810092-cit-0048">
+<string-name>
+<surname>Partidos</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Paykel</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Weger</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Borland</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Powers</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Seymour</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Stinchcomb</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Osorio</surname>
+<given-names>JE</given-names>
+</string-name> (<year>2012</year>) <article-title>Cross&#x02010;protective immunity against o'nyong&#x02010;nyong virus afforded by a novel recombinant chikungunya vaccine</article-title>. <source xml:lang="en">Vaccine</source>
+<volume>30</volume>: <fpage>4638</fpage>&#x02013;<lpage>4643</lpage>
+<pub-id pub-id-type="pmid">22583812</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0049"><mixed-citation publication-type="journal" id="emmm201810092-cit-0049">
+<string-name>
+<surname>Plaskon</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Adelman</surname>
+<given-names>ZN</given-names>
+</string-name>, <string-name>
+<surname>Myles</surname>
+<given-names>KM</given-names>
+</string-name> (<year>2009</year>) <article-title>Accurate strand&#x02010;specific quantification of viral RNA</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>4</volume>: <fpage>e7468</fpage>
+<pub-id pub-id-type="pmid">19847293</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0050"><mixed-citation publication-type="journal" id="emmm201810092-cit-0050">
+<string-name>
+<surname>Poddar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hyde</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Gorman</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Farzan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Diamond</surname>
+<given-names>MS</given-names>
+</string-name> (<year>2016</year>) <article-title>The interferon&#x02010;stimulated gene IFITM3 restricts infection and pathogenesis of arthritogenic and encephalitic alphaviruses</article-title>. <source xml:lang="en">J Virol</source>
+<volume>90</volume>: <fpage>8780</fpage>&#x02013;<lpage>8794</lpage>
+<pub-id pub-id-type="pmid">27440901</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0051"><mixed-citation publication-type="journal" id="emmm201810092-cit-0051">
+<string-name>
+<surname>Pohjala</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Utt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Varjak</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lulla</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Merits</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ahola</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tammela</surname>
+<given-names>P</given-names>
+</string-name> (<year>2011</year>) <article-title>Inhibitors of alphavirus entry and replication identified with a stable Chikungunya replicon cell line and virus&#x02010;based assays</article-title>. <source xml:lang="en">PLoS One</source>
+<volume>6</volume>: <fpage>e28923</fpage>
+<pub-id pub-id-type="pmid">22205980</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0052"><mixed-citation publication-type="journal" id="emmm201810092-cit-0052">
+<string-name>
+<surname>Poo</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Nakaya</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gardner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Larcher</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Schroder</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Major</surname>
+<given-names>LD</given-names>
+</string-name>, <string-name>
+<surname>Suhrbier</surname>
+<given-names>A</given-names>
+</string-name> (<year>2014</year>) <article-title>CCR2 deficiency promotes exacerbated chronic erosive neutrophil&#x02010;dominated chikungunya virus arthritis</article-title>. <source xml:lang="en">J Virol</source>
+<volume>88</volume>: <fpage>6862</fpage>&#x02013;<lpage>6872</lpage>
+<pub-id pub-id-type="pmid">24696480</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0053"><mixed-citation publication-type="journal" id="emmm201810092-cit-0053">
+<string-name>
+<surname>Ramsauer</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Schwameis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Firbas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;llner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Putnak</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Despr&#x000e8;s</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tauber</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jilma</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tangy</surname>
+<given-names>F</given-names>
+</string-name> (<year>2015</year>) <article-title>Immunogenicity, safety, and tolerability of a recombinant measles&#x02010;virus&#x02010;based chikungunya vaccine: a randomised, double&#x02010;blind, placebo&#x02010;controlled, active&#x02010;comparator, first&#x02010;in&#x02010;man trial</article-title>. <source xml:lang="en">Lancet Infect Dis</source>
+<volume>15</volume>: <fpage>519</fpage>&#x02013;<lpage>527</lpage>
+<pub-id pub-id-type="pmid">25739878</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0054"><mixed-citation publication-type="journal" id="emmm201810092-cit-0054">
+<string-name>
+<surname>Reisinger</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Tschismarov</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Beubler</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Wiedermann</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Firbas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Loebermann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pfeiffer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Muellner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tauber</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ramsauer</surname>
+<given-names>K</given-names>
+</string-name> (<year>2018</year>) <article-title>Immunogenicity, safety, and tolerability of the measles&#x02010;vectored chikungunya virus vaccine MV&#x02010;CHIK: a double&#x02010;blind, randomised, placebo&#x02010;controlled and active&#x02010;controlled phase 2 trial</article-title>. <source xml:lang="en">Lancet</source>
+<volume>6736</volume>: <fpage>1</fpage>&#x02013;<lpage>10</lpage>
+</mixed-citation></ref><ref id="emmm201810092-bib-0055"><mixed-citation publication-type="journal" id="emmm201810092-cit-0055">
+<string-name>
+<surname>Reynaud</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name>
+<surname>Atasheva</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rasalouskaya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Diamond</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Frolova</surname>
+<given-names>EI</given-names>
+</string-name>, <string-name>
+<surname>Frolov</surname>
+<given-names>I</given-names>
+</string-name> (<year>2015</year>) <article-title>IFIT1 differentially interferes with translation and replication of alphavirus genomes and promotes induction of type I interferon</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>11</volume>: <fpage>e1004863</fpage>
+<pub-id pub-id-type="pmid">25927359</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0056"><mixed-citation publication-type="journal" id="emmm201810092-cit-0056">
+<string-name>
+<surname>Salmon</surname>
+<given-names>AB</given-names>
+</string-name> (<year>2005</year>) <article-title>Fibroblast cell lines from young adult mice of long&#x02010;lived mutant strains are resistant to multiple forms of stress</article-title>. <source xml:lang="en">Am J Physiol Endocrinol Metab</source>
+<volume>289</volume>: <fpage>E23</fpage>&#x02013;<lpage>E29</lpage>
+<pub-id pub-id-type="pmid">15701676</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0057"><mixed-citation publication-type="journal" id="emmm201810092-cit-0057">
+<string-name>
+<surname>Sanchez David</surname>
+<given-names>RY</given-names>
+</string-name>, <string-name>
+<surname>Combredet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sismeiro</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Dillies</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Jagla</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Copp&#x000e9;e</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Mura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Galla</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Despres</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tangy</surname>
+<given-names>F</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Comparative analysis of viral RNA signatures on different RIG&#x02010;I&#x02010;like receptors</article-title>. <source xml:lang="en">Elife</source>
+<volume>5</volume>: <fpage>e11275</fpage>
+<pub-id pub-id-type="pmid">27011352</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0058"><mixed-citation publication-type="journal" id="emmm201810092-cit-0058">
+<string-name>
+<surname>Saul</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ferguson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cordonin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fragkoudis</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ool</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tamberg</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sherwood</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Fazakerley</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Merits</surname>
+<given-names>A</given-names>
+</string-name> (<year>2015</year>) <article-title>Differences in processing determinants of nonstructural polyprotein and in the sequence of nonstructural protein 3 affect neurovirulence of Semliki Forest virus</article-title>. <source xml:lang="en">J Virol</source>
+<volume>89</volume>: <fpage>11030</fpage>&#x02013;<lpage>11045</lpage>
+<pub-id pub-id-type="pmid">26311875</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0059"><mixed-citation publication-type="journal" id="emmm201810092-cit-0059">
+<string-name>
+<surname>Schilte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Couderc</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chretien</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sourisseau</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gangneux</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Guivel&#x02010;Benhassine</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Kraxner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tschopp</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Higgs</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Michault</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2010</year>) <article-title>Type I IFN controls chikungunya virus via its action on nonhematopoietic cells</article-title>. <source xml:lang="en">J Exp Med</source>
+<volume>207</volume>: <fpage>429</fpage>&#x02013;<lpage>442</lpage>
+<pub-id pub-id-type="pmid">20123960</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0060"><mixed-citation publication-type="journal" id="emmm201810092-cit-0060">
+<string-name>
+<surname>Schilte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Buckwalter</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Laird</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Diamond</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Albert</surname>
+<given-names>ML</given-names>
+</string-name> (<year>2012</year>) <article-title>Cutting edge: independent roles for IRF&#x02010;3 and IRF&#x02010;7 in hematopoietic and nonhematopoietic cells during host response to Chikungunya infection</article-title>. <source xml:lang="en">J Immunol</source>
+<volume>188</volume>: <fpage>2967</fpage>&#x02013;<lpage>2971</lpage>
+<pub-id pub-id-type="pmid">22371392</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0061"><mixed-citation publication-type="journal" id="emmm201810092-cit-0061">
+<string-name>
+<surname>Schwartz</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Albert</surname>
+<given-names>ML</given-names>
+</string-name> (<year>2010</year>) <article-title>Biology and pathogenesis of chikungunya virus</article-title>. <source xml:lang="en">Nat Rev Microbiol</source>
+<volume>8</volume>: <fpage>491</fpage>&#x02013;<lpage>500</lpage>
+<pub-id pub-id-type="pmid">20551973</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0062"><mixed-citation publication-type="journal" id="emmm201810092-cit-0062">
+<string-name>
+<surname>Simarmata</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>DCE</given-names>
+</string-name>, <string-name>
+<surname>Kam</surname>
+<given-names>Y&#x02010;W</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sum</surname>
+<given-names>MSH</given-names>
+</string-name>, <string-name>
+<surname>Her</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Chow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Leo</surname>
+<given-names>Y&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Cardosa</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Perera</surname>
+<given-names>D</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2016</year>) <article-title>Early clearance of Chikungunya virus in children is associated with a strong innate immune response</article-title>. <source xml:lang="en">Sci Rep</source>
+<volume>6</volume>: <fpage>26097</fpage>
+<pub-id pub-id-type="pmid">27180811</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0063"><mixed-citation publication-type="journal" id="emmm201810092-cit-0063">
+<string-name>
+<surname>Sourisseau</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schilte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Casartelli</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Trouillet</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Guivel&#x02010;Benhassine</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rudnicka</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sol&#x02010;Foulon</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Le Roux</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Prevost</surname>
+<given-names>M&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Fsihi</surname>
+<given-names>H</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2007</year>) <article-title>Characterization of reemerging chikungunya virus</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>3</volume>: <fpage>e89</fpage>
+<pub-id pub-id-type="pmid">17604450</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0064"><mixed-citation publication-type="journal" id="emmm201810092-cit-0064">
+<string-name>
+<surname>Strauss</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Strauss</surname>
+<given-names>EG</given-names>
+</string-name> (<year>1994</year>) <article-title>The alphaviruses: gene expression, replication, and evolution</article-title>. <source xml:lang="en">Microbiol Rev</source>
+<volume>58</volume>: <fpage>491</fpage>&#x02013;<lpage>562</lpage>
+<pub-id pub-id-type="pmid">7968923</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0065"><mixed-citation publication-type="journal" id="emmm201810092-cit-0065">
+<string-name>
+<surname>Teng</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Kam</surname>
+<given-names>YW</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hapuarachchi</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Wimal</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>LFP</given-names>
+</string-name> (<year>2015</year>) <article-title>A systematic meta&#x02010;analysis of immune signatures in patients with acute chikungunya virus infection</article-title>. <source xml:lang="en">J Infect Dis</source>
+<volume>211</volume>: <fpage>1925</fpage>&#x02013;<lpage>1935</lpage>
+<pub-id pub-id-type="pmid">25635123</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0066"><mixed-citation publication-type="journal" id="emmm201810092-cit-0066">
+<string-name>
+<surname>Teo</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Lum</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Claser</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lulla</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Lulla</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Merits</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>LFP</given-names>
+</string-name> (<year>2013</year>) <article-title>A pathogenic role for CD4+ T cells during Chikungunya virus infection in mice</article-title>. <source xml:lang="en">J Immunol</source>
+<volume>190</volume>: <fpage>259</fpage>&#x02013;<lpage>269</lpage>
+<pub-id pub-id-type="pmid">23209328</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0067"><mixed-citation publication-type="journal" id="emmm201810092-cit-0067">
+<string-name>
+<surname>Teo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>WWL</given-names>
+</string-name>, <string-name>
+<surname>Lum</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Amrun</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Her</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Rajarethinam</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Merits</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>R&#x000f6;tzschke</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>R&#x000e9;nia</surname>
+<given-names>L</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>Fingolimod treatment abrogates chikungunya virus&#x02010;induced arthralgia</article-title>. <source xml:lang="en">Sci Transl Med</source>
+<volume>1333</volume>: <fpage>1</fpage>&#x02013;<lpage>12</lpage>
+</mixed-citation></ref><ref id="emmm201810092-bib-0068"><mixed-citation publication-type="journal" id="emmm201810092-cit-0068">
+<string-name>
+<surname>Wang</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Volkova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Forrester</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Frolov</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>
+<given-names>SC</given-names>
+</string-name> (<year>2008</year>) <article-title>Chimeric alphavirus vaccine candidates for chikungunya</article-title>. <source xml:lang="en">Vaccine</source>
+<volume>26</volume>: <fpage>5030</fpage>&#x02013;<lpage>5039</lpage>
+<pub-id pub-id-type="pmid">18692107</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0069"><mixed-citation publication-type="journal" id="emmm201810092-cit-0069">
+<string-name>
+<surname>Werneke</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Schilte</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rohatgi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Monte</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Michault</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Arenzana&#x02010;Seisdedos</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Vanlandingham</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Higgs</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fontanet</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Albert</surname>
+<given-names>ML</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2011</year>) <article-title>ISG15 is critical in the control of chikungunya virus infection independent of UbE1&#x000a0;l mediated conjugation</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>7</volume>: <fpage>e1002322</fpage>
+<pub-id pub-id-type="pmid">22028657</pub-id></mixed-citation></ref><ref id="emmm201810092-bib-0070"><mixed-citation publication-type="journal" id="emmm201810092-cit-0070">
+<string-name>
+<surname>Wilson</surname>
+<given-names>JAC</given-names>
+</string-name>, <string-name>
+<surname>Prow</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Schroder</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Cumming</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Gearing</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Poo</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hertzog</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Di Giallonardo</surname>
+<given-names>F</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic> (<year>2017</year>) <article-title>RNA&#x02010;Seq analysis&#x000a0;of chikungunya virus infection and identification of granzyme A as a major promoter of arthritic inflammation</article-title>. <source xml:lang="en">PLoS Pathog</source>
+<volume>13</volume>: <fpage>e1006155</fpage>
+<pub-id pub-id-type="pmid">28207896</pub-id></mixed-citation></ref></ref-list></back></article>

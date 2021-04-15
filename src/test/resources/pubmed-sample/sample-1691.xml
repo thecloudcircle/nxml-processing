@@ -1,0 +1,979 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Venom Anim Toxins Incl Trop Dis</journal-id><journal-id journal-id-type="iso-abbrev">J Venom Anim Toxins Incl Trop Dis</journal-id><journal-id journal-id-type="publisher-id">jvatitd</journal-id><journal-title-group><journal-title>The Journal of Venomous Animals and Toxins Including Tropical Diseases</journal-title></journal-title-group><issn pub-type="epub">1678-9199</issn><publisher><publisher-name>Centro de Estudos de Venenos e Animais Pe&#x000e7;onhentos</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32362928</article-id><article-id pub-id-type="pmc">7179968</article-id><article-id pub-id-type="other">00308</article-id><article-id pub-id-type="doi">10.1590/1678-9199-JVATITD-2019-0103</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research</subject></subj-group></article-categories><title-group><article-title>Venomics and antivenomics of the poorly studied Brazil&#x02019;s lancehead,
+<italic>Bothrops brazili</italic> (Hoge, 1954), from the Brazilian State of
+Par&#x000e1;</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Sanz</surname><given-names>Libia</given-names></name><xref ref-type="aff" rid="aff1">1 </xref></contrib><contrib contrib-type="author"><name><surname>P&#x000e9;rez</surname><given-names>Alicia</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Quesada-Bernat</surname><given-names>Sarai</given-names></name><xref ref-type="aff" rid="aff1">1</xref></contrib><contrib contrib-type="author"><name><surname>Diniz-Sousa</surname><given-names>Rafaela</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref><xref ref-type="aff" rid="aff4">4</xref></contrib><contrib contrib-type="author"><name><surname>Calder&#x000f3;n</surname><given-names>Leonardo A.</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref><xref ref-type="aff" rid="aff5">5</xref><xref ref-type="aff" rid="aff6">6</xref></contrib><contrib contrib-type="author"><name><surname>Soares</surname><given-names>Andreimar M.</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref><xref ref-type="aff" rid="aff4">4</xref><xref ref-type="aff" rid="aff5">5</xref><xref ref-type="aff" rid="aff7">7</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5026-3122</contrib-id><name><surname>Calvete</surname><given-names>Juan J.</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="c1">*</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-1670-5227</contrib-id><name><surname>Caldeira</surname><given-names>Cle&#x000f3;patra A. S.</given-names></name><xref ref-type="aff" rid="aff2">2</xref><xref ref-type="aff" rid="aff3">3</xref><xref ref-type="aff" rid="aff5">5</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>Evolutionary and Translational Venomics Laboratory, Spanish National
+Research Council (CSIC), Valencia, Spain.</aff><aff id="aff2">
+<label>2</label>Center for the Study of Biomolecules Applied to Health (CEBio),
+Oswaldo Cruz Foundation Rond&#x000f4;nia, Porto Velho, RO, Brazil.</aff><aff id="aff3">
+<label>3</label>Graduate Program in Experimental Biology (PGBIOEXP), Federal
+University of Rond&#x000f4;nia (UNIR), Porto Velho, RO, Brazil.</aff><aff id="aff4">
+<label>4</label>S&#x000e3;o Lucas University Center (UniSL), Porto Velho, RO, Brazil.</aff><aff id="aff5">
+<label>5</label>Graduate Program in Biodiversity and Biotechnology, BIONORTE
+Network, Porto Velho, RO, Brazil.</aff><aff id="aff6">
+<label>6</label>Apar&#x000ed;cio Carvalho University Center (FIMCA), Porto Velho, RO,
+Brazil.</aff><aff id="aff7">
+<label>7</label>National Institute of Science and Technology in Epidemiology of the
+Western Amaz&#x000f4;nia, (INCT-EpiAmO), Porto Velho, RO, Brazil.</aff><author-notes><corresp id="c1"><label>*</label>Correspondence to:
+<email>jcalvete@ibv.csic.es</email>.</corresp><fn fn-type="COI-statement" id="fn3"><p><bold>Competing interests:</bold> The authors declare that they have no competing interests.</p></fn><fn fn-type="con" id="fn4"><p><bold>Authors&#x02019; contributions:</bold> LS, AP, JJC, CASC, performed the biochemical and proteomic characterizations.
+SQB carried out the antivenomics assays. LS, JJC, CASC analyzed the results.
+LS, AP, SQB, JJC, CASC, RDS, LAC and AMS participated in the discussion of
+the results, carried out a critical review of the work and assisted in
+drafting and structuring the manuscript. LS, JJC, CASC were responsible for
+the conception of the work and supervised the experimental work. All the
+authors read and approved the final manuscript.</p></fn></author-notes><pub-date pub-type="epub"><day>17</day><month>4</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>26</volume><elocation-id>e20190103</elocation-id><history><date date-type="received"><day>19</day><month>12</month><year>2019</year></date><date date-type="accepted"><day>28</day><month>2</month><year>2020</year></date></history><permissions><license license-type="open-access"><license-p>This article is distributed under the terms of the Creative Commons
+Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits
+unrestricted use, distribution, and reproduction in any medium, provided you
+give appropriate credit to the original author(s) and the source, provide a
+link to the Creative Commons license, and indicate if changes were made. The
+Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/publicdomain/zero/1.0/">
+http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to
+the data made available in this article, unless otherwise stated.
+</license-p></license></permissions><abstract><title>ABSTRACT</title><sec><title>Background:</title><p>The Brazil&#x02019;s lancehead, <italic>Bothrops brazili</italic>, is a poorly
+studied pit viper distributed in lowlands of the equatorial rainforests of
+southern Colombia, northeastern Peru, eastern Ecuador, southern and
+southeastern Venezuela, Guyana, Suriname, French Guiana, Brazil, and
+northern Bolivia. Few studies have been reported on toxins isolated from
+venom of Ecuadorian and Brazilian <italic>B. brazili</italic>. The aim of
+the present study was to elucidate the qualitative and quantitative protein
+composition of <italic>B. brazili</italic> venom from Par&#x000e1; (Brazil), and to
+carry out a comparative antivenomics assessment of the immunoreactivity of
+the Brazilian antibothropic pentavalent antivenom [<italic>soro
+antibotr&#x000f3;pico</italic> (SAB) in Portuguese] against the venoms of
+<italic>B. brazili</italic> and reference species, <italic>B.
+jararaca</italic>.</p></sec><sec><title>Methods:</title><p>We have applied a quantitative snake venomics approach, including
+reverse-phase and two-dimensional electrophoretic decomplexation of the
+venom toxin arsenal, LC-ESI-MS mass profiling and peptide-centric MS/MS
+proteomic analysis, to unveil the overall protein composition of <italic>B.
+brazili</italic> venom from Par&#x000e1; (Brazil). Using third-generation
+antivenomics, the specific and paraspecific immunoreactivity of the
+Brazilian SAB against homologous (<italic>B. jararaca</italic>) and
+heterologous (<italic>B. brazili</italic>) venoms was investigated. </p></sec><sec><title>Results:</title><p>The venom proteome of the Brazil&#x02019;s lancehead (Par&#x000e1;) is predominantly composed
+of two major and three minor acidic (19%) and two major and five minor basic
+(14%) phospholipase A<sub>2</sub> molecules; 7-11 snake venom
+metalloproteinases of classes PI (21%) and PIII (6%); 10-12 serine
+proteinases (14%), and 1-2 L-amino acid oxidases (6%). Other toxins,
+including two cysteine-rich secretory proteins, one C-type lectin-like
+molecule, one nerve growth factor, one 5'-nucleotidase, one
+phosphodiesterase, one phospholipase B, and one glutaminyl cyclase molecule,
+represent together less than 2.7% of the venom proteome. Third generation
+antivenomics profile of the Brazilian pentabothropic antivenom showed
+paraspecific immunoreactivity against all the toxin classes of <italic>B.
+brazili</italic> venom<bold>,</bold> with maximal binding capacity of
+132.2 mg venom/g antivenom. This figure indicates that 19% of antivenom's
+F(ab')<sub>2</sub> antibodies bind <italic>B. brazili</italic> venom
+toxins. </p></sec><sec><title>Conclusion:</title><p>The proteomics outcome contribute to a deeper insight into the spectrum of
+toxins present in the venom of the Brazil&#x02019;s lancehead, and rationalize the
+pathophysiology underlying this snake bite envenomings. The comparative
+qualitative and quantitative immunorecognition profile of the Brazilian
+pentabothropic antivenom toward the venom toxins of <italic>B.
+brazili</italic> and <italic>B. jararaca</italic> (the reference venom
+for assessing the bothropic antivenom's potency in Brazil), provides clues
+about the proper use of the Brazilian antibothropic polyvalent antivenom in
+the treatment of bites by the Brazil&#x02019;s lancehead. </p></sec></abstract><kwd-group><title>Keywords:</title><kwd>Snake venom</kwd><kwd>Bothrops <italic>brazili</italic></kwd><kwd>Venomics</kwd><kwd>Third-generation antivenomics</kwd><kwd>Brazilian antibothropic polyvalent antivenom</kwd></kwd-group><counts><fig-count count="3"/><table-count count="2"/><equation-count count="2"/><ref-count count="68"/></counts></article-meta></front><body><sec><title>Background</title><p>The genus <italic>Bothrops</italic> includes at least 50 species of pit vipers
+(Viperidae: Crotalinae) that are widely distributed throughout the Americas, from
+Mexico to southern Argentina, in different ecoregions, from tropical and subtropical
+forests to arid and semiarid regions, and from sea level to altitudes of more than
+3000 m [<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B2" ref-type="bibr">2</xref>]. <italic>Bothrops</italic> species exhibit extreme diverse
+morphological and ecological traits, including terrestrial, arboreal and
+semiarboreal species, many of which show generalist, while others show specialized
+dietary habits (e.g. rodents or birds), and ontogenetic shifts in diet [<xref rid="B3" ref-type="bibr">3</xref>]. Although still subject to taxonomic
+instability [<xref rid="B4" ref-type="bibr">4</xref>], all the clades within genus
+<italic>Bothrops</italic> include species that represent the main medically
+important venomous snakes in their range [<xref rid="B5" ref-type="bibr">5</xref>-<xref rid="B7" ref-type="bibr">7</xref>]. The clinical presentations
+of patients suffering from envenomations by viperid snakes show both local tissue
+damage and systemic manifestations, such as hemorrhage, coagulopathies and
+hemodynamic instability [<xref rid="B6" ref-type="bibr">6</xref>, <xref rid="B8" ref-type="bibr">8</xref>]. </p><p>In Ecuador, 1200-1400 cases of snakebites are yearly reported in 19 of the 21
+provinces. East of the Andes, the principal venomous species are the common
+lancehead (<italic>B. atrox</italic>) and two-striped forest pitviper (<italic>B.
+bilineatus smaragdinus</italic>) [<xref rid="B9" ref-type="bibr">9</xref>]. The
+main clinical effects of envenomings by <italic>B. atrox</italic> are life
+threatening bleeding and blood coagulation disorders, shock, and renal failure.
+Other species such as <italic>B. brazili</italic> and <italic>L. muta</italic>,
+although potentially as dangerous as <italic>B. atrox</italic>, rarely bite people
+and envenoming by <italic>B. b. smaragdinus</italic> is usually less severe [<xref rid="B9" ref-type="bibr">9</xref>]. The vast majority of snakebites in Peru are
+inflicted by species of the genus <italic>Bothrops</italic> [<xref rid="B10" ref-type="bibr">10</xref>]. <italic>Bothrops brazili</italic>, distributed in the
+tropical rainforests in the eastern part of the country, is one of the main species
+responsible for snakebite accidents in Peru, and its venom composes the antigenic
+pool used to produce bothropic antivenom in this country. Peruvian bothropic
+antivenom (P-BAV) is an IgG solution obtained from horses immunized with a pool of
+venoms, consisted of 50% of <italic>B. atrox</italic> venom and 12.5% of pooled
+venom from other species (<italic>B. pictus</italic>, <italic>B. barnetti</italic>,
+<italic>B. brazili</italic> and <italic>Bothrocophias hyoprora</italic>) [<xref rid="B11" ref-type="bibr">11</xref>]. In French Guiana, <italic>B.
+atrox</italic>, <italic>B. brazili</italic>, <italic>B. bilineatus</italic>,
+<italic>L. muta</italic> and <italic>Micrurus</italic> sp. are responsible for
+most cases of snakebite envenomation [<xref rid="B8" ref-type="bibr">8</xref>].
+Different from other Brazilian regions, <italic>B. atrox</italic>, <italic>B.
+brazili</italic> and <italic>B. taeniata</italic> are responsible for almost 90%
+of human accidents in the Rio Negro Amazonian region [<xref rid="B12" ref-type="bibr">12</xref>, <xref rid="B13" ref-type="bibr">13</xref>].</p><p>Named in honor of the Brazilian physician and herpetologist Vital Brazil Mineiro da
+Campanha [<xref rid="B14" ref-type="bibr">14</xref>], founder and former director of
+the Butantan Institute in S&#x000e3;o Paulo, the Brazil&#x02019;s lancehead, <italic>Bothrops
+brazili</italic> (Hoge, 1954) [<xref rid="B15" ref-type="bibr">15</xref>], is a
+stoutly built terrestrial venomous pit viper endemic to South America. Phylogenetic
+studies recover <italic>B. brazili</italic> and <italic>B. jararacussu</italic>
+within the &#x0201c;jararacussu&#x0201d; group, a sister branch of the monophyletic
+&#x0201c;<italic>asper-atrox</italic>&#x0201d; species clade [<xref rid="B2" ref-type="bibr">2</xref>, <xref rid="B16" ref-type="bibr">16</xref>]. Despite being a
+wide-ranging species, which inhabits in lowlands of the equatorial rainforests of
+southern Colombia, northeastern Peru, eastern Ecuador, southern and southeastern
+Venezuela, Guyana, Suriname, French Guiana, Brazil (Acre, Amazonas, Mato Grosso,
+Maranh&#x000e3;o, Par&#x000e1; and Rond&#x000f4;nia), and northern Bolivia [<xref rid="B1" ref-type="bibr">1</xref>, <xref rid="B17" ref-type="bibr">17</xref>, <xref rid="B18" ref-type="bibr">18</xref>], no subspecies are currently recognized for the Brazil&#x02019;s
+lancehead. Terrestrial and mainly a nocturnal snake, adults of <italic>B.
+brazili</italic> are usually 70-90 cm in total length (including tail), but may
+exceed 140 cm. Among adult specimens, females are much larger than males [<xref rid="B1" ref-type="bibr">1</xref>]. Data from specimens from the Brazilian
+states Maranh&#x000e3;o, Par&#x000e1; and Rond&#x000f4;nia [<xref rid="B3" ref-type="bibr">3</xref>], and
+from the upper Amazon basin, Iquitos Region, Peru [<xref rid="B19" ref-type="bibr">19</xref>], indicated that Brazil&#x02019;s lanceheads exhibit ontogenetic shift in
+prey type diet from invertebrate ectotherms to vertebrate ecto- and endotherms.
+Centipedes are common prey items of juveniles whereas adults are generalists feeding
+mainly on rodents, anurans, and lizards. </p><p>Peruvian <italic>B. brazili</italic> produces large amounts of venom (3-4 mL) [<xref rid="B20" ref-type="bibr">20</xref>] with potent median lethal dose
+(LD<sub>50</sub>) in mice of 15.27 &#x000b5;g/18-20 g mouse compared to 49.90 &#x000b5;g/mouse
+(<italic>B. atrox</italic>), 45.22 &#x000b5;g/mouse (<italic>B. bilineatus</italic>),
+and 58.91 &#x000b5;g/mouse (<italic>B. pictus</italic>) [<xref rid="B11" ref-type="bibr">11</xref>]. In the murine model, Peruvian <italic>B. brazili</italic> exhibited
+minimum hemorrhagic dose (MHD) of 7.40 &#x000b5;g/mouse), minimum dermonecrotic dose (MND)
+of 152.15 &#x000b5;g/mouse, minimum coagulant dose against plasma (MCD-P) and fibrinogen
+(MCD-F) of 19.20 and 1020.0 &#x000b5;g/mL, respectively, and minimum defibrinogenating dose
+(MDD) of 7.0 &#x000b5;g/mouse [<xref rid="B11" ref-type="bibr">11</xref>]. Although
+described as a new <italic>Bothrops</italic> from Brazil 65 years ago [<xref rid="B15" ref-type="bibr">15</xref>], very few studies have been reported on the
+toxin arsenal of the Brazil&#x02019;s lancehead venom, and these were mainly focused on the
+pharmacological effects and possible biotechnological applications of isolated
+toxins [<xref rid="B21" ref-type="bibr">21</xref>-<xref rid="B31" ref-type="bibr">31</xref>], including acidic and basic phospholipase A<sub>2</sub>
+(PLA<sub>2</sub>) molecules (myotoxic Braziliase I and II, MTX I and II,
+brazilitoxins II and III) [<xref rid="B23" ref-type="bibr">23</xref>-<xref rid="B26" ref-type="bibr">26</xref>]; a PI-snake venom metaloproteinase (SVMP),
+with <italic>in vitro</italic> antiplasmodial properties [<xref rid="B27" ref-type="bibr">27</xref>]; coagulant thrombin-like and pro-angiogenic snake venom
+serine proteinase (SVSP) [<xref rid="B28" ref-type="bibr">28</xref>, <xref rid="B29" ref-type="bibr">29</xref>]; and a hyaluronidase [<xref rid="B30" ref-type="bibr">30</xref>]. </p><p>Recently, Gren and et al. [<xref rid="B31" ref-type="bibr">31</xref>] reported the
+presence of 5&#x02032;-nucleotidase (5'-NT), C-type lectin-like (CTL), L-amino acid oxidase
+(LAO), phosphodiesterase (PDE), phospholipases A<sub>2</sub> (PLA<sub>2</sub>) and B
+(PLB), and SVMP molecules in the high molecular size-exclusion chromatographic
+fraction of a number of bothropic venoms, including <italic>B. brazili</italic>
+[<xref rid="B31" ref-type="bibr">31</xref>]. However, venoms comprise mixtures
+of toxins, which act jointly dysregulating receptors involved in maintaining vital
+systems and wreak havoc on internal organs of the prey. Understanding such
+integrated complex phenotype demands a holistic view of the system. With this in
+mind, we have applied a snake venomics approach to elucidate the qualitative and
+quantitative protein composition of <italic>B. brazili</italic> venom from Par&#x000e1;
+(Brazil), and a comparative antivenomics assessment of the immunoreactivity of the
+Brazilian antibothropic pentavalent antivenom against the venoms of <italic>B.
+brazili</italic> and <italic>B. jararaca</italic>, the latter used as a
+reference venom. </p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Venom and antivenom</title><p>Pooled venom from <italic>B. brazili</italic> (State of Par&#x000e1;, Brazil) was
+acquired from Serpent&#x000e1;rio Prote&#x000ed;nas Bioativas Ltda, Batatais, SP, and kept
+refrigerated (8&#x000b0;C) in the Bank of Amazon Venoms at the Center of Biomolecules
+Studies Applied to Health, CEBio-UNIR-FIOCRUZ-RO (register CGEN A4D12CB and
+IBAMA/SISBIO 64385-1). The antibothropic pentavalent antivenom (<italic>soro
+antibotr&#x000f3;pico pentavalente</italic>, SAB; batch 1305077; production date:
+05/2013) from Butantan Institute (S&#x000e3;o Paulo, Brazil) was raised in horses by
+conventional immunization schedules against a pool of venoms from <italic>B.
+jararaca</italic> (50%), <italic>B. jararacussu</italic> (12.5%), <italic>B.
+moojeni</italic> (12.5%), <italic>B. alternatus</italic> (12.5%) and
+<italic>B. neuwiedi</italic> (12.5%). The final formulation consists of
+purified F(ab')<sub>2</sub> fragments generated by digestion with pepsin of
+ammonium sulfate-precipitated IgG molecules [<xref rid="B32" ref-type="bibr">32</xref>, <xref rid="B33" ref-type="bibr">33</xref>]. A vial of SAB [10
+mL, 29.2 mg F(ab')<sub>2</sub>/mL] neutralizes 50 mg of <italic>B.
+jararaca</italic> venom (the reference venom for assessing the bothropic
+antivenom potency in Brazil).</p></sec><sec><title>
+<bold>Isolation and initial characterization of <italic>B. brazili</italic>
+(Par&#x000e1;) venom proteins</bold>
+</title><p>Crude lyophilized venom was dissolved in 0.05% trifluoroacetic acid (TFA) and 5%
+acetonitrile (ACN) to a final concentration of 15 mg/mL. Insoluble material was
+removed by centrifugation in an Eppendorf centrifuge at
+13,000x<italic>g</italic> for 10 min at room temperature, and the proteins
+contained in 40&#x000b5;L (600 &#x000b5;g) were separated by RP-HPLC using a Agilent LC 1100
+High Pressure Gradient System equipped with a Teknokroma Europa C18 (25 cm x 5
+mm, 5&#x000b5;m particle size, 300 &#x000c5; pore size) column and a DAD detector. The column
+was developed at a flow rate of 1.0 mL/min with a linear gradient of 0.1% TFA in
+MilliQ<sup>&#x000ae;</sup> water (solution A) and 0.1% TFA in acetonitrile (solution
+B), isocratic (5% B) for 5 min, followed by 5-25% B for 10 min, 25-45% B for 60
+min, and 45-70% B for 10 min. Protein detection was carried out at 215 nm with a
+reference wavelength of 400 nm. Fractions were collected manually across the
+entire elution range, dried in a vacuum centrifuge (Savant&#x02122;, ThermoFisher
+Scientific), and redissolved in MilliQ<sup>&#x000ae;</sup> water. Molecular masses of
+the purified proteins were estimated by non-reduced and reduced Tris-Tricine
+SDS-PAGE (on 15% polyacrylamide gels) [<xref rid="B34" ref-type="bibr">34</xref>], or determined by electrospray ionization (ESI) mass spectrometry
+(MS).</p><p>For SDS-PAGE analysis sample aliquots were mixed with &#x000bc; volume of 4x sample
+buffer (0.25M Tris-HCl pH 6.8, 8% SDS, 30% glycerol, 0.02% bromophenol blue,
+with or without 10% 2-mercaptoethanol) and heated at 85&#x000ba;C for 15 min, run under
+reducing conditions, and the gels were stained with Coomassie Brilliant Blue
+G-250. For ESI-MS mass profiling, the proteins eluted in the different RP-HPLC
+fractions were separated by nano-Acquity UltraPerformance LC<sup>&#x000ae;</sup>
+(UPLC<sup>&#x000ae;</sup>) using BEH130 C18 (100&#x000b5;m x 100 mm, 1.7&#x000b5;m particle size)
+column in-line with a Waters SYNAPT G2 High Definition Mass Spectrometry System.
+The flow rate was set to 0.6&#x000b5;L/min and the column was developed with a linear
+gradient of 0.1% formic acid in water (solution A) and 0.1% formic acid in ACN
+(solution B), isocratically 1% B for 1 min, followed by 1-12% B for 1 min,
+12-40% B for 15 min, 40-85% B for 2 min. Monoisotopic and isotope-averaged
+molecular masses were calculated by manually deconvolution of the
+isotope-resolved multiply-charged MS1 mass spectra. </p></sec><sec><title>Two-dimensional (IEF/SDS-PAGE) gel electrophoresis</title><p>Two-dimensional gel electrophoresis (2-DE) was performed essentially according to
+the manufacturer&#x02019;s (GE Healthcare Amersham Biosciences) instructions unless
+otherwise indicated. For the first dimension, isoelectric focusing (IEF), ~150
+&#x000b5;g of venom were dissolved in 7M urea, 2M thiourea, 4% CHAPS, and 0.5% IPG
+buffer pH 3-10 and applied onto 7-cm pH 3-10 nonlinear, immobilized pH gradient
+(IPG) ReadyStrip&#x02122; strips. IEF was carried out with an Ettan-IPGphor isoelectric
+focusing unit at 20&#x000b0;C applying the following conditions: 300 V (0.5 h), ramping
+to 1000 V (0.5 h), ramping to 5000 (1.3 h) and 5000 V (0.5 h). After IEF, the
+IPG strips were kept at -70&#x000b0;C until use. For the second dimension,
+SDS-polyacrylamide gel electrophoresis (SDS-PAGE), the IPGs were equilibrated
+for 15 min with gentle shaking and at room temperature in equilibration buffer
+[6 M urea, 2% (w/v) SDS, 30% (v/v) glycerol, 75 mM Tris-HCl, pH 8.8], with or
+without 40 mM DTT. IPG strips were then placed on top of SDS-15% polyacrylamide
+gels and run in a Protean II (Bio-Rad) electrophoresis unit at room temperature.
+Protein spots were visualized by Coomassie Brilliant Blue G250 staining. </p></sec><sec><title>Characterization and relative quantification of RP-HPLC fractions and 2-DE
+protein spots of the Brazil&#x02019;s lancehead venom peptidome and proteome</title><p>Protein bands of interest were excised from Coomassie Brilliant Blue-stained
+SDS-PAGE and 2-DE gels and subject to in-gel disulfide bond reduction (10 mM
+dithiothreitol, 30 min at 65 &#x000ba;C) and cysteine alkylation (50 mM iodoacetamide,
+2h in the dark at room temperature), followed by overnight digestion with
+sequencing-grade trypsin (66 ng/&#x000b5;L in 25 mM ammonium bicarbonate, 10% ACN; 0.25
+&#x000b5;g/sample), using a Genomics Solution ProGest&#x02122; Protein Digestion Workstation.
+Tryptic digests were dried in a vacuum centrifuge (SPD SpeedVac<sup>&#x000ae;</sup>,
+ThermoSavant), redissolved in 14&#x000b5;L of 5% ACN containing 0.1% formic acid, and
+7&#x000b5;L submitted to LC-MS/MS. Tryptic peptides were separated by nano-Acquity
+UltraPerformance LC<sup>&#x000ae;</sup> (UPLC<sup>&#x000ae;</sup>) as above. </p><p>Doubly and triply charged ions were selected for CID-MS/MS. Fragmentation spectra
+were interpreted i) manually (<italic>de novo</italic> sequencing), ii) using
+the on-line form of the MASCOT Server (version 2.6) at <ext-link ext-link-type="uri" xlink:href="http://www.matrixscience.com/">http://www.matrixscience.com</ext-link> against the last update (Release
+234 of October 15th, 2019) of NCBI non-redundant database, and iii) processed in
+Waters Corporation&#x02019;s ProteinLynx Global SERVER 2013 version 2.5.2. (with
+Expression version 2.0). The following search parameters were used: Taxonomy:
+bony vertebrates; Enzyme: trypsin (two missed cleavage allowed); MS/MS mass
+tolerance was set to &#x000b1; 0.6 Da; carbamidomethyl cysteine and oxidation of
+methionine were selected as fixed and variable modifications, respectively. All
+matched MS/MS data were manually checked. Peptide sequences assigned by
+<italic>de novo</italic> MS/MS were matched to homologous proteins available
+in the NCBI non-redundant protein sequences database using the online BLASTP
+program [<xref rid="B35" ref-type="bibr">35</xref>] at <ext-link ext-link-type="uri" xlink:href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">https://blast.ncbi.nlm.nih.gov/Blast.cgi</ext-link>. </p><p>The relative abundances of the chromatographic peaks obtained by reverse-phase
+HPLC fractionation of the whole venom were calculated as &#x0201c;% of total peptide
+bond concentration in the peak&#x0201d; by dividing the peak area by the total area of
+the chromatogram [<xref rid="B36" ref-type="bibr">36</xref>-<xref rid="B38" ref-type="bibr">38</xref>]. For chromatographic peaks containing
+single components (as judged by SDS-PAGE and/or MS), this figure is a good
+estimate of the % by weight (g/100 g) of the pure venom component [<xref rid="B39" ref-type="bibr">39</xref>]. When more than one venom protein was
+present in a reverse-phase fraction, their proportions (% of total protein band
+area) were estimated by densitometry of Coomassie-stained SDS-polyacrylamide
+gels using MetaMorph<sup>&#x000ae;</sup> Image Analysis Software (Molecular Devices).
+Conversely, the relative abundances of different proteins contained in the same
+SDS-PAGE band were estimated based on the relative ion intensities of the three
+most abundant peptide ions associated with each protein by MS/MS analysis. The
+relative abundances of the protein families present in the venom were calculated
+as the ratio of the sum of the percentages of the individual proteins from the
+same toxin family to the total area of venom protein peaks in the reverse-phase
+chromatogram.</p></sec><sec><title>Third-generation antivenomics</title><p>Third-generation antivenomics [<xref rid="B40" ref-type="bibr">40</xref>, <xref rid="B41" ref-type="bibr">41</xref>] was applied to compare the
+immunoreactivity of the Brazilian pentabothropic antivenom (SAB) towards the
+venoms of <italic>B. brazili</italic> and <italic>B. jararaca</italic> from the
+southeastern clade population within the Brazilian Atlantic forest [<xref rid="B42" ref-type="bibr">42</xref>] (used as reference venom). To this end,
+one vial of antivenom was dialyzed against MilliQ<sup>&#x000ae;</sup> water,
+lyophilized, and 150 mg of total lyophilizate weight were reconstituted in 6 mL
+of 0.2 M NaHCO<sub>3</sub>, 0.5 M NaCl, pH 8.3 (coupling buffer). The
+concentrations of this antivenom stock solution [21.62 mg F(ab')<sub>2</sub>/mL]
+was determined spectrophotometrically using an extinction coefficient for a 1
+mg/mL concentration (&#x003b5;<sup>0.1%</sup>) at 280 nm of 1.36 (mg/mL)<sup>-1</sup>
+cm<sup>-1</sup> [<xref rid="B43" ref-type="bibr">43</xref>]. </p><p>Antivenom affinity columns were prepared in batch. To this end, 3 mL of
+CNBr-activated Sepharose&#x02122; 4B matrix (Ge Healthcare, Buckinghamshire, UK) packed
+in a ABT column (Agarose Bead Technologies, Torrej&#x000f3;n de Ardoz, Madrid) and
+washed with 15x matrix volumes of cold 1 mM HCl, followed by two matrix volumes
+of coupling buffer to adjust the pH of the column to 8.0-9.0. CNBr-activated
+instead of N-hydroxysuccinimide (NHS)-activated matrix was employed because NHS
+released during the coupling procedure absorbs strongly at 280 nm, thus
+interfering with the measurement of the concentration of antibodies remaining in
+the supernatant of the coupling solution. One hundred thirty mg of antivenom
+dissolved in 6 mL of coupling buffer were incubated with 3 mL CNBr-activated
+matrix for 4 h at room temperature. Antivenom coupling yield, estimated
+measuring A<sub>280nm</sub> before and after incubation with the matrix, was
+95.7 mg (i.e., 31.9 mg F(ab')<sub>2</sub>/mL CNBr-activated Sepharose&#x02122; 4B
+matrix). </p><p>After the coupling, remaining active matrix groups were blocked with 3 mL of 0.1
+M Tris-HCl, pH 8.5 at room temperature for 4 h. Affinity columns, each
+containing 282 &#x000b5;L of affinity matrix containing 9 mg of immobilized SAB
+F(ab')<sub>2</sub> molecules, were alternately washed with three matrix
+volumes of 0.1 M acetate containing 0.5 M NaCl, pH 4.0-5.0, and three matrix
+volumes of 0.1 M Tris-HCl, pH 8.5. This procedure was repeated 6 times. The
+columns were then equilibrated with three volumes of working buffer (PBS, 20 mM
+phosphate buffer, 135 mM NaCl, pH 7.4) and incubated with increasing amounts
+(100-3600 &#x000b5;g of total venom proteins) of <italic>B. brazili</italic> or
+<italic>B. jararaca</italic> dissolved in &#x000bd; matrix volume of PBS, and the
+mixtures incubated for 1 h at 25&#x000b0;C in an orbital shaker. </p><p>As specificity controls, 300&#x000b5;L of CNBr-activated Sepharose&#x02122; 4B matrix, without
+(mock) or with 9 mg of immobilized control (na&#x000ef;ve) horse IgGs, were incubated
+with venom and developed in parallel to the immunoaffinity columns. The
+non-retained eluates of columns incubated with 100-300, 600, 900, 1200, 2400,
+3600 &#x000b5;g of venom were recovered, respectively, with 3x, 5x, 7x, 9x, 17x and 25x
+matrix volume of PBS, and the immunocaptured proteins were eluted, respectively,
+with 3x (100-300 &#x000b5;g) and 6x (600-3600 &#x000b5;g) matrix volume of 0.1M glycine-HCl, pH
+2.7 buffer, and brought to neutral pH with 1M Tris-HCl, pH 9.0. The entire
+fractions eluted in 100-300 &#x000b5;g, &#x000bd; of the fractions recovered in 600 &#x000b5;g, &#x000bd; of the
+non-retained fractions and &#x000bd; of the retained fractions recovered in 900 &#x000b5;g, &#x000bc; of
+the non-retained fractions and &#x000bd; of the retained fractions recovered in 1200 &#x000b5;g,
+&#x0215b; of the non-retained fractions and &#x000bc; of the retained fractions recovered in
+2400 &#x000b5;g and <sup>1</sup>/<sub>12</sub> of the non-retained fractions and &#x000bc; of
+the retained fractions recovered in 3600 &#x000b5;g, were concentrated in a Savant
+SpeedVac&#x02122; vacuum centrifuge (ThermoFisher Scientific, Waltham, MA USA) to 45&#x000b5;L,
+40&#x000b5;L of which were then fractionated by reverse-phase HPLC using an Agilent LC
+1100 High Pressure Gradient System (Santa Clara, CA, USA) equipped with a
+Discovery<sup>&#x000ae;</sup> BIO Wide Pore C18 (15 cm x 2.1 mm, 3&#x000b5;m particle size,
+300 &#x000c5; pore size) column and a DAD detector as above. </p><p>Eluate was monitored at 215 nm with a reference wavelength of 400 nm. The
+fraction of non-immunocaptured molecules was estimated as the relative ratio of
+the chromatographic areas of the toxin recovered in the non-retained (NR) and
+retained (R) affinity chromatography fractions using the equation:</p><p>
+<disp-formula id="e1"><mml:math id="m1"><mml:mi mathvariant="normal">%</mml:mi><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">R</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mo>=</mml:mo><mml:mn>100</mml:mn><mml:mo>-</mml:mo><mml:mi mathvariant="normal">&#x000a0;</mml:mi><mml:mfenced close="]" open="[" separators="|"><mml:mrow><mml:mi mathvariant="normal">&#x000a0;</mml:mi><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">R</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">R</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mo>+</mml:mo><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">R</mml:mi><mml:mi mathvariant="normal">i</mml:mi></mml:mrow></mml:mfrac><mml:mi mathvariant="normal">&#x000a0;</mml:mi><mml:mo>&#x000d7;</mml:mo><mml:mn>100</mml:mn><mml:mi mathvariant="normal">&#x000a0;</mml:mi></mml:mrow></mml:mfenced></mml:math></disp-formula>
+</p><p>where Ri corresponds to the area of the same protein &#x0201c;i&#x0201d; in the chromatogram of
+the fraction retained and eluted from the affinity column. However, for some
+toxins that were poorly recovered in the column-retained fraction owing to their
+high binding affinity to the immobilized antivenom likely preventing their
+elution from the column [<xref rid="B44" ref-type="bibr">44</xref>], the
+percentage of non-immunocaptured toxin &#x0201c;i&#x0201d; (% NRtoxin&#x0201c;i&#x0201d;) was calculated as the
+ratio between the chromatographic areas of the same peak recovered in the
+non-retained fraction (NRtoxin&#x0201c;i&#x0201d;) and in a reference venom (Vtoxin&#x0201c;i&#x0201d;)
+containing the same amount of total protein that the parent venom sample and run
+under identical chromatographic conditions, using the equation:</p><p>
+<disp-formula id="e2"><mml:math id="m2"><mml:mi>%</mml:mi><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">R</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">x</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">&#x0201c;</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">&#x0201d;</mml:mi><mml:mo>=</mml:mo><mml:mi>&#x000a0;</mml:mi><mml:mfrac><mml:mrow><mml:mi mathvariant="normal">N</mml:mi><mml:mi mathvariant="normal">R</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">x</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">&#x0201c;</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">&#x0201d;</mml:mi></mml:mrow><mml:mrow><mml:mi mathvariant="normal">V</mml:mi><mml:mi mathvariant="normal">t</mml:mi><mml:mi mathvariant="normal">o</mml:mi><mml:mi mathvariant="normal">x</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">n</mml:mi><mml:mi mathvariant="normal">&#x0201c;</mml:mi><mml:mi mathvariant="normal">i</mml:mi><mml:mi mathvariant="normal">&#x0201d;</mml:mi></mml:mrow></mml:mfrac><mml:mi>&#x000a0;</mml:mi><mml:mo>&#x000d7;</mml:mo><mml:mn>100</mml:mn></mml:math></disp-formula>
+</p><p>The percentage of antivenom anti-toxin F(ab')<sub>2</sub> molecules was
+calculated by dividing [(1/2 maximal amount (in &#x000b5;moles) of total venom proteins
+bound per antivenom vial) x molecular mass (in kDa) of antibody
+(F(ab')<sub>2</sub>, 110 kDa) molecule] by the [total amount of antibody
+(F(ab')<sub>2</sub>) (in mg) per antivenom vial] [<xref rid="B41" ref-type="bibr">41</xref>, <xref rid="B45" ref-type="bibr">45</xref>, <xref rid="B46" ref-type="bibr">46</xref>]. Binding saturation was computed by
+extrapolation from data modelled in Excel to degree 2 polynomial functions. </p></sec></sec><sec sec-type="results|discussion"><title>Results and Discussion</title><sec><title>ESI-MS mass profiling across the reverse-phase HPLC separation of the
+Brazil&#x02019;s lancehead venom proteome</title><p>The venom proteome of 600 &#x000b5;g of crude venom of <italic>B. brazili</italic> (Par&#x000e1;)
+was decomplexed and quantified by reverse-phase HPLC and downstream SDS-PAGE
+analysis of the chromatographic peaks (<xref ref-type="fig" rid="f1">Fig.
+1</xref>, <xref ref-type="supplementary-material" rid="suppl1">Additional
+file 1</xref>). Twenty major and 25 minor chromatographic peaks were
+recovered, and the electrophoretic analysis of these fractions showed that most
+comprised a major component and a variable number of minor bands (<xref ref-type="fig" rid="f1">Fig. 1</xref>, inset). Since only proteins with
+identical chemical formulae are isobaric, mass profiling represents a convenient
+approach for identifying a venom by means of its mass fingerprint and
+differentiating it not only from other species' venoms but also from
+geographical variants within the same species [<xref rid="B47" ref-type="bibr">47</xref>, <xref rid="B48" ref-type="bibr">48</xref>]. To highlight
+molecular markers of <italic>B. brazili</italic> (Par&#x000e1;) venom investigated in
+this work, RP-HPLC fractions 2-46 were submitted to molecular mass determination
+by LC-ESI-MS mass profiling. </p><p>
+<fig id="f1" orientation="portrait" position="float"><label>Figure 1.</label><caption><title>Venomics analysis of <italic>Bothrops brazili.</italic>
+<bold>(A)</bold> Reverse-phase chromatographic separation of the
+venom proteins of <italic>Bothrops brazili</italic> from Par&#x000e1;,
+Brazil. For venomics analysis the chromatographic fractions were
+collected manually and analyzed by SDS-PAGE (inset) under reduced
+conditions. Protein bands were excised, in-gel digested with
+trypsin, the resulting proteolytic peptides fragmented through
+LC-nESI-MS/MS, and the parent proteins identified by database
+searching and <italic>de novo</italic> sequencing followed by BLAST
+analysis (<xref ref-type="supplementary-material" rid="suppl1">Additional file 1</xref>). The photograph of <italic>Bothrops
+brazili</italic> was kindly provided by Tiago Santana.
+<bold>(B)</bold> Pie chart displaying the estimated number and
+their relative occurrence (in percentage of total venom proteins) of
+toxins from the different protein families found in the venom
+proteome of <italic>Bothrops brazili</italic> (panel
+<bold>A</bold>). SVMPi: tripeptide inhibitors of snake venom
+metalloproteinase (SVMP); NGF: nerve growth factor; PLA<sub>2</sub>:
+phospholipase A<sub>2</sub>; SVSP: snake venom serine protease;
+CRISP: cysteine-rich secretory protein; PI- and PIII-SVMP: SVMPs of
+class PI and PIII, respectively; LAO: L-amino acid oxidase; 5'NT:
+5'-nucleotidase; PDE: phosphodiesterase; PLB: phospholipase B; CTL:
+C-type lectin-like. </title></caption><graphic xlink:href="1678-9199-jvatitd-26-e20190103-gf1"/></fig>
+</p><p>Chromatographic peaks 2 (m/z 430.3) and 3 (m/z 444.4), which accounted for 0.76%
+and 3.55% of the total RP-HPLC chromatogram area (<xref ref-type="supplementary-material" rid="suppl1">Additional file 1</xref>)
+contained, respectively, the tripeptides ZNW (pyroGlu-Asn-Trp) and ZBW
+(pyroGlu-Lys/Gln-Trp), characterized as weak endogenous inhibitors
+(IC<sub>50</sub> in the range of 0.15-0.95 mM) of the fibrinogenolytic
+activity of multiple snake venom Zn<sup>2+</sup>-metalloproteinases (SVMP)
+[<xref rid="B49" ref-type="bibr">49</xref>]. These peptide inhibitors
+regulate the proteolytic activities of SVMPs in a reversible manner under
+physiological conditions [<xref rid="B50" ref-type="bibr">50</xref>]. It is thus
+conceivable that they may protect glandular tissues and venom factors from the
+proteolytic activity of SVMPs stored at high concentration in an inactive but
+competent state for many months in the lumen of the venom gland of many
+Viperidae snakes [<xref rid="B49" ref-type="bibr">49</xref>, <xref rid="B51" ref-type="bibr">51</xref>-<xref rid="B53" ref-type="bibr">53</xref>].</p><p>A number of chromatographic peaks showed fairly well isolated proteins of intact
+isotope-averaged molecular masses (M<sub>ave</sub>) in the range expected for
+phospholipase A<sub>2</sub> (PLA<sub>2</sub>) molecules, 13,948,1 Da, 13,888.7
+Da and 13,850.3 Da [Fr. 9-10, 0.85% by weight of the total venom components
+(TVC), <xref ref-type="supplementary-material" rid="suppl1">Additional file
+1</xref>]; 13,833.6 Da (Fr 11, 8.6% TVC); 13,872.5 Da (Fr 12, 7% TVC);
+13,935.6 Da (Fr 13, 2.3% TVC); 13,929.7 Da (Fr 14, 0.7% TVC); 13,732.1 Da (Fr
+15, 1.5% TVC); 13,914.8 Da (Fr. 24-25, 2% TVC); 13,855.9 Da (Fr 27, 5.4% TVC);
+and 13,786.9 Da (Fr 28, 4.5% TVC) (<xref ref-type="fig" rid="f1">Fig. 1</xref>,
+<xref ref-type="supplementary-material" rid="suppl2">Additional file
+2</xref>). </p><p>In addition, RP-HPLC fractions 18, 21, 22 and 26, all dominated by proteins
+migrating by SDS-PAGE at apparent molecular weights of 36,000, yielded ESI-MS
+masses [in Da] of 27,623.1, 27,455.2 and 13,930.5; 27,636.5 and 13,803.2; and
+30,360.4, 29,663.4 and 13,781.9, respectively. These molecular masses may
+correspond to the minor (&#x0003c;0 .1% TVC) PLA<sub>2</sub> molecules that co-eluted
+with the major SVSPs in the RP-HPLC separation (<xref ref-type="fig" rid="f1">Fig. 1</xref>, inserted SDS-PAGE analysis). It is worth noting that none of
+the measured molecular masses match previously reported values recorded for
+conspecific PLA<sub>2</sub> molecules, e.g., brazilitoxin-II (PDB 4K09) (pI 9.0,
+M<sub>ave</sub>: 13,741.1 Da); MTx-II (4K06) (pI 9.0, 13,713.1 Da) [<xref rid="B25" ref-type="bibr">25</xref>]; MTx-II (4DCF) (pI 8.9, 13836.0 Da)
+[<xref rid="B54" ref-type="bibr">54</xref>]; Braziliase-I (pI 5.2,
+M<sub>ave</sub>: 13,894.4); Braziliase-II (pI 5.3, 13,869.6) [<xref rid="B26" ref-type="bibr">26</xref>]. These proteins were purified from the
+venom of <italic>B. brazili</italic> of undisclosed geographic origin provided
+by Serpent&#x000e1;rio Sanmaru Ltda, Taquaral, S&#x000e3;o Paulo, Brazil [<xref rid="B54" ref-type="bibr">54</xref>] or Serpent&#x000e1;rio Prote&#x000ed;nas Bioativas Ltda, Batatais, S&#x000e3;o
+Paulo, Brazil [<xref rid="B26" ref-type="bibr">26</xref>], strongly suggesting
+the occurrence of population-specific PLA<sub>2</sub> molecules among <italic>B.
+brazili</italic> venoms. Intraspecific compositional variation between
+venoms among specimens inhabiting different geographic regions has long been
+appreciated by herpetologists and toxinologists as a general feature of highly
+adaptable and widely distributed snake species, such as <italic>B.
+atrox</italic> [<xref rid="B47" ref-type="bibr">47</xref>, <xref rid="B48" ref-type="bibr">48</xref>], and may be due to evolutionary
+environmental pressure acting on isolated populations.</p><p>Venom proteins eluting in reverse-phase chromatographic fractions 18
+(M<sub>ave</sub>: 29,899.2 Da, 30,130.2 Da and 30,421.9 Da), 19
+(M<sub>ave</sub>: 24,850.5 Da), 20 (M<sub>ave</sub>: 28,318.0 Da), 38
+(M<sub>ave</sub>: 23,090.5 Da) and 42/43 (M<sub>ave</sub>: 23,317,0 Da)
+(<xref ref-type="fig" rid="f1">Fig. 1</xref>) were tentatively assigned to a
+cysteine-rich secretory protein (CRISP) (Fr. 19), SVSPs (Fr. 18 and 20), and
+PI-SVMPs (Fr. 38, 42 and 43).</p><p>As a whole, the above data suggested that the Brazil&#x02019;s lancehead venom comprised
+nine minor (&#x0003c; 2.5% of total venom proteome) and five major (&#x0003e; 4.4%)
+PLA<sub>2</sub>s, which together account for approximately 30% (w/w) of its
+proteome, one minor (1.6%) CRISP molecule, one major (Fr. 26, 8.7%) and at least
+ten minor (&#x0003c; 2.3%) SVSPs, and 2-3 abundant (5.5-5.7%, Fr. 42 and 43) and a
+major (&#x0003e; 13%, Fr. 38) PI-SVMPs. In addition, SDS-PAGE analysis displayed in
+<xref ref-type="fig" rid="f1">Figure 1</xref> also indicated the presence in
+the venom of a number of protein bands compatible with minor (&#x0003c; 1.8%, Fr. 33,
+34, 36 and 37) and major (5.9%, Fr. 35 and 10.3%, Fr. 46) LAO and/or PIII-SVMP
+molecules.</p></sec><sec><title>
+<bold>Bottom-up proteomic analysis of the toxin arsenal of <italic>Bothrops
+brazili</italic> venom from the Brazilian State of Par&#x000e1;</bold>
+</title><p>Venom of the Brazil&#x02019;s lancehead (Par&#x000e1;) was fractionated by RP-HPLC/SDS-PAGE
+(<xref ref-type="fig" rid="f1">Fig. 1A</xref>) and 2-DE (<xref ref-type="fig" rid="f2">Fig. 2</xref>). The 1D and 2D
+electrophoretically-resolved protein bands were submitted to in-gel trypsin
+digestion and bottom-up peptide-centric MS/MS analysis, followed by database
+matching through the online MASCOT search engine or BLAST analysis of <italic>de
+novo</italic> gathered peptide ion sequences (Additional files <xref ref-type="supplementary-material" rid="suppl1">1</xref> and <xref ref-type="supplementary-material" rid="suppl2">2</xref>). </p><p>
+<fig id="f2" orientation="portrait" position="float"><label>Figure 2.</label><caption><title>Two-dimensional gel electrophoresis of the Brazil&#x02019;s lancehead
+venom proteome. Two-dimensional electrophoretic separations
+(IEF/SDS-PAGE) of the venom proteins of <italic>Bothrops
+brazili</italic> from Par&#x000e1;. For the first (IEF) dimension, the
+venom proteins were focused to their isoelectric points under
+non-reducing (NR) conditions. For the second (SDS-PAGE) dimension,
+the IPGs were equilibrated at room temperature in equilibration
+buffer <bold>(A)</bold> without (NR) or <bold>(B)</bold> with (RED)
+40 mM of the disulfide bond reducing agent, DTT. <bold>(A)</bold>
+Spots submitted to in-gel trypsin digestion and bottom-up
+peptide-centric MS/MS analysis are numbered, whereas identified
+proteins are listed in <xref ref-type="supplementary-material" rid="suppl2">Additional file 2</xref>. <bold>(B)</bold> An
+overview of the distribution of, and occurrence of proteoforms
+within, the different toxin classes identified in the venom of the
+Brazil&#x02019;s lancehead. </title></caption><graphic xlink:href="1678-9199-jvatitd-26-e20190103-gf2"/></fig>
+</p><p>
+<xref ref-type="fig" rid="f1">Figure 1B</xref> displays the relative abundances
+(in percentage of the total venom proteins) of the peptide and protein classes
+identified. The venom proteome of <italic>B. brazili</italic> (Par&#x000e1;), comprised
+by at least 40-47 components (<xref ref-type="fig" rid="f1">Fig. 1B</xref>), is
+composed predominantly by two major and three minor acidic (19%) and two major
+and five minor basic (14%) PLA<sub>2</sub> molecules, 7-11 SVMP of classes PI
+(2-3, 21%) and PIII (5-8, 6%), 10-12 SVSPs (14%) and 1-2 LAOs (6%). Other toxin
+classes are: two CRISPs, one C-type lectin-like (CTL), one nerve growth factor
+(NGF), one 5'-nucleotidase (5'NT), one phosphodiesterase (PDE), one
+phospholipase B (PLB), and one glutaminyl cyclase (GC) represent together less
+than 2.7% of the venom proteome (<xref ref-type="fig" rid="f1">Fig. 1B</xref>).
+This toxic arsenal may account for the potent median lethal dose
+(LD<sub>50</sub>) and hemorrhagic, dermonecrotic and defibrinogenating
+effects reported for Peruvian <italic>B. brazili</italic> venom in the murine
+model [<xref rid="B11" ref-type="bibr">11</xref>]. However, due to the absence
+of proteomic studies for that venom, any conclusion should be taken with due
+caution.</p><p>MS/MS analysis confirmed the lack of identity of the PLA<sub>2</sub> molecules of
+<italic>B. brazili</italic> (Par&#x000e1;) with conspecific PLA<sub>2</sub>
+sequences reported in the literature. PLA<sub>2</sub> molecules eluted in
+RP-HPLC peaks 11-14 were identified as homologs of basic BrTx-II [4K09] and
+MTx-II [I6L8L6, 4K06, 4DCF] [<xref rid="B25" ref-type="bibr">25</xref>, <xref rid="B54" ref-type="bibr">54</xref>], and the tryptic peptide sequences
+derived from PLA<sub>2</sub> in RP-HPLC peak 15, 24, 25, 27 and 28 showed high
+similarity with homologue internal sequences of acidic PLA<sub>2</sub>s
+Braziliase-I and Braziliase-II [<xref rid="B26" ref-type="bibr">26</xref>].
+Clearly, the extent of geographic venom variability of <italic>B.
+brazili</italic> across its wide distribution range requires detailed future
+studies.</p></sec><sec><title>Two-dimensional electrophoretic visualization of the Brazil&#x02019;s lancehead venom
+proteome</title><p>Two-dimensional electrophoretic (2-DE) analysis provides a rapid way to visualize
+the overall venom protein complexity of a snake's venom in a single image. 2-DE
+and RP-HPLC/SDS-PAGE are complementary approaches that combined provide a more
+comprehensive view of a venom proteome than each approach separately. In
+addition, each of these approaches serves, by itself, a specific purpose. Thus,
+the presence and subunit composition of covalent complexes in a venom proteome
+can be conveniently addressed by comparing the 2-DE protein maps resolved under
+non-reducing (NRed) conditions in both directions (IEF and SDS-PAGE) versus
+non-reducing/reducing (Red) conditions [<xref rid="B38" ref-type="bibr">38</xref>]. </p><p>
+<xref ref-type="fig" rid="f2">Figure 2</xref> compares the 2-DE profiles
+resolved in the second dimension under (A) non-reducing and (B) reducing
+conditions. The apparent lack of differences between both 2-DE gels clearly
+indicated the absence of covalently bound protein complexes. On the other hand,
+ESI-MS/MS sequencing of 2-DE-resolved spots labeled in <xref ref-type="fig" rid="f2">Figure 2</xref> (<xref ref-type="supplementary-material" rid="suppl2">Additional file 2</xref>) showed the occurrence of multiple
+proteoforms in the range of apparent molecular weights &#x0003e; 55,000 exhibiting
+roughly the same apparent molecular mass but differing in their pI, strongly
+suggesting the existence of glycoforms of PIII-SVMPs (spots 31, 37-39), LAO
+(spots 32, 33), PDE (spot 34) and 5'-nucleotidase (spot 35) with different
+content of terminal sialic acid in their oligosaccharide chains. </p><p>The molecular mass range 23-42 kDa is populated with a complex pattern of SVSP,
+PI-SVMP, and CRISP molecules across the pH range 5-10 (<xref ref-type="fig" rid="f2">Fig. 2</xref>, <xref ref-type="supplementary-material" rid="suppl2">Additional file 2</xref>). On the other hand, and in agreement with the
+results of mass profiling, the 13.5-16 kDa range comprised mainly the
+PLA<sub>2</sub> subproteome, which is made of two major acidic (pI 4.9-5.2,
+spots 1 and 2), two strongly basic (pI 9.5-9.8) (spots 13 and 14), and one
+mildly basic (pI 7.8) (spot 12), and five low abundant PLA<sub>2</sub> molecules
+(spots 3-7) within the pI range 5.3-7.3. The latter spots also yielded CTL
+peptide ions, and molecules belonging to this toxin family were identified in
+spots 6, 9-11 (<xref ref-type="fig" rid="f2">Fig. 2</xref>, Additional file
+<xref ref-type="supplementary-material" rid="suppl2">2</xref>). 2-DE venom
+decomplexation confirmed the assignments listed in the Additional file <xref ref-type="supplementary-material" rid="suppl1">1</xref> and additionally
+showed the presence in the venom proteome of a very minor glutaminyl cyclase
+(GC) (spots 48-49, <xref ref-type="fig" rid="f2">Fig. 2A</xref> and <xref ref-type="supplementary-material" rid="suppl2">Additional file
+2</xref>).</p></sec><sec><title>
+<bold>Antivenomics assessment of the paraspecific immunorecognition towards
+<italic>B. brazili</italic> and <italic>B. jararaca</italic> toxins by
+the pentabothropic antivenom of Butantan Institute</bold>
+</title><p>In Brazil, envenomings by bothropic species are clinically treated with equine
+polyspecific pentabothropic (SAB) or antibothropic-lachetic F(ab')<sub>2</sub>
+antivenoms. Queiroz et al. [<xref rid="B55" ref-type="bibr">55</xref>] have
+reported <italic>in vitro</italic> qualitative (Western blot) and
+semi-quantitative (ELISA) evidence that these antivenoms exhibited variable
+paraspecific immunoreactivity towards nineteen venoms of bothropic snakes,
+including <italic>B. brazili</italic> in addition to <italic>B.
+alternatus</italic>, <italic>B. atrox</italic>, <italic>B.
+bilineatus</italic>, <italic>B. castelnaudi</italic>, <italic>B.
+cotiara</italic>, <italic>B. erythromelas</italic>, <italic>B.
+fonsecai</italic>, <italic>B. hyoprorus</italic>, <italic>B.
+insularis</italic>, <italic>B. itapetiningae</italic>, <italic>B.
+jararaca</italic>, <italic>B. jararacussu</italic>, <italic>B.
+leucurus</italic>, <italic>B. marajoensis</italic>, <italic>B.
+moojeni</italic>, <italic>B. neuwiedi</italic>, <italic>B. pirajai</italic>,
+and <italic>B. pradoi</italic>. </p><p>Here, we have applied third-generation antivenomics [<xref rid="B40" ref-type="bibr">40</xref>, <xref rid="B41" ref-type="bibr">41</xref>] to compare
+the qualitative and quantitative immunorecognition capability of the SAB
+antivenom produced at Butantan Institute (SP, Brazil) toward the venom toxins of
+<italic>B. brazili</italic> (Par&#x000e1;) and <italic>B. jararaca</italic>
+(reference venom). Analysis of the concentration-dependent immunocapturing
+profile of the SAB antivenom affinity columns showed paraspecific
+immunoreactivity against all the toxin classes of <italic>B. brazili</italic>
+venom (<xref ref-type="fig" rid="f3">Fig. 3A</xref>, <xref rid="t1" ref-type="table">Table 1</xref>). The maximal binding capacity of immobilized (9 mg)
+SAB F(ab&#x02019;)<sub>2</sub> antibodies was 1,194.2 &#x000b5;g of <italic>B. brazili</italic>
+venom proteins, which correspond to 132.2 mg venom/g antivenom, or 38.6 mg of
+total venom proteins per vial. For a calculated average molecular mass of 35.6
+kDa/venom toxin molecule, and assuming that at maximal binding both
+F(ab')<sub>2</sub> antigen-recognition sites were occupied, the antivenomics
+results suggest that 19% of the SAB antibodies recognized toxins from <italic>B.
+brazili</italic> venom. This figure fall within the range of percentages
+(6-28%) of antitoxin antibodies determined for a number of commercial antivenoms
+[<xref rid="B45" ref-type="bibr">45</xref>; JJC, unpublished results]. </p><p>
+<fig id="f3" orientation="portrait" position="float"><label>Figure 3.</label><caption><title>Comparative immunorecognition ability of the Brazilian SAB
+antivenom towards <italic>B. brazili</italic> and <italic>B.
+jararaca</italic> venom toxins. <bold>(A)</bold>
+Third-generation antivenomic analyses of <italic>B. brazili</italic>
+and <bold>(B)</bold>
+<italic>B. jararaca</italic> venom with the pentabothropic antivenom
+(<italic>soro antibotr&#x000f3;pico</italic>, SAB) produced at Butantan
+Institute. Reverse-phase chromatographic analysis of whole venom
+(panels <bold>a</bold>) and of the non-retained and the
+immunoretained fractions recovered from affinity column [9 mg
+immobilized SAB antivenom F(ab&#x02019;)<sub>2</sub> molecules] incubated
+with increasing amounts (300-3600 &#x000b5;g) of venom from (<bold>A</bold>)
+<italic>B. brazili</italic> (Par&#x000e1;, Brazil) and (<bold>B</bold>)
+<italic>B. jararaca</italic> (SE population) are displayed in
+panels <bold>b</bold> through <bold>i</bold>. Panels
+<bold>j-l</bold> show reverse-phase HPLC separations of the
+retained and non-retained venom fractions on mock matrix and na&#x000ef;ve
+equine IgG affinity columns, respectively.</title></caption><graphic xlink:href="1678-9199-jvatitd-26-e20190103-gf3"/></fig>
+</p><p>
+<table-wrap id="t1" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Concentration-dependent immunoretained (RET) <italic>Bothrops
+brazili</italic> (Bbr) venom proteins by SAB antivenom affinity
+column. Maximal binding for each RP-HPLC fraction is highlighted in
+bold face</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="center" colspan="11" rowspan="1">
+<bold><italic>Bothrops brazili</italic> total venom proteins (
+&#x000b5;g)</bold>
+</th></tr><tr><th align="center" rowspan="1" colspan="1">RP-HPLC fraction</th><th align="center" rowspan="1" colspan="1">
+</th><th align="center" rowspan="1" colspan="1">100</th><th align="center" rowspan="1" colspan="1">300</th><th align="center" rowspan="1" colspan="1">600</th><th align="center" rowspan="1" colspan="1">900</th><th align="center" rowspan="1" colspan="1">1200</th><th align="center" rowspan="1" colspan="1">2400</th><th align="center" rowspan="1" colspan="1">3600</th><th align="center" rowspan="1" colspan="1">Extrapolation</th><th align="center" rowspan="1" colspan="1">Toxin class</th></tr></thead><tbody><tr><td align="center" rowspan="2" colspan="1">
+<bold>2-3</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">10.09</td><td align="center" rowspan="1" colspan="1">30.27</td><td align="center" rowspan="1" colspan="1">60.55</td><td align="center" rowspan="1" colspan="1">90.82</td><td align="center" rowspan="1" colspan="1">121.09</td><td align="center" rowspan="1" colspan="1">242.18</td><td align="center" rowspan="1" colspan="1">363.28</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>SVMPi</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.00</td><td align="center" rowspan="1" colspan="1">0.00</td><td align="center" rowspan="1" colspan="1">0.00</td><td align="center" rowspan="1" colspan="1">0.00</td><td align="center" rowspan="1" colspan="1">0.00</td><td align="center" rowspan="1" colspan="1">0.00</td><td align="center" rowspan="1" colspan="1">0.00</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>6-8</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">1.52</td><td align="center" rowspan="1" colspan="1">4.56</td><td align="center" rowspan="1" colspan="1">9.13</td><td align="center" rowspan="1" colspan="1">13.69</td><td align="center" rowspan="1" colspan="1">18.25</td><td align="center" rowspan="1" colspan="1">36.50</td><td align="center" rowspan="1" colspan="1">54.76</td><td align="center" rowspan="1" colspan="1">76.00</td><td align="center" rowspan="2" colspan="1">
+<bold>DC fragment</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">1.52</td><td align="center" rowspan="1" colspan="1">3.18</td><td align="center" rowspan="1" colspan="1">6.34</td><td align="center" rowspan="1" colspan="1">8.87</td><td align="center" rowspan="1" colspan="1">12.03</td><td align="center" rowspan="1" colspan="1">19.56</td><td align="center" rowspan="1" colspan="1">21.69</td><td align="center" rowspan="1" colspan="1">
+<bold>25.15</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>9-10</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">0.31</td><td align="center" rowspan="1" colspan="1">0.93</td><td align="center" rowspan="1" colspan="1">1.87</td><td align="center" rowspan="1" colspan="1">2.80</td><td align="center" rowspan="1" colspan="1">3.73</td><td align="center" rowspan="1" colspan="1">7.46</td><td align="center" rowspan="1" colspan="1">11.20</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>PLA<sub>2</sub>, NGF</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.31</td><td align="center" rowspan="1" colspan="1">0.93</td><td align="center" rowspan="1" colspan="1">1.87</td><td align="center" rowspan="1" colspan="1">2.80</td><td align="center" rowspan="1" colspan="1">
+<bold>3.47</bold>
+</td><td align="center" rowspan="1" colspan="1">2.98</td><td align="center" rowspan="1" colspan="1">2.98</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>11</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">7.93</td><td align="center" rowspan="1" colspan="1">23.80</td><td align="center" rowspan="1" colspan="1">47.60</td><td align="center" rowspan="1" colspan="1">71.40</td><td align="center" rowspan="1" colspan="1">95.20</td><td align="center" rowspan="1" colspan="1">190.39</td><td align="center" rowspan="1" colspan="1">285.59</td><td align="center" rowspan="1" colspan="1">396.50</td><td align="center" rowspan="2" colspan="1">
+<bold>PLA<sub>2</sub></bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">7.93</td><td align="center" rowspan="1" colspan="1">19.22</td><td align="center" rowspan="1" colspan="1">21.09</td><td align="center" rowspan="1" colspan="1">16.71</td><td align="center" rowspan="1" colspan="1">20.18</td><td align="center" rowspan="1" colspan="1">21.43</td><td align="center" rowspan="1" colspan="1">22.80</td><td align="center" rowspan="1" colspan="1">
+<bold>25.85</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>12</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">6.29</td><td align="center" rowspan="1" colspan="1">18.87</td><td align="center" rowspan="1" colspan="1">37.73</td><td align="center" rowspan="1" colspan="1">56.60</td><td align="center" rowspan="1" colspan="1">75.47</td><td align="center" rowspan="1" colspan="1">150.94</td><td align="center" rowspan="1" colspan="1">226.40</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>PLA<sub>2</sub></bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">6.29</td><td align="center" rowspan="1" colspan="1">17.01</td><td align="center" rowspan="1" colspan="1">21.99</td><td align="center" rowspan="1" colspan="1">21.90</td><td align="center" rowspan="1" colspan="1">21.06</td><td align="center" rowspan="1" colspan="1">
+<bold>23.05</bold>
+</td><td align="center" rowspan="1" colspan="1">22.45</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>13</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">1.97</td><td align="center" rowspan="1" colspan="1">5.90</td><td align="center" rowspan="1" colspan="1">11.80</td><td align="center" rowspan="1" colspan="1">17.69</td><td align="center" rowspan="1" colspan="1">23.59</td><td align="center" rowspan="1" colspan="1">47.18</td><td align="center" rowspan="1" colspan="1">70.78</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>PLA<sub>2</sub></bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">1.97</td><td align="center" rowspan="1" colspan="1">5.05</td><td align="center" rowspan="1" colspan="1">6.15</td><td align="center" rowspan="1" colspan="1">6.11</td><td align="center" rowspan="1" colspan="1">6.05</td><td align="center" rowspan="1" colspan="1">
+<bold>6.40</bold>
+</td><td align="center" rowspan="1" colspan="1">6.38</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>14</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">0.83</td><td align="center" rowspan="1" colspan="1">2.50</td><td align="center" rowspan="1" colspan="1">5.00</td><td align="center" rowspan="1" colspan="1">7.51</td><td align="center" rowspan="1" colspan="1">10.01</td><td align="center" rowspan="1" colspan="1">20.02</td><td align="center" rowspan="1" colspan="1">30.02</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>PLA<sub>2</sub></bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.83</td><td align="center" rowspan="1" colspan="1">2.30</td><td align="center" rowspan="1" colspan="1">3.37</td><td align="center" rowspan="1" colspan="1">3.84</td><td align="center" rowspan="1" colspan="1">
+<bold>4.35</bold>
+</td><td align="center" rowspan="1" colspan="1">3.90</td><td align="center" rowspan="1" colspan="1">3.78</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>15</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">1.61</td><td align="center" rowspan="1" colspan="1">4.82</td><td align="center" rowspan="1" colspan="1">9.63</td><td align="center" rowspan="1" colspan="1">14.45</td><td align="center" rowspan="1" colspan="1">19.26</td><td align="center" rowspan="1" colspan="1">38.52</td><td align="center" rowspan="1" colspan="1">57.78</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>PLA<sub>2</sub></bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">1.61</td><td align="center" rowspan="1" colspan="1">4.46</td><td align="center" rowspan="1" colspan="1">6.35</td><td align="center" rowspan="1" colspan="1">
+<bold>6.69</bold>
+</td><td align="center" rowspan="1" colspan="1">6.62</td><td align="center" rowspan="1" colspan="1">6.16</td><td align="center" rowspan="1" colspan="1">6.03</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>16-17</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">0.21</td><td align="center" rowspan="1" colspan="1">0.62</td><td align="center" rowspan="1" colspan="1">1.24</td><td align="center" rowspan="1" colspan="1">1.85</td><td align="center" rowspan="1" colspan="1">2.47</td><td align="center" rowspan="1" colspan="1">4.94</td><td align="center" rowspan="1" colspan="1">7.42</td><td align="center" rowspan="1" colspan="1">10.50</td><td align="center" rowspan="2" colspan="1">
+<bold>SVSP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.21</td><td align="center" rowspan="1" colspan="1">0.62</td><td align="center" rowspan="1" colspan="1">1.24</td><td align="center" rowspan="1" colspan="1">1.85</td><td align="center" rowspan="1" colspan="1">2.47</td><td align="center" rowspan="1" colspan="1">2.94</td><td align="center" rowspan="1" colspan="1">3.06</td><td align="center" rowspan="1" colspan="1">
+<bold>4.16</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>18</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">0.26</td><td align="center" rowspan="1" colspan="1">0.77</td><td align="center" rowspan="1" colspan="1">1.54</td><td align="center" rowspan="1" colspan="1">2.31</td><td align="center" rowspan="1" colspan="1">
+<bold>3.08</bold>
+</td><td align="center" rowspan="1" colspan="1">6.17</td><td align="center" rowspan="1" colspan="1">9.25</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>SVSP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.26</td><td align="center" rowspan="1" colspan="1">0.77</td><td align="center" rowspan="1" colspan="1">1.54</td><td align="center" rowspan="1" colspan="1">2.31</td><td align="center" rowspan="1" colspan="1">
+<bold>3.08</bold>
+</td><td align="center" rowspan="1" colspan="1">2.68</td><td align="center" rowspan="1" colspan="1">2.34</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>19</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">1.69</td><td align="center" rowspan="1" colspan="1">5.08</td><td align="center" rowspan="1" colspan="1">10.16</td><td align="center" rowspan="1" colspan="1">15.24</td><td align="center" rowspan="1" colspan="1">20.32</td><td align="center" rowspan="1" colspan="1">40.63</td><td align="center" rowspan="1" colspan="1">60.95</td><td align="center" rowspan="1" colspan="1">84.50</td><td align="center" rowspan="2" colspan="1">
+<bold>CRISP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">1.69</td><td align="center" rowspan="1" colspan="1">5.08</td><td align="center" rowspan="1" colspan="1">10.16</td><td align="center" rowspan="1" colspan="1">15.24</td><td align="center" rowspan="1" colspan="1">20.32</td><td align="center" rowspan="1" colspan="1">23.73</td><td align="center" rowspan="1" colspan="1">25.24</td><td align="center" rowspan="1" colspan="1">
+<bold>33.56</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>20-22</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">2.61</td><td align="center" rowspan="1" colspan="1">7.82</td><td align="center" rowspan="1" colspan="1">15.64</td><td align="center" rowspan="1" colspan="1">23.45</td><td align="center" rowspan="1" colspan="1">31.27</td><td align="center" rowspan="1" colspan="1">62.54</td><td align="center" rowspan="1" colspan="1">93.82</td><td align="center" rowspan="1" colspan="1">130.50</td><td align="center" rowspan="2" colspan="1">
+<bold>SVSP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">2.61</td><td align="center" rowspan="1" colspan="1">7.25</td><td align="center" rowspan="1" colspan="1">11.81</td><td align="center" rowspan="1" colspan="1">15.04</td><td align="center" rowspan="1" colspan="1">17.78</td><td align="center" rowspan="1" colspan="1">20.35</td><td align="center" rowspan="1" colspan="1">22.73</td><td align="center" rowspan="1" colspan="1">
+<bold>28.85</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>24-25</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">3.70</td><td align="center" rowspan="1" colspan="1">11.11</td><td align="center" rowspan="1" colspan="1">22.22</td><td align="center" rowspan="1" colspan="1">33.33</td><td align="center" rowspan="1" colspan="1">44.44</td><td align="center" rowspan="1" colspan="1">88.87</td><td align="center" rowspan="1" colspan="1">133.31</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>PLA<sub>2</sub>, SVSP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">3.70</td><td align="center" rowspan="1" colspan="1">8.48</td><td align="center" rowspan="1" colspan="1">19.97</td><td align="center" rowspan="1" colspan="1">
+<bold>25.14</bold>
+</td><td align="center" rowspan="1" colspan="1">25.08</td><td align="center" rowspan="1" colspan="1">20.47</td><td align="center" rowspan="1" colspan="1">18.21</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>26-28</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">15.63</td><td align="center" rowspan="1" colspan="1">46.88</td><td align="center" rowspan="1" colspan="1">93.77</td><td align="center" rowspan="1" colspan="1">140.65</td><td align="center" rowspan="1" colspan="1">187.54</td><td align="center" rowspan="1" colspan="1">375.07</td><td align="center" rowspan="1" colspan="1">562.61</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>SVSP, PLA<sub>2</sub></bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">15.63</td><td align="center" rowspan="1" colspan="1">45.42</td><td align="center" rowspan="1" colspan="1">
+<bold>45.52</bold>
+</td><td align="center" rowspan="1" colspan="1">42.40</td><td align="center" rowspan="1" colspan="1">41.17</td><td align="center" rowspan="1" colspan="1">43.65</td><td align="center" rowspan="1" colspan="1">41.43</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>30-31</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">0.28</td><td align="center" rowspan="1" colspan="1">0.83</td><td align="center" rowspan="1" colspan="1">1.67</td><td align="center" rowspan="1" colspan="1">2.50</td><td align="center" rowspan="1" colspan="1">3.34</td><td align="center" rowspan="1" colspan="1">6.67</td><td align="center" rowspan="1" colspan="1">10.01</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>SVSP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.28</td><td align="center" rowspan="1" colspan="1">0.83</td><td align="center" rowspan="1" colspan="1">1.67</td><td align="center" rowspan="1" colspan="1">2.50</td><td align="center" rowspan="1" colspan="1">
+<bold>3.34</bold>
+</td><td align="center" rowspan="1" colspan="1">3.32</td><td align="center" rowspan="1" colspan="1">3.31</td><td align="left" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>33-34</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">1.83</td><td align="center" rowspan="1" colspan="1">5.48</td><td align="center" rowspan="1" colspan="1">10.96</td><td align="center" rowspan="1" colspan="1">16.44</td><td align="center" rowspan="1" colspan="1">21.92</td><td align="center" rowspan="1" colspan="1">43.85</td><td align="center" rowspan="1" colspan="1">65.77</td><td align="center" rowspan="1" colspan="1">91.50</td><td align="center" rowspan="2" colspan="1">
+<bold>SVSP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">1.83</td><td align="center" rowspan="1" colspan="1">5.48</td><td align="center" rowspan="1" colspan="1">10.96</td><td align="center" rowspan="1" colspan="1">16.44</td><td align="center" rowspan="1" colspan="1">21.92</td><td align="center" rowspan="1" colspan="1">22.97</td><td align="center" rowspan="1" colspan="1">33.65</td><td align="center" rowspan="1" colspan="1">
+<bold>36.75</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>35</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">2.21</td><td align="center" rowspan="1" colspan="1">6.62</td><td align="center" rowspan="1" colspan="1">13.24</td><td align="center" rowspan="1" colspan="1">19.85</td><td align="center" rowspan="1" colspan="1">26.47</td><td align="center" rowspan="1" colspan="1">52.94</td><td align="center" rowspan="1" colspan="1">79.42</td><td align="center" rowspan="1" colspan="1">110.50</td><td align="center" rowspan="2" colspan="1">
+<bold>LAO</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">2.21</td><td align="center" rowspan="1" colspan="1">6.62</td><td align="center" rowspan="1" colspan="1">13.24</td><td align="center" rowspan="1" colspan="1">19.85</td><td align="center" rowspan="1" colspan="1">26.47</td><td align="center" rowspan="1" colspan="1">31.65</td><td align="center" rowspan="1" colspan="1">34.00</td><td align="center" rowspan="1" colspan="1">
+<bold>43.24</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>38</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">14.60</td><td align="center" rowspan="1" colspan="1">43.79</td><td align="center" rowspan="1" colspan="1">87.59</td><td align="center" rowspan="1" colspan="1">131.38</td><td align="center" rowspan="1" colspan="1">175.18</td><td align="center" rowspan="1" colspan="1">350.35</td><td align="center" rowspan="1" colspan="1">525.53</td><td align="center" rowspan="1" colspan="1">730.00</td><td align="center" rowspan="2" colspan="1">
+<bold>PI-SVMP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">14.17</td><td align="center" rowspan="1" colspan="1">43.24</td><td align="center" rowspan="1" colspan="1">86.01</td><td align="center" rowspan="1" colspan="1">130.62</td><td align="center" rowspan="1" colspan="1">164.29</td><td align="center" rowspan="1" colspan="1">173.27</td><td align="center" rowspan="1" colspan="1">188.76</td><td align="center" rowspan="1" colspan="1">
+<bold>255.13</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>42-43</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">11.75</td><td align="center" rowspan="1" colspan="1">35.24</td><td align="center" rowspan="1" colspan="1">70.49</td><td align="center" rowspan="1" colspan="1">105.73</td><td align="center" rowspan="1" colspan="1">140.98</td><td align="center" rowspan="1" colspan="1">281.95</td><td align="center" rowspan="1" colspan="1">422.93</td><td align="center" rowspan="1" colspan="1">587.50</td><td align="center" rowspan="2" colspan="1">
+<bold>PI-SVMP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">10.81</td><td align="center" rowspan="1" colspan="1">33.45</td><td align="center" rowspan="1" colspan="1">66.70</td><td align="center" rowspan="1" colspan="1">95.65</td><td align="center" rowspan="1" colspan="1">118.52</td><td align="center" rowspan="1" colspan="1">177.47</td><td align="center" rowspan="1" colspan="1">202.71</td><td align="center" rowspan="1" colspan="1">
+<bold>235.74</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>46</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">14.70</td><td align="center" rowspan="1" colspan="1">44.10</td><td align="center" rowspan="1" colspan="1">88.19</td><td align="center" rowspan="1" colspan="1">132.29</td><td align="center" rowspan="1" colspan="1">176.39</td><td align="center" rowspan="1" colspan="1">352.78</td><td align="center" rowspan="1" colspan="1">529.16</td><td align="center" rowspan="1" colspan="1">735.00</td><td align="center" rowspan="2" colspan="1">
+<bold>PIII-SVMP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">13.64</td><td align="center" rowspan="1" colspan="1">42.81</td><td align="center" rowspan="1" colspan="1">85.65</td><td align="center" rowspan="1" colspan="1">128.28</td><td align="center" rowspan="1" colspan="1">163.15</td><td align="center" rowspan="1" colspan="1">310.34</td><td align="center" rowspan="1" colspan="1">318.67</td><td align="center" rowspan="1" colspan="1">
+<bold>384.76</bold>
+</td></tr></tbody></table></table-wrap>
+</p><p>For comparison, analysis of the concentration-dependent antivenomics profile of
+the SAB antivenom against the reference venom of <italic>B. jararaca</italic>
+(SE) (<xref ref-type="fig" rid="f3">Fig. 3B</xref>, <xref rid="t2" ref-type="table">Table 2</xref>) showed maximal binding capacity of 1,558 &#x000b5;g per 9
+mg F(ab')<sub>2</sub> affinity column, which corresponded to 173.1 mg venom/g
+antivenom, or 50.6 mg of total <italic>B. jararaca</italic> (SE) venom proteins
+per vial. Assuming full occupancy of the two F(ab')<sub>2</sub>
+antigen-recognition sites, the antivenomics results indicate that 23.7% of SAB
+F(ab')<sub>2</sub> are toxin-binding antibodies. Moreover, the
+neutralization potency of the SAB antivenom specified by Butantan Institute, 50
+mg of <italic>Bothrops jararaca</italic> reference venom/vial (10 mL), mirrors
+its maximal binding capacity, indicating that virtually all (50/50.6 = 98.8%)
+toxin-binding F(ab')<sub>2</sub> antibodies may contribute to the capability of
+the SAB antivenom to neutralize the lethality of the homologous venom. On the
+other hand, the paraspecificity of SAB toward toxins of the heterologous
+<italic>B. brazili</italic> venom is due to the remarkable conservation of
+antigenic determinants already present in the venom of the last common ancestor
+of the &#x0201c;jararaca&#x0201d; and &#x0201c;jararacussu&#x0201d; clades, an event that has been dated close
+to the base of the radiation of genus <italic>Bothrops</italic> in the middle
+Miocene 14.07 Mya (CI95% 16.37-11.75 Mya) [<xref rid="B56" ref-type="bibr">56</xref>, <xref rid="B57" ref-type="bibr">57</xref>].</p><p>
+<table-wrap id="t2" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Concentration-dependent immunoretained (RET) <italic>Bothrops
+jararaca</italic> (SE) (Bj) venom proteins by SAB antivenom
+affinity column. Maximal binding for each RP-HPLC fraction is
+highlighted in bold face</title></caption><table frame="hsides" rules="groups"><colgroup span="1"><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/><col span="1"/></colgroup><thead><tr><th align="center" colspan="11" rowspan="1">
+<bold><italic>Bothrops jararaca</italic> total venom proteins
+( &#x000b5;g)</bold>
+</th></tr><tr><th align="center" rowspan="1" colspan="1">RP-HPLC fraction</th><th align="center" rowspan="1" colspan="1">
+</th><th align="center" rowspan="1" colspan="1">100</th><th align="center" rowspan="1" colspan="1">300</th><th align="center" rowspan="1" colspan="1">600</th><th align="center" rowspan="1" colspan="1">900</th><th align="center" rowspan="1" colspan="1">1200</th><th align="center" rowspan="1" colspan="1">2400</th><th align="center" rowspan="1" colspan="1">3600</th><th align="center" rowspan="1" colspan="1">Extrapolation</th><th align="center" rowspan="1" colspan="1">Toxin class</th></tr></thead><tbody><tr><td align="center" rowspan="2" colspan="1">
+<bold>1</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">8.62</td><td align="center" rowspan="1" colspan="1">25.86</td><td align="center" rowspan="1" colspan="1">51.71</td><td align="center" rowspan="1" colspan="1">77.57</td><td align="center" rowspan="1" colspan="1">103.43</td><td align="center" rowspan="1" colspan="1">206.86</td><td align="center" rowspan="1" colspan="1">310.28</td><td align="center" rowspan="1" colspan="1">431.00</td><td align="center" rowspan="2" colspan="1">
+<bold>BPP + DISI</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.45</td><td align="center" rowspan="1" colspan="1">2.50</td><td align="center" rowspan="1" colspan="1">5.77</td><td align="center" rowspan="1" colspan="1">9.18</td><td align="center" rowspan="1" colspan="1">9.17</td><td align="center" rowspan="1" colspan="1">9.94</td><td align="center" rowspan="1" colspan="1">10.96</td><td align="center" rowspan="1" colspan="1">
+<bold>15.45</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>2</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">5.03</td><td align="center" rowspan="1" colspan="1">15.09</td><td align="center" rowspan="1" colspan="1">30.19</td><td align="center" rowspan="1" colspan="1">45.28</td><td align="center" rowspan="1" colspan="1">60.37</td><td align="center" rowspan="1" colspan="1">120.74</td><td align="center" rowspan="1" colspan="1">181.12</td><td align="center" rowspan="1" colspan="1">250.15</td><td align="center" rowspan="2" colspan="1">
+<bold>DISI</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.81</td><td align="center" rowspan="1" colspan="1">6.00</td><td align="center" rowspan="1" colspan="1">7.59</td><td align="center" rowspan="1" colspan="1">9.70</td><td align="center" rowspan="1" colspan="1">11.06</td><td align="center" rowspan="1" colspan="1">15.31</td><td align="center" rowspan="1" colspan="1">19.50</td><td align="center" rowspan="1" colspan="1">
+<bold>21.15</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>3</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">2.01</td><td align="center" rowspan="1" colspan="1">6.04</td><td align="center" rowspan="1" colspan="1">12.07</td><td align="center" rowspan="1" colspan="1">18.11</td><td align="center" rowspan="1" colspan="1">24.14</td><td align="center" rowspan="1" colspan="1">48.29</td><td align="center" rowspan="1" colspan="1">72.43</td><td align="center" rowspan="1" colspan="1">
+</td><td align="center" rowspan="2" colspan="1">
+<bold>DISI + BPP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.14</td><td align="center" rowspan="1" colspan="1">0.20</td><td align="center" rowspan="1" colspan="1">0.29</td><td align="center" rowspan="1" colspan="1">0.38</td><td align="center" rowspan="1" colspan="1">0.48</td><td align="center" rowspan="1" colspan="1">
+<bold>0.51</bold>
+</td><td align="center" rowspan="1" colspan="1">0.51</td><td align="center" rowspan="1" colspan="1">
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>4</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">0.70</td><td align="center" rowspan="1" colspan="1">2.11</td><td align="center" rowspan="1" colspan="1">4.22</td><td align="center" rowspan="1" colspan="1">6.34</td><td align="center" rowspan="1" colspan="1">8.45</td><td align="center" rowspan="1" colspan="1">16.90</td><td align="center" rowspan="1" colspan="1">25.34</td><td align="center" rowspan="1" colspan="1">35.00</td><td align="center" rowspan="2" colspan="1">
+<bold>DC fragment</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">0.70</td><td align="center" rowspan="1" colspan="1">2.11</td><td align="center" rowspan="1" colspan="1">4.22</td><td align="center" rowspan="1" colspan="1">6.34</td><td align="center" rowspan="1" colspan="1">7.23</td><td align="center" rowspan="1" colspan="1">7.45</td><td align="center" rowspan="1" colspan="1">8.31</td><td align="center" rowspan="1" colspan="1">
+<bold>11.21</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>5</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">2.09</td><td align="center" rowspan="1" colspan="1">6.26</td><td align="center" rowspan="1" colspan="1">12.53</td><td align="center" rowspan="1" colspan="1">18.79</td><td align="center" rowspan="1" colspan="1">25.06</td><td align="center" rowspan="1" colspan="1">50.11</td><td align="center" rowspan="1" colspan="1">75.17</td><td align="center" rowspan="1" colspan="1">104.50</td><td align="center" rowspan="2" colspan="1">
+<bold>VEGF, PLA<sub>2</sub></bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">2.09</td><td align="center" rowspan="1" colspan="1">6.26</td><td align="center" rowspan="1" colspan="1">9.39</td><td align="center" rowspan="1" colspan="1">9.43</td><td align="center" rowspan="1" colspan="1">9.57</td><td align="center" rowspan="1" colspan="1">10.79</td><td align="center" rowspan="1" colspan="1">16.12</td><td align="center" rowspan="1" colspan="1">
+<bold>16.30</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>6</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">1.48</td><td align="center" rowspan="1" colspan="1">4.44</td><td align="center" rowspan="1" colspan="1">8.87</td><td align="center" rowspan="1" colspan="1">13.31</td><td align="center" rowspan="1" colspan="1">17.75</td><td align="center" rowspan="1" colspan="1">35.50</td><td align="center" rowspan="1" colspan="1">53.24</td><td align="center" rowspan="1" colspan="1">74.00</td><td align="center" rowspan="2" colspan="1">
+<bold>CRISP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">1.48</td><td align="center" rowspan="1" colspan="1">4.44</td><td align="center" rowspan="1" colspan="1">8.87</td><td align="center" rowspan="1" colspan="1">12.53</td><td align="center" rowspan="1" colspan="1">16.78</td><td align="center" rowspan="1" colspan="1">30.59</td><td align="center" rowspan="1" colspan="1">34.08</td><td align="center" rowspan="1" colspan="1">
+<bold>40.00</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>7</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">12.01</td><td align="center" rowspan="1" colspan="1">36.02</td><td align="center" rowspan="1" colspan="1">72.04</td><td align="center" rowspan="1" colspan="1">108.05</td><td align="center" rowspan="1" colspan="1">144.07</td><td align="center" rowspan="1" colspan="1">288.14</td><td align="center" rowspan="1" colspan="1">432.22</td><td align="center" rowspan="1" colspan="1">600.51</td><td align="center" rowspan="2" colspan="1">
+<bold>SVSP, PLA<sub>2</sub>, CTL</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">12.01</td><td align="center" rowspan="1" colspan="1">36.02</td><td align="center" rowspan="1" colspan="1">72.04</td><td align="center" rowspan="1" colspan="1">105.20</td><td align="center" rowspan="1" colspan="1">128.17</td><td align="center" rowspan="1" colspan="1">143.57</td><td align="center" rowspan="1" colspan="1">156.93</td><td align="center" rowspan="1" colspan="1">
+<bold>206.85</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>8</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">4.03</td><td align="center" rowspan="1" colspan="1">12.10</td><td align="center" rowspan="1" colspan="1">24.19</td><td align="center" rowspan="1" colspan="1">36.29</td><td align="center" rowspan="1" colspan="1">48.38</td><td align="center" rowspan="1" colspan="1">96.77</td><td align="center" rowspan="1" colspan="1">145.15</td><td align="center" rowspan="1" colspan="1">201.50</td><td align="center" rowspan="2" colspan="1">
+<bold>SVSP. CTL. LAO</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">4.03</td><td align="center" rowspan="1" colspan="1">12.10</td><td align="center" rowspan="1" colspan="1">24.19</td><td align="center" rowspan="1" colspan="1">36.29</td><td align="center" rowspan="1" colspan="1">48.38</td><td align="center" rowspan="1" colspan="1">83.84</td><td align="center" rowspan="1" colspan="1">105.48</td><td align="center" rowspan="1" colspan="1">
+<bold>119.45</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>9</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">19.20</td><td align="center" rowspan="1" colspan="1">57.61</td><td align="center" rowspan="1" colspan="1">115.22</td><td align="center" rowspan="1" colspan="1">172.84</td><td align="center" rowspan="1" colspan="1">230.45</td><td align="center" rowspan="1" colspan="1">460.90</td><td align="center" rowspan="1" colspan="1">691.34</td><td align="center" rowspan="1" colspan="1">960.01</td><td align="center" rowspan="2" colspan="1">
+<bold>PI-SVMP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">17.92</td><td align="center" rowspan="1" colspan="1">56.07</td><td align="center" rowspan="1" colspan="1">113.23</td><td align="center" rowspan="1" colspan="1">167.29</td><td align="center" rowspan="1" colspan="1">213.21</td><td align="center" rowspan="1" colspan="1">278.24</td><td align="center" rowspan="1" colspan="1">338.59</td><td align="center" rowspan="1" colspan="1">
+<bold>400.52</bold>
+</td></tr><tr><td align="center" rowspan="2" colspan="1">
+<bold>10</bold>
+</td><td align="center" rowspan="1" colspan="1"> &#x000b5;g TOTAL</td><td align="center" rowspan="1" colspan="1">44.83</td><td align="center" rowspan="1" colspan="1">134.48</td><td align="center" rowspan="1" colspan="1">268.96</td><td align="center" rowspan="1" colspan="1">403.43</td><td align="center" rowspan="1" colspan="1">537.91</td><td align="center" rowspan="1" colspan="1">1075.82</td><td align="center" rowspan="1" colspan="1">1613.74</td><td align="center" rowspan="1" colspan="1">2191.51</td><td align="center" rowspan="2" colspan="1">
+<bold>PIII-SVMP</bold>
+</td></tr><tr><td align="center" rowspan="1" colspan="1"> &#x000b5;g RET</td><td align="center" rowspan="1" colspan="1">43.51</td><td align="center" rowspan="1" colspan="1">132.72</td><td align="center" rowspan="1" colspan="1">260.99</td><td align="center" rowspan="1" colspan="1">351.64</td><td align="center" rowspan="1" colspan="1">376.24</td><td align="center" rowspan="1" colspan="1">529.24</td><td align="center" rowspan="1" colspan="1">629.53</td><td align="center" rowspan="1" colspan="1">
+<bold>726.54</bold>
+</td></tr></tbody></table></table-wrap>
+</p></sec><sec><title>Interpretating the antivenomics outcome</title><p>Translating <italic>in vitro</italic> preclinical data to an <italic>in
+vivo</italic> scenario is not straightforward. Thus, although the similar
+total binding capacity of SAB antivenom towards <italic>B. jararaca</italic> and
+<italic>B. brazili</italic> venoms could be interpreted as indicative for
+its equivalent therapeutic potential against human envenomings by either
+species, the devil is in the details. In this regard, it is worth noting that
+although the major toxin classes PLA<sub>2</sub>, PIII-SVMP, PI-SVMP, and SVSP
+represent, respectively, 30.6%, 24.6%, 15.5%, and 13.5% of the total venom
+arsenal of <italic>B. brazili</italic>, the SAB antivenom&#x02019;s antibodies
+contributing to its paraspecific recognition of <italic>B. brazili</italic>
+toxins are biasedly distributed against PI-SVMP (41%), PIII-SVMP (32%), SVSP
+(9.3%), and PLA<sub>2</sub> (8.8%). This suggests that the ability of SAB to
+neutralize the toxic activities of Brazil&#x02019;s lancehead venom associated with
+PIII- and PI-SVMPs, and SVSPs is equivalent to, or greater than, the <italic>B.
+jararaca</italic> reference venom. On the other hand, counteracting the
+toxic activities of the major <italic>B. brazili</italic> venom PLA<sub>2</sub>
+molecules may require several times the amount of antivenom. </p><p>The average venom yield of <italic>B. brazili</italic> is about 270 mg dry weight
+(biologist Luiz Henrique Anzaloni Pedrosa, Serpent&#x000e1;rio Prote&#x000ed;nas Bioativas Ltda,
+Batatais, SP, Brazil, personal communication to AMS). For comparison, the
+average yield reported for <italic>B. jararaca</italic> (25-26 mg, with a
+maximum of 300 mg, of dry weight [<xref rid="B58" ref-type="bibr">58</xref>];
+40-70 mg according to the snake LD<sub>50</sub> database, <ext-link ext-link-type="uri" xlink:href="http://snakedatabase.org/">http://snakedatabase.org</ext-link>).
+These figures suggest that the same therapeutic potency of SAB against both
+venoms. However, the treatment of a Brazil's lancehead bite injecting an average
+amount of venom would require a 5-13 higher SAB dose than for a similar
+envenoming by <italic>B. jararaca</italic>. </p></sec></sec><sec sec-type="conclusions"><title>Conclusion</title><p>The Brazil&#x02019;s lancehead is a wide-ranging species endemic to lowlands of equatorial
+rainforests of northern South America. Phylogenetic analyses recovered two major
+lineages of <italic>B. brazili</italic> geographically restricted to regions north
+(Guiana Shield clade) and south (central and western Amazonian clade) of the Amazon
+River [<xref rid="B59" ref-type="bibr">59</xref>]. The divergence between these two
+<italic>B. brazili</italic> clades has been dated back to the Miocene-Pliocene
+border, 4.65 Mya, and the best&#x02010;fit scenario includes colonization of the Atlantic
+Forest from an ancestor from the Guiana Shield region through a northern bridge
+during the Pleistocene about 0.36 Mya, pointing to former rain forest expansions in
+north&#x02010;eastern South America [<xref rid="B59" ref-type="bibr">59</xref>]. </p><p>Historical demographic analyses of <italic>B. brazili</italic> are consistent with
+the idea that the establishment of the Amazon River has favored divergence by
+promoting vicariant separation between lineages [<xref rid="B59" ref-type="bibr">59</xref>]. The origin of the modern Amazon River has been largely associated
+with the final uplift of the Andes, which led to the formation of the Amazon River,
+converting a widespread, northwest-flowing Miocene floodbasin into the current
+eastward-running Amazon Basin. The Amazon River was initiated as a transcontinental
+river 11.8-11.3 Mya (middle to late Miocene) and between 6.8-2.4 Mya (late Miocene
+to early Pleistocene) [<xref rid="B60" ref-type="bibr">60</xref>, <xref rid="B61" ref-type="bibr">61</xref>]. The river entrenched and fully migrated
+onto the Amazon Fan and it was only from 2.4 Mya (late Pliocene) to the present that
+the Amazon fluvial system integrated regionally and acquired its current shape and
+size [<xref rid="B62" ref-type="bibr">62</xref>, <xref rid="B63" ref-type="bibr">63</xref>]. These major paleogeological changes may have had major effects on
+the evolutionary history of the Amazonian biota. </p><p>This work represents the first comprehensive characterization of the venom proteome
+of the Brazil&#x02019;s lancehead. The venom was sourced from Par&#x000e1;, a Brazilian state south
+of the Amazon River. The complementary RP-HPLC/SDS-PAGE and 2-DE protein profiles of
+<italic>B. brazili</italic> venom provide a reference map for future comparative
+studies of the intraspecific intra- and inter-population variations of the venom
+proteome of this wide geographic distributed, yet poorly studied, rainforest snake
+species. </p><p>The ability of SAB antivenom to recognize a broad spectrum of medically important
+bothropic venoms has been documented in previous works spanning the last three
+decades [<xref rid="B55" ref-type="bibr">55</xref>, <xref rid="B64" ref-type="bibr">64</xref>-<xref rid="B67" ref-type="bibr">67</xref>]. In particular, Muniz et
+al. [<xref rid="B12" ref-type="bibr">12</xref>] reported that the Brazilian SAB
+antivenom neutralized the lethal activity of venoms from <italic>B.
+jararaca</italic> and <italic>B. brazili</italic> (obtained from a 123-cm long
+female collected near the high Urucu river, Coari in the Brazilian Amazonia) with
+potencies of 5.5 and 1.6 mg venom/mL, respectively. The antivenom showed potencies
+of 6.2 and 1.4 mg/mL, respectively, in the neutralization of the PLA<sub>2</sub>
+activity of <italic>B. jararaca</italic> and <italic>B. brazili</italic> venoms. The
+volume of SAB antivenom that neutralized one minimal hemorrhagic dose (MHD) [<xref rid="B68" ref-type="bibr">68</xref>] of <italic>B. jararaca</italic> and
+<italic>B. brazili</italic> venoms was 5 mL and 7.8 mL, respectively.
+Understanding the basis of the different effectivity of SAB antivenom against
+homologous (<italic>B. jararaca</italic>) and heterologous (<italic>B.
+brazili</italic>) venoms demands the quantitative assessment of its
+toxin-resolved immunorecognition profile. </p><p>Herein, we have applied third-generation antivenomics to compare the specific and
+paraspecific immunoreactivity of the SAB antivenom against these venoms. The
+remarkable paraspecificity exhibited by the Brazilian SAB antivenom against the
+venom of <italic>B. brazili</italic> is mostly due to large conservation of
+immunoreactive epitope on hemorrhagic PI- and PIII-SVMPs across much of the natural
+history of <italic>Bothrops</italic>. On the contrary, SAB paraspecificity against
+PLA<sub>2</sub>s, which comprise the major toxin class of the Brazil&#x02019;s lancehead
+venom arsenal, is disproportionately diminished. Our antivenomics data allow the
+rationalization, in molecular terms, of the conclusions of the <italic>in
+vivo</italic> neutralization assays of Muniz et al. [<xref rid="B12" ref-type="bibr">12</xref>], and provide clues for designing an eventual strategy aimed
+at improving the spectrum of the clinical applicability of the Brazilian
+antibothropic polyvalent SAB antivenom.</p><sec><title>Abbreviations</title><p>2-DE: two-dimensional gel electrophoresis; 5'-NT: 5&#x02032;-nucleotidase; ACN:
+acetonitrile; CTL: C-type lectin-like; GC: glutaminyl cyclase; IEF: isoelectric
+focusing; LAO: L-amino acid oxidase; LD<sub>50</sub>: median lethal dose; MCD-F:
+minimum coagulant dose against fibrinogen; MCD-P: minimum coagulant dose against
+plasma; MDD: minimum defibrinogenating dose; MHD: minimum hemorrhagic dose; MND:
+minimum dermonecrotic dose; NGF: nerve growth factor; NR: non-retained; P-BAV:
+Peruvian bothropic antivenom; PDE: phosphodiesterase; PLA<sub>2</sub>:
+phospholipase A<sub>2</sub>; PLB: phospholipases B; R: retained; SAB:
+<italic>soro antibotr&#x000f3;pico</italic> (Portuguese); SDS-PAGE:
+SDS-polyacrylamide gel electrophoresis; SVMP: snake venom metalloproteinase;
+SVSP: snake venom serine proteinase; TFA: trifluoroacetic acid; TVC: total venom
+components. </p></sec></sec></body><back><ack><title>Acknowledgments</title><p>The authors express their gratitude to the Conselho de Gest&#x000e3;o do Patrim&#x000f4;nio Gen&#x000e9;tico
+(CGEN/MMA) and the Programa de Desenvolvimento Tecnol&#x000f3;gico em Ferramentas para a
+Sa&#x000fa;de, PDTIS-FIOCRUZ. The photograph of <italic>Bothrops brazili</italic> shown in
+Figure1 was kindly provided by Tiago Santana.</p></ack><fn-group><fn fn-type="other" id="fn7"><p><bold>Availability of data and materials:</bold> The datasets generated during the current study are available in <xref ref-type="supplementary-material" rid="suppl1">Additional file 1</xref>
+(Table S1) and <xref ref-type="supplementary-material" rid="suppl2">Additional
+file 2</xref> (Table S2). Raw mass spectrometric data are available from the
+corresponding authors on reasonable request.</p></fn><fn fn-type="financial-disclosure" id="fn2"><p><bold>Funding:</bold> This study was partly supported by grant BFU2017-89103-P from the Ministerio de
+Ciencia, Innovaci&#x000f3;n y Universidades, Madrid (Spain) to JJC . The authors wish to
+express their gratitude to Conselho Nacional de Desenvolvimento Cient&#x000ed;fico e
+Tecnol&#x000f3;gico (CNPq/MCTIC), Coordena&#x000e7;&#x000e3;o de Aperfei&#x000e7;oamento de Pessoal de N&#x000ed;vel
+Superior (CAPES/MEC) and Funda&#x000e7;&#x000e3;o Rond&#x000f4;nia de Amparo ao Desenvolvimento das
+A&#x000e7;&#x000f5;es Cient&#x000ed;ficas e Tecnol&#x000f3;gicas de Pesquisa do Estado de Rond&#x000f4;nia (FAPERO) for
+financial support.</p></fn><fn fn-type="other" id="fn5"><p><bold>Ethics approval :</bold> Not applicable.</p></fn><fn fn-type="other" id="fn6"><p><bold>Consent for publication:</bold> Not applicable.</p></fn></fn-group><ref-list><title>References</title><ref id="B1"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Campbell</surname><given-names>JA</given-names></name><name><surname>Lamar</surname><given-names>WW</given-names></name></person-group><source>The venomous reptiles of the Western Hemisphere</source><publisher-loc>Ithaca</publisher-loc><publisher-name>Cornell University Press</publisher-name><isbn>978-0801441417</isbn><year>2004</year></element-citation></ref><ref id="B2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carrasco</surname><given-names>P</given-names></name><name><surname>Mattoni</surname><given-names>C</given-names></name><name><surname>Leynaud</surname><given-names>G</given-names></name><name><surname>Scrocchi</surname><given-names>GJ</given-names></name></person-group><article-title>Morphology, phylogeny and taxonomy of Southamerican bothropoid
+pitvipers (Serpentes: Viperidae)</article-title><source>Zool. Scripta</source><year>2012</year><volume>41</volume><issue>2</issue><fpage>109</fpage><lpage>124</lpage></element-citation></ref><ref id="B3"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Martins</surname><given-names>M</given-names></name><name><surname>Marques</surname><given-names>OAV</given-names></name><name><surname>Sazima</surname><given-names>I</given-names></name></person-group><chapter-title>Ecological and phylogenetic correlates of feeding habits in
+Neotropical pitvipers of the genus Bothrops</chapter-title><source>Biology of the Vipers</source><person-group person-group-type="editor"><name><surname>Schuett</surname><given-names>G.</given-names></name><name><surname>H&#x000f6;ggren</surname><given-names>M.</given-names></name><name><surname>Douglas</surname><given-names>ME</given-names></name><name><surname>Greene</surname><given-names>HW</given-names></name></person-group><publisher-name>Eagle Mountain Publishing</publisher-name><publisher-loc>Eagle Mountain</publisher-loc><isbn>978-0972015400</isbn><fpage>307</fpage><lpage>328</lpage><year>2002</year></element-citation></ref><ref id="B4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carrasco</surname><given-names>PA</given-names></name><name><surname>Venegas</surname><given-names>PJ</given-names></name><name><surname>Chaparro</surname><given-names>JC</given-names></name><name><surname>Scrocchi</surname><given-names>GJ</given-names></name></person-group><article-title>Nomenclatural instability in the venomous snakes of the Bothrops
+complex: Implications in toxinology and public health</article-title><source>Toxicon</source><year>2016</year><volume>119</volume><fpage>122</fpage><lpage>128</lpage><pub-id pub-id-type="pmid">27242040</pub-id></element-citation></ref><ref id="B5"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Campbell</surname><given-names>JA</given-names></name><name><surname>Lamar</surname><given-names>WW</given-names></name></person-group><source>The venomous reptiles of Latin America</source><publisher-name>Cornell, University Press</publisher-name><publisher-loc>Ithaca, NY</publisher-loc><isbn>0801420598</isbn><year>1989</year></element-citation></ref><ref id="B6"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Warrell</surname><given-names>DA</given-names></name></person-group><chapter-title>Snakebites in Central and South America: epidemiology, clinical
+features, and clinical management</chapter-title><source>the venomous reptiles of the Western Hemisphere</source><person-group person-group-type="editor"><name><surname>Campbell</surname><given-names>J.A.</given-names></name><name><surname>Lamar</surname><given-names>W.W.</given-names></name></person-group><publisher-name>Cornell University Press</publisher-name><publisher-loc>Ithaca and London</publisher-loc><isbn>978-0801441417</isbn><fpage>709</fpage><lpage>761</lpage><year>2004</year></element-citation></ref><ref id="B7"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Guti&#x000e9;rrez</surname><given-names>JM</given-names></name></person-group><chapter-title>Snakebite envenomation in Central America</chapter-title><source>Handbook of Venoms and Toxins of Reptiles</source><person-group person-group-type="editor"><name><surname>Mackessy</surname><given-names>SP</given-names></name></person-group><publisher-name>CRC Press</publisher-name><publisher-loc>Boca Raton</publisher-loc><isbn>978-0-8493-9165-1</isbn><fpage>491</fpage><lpage>507</lpage><year>2009</year></element-citation></ref><ref id="B8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kallel</surname><given-names>H</given-names></name><name><surname>Mayence</surname><given-names>C</given-names></name><name><surname>Houcke</surname><given-names>S</given-names></name><name><surname>Mathien</surname><given-names>C</given-names></name><name><surname>Mehdaoui</surname><given-names>H</given-names></name><name><surname>Guti&#x000e9;rrez</surname><given-names>JM</given-names></name><etal/></person-group><article-title>Severe snakebite envenomation in French Guiana: When antivenom is
+not available</article-title><source>Toxicon</source><year>2018</year><volume>146</volume><fpage>87</fpage><lpage>90</lpage><pub-id pub-id-type="pmid">29621529</pub-id></element-citation></ref><ref id="B9"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Smalligan</surname><given-names>R</given-names></name><name><surname>Cole</surname><given-names>J</given-names></name><name><surname>Brito</surname><given-names>N</given-names></name><name><surname>Laing</surname><given-names>GD</given-names></name><name><surname>Mertz</surname><given-names>BL</given-names></name><name><surname>Manock</surname><given-names>S</given-names></name><etal/></person-group><article-title>Crotaline snake bite in the Ecuadorian Amazon: randomised double
+blind comparative trial of three South American polyspecific
+antivenoms</article-title><source>BMJ</source><year>2004</year><volume>329</volume><issue>7475</issue><fpage>1129</fpage><lpage>1129</lpage><pub-id pub-id-type="pmid">15539665</pub-id></element-citation></ref><ref id="B10"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Zavaleta</surname><given-names>A</given-names></name><name><surname>Salas</surname><given-names>M</given-names></name></person-group><chapter-title>Ofidismo: envenenamiento por mordedura de
+serpientes</chapter-title><source>Emergencias en Medicina Interna</source><person-group person-group-type="editor"><name><surname>Mart&#x000ed;nez-Villaverde</surname><given-names>JR</given-names></name><name><surname>Le&#x000f3;n-Bar&#x000fa;a</surname><given-names>R</given-names></name><name><surname>Vidal-Neira</surname><given-names>L</given-names></name><name><surname>Losno-Garc&#x000ed;a</surname><given-names>R</given-names></name></person-group><publisher-loc>Lima, Per&#x000fa;</publisher-loc><fpage>241</fpage><lpage>260</lpage><year>1996</year></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Laing</surname><given-names>GD</given-names></name><name><surname>Yarleque</surname><given-names>A</given-names></name><name><surname>Marcelo</surname><given-names>A</given-names></name><name><surname>Rodriguez</surname><given-names>E</given-names></name><name><surname>Warrell</surname><given-names>DA</given-names></name><name><surname>Theakston</surname><given-names>RD</given-names></name></person-group><article-title>Preclinical testing of three South American antivenoms against
+the venoms of five medically-important Peruvian snake venoms</article-title><source>Toxicon</source><year>2004</year><volume>44</volume><issue>1</issue><fpage>103</fpage><lpage>106</lpage><pub-id pub-id-type="pmid">15225568</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Muniz</surname><given-names>EG</given-names></name><name><surname>Maria</surname><given-names>WS</given-names></name><name><surname>Estev&#x000e3;o-Costa</surname><given-names>MI</given-names></name><name><surname>Buhrnheim</surname><given-names>P</given-names></name><name><surname>Ch&#x000e1;vez-Ol&#x000f3;rtegui</surname><given-names>C</given-names></name></person-group><article-title>Neutralizing potency of horse antibothropic Brazilian antivenom
+against Bothrops snake venoms from the Amazonian rain forest</article-title><source>Toxicon</source><year>2000</year><volume>38</volume><issue>12</issue><fpage>1859</fpage><lpage>1863</lpage><pub-id pub-id-type="pmid">10858523</pub-id></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Furtado</surname><given-names>Mde F</given-names></name><name><surname>Cardoso</surname><given-names>ST</given-names></name><name><surname>Soares</surname><given-names>OE</given-names></name><name><surname>Pereira</surname><given-names>AP</given-names></name><name><surname>Fernandes</surname><given-names>DS</given-names></name><name><surname>Tambourgi</surname><given-names>DV</given-names></name><etal/></person-group><article-title>Antigenic cross-reactivity and immunogenicity of Bothrops venoms
+from snakes of the Amazon region</article-title><source>Toxicon</source><year>2010</year><volume>55</volume><issue>4</issue><fpage>881</fpage><lpage>887</lpage><pub-id pub-id-type="pmid">20036275</pub-id></element-citation></ref><ref id="B14"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Beolens</surname><given-names>B</given-names></name><name><surname>Watkins</surname><given-names>M</given-names></name><name><surname>Grayson</surname><given-names>M</given-names></name></person-group><source>The Eponym Dictionary of Reptiles</source><publisher-loc>Baltimore</publisher-loc><publisher-name>Johns Hopkins University Press</publisher-name><isbn>978-1-4214-0135-5</isbn><fpage>37</fpage><lpage>37</lpage><year>2011</year></element-citation></ref><ref id="B15"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoge</surname><given-names>AR</given-names></name></person-group><article-title>A new Bothrops from Brazil - Bothrops brazili, sp.
+nov</article-title><source>Mem Inst Butantan</source><year>1953</year><volume>25</volume><issue>1</issue><fpage>15</fpage><lpage>21</lpage><pub-id pub-id-type="pmid">13193513</pub-id></element-citation></ref><ref id="B16"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Werman</surname><given-names>SD</given-names></name></person-group><chapter-title>Phylogenetic relationships of Central and South American
+pitvipers of the genus Bothrops (sensu lato): cladistic analysis of
+biochemical and anatomical characters</chapter-title><source>Biology of the Pitvipers</source><person-group person-group-type="editor"><name><surname>Campbell</surname><given-names>J.A.</given-names></name><name><surname>Brodie</surname><given-names>E.D</given-names></name></person-group><publisher-name>Selva</publisher-name><publisher-loc>Tyler, TX</publisher-loc><isbn>0-9630537-0-1</isbn><fpage>21</fpage><lpage>40</lpage><year>1992</year></element-citation></ref><ref id="B17"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Bernarde</surname><given-names>PS</given-names></name><name><surname>Turci</surname><given-names>LCB</given-names></name><name><surname>Machado</surname><given-names>RA</given-names></name></person-group><source>Serpentes do Alto Juru&#x000e1;, Acre-Amaz&#x000f4;nia Brasileira</source><publisher-name>Editora da Universidade Federal do Acre-Edufac</publisher-name><isbn>978-85-8236-062-0</isbn><size units="pages">166</size><year>2017</year></element-citation></ref><ref id="B18"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cunha</surname><given-names>OR</given-names></name><name><surname>Nascimento</surname><given-names>FP</given-names></name></person-group><article-title>Ofidios da Amaz&#x000f4;nia VII - As serpentes pe&#x000e7;onhentas do genero
+Bothrops (jararacas) e Lachesis (surucucu) da regi&#x000e3;o leste do Par&#x000e1; (Ophidia,
+Viperidae)</article-title><source>Bol Mus Paraense Emilio Goeldi</source><year>1975</year><volume>83</volume><fpage>1</fpage><lpage>42</lpage></element-citation></ref><ref id="B19"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Dixon</surname><given-names>JR</given-names></name><name><surname>Soini</surname><given-names>P</given-names></name></person-group><source>The Reptiles of the Upper Amazon Basin, Iquitos Region, Peru</source><publisher-name>Milwaukee Public Museum</publisher-name><publisher-loc>Milwaukee</publisher-loc><year>1986</year></element-citation></ref><ref id="B20"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zavaleta</surname><given-names>A</given-names></name><name><surname>Campos</surname><given-names>SM</given-names></name></person-group><article-title>Estimaci&#x000f3;n de la cantidad individual de veneno producida por
+serpientes venenosas peruanas</article-title><source>Rev Med Hered</source><year>1992</year><volume>3</volume><issue>1</issue><fpage>90</fpage><lpage>90</lpage></element-citation></ref><ref id="B21"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calder&#x000f3;n</surname><given-names>LA</given-names></name><name><surname>C</surname><given-names>J</given-names><suffix>Sobrinho</suffix></name><name><surname>Zaqueo</surname><given-names>KD</given-names></name><name><surname>Moura</surname><given-names>AA</given-names></name><name><surname>Grabner</surname><given-names>AN</given-names></name><name><surname>Mazzi</surname><given-names>MV</given-names></name><etal/></person-group><article-title>Antitumoral activity of snake venom proteins: new trends in
+cancer therapy</article-title><source>Biomed Res Int</source><year>2014</year><volume>2014</volume><elocation-id>203639</elocation-id><pub-id pub-id-type="pmid">24683541</pub-id></element-citation></ref><ref id="B22"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Almeida</surname><given-names>JR</given-names></name><name><surname>Resende</surname><given-names>LM</given-names></name><name><surname>Watanabe</surname><given-names>RK</given-names></name><name><surname>Carregari</surname><given-names>VC</given-names></name><name><surname>Huancahuire-Vega</surname><given-names>S</given-names></name><name><surname>da S Caldeira</surname><given-names>CA</given-names></name><etal/></person-group><article-title>Snake venom peptides and low mass proteins: molecular tools and
+therapeutic agents</article-title><source>Curr Med Chem</source><year>2017</year><volume>24</volume><issue>30</issue><fpage>3254</fpage><lpage>3282</lpage><pub-id pub-id-type="pmid">27804880</pub-id></element-citation></ref><ref id="B23"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Costa</surname><given-names>TR</given-names></name><name><surname>Menaldo</surname><given-names>DL</given-names></name><name><surname>Oliveira</surname><given-names>CZ</given-names></name><name><surname>Santos-Filho</surname><given-names>NA</given-names></name><name><surname>Teixeira</surname><given-names>SS</given-names></name><name><surname>Nomizo</surname><given-names>A</given-names></name><etal/></person-group><article-title>Myotoxic phospholipases A2 isolated from Bothrops brazili snake
+venom and synthetic peptides derived from their C-terminal region: cytotoxic
+effect on microorganism and tumor cells</article-title><source>Peptides</source><year>2008</year><volume>29</volume><issue>10</issue><fpage>1645</fpage><lpage>1656</lpage><pub-id pub-id-type="pmid">18602430</pub-id></element-citation></ref><ref id="B24"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huancahuire-Vega</surname><given-names>S</given-names></name><name><surname>Ponce-Soto</surname><given-names>LA</given-names></name><name><surname>Martins-de-Souza</surname><given-names>D</given-names></name><name><surname>Marangoni</surname><given-names>S</given-names></name><etal/></person-group><article-title>Structural and functional characterization of brazilitoxins II
+and III (BbTX-II and -III), two myotoxins from the venom of Bothrops brazili
+snake</article-title><source>Toxicon</source><year>2009</year><volume>54</volume><issue>6</issue><fpage>818</fpage><lpage>827</lpage><pub-id pub-id-type="pmid">19539640</pub-id></element-citation></ref><ref id="B25"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fernandes</surname><given-names>CA</given-names></name><name><surname>Comparetti</surname><given-names>EJ</given-names></name><name><surname>Borges</surname><given-names>RJ</given-names></name><name><surname>Huancahuire-Vega</surname><given-names>S</given-names></name><name><surname>Ponce-Soto</surname><given-names>LA</given-names></name><name><surname>Marangoni</surname><given-names>S</given-names></name><etal/></person-group><article-title>Structural bases for a complete myotoxic mechanism: crystal
+structures of two non-catalytic phospholipases A2-like from Bothrops brazili
+venom</article-title><source>Biochim Biophys Acta</source><year>2013</year><volume>1834</volume><fpage>2772</fpage><lpage>2781</lpage><pub-id pub-id-type="pmid">24145104</pub-id></element-citation></ref><ref id="B26"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Concei&#x000e7;&#x000e3;o</surname><given-names>J</given-names><suffix>Sobrinho</suffix></name><name><surname>Kayano</surname><given-names>AM</given-names></name><name><surname>Sim&#x000f5;es-Silva</surname><given-names>R</given-names></name><name><surname>Alfonso</surname><given-names>JJ</given-names></name><name><surname>Gomez</surname><given-names>AF</given-names></name><name><surname>Gomez</surname><given-names>MCV</given-names></name><etal/></person-group><article-title>Anti-platelet aggregation activity of two novel acidic
+Asp49-phospholipases A2 from Bothrops brazili snake venom</article-title><source>Int J Biol Macromol</source><year>2018</year><volume>107</volume><issue>Pt A</issue><fpage>1014</fpage><lpage>1022</lpage><pub-id pub-id-type="pmid">28951306</pub-id></element-citation></ref><ref id="B27"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kayano</surname><given-names>AM</given-names></name><name><surname>Sim&#x000f5;es-Silva</surname><given-names>R</given-names></name><name><surname>Medeiros</surname><given-names>PS</given-names></name><name><surname>Maltarollo</surname><given-names>VG</given-names></name><name><surname>Honorio</surname><given-names>KM</given-names></name><name><surname>Oliveira</surname><given-names>E</given-names></name><etal/></person-group><article-title>BbMP-1, a new metalloproteinase isolated from Bothrops brazili
+snake venom with in vitro antiplasmodial properties</article-title><source>Toxicon</source><year>2015</year><volume>106</volume><fpage>30</fpage><lpage>41</lpage><pub-id pub-id-type="pmid">26363289</pub-id></element-citation></ref><ref id="B28"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zaqueo</surname><given-names>KD</given-names></name><name><surname>Kayano</surname><given-names>AM</given-names></name><name><surname>Domingos</surname><given-names>TF</given-names></name><name><surname>Moura</surname><given-names>LA</given-names></name><name><surname>Fuly</surname><given-names>AL</given-names></name><name><surname>da Silva</surname><given-names>SL</given-names></name><etal/></person-group><article-title>BbrzSP-32, the first serine protease isolated from Bothrops
+brazili venom: Purification and characterization</article-title><source>Comp Biochem Physiol A Mol Integr Physiol</source><year>2016</year><volume>195</volume><fpage>15</fpage><lpage>25</lpage><pub-id pub-id-type="pmid">26827743</pub-id></element-citation></ref><ref id="B29"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bhat</surname><given-names>SK</given-names></name><name><surname>Joshi</surname><given-names>MB</given-names></name><name><surname>Ullah</surname><given-names>A</given-names></name><name><surname>Masood</surname><given-names>R</given-names></name><name><surname>Biligiri</surname><given-names>SG</given-names></name><name><surname>Arni</surname><given-names>RK</given-names></name><etal/></person-group><article-title>Serine proteinases from Bothrops snake venom activates PI3K/Akt
+mediated angiogenesis</article-title><source>Toxicon</source><year>2016</year><volume>124</volume><fpage>63</fpage><lpage>72</lpage><pub-id pub-id-type="pmid">27816537</pub-id></element-citation></ref><ref id="B30"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Delgadillo</surname><given-names>J</given-names></name><name><surname>Palomino</surname><given-names>M</given-names></name><name><surname>Lazo</surname><given-names>F</given-names></name><name><surname>Rodr&#x000ed;guez</surname><given-names>E</given-names></name><name><surname>Gonz&#x000e1;lez</surname><given-names>E</given-names></name><name><surname>Severino</surname><given-names>R</given-names></name><etal/></person-group><article-title>Purificaci&#x000f3;n y algunas propiedades de una hialuronidasa del
+veneno de la serpiente Bothrops brazili &#x0201c;jerg&#x000f3;n shushupe&#x0201d;</article-title><source>Rev Soc Qu&#x000ed;m Per&#x000fa;</source><year>2013</year><volume>79</volume><issue>4</issue><fpage>348</fpage><lpage>358</lpage></element-citation></ref><ref id="B31"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gren</surname><given-names>ECK</given-names></name><name><surname>Kitano</surname><given-names>ES</given-names></name><name><surname>Andrade-Silva</surname><given-names>D</given-names></name><name><surname>Iwai</surname><given-names>LK</given-names></name><name><surname>Reis</surname><given-names>MS</given-names></name><name><surname>Menezes</surname><given-names>MC</given-names></name><etal/></person-group><article-title>Comparative analysis of the high molecular mass subproteomes of
+eight Bothrops snake venoms</article-title><source>Comp Biochem Physiol D Genomics Proteomics</source><year>2019</year><volume>30</volume><fpage>113</fpage><lpage>121</lpage><pub-id pub-id-type="pmid">30825662</pub-id></element-citation></ref><ref id="B32"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Raw</surname><given-names>I</given-names></name><name><surname>Guidolin</surname><given-names>R</given-names></name><name><surname>Higashi</surname><given-names>HG</given-names></name></person-group><chapter-title>Antivenins in Brazil: Preparation</chapter-title><source>Handbook of Natural Toxins</source><comment>Tu A editor</comment><publisher-name>Marcel Dekker</publisher-name><publisher-loc>New York</publisher-loc><isbn>0-8247-8376-X </isbn><fpage>557</fpage><lpage>811</lpage><year>1991</year></element-citation></ref><ref id="B33"><element-citation publication-type="newspaper"><person-group person-group-type="author"><collab>Brasil, Minist&#x000e9;rio da Sa&#x000fa;de</collab></person-group><article-title>Normas de Produ&#x000e7;&#x000e3;o e Controle de Qualidade de Soros
+Antiof&#x00131;dicos</article-title><source>Di&#x000e1;rio Oficial da Uni&#x000e3;o</source><fpage>23491</fpage><lpage>23512</lpage><year>1996</year></element-citation></ref><ref id="B34"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sch&#x000e4;gger</surname><given-names>H</given-names></name></person-group><article-title>Tricine-SDS-PAGE</article-title><source>Nat Protoc</source><year>2016</year><volume>1</volume><fpage>16</fpage><lpage>22</lpage></element-citation></ref><ref id="B35"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Altschul</surname><given-names>SF</given-names></name><name><surname>Gish</surname><given-names>W</given-names></name><name><surname>Miller</surname><given-names>W</given-names></name><name><surname>Myers</surname><given-names>EW</given-names></name><name><surname>Lipman</surname><given-names>DJ</given-names></name></person-group><article-title>Basic local alignment search tool</article-title><source>J Mol Biol</source><year>1990</year><volume>215</volume><issue>3</issue><fpage>403</fpage><lpage>410</lpage><pub-id pub-id-type="pmid">2231712</pub-id></element-citation></ref><ref id="B36"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calvete</surname><given-names>JJ</given-names></name></person-group><article-title>Proteomic tools against the neglected pathology of snake bite
+envenoming</article-title><source>Expert Rev Proteomics</source><year>2011</year><volume>8</volume><issue>6</issue><fpage>739</fpage><lpage>758</lpage><pub-id pub-id-type="pmid">22087658</pub-id></element-citation></ref><ref id="B37"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calvete</surname><given-names>JJ</given-names></name></person-group><article-title>Next-generation snake venomics: protein-locus resolution through
+venom proteome decomplexation</article-title><source>Exp Rev Proteomics</source><year>2014</year><volume>11</volume><issue>3</issue><fpage>315</fpage><lpage>329</lpage></element-citation></ref><ref id="B38"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Eichberg</surname><given-names>S</given-names></name><name><surname>Sanz</surname><given-names>L</given-names></name><name><surname>Calvete</surname><given-names>JJ</given-names></name><name><surname>Pla</surname><given-names>D</given-names></name></person-group><article-title>Constructing comprehensive venom proteome reference maps for
+integrative venomics</article-title><source>Expert Rev Proteomics</source><year>2015</year><volume>12</volume><issue>5</issue><fpage>557</fpage><lpage>573</lpage><pub-id pub-id-type="pmid">26400467</pub-id></element-citation></ref><ref id="B39"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calder&#x000f3;n-Celis</surname><given-names>F</given-names></name><name><surname>Cid-Barrio</surname><given-names>L</given-names></name><name><surname>Encinar</surname><given-names>JR</given-names></name><name><surname>Sanz-Medel</surname><given-names>A</given-names></name><name><surname>Calvete</surname><given-names>JJ</given-names></name></person-group><article-title>Absolute venomics: Absolute quantification of intact venom
+proteins through elemental mass spectrometry</article-title><source>J Proteomics</source><year>2017</year><volume>164</volume><fpage>33</fpage><lpage>42</lpage><pub-id pub-id-type="pmid">28579478</pub-id></element-citation></ref><ref id="B40"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pla</surname><given-names>D</given-names></name><name><surname>Rodr&#x000ed;guez</surname><given-names>Y</given-names></name><name><surname>Calvete</surname><given-names>JJ</given-names></name></person-group><article-title>Third generation antivenomics: Pushing the limits of the in vitro
+preclinical assessment of antivenoms</article-title><source>Toxins</source><year>2017</year><volume>9</volume><issue>5</issue><elocation-id>E158</elocation-id><pub-id pub-id-type="pmid">28489039</pub-id></element-citation></ref><ref id="B41"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calvete</surname><given-names>JJ</given-names></name><name><surname>Rodr&#x000ed;guez</surname><given-names>Y</given-names></name><name><surname>Quesada-Bernat</surname><given-names>S</given-names></name><name><surname>Pla</surname><given-names>D</given-names></name></person-group><article-title>Toxin-resolved antivenomics-guided assessment of the
+immunorecognition landscape of antivenoms</article-title><source>Toxicon</source><year>2018</year><volume>148</volume><fpage>107</fpage><lpage>122</lpage><pub-id pub-id-type="pmid">29704534</pub-id></element-citation></ref><ref id="B42"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gon&#x000e7;alves-Machado</surname><given-names>L</given-names></name><name><surname>Pla</surname><given-names>D</given-names></name><name><surname>Sanz</surname><given-names>L</given-names></name><name><surname>Jorge</surname><given-names>RJB</given-names></name><name><surname>Leit&#x000e3;o-De-Ara&#x000fa;jo</surname><given-names>M</given-names></name><name><surname>Alves</surname><given-names>MLM</given-names></name><etal/></person-group><article-title>Combined venomics, venom gland transcriptomics, bioactivities,
+and antivenomics of two Bothrops jararaca populations from geographic
+isolated regions within the Brazilian Atlantic rainforest</article-title><source>J Proteomics</source><year>2016</year><volume>135</volume><fpage>73</fpage><lpage>89</lpage><pub-id pub-id-type="pmid">25968638</pub-id></element-citation></ref><ref id="B43"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Howard</surname><given-names>GC</given-names></name><name><surname>Kaser</surname><given-names>MR</given-names></name></person-group><source>Making and Using Antibodies: A Practical Handbook</source><publisher-name>CRC Press, Taylor &#x00026; Francis Group</publisher-name><publisher-loc>Boca Raton (FL)</publisher-loc><edition>2</edition><isbn>9781439869086</isbn><year>2014</year></element-citation></ref><ref id="B44"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Calvete</surname><given-names>JJ</given-names></name><name><surname>Guti&#x000e9;rrez</surname><given-names>JM</given-names></name><name><surname>Sanz</surname><given-names>L</given-names></name></person-group><chapter-title>Antivenomics: a proteomics tool for studying the immunoreactivity
+of antivenoms</chapter-title><source>Analyzing Biomolecular Interactions by Mass Spectrometry</source><edition>1</edition><person-group person-group-type="editor"><name><surname>Kool</surname><given-names>J.</given-names></name><name><surname>Niessen</surname><given-names>W.M</given-names></name></person-group><publisher-name>Wiley-VCH Verlag GmbH &#x00026; Co</publisher-name><isbn>978-3-527-32982-3</isbn><fpage>227</fpage><lpage>239</lpage><year>2015</year></element-citation></ref><ref id="B45"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sanz</surname><given-names>L</given-names></name><name><surname>Quesada-Bernat</surname><given-names>S</given-names></name><name><surname>Chen</surname><given-names>PY</given-names></name><name><surname>Lee</surname><given-names>CD</given-names></name><name><surname>Chiang</surname><given-names>JR</given-names></name><name><surname>Calvete</surname><given-names>JJ</given-names></name></person-group><article-title>Translational Venomics: Third-Generation Antivenomics of
+anti-siamese Russell's viper, Daboia siamensis, antivenom manufactured in
+Taiwan CDC's Vaccine Center</article-title><source>Trop Med Infect Dis</source><year>2018</year><volume>3</volume><issue>2</issue><elocation-id>E66</elocation-id><pub-id pub-id-type="pmid">30274462</pub-id></element-citation></ref><ref id="B46"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Al-Shekhadat</surname><given-names>RI</given-names></name><name><surname>Lopushanskaya</surname><given-names>KS</given-names></name><name><surname>Segura</surname><given-names>&#x000c0;</given-names></name><name><surname>Guti&#x000e9;rrez</surname><given-names>JM</given-names></name><name><surname>Calvete</surname><given-names>JJ</given-names></name><name><surname>Pla</surname><given-names>D</given-names></name></person-group><article-title>Vipera berus berus venom from Russia: venomics, bioactivities and
+preclinical assessment of Microgen antivenom</article-title><source>Toxins (Basel)</source><year>2019</year><volume>11</volume><issue>2</issue><elocation-id>E90</elocation-id><pub-id pub-id-type="pmid">30717298</pub-id></element-citation></ref><ref id="B47"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>N&#x000fa;&#x000f1;ez</surname><given-names>V</given-names></name><name><surname>Cid</surname><given-names>P</given-names></name><name><surname>Sanz</surname><given-names>L</given-names></name><name><surname>De La Torre</surname><given-names>P</given-names></name><name><surname>Angulo</surname><given-names>Y</given-names></name><name><surname>Lomonte</surname><given-names>B</given-names></name><etal/></person-group><article-title>Snake venomics and antivenomics of Bothrops atrox venoms from
+Colombia and the Amazon regions of Brazil, Per&#x000fa; and Ecuador suggest the
+occurrence of geographic variation of venom phenotype by a trend towards
+paedomorphism</article-title><source>J Proteomics</source><year>2009</year><volume>73</volume><issue>1</issue><fpage>57</fpage><lpage>78</lpage><pub-id pub-id-type="pmid">19665598</pub-id></element-citation></ref><ref id="B48"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calvete</surname><given-names>JJ</given-names></name><name><surname>Sanz</surname><given-names>L</given-names></name><name><surname>P&#x000e9;rez</surname><given-names>A</given-names></name><name><surname>Borges</surname><given-names>A</given-names></name><name><surname>Vargas</surname><given-names>AM</given-names></name><name><surname>Lomonte</surname><given-names>B</given-names></name><etal/></person-group><article-title>Snake population venomics and antivenomics of Bothrops atrox:
+Paedomorphism along its transamazonian dispersal and implications of
+geographic venom variability on snakebite management</article-title><source>J Proteomics</source><year>2011</year><volume>74</volume><issue>4</issue><fpage>510</fpage><lpage>527</lpage><pub-id pub-id-type="pmid">21278006</pub-id></element-citation></ref><ref id="B49"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huang</surname><given-names>KF</given-names></name><name><surname>Hung</surname><given-names>CC</given-names></name><name><surname>Wu</surname><given-names>SH</given-names></name><name><surname>Chiou</surname><given-names>SH</given-names></name></person-group><article-title>Characterization of three endogenous peptide inhibitors for
+multiple metalloproteinases with fibrinogenolytic activity from the venom of
+Taiwan habu (Trimeresurus mucrosquamatus)</article-title><source>Biochem Biophys Res Commun</source><year>1998</year><volume>248</volume><issue>3</issue><fpage>562</fpage><lpage>568</lpage><pub-id pub-id-type="pmid">9703966</pub-id></element-citation></ref><ref id="B50"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Huang</surname><given-names>KF</given-names></name><name><surname>Chiou</surname><given-names>SH</given-names></name><name><surname>Ko</surname><given-names>TP</given-names></name><name><surname>Wang</surname><given-names>AH</given-names></name></person-group><article-title>Determinants of the inhibition of a Taiwan habu venom
+metalloproteinase by its endogenous inhibitors revealed by x-ray
+crystallography and synthetic inhibitor analogues</article-title><source>Eur J Biochem</source><year>2002</year><volume>269</volume><issue>12</issue><fpage>3047</fpage><lpage>3056</lpage><pub-id pub-id-type="pmid">12071970</pub-id></element-citation></ref><ref id="B51"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kato</surname><given-names>H</given-names></name><name><surname>Iwanaga</surname><given-names>S</given-names></name><name><surname>Suzuki</surname><given-names>T</given-names></name></person-group><article-title>The isolation and amino acid sequences of new
+pyroglutamylpeptides from snake venoms</article-title><source>Experientia</source><year>1966</year><volume>22</volume><issue>1</issue><fpage>49</fpage><lpage>50</lpage></element-citation></ref><ref id="B52"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Munekiyo</surname><given-names>SM</given-names></name><name><surname>Mackessy</surname><given-names>SP</given-names></name></person-group><article-title>Presence of peptide inhibitors in rattlesnake venoms and their
+effects on endogenous metalloproteases</article-title><source>Toxicon</source><year>2005</year><volume>45</volume><issue>3</issue><fpage>255</fpage><lpage>263</lpage><pub-id pub-id-type="pmid">15683863</pub-id></element-citation></ref><ref id="B53"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wagstaff</surname><given-names>SC</given-names></name><name><surname>Favreau</surname><given-names>P</given-names></name><name><surname>Cheneval</surname><given-names>O</given-names></name><name><surname>Harrison</surname><given-names>RA</given-names></name></person-group><article-title>Molecular characterisation of endogenous snake venom
+metalloproteinase inhibitors</article-title><source>Biochem Biophys Res Commun</source><year>2008</year><volume>365</volume><issue>4</issue><fpage>650</fpage><lpage>656</lpage><pub-id pub-id-type="pmid">18029259</pub-id></element-citation></ref><ref id="B54"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ullah</surname><given-names>A</given-names></name><name><surname>Souza</surname><given-names>TA</given-names></name><name><surname>Betzel</surname><given-names>C</given-names></name><name><surname>Murakami</surname><given-names>MT</given-names></name><name><surname>Arni</surname><given-names>RK</given-names></name></person-group><article-title>Crystallographic portrayal of different conformational states of
+a Lys49 phospholipase A2 homologue: insights into structural determinants
+for myotoxicity and dimeric configuration</article-title><source>Int J Biol Macromol</source><year>2012</year><volume>51</volume><issue>3</issue><fpage>209</fpage><lpage>214</lpage><pub-id pub-id-type="pmid">22584077</pub-id></element-citation></ref><ref id="B55"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Queiroz</surname><given-names>GP</given-names></name><name><surname>Pessoa</surname><given-names>LA</given-names></name><name><surname>Portaro</surname><given-names>FC</given-names></name><name><surname>Furtado</surname><given-names>MFD</given-names></name></person-group><article-title>Interspecific variation in venom composition and toxicity of
+Brazilian snakes from Bothrops genus</article-title><source>Toxicon</source><year>2008</year><volume>52</volume><issue>8</issue><fpage>842</fpage><lpage>851</lpage><pub-id pub-id-type="pmid">18983867</pub-id></element-citation></ref><ref id="B56"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Machado</surname><given-names>T</given-names></name><name><surname>Silva</surname><given-names>VX</given-names></name><name><surname>Silva</surname><given-names>MJ</given-names></name></person-group><article-title>Phylogenetic relationships within Bothrops neuwiedi group
+(Serpentes, Squamata): geographically highly-structured lineages, evidence
+of introgressive hybridization and Neogene/Quaternary
+diversification</article-title><source>Mol Phylogenet Evol</source><year>2014</year><volume>71</volume><fpage>1</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">24140980</pub-id></element-citation></ref><ref id="B57"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Alencar</surname><given-names>LRV</given-names></name><name><surname>Quental</surname><given-names>TB</given-names></name><name><surname>Grazziotin</surname><given-names>FG</given-names></name><name><surname>Alfaro</surname><given-names>ML</given-names></name><name><surname>Marcio</surname><given-names>Martins</given-names></name><name><surname>Venzon</surname><given-names>M</given-names></name><etal/></person-group><article-title>Diversification in vipers: Phylogenetic relationships, time of
+divergence and shifts in speciation rates</article-title><source>Mol Phylogenet Evol</source><year>2016</year><volume>105</volume><fpage>50</fpage><lpage>62</lpage><pub-id pub-id-type="pmid">27480810</pub-id></element-citation></ref><ref id="B58"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Brown</surname><given-names>JH</given-names></name></person-group><source>Toxicology and Pharmacology of Venoms from Poisonous Snakes</source><publisher-loc>Springfield, IL</publisher-loc><publisher-name>Charles C. Thomas</publisher-name><isbn>0-398-02808-7</isbn><year>1973</year></element-citation></ref><ref id="B59"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hoorn</surname><given-names>C</given-names></name></person-group><article-title>An environmental reconstruction of the paleo-Amazon River system
+(Middle-Late Miocene, NW Amazonia)</article-title><source>Palaeogeogr Palaeoclim Palaeoecol</source><year>1994</year><volume>112</volume><fpage>187</fpage><lpage>238</lpage></element-citation></ref><ref id="B60"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Latrubesse</surname><given-names>EM</given-names></name><name><surname>Bocquentin</surname><given-names>J</given-names></name><name><surname>Santos</surname><given-names>CR</given-names></name><name><surname>Ramonell</surname><given-names>CG</given-names></name></person-group><article-title>Paleoenvironmental model for the late Cenozoic southwestern
+Amazonia: paleontology and geology</article-title><source>Acta Amazonica</source><year>1997</year><volume>27</volume><issue>2</issue><fpage>103</fpage><lpage>117</lpage></element-citation></ref><ref id="B61"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Figueiredo</surname><given-names>J</given-names></name><name><surname>Hoorn</surname><given-names>C</given-names></name><name><surname>van der Ven</surname><given-names>P</given-names></name><name><surname>Soares</surname><given-names>E</given-names></name></person-group><article-title>Late Miocene onset of the Amazon River and the Amazon deep-sea
+fan: Evidence from the Foz do Amazonas Basin</article-title><source>Geology</source><year>2009</year><volume>37</volume><issue>7</issue><fpage>619</fpage><lpage>622</lpage></element-citation></ref><ref id="B62"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Latrubesse</surname><given-names>EM</given-names></name><name><surname>Cozzuol</surname><given-names>M</given-names></name><name><surname>da Silva-Caminha</surname><given-names>SAF</given-names></name><name><surname>Rigsby</surname><given-names>CA</given-names></name><name><surname>Absy</surname><given-names>MA</given-names></name><name><surname>Jaramillo</surname><given-names>C</given-names></name></person-group><article-title>The Late Miocene paleogeography of the Amazon Basin and the
+evolution of the Amazon River system</article-title><source>Earth-Sci Rev</source><year>2010</year><volume>99</volume><issue>3-4</issue><fpage>99</fpage><lpage>124</lpage></element-citation></ref><ref id="B63"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guti&#x000e9;rrez</surname><given-names>JM</given-names></name><name><surname>Gen&#x000e9;</surname><given-names>JA</given-names></name><name><surname>Rojas</surname><given-names>G</given-names></name><name><surname>Cerdas</surname><given-names>L</given-names></name></person-group><article-title>Neutralization of proteolytic and hemorrhagic activities of Costa
+Rican snake venoms by a polyvalent antivenom</article-title><source>Toxicon</source><year>1985</year><volume>23</volume><issue>6</issue><fpage>887</fpage><lpage>893</lpage><pub-id pub-id-type="pmid">3913055</pub-id></element-citation></ref><ref id="B64"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferreira</surname><given-names>ML</given-names></name><name><surname>Moura-da-Silva</surname><given-names>AM</given-names></name><name><surname>Mota</surname><given-names>I</given-names></name></person-group><article-title>Neutralization of different activities of venoms from nine
+species of Bothrops snakes by Bothrops jararaca antivenom</article-title><source>Toxicon</source><year>1992</year><volume>30</volume><issue>12</issue><fpage>1591</fpage><lpage>1602</lpage><pub-id pub-id-type="pmid">1488768</pub-id></element-citation></ref><ref id="B65"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bogar&#x000ed;n</surname><given-names>G</given-names></name><name><surname>Morais</surname><given-names>JF</given-names></name><name><surname>Yamaguchi</surname><given-names>IK</given-names></name><name><surname>Stephano</surname><given-names>MA</given-names></name><name><surname>Marcelino</surname><given-names>JR</given-names></name><name><surname>Nishikawa</surname><given-names>AK</given-names></name><etal/></person-group><article-title>Neutralization of crotaline snake venoms from Central and South
+America by antivenoms produced in Brazil and Costa Rica</article-title><source>Toxicon</source><year>2000</year><volume>38</volume><issue>10</issue><fpage>1429</fpage><lpage>1441</lpage><pub-id pub-id-type="pmid">10758277</pub-id></element-citation></ref><ref id="B66"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Segura</surname><given-names>A</given-names></name><name><surname>Castillo</surname><given-names>MC</given-names></name><name><surname>N&#x000fa;&#x000f1;ez</surname><given-names>V</given-names></name><name><surname>Yarlequ&#x000e9;</surname><given-names>A</given-names></name><name><surname>Gon&#x000e7;alves</surname><given-names>LR</given-names></name><name><surname>Villalta</surname><given-names>M</given-names></name><etal/></person-group><article-title>Preclinical assessment of the neutralizing capacity of antivenoms
+produced in six Latin American countries against medically-relevant Bothrops
+snake venoms</article-title><source>Toxicon</source><year>2010</year><volume>56</volume><issue>6</issue><fpage>980</fpage><lpage>989</lpage><pub-id pub-id-type="pmid">20621114</pub-id></element-citation></ref><ref id="B67"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sousa</surname><given-names>LF</given-names></name><name><surname>Nicolau</surname><given-names>CA</given-names></name><name><surname>Peixoto</surname><given-names>PS</given-names></name><name><surname>Bernardoni</surname><given-names>JL</given-names></name><name><surname>Oliveira</surname><given-names>SS</given-names></name><name><surname>Portes-Junior</surname><given-names>J&#x000c1;</given-names></name><etal/></person-group><article-title>Comparison of phylogeny, venom composition and neutralization by
+antivenom in diverse species of bothrops complex</article-title><source>PLoS Negl Trop Dis</source><year>2013</year><volume>7</volume><issue>9</issue><elocation-id>e2442</elocation-id><pub-id pub-id-type="pmid">24069493</pub-id></element-citation></ref><ref id="B68"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jorge</surname><given-names>RJ</given-names></name><name><surname>Monteiro</surname><given-names>HS</given-names></name><name><surname>Gon&#x000e7;alves-Machado</surname><given-names>L</given-names></name><name><surname>Guarnieri</surname><given-names>MC</given-names></name><name><surname>Ximenes</surname><given-names>RM</given-names></name><name><surname>Borges-Nojosa</surname><given-names>DM</given-names></name><etal/></person-group><article-title>Venomics and antivenomics of Bothrops erythromelas from five
+geographic populations within the Caatinga ecoregion of northeastern
+Brazil</article-title><source>J Proteomics</source><year>2015</year><volume>114</volume><fpage>93</fpage><lpage>114</lpage><pub-id pub-id-type="pmid">25462430</pub-id></element-citation></ref></ref-list><app-group><app id="appl"><title>Supplementary material</title><p>The following online material is available for this article:</p><p>
+<supplementary-material content-type="local-data" id="suppl1"><label>Additional file 1.</label><caption><title>Bottom-up MS/MS identification of peptides/proteins from adult
+<italic>Bothrops brazili</italic> (Par&#x000e1;, Brazil) venom
+fractionated by RP-HPLC and SDS-PAGE as displayed in <xref ref-type="fig" rid="f1">Figure 1</xref>.</title></caption><media xlink:href="1678-9199-jvatitd-26-e20190103-s1.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material>
+</p><p>
+<supplementary-material content-type="local-data" id="suppl2"><label>Additional file 2.</label><caption><title>Bottom-up MS/MS identification of protein spots from adult
+<italic>Bothrops brazili</italic> (Par&#x000e1;, Brazil) venom
+fractionated by 2-DE as displayed in <xref ref-type="fig" rid="f2">Figure 2</xref>.</title></caption><media xlink:href="1678-9199-jvatitd-26-e20190103-s2.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material>
+</p></app></app-group></back></article>

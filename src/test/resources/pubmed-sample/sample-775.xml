@@ -1,0 +1,679 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Polymers (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Polymers (Basel)</journal-id><journal-id journal-id-type="publisher-id">polymers</journal-id><journal-title-group><journal-title>Polymers</journal-title></journal-title-group><issn pub-type="epub">2073-4360</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">30979199</article-id><article-id pub-id-type="pmc">6432574</article-id><article-id pub-id-type="doi">10.3390/polym8040091</article-id><article-id pub-id-type="publisher-id">polymers-08-00091</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Drug Delivery Systems Obtained from Silica Based Organic-Inorganic Hybrids</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Oshiro Junior</surname><given-names>Jo&#x000e3;o Augusto</given-names></name><xref ref-type="aff" rid="af1-polymers-08-00091">1</xref></contrib><contrib contrib-type="author"><name><surname>Paiva Abu&#x000e7;afy</surname><given-names>Marina</given-names></name><xref ref-type="aff" rid="af1-polymers-08-00091">1</xref></contrib><contrib contrib-type="author"><name><surname>Berbel Manaia</surname><given-names>Elo&#x000ed;sa</given-names></name><xref ref-type="aff" rid="af1-polymers-08-00091">1</xref></contrib><contrib contrib-type="author"><name><surname>Lallo da Silva</surname><given-names>Bruna</given-names></name><xref ref-type="aff" rid="af1-polymers-08-00091">1</xref></contrib><contrib contrib-type="author"><name><surname>Chiari-Andr&#x000e9;o</surname><given-names>Bruna Galdorfini</given-names></name><xref ref-type="aff" rid="af1-polymers-08-00091">1</xref><xref ref-type="aff" rid="af2-polymers-08-00091">2</xref></contrib><contrib contrib-type="author"><name><surname>Aparecida Chiavacci</surname><given-names>Leila</given-names></name><xref ref-type="aff" rid="af1-polymers-08-00091">1</xref><xref rid="c1-polymers-08-00091" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Ding</surname><given-names>Jianxun</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-polymers-08-00091"><label>1</label>Faculdade de Ci&#x000ea;ncias Farmac&#x000ea;uticas, UNESP&#x02014;Univ Estadual Paulista, Araraquara-Ja&#x000fa;, Km 1, Araraquara 14800-903, Brazil; <email>joaooshiro@yahoo.com.br</email> (J.A.O.J.); <email>marina.abucafy@gmail.com</email> (M.P.A.); <email>elobm_elo@yahoo.com.br</email> (E.B.M.); <email>brunalallo@hotmail.com</email> (B.L.S.); <email>brunagchiari@yahoo.com.br</email> (B.G.C.-A.)</aff><aff id="af2-polymers-08-00091"><label>2</label>Departamento de Ci&#x000ea;ncias Biol&#x000f3;gicas e da Sa&#x000fa;de, Centro Universit&#x000e1;rio de Araraquara&#x02014;UNIARA, Araraquara 14800-903, Brazil</aff><author-notes><corresp id="c1-polymers-08-00091"><label>*</label>Correspondence: <email>leila@fcfar.unesp.br</email>; Tel.: +55-16-3301-6966; Fax: +55-16-3301-6900</corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>3</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>4</month><year>2016</year></pub-date><volume>8</volume><issue>4</issue><elocation-id>91</elocation-id><history><date date-type="received"><day>22</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>10</day><month>3</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors.</copyright-statement><copyright-year>2016</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>This is a review of hybrid materials based on silica as an inorganic phase used as drug delivery systems (DDS). Silica based DDS have shown effectivity when compared with traditional delivery systems. They present advantages such as: (a) ability to maintain the therapeutic range with minor variations; (b) prevention of local and systemic toxic effects; (c) plasma concentrations increase of substances with a short half-life; and (d) reduction of the number of daily doses, which may increase patient adherence to the treatment. These advantages occur due to the physical, chemical and optical properties of these materials. Therefore, we discuss the properties and characteristics of them and we present some applications, using different approaches of DDS to ensure therapeutic effectiveness and side effects reduction such as implantable biomaterial, film-forming materials, stimuli-responsive systems and others.</p></abstract><kwd-group><kwd>organic-inorganic materials</kwd><kwd>drug delivery systems</kwd><kwd>sol-gel process</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="sec1-polymers-08-00091"><title>1. Introduction: Hybrid Materials in Drug Delivery</title><p>A drug administration is considered successful when it ensures therapeutic effectiveness, minimizes the occurrence of side effects and does not introduce unacceptable levels of toxicity [<xref rid="B1-polymers-08-00091" ref-type="bibr">1</xref>,<xref rid="B2-polymers-08-00091" ref-type="bibr">2</xref>]. This can be achieved by discovering new drugs as well as by administrating existent drugs through new delivery devices, as controlled release systems. These systems stand out because they have several advantages over conventional methods of drug administration such as: the ability to incorporate lipophilic and hydrophilic substances, lower toxicity, prolonged permanence in the bloodstream, gradual and controlled drug release and safe administration (do not offer local inflammatory response). They also allow the use of suitable dosage and targeting the drug to specific sites [<xref rid="B3-polymers-08-00091" ref-type="bibr">3</xref>,<xref rid="B4-polymers-08-00091" ref-type="bibr">4</xref>,<xref rid="B5-polymers-08-00091" ref-type="bibr">5</xref>,<xref rid="B6-polymers-08-00091" ref-type="bibr">6</xref>].</p><p>The use of polymeric materials has attracted attention in the development of such drug controlled release devices due to their high capacity of processing and physical-chemical properties adapted through synthesis [<xref rid="B7-polymers-08-00091" ref-type="bibr">7</xref>,<xref rid="B8-polymers-08-00091" ref-type="bibr">8</xref>]. Thus, a wide variety of polymers have been tested in drug delivery devices, being cellulose derivatives and the polymeric matrices based on poly(ethylene oxide) (PEO) are the most used [<xref rid="B9-polymers-08-00091" ref-type="bibr">9</xref>]. However, PEO is widely used in the pharmaceutical industry, due to low toxicity, high capacity for swelling (hydrophilic character) and stability in the biological environment pH [<xref rid="B10-polymers-08-00091" ref-type="bibr">10</xref>].</p><p>In contrast, poly(propylene oxide) (PPO) has an additional methyl group giving to this polyether a more hydrophobic character than PEO. The combination of hydrophilic-hydrophobic character of these macromolecules is quite exploited for drug delivery systems [<xref rid="B11-polymers-08-00091" ref-type="bibr">11</xref>,<xref rid="B12-polymers-08-00091" ref-type="bibr">12</xref>,<xref rid="B13-polymers-08-00091" ref-type="bibr">13</xref>]. An example is the block copolymers, commercially known as Pluronic<sup>&#x000ae;</sup>, which are formed by blocks of PEO and PPO arranged on the basic structures OEx-OPy-OEx (usually abbreviated as PEO-PPO-PEO) [<xref rid="B10-polymers-08-00091" ref-type="bibr">10</xref>,<xref rid="B14-polymers-08-00091" ref-type="bibr">14</xref>,<xref rid="B15-polymers-08-00091" ref-type="bibr">15</xref>]. In these polymers, the control of drug release depends on the solubility, drug particle size and the polymer viscosity. When the release medium (e.g., water) is thermodynamically compatible with the polymer, it can occur a relaxation process of the polymer chain, which becomes more flexible, causing swelling and facilitating the diffusion of the drug out of the matrix. Besides, the water-soluble polymer (PEO) allows the erosion of matrix, which is another important factor in controlling the release rate. Thus, the release mechanisms from hydrophilic matrices can be explained by the complex relationship between the swelling, diffusion and erosion of matrix [<xref rid="B16-polymers-08-00091" ref-type="bibr">16</xref>].</p><p>Numerous drug delivery systems (DDS) have been developed with biologically compatible polymers [<xref rid="B17-polymers-08-00091" ref-type="bibr">17</xref>,<xref rid="B18-polymers-08-00091" ref-type="bibr">18</xref>,<xref rid="B19-polymers-08-00091" ref-type="bibr">19</xref>,<xref rid="B20-polymers-08-00091" ref-type="bibr">20</xref>] but not always their properties (mechanical, physical, chemical and optical) allow the development of multifunctional devices (subcutaneous implants, occlusive bandages and films) suitable for both controlled target and drug release. Therefore, the development of nanotechnology has provided the achievement of nanostructured polymers, which are an alternative to conventional polymeric systems. The nanometric modification of the structure of these materials offers optimized structural, optical and mechanical characteristics, besides others suitable characteristics for application in the controlled drug delivery. Among this new class of nanostructured polymers, the organic-inorganic hybrid materials, also known as nanocomposites, are highlighted [<xref rid="B21-polymers-08-00091" ref-type="bibr">21</xref>].</p><p>The use of the term &#x0201c;organic-inorganic hybrid materials&#x0201d; began in the last 35 years. The development of this area has been accelerated since the 80s, especially for the preparation of inorganic gels, impregnated by organic polymers [<xref rid="B22-polymers-08-00091" ref-type="bibr">22</xref>]. These organic-inorganic hybrid materials combine synergistically the physicochemical characteristics of their constituents, allowing the achievement of unique properties, making this class of materials promising candidates for the development of new multifunctional systems with wide applications [<xref rid="B23-polymers-08-00091" ref-type="bibr">23</xref>,<xref rid="B24-polymers-08-00091" ref-type="bibr">24</xref>,<xref rid="B25-polymers-08-00091" ref-type="bibr">25</xref>,<xref rid="B26-polymers-08-00091" ref-type="bibr">26</xref>]. The organic phase provides specific physical and/or chemical properties (optical, electrical, reactivity), while the inorganic phase increases the mechanical strength, thermal stability, allows to modulate the refractive index, and favors the rheological properties of the final material, depending on its shapes and sizes [<xref rid="B27-polymers-08-00091" ref-type="bibr">27</xref>,<xref rid="B28-polymers-08-00091" ref-type="bibr">28</xref>,<xref rid="B29-polymers-08-00091" ref-type="bibr">29</xref>].</p><p>Organic-inorganic hybrid materials are nanocomposites in which occurs the interpenetration of the two phases in a nanometer scale [<xref rid="B30-polymers-08-00091" ref-type="bibr">30</xref>]. When the phases have nanometric dimensions (1&#x02013;500 nm) they exhibit a high surface area, promoting better dispersion in the polymer matrix. This phenomenon improves the physical characteristics of the composite that depend on the homogeneity of the material [<xref rid="B31-polymers-08-00091" ref-type="bibr">31</xref>,<xref rid="B32-polymers-08-00091" ref-type="bibr">32</xref>]. The nature of the organic-inorganic interface is used to define three classes of hybrid materials [<xref rid="B33-polymers-08-00091" ref-type="bibr">33</xref>]: class I is that which exhibit weak bonds between the two phases (van der Waals bonds, hydrogen bonds or electrostatic bonds); Class II presents strong bonds between the two phases (covalent or ionic bonds); Class III presents a combination of interactions that occurring in both class I and II.</p><p>In the class I hybrid materials, the process of preparation involves the addition of non-polymerizable organic molecular precursors, which are soluble in the medium that is obtained in pure silica; however, it does not participate directly in the reaction of gelation [<xref rid="B33-polymers-08-00091" ref-type="bibr">33</xref>]. In the Class II hybrids, polymerizable organosilanes are used as precursors of organic component that have organic group bonded directly to silicon (Si&#x02013;C non-hydrolyzing). Hybrids of this class exhibit greater thermal stability when compared to the organic component of class I [<xref rid="B34-polymers-08-00091" ref-type="bibr">34</xref>,<xref rid="B35-polymers-08-00091" ref-type="bibr">35</xref>,<xref rid="B36-polymers-08-00091" ref-type="bibr">36</xref>].</p><p>The <xref ref-type="fig" rid="polymers-08-00091-f001">Figure 1</xref> shows a representative scheme of different classes of organic-inorganic hybrid materials.</p><p>Recent reviews provide more focused overviews about the role of nanostructure of different materials in biological applications, thereby we will not deepen this discussion (for reviews, see [<xref rid="B37-polymers-08-00091" ref-type="bibr">37</xref>,<xref rid="B38-polymers-08-00091" ref-type="bibr">38</xref>]).</p><p>Several hybrid materials are synthesized and processed from of a chemical route called sol-gel. In this route, an organosilane precursor is polymerized in a matrix of organic macromolecules. The sol term is used to define a dispersion of colloidal particles (size between 1 to 999 nm) stabilized in a fluid, while the gel term is used to refer to a system formed by the rigid structure of colloidal particles (colloidal gel) or polymer chains (polymer gel) that immobilizes the liquid phase in the interstices [<xref rid="B39-polymers-08-00091" ref-type="bibr">39</xref>]. This process is based on: (a) copolymerization of functional organosilanes, metal alkoxides and macromonomers; (b) encapsulation of organic compounds based in silica or metal alkoxides; (c) functionalization of nanoparticles, nanoclays or other compounds with lamellar structures, <italic>etc.</italic> The use of sol-gel process in the preparation of these new materials allows the production of gels (which can be used in masks or occlusive dressings), thin films, powders and microspheres at room temperature. The hybrid materials composed by the silica as inorganic component are attractive for technological applications, mainly due to the high stability of the Si&#x02013;C bond. Moreover, Si&#x02013;O&#x02013;Si networks are important in terms of transparency, thermal stability, and mechanical strength [<xref rid="B40-polymers-08-00091" ref-type="bibr">40</xref>,<xref rid="B41-polymers-08-00091" ref-type="bibr">41</xref>]. In addition, these silica-based hybrid materials exhibit biocompatibility [<xref rid="B42-polymers-08-00091" ref-type="bibr">42</xref>].</p><p>The chemical reactions involved in a conventional sol-gel process, based on alkoxides derivatives are: hydrolysis (step 1), where the OR groups are replaced by silanol groups (Si&#x02013;OH); subsequently, these silanol groups can react with each other (step 2), or with other groups OR (step 3) via condensation reactions by forming siloxane bonds, giving a three-dimensional network of silica [<xref rid="B33-polymers-08-00091" ref-type="bibr">33</xref>,<xref rid="B39-polymers-08-00091" ref-type="bibr">39</xref>].</p><disp-formula>SiOR + H<sub>2</sub>O &#x02192; SiOH + ROH<label>(step 1)</label></disp-formula><disp-formula>SiOH + SiOH &#x02192; SiOSi + H<sub>2</sub>O<label>(step 2)</label></disp-formula><disp-formula>SiOH + SiOR &#x02192; SiOSi + ROH<label>(step 3)</label></disp-formula><p>A great control of this gelling process could be reached with these hybrids. This is due to the silicon precursor, which decreases the rate of gelling reaction [<xref rid="B39-polymers-08-00091" ref-type="bibr">39</xref>]. Thus, it is possible to modulate the final properties of materials such as size and shape of particles, volume and pore size distribution [<xref rid="B33-polymers-08-00091" ref-type="bibr">33</xref>]. Due to these unique characteristics, the silica-based materials have applications in several areas such as adsorbent for dye, electronics, optics, mechanics, energy, environment, biology and medicine. In these fields, silica-based materials have been used as membranes and separation devices, solar cells, catalysts and sensors, drug carriers, among others [<xref rid="B43-polymers-08-00091" ref-type="bibr">43</xref>,<xref rid="B44-polymers-08-00091" ref-type="bibr">44</xref>,<xref rid="B45-polymers-08-00091" ref-type="bibr">45</xref>,<xref rid="B46-polymers-08-00091" ref-type="bibr">46</xref>,<xref rid="B47-polymers-08-00091" ref-type="bibr">47</xref>,<xref rid="B48-polymers-08-00091" ref-type="bibr">48</xref>,<xref rid="B49-polymers-08-00091" ref-type="bibr">49</xref>].</p><p>This review summarizes the use of silica based organic-inorganic hybrid materials for application in drug delivery systems. <xref ref-type="fig" rid="polymers-08-00091-f002">Figure 2</xref> presents the number of publications related to the term &#x0201c;organic-inorganic&#x0201d; and &#x0201c;drug delivery&#x0201d; and shows the increase of these terms in recent years.</p></sec><sec id="sec2-polymers-08-00091"><title>2. Applications of Organic-Inorganic Hybrids Materials in Drug Delivery</title><p>In this section, we mainly introduce silica based drug delivery systems, which showed effectivity when compared with traditional delivery systems. They present advantages such as: (a) ability to maintain the therapeutic range with minor variations; (b) prevention of local and systemic toxic effects; (c) allow to increase the plasma concentrations of substances with half-live short; and (d) allow the reduction of the number of daily doses, which may increase patient adherence to the treatment [<xref rid="B5-polymers-08-00091" ref-type="bibr">5</xref>,<xref rid="B6-polymers-08-00091" ref-type="bibr">6</xref>].</p><p>Due to the suitable mechanical, physical, chemical and optical properties of these materials, it is possible to develop multifunctional systems for drug delivery such as stimuli-responsive systems, biomaterials, film forming and others.</p><sec id="sec2dot1-polymers-08-00091"><title>2.1. Stimuli-Responsive Systems</title><p>The polymers exhibit low critical solution temperature (LCST), so an increase of system temperature decreases its solubility in water due to changing the polarity and consequent predominance of hydrophobic interactions. Thus, these materials have attracted attention to the development of systems with the aim of releasing the drug after pathophysiological stimuli, providing optimal therapeutic levels and low toxicity [<xref rid="B51-polymers-08-00091" ref-type="bibr">51</xref>,<xref rid="B52-polymers-08-00091" ref-type="bibr">52</xref>].</p><p>Gao and co-workers [<xref rid="B51-polymers-08-00091" ref-type="bibr">51</xref>] prepared a thermoresponsive hybrid polyvinyl alcohol (PVA)/Poly(<italic>N</italic>-isopropylacrylamide) (PNIPAAm) hydrogel using PVA and silica as matrix and porogenic agent, respectively. Rhodamine B (RB) was the drug model for the drug release study. The PVA pure and PVA/PNIPAAm were used to drug release study in predetermined temperatures (20 and 38 &#x000b0;C). It was concluded that PVA pure have not changed the release behavior in relation to different temperatures while the PVA/PNIPAAm influences significantly the release behavior, since RB is released slowly at 20 &#x000b0;C and RB release rate is increased at 38 &#x000b0;C.</p><p>Among stimuli-responsive systems, the pH responsive systems are more interesting since the human pH varies in several organs and target tissues. Therefore, in order to establish more effective treatments, Corma <italic>et al.</italic> [<xref rid="B53-polymers-08-00091" ref-type="bibr">53</xref>] reported the use of organic-inorganic capped liposome with bioactive molecules (Doxorubicin) encapsulated into its aqueous cavity. This organic-inorganic shell could stabilize the internal liposomal phase and, consequently, isolate and protect the drug molecules. These liposomes system were developed with lecitine in chloroform/water. The formation of organic-inorganic phase around liposome is formed by reacting of pent-4-enoic acid and propen-2en-1-ol under reflux. The precursor pent-4-enoic acid allyl ester is bonded to silic units and results in ester-bridged silsesquioxane (BTEPAA). Other assay was performed to evaluate the amount of doxorubicin released into buffered aqueous solutions with different and controlled pH values (from pH 2.0 to 12.0, over 48 h). The authors observed that this system is stable at acid or neutral pH values and only at basic pH occurs the complete release of doxorubicin. They also analyzed, <italic>in vitro</italic>, the application of these systems into human glioma cells. The results suggest that the system achieved high values of cell mortality when compared with other drug delivery systems in the literature [<xref rid="B53-polymers-08-00091" ref-type="bibr">53</xref>]. This system is interesting for the treatment of solid tumors due to the acidic extracellular pH environment.</p><p>Popat <italic>et al.</italic> [<xref rid="B54-polymers-08-00091" ref-type="bibr">54</xref>] studied the pH responsive organic-inorganic system with the aim of improving therapeutic efficacy of ibuprofen. The system was prepared from covalent binding of positively charged polymer chitosan (Cs) onto phosphonate functionalized mesoporous silica nanoparticles (MSN) and MSN pure (without chitosan) was used as control group. In the drug release study, it was used two different pH media, pH 5 acetate buffer (simulating endosome pH) and pH 7.4 (simulating normal tissue pH). The authors observed that the MSN system, when pure, is able to reach the saturation of drug release in both pH after 4 h. The MSN coated by chitosan demonstrated different release rates. At pH 7.4, only 20% of ibuprofen was released and, at pH 5.0, it reached 90% after 8 h. The authors explain these behaviors by the fact that chitosan has low degradability and solubility at pH 7.4. These systems represent an important advance as pH-responsive nanocarrier and possess a drug modified release profile, increasing the effectiveness of treatment by reducing side effects [<xref rid="B54-polymers-08-00091" ref-type="bibr">54</xref>].</p><p>Wan <italic>et al.</italic> [<xref rid="B55-polymers-08-00091" ref-type="bibr">55</xref>] incorporated rhodamine B (RhB) into fluorescent pH sensing organic-inorganic system prepared from a mixture of random copolymers composed of <italic>N</italic>-(acryloxy)succinimide (NAS), oligo-(ethylene glycol) monomethyl ethermethacrylate (OEGMA), and 1,8-naphthalimide-based fluorescent pH-sensing monomer (NaphMA), which were anchored at the surface of mesoporous silica nanoparticles (MSN) via surface-initiated addition-fragmentation chain transfer (RAFT) polymerization. In this study, dithiothreitol (DTT) was used, which can cleave the disulfide linkage to open blocked nanopores, being the RhB release rate easily adjusted by adding different concentrations of DTT. It was verified that occurs an increase in the release of RhB with the increase of DTT concentration. The fluorescence properties were evaluated in various pH and showed that an increase intensity occurs in the range pH 5&#x02013;7, which is suitable for monitoring intracellular pH changes and diseased tissues [<xref rid="B55-polymers-08-00091" ref-type="bibr">55</xref>].</p><p>Organic-inorganic materials containing nanoparticles of magnetite (Fe<sub>3</sub>O<sub>4</sub>) were developed by Molina <italic>et al.</italic> [<xref rid="B56-polymers-08-00091" ref-type="bibr">56</xref>] in order to achieve controlled drug delivery by magnetic field stimuli application. The system was composed by PEO (<italic>O</italic>,<italic>O</italic>&#x02032;-bis(2-aminopropyl)-poly(propylene oxide) with 3-(isocyanatopropyl)-triethoxysilane, in a molar ratio of 1:2 and the drug model was sodium diclofenac. These authors analyzed the release of these systems without a magnetic field and with the application of an alternating magnetic field (0.25 T, 220 kHz). There was an increase in the amount of drug release from the system when the magnetic field was applied.</p><p><xref ref-type="fig" rid="polymers-08-00091-f003">Figure 3</xref> shows a scheme of the stimuli-responsive organic-inorganic material systems. The zoom shows a representative structural formula of the molecules of stimuli-responsive organic-inorganic materials and the possible sites of bonding with drugs. The release of the drug in this system can occur by external stimulus such as magnetic field, ultrasound, light, or internal stimulus as pH and temperature.</p></sec><sec id="sec2dot2-polymers-08-00091"><title>2.2. Implantable Biomaterials</title><p>An interesting example of DDS application is the use as biomaterials to repair the human body, being called third-generation biomaterials, since they are designed to interact with the biological environment. Their surface properties such as topography, surface charge, and all aspects related to their chemical composition surface are essential to obtain a positive response when these materials are in contact with biological tissue. This promotes cell adhesion, proliferation and differentiation [<xref rid="B57-polymers-08-00091" ref-type="bibr">57</xref>]. <xref ref-type="fig" rid="polymers-08-00091-f004">Figure 4</xref> shows the action of biomaterials in the bone defect repair.</p><p>Colilla <italic>et al.</italic> [<xref rid="B58-polymers-08-00091" ref-type="bibr">58</xref>] studied the release of alendronate (biphosphonates widely used in the treatment of diseases with increased bone resorption) incorporated in the organic-inorganic systems, using Pluronic<sup>&#x000ae;</sup> P123 as mesostructure directing agent. The template agent was dissolved in acid aqueous solution containing a certain amount of H<sub>3</sub>PO<sub>4</sub> (85%, Aldrich) (P-SBA15 sample) or H<sub>3</sub>PO<sub>4</sub> together with HCl (37%, Aldrich) (P-SBA15HCl sample). Tetraethyl orthosilicate was used as a silica source in the hybrid sample and also as pure silica mesoporous matrices to compare with hybrid matrices. They observed that the release rate of alendronate were higher in materials containing phosphorous (P-SBA15HCl and P-SBA15 sample) in relation to the control materials. The incorporation of phosphorous into the mesoporous silica provided the improvement of drug incorporation and sustained release compared to pure silica mesoporous matrices [<xref rid="B58-polymers-08-00091" ref-type="bibr">58</xref>]. These systems can be an alternative to the treatment of diseases with increased bone resorption such as osteoporosis and osteolytic tumors. Moreover, they promote the decrease of bisphosphonates side effects incidence, since they exhibit low intestinal absorption and require a high dose to cause gastrointestinal disorders, chronic renal failure and others [<xref rid="B59-polymers-08-00091" ref-type="bibr">59</xref>]. </p><p>In the work conducted by Xue and Shi [<xref rid="B61-polymers-08-00091" ref-type="bibr">61</xref>], gentamicin could be loaded in the organic-inorganic systems to obtain bone filling. The gentamicin is an antibiotic that can prevent a typical aggravation caused by biomaterials used in bone filling, called as osteomyelitis, which is a bone inflammation caused by pyogenic organisms. The gentamicin was incorporated into the system based on poly(<sc>d</sc>,<sc>l</sc>-lactide-<italic>co</italic>-glycolide) (PLGA)/mesoporous silica (PS) hybrid microspheres and mesoporous silica and drug loading efficiency were 45.6 and 22.4 wt %, respectively. The amount of drug released after 24 h reached ~77 wt % of mesoporous silica without PLGA, while PLGA/mesoporous silica reached ~41 wt %. It indicates that the polymeric phase acted as physical barrier and blocked the rapid release of drug during the first day. After 25 days, the release reached ~58 wt %, and was significantly slower than that exhibited by the mesoporous silica without PLGA, which reached ~90 wt % of release in 20 days. Xue and Shi suggested that in this stage occurs the control of the drug release from the mesoporous silica that was attached to the organic surface [<xref rid="B61-polymers-08-00091" ref-type="bibr">61</xref>].</p></sec><sec id="sec2dot3-polymers-08-00091"><title>2.3. Film-Forming Materials</title><p>Film-forming materials represent an alternative to conventional Dermal Therapeutic Systems and Transdermal Therapeutic Systems because they offer the advantage of functional and comfortable treatment, since they are transparent, permitting the visualization of the wound and can be removed easier [<xref rid="B62-polymers-08-00091" ref-type="bibr">62</xref>]. The use of organic-inorganic hybrid material named ureasil-polyether is an interesting example of film forming material described on the literature. <xref ref-type="fig" rid="polymers-08-00091-f005">Figure 5</xref> shows the structural formulas of the molecules of ureasil-PEO and ureasil-PPO hybrid films and the possible sites of bonding with the biological substrate and drugs.</p><p>Souza <italic>et al.</italic> [<xref rid="B63-polymers-08-00091" ref-type="bibr">63</xref>] evaluated the ureasil-polyether materials for this application. The adherence to the skin, the biocompatibility and the absence of occlusivity are required aspects for the application of a film-forming material in the protection of wounds from further injury or as transdermal drug delivery device. The system was prepared from the reaction of terminal amino-propyl groups of the functionalized poly(ethylene oxide) or poly(propylene oxide) with 3-(isocyanatopropyl)-triethoxysilane (Aldrich), using a molar ratio of 1:2. The results reveal that ureasil-polyether hybrids materials present semi-occlusive properties, enable the permeation of a portion of water vapor and retain the other part to hydrate the stratum corneum. It also exhibits biocompatibility and high adhesion force. Finally, this novel approach to drug-delivery systems presents suitable sensorial for dermal application.</p><p>Aiming to improve the characteristics of the ureasil-polyether films, Oshiro-Jr. <italic>et al.</italic> [<xref rid="B64-polymers-08-00091" ref-type="bibr">64</xref>] conducted a study with the purpose to assess the influence of acid (hydrochloric acid) and basic (ammonium fluoride) catalyst in the hydrolysis and condensation reactions occurring on the formation and bioadhesion of ureasil-polyether films. The results reveal the nature of the catalyst influence on the speed and in the mechanism of film formation. Different mechanisms can change the speed of the drying process involved in the film formation, resulting in structural modifications that can be responsible to irregular film formations. The NH<sub>4</sub>F catalyst led to the formation of an irregular film, whereas HCl favored the formation of homogeneous and transparent films. This can be explained by the kinetics of the reactions promoted by the catalyst. The acid catalysis reaction is preceded by fast protonation of the substituents OR&#x02022; or OH&#x02022; attached to the Si, increasing the speed of reaction and resulting in a tendency to produce a more linear network, which results in more homogeneous films (15 mm wide and 0.5 mm thick) [<xref rid="B64-polymers-08-00091" ref-type="bibr">64</xref>]. Thus, the catalyst NH<sub>4</sub>F did not form the film with the expected homogeneity within an acceptable time established by Schoeder <italic>et al.</italic> [<xref rid="B62-polymers-08-00091" ref-type="bibr">62</xref>].</p><p>These hybrids are flexible, transparent and insoluble in water. Depending on the organic phase used, it can present hydrophilic or hydrophobic character. For this purpose, Oshiro-Jr. <italic>et al.</italic> [<xref rid="B65-polymers-08-00091" ref-type="bibr">65</xref>] incorporated silver sulfadiazine into ureasil-polyether hybrids films to treat burn wounds using two polymers (1 hydrophilic (PEO) and 1 hydrophobic (PPO)) as the organic phase to assess the influence of hydrophilic/hydrophobic character in the rate of drug release. After five days of an <italic>in vitro</italic> experiment, it was observed that the amount of drug released from ureasil-PPO reached 10.6%, which was significantly lower when compared with ureasil-PEO that reached 24% of drug released. These results demonstrated that the drug release rate is dependent on the polarity characteristics of the matrices: more hydrophilic matrices present swelling capacity and favor the faster release of the drug.</p><p>Another example of these hybrid materials was the study conducted by Paredes <italic>et al.</italic> [<xref rid="B66-polymers-08-00091" ref-type="bibr">66</xref>], which reveals the possibility of fine-tuning the release profile of drug (pramoxine 5% (<italic>w</italic>/<italic>w</italic>)) incorporated in ureasil-PEO containing chitosan polysaccharide. Chitosan is an abundant natural polysaccharide that presents biocompatibility and can be used in drug delivery systems to improve the rate of drug release. It was observed that ureasil-PEO reached 100% of pramoxine released after 180 min. On the other side, the presence of just 3% chitosan in the ureasil-PEO decreased the rate of release to 30% after 180 min. This could be because hydrophobic interactions occur between the chains of chitosan and the pramoxine molecules reducing the release rates.</p></sec><sec id="sec2dot4-polymers-08-00091"><title>2.4. New Approaches of DDS</title><p>Novel vehicles have been increasingly explored by researchers with the aim of improving transport of drugs through cell membranes. Several peptides have the ability to translocate through cell membranes and are called cell-penetrating peptides (CPPs). These CPP drugs attached to DDS is important in the protection of vehicle CPPs-drug from enzymatic action or chemical decomposition during storage or administration [<xref rid="B67-polymers-08-00091" ref-type="bibr">67</xref>]. In this way, Gao <italic>et al.</italic> [<xref rid="B68-polymers-08-00091" ref-type="bibr">68</xref>] developed organic-inorganic systems for the storage and CPP drug delivery using Pluronic<sup>&#x000ae;</sup>P127 and a Tetraethyl orthosilicateas silica source. The drug model used was fluorescein isothiocyanate (FITC) and octaarginine (R8) was used as a drug vector. In the first 36 hours of the drug release study, a very slow FITC-R8 release from mesostructured silica was observed. The amount of drug released after 36 h was accelerated and reached 85% in five days. The FITC-R8 pure and FITC-R8 with mesostructure were incubated with prostate cancer cells, demonstrating low toxicity to this cell line. In addition, this experiment proved the uptake of the FITC-R8 by the cells in the period of 96 h, whereas no signals were observed in the pure FITC-R8 [<xref rid="B68-polymers-08-00091" ref-type="bibr">68</xref>].</p><p>Organic-inorganic materials containing ibuprofen were developed by Mu&#x000f1;oz <italic>et al.</italic> [<xref rid="B69-polymers-08-00091" ref-type="bibr">69</xref>], using hexadecyltrimethylammonium, dodecyltrimethylammonium surfactants with different chain sizes (16 and 12 carbon atoms, respectively). They were treated with 3-aminopropyl-triethoxysilane (AP-TES) to obtain both the aminopropyl-modified named MCM-4116a and MCM-4112a (method A). The MCM-4116b and MCM-4112b were synthesized by reaction of calcined MCM-41 and AP-TES (method B). These authors analyzed the formulations (MCM-4116a, MCM-4112a, MCM-4116b and MCM-4112b) by an <italic>in vitro</italic> release assay. The release rate was compared with original MCM-41 synthetized by Vallet-Regiet al. [<xref rid="B70-polymers-08-00091" ref-type="bibr">70</xref>]. The ibuprofen release rate in the material MCM-4116a was identical to the original MCM-41 (50% released after 7 h of test). However, the release rate from the MCM-4116b was slower (50% released after 24 h of test). No differences were observed between materials with different chain sizes, and the material synthetized by the method B showed an improvement in the controlled-release properties due to the minor influence of the pore size [<xref rid="B69-polymers-08-00091" ref-type="bibr">69</xref>].</p><p>Lin <italic>et al.</italic> [<xref rid="B71-polymers-08-00091" ref-type="bibr">71</xref>] investigated the preparation and characterization of organic-inorganic materials based on polymethylmethacrylate (PMMA)/silica with various propyl methacrylate (MSMA) proportion, containing aspirin for biological applications. PMMA was already tested to repair bone-defects because it is biocompatible and bio-stable. The modification of PMMA with silica enables the bond to living tissues without fibrous capsule formation and the drug release control. The study of the release profile was performed with various concentrations of silica in the matrix of PMMA and various concentrations of MSMA with silica (10%) to allow the comprehension of the influence of organic-inorganic interface on drug release rate. The results showed that drug release rate increased with the increase of silica content, and the drug release rate decreased with the increasing of MSMA [<xref rid="B71-polymers-08-00091" ref-type="bibr">71</xref>]. This fact is explained because the increased of silica in the sample created a major interfacial area (particle-polymer), which increased the water penetration and diffusion of drug.</p><p>Santilli <italic>et al.</italic> [<xref rid="B60-polymers-08-00091" ref-type="bibr">60</xref>] suggested the potential application of ureasil cross-linked polyether materials for pharmaceutical application (contact lenses, patches and implantable drug delivery systems). In this study, four polymers were used, two of them being hydrophilic and the other two being hydrophobic and of different molecular weights, in order to verify the influence on the sodium diclofenac (DCFNa) released from the hybrid material. The precursors were prepared from a functionalized polyether, based on poly(ethylene oxide) (NH<sub>2</sub>-PEO-NH<sub>2</sub>) (<italic>M</italic><sub>w</sub> 500&#x02013;1900 g&#x000b7;mol<sup>&#x02212;1</sup>) (hydrophilic) (PEO), poly(propylene oxide) (NH<sub>2</sub>-PPO-NH<sub>2</sub>) (<italic>M</italic><sub>w</sub> 400&#x02013;2000 g&#x000b7;mol<sup>&#x02212;1</sup>)(hydrophobic) (PPO), and modified alkoxide, 3-(isocyanatopropyl)-triethoxysilane (IsoTrEOS) was added into the polymers(molar ratio of the polymer/alkoxide = 1:2). <italic>In vitro</italic> assays of drug release showed that DCFNa was released much faster from the hybrid matrices based on PEO. For the hydrophilic ureasil-PEO matrices, the drug molecules can easily diffuse into the release medium through the free volume of the swollen network. Under these conditions, the diffusion of dissolved drug molecules to the liquid environment is a time&#x02013;dependent process that can be predicted by assuming a pseudo first&#x02013;order kinetic. On the other hand, the lower hydrophilicity of the hybrid matrices PPO hinders the hydration and dissolution of the drug and its diffusion into the medium [<xref rid="B60-polymers-08-00091" ref-type="bibr">60</xref>].</p><p>This same research group demonstrated that these materials have the ability to incorporate other compounds such as the antitumoral cisplatin. The release profile of these compounds follows the same mechanism described for DCFNa [<xref rid="B72-polymers-08-00091" ref-type="bibr">72</xref>]. This versatility is due to the important existing groups in the molecule. <xref ref-type="fig" rid="polymers-08-00091-f006">Figure 6</xref> presents the links between sites of hybrid material and molecules (I, II and III). These ureasil-polyether materials have two types of electronegative bonding sites, the oxygens of ether type (II) in the polymer chain, silanol group (III) and also an electropositive binding site (NH group (I)) of the urea grouping, which can bind electronegative molecules. Lopes <italic>et al.</italic> [<xref rid="B73-polymers-08-00091" ref-type="bibr">73</xref>] revealed through Raman data that these drug&#x02013;matrix interactions involve mainly the amine and carbonyl groups of the DCFN, a molecule through the formation of a new hydrogen bonding structure with urea groups present at the end of PEO chains. Because of this drug&#x02013;matrix hydrogen bonding, the total amount of DCFN delivered decreases as the proportion of ureasil linkages increases, <italic>i.e.</italic>, by lowering the PEO chain length from PEO1900 to PEO500.</p><p>Herculano <italic>et al.</italic> [<xref rid="B74-polymers-08-00091" ref-type="bibr">74</xref>] showed that the release of nitric oxide (NO) could be improved when incorporated in ureasil-PPO (<italic>M</italic><sub>w</sub> 400 g&#x000b7;mol<sup>&#x02212;1</sup>). NO is a free radical indicated for the treatment of blood vessel protection. This action is associated with (i) maintenance of vascular tone; (ii) blood pressure regulation; (iii) prevention of platelet aggregation; and (iv) antioxidative effect [<xref rid="B75-polymers-08-00091" ref-type="bibr">75</xref>,<xref rid="B76-polymers-08-00091" ref-type="bibr">76</xref>]. However, the detection of NO is a challenge because it is highly reactive, which means it has short lifetimes in living organisms, depending on the environment, which could vary from milliseconds to minutes. Thus, the authors use encapsulation of iron(II)-diethyldithiocarbamate (FeDETC) in various matrices for either the measurement of NO or its release due to the affinity between NO and the iron complexes, allowing the use of electron paramagnetic resonance (EPR) to radical detection [<xref rid="B77-polymers-08-00091" ref-type="bibr">77</xref>]. The studies showed that it was possible to detect the release of NO after 40 days [<xref rid="B74-polymers-08-00091" ref-type="bibr">74</xref>]. This system is an important advance in the development of DDS containing NO for the treatment of heart diseases.</p><p>The discussion made in the research papers presented the above account for the innovation that the organic-inorganic hybrid materials represent. In brief, these materials are able to incorporate hydrophilic and lipophilic drugs, which could be used by consumer/patients by various pathways.</p><p>The rate of release can also be controlled, depending on the composition of the organic-inorganic hybrid system. <xref rid="polymers-08-00091-t001" ref-type="table">Table 1</xref> helps in the comprehension about the influence of the composition in the time of drug release.</p></sec></sec><sec sec-type="conclusions" id="sec3-polymers-08-00091"><title>3. Conclusions</title><p>Hybrid materials of the organic-inorganic type represent a new alternative to conventional drug delivery systems. Controlled release offers many advantages over conventional release forms such as high release efficiency, precise control of the dosage form for prolonged periods and decreased toxicity. Among the organic-inorganic hybrid materials, silica bases stand out due to the high stability of the Si&#x02013;C bond. Moreover, the Si&#x02013;O&#x02013;Si bond confers transparency, thermal stability and mechanical resistance. The versatility of these materials can be explored for the development of several kinds of controlled drug delivery devices like implants, adhesives, masks, microspheres and others. These devices are a new approach for treatment of several diseases; however, more studies are necessary to evaluate their biocompatibility.</p></sec></body><back><ack><title>Acknowledgments</title><p>Funda&#x000e7;&#x000e3;o de Amparo &#x000e0; Pesquisa do Estado de S&#x000e3;o Paulo (FAPESP) and Programa de Apoio ao Desenvolvimento Cient&#x000ed;fico da Faculdade de Ci&#x000ea;ncias Farmac&#x000ea;uticas do Campus de Araraquara da UNESP (PADC/FCF-UNESP) for the financial support.</p></ack><notes><title>Author Contributions</title><p>Jo&#x000e3;o Augusto Oshiro Junior was involved in conceiving ideas and overall management, data collection and evaluation, publication and writing. Marina Paiva Abu&#x000e7;afy, Elo&#x000ed;sa Berbel Manaia, Bruna Lallo da Silva, and Bruna Galdorfini Chiari-Andr&#x000e9;o was involved in data collection and evaluation and publication writing. Leila Aparecida Chiavacci was involved in conceiving ideas and overall management.</p></notes><notes notes-type="COI-statement"><title>Conflict of Interests</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-polymers-08-00091"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Belting</surname><given-names>M.</given-names></name><name><surname>Sandgren</surname><given-names>S.</given-names></name><name><surname>Wittrup</surname><given-names>A.</given-names></name></person-group>
+<article-title>Nuclear delivery of macromolecules: Barriers and carriers</article-title>
+<source>Adv. Drug Deliv. Rev.</source>
+<year>2005</year>
+<volume>57</volume>
+<fpage>505</fpage>
+<lpage>527</lpage>
+<pub-id pub-id-type="doi">10.1016/j.addr.2004.10.004</pub-id>
+<pub-id pub-id-type="pmid">15722161</pub-id></element-citation></ref><ref id="B2-polymers-08-00091"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peppas</surname><given-names>N.A.</given-names></name><name><surname>Hilt</surname><given-names>J.Z.</given-names></name><name><surname>Khademhosseini</surname><given-names>A.</given-names></name><name><surname>Langer</surname><given-names>R.</given-names></name></person-group>
+<article-title>Hydrogels in biology and medicine: From molecular principles to bionanotechnology</article-title>
+<source>Adv. Mater.</source>
+<year>2006</year>
+<volume>18</volume>
+<fpage>1345</fpage>
+<lpage>1360</lpage>
+<pub-id pub-id-type="doi">10.1002/adma.200501612</pub-id>
+</element-citation></ref><ref id="B3-polymers-08-00091"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>Z.</given-names></name><name><surname>Gao</surname><given-names>W.</given-names></name><name><surname>Hu</surname><given-names>H.</given-names></name><name><surname>Ma</surname><given-names>K.</given-names></name><name><surname>He</surname><given-names>B.</given-names></name><name><surname>Dai</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Zhang</surname><given-names>Q.</given-names></name></person-group>
+<article-title>Novel thermo-sensitive hydrogel system with paclitaxel nanocrystals: High drug-loading, sustained drug release and extended local retention guaranteeing better efficacy and lower toxicity</article-title>
+<source>J. Control Release</source>
+<year>2014</year>
+<volume>174</volume>
+<fpage>161</fpage>
+<lpage>170</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jconrel.2013.10.026</pub-id>
+<pub-id pub-id-type="pmid">24512789</pub-id></element-citation></ref><ref id="B4-polymers-08-00091"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Loira-Pastoriza</surname><given-names>C.</given-names></name><name><surname>Todoroff</surname><given-names>J.</given-names></name><name><surname>Vanbever</surname><given-names>R.</given-names></name></person-group>
+<article-title>Delivery strategies for sustained drug release in the lungs</article-title>
+<source>Adv. Drug Deliv. Rev.</source>
+<year>2014</year>
+<volume>75</volume>
+<fpage>81</fpage>
+<lpage>91</lpage>
+<pub-id pub-id-type="doi">10.1016/j.addr.2014.05.017</pub-id>
+<pub-id pub-id-type="pmid">24915637</pub-id></element-citation></ref><ref id="B5-polymers-08-00091"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chavanpatil</surname><given-names>M.D.</given-names></name><name><surname>Jain</surname><given-names>P.</given-names></name><name><surname>Chaudhari</surname><given-names>S.</given-names></name><name><surname>Shear</surname><given-names>R.</given-names></name><name><surname>Vavia</surname><given-names>P.R.</given-names></name></person-group>
+<article-title>Novel sustained release, swellable and bioadhesive gastroretentive drug delivery system for ofloxacin</article-title>
+<source>Int. J. Pharm.</source>
+<year>2006</year>
+<volume>316</volume>
+<fpage>86</fpage>
+<lpage>92</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ijpharm.2006.02.038</pub-id>
+<pub-id pub-id-type="pmid">16567072</pub-id></element-citation></ref><ref id="B6-polymers-08-00091"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vendruscolo</surname><given-names>C.W.</given-names></name><name><surname>Andreazza</surname><given-names>I.F.</given-names></name><name><surname>Ganter</surname><given-names>J.L.M.S.</given-names></name><name><surname>Ferrero</surname><given-names>C.</given-names></name><name><surname>Bresolin</surname><given-names>T.M.B.</given-names></name></person-group>
+<article-title>Xanthan and galactomannan (from <italic>M. scabrella</italic>) matrix tablets for oral controlled delivery of theophylline</article-title>
+<source>Int. J. Pharm.</source>
+<year>2005</year>
+<volume>296</volume>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ijpharm.2005.02.007</pub-id>
+<pub-id pub-id-type="pmid">15885450</pub-id></element-citation></ref><ref id="B7-polymers-08-00091"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kabanov</surname><given-names>A.V.</given-names></name><name><surname>Batrakova</surname><given-names>E.V.</given-names></name><name><surname>Alakhov</surname><given-names>V.Y.</given-names></name></person-group>
+<article-title>Pluronic<sup>&#x000ae;</sup> block copolymers as novel polymer therapeutics for drug and gene delivery</article-title>
+<source>J. Control Release</source>
+<year>2002</year>
+<volume>82</volume>
+<fpage>189</fpage>
+<lpage>212</lpage>
+<pub-id pub-id-type="doi">10.1016/S0168-3659(02)00009-3</pub-id>
+<pub-id pub-id-type="pmid">12175737</pub-id></element-citation></ref><ref id="B8-polymers-08-00091"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Torchilin</surname><given-names>V.P.</given-names></name></person-group>
+<article-title>Structure and design of polymeric surfactant-based drug delivery systems</article-title>
+<source>J. Control Release</source>
+<year>2001</year>
+<volume>73</volume>
+<fpage>137</fpage>
+<lpage>172</lpage>
+<pub-id pub-id-type="doi">10.1016/S0168-3659(01)00299-1</pub-id>
+<pub-id pub-id-type="pmid">11516494</pub-id></element-citation></ref><ref id="B9-polymers-08-00091"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nori</surname><given-names>A.</given-names></name><name><surname>Kope&#x0010d;ek</surname><given-names>J.</given-names></name></person-group>
+<article-title>Intracellular targeting of polymer-bound drugs for cancer chemotherapy</article-title>
+<source>Adv. Drug Deliv. Rev.</source>
+<year>2005</year>
+<volume>57</volume>
+<fpage>609</fpage>
+<lpage>636</lpage>
+<pub-id pub-id-type="doi">10.1016/j.addr.2004.10.006</pub-id>
+<pub-id pub-id-type="pmid">15722167</pub-id></element-citation></ref><ref id="B10-polymers-08-00091"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>N.</given-names></name><name><surname>Wang</surname><given-names>L.-S.</given-names></name><name><surname>Tan</surname><given-names>D.C.-W.</given-names></name><name><surname>Moochhala</surname><given-names>S.M.</given-names></name><name><surname>Yang</surname><given-names>Y.-Y.</given-names></name></person-group>
+<article-title>Mathematical modeling and <italic>in vitro</italic> study of controlled drug release via a highly swellable and dissoluble polymer matrix: Polyethylene oxide with high molecular weights</article-title>
+<source>J. Control Release</source>
+<year>2005</year>
+<volume>102</volume>
+<fpage>569</fpage>
+<lpage>581</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jconrel.2004.11.002</pub-id>
+<pub-id pub-id-type="pmid">15681080</pub-id></element-citation></ref><ref id="B11-polymers-08-00091"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kwon</surname><given-names>G.S.</given-names></name><name><surname>Kataoka</surname><given-names>K.</given-names></name></person-group>
+<article-title>Block copolymer micelles as long-circulating drug vehicles</article-title>
+<source>Adv. Drug Deliv. Rev.</source>
+<year>2012</year>
+<volume>64</volume>
+<fpage>237</fpage>
+<lpage>245</lpage>
+<pub-id pub-id-type="doi">10.1016/j.addr.2012.09.016</pub-id>
+</element-citation></ref><ref id="B12-polymers-08-00091"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Allen</surname><given-names>C.</given-names></name><name><surname>Maysinger</surname><given-names>D.</given-names></name><name><surname>Eisenberg</surname><given-names>A.</given-names></name></person-group>
+<article-title>Nano-engineering block copolymer aggregates for drug delivery</article-title>
+<source>Colloids Interface Sci.</source>
+<year>1999</year>
+<volume>16</volume>
+<fpage>3</fpage>
+<lpage>27</lpage>
+<pub-id pub-id-type="doi">10.1016/S0927-7765(99)00058-2</pub-id>
+</element-citation></ref><ref id="B13-polymers-08-00091"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bronich</surname><given-names>T.K.</given-names></name><name><surname>Nehls</surname><given-names>A.</given-names></name><name><surname>Eisenberg</surname><given-names>A.</given-names></name><name><surname>Kabanov</surname><given-names>V.A.</given-names></name><name><surname>Kabanov</surname><given-names>A.V.</given-names></name></person-group>
+<article-title>Novel drug delivery systems based on the complexes of block ionomers and surfactants of opposite charge</article-title>
+<source>Colloids Surf. B</source>
+<year>1999</year>
+<volume>16</volume>
+<fpage>243</fpage>
+<lpage>251</lpage>
+<pub-id pub-id-type="doi">10.1016/S0927-7765(99)00075-2</pub-id>
+</element-citation></ref><ref id="B14-polymers-08-00091"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>kabanov</surname><given-names>A.V.</given-names></name><name><surname>Alakhov</surname><given-names>V.Y.</given-names></name></person-group>
+<article-title>Pluronic block copolymers in drug delivery: From micellar nanocontainers to biological response modifiers</article-title>
+<source>Crit. Rev. Ther. Drug Carrier Syst.</source>
+<year>2002</year>
+<volume>19</volume>
+<fpage>72</fpage>
+<pub-id pub-id-type="doi">10.1615/CritRevTherDrugCarrierSyst.v19.i1.10</pub-id>
+</element-citation></ref><ref id="B15-polymers-08-00091"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oh</surname><given-names>K.T.</given-names></name><name><surname>Bronich</surname><given-names>T.K.</given-names></name><name><surname>Kabanov</surname><given-names>A.V.</given-names></name></person-group>
+<article-title>Micellar formulations for drug delivery based on mixtures of hydrophobic and hydrophilic Pluronic<sup>&#x000ae;</sup> block copolymers</article-title>
+<source>J. Control Release</source>
+<year>2004</year>
+<volume>94</volume>
+<fpage>411</fpage>
+<lpage>422</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jconrel.2003.10.018</pub-id>
+<pub-id pub-id-type="pmid">14744491</pub-id></element-citation></ref><ref id="B16-polymers-08-00091"><label>16.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Schmolka</surname><given-names>I.R.</given-names></name></person-group>
+<source>Poloxamers in the Pharmaceutical Industry</source>
+<publisher-name>Polymers for Controlled Drug Delivery</publisher-name>
+<publisher-loc>Boca Raton, FL, USA</publisher-loc>
+<year>1991</year>
+<fpage>189</fpage>
+<lpage>214</lpage>
+</element-citation></ref><ref id="B17-polymers-08-00091"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>Y.</given-names></name><name><surname>Moddaresi</surname><given-names>M.</given-names></name><name><surname>Jones</surname><given-names>S.A.</given-names></name><name><surname>Brown</surname><given-names>M.B.</given-names></name></person-group>
+<article-title>A dynamic topical hydrofluoroalkane foam to induce nanoparticle modification and drug release <italic>in situ</italic></article-title>
+<source>Eur. J. Pharm. Biopharm.</source>
+<year>2009</year>
+<volume>72</volume>
+<fpage>521</fpage>
+<lpage>528</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ejpb.2009.03.002</pub-id>
+<pub-id pub-id-type="pmid">19303438</pub-id></element-citation></ref><ref id="B18-polymers-08-00091"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Soppimath</surname><given-names>K.S.</given-names></name><name><surname>Aminabhavi</surname><given-names>T.M.</given-names></name><name><surname>Kulkarni</surname><given-names>A.R.</given-names></name><name><surname>Rudzinski</surname><given-names>W.E.</given-names></name></person-group>
+<article-title>Biodegradable polymeric nanoparticles as drug delivery devices</article-title>
+<source>J. Control Release</source>
+<year>2001</year>
+<volume>70</volume>
+<fpage>1</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="doi">10.1016/S0168-3659(00)00339-4</pub-id>
+<pub-id pub-id-type="pmid">11166403</pub-id></element-citation></ref><ref id="B19-polymers-08-00091"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dragan</surname><given-names>U.</given-names></name><name><surname>Magdalena</surname><given-names>S.</given-names></name></person-group>
+<article-title>Poly(lactide-<italic>co</italic>-glycolide)-based micro and nanoparticles for the controlled drug delivery of vitamins</article-title>
+<source>Curr. Nanosci.</source>
+<year>2009</year>
+<volume>5</volume>
+<fpage>1</fpage>
+<lpage>14</lpage>
+</element-citation></ref><ref id="B20-polymers-08-00091"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Patel</surname><given-names>N.R.</given-names></name><name><surname>Damann</surname><given-names>K.</given-names></name><name><surname>Leonardi</surname><given-names>C.</given-names></name><name><surname>Sabliov</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>Itraconazole-loaded poly(lactic-<italic>co</italic>-glycolic) acid nanoparticles for improved antifungal activity</article-title>
+<source>Nanomedicine</source>
+<year>2010</year>
+<volume>5</volume>
+<fpage>1037</fpage>
+<lpage>1050</lpage>
+<pub-id pub-id-type="doi">10.2217/nnm.10.68</pub-id>
+<pub-id pub-id-type="pmid">20874019</pub-id></element-citation></ref><ref id="B21-polymers-08-00091"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Esteves</surname><given-names>A.C.C.</given-names></name><name><surname>Barros-Timmons</surname><given-names>A.</given-names></name><name><surname>Trindade</surname><given-names>T.</given-names></name></person-group>
+<article-title>Polymer based nanocomposites: Synthetic strategies for hybrid materials</article-title>
+<source>Quim. Nova</source>
+<year>2004</year>
+<volume>27</volume>
+<fpage>798</fpage>
+<lpage>806</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422004000500020</pub-id>
+</element-citation></ref><ref id="B22-polymers-08-00091"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jos&#x000e9;</surname><given-names>N.M.</given-names></name><name><surname>Prado</surname><given-names>L.A.S.D.</given-names></name></person-group>
+<article-title>Hybrid organic-inorganic materials: Preparation and some applications</article-title>
+<source>Quim. Nova</source>
+<year>2005</year>
+<volume>28</volume>
+<fpage>281</fpage>
+<lpage>288</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422005000200020</pub-id>
+</element-citation></ref><ref id="B23-polymers-08-00091"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ariga</surname><given-names>K.</given-names></name><name><surname>Vinu</surname><given-names>A.</given-names></name><name><surname>Hill</surname><given-names>J.P.</given-names></name><name><surname>Mori</surname><given-names>T.</given-names></name></person-group>
+<article-title>Coordination chemistry and supramolecular chemistry in mesoporous nanospace</article-title>
+<source>Coord. Chem. Rev.</source>
+<year>2007</year>
+<volume>251</volume>
+<fpage>2562</fpage>
+<lpage>2591</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ccr.2007.02.024</pub-id>
+</element-citation></ref><ref id="B24-polymers-08-00091"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burkett</surname><given-names>C.M.</given-names></name><name><surname>Underwood</surname><given-names>L.A.</given-names></name><name><surname>Volzer</surname><given-names>R.S.</given-names></name><name><surname>Baughman</surname><given-names>J.A.</given-names></name><name><surname>Edmiston</surname><given-names>P.L.</given-names></name></person-group>
+<article-title>Organic-Inorganic hybrid materials that rapidly swell in non-polar liquids: Nanoscale morphology and swelling mechanism</article-title>
+<source>Chem. Mater.</source>
+<year>2008</year>
+<volume>20</volume>
+<fpage>1312</fpage>
+<lpage>1321</lpage>
+<pub-id pub-id-type="doi">10.1021/cm0716001</pub-id>
+</element-citation></ref><ref id="B25-polymers-08-00091"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colilla</surname><given-names>M.</given-names></name><name><surname>Salinas</surname><given-names>A.J.</given-names></name><name><surname>Vallet-Reg&#x000ed;</surname><given-names>M.</given-names></name></person-group>
+<article-title>Amino-polysiloxane hybrid materials for bone reconstruction</article-title>
+<source>Chem. Mater.</source>
+<year>2006</year>
+<volume>18</volume>
+<fpage>5676</fpage>
+<lpage>5683</lpage>
+<pub-id pub-id-type="doi">10.1021/cm0612043</pub-id>
+</element-citation></ref><ref id="B26-polymers-08-00091"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ogoshi</surname><given-names>T.</given-names></name><name><surname>Chujo</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Organic-inorganic polymer hybrids prepared by the sol-gel method</article-title>
+<source>Compos. Interfaces</source>
+<year>2005</year>
+<volume>11</volume>
+<fpage>539</fpage>
+<lpage>566</lpage>
+<pub-id pub-id-type="doi">10.1163/1568554053148735</pub-id>
+</element-citation></ref><ref id="B27-polymers-08-00091"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Philipp</surname><given-names>G.</given-names></name><name><surname>Schmidt</surname><given-names>H.</given-names></name></person-group>
+<article-title>New materials for contact lenses prepared from Si- and Ti-alkoxides by the sol-gel process</article-title>
+<source>J. Non Cryst. Solids</source>
+<year>1984</year>
+<volume>63</volume>
+<fpage>283</fpage>
+<lpage>292</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-3093(84)90407-1</pub-id>
+</element-citation></ref><ref id="B28-polymers-08-00091"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brennan</surname><given-names>A.B.</given-names></name><name><surname>Wilkes</surname><given-names>G.L.</given-names></name></person-group>
+<article-title>Structure-property behaviour of sol-gel derived hybrid materials: Effect of a polymeric acid catalyst</article-title>
+<source>Polymer</source>
+<year>1991</year>
+<volume>32</volume>
+<fpage>733</fpage>
+<lpage>739</lpage>
+<pub-id pub-id-type="doi">10.1016/0032-3861(91)90488-5</pub-id>
+</element-citation></ref><ref id="B29-polymers-08-00091"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Girard-Reydet</surname><given-names>E.</given-names></name><name><surname>Lam</surname><given-names>T.M.</given-names></name><name><surname>Pascault</surname><given-names>J.P.</given-names></name></person-group>
+<article-title><italic>In situ</italic> polymerization of tetraethoxysilane in poly(vinyl acetate)</article-title>
+<source>Macromol. Chem. Phys.</source>
+<year>1994</year>
+<volume>195</volume>
+<fpage>149</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="doi">10.1002/macp.1994.021950112</pub-id>
+</element-citation></ref><ref id="B30-polymers-08-00091"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mat&#x0011b;jka</surname><given-names>L.</given-names></name><name><surname>Dukh</surname><given-names>O.</given-names></name><name><surname>Kami&#x00161;ov&#x000e1;</surname><given-names>H.</given-names></name><name><surname>Hlavat&#x000e1;</surname><given-names>D.R.</given-names></name><name><surname>&#x00160;p&#x000ed;rkov&#x000e1;</surname><given-names>M.</given-names></name><name><surname>Brus</surname><given-names>J.</given-names></name></person-group>
+<article-title>Block-copolymer organic-inorganic networks. Structure, morphology and thermomechanical properties</article-title>
+<source>Polymer</source>
+<year>2004</year>
+<volume>45</volume>
+<fpage>3267</fpage>
+<lpage>3276</lpage>
+<pub-id pub-id-type="doi">10.1016/j.polymer.2004.03.033</pub-id>
+</element-citation></ref><ref id="B31-polymers-08-00091"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rekondo</surname><given-names>A.</given-names></name><name><surname>Fern&#x000e1;ndez-Berridi</surname><given-names>M.J.</given-names></name><name><surname>Irusta</surname><given-names>L.</given-names></name></person-group>
+<article-title>Photooxidation and stabilization of silanised poly(ether-urethane) hybrid systems</article-title>
+<source>Polym. Degrad. Stable</source>
+<year>2007</year>
+<volume>92</volume>
+<fpage>2173</fpage>
+<lpage>2180</lpage>
+<pub-id pub-id-type="doi">10.1016/j.polymdegradstab.2007.01.034</pub-id>
+</element-citation></ref><ref id="B32-polymers-08-00091"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanchez</surname><given-names>C.</given-names></name><name><surname>Ribot</surname><given-names>F.</given-names></name><name><surname>Rozes</surname><given-names>L.</given-names></name><name><surname>Alonso</surname><given-names>B.</given-names></name></person-group>
+<article-title>Design of Hybrid organic-inorganic nanocomposites synthesized via sol-gel chemistry</article-title>
+<source>Mol. Cryst. Liq. Cryst. Sci. Technol. Sect. A</source>
+<year>2000</year>
+<volume>354</volume>
+<fpage>143</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="doi">10.1080/10587250008023609</pub-id>
+</element-citation></ref><ref id="B33-polymers-08-00091"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Benvenutti</surname><given-names>E.V.</given-names></name><name><surname>Moro</surname><given-names>C.C.</given-names></name><name><surname>Costa</surname><given-names>T.M.H.</given-names></name><name><surname>Gallas</surname><given-names>M.R.</given-names></name></person-group>
+<article-title>Silica based hybrid materials obtained by the sol-gel method</article-title>
+<source>Qu&#x000ed;m. Nova</source>
+<year>2009</year>
+<volume>32</volume>
+<fpage>1926</fpage>
+<lpage>1933</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422009000700039</pub-id>
+</element-citation></ref><ref id="B34-polymers-08-00091"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Franken</surname><given-names>L.</given-names></name><name><surname>Santos</surname><given-names>L.S.</given-names></name><name><surname>Caram&#x000e3;o</surname><given-names>E.B.</given-names></name><name><surname>Costa</surname><given-names>T.M.H.</given-names></name><name><surname>Benvenutti</surname><given-names>E.V.</given-names></name></person-group>
+<article-title>p-Anisidinepropylsilica xerogel: Thermal stability and resistance to leaching by solvents</article-title>
+<source>Qu&#x000ed;m. Nova</source>
+<year>2002</year>
+<volume>25</volume>
+<fpage>563</fpage>
+<lpage>566</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422002000400010</pub-id>
+</element-citation></ref><ref id="B35-polymers-08-00091"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nassar</surname><given-names>E.J.</given-names></name><name><surname>&#x000c1;vila</surname><given-names>L.R.</given-names></name><name><surname>Pereira</surname><given-names>P.F.S.</given-names></name><name><surname>Nassor</surname><given-names>E.C.O.</given-names></name><name><surname>Cestari</surname><given-names>A.</given-names></name><name><surname>Ciuffi</surname><given-names>K.J.</given-names></name><name><surname>Calefi</surname><given-names>P.S.</given-names></name></person-group>
+<article-title>Phenylsilicate doped with Eu III obtained by sol-gel methodology</article-title>
+<source>Qu&#x000ed;m. Nova</source>
+<year>2007</year>
+<volume>30</volume>
+<fpage>1567</fpage>
+<lpage>1572</lpage>
+<pub-id pub-id-type="doi">10.1590/S0100-40422007000700013</pub-id>
+</element-citation></ref><ref id="B36-polymers-08-00091"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schottner</surname><given-names>G.</given-names></name></person-group>
+<article-title>Hybrid sol-gel-derived polymers: Applications of multifunctional materials</article-title>
+<source>Chem. Mater.</source>
+<year>2001</year>
+<volume>13</volume>
+<fpage>3422</fpage>
+<lpage>3435</lpage>
+<pub-id pub-id-type="doi">10.1021/cm011060m</pub-id>
+</element-citation></ref><ref id="B37-polymers-08-00091"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ariga</surname><given-names>K.</given-names></name><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Fei</surname><given-names>J.</given-names></name><name><surname>Ji</surname><given-names>Q.</given-names></name><name><surname>Hill</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Nanoarchitectonics for dynamic functional materials from atomic-molecular-level manipulation to macroscopic action</article-title>
+<source>Adv. Mater.</source>
+<year>2016</year>
+<volume>28</volume>
+<fpage>1251</fpage>
+<lpage>1286</lpage>
+<pub-id pub-id-type="doi">10.1002/adma.201502545</pub-id>
+<pub-id pub-id-type="pmid">26436552</pub-id></element-citation></ref><ref id="B38-polymers-08-00091"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ariga</surname><given-names>K.</given-names></name><name><surname>Kawakami</surname><given-names>K.</given-names></name><name><surname>Ebara</surname><given-names>M.</given-names></name><name><surname>Kotsuchibashi</surname><given-names>Y.</given-names></name><name><surname>Ji</surname><given-names>Q.</given-names></name><name><surname>Hill</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Bioinspired nanoarchitectonics as emerging drug delivery systems</article-title>
+<source>New J. Chem.</source>
+<year>2014</year>
+<volume>38</volume>
+<fpage>5149</fpage>
+<lpage>5163</lpage>
+<pub-id pub-id-type="doi">10.1039/C4NJ00864B</pub-id>
+</element-citation></ref><ref id="B39-polymers-08-00091"><label>39.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Brinker</surname><given-names>J.C.</given-names></name><name><surname>Scherer</surname><given-names>G.W.</given-names></name></person-group>
+<source>Sol-Gel: The Physiscs and Chemystry of Sol-Gel</source>
+<publisher-name>Academic Press, Inc.</publisher-name>
+<publisher-loc>San Diego, CA, USA</publisher-loc>
+<year>1990</year>
+</element-citation></ref><ref id="B40-polymers-08-00091"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garc&#x000ed;a</surname><given-names>O.</given-names></name><name><surname>Garrido</surname><given-names>L.</given-names></name><name><surname>Sastre</surname><given-names>R.</given-names></name><name><surname>Costela</surname><given-names>A.</given-names></name><name><surname>Garc&#x000ed;a-Moreno</surname><given-names>I.</given-names></name></person-group>
+<article-title>Synthetic Strategies for hybrid materials to improve properties for optoelectronic applications</article-title>
+<source>Adv. Funct. Mater.</source>
+<year>2008</year>
+<volume>18</volume>
+<fpage>2017</fpage>
+<lpage>2025</lpage>
+<pub-id pub-id-type="doi">10.1002/adfm.200701395</pub-id>
+</element-citation></ref><ref id="B41-polymers-08-00091"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Franville</surname><given-names>A.-C.</given-names></name><name><surname>Zambon</surname><given-names>D.</given-names></name><name><surname>Mahiou</surname><given-names>R.</given-names></name><name><surname>Troin</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Luminescence behavior of sol-gel-derived hybrid materials resulting from covalent grafting of a chromophore unit to different organically modified alkoxysilanes</article-title>
+<source>Chem. Mater.</source>
+<year>2000</year>
+<volume>12</volume>
+<fpage>428</fpage>
+<lpage>435</lpage>
+<pub-id pub-id-type="doi">10.1021/cm9904739</pub-id>
+</element-citation></ref><ref id="B42-polymers-08-00091"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Radin</surname><given-names>S.</given-names></name><name><surname>Falaize</surname><given-names>S.</given-names></name><name><surname>Lee</surname><given-names>M.H.</given-names></name><name><surname>Ducheyne</surname><given-names>P.</given-names></name></person-group>
+<article-title><italic>In vitro</italic> bioactivity and degradation behavior of silica xerogels intended as controlled release materials</article-title>
+<source>Biomaterials</source>
+<year>2002</year>
+<volume>23</volume>
+<fpage>3113</fpage>
+<lpage>3122</lpage>
+<pub-id pub-id-type="doi">10.1016/S0142-9612(02)00051-0</pub-id>
+<pub-id pub-id-type="pmid">12102182</pub-id></element-citation></ref><ref id="B43-polymers-08-00091"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Menezes</surname><given-names>E.W.</given-names></name><name><surname>Lima</surname><given-names>E.C.</given-names></name><name><surname>Royer</surname><given-names>B.</given-names></name><name><surname>de Souza</surname><given-names>F.E.</given-names></name><name><surname>dos Santos</surname><given-names>B.D.</given-names></name><name><surname>Greg&#x000f3;rio</surname><given-names>J.R.</given-names></name><name><surname>Costa</surname><given-names>T.M.H.</given-names></name><name><surname>Gushikem</surname><given-names>Y.</given-names></name><name><surname>Benvenutti</surname><given-names>E.V.</given-names></name></person-group>
+<article-title>Ionic silica based hybrid material containing the pyridinium group used as an adsorbent for textile dye</article-title>
+<source>J. Colloid Interface Sci.</source>
+<year>2012</year>
+<volume>378</volume>
+<fpage>10</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jcis.2012.04.021</pub-id>
+<pub-id pub-id-type="pmid">22560488</pub-id></element-citation></ref><ref id="B44-polymers-08-00091"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Molina</surname><given-names>E.F.</given-names></name><name><surname>Parreira</surname><given-names>R.L.T.</given-names></name><name><surname>de Faria</surname><given-names>E.H.</given-names></name><name><surname>de Carvalho</surname><given-names>H.W.P.</given-names></name><name><surname>Caramori</surname><given-names>G.F.</given-names></name><name><surname>Coimbra</surname><given-names>D.F.</given-names></name><name><surname>Nassar</surname><given-names>E.J.</given-names></name><name><surname>Ciuffi</surname><given-names>K.J.</given-names></name></person-group>
+<article-title>Ureasil-poly(ethylene oxide) hybrid matrix for selective adsorption and separation of dyes from water</article-title>
+<source>Langmuir</source>
+<year>2014</year>
+<volume>30</volume>
+<fpage>3857</fpage>
+<lpage>3868</lpage>
+<pub-id pub-id-type="doi">10.1021/la404812e</pub-id>
+<pub-id pub-id-type="pmid">24625117</pub-id></element-citation></ref><ref id="B45-polymers-08-00091"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orilall</surname><given-names>M.C.</given-names></name><name><surname>Wiesner</surname><given-names>U.</given-names></name></person-group>
+<article-title>Block copolymer based composition and morphology control in nanostructured hybrid materials for energy conversion and storage: Solar cells, batteries, and fuel cells</article-title>
+<source>Chem. Soc. Rev.</source>
+<year>2011</year>
+<volume>40</volume>
+<fpage>520</fpage>
+<lpage>535</lpage>
+<pub-id pub-id-type="doi">10.1039/C0CS00034E</pub-id>
+<pub-id pub-id-type="pmid">21152638</pub-id></element-citation></ref><ref id="B46-polymers-08-00091"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>F.</given-names></name><name><surname>Zhang</surname><given-names>T.</given-names></name><name><surname>Yang</surname><given-names>X.</given-names></name><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Leng</surname><given-names>K.</given-names></name><name><surname>Huang</surname><given-names>Y.</given-names></name><name><surname>Chen</surname><given-names>Y.</given-names></name></person-group>
+<article-title>A high-performance supercapacitor-battery hybrid energy storage device based on graphene-enhanced electrode materials with ultrahigh energy density</article-title>
+<source>Energy Environ. Sci.</source>
+<year>2013</year>
+<volume>6</volume>
+<fpage>1623</fpage>
+<lpage>1632</lpage>
+<pub-id pub-id-type="doi">10.1039/c3ee40509e</pub-id>
+</element-citation></ref><ref id="B47-polymers-08-00091"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanchez</surname><given-names>C.</given-names></name><name><surname>Julian</surname><given-names>B.</given-names></name><name><surname>Belleville</surname><given-names>P.</given-names></name><name><surname>Popall</surname><given-names>M.</given-names></name></person-group>
+<article-title>Applications of hybrid organic-inorganic nanocomposites</article-title>
+<source>J. Mater. Chem.</source>
+<year>2005</year>
+<volume>15</volume>
+<fpage>3559</fpage>
+<lpage>3592</lpage>
+<pub-id pub-id-type="doi">10.1039/b509097k</pub-id>
+</element-citation></ref><ref id="B48-polymers-08-00091"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>C.X.</given-names></name><name><surname>Qiao</surname><given-names>S.Z.</given-names></name><name><surname>Yu</surname><given-names>C.Z.</given-names></name><name><surname>Ismadji</surname><given-names>S.</given-names></name><name><surname>Lu</surname><given-names>G.Q.</given-names></name></person-group>
+<article-title>Periodic mesoporous silica and organosilica with controlled morphologies as carriers for drug release</article-title>
+<source>Microporous Microporous Mater.</source>
+<year>2009</year>
+<volume>117</volume>
+<fpage>213</fpage>
+<lpage>219</lpage>
+<pub-id pub-id-type="doi">10.1016/j.micromeso.2008.06.023</pub-id>
+</element-citation></ref><ref id="B49-polymers-08-00091"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gonz&#x000e1;lez</surname><given-names>B.</given-names></name><name><surname>Colilla</surname><given-names>M.</given-names></name><name><surname>Vallet-Reg&#x000ed;</surname><given-names>M.</given-names></name></person-group>
+<article-title>Time-delayed release of bioencapsulates: A novel controlled delivery concept for bone implant technologies</article-title>
+<source>Chem. Mater.</source>
+<year>2008</year>
+<volume>20</volume>
+<fpage>4826</fpage>
+<lpage>4834</lpage>
+<pub-id pub-id-type="doi">10.1021/cm703568k</pub-id>
+</element-citation></ref><ref id="B50-polymers-08-00091"><label>50.</label><element-citation publication-type="webpage">
+<article-title>Web of Science</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="https://apps.webofknowledge.com/UA_GeneralSearch_input.do?product=UA&#x00026;search_mode=GeneralSearch&#x00026;SID=3EUUQncnjuXFJIG5vRe&#x00026;preferencesSaved=">https://apps.webofknowledge.com/UA_GeneralSearch_input.do?product=UA&#x00026;search_mode=GeneralSearch&#x00026;SID=3EUUQncnjuXFJIG5vRe&#x00026;preferencesSaved=</ext-link></comment>
+<date-in-citation>(accessed on 28 August 2015)</date-in-citation>
+</element-citation></ref><ref id="B51-polymers-08-00091"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>S.F.</given-names></name><name><surname>Chen</surname><given-names>H.G.</given-names></name><name><surname>Wang</surname><given-names>Z.H.</given-names></name><name><surname>Cui</surname><given-names>Z.J.</given-names></name><name><surname>Zhang</surname><given-names>H.Y.</given-names></name></person-group>
+<article-title>Preparation, characterisation and controlled drug release from thermosensitive hybrid hydrogels</article-title>
+<source>Plast. Rubber Compos.</source>
+<year>2012</year>
+<volume>41</volume>
+<fpage>13</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.1179/1743289811Y.0000000021</pub-id>
+</element-citation></ref><ref id="B52-polymers-08-00091"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>J.</given-names></name><name><surname>Wei</surname><given-names>W.</given-names></name><name><surname>Wang</surname><given-names>L.-Y.</given-names></name><name><surname>Su</surname><given-names>Z.-G.</given-names></name><name><surname>Ma</surname><given-names>G.-H.</given-names></name></person-group>
+<article-title>A thermosensitive hydrogel based on quaternized chitosan and poly(ethylene glycol) for nasal drug delivery system</article-title>
+<source>Biomaterials</source>
+<year>2007</year>
+<volume>28</volume>
+<fpage>2220</fpage>
+<lpage>2232</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2006.12.024</pub-id>
+<pub-id pub-id-type="pmid">17291582</pub-id></element-citation></ref><ref id="B53-polymers-08-00091"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Corma</surname><given-names>A.</given-names></name><name><surname>D&#x000ed;az</surname><given-names>U.</given-names></name><name><surname>Arrica</surname><given-names>M.</given-names></name><name><surname>Fern&#x000e1;ndez</surname><given-names>E.</given-names></name><name><surname>Ortega</surname><given-names>&#x000cd;.</given-names></name></person-group>
+<article-title>Organic&#x02013;inorganic nanospheres with responsive molecular gates for drug storage and release</article-title>
+<source>Angew. Chem.</source>
+<year>2009</year>
+<volume>48</volume>
+<fpage>6247</fpage>
+<lpage>6250</lpage>
+<pub-id pub-id-type="doi">10.1002/anie.200902208</pub-id>
+<pub-id pub-id-type="pmid">19610007</pub-id></element-citation></ref><ref id="B54-polymers-08-00091"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Popat</surname><given-names>A.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Lu</surname><given-names>G.Q.</given-names></name><name><surname>Qiao</surname><given-names>S.Z.</given-names></name></person-group>
+<article-title>A pH-responsive drug delivery system based on chitosan coated mesoporous silica nanoparticles</article-title>
+<source>J. Mater. Chem.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>11173</fpage>
+<lpage>11178</lpage>
+<pub-id pub-id-type="doi">10.1039/c2jm30501a</pub-id>
+</element-citation></ref><ref id="B55-polymers-08-00091"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wan</surname><given-names>X.</given-names></name><name><surname>Wang</surname><given-names>D.</given-names></name><name><surname>Liu</surname><given-names>S.</given-names></name></person-group>
+<article-title>Fluorescent pH-sensing organic/inorganic hybrid mesoporous silica nanoparticles with tunable redox-responsive release capability</article-title>
+<source>Langmuir</source>
+<year>2010</year>
+<volume>26</volume>
+<fpage>15574</fpage>
+<lpage>15579</lpage>
+<pub-id pub-id-type="doi">10.1021/la102148x</pub-id>
+<pub-id pub-id-type="pmid">20839827</pub-id></element-citation></ref><ref id="B56-polymers-08-00091"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Molina</surname><given-names>E.F.</given-names></name><name><surname>Jesus</surname><given-names>C.R.N.</given-names></name><name><surname>Chiavacci</surname><given-names>L.A.</given-names></name><name><surname>Pulcinelli</surname><given-names>S.H.</given-names></name><name><surname>Briois</surname><given-names>V.</given-names></name><name><surname>Santilli</surname><given-names>C.V.</given-names></name></person-group>
+<article-title>Ureasil-polyether hybrid blend with tuneable hydrophilic/hydrophobic features based on U-PEO 1900 and U-PPO400 mixtures</article-title>
+<source>J. Sol Gel Sci. Technnol.</source>
+<year>2014</year>
+<volume>70</volume>
+<fpage>317</fpage>
+<lpage>328</lpage>
+<pub-id pub-id-type="doi">10.1007/s10971-014-3300-1</pub-id>
+</element-citation></ref><ref id="B57-polymers-08-00091"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vallet-Regi</surname><given-names>M.</given-names></name><name><surname>Colilla</surname><given-names>M.</given-names></name><name><surname>Gonzalez</surname><given-names>B.</given-names></name></person-group>
+<article-title>Medical applications of organic-inorganic hybrid materials within the field of silica-based bioceramics</article-title>
+<source>Chem. Soc. Rev.</source>
+<year>2011</year>
+<volume>40</volume>
+<fpage>596</fpage>
+<lpage>607</lpage>
+<pub-id pub-id-type="doi">10.1039/C0CS00025F</pub-id>
+<pub-id pub-id-type="pmid">21049136</pub-id></element-citation></ref><ref id="B58-polymers-08-00091"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colilla</surname><given-names>M.</given-names></name><name><surname>Izquierdo-Barba</surname><given-names>I.</given-names></name><name><surname>Vallet-Reg&#x000ed;</surname><given-names>M.</given-names></name></person-group>
+<article-title>Phosphorus-containing SBA-15 materials as bisphosphonate carriers for osteoporosis treatment</article-title>
+<source>Microporous Mesoporous Mater.</source>
+<year>2010</year>
+<volume>135</volume>
+<fpage>51</fpage>
+<lpage>59</lpage>
+<pub-id pub-id-type="doi">10.1016/j.micromeso.2010.06.010</pub-id>
+</element-citation></ref><ref id="B59-polymers-08-00091"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Russell</surname><given-names>R.G.G.</given-names></name><name><surname>Rogers</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Bisphosphonates: From the laboratory to the clinic and back again</article-title>
+<source>Bone</source>
+<year>1999</year>
+<volume>25</volume>
+<fpage>97</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="doi">10.1016/S8756-3282(99)00116-7</pub-id>
+<pub-id pub-id-type="pmid">10423031</pub-id></element-citation></ref><ref id="B60-polymers-08-00091"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Santilli</surname><given-names>C.V.</given-names></name><name><surname>Chiavacci</surname><given-names>L.A.</given-names></name><name><surname>Lopes</surname><given-names>L.</given-names></name><name><surname>Pulcinelli</surname><given-names>S.H.</given-names></name><name><surname>Oliveira</surname><given-names>A.G.</given-names></name></person-group>
+<article-title>Controlled drug release from ureasil-polyether hybrid materials</article-title>
+<source>Chem. Mater.</source>
+<year>2009</year>
+<volume>21</volume>
+<fpage>463</fpage>
+<lpage>467</lpage>
+<pub-id pub-id-type="doi">10.1021/cm801899u</pub-id>
+</element-citation></ref><ref id="B61-polymers-08-00091"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xue</surname><given-names>J.M.</given-names></name><name><surname>Shi</surname><given-names>M.</given-names></name></person-group>
+<article-title>PLGA/mesoporous silica hybrid structure for controlled drug release</article-title>
+<source>J. Control Release</source>
+<year>2004</year>
+<volume>98</volume>
+<fpage>209</fpage>
+<lpage>217</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jconrel.2004.04.023</pub-id>
+<pub-id pub-id-type="pmid">15262413</pub-id></element-citation></ref><ref id="B62-polymers-08-00091"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zurdo Schroeder</surname><given-names>I.</given-names></name><name><surname>Franke</surname><given-names>P.</given-names></name><name><surname>Schaefer</surname><given-names>U.F.</given-names></name><name><surname>Lehr</surname><given-names>C.-M.</given-names></name></person-group>
+<article-title>Development and characterization of film forming polymeric solutions for skin drug delivery</article-title>
+<source>Eur. J. Pharm. Biopharm.</source>
+<year>2007</year>
+<volume>65</volume>
+<fpage>111</fpage>
+<lpage>121</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ejpb.2006.07.015</pub-id>
+<pub-id pub-id-type="pmid">16950609</pub-id></element-citation></ref><ref id="B63-polymers-08-00091"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Souza</surname><given-names>L.K.</given-names></name><name><surname>Bruno</surname><given-names>C.H.</given-names></name><name><surname>Lopes</surname><given-names>L.</given-names></name><name><surname>Pulcinelli</surname><given-names>S.H.</given-names></name><name><surname>Santilli</surname><given-names>C.V.</given-names></name><name><surname>Chiavacci</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>Ureasil&#x02013;polyether hybrid film-forming materials</article-title>
+<source>Colloids Surf. B.</source>
+<year>2013</year>
+<volume>101</volume>
+<fpage>156</fpage>
+<lpage>161</lpage>
+<pub-id pub-id-type="doi">10.1016/j.colsurfb.2012.06.009</pub-id>
+<pub-id pub-id-type="pmid">22796786</pub-id></element-citation></ref><ref id="B64-polymers-08-00091"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oshiro-Junior</surname><given-names>J.A.</given-names></name><name><surname>Carvalho</surname><given-names>F.C.</given-names></name><name><surname>Soares</surname><given-names>C.P.</given-names></name><name><surname>Chorilli</surname><given-names>M.</given-names></name><name><surname>Chiavacci</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>Development of cutaneous bioadhesive ureasil-polyether hybrid films</article-title>
+<source>Int. J. Polym. Sci.</source>
+<year>2015</year>
+<pub-id pub-id-type="doi">10.1155/2015/727324</pub-id>
+</element-citation></ref><ref id="B65-polymers-08-00091"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Junior</surname><given-names>J.A.O.</given-names></name><name><surname>Shiota</surname><given-names>L.M.</given-names></name><name><surname>Chiavacci</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>Development of organic-inorganic polymeric film formers for controlled drug release andwound care</article-title>
+<source>Mat&#x000e9;ria</source>
+<year>2014</year>
+<volume>19</volume>
+<fpage>24</fpage>
+<lpage>32</lpage>
+</element-citation></ref><ref id="B66-polymers-08-00091"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paredes</surname><given-names>M.</given-names></name><name><surname>Pulcinelli</surname><given-names>S.H.</given-names></name><name><surname>Peniche</surname><given-names>C.</given-names></name><name><surname>Gon&#x000e7;alves</surname><given-names>V.</given-names></name><name><surname>Santilli</surname><given-names>C.V.</given-names></name></person-group>
+<article-title>Chitosan/(ureasil-PEO hybrid) blend for drug delivery</article-title>
+<source>J. Sol Gel Sci. Technnol.</source>
+<year>2014</year>
+<volume>72</volume>
+<fpage>233</fpage>
+<lpage>238</lpage>
+<pub-id pub-id-type="doi">10.1007/s10971-014-3314-8</pub-id>
+</element-citation></ref><ref id="B67-polymers-08-00091"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Palm</surname><given-names>C.</given-names></name><name><surname>Jayamanne</surname><given-names>M.</given-names></name><name><surname>Kjellander</surname><given-names>M.</given-names></name><name><surname>H&#x000e4;llbrink</surname><given-names>M.</given-names></name></person-group>
+<article-title>Peptide degradation is a critical determinant for cell-penetrating peptide uptake</article-title>
+<source>Biochem. Biophys. Acta</source>
+<year>2007</year>
+<volume>1768</volume>
+<fpage>1769</fpage>
+<lpage>1776</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bbamem.2007.03.029</pub-id>
+<pub-id pub-id-type="pmid">17499577</pub-id></element-citation></ref><ref id="B68-polymers-08-00091"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gao</surname><given-names>C.</given-names></name><name><surname>Izquierdo-Barba</surname><given-names>I.</given-names></name><name><surname>Nakase</surname><given-names>I.</given-names></name><name><surname>Futaki</surname><given-names>S.</given-names></name><name><surname>Ruan</surname><given-names>J.</given-names></name><name><surname>Sakamoto</surname><given-names>K.</given-names></name><name><surname>Sakamoto</surname><given-names>Y.</given-names></name><name><surname>Kuroda</surname><given-names>K.</given-names></name><name><surname>Terasaki</surname><given-names>O.</given-names></name><name><surname>Che</surname><given-names>S.</given-names></name></person-group>
+<article-title>Mesostructured silica based delivery system for a drug with a peptide as a cell-penetrating vector</article-title>
+<source>Microporous Microporous Mater.</source>
+<year>2009</year>
+<volume>122</volume>
+<fpage>201</fpage>
+<lpage>207</lpage>
+<pub-id pub-id-type="doi">10.1016/j.micromeso.2009.03.002</pub-id>
+</element-citation></ref><ref id="B69-polymers-08-00091"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mu&#x000f1;oz</surname><given-names>B.</given-names></name><name><surname>R&#x000e1;mila</surname><given-names>A.</given-names></name><name><surname>P&#x000e9;rez-Pariente</surname><given-names>J.</given-names></name><name><surname>D&#x000ed;az</surname><given-names>I.</given-names></name><name><surname>Vallet-Reg&#x000ed;</surname><given-names>M.</given-names></name></person-group>
+<article-title>MCM-41 organic modification as drug delivery rate regulator</article-title>
+<source>Chem. Mater.</source>
+<year>2003</year>
+<volume>15</volume>
+<fpage>500</fpage>
+<lpage>503</lpage>
+<pub-id pub-id-type="doi">10.1021/cm021217q</pub-id>
+</element-citation></ref><ref id="B70-polymers-08-00091"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vallet-Regi</surname><given-names>M.</given-names></name><name><surname>R&#x000e1;mila</surname><given-names>A.</given-names></name><name><surname>del Real</surname><given-names>R.P.</given-names></name><name><surname>P&#x000e9;rez-Pariente</surname><given-names>J.</given-names></name></person-group>
+<article-title>A new property of MCM-41: Drug delivery system</article-title>
+<source>Chem. Mater.</source>
+<year>2001</year>
+<volume>13</volume>
+<fpage>308</fpage>
+<lpage>311</lpage>
+<pub-id pub-id-type="doi">10.1021/cm0011559</pub-id>
+</element-citation></ref><ref id="B71-polymers-08-00091"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>M.</given-names></name><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Meng</surname><given-names>S.</given-names></name><name><surname>Zhong</surname><given-names>W.</given-names></name><name><surname>Li</surname><given-names>Z.</given-names></name><name><surname>Cai</surname><given-names>R.</given-names></name><name><surname>Chen</surname><given-names>Z.</given-names></name><name><surname>Zhou</surname><given-names>X.</given-names></name><name><surname>Du</surname><given-names>Q.</given-names></name></person-group>
+<article-title>Structure and release behavior of PMMA/silica composite drug delivery system</article-title>
+<source>J. Pharm. Sci.</source>
+<year>2007</year>
+<volume>96</volume>
+<fpage>1518</fpage>
+<lpage>1526</lpage>
+<pub-id pub-id-type="doi">10.1002/jps.20809</pub-id>
+<pub-id pub-id-type="pmid">17094137</pub-id></element-citation></ref><ref id="B72-polymers-08-00091"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Molina</surname><given-names>E.F.</given-names></name><name><surname>Pulcinelli</surname><given-names>S.H.</given-names></name><name><surname>Santilli</surname><given-names>C.V.</given-names></name><name><surname>Blanchandin</surname><given-names>S.</given-names></name><name><surname>Briois</surname><given-names>V.</given-names></name></person-group>
+<article-title>Controlled cisplatin delivery from Ureasil-PEO 1900 hybrid matrix</article-title>
+<source>J. Phys. Chem.</source>
+<year>2010</year>
+<volume>114</volume>
+<fpage>3461</fpage>
+<lpage>3466</lpage>
+<pub-id pub-id-type="doi">10.1021/jp9097638</pub-id>
+<pub-id pub-id-type="pmid">20180514</pub-id></element-citation></ref><ref id="B73-polymers-08-00091"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lopes</surname><given-names>L.</given-names></name><name><surname>Molina</surname><given-names>E.F.</given-names></name><name><surname>Chiavacci</surname><given-names>L.A.</given-names></name><name><surname>Santilli</surname><given-names>C.V.</given-names></name><name><surname>Briois</surname><given-names>V.</given-names></name><name><surname>Pulcinelli</surname><given-names>S.H.</given-names></name></person-group>
+<article-title>Drug-matrix interaction of sodium diclofenac incorporated into ureasil-poly(ethylene oxide) hybrid materials</article-title>
+<source>RSC Adv.</source>
+<year>2012</year>
+<volume>2</volume>
+<fpage>5629</fpage>
+<lpage>5636</lpage>
+<pub-id pub-id-type="doi">10.1039/c2ra01216b</pub-id>
+</element-citation></ref><ref id="B74-polymers-08-00091"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Herculano</surname><given-names>R.D.</given-names></name><name><surname>Brunello</surname><given-names>C.A.</given-names></name><name><surname>Melo</surname><given-names>J.P.</given-names><suffix>Jr.</suffix></name><name><surname>Martins</surname><given-names>M.</given-names></name><name><surname>Borges</surname><given-names>F.A.</given-names></name><name><surname>Chiavacci</surname><given-names>L.A.</given-names></name><name><surname>Graeff</surname><given-names>C.F.O.</given-names></name></person-group>
+<article-title>Novel solid state nitric oxide sensor using siloxano-poly(oxypropylene) (PPO)</article-title>
+<source>Mater. Sci. Appl.</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>683</fpage>
+<lpage>688</lpage>
+</element-citation></ref><ref id="B75-polymers-08-00091"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nava</surname><given-names>E.</given-names></name><name><surname>L&#x000fc;scher</surname><given-names>T.F.</given-names></name></person-group>
+<article-title>Endothelium-derived vasoactive factors in hypertension: Nitric oxide and endothelin</article-title>
+<source>J. Hypertens.</source>
+<year>1995</year>
+<volume>13</volume>
+<fpage>S39</fpage>
+<lpage>S48</lpage>
+<pub-id pub-id-type="doi">10.1097/00004872-199508001-00007</pub-id>
+</element-citation></ref><ref id="B76-polymers-08-00091"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vasta</surname><given-names>V.</given-names></name><name><surname>Meacci</surname><given-names>E.</given-names></name><name><surname>Farnararo</surname><given-names>M.</given-names></name><name><surname>Bruni</surname><given-names>P.</given-names></name></person-group>
+<article-title>Identification of a specific transport system for L-Arginine in human platelets</article-title>
+<source>Biochem. Biophys. Res. Commun.</source>
+<year>1995</year>
+<volume>206</volume>
+<fpage>878</fpage>
+<lpage>884</lpage>
+<pub-id pub-id-type="doi">10.1006/bbrc.1995.1125</pub-id>
+<pub-id pub-id-type="pmid">7832800</pub-id></element-citation></ref><ref id="B77-polymers-08-00091"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Herculano</surname><given-names>R.D.</given-names></name><name><surname>Tzu</surname><given-names>L.C.</given-names></name><name><surname>Silva</surname><given-names>C.P.</given-names></name><name><surname>Brunello</surname><given-names>C.A.</given-names></name><name><surname>Queiroz</surname><given-names>&#x000c1;.A.A.D.</given-names></name><name><surname>Kinoshita</surname><given-names>A.</given-names></name><name><surname>Graeff</surname><given-names>C.F.D.O.</given-names></name></person-group>
+<article-title>Nitric oxide release using natural rubber latex as matrix</article-title>
+<source>Mater. Res.</source>
+<year>2011</year>
+<volume>14</volume>
+<fpage>355</fpage>
+<lpage>359</lpage>
+<pub-id pub-id-type="doi">10.1590/S1516-14392011005000055</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig id="polymers-08-00091-f001" position="float"><label>Figure 1</label><caption><p>Representation of (<bold>A</bold>) Class I; (<bold>B</bold>) Class II; and (<bold>C</bold>) Class III of organic-inorganic hybrid materials. The white symbols represent the inorganic phase and the black ones represent the organic phase (adapted from the study by Benvenutti <italic>et al.</italic>, 2009 [<xref rid="B33-polymers-08-00091" ref-type="bibr">33</xref>]).</p></caption><graphic xlink:href="polymers-08-00091-g001"/></fig><fig id="polymers-08-00091-f002" position="float"><label>Figure 2</label><caption><p>Number of publications which contains the terms &#x0201c;organic-inorganic&#x0201d; and &#x0201c;drug delivery&#x0201d; (ISI: Web of Science, accessed on 28 August 2015 [<xref rid="B50-polymers-08-00091" ref-type="bibr">50</xref>]).</p></caption><graphic xlink:href="polymers-08-00091-g002"/></fig><fig id="polymers-08-00091-f003" position="float"><label>Figure 3</label><caption><p>Schema of stimuli-responsive organic-inorganic materials for drug delivery systems (adapted from the study by Santilli <italic>et al.</italic>, 2009 [<xref rid="B60-polymers-08-00091" ref-type="bibr">60</xref>]).</p></caption><graphic xlink:href="polymers-08-00091-g003"/></fig><fig id="polymers-08-00091-f004" position="float"><label>Figure 4</label><caption><p>Bone defect repair using biomaterials: (<bold>a</bold>) the biomaterial releases bioactive molecules that interact with the bone cells; (<bold>b</bold>) it increases the quantity of bone tissue and occurs the degradation of the biomaterial, and finally; (<bold>c</bold>) occurs the regeneration of the tissue without presence of biomaterial.</p></caption><graphic xlink:href="polymers-08-00091-g004"/></fig><fig id="polymers-08-00091-f005" position="float"><label>Figure 5</label><caption><p>Molecules and biological interactions of ureasil-PEO and ureasil-PPO hybrid materials. Possible sites of bonding with the biological substrate and drugs are highlighted in the blue circles [<xref rid="B64-polymers-08-00091" ref-type="bibr">64</xref>].</p></caption><graphic xlink:href="polymers-08-00091-g005"/></fig><fig id="polymers-08-00091-f006" position="float"><label>Figure 6</label><caption><p>Possible links between sites of hybrid material and molecules (I, II and III) [<xref rid="B60-polymers-08-00091" ref-type="bibr">60</xref>].</p></caption><graphic xlink:href="polymers-08-00091-g006"/></fig><table-wrap id="polymers-08-00091-t001" position="float"><object-id pub-id-type="pii">polymers-08-00091-t001_Table 1</object-id><label>Table 1</label><caption><p>Composition and time of release of drug to selected organic-inorganic systems.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Organic-Inorganic System Composition</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Drug</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Time of Released of Drug</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Comments</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PVA/PNIPAAm</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rhodamine B</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">16 h = &#x000b1; 95% at 38 &#x000b0;C <break/>16 h = &#x000b1; 70% at 20 &#x000b0;C</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Temperature influences in the release behavior</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B51-polymers-08-00091" ref-type="bibr">51</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">BTEPAA</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Doxorubicin</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">48 h = &#x000b1; 10% in pH &#x02264; 9 and <break/>&#x000b1; 95% in pH &#x02265; 9.</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">pH responsive systems</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B53-polymers-08-00091" ref-type="bibr">53</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cs/MSM</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ibuprofen</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4 h = &#x000b1; 20% in pH 7.4 and <break/>&#x000b1; 90% in pH 5.</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">pH responsive systems</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B54-polymers-08-00091" ref-type="bibr">54</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NAS/NAphMA/OEGMA/MSM</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Rhodamine B</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4 h = &#x000b1; 95% with 20 mM DDT <break/>4 h = &#x000b1; 5% without DDT</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Fluorescence properties</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B55-polymers-08-00091" ref-type="bibr">55</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/3-(isocyanatopropyl)-triethoxysilane/Magnetite</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sodium diclofenac</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4 h = &#x000b1; 95% with the application magnetic and 80% without magnetic field (0.250 T, 220 kHz)</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Stimulis with Magnetic field</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B56-polymers-08-00091" ref-type="bibr">56</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pluronic/Tetraethyl orthosilicate/P<sub>2</sub>O<sub>5</sub>/H<sub>3</sub>PO<sub>4</sub></td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Alendronate</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4 h = 25 &#x000b5;g&#x000b7;m<sup>&#x02212;2</sup> to material without P<sub>2</sub>O<sub>5</sub> and 87 &#x000b5;g&#x000b7;m<sup>&#x02212;2</sup> to material with P<sub>2</sub>O<sub>5</sub></td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Implantable systems</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B58-polymers-08-00091" ref-type="bibr">58</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PLGA/PS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Gentamicin</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">24 h = 77% PLGA pure and 41% PLGA/PS.<break/>25 days = 90% PLGA and 58% PLGA/PS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Implantable Systems</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B61-polymers-08-00091" ref-type="bibr">61</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">PEO/3-(isocyanatopropyl)-triethoxysilane/Chitosan</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pramoxine</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">3 h = &#x000b1; 100% without chitosan and 30% with 3% of chitosan</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Film-forming systems</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B66-polymers-08-00091" ref-type="bibr">66</xref>]</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Pluronic(127)/CPPs/Tetraethyl orthosilicateas</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">FITC/octaarginine</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">5 days = 85%</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">New devices of DDS</td><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">[<xref rid="B68-polymers-08-00091" ref-type="bibr">68</xref>]</td></tr></tbody></table></table-wrap></floats-group></article>

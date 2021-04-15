@@ -1,0 +1,1007 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Physiol</journal-id><journal-id journal-id-type="iso-abbrev">J. Physiol. (Lond.)</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1469-7793</journal-id><journal-id journal-id-type="publisher-id">TJP</journal-id><journal-id journal-id-type="hwp">jphysiol</journal-id><journal-title-group><journal-title>The Journal of Physiology</journal-title></journal-title-group><issn pub-type="ppub">0022-3751</issn><issn pub-type="epub">1469-7793</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">30604514</article-id><article-id pub-id-type="pmc">6418762</article-id><article-id pub-id-type="doi">10.1113/JP277292</article-id><article-id pub-id-type="publisher-id">TJP13388</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Neuroscience</subject></subj-group></article-categories><title-group><article-title>Functional assessment of triheteromeric NMDA receptors containing a human variant associated with epilepsy</article-title><alt-title alt-title-type="left-running-head">K. F. M. Marwick and others</alt-title><alt-title alt-title-type="right-running-head">Functional consequences of GluN2A<sup>N615K</sup></alt-title></title-group><contrib-group><contrib id="tjp13388-cr-0001" contrib-type="author" corresp="yes"><name><surname>Marwick</surname><given-names>Katie F. M.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1753-4626</contrib-id><address><email>katie.marwick@ed.ac.uk</email></address><xref ref-type="aff" rid="tjp13388-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="bio" rid="d35e54">*</xref></contrib><contrib id="tjp13388-cr-0002" contrib-type="author"><name><surname>Hansen</surname><given-names>Kasper B.</given-names></name><xref ref-type="aff" rid="tjp13388-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="tjp13388-cr-0003" contrib-type="author"><name><surname>Skehel</surname><given-names>Paul A.</given-names></name><xref ref-type="aff" rid="tjp13388-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="tjp13388-cr-0004" contrib-type="author"><name><surname>Hardingham</surname><given-names>Giles E.</given-names></name><xref ref-type="aff" rid="tjp13388-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="tjp13388-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="tjp13388-cr-0005" contrib-type="author"><name><surname>Wyllie</surname><given-names>David J. A.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-4957-6049</contrib-id><xref ref-type="aff" rid="tjp13388-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="tjp13388-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="tjp13388-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Centre for Discovery Brain Sciences</named-content>
+<named-content content-type="organisation-division">Hugh Robson Building</named-content>
+<institution>University of Edinburgh</institution>
+<named-content content-type="city">Edinburgh</named-content>
+<country country="GB">UK</country>
+</aff><aff id="tjp13388-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Biomedical and Pharmaceutical Sciences</named-content>
+<named-content content-type="organisation-division">Center for Structural and Functional Neuroscience</named-content>
+<named-content content-type="organisation-division">and Center for Biomolecular Structure and Dynamics</named-content>
+<institution>University of Montana</institution>
+<named-content content-type="city">Missoula</named-content>
+<named-content content-type="country-part">MT</named-content>
+<country country="US">USA</country>
+</aff><aff id="tjp13388-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">UK Dementia Research Institute</named-content>
+<institution>University of Edinburgh</institution>
+<named-content content-type="city">Edinburgh</named-content>
+<country country="GB">UK</country>
+</aff><aff id="tjp13388-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Centre for Brain Development and Repair</named-content>
+<institution>Institute for Stem Cell Biology and Regenerative Medicine</institution>
+<named-content content-type="city">Bangalore</named-content>
+<country country="IN">India</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Corresponding author</bold> K. F. M. Marwick: Centre for Discovery Brain Sciences, Hugh Robson Building, University of Edinburgh, Edinburgh EH8 9XD, UK.&#x02003;Email: <email>katie.marwick@ed.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>1</month><year>2019</year></pub-date><pub-date pub-type="ppub"><day>15</day><month>3</month><year>2019</year></pub-date><pub-date pub-type="pmc-release"><day>30</day><month>1</month><year>2019</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>597</volume><issue>6</issue><issue-id pub-id-type="doi">10.1113/tjp.2019.597.issue-6</issue-id><fpage>1691</fpage><lpage>1704</lpage><history><date date-type="received"><day>14</day><month>10</month><year>2018</year></date><date date-type="accepted"><day>02</day><month>1</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Journal compilation &#x000a9; 2019 The Physiological Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>The Journal of Physiology</italic> published by John Wiley &#x00026; Sons Ltd on behalf of The Physiological Society</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:TJP-597-1691.pdf"/><abstract><sec id="tjp13388-sec-0010"><title>Key points</title><p>
+<list list-type="bullet" id="tjp13388-list-0001"><list-item><p>NMDA receptors are neurotransmitter&#x02010;gated ion channels that are critically involved in brain cell communication</p></list-item><list-item><p>Variations in genes encoding NMDA receptor subunits have been found in a range of neurodevelopmental disorders.</p></list-item><list-item><p>We investigated a <italic>de novo</italic> genetic variant found in patients with epileptic encephalopathy that changes a residue located in the ion channel pore of the GluN2A NMDA receptor subunit.</p></list-item><list-item><p>We found that this variant (GluN2A<sup>N615K</sup>) impairs physiologically important receptor properties: it markedly reduces Mg<sup>2+</sup> blockade and channel conductance, even for receptors in which one GluN2A<sup>N615K</sup> is co&#x02010;assembled with one wild&#x02010;type GluN2A subunit.</p></list-item><list-item><p>Our findings are consistent with the GluN2A<sup>N615K</sup> mutation being the primary cause of the severe neurodevelopmental disorder in carriers.</p></list-item></list>
+</p></sec><sec id="tjp13388-sec-0020"><title>Abstract</title><p>NMDA receptors are ionotropic calcium&#x02010;permeable glutamate receptors with a voltage&#x02010;dependence mediated by blockade by Mg<sup>2+</sup>. Their activation is important in signal transduction, as well as synapse formation and maintenance. Two unrelated individuals with epileptic encephalopathy carry a <italic>de novo</italic> variant in the gene encoding the GluN2A NMDA receptor subunit: a N615K missense variant in the M2 pore helix (<italic>GRIN2A</italic>
+<sup>C1845A</sup>). We hypothesized that this variant underlies the neurodevelopmental disorders in carriers and explored its functional consequences by electrophysiological analysis in heterologous systems. We focused on GluN2A<sup>N615K</sup> co&#x02010;expressed with wild&#x02010;type GluN2 subunits in physiologically relevant triheteromeric NMDA receptors containing two GluN1 and two distinct GluN2 subunits, whereas previous studies have investigated the impact of the variant in diheteromeric NMDA receptors with two GluN1 and two identical GluN2 subunits. We found that GluN2A<sup>N615K</sup>&#x02010;containing triheteromers showed markedly reduced Mg<sup>2+</sup> blockade, with a value intermediate between GluN2A<sup>N615K</sup> diheteromers and wild&#x02010;type NMDA receptors. Single&#x02010;channel conductance was reduced by four&#x02010;fold in GluN2A<sup>N615K</sup> diheteromers, again with an intermediate value in GluN2A<sup>N615K</sup>&#x02010;containing triheteromers. Glutamate deactivation rates were unaffected. Furthermore, we expressed GluN2A<sup>N615K</sup> in cultured primary mouse cortical neurons, observing a decrease in Mg<sup>2+</sup> blockade and reduction in current density, confirming that the variant continues to have significant functional impact in neuronal systems. Our results demonstrate that the GluN2A<sup>N615K</sup> variant has substantial effects on NMDA receptor properties fundamental to the roles of the receptor in synaptic plasticity, even when expressed alongside wild&#x02010;type subunits. This work strengthens the evidence indicating that the GluN2A<sup>N615K</sup> variant underlies the disabling neurodevelopmental phenotype in carriers.</p></sec></abstract><abstract id="d35e362" abstract-type="toc"><title>Key points</title><p>
+<list list-type="bullet" id="tjp13388-list-0002"><list-item><p>NMDA receptors are neurotransmitter&#x02010;gated ion channels that are critically involved in brain cell communication</p></list-item><list-item><p>Variations in genes encoding NMDA receptor subunits have been found in a range of neurodevelopmental disorders.</p></list-item><list-item><p>We investigated a <italic>de novo</italic> genetic variant found in patients with epileptic encephalopathy that changes a residue located in the ion channel pore of the GluN2A NMDA receptor subunit.</p></list-item><list-item><p>We found that this variant (GluN2A<sup>N615K</sup>) impairs physiologically important receptor properties: it markedly reduces Mg<sup>2+</sup> blockade and channel conductance, even for receptors in which one GluN2A<sup>N615K</sup> is co&#x02010;assembled with one wild&#x02010;type GluN2A subunit.</p></list-item><list-item><p>Our findings are consistent with the GluN2A<sup>N615K</sup> mutation being the primary cause of the severe neurodevelopmental disorder in carriers.</p></list-item></list>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="tjp13388-kwd-0001">Genetics</kwd><kwd id="tjp13388-kwd-0002">intellectual disability</kwd><kwd id="tjp13388-kwd-0003">electrophysiology</kwd><kwd id="tjp13388-kwd-0004">Human</kwd><kwd id="tjp13388-kwd-0005">Epilepsy</kwd></kwd-group><funding-group><award-group><funding-source>HHS | National Institutes of Health (NIH)</funding-source><award-id>NS097536</award-id><award-id>GM103546</award-id></award-group><award-group><funding-source>Wellcome Trust</funding-source><award-id>WT102838</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="14"/><word-count count="8212"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>tjp13388</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>15 March 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.1 mode:remove_FC converted:15.03.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="tjp13388-note-0001"><p>Edited by: Kim Barrett &#x00026; Jean&#x02010;Claude B&#x000e9;&#x000ef;que</p></fn></fn-group></notes></front><body><sec id="tjp13388-sec-0030"><title>Introduction</title><p>The NMDA receptor is an ionotropic voltage&#x02010;dependent glutamate receptor with important roles in synaptic signal transduction and plasticity. NMDA receptor dysfunction has been identified in diverse neuropsychiatric disorders (Paoletti <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0022" ref-type="ref">2013</xref>). Unlike AMPA&#x02010; and kainate&#x02010;type glutamate receptors, it shows high Ca<sup>2+</sup> permeability (MacDermott <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0014" ref-type="ref">1986</xref>) and voltage&#x02010;dependent Mg<sup>2+</sup> blockade, which allows it to act as a molecular coincidence detector (Mayer <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0016" ref-type="ref">1984</xref>; Nowak <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0019" ref-type="ref">1984</xref>). NMDA receptors are heterotetramers comprised of two GluN1 and two GluN2 subunits of which four different subunits have been cloned (GluN2A&#x02010;D) (Watanabe <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0034" ref-type="ref">1992</xref>; Monyer <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0018" ref-type="ref">1994</xref>). The identity of the GluN2 subunits in the receptor impacts on receptor properties important in synaptic plasticity (Wyllie <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0037" ref-type="ref">2013</xref>). Diheteromeric GluN1/GluN2B receptors probably form the commonest forebrain receptor composition prenatally but, after GluN2A expression increases postnatally (Bar&#x02010;Shira <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0003" ref-type="ref">2015</xref>), triheteromeric GluN1/GluN2A/GluN2B receptors comprise a major proportion of NMDA receptors, particularly in the hippocampus (Gray <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0008" ref-type="ref">2011</xref>; Rauner &#x00026; K&#x000f6;hr, <xref rid="tjp13388-bib-0025" ref-type="ref">2011</xref>; Tovar <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0033" ref-type="ref">2013</xref>).</p><p>The rapid expansion of whole&#x02010;exome sequencing over the last decade has shown that many regions of the gene encoding GluN2A (<italic>GRIN2A</italic>) are intolerant of variation in healthy controls (Ogden <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0020" ref-type="ref">2017</xref>) and, instead, a large number of rare and <italic>de novo</italic> variants (&#x0003e;100) have been identified in patients with a range of neurodevelopmental disorders, most commonly epilepsy aphasia syndromes or other epileptic disorders, but also intellectual disability, autism, attention deficit hyperactivity disorder and schizophrenia (XiangWei <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0038" ref-type="ref">2018</xref>). At the most severe end of the phenotypic spectrum are epileptic encephalopathies, where epileptic activity is considered to contribute to severe cognitive and behavioural impairment (Scheffer <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0028" ref-type="ref">2017</xref>). Around half of disease&#x02010;associated <italic>GRIN2A</italic> variants are gene&#x02010;disrupting and around half are missense variants, potentially resulting in NMDA receptors with altered function, requiring electrophysiological interrogation for confirmation. This has been a clinically useful strategy, with personalized treatment being offered based on a functional analysis of the variant (Pierson <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0023" ref-type="ref">2014</xref>). However, it is improbable that all variants are disease&#x02010;causing: some are inherited from phenotypically normal parents and some are in regions of the protein that probably exhibit variation without deleterious functional impact (less highly conserved, or more variation present in healthy controls). Furthermore, of those variants where functional consequences have been assessed, a range of effects have been found, some predominantly &#x02018;gain&#x02010;of&#x02010;function&#x02019;, some predominantly &#x02018;loss&#x02010;of&#x02010;function&#x02019; (Swanger <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0032" ref-type="ref">2016</xref>) and some with no effect (Marwick <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0015" ref-type="ref">2017</xref>). For these reasons, it is important to identify the functional consequences, if any, of a given variant before giving a genetic diagnosis or embarking on targeted treatment.</p><p>The large and increasing number of <italic>GRIN2A</italic> variants (and variants in other genes) found in patients with neurodevelopmental disorders means that some prioritization for functional investigation needs to be applied. The variant that we selected for intensive further study was GluN2A<sup>N615K</sup>. This variant was selected because it affects a residue that is already known to be crucial in interacting with Mg<sup>2+</sup> ions, the &#x02018;N+1&#x02019; asparagine (Wollmuth <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0036" ref-type="ref">1998</xref>). Missense mutations affecting this residue have a high probability of influencing receptor function. Second, the variant has good genetic evidence of disease&#x02010;association: it has arisen <italic>de novo</italic> in two unrelated individuals with similar phenotypes (Endele <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0005" ref-type="ref">2010</xref>; Allen <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0001" ref-type="ref">2016</xref>). Both individuals presented with early&#x02010;onset epileptic encephalopathy, associated with severe or profound intellectual disability and electroencephalogram abnormalities. Furthermore, so far, the residue has not been found to be mutated in 60&#x000a0;706 people without severe paediatric disease (Exome Aggregation Consortium database, accessed 3 September 2018).</p><p>The GluN2A<sup>N615K</sup> variant was the first missense <italic>GRIN2A</italic> variant identified as potentially disease causing and some functional work on its consequences has already been performed when expressed as diheteromers: GluN2A<sup>N615K</sup> has been found to reduce Mg<sup>2+</sup> blockade and Ca<sup>2+</sup> permeability and impact channel blocker potency but not to affect glutamate or glycine potency (Endele <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0005" ref-type="ref">2010</xref>; Pierson <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0023" ref-type="ref">2014</xref>). However, no previous work has investigated the impact of this variant when expressed in triheteromers with one wild&#x02010;type and one mutated GluN2 subunit. This insight would be clinically relevant, both because the variant is present heterozygously and because the majority of NMDA receptors in key regions of the adolescent and adult brain are probably GluN1/GluN2A/GluN2B triheteromers. Moreover, no previous work has investigated the impact of the variant on NMDA receptors expressed in neurons, where neuron&#x02010;specific trafficking and regulation could potentially negate or compensate for the impact of the variant.</p><p>In the present study, we employed a recently developed technique to express triheteromeric NMDA receptors containing only one variant subunit in HEK293T cells and assessed the impact of the variant on physiologically relevant receptor properties important for synaptic transmission using electrophysiological recordings. In addition, we expressed the mutant subunit in primary cultured neurons and found that the GluN2A<sup>N615K</sup> mutation had a marked impact on key physiological properties of NMDA receptors even in the presence of wild&#x02010;type subunits, which is consistent with a role in the pathogenesis of the epileptic encephalopathies experienced by its carriers.</p></sec><sec id="tjp13388-sec-0040"><title>Methods</title><sec id="tjp13388-sec-0050"><title>Ethical approval</title><p>Experiments conducted during the course of this study received approval from the University of Edinburgh's Animal Welfare Ethical Review Board. Animal breeding and maintenance and experimental procedures were performed in accordance with the UK Animals (Scientific Procedures) Act 1986 under the authority of Project Licence 60/4290 (D.J.A.W.). Animal experiments adhered to the ethical principles required by <italic>The Journal of Physiology</italic> (Grundy, <xref rid="tjp13388-bib-0009" ref-type="ref">2015</xref>). Mice were housed under a standard 12:12&#x000a0;h light/dark cycle and received food and water <italic>ad libitum</italic>. E17.5 CD1 mice (sex not determined) supplied by Charles River (Margate, UK), were culled by decapitation (a Schedule 1 Method) shortly following culling of the dam by cervical dislocation (a Schedule 1 method). Dams were typically 12&#x02013;22 weeks old.</p></sec><sec id="tjp13388-sec-0060"><title>Mutagenesis</title><p>The cDNA for wild&#x02010;type human NMDA subunit GluN1&#x02010;1a (hereafter GluN1) and GluN2A (GenBank accession codes: NP_015566, NP_000824) (Hedegaard <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0011" ref-type="ref">2012</xref>) were gifts from Dr Hongjie Yuan (University of Emory, Atlanta, GA, USA). The GluN2 cDNAs for triheteromer experiments have been described previously: wild&#x02010;type rat GluN2A (D13211) and GluN2B (U11419), GluN2A<sub>C1</sub>, GluN2A<sub>C2</sub>, GluN2B<sub>AC1</sub> and GluN2B<sub>AC2</sub> (Hansen <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0010" ref-type="ref">2014</xref>). Expression of GluN1 in HEK293T cells was achieved as described previously (Yi <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0039" ref-type="ref">2018</xref>) using a plasmid DNA construct with enhanced green fluorescent protein (eGFP) inserted between the cytomegalovirus promoter in pCI&#x02010;neo and the open reading frame of rat GluN1 (U08261) (i.e. eGFP and GluN1 were not expressed as a fusion protein). This DNA construct produces high expression of eGFP for identification of transfected cells and maintains a linear relationship between eGFP and GluN1 expression. All cDNAs were in pCI&#x02010;neo. Site&#x02010;directed mutagenesis was performed via PCR with overlapping mutagenizing oligonucleotides using a thermostable Pfu high fidelity DNA polymerase (New England Biolabs, Ipswich, MA, USA). The PCR product was recircularized into a viable plasmid using an InFusion HD kit (Clontech, Mountain View, CA, USA). The double&#x02010;stranded mutant DNA was transformed into TOP10 Competent Cells (Life Tech, Grand Island, NY, USA). Clones were amplified then DNA extracted using QIAPrep Spin MiniPrep Kit (Qiagen, Venlo, The Netherlands) in accordance with the manufacturer's instructions. The mutations were verified by Sanger sequencing through the mutated region.</p></sec><sec id="tjp13388-sec-0070"><title>Preparation and transfection of HEK293T cells</title><p>For whole&#x02010;cell experiments, human embryonic kidney 293 cells containing the SV40 large T&#x02013;antigen (HEK293T) cells were cultured in Dulbecco's modified Eagle's medium supplemented with 10% dialysed fetal bovine serum, 10 U&#x000a0;mL<sup>&#x02013;1</sup> penicillin and 10&#x000a0;mg&#x000a0;mL<sup>&#x02013;1</sup> streptomycin). HEK293T cells were chosen for their propensity to grow singly rather than in clumps, facilitating electrophysiological experiments involving rapid solution application. Cells were passaged twice weekly and plated onto cover slips precoated in poly&#x02010;<sc>d</sc>&#x02010;lysine (0.1&#x000a0;mg&#x000a0;mL<sup>&#x02013;1</sup>) to give a density of 10&#x02013;30% on the day of recording. HEK293T cells were transfected using the calcium phosphate precipitation method. Plasmids containing rGluN1&#x02010;1a eGFP and the rGluN2 subunits of interest were mixed in a 1:1 mass ratio and diluted to 200&#x000a0;g&#x000a0;L<sup>&#x02013;1</sup> with water. To transfect four wells of a 24&#x02010;well plate, 10&#x000a0;&#x003bc;L of cDNA was mixed with 25&#x000a0;&#x003bc;L of 1 <sc>m</sc> CaCl<sub>2</sub> and 100&#x000a0;&#x003bc;L of 2&#x000a0;&#x000d7;&#x000a0;Bes (50&#x000a0;m<sc>m</sc> Bes, 280&#x000a0;m<sc>m</sc> NaCl and 1.5&#x000a0;m<sc>m</sc> Na<sub>2</sub>HPO<sub>4</sub>, pH 6.95), then mixed by pipetting. After 10&#x02013;15 min, 50&#x000a0;&#x003bc;L of this mixture was added dropwise to each well. After 4&#x02013;6&#x000a0;h, the media was replaced with fresh media supplemented with NMDA receptor antagonists [<sc>d</sc>&#x02010;2&#x02010;amino&#x02010;5&#x02010;phosphonopentanoic acid (200&#x000a0;&#x003bc;<sc>m</sc>) and 7&#x02010;chlorokynurenic acid (200&#x000a0;&#x003bc;<sc>m</sc>)]. Recordings were made &#x0223c;24&#x000a0;h post transfection. HEK293T for single&#x02010;channel experiments were prepared similarly with minor differences: Dulbecco's modified Eagle's medium was supplemented with Glutamax&#x02010;I (Thermo Fisher, Waltham, MA, USA) and 1% antibiotic/antimycotic and the NMDA receptor antagonists used to avoid excitotoxicity post transfection were 100&#x000a0;&#x003bc;<sc>m d</sc>&#x02010;2&#x02010;amino&#x02010;5&#x02010;phosphonopentanoic acid and 10&#x000a0;&#x003bc;<sc>m</sc> 5,7&#x02010;dichlorokynurenic acid.</p></sec><sec id="tjp13388-sec-0080"><title>Whole&#x02010;cell, voltage clamp recordings in HEK293T cells</title><p>Transfected HEK293T cells were identified by eGFP expression (excitation at 470&#x000a0;nm, coolLED pE&#x02010;100; coolLED Ltd, Andover, UK). Whole&#x02010;cell, patch clamp recordings were performed using an Axopatch 200B amplifier (Molecular Devices, Sunnydale, CA, USA) at room temperature. The signal was then filtered using an 8&#x000a0;kHz 8&#x02010;pole low&#x02010;pass filter (&#x02013;3&#x000a0;dB Bessel; Frequency Devices, Ottawa, IL, USA) and digitized at 20&#x000a0;kHz using a Digidata 1440A analogue&#x02010;digital interface (Molecular Devices) using Clampex software (Molecular Devices). Patch pipettes were made from thin&#x02010;walled borosilicate glass (TW150F&#x02010;4; World Precision Instruments, Sarasota, FL, USA) using a P&#x02010;1000 puller (Sutter Instruments, Novato, CA, USA) to give a resistance of 4&#x02013;5&#x000a0;M&#x003a9; when filled with an internal solution containing (in m<sc>m</sc>): 141 K&#x02010;gluconate, 2.5 NaCl, 10 Hepes and 11 EGTA (pH 7.3 with KOH) (300 mosmol L<sup>&#x02212;1</sup>). The extracellular solution was composed of (in m<sc>m</sc>): 150 NaCl, 10 Hepes, 3 KCl, 0.5 CaCl<sub>2</sub>, 0.01 EDTA and 20 <sc>d</sc>&#x02010;mannitol (pH 7.4 with NaOH). Rapid solution exchange (open tip solution exchange with 10&#x02013;90% rise times of 0.7&#x02013;0.9&#x000a0;ms) was achieved using a two&#x02010;barrel theta&#x02010;glass pipette controlled by a piezoelectric translator (Siskiyou Corporation, Grants Pass, OR, USA). Cells with glutamate&#x02010;evoked responses of less than 100 pA or greater than 1000 pA were rejected, to reduce error from noise and to avoid leak of undesired subunit pairings (Hansen <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0010" ref-type="ref">2014</xref>). To calculate glutamate deactivation rates, multicomponent exponential decay curves were fitted to macroscopic response time courses in ChanneLab software (Synaptosoft, Fort Lee, NJ, USA).
+<disp-formula id="tjp13388-disp-0001"><mml:math id="nlm-math-1"><mml:mtable displaystyle="true"><mml:mtr><mml:mtd/><mml:mtd/><mml:mtd columnalign="left"><mml:mrow><mml:msub><mml:mi>t</mml:mi><mml:mi> weighted </mml:mi></mml:msub><mml:mspace width="0.28em"/><mml:mi> was </mml:mi><mml:mspace width="0.28em"/><mml:mi> calculated </mml:mi><mml:mspace width="0.28em"/><mml:mrow><mml:mi> as </mml:mi><mml:mspace width="-0.16em"/><mml:mo>:</mml:mo></mml:mrow><mml:mspace width="0.28em"/><mml:mfenced separators="" open="(" close=")"><mml:mrow><mml:mo>%</mml:mo><mml:mspace width="0.28em"/><mml:mi> amplitud </mml:mi><mml:msub><mml:mi mathvariant="normal">e</mml:mi><mml:mrow><mml:mi> fast </mml:mi><mml:mspace width="0.33em"/></mml:mrow></mml:msub><mml:mrow><mml:mo>&#x02217;</mml:mo><mml:mspace width="0.33em"/></mml:mrow><mml:msub><mml:mi mathvariant="normal">t</mml:mi><mml:mi> fast </mml:mi></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mtd></mml:mtr><mml:mtr><mml:mtd/><mml:mtd/><mml:mtd columnalign="left"><mml:mrow><mml:mspace width="1em"/><mml:mo>+</mml:mo><mml:mspace width="0.33em"/><mml:mo stretchy="false">(</mml:mo><mml:mo>%</mml:mo><mml:mspace width="0.28em"/><mml:mi> amplitud </mml:mi><mml:msub><mml:mi mathvariant="normal">e</mml:mi><mml:mrow><mml:mi> slow </mml:mi><mml:mspace width="0.33em"/></mml:mrow></mml:msub><mml:mrow><mml:mo>&#x02217;</mml:mo><mml:mspace width="0.33em"/></mml:mrow><mml:msub><mml:mi mathvariant="normal">t</mml:mi><mml:mi> slow </mml:mi></mml:msub><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:mtd></mml:mtr></mml:mtable></mml:math></disp-formula>
+</p></sec><sec id="tjp13388-sec-0090"><title>Single&#x02010;channel, voltage clamp recordings in HEK293T cells</title><p>Single&#x02010;channel, voltage clamp recordings were made at room temperature from cell&#x02010;attached patches formed on HEK293T cells placed in a solution that contained (in m<sc>m</sc>): 150 NaCl, 2.8 KCl, 10 Hepes, 2 CaCl<sub>2</sub>, 10 glucose and 0.1 glycine (pH 7.35 with NaOH) (300&#x02013;330 mosmol L<sup>&#x02212;1</sup>). Patches were recorded at a range of holding potentials. Transfected cells were identified by eGFP expression as above. Patch pipettes were made from thick&#x02010;walled borosilicate glass (GC150F&#x02010;7.5; Harvard Apparatus, Cambridge, MA, USA) using a P&#x02010;87 puller (Sutter Instruments, Novato, CA, USA) and fire&#x02010;polished to give a resistance of 6&#x02013;12&#x000a0;M&#x003a9; when filled with the external solution plus agonist (glutamate 1&#x000a0;m<sc>m</sc>). Currents were recorded using an Axopatch 200B amplifier (Molecular Devices). Data were filtered at 2&#x000a0;kHz and digitized at 20&#x000a0;kHz via a BNC&#x02010;2090A analogue&#x02010;digital interface (National Instruments, Newbury, UK) using WinEDR software (Strathclyde Electrophysiology Software, Strathclyde, UK).</p><p>WinEDR v3 (Strathclyde Electrophysiology Software) was used to idealize the traces (using a transition threshold of 50% of the predominant conductance level and a 100&#x000a0;&#x003bc;s open and shut resolution) and to fit Gaussian curves to amplitude histograms. The relative proportion of time spent in a given conductance state was calculated by fitting areas under the amplitude histograms. To improve accuracy of amplitude estimates, a 1&#x000a0;ms minimum open time duration was applied. Because the membrane potential was not known, the patch potential was unknown. Therefore, recordings were made at a range of pipette potentials (+40 to +180&#x000a0;mV) and the current plotted against voltage: the slope (fitted by linear regression) gave the conductance. Mean open times were calculated using openings at one pipette potential, with a 1&#x000a0;ms minimum open time duration applied, and fitted using single exponentials in WinEDR. Transitions between subconductance states were manually coded from inspection of all openings with duration &#x0003e;1&#x000a0;ms at a single pipette potential. Traces were excluded if: <italic>R</italic>
+<sup>2</sup>&#x000a0;&#x0003c;&#x000a0;0.9 for the linear regression, fewer than three pipette potentials were recorded from, or fewer than 20 openings occurred at a given pipette potential.</p></sec><sec id="tjp13388-sec-0100"><title>Preparation and transfection of neurons</title><p>Neuronal culturing and transfection was performed as described previously (Marwick <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0015" ref-type="ref">2017</xref>). Shortly following decapitation, brains were microdissected in medium containing (in m<sc>m</sc>): 8.8 Na<sub>2</sub>SO<sub>4</sub>, 27 K<sub>2</sub>SO<sub>4</sub>, 5.3 MgCl<sub>2</sub>, 0.23 CaCl<sub>2</sub>, 0.9 Hepes, 0.001% phenol red, 18 <sc>d</sc>&#x02010;glucose and 0.0005 kynurenic acid (adjusted to pH 7.35 using NaOH). Cortices were incubated for 40&#x000a0;min at 37&#x000b0;C in papain enzyme (36,000 USP units&#x000a0;mL<sup>&#x02013;1</sup>) (Worthington Biochemical Corporation, Lakewood, NJ, USA) then washed and triturated in NeuroBasal A medium (Thermo Fisher) (supplemented with 1% rat serum; Harlan Laboratories, Indianapolis, IN, USA), 1&#x000a0;&#x000d7;&#x000a0;B&#x02010;27 supplement, 1% antibacterial/antimycotic and 1&#x000a0;m<sc>m</sc> glutamine). Opti&#x02010;MEM (supplemented with 20&#x000a0;m<sc>m</sc> glucose and 1% antibacterial/antimycotic) was added to the cell suspension to give an end concentration of 1 hemisphere per 7&#x000a0;mL, and 0.5&#x000a0;mL&#x000a0;was plated onto a glass coverslip (diameter 13&#x000a0;mm) precoated with poly&#x02010;<sc>d</sc>&#x02010;lysine (1.33% w/v in H<sub>2</sub>O) and laminin (0.5% w/v) (Roche, Basel, Switzerland) in 24&#x02010;well plates. Plates were kept for 2.5&#x000a0;h in a humidified 5% CO<sub>2</sub> incubator at 37&#x000b0;C before the cell suspension was removed and replaced with supplemented NeuroBasal A. On days <italic>in vitro</italic> (DIV) 4, 1&#x000a0;mL&#x000a0;well<sup>&#x02013;1</sup> of supplemented NeuroBasal A additionally containing 9.6&#x000a0;m<sc>m</sc> cytosine &#x003b2;&#x02010;<sc>d</sc>&#x02010;arabinofuranoside hydrochloride (a DNA replication inhibitor that prevents glial overproliferation) was added to the cells.</p><p>Neurons were transfected on DIV 7 or 8 with plasmids containing cDNA for wild&#x02010;type and mutant GluN2A subunits, or the inert control &#x003b2; globin, using Lipofectamine 2000 (Thermo Fisher) (hereafter referred to as lipofectamine) in serum free non&#x02010;trophic transfection medium composed of: 10% minimum essential media (+Earles, &#x02013;<sc>l</sc>&#x02010;glutamine), 88% salt&#x02010;glucose&#x02010;glycine (comprising in m<sc>m</sc> 114 NaCl, 26 NaHCO<sub>3</sub>, 5.3 KCl, 1 MgCl<sub>2</sub>, 2 CaCl<sub>2</sub>, 10 Hepes, 1 glycine, 30 <sc>d</sc>&#x02010;glucose and 0.5 sodium pyruvate, with phenol red 0.001%) (Bading <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0002" ref-type="ref">1993</xref>) supplemented with 1% antibiotic/antimycotic and 1% insulin&#x02013;transferrin&#x02013;selenium supplement. For each coverslip, 575&#x000a0;ng of plasmid DNA comprising a 2:1 mass ratio of GluN2A/GluN2B and eGFP cDNA was mixed with 2.3&#x000a0;&#x003bc;L of lipofectamine. The cotransfection rate was 96% (data not shown). Electrophysiological recordings were performed &#x0223c;48&#x000a0;h post transfection.</p></sec><sec id="tjp13388-sec-0110"><title>Whole&#x02010;cell, voltage clamp recordings in cultured neurons</title><p>Electrophysiological recordings in cultured neurons were performed as described previously (Marwick <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0015" ref-type="ref">2017</xref>). Recordings were made at room temperature with neurons superfused (flow rate of 2&#x000a0;mL&#x000a0;min<sup>&#x02013;1</sup>) with external recording solution composed of (in m<sc>m</sc>) 150 NaCl, 2.8 KCl, 10 Hepes, 2 CaCl<sub>2</sub>, 10 glucose, 0.1 glycine and 0.003 TTX (pH 7.35 using NaOH) (300&#x02013;330 mosmol L<sup>&#x02212;1</sup>). Transfected cells were identified using eGFP expression (excitation at 470&#x000a0;nm, coolLED pE&#x02010;100; coolLED Ltd). Then, 150&#x000a0;&#x003bc;<sc>m</sc> NMDA was applied briefly twice to trigger desensitization until a steady response was achieved (&#x0223c;10&#x000a0;s) at which point 1&#x000a0;m<sc>m</sc> MgCl<sub>2</sub> was co&#x02010;applied until the response plateaued. Cells were then perfused with 3&#x000a0;&#x003bc;<sc>m</sc> ifenprodil for 1&#x000a0;min before the experiments were repeated. Solution application was manually controlled. Patch pipettes were made from thick&#x02010;walled borosilicate glass (GC150F&#x02010;7.5; Harvard Apparatus) using a P&#x02010;87 puller (Sutter Instruments) to give a resistance of 2&#x02013;4&#x000a0;M&#x003a9; when filled with internal solution containing (in m<sc>m</sc>): 141 K&#x02010;gluconate, 2.5 NaCl, 10 Hepes and 11 EGTA (pH 7.3 with KOH) (300&#x02013;330 mosmol L<sup>&#x02212;1</sup>). Currents were recorded using an Axopatch 200B amplifier (Molecular Devices). Data were filtered at 2&#x000a0;kHz and digitized at 20&#x000a0;kHz via a National Instruments BNC&#x02010;2090A analogue&#x02013;digital interface (National Instruments) using WinEDR software. Neurons were voltage clamped at &#x02013;65&#x000a0;mV, and recordings were rejected if the holding current was greater than 150 pA or if the series resistance was greater than 30&#x000a0;M&#x003a9;, or increased by greater than 20% during the course of the recording. Capacitance was calculated by calculating the area under the current response to a 5&#x000a0;mV test pulse plotted against time (giving the charge) and dividing by the voltage of the test pulse. Current density was then calculated as current/capacitance.</p></sec><sec id="tjp13388-sec-0120"><title>Statistical analysis</title><p>Data are presented as the mean&#x000a0;&#x000b1;&#x000a0;SEM. Graphs depict individual cells (circles), means (columns) and SEM (error bars). <italic>N</italic> refers to number of cells. R, version 3.1.2 (R Core Team, 2014) was used to perform statistical tests. Comparisons between multiple means are performed by ANOVA, with <italic>post hoc</italic> tests performed if the <italic>F</italic>&#x000a0;test was significant for a main effect. Comparisons between two means are performed by independent, two&#x02010;tailed, Welch <italic>t</italic>&#x000a0;tests (which do not assume equal variance between groups) unless otherwise stated. Correction for multiple comparisons is made using the Bonferroni method. <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 was considered statistically significant (<sup>*</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05, <sup>**</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 and <sup>***</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001.</p></sec><sec id="tjp13388-sec-0130"><title>Materials</title><p>NMDA, NMDA receptor antagonists, ifenprodil and TTX were purchased from Tocris Bioscience (Bristol, UK). Media, media supplements, Lipofectamine 2000, fetal bovine serum, antibiotic/antimycotic and &#x00392;&#x02010;27 were purchased from Invitrogen (Carlsbad, CA, USA). The remaining substances were purchased from Sigma&#x02010;Aldrich (St Louis, MO, USA) unless otherwise stated.</p></sec></sec><sec id="tjp13388-sec-0140"><title>Results</title><sec id="tjp13388-sec-0150"><title>GluN2A<sup>N615K</sup> reduces Mg<sup>2+</sup> blockade in triheteromeric NMDA receptors</title><p>We first investigated Mg<sup>2+</sup> blockade in GluN1/GluN2A<sup>N615K</sup> diheteromers expressed in HEK293T cells (Fig.&#x000a0;<xref rid="tjp13388-fig-0001" ref-type="fig">1</xref>). Consistent with previous work (Endele <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0005" ref-type="ref">2010</xref>), we found that the GluN2A<sup>N615K</sup> variant resulted in negligible Mg<sup>2+</sup> blockade at approximately physiological concentrations. We next investigated the impact of the GluN2A<sup>N615K</sup> variant when expressed as part of triheteromeric NMDA receptors containing wild&#x02010;type GluN2 subunits (Fig.&#x000a0;<xref rid="tjp13388-fig-0001" ref-type="fig">1</xref>). Accordingly, we employed receptor subunits with modified endoplasmic reticulum retention signals as developed by Hansen <italic>et&#x000a0;al</italic>. (<xref rid="tjp13388-bib-0010" ref-type="ref">2014</xref>) to express receptors containing zero, one or two GluN2A<sup>N615K</sup> subunits partnered with wild&#x02010;type GluN2A or GluN2B subunits. Receptors containing only one GluN2A<sup>N615K</sup> subunit continued to exhibit markedly reduced Mg<sup>2+</sup> blockade, with a blockade intermediate between wild&#x02010;type and GluN2A<sup>N615K</sup> diheteromers (Fig.&#x000a0;<xref rid="tjp13388-fig-0001" ref-type="fig">1</xref>
+<italic>A</italic> and <italic>B</italic>). Unexpectedly, the identity of the wild&#x02010;type subunit partnered with GluN2A<sup>N615K</sup> impacted on Mg<sup>2+</sup> blockade, with a GluN2B<sup>WT</sup> partner showing lower Mg<sup>2+</sup> blockade than a GluN2A<sup>WT</sup> partner (Fig.&#x000a0;<xref rid="tjp13388-fig-0001" ref-type="fig">1</xref>
+<italic>A</italic> and <italic>B</italic>). We confirmed that the modified C&#x02010;termini did not themselves influence Mg<sup>2+</sup> blockade (Fig.&#x000a0;<xref rid="tjp13388-fig-0001" ref-type="fig">1</xref>
+<italic>C</italic>).</p><fig fig-type="Figure" xml:lang="en" id="tjp13388-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<bold>GluN2A<sup>N615K</sup> reduces Mg<sup>2+</sup> blockade in triheteromeric NMDA receptors</bold>
+</p><p>
+<italic>A</italic>, representative whole&#x02010;cell, voltage clamp recordings from HEK293T cells expressing NMDA receptors containing wild&#x02010;type GluN2A diheteromers, GluN2A/2B triheteromers and GluN2A<sup>N615K</sup>&#x02010;containing diheteromers and triheteromers, partnered with either GluN2A<sup>WT</sup> or GluN2B<sup>WT</sup>. All subunits, including wild&#x02010;type, had modified endoplasmic reticulum signals. The traces show responses to glutamate (1&#x000a0;m<sc>m</sc>) and blockade by Mg<sup>2+</sup> (1&#x000a0;m<sc>m</sc>) in the continuous presence of glycine (100&#x000a0;&#x003bc;<sc>m</sc>), held at &#x02013;60&#x000a0;mV. <italic>B</italic>, summary data showing percentage blockade by Mg<sup>2+</sup> for each receptor composition. A one&#x02010;way ANOVA showed a significant effect of receptor subunit composition (<italic>F</italic>
+<sub>4,64</sub>&#x000a0;=&#x000a0;346, <italic>P</italic> &#x0003c;&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>). <italic>Post hoc</italic> Bonferroni corrected <italic>t</italic>&#x000a0;tests showed that GluN2A<sup>N615K</sup> diheteromeric receptors had a significantly reduced Mg<sup>2+</sup> blockade (9&#x000a0;&#x000b1;&#x000a0;1%, <italic>n</italic>&#x000a0;=&#x000a0;7) compared to GluN2A<sup>WT</sup> diheteromers (107&#x000a0;&#x000b1;&#x000a0;2%, <italic>n</italic>&#x000a0;=&#x000a0;7, <italic>t</italic>
+<sub>7.3</sub>&#x000a0;=&#x000a0;42, <italic>P</italic>&#x000a0;=&#x000a0;5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;10</sup>). Triheteromeric receptors containing only one GluN2A<sup>N615K</sup> subunit also showed a marked reduction in Mg<sup>2+</sup> blockade, whether partnered with one GluN2A<sup>WT</sup> subunit (53&#x000a0;&#x000b1;&#x000a0;2%, <italic>n</italic>&#x000a0;=&#x000a0;20), compared with GluN2A<sup>WT</sup> diheteromers (<italic>t</italic>
+<sub>19.9</sub>&#x000a0;=&#x000a0;16.5, <italic>P</italic>&#x000a0;=&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;12</sup>) or partnered with one GluN2B<sup>WT</sup> subunit (36&#x000a0;&#x000b1;&#x000a0;1%, <italic>n</italic>&#x000a0;=&#x000a0;20), compared with GluN2A<sup>WT</sup>/2B<sup>WT</sup> (103&#x000a0;&#x000b1;&#x000a0;1%, <italic>n</italic>&#x000a0;=&#x000a0;15, <italic>t</italic>
+<sub>32.6</sub>&#x000a0;=&#x000a0;36.9, <italic>P</italic>&#x000a0;=&#x000a0;9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>). The reduction in Mg<sup>2+</sup> blockade was greater in GluN2A<sup>N615K</sup> subunits partnered with GluN2B<sup>WT</sup> than with GluN2A<sup>WT</sup> (<italic>t</italic>
+<sub>29.4</sub>&#x000a0;=&#x000a0;6.3, <italic>P</italic>&#x000a0;=&#x000a0;3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;6</sup>). Some traces show greater than 100% blockade by Mg<sup>2+</sup>, reflecting a small contamination of the bath fluid (baseline exposure) by glutamate. <italic>C</italic>, summary data showing percentage blockade by Mg<sup>2+</sup> for NMDA receptors with and without modified C&#x02010;termini. A two&#x02010;way ANOVA showed a significant influence of C&#x02010;terminus tag (<italic>F</italic>
+<sub>1,35</sub>&#x000a0;=&#x000a0;8.0, <italic>P</italic>&#x000a0;=&#x000a0;0.00785) and a significant effect of receptor subunit composition (<italic>F</italic>
+<sub>2,35</sub>&#x000a0;=&#x000a0;2635, <italic>P</italic> &#x0003c;&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>), although there was no significant interaction (<italic>F</italic>
+<sub>2,35</sub>&#x000a0;=&#x000a0;1.3, <italic>P</italic>&#x000a0;=&#x000a0;0.28). However, <italic>post hoc</italic> Bonferroni corrected <italic>t</italic>&#x000a0;tests showed no significant effect of modifying C&#x02010;termini with engineered tags for any subunit.</p></caption><graphic id="nlm-graphic-3" xlink:href="TJP-597-1691-g002"/></fig></sec><sec id="tjp13388-sec-0160"><title>GluN2A<sup>N615K</sup> does not influence glutamate deactivation</title><p>Previously, GluN2A/2B triheteromer glutamate deactivation rates have been found to be intermediate between those of GluN2A and GluN2B diheteromers (Hansen <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0010" ref-type="ref">2014</xref>; Stroebel <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0031" ref-type="ref">2014</xref>). We used fast applications of glutamate onto HEK293T cells to replicate this finding, and we also demonstrated that GluN2A<sup>N615K</sup> does not influence glutamate deactivation rates (Fig.&#x000a0;<xref rid="tjp13388-fig-0002" ref-type="fig">2</xref>
+<italic>A</italic>&#x02013;<italic>C</italic>). Current density showed a trend towards lower levels in cells expressing GluN2A<sup>N615K</sup>&#x02010;containing receptors, although this was not statistically significant (Fig.&#x000a0;<xref rid="tjp13388-fig-0002" ref-type="fig">2</xref>
+<italic>D</italic>). We also confirmed that the C&#x02010;terminus modifications required for the generation of triheteromers do not influence glutamate deactivation rates in wild&#x02010;type or GluN2A<sup>N615K</sup>&#x02010;containing receptors (Fig.&#x000a0;<xref rid="tjp13388-fig-0002" ref-type="fig">2</xref>
+<italic>E</italic>).</p><fig fig-type="Figure" xml:lang="en" id="tjp13388-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<bold>GluN2A<sup>N615K</sup> does not alter glutamate deactivation</bold>
+</p><p>
+<italic>A</italic> and <italic>B</italic>, representative whole&#x02010;cell, voltage clamp recordings from HEK293T cells expressing NMDA receptors containing wild&#x02010;type GluN2A diheteromers, GluN2A/2B triheteromers and GluN2A<sup>N615K</sup> containing diheteromers and triheteromers, partnered with either GluN2A<sup>WT</sup> or GluN2B<sup>WT</sup>. All subunits, including wild&#x02010;type, had modified endoplasmic reticulum signals. The traces show deactivation following 5&#x000a0;ms exposure to glutamate (1&#x000a0;m<sc>m</sc>) and glycine (100&#x000a0;&#x003bc;<sc>m</sc>) in the absence of Mg<sup>2+</sup> when held at &#x02013;60&#x000a0;mV. Responses are normalized to their peak amplitudes. <italic>C</italic>, summary data showing weighted time constants fitted to the glutamate deactivation curves. A one&#x02010;way ANOVA showed a significant effect of receptor subunit composition (<italic>F</italic>
+<sub>4,64</sub>&#x000a0;=&#x000a0;14, <italic>P</italic>&#x000a0;=&#x000a0;3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;8</sup>). <italic>Post hoc</italic> Bonferroni corrected <italic>t</italic> tests showed that GluN2A<sup>WT</sup>/2B triheteromers had a slower deactivation time constant (77&#x000a0;&#x000b1;&#x000a0;4&#x000a0;ms; <italic>n</italic>&#x000a0;=&#x000a0;15), than GluN2A<sup>WT</sup> diheteromers (45&#x000a0;&#x000b1;&#x000a0;4&#x000a0;ms; <italic>n</italic>&#x000a0;=&#x000a0;7; <italic>t</italic>
+<sub>17</sub>&#x000a0;=&#x000a0;6.2, <italic>P</italic>&#x000a0;=&#x000a0;4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup>). GluN2A<sup>WT</sup> diheteromers were indistinguishable from GluN2A<sup>N615K</sup> diheteromers (41&#x000a0;&#x000b1;&#x000a0;3; <italic>n</italic>&#x000a0;=&#x000a0;7; <italic>t</italic>
+<sub>11</sub>&#x000a0;=&#x000a0;0.9, <italic>P</italic>&#x000a0;&#x02265;&#x000a0;0.4), with GluN2A<sup>N615K</sup> and GluN2A<sup>N615K</sup>/2A (49&#x000a0;&#x000b1;&#x000a0;2&#x000a0;ms, <italic>n</italic>&#x000a0;=&#x000a0;20) also showing no difference (<italic>t</italic>
+<sub>10.9</sub>&#x000a0;=&#x000a0;2.6, <italic>P</italic>&#x000a0;=&#x000a0;0.1). GluN2A<sup>N615K</sup>/2B triheteromers (79&#x000a0;&#x000b1;&#x000a0;6, <italic>n</italic>&#x000a0;=&#x000a0;20) showed a slower deactivation rate than GluN2A<sup>N615K</sup> diheteromers (<italic>t</italic>
+<sub>10.9</sub>&#x000a0;=&#x000a0;2.6, <italic>P</italic>&#x000a0;=&#x000a0;5&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup>)). <italic>D</italic>, summary data showing current density (peak amplitude/capacitance) for cells expressing diheteromeric and triheteromeric receptor combinations (for other experiments, only cells with a current response of between 100 and 1000 pA were used to allow accuracy without escape of unwanted subunit combinations but, here, all traces are included). A one&#x02010;way ANOVA showed no effect of receptor subunit composition (<italic>F</italic>
+<sub>4,104</sub>&#x000a0;=&#x000a0;2.1, <italic>P</italic>&#x000a0;=&#x000a0;0.08). <italic>E</italic>, summary data showing weighted time constants fitted to glutamate deactivation curves. Modifying the C&#x02010;terminus with engineered peptide tags designed to vary retention in the endoplasmic reticulum had no effect on glutamate deactivation in diheteromeric wild&#x02010;type receptors containing GluN2A<sup>WT</sup> or GluN2B<sup>WT</sup>, or in those containing GluN2A<sup>N615K</sup>. A two&#x02010;way ANOVA showed no significant influence of C terminus tag (<italic>F</italic>
+<sub>1,35</sub>&#x000a0;=&#x000a0;4.0, <italic>P</italic>&#x000a0;=&#x000a0;0.054), a significant effect of NMDAR subunit composition (<italic>F</italic>
+<sub>2,35</sub>&#x000a0;=&#x000a0;226, <italic>P</italic> &#x0003c;&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>) and no significant interaction (<italic>F</italic>
+<sub>2,35</sub>&#x000a0;=&#x000a0;2.5, <italic>P</italic>&#x000a0;=&#x000a0;0.1).</p></caption><graphic id="nlm-graphic-5" xlink:href="TJP-597-1691-g003"/></fig></sec><sec id="tjp13388-sec-0170"><title>GluN2A<sup>N615K</sup> reduces single&#x02010;channel conductance in diheteromeric and triheteromeric NMDA receptors</title><p>The &#x02018;N+1&#x02019; residue altered by the GluN2A<sup>N615K</sup> variant is an ion&#x02010;channel lining residue and contributes to form one of the narrowest regions of the receptor pore (Song <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0030" ref-type="ref">2018</xref>). We therefore hypothesized that the variant would influence ion permeation in addition to Mg<sup>2+</sup> blockade, and investigated single channel conductance. We found that the GluN2A<sup>N615K</sup> variant lead to a substantial four&#x02010;fold reduction in single&#x02010;channel conductance in GluN2A<sup>N615K</sup>&#x02010;containing diheteromers (Fig.&#x000a0;<xref rid="tjp13388-fig-0003" ref-type="fig">3</xref>
+<italic>A</italic>, <italic>B</italic>, <italic>E</italic> and <italic>F</italic>). As a control, we confirmed that the modified C&#x02010;termini did not influence conductance (Fig.&#x000a0;<xref rid="tjp13388-fig-0003" ref-type="fig">3</xref>
+<italic>D</italic>).</p><fig fig-type="Figure" xml:lang="en" id="tjp13388-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<bold>GluN2A<sup>N615K</sup> reduces single&#x02010;channel conductance in triheteromeric NMDA receptors</bold>
+</p><p>
+<italic>A</italic>&#x02013;<italic>C</italic>, representative voltage clamp recordings made from cell&#x02010;attached patches from HEK293T cells expressing NMDA receptors containing wild&#x02010;type GluN2A diheteromers, GluN2A/2B triheteromers and GluN2A<sup>N615K</sup>&#x02010;containing diheteromers and triheteromers, partnered with either GluN2A<sup>WT</sup> or GluN2B<sup>WT</sup>. All subunits, including wild&#x02010;type, had modified endoplasmic reticulum signals. The traces show single&#x02010;channel currents in the presence of glutamate (1&#x000a0;m<sc>m</sc>) and glycine (100&#x000a0;&#x003bc;<sc>m</sc>). The pipette potentials used for the traces illustrated in (<italic>A</italic>) to (<italic>C</italic>) were +120, +140&#x000a0;and +140&#x000a0;mV, respectively. &#x02018;C&#x02019;&#x000a0;=&#x000a0;closed; &#x02018;g1&#x02019;&#x000a0;=&#x000a0;first conductance fitted; &#x02018;g2&#x02019;&#x000a0;=&#x000a0;second conductance fitted. A number of transitions between the two conductance states can be seen in (<italic>C</italic>). <italic>D</italic>, summary data showing single channel conductance for receptors with and without modified C&#x02010;termini. A two&#x02010;way ANOVA showed no significant influence of C&#x02010;terminus tag (<italic>F</italic>
+<sub>1,62</sub>&#x000a0;=&#x000a0;0.6, <italic>P</italic>&#x000a0;=&#x000a0;0.42), a significant effect of receptor subunit composition (<italic>F</italic>
+<sub>2,62</sub>&#x000a0;=&#x000a0;278, <italic>P</italic> &#x0003c;&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>) and a significant interaction (<italic>F</italic>
+<sub>2,62</sub>&#x000a0;=&#x000a0;5.7, <italic>P</italic>&#x000a0;=&#x000a0;0.006). <italic>E</italic>, representative amplitude histograms showing fitted normal distributions, superimposed from three different patches. The means of the fitted distributions were used to calculate conductance. For the patch expressing a GluN2A<sup>N615K</sup>&#x02010;containing triheteromer, two peaks can be seen: the prominent subconductance and the less frequent intermediate conductance. <italic>F</italic>, summary data showing conductances, calculated by plotting current amplitudes against pipette potential (at least three potentials within range + 40 to + 180&#x000a0;mV). A two&#x02010;way ANOVA showed a main effect of subunit (<italic>F</italic>
+<sub>4,70</sub>&#x000a0;=&#x000a0;121, <italic>P</italic> &#x0003c;&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>) and of conductance level (g1 <italic>vs</italic>. g2; <italic>F</italic>
+<sub>1,70</sub>&#x000a0;=&#x000a0;196, <italic>P</italic> &#x0003c;&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>), with no significant interaction. <italic>Post hoc</italic> Bonferroni corrected <italic>t</italic>&#x000a0;tests showed that GluN2A<sup>N615K</sup> diheteromeric receptors had a significantly lower conductance (18&#x000a0;&#x000b1;&#x000a0;2 pS; <italic>n</italic>&#x000a0;=&#x000a0;11) than GluN2A<sup>WT</sup> diheteromers (69&#x000a0;&#x000b1;&#x000a0;3 pS; <italic>n</italic>&#x000a0;=&#x000a0;12; <italic>t</italic>
+<sub>15.4</sub>&#x000a0;=&#x000a0;13.7, <italic>P</italic>&#x000a0;=&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;9</sup>). Triheteromeric receptors containing only one GluN2A<sup>N615K</sup> subunit also showed a marked reduction in intermediate conductance (g2), whether partnered with one GluN2A<sup>WT</sup> subunit (44&#x000a0;&#x000b1;&#x000a0;1 pS; <italic>n</italic>&#x000a0;=&#x000a0;6), compared with GluN2A<sup>WT</sup> diheteromers (<italic>t</italic>
+<sub>13.5</sub>&#x000a0;=&#x000a0;7.0, <italic>P</italic>&#x000a0;=&#x000a0;3&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup>) or with one GluN2B<sup>WT</sup> subunit (44&#x000a0;&#x000b1;&#x000a0;1 pS; <italic>n</italic>&#x000a0;=&#x000a0;16), compared with GluN2A<sup>WT</sup>/2B<sup>WT</sup> (56&#x000a0;&#x000b1;&#x000a0;2 pS; <italic>n</italic>&#x000a0;=&#x000a0;10; <italic>t</italic>
+<sub>18.4</sub>&#x000a0;=&#x000a0;4.2, <italic>P</italic>&#x000a0;=&#x000a0;0.003). The reduction in conductance was no greater in GluN2A<sup>N615K</sup> subunits partnered with GluN2B<sup>WT</sup> than with GluN2A<sup>WT</sup> (<italic>t</italic>
+<sub>19.1</sub>&#x000a0;=&#x000a0;0.06, <italic>P</italic> &#x0003e;&#x000a0;0.9). <italic>G</italic>, summary data showing receptor mean open times calculated by fitting single exponentials to open time distributions from individual patches. Only the lower conductance openings were fitted for GluN2A<sup>N615K</sup>/2A triheteromers, which showed briefer open times than GluN2A<sup>N615K</sup> diheteromers (2A N615K/2A: 1.83&#x000a0;&#x000b1;&#x000a0;0.07&#x000a0;ms; <italic>n</italic>&#x000a0;=&#x000a0;6 <italic>vs</italic>. 2A N615K 2.42&#x000a0;&#x000b1;&#x000a0;0.19&#x000a0;ms, <italic>n</italic>&#x000a0;=&#x000a0;11; <italic>t</italic>
+<sub>12.5</sub>&#x000a0;=&#x000a0;2.9, <italic>P</italic>&#x000a0;=&#x000a0;0.014).</p></caption><graphic id="nlm-graphic-7" xlink:href="TJP-597-1691-g004"/></fig><p>In view of the marked effect of only one GluN2A<sup>N615K</sup> subunit on Mg<sup>2+</sup> blockade in NMDA receptors, we hypothesized that GluN2A<sup>N615K</sup> containing triheteromeric receptors would also show a conductance intermediate between GluN2A<sup>WT</sup> and GluN2A<sup>N615K</sup> diheteromers. Our recordings from cells expressing triheteromeric receptors showed a more complex picture than expected: the vast majority of GluN2A<sup>N615K</sup> triheteromeric patches showed channels with two conductances (Fig.&#x000a0;<xref rid="tjp13388-fig-0003" ref-type="fig">3</xref>
+<italic>C</italic>, <italic>E</italic> and <italic>F</italic>). One conductance was indeed intermediate between that of GluN2A<sup>WT</sup> and GluN2A<sup>N615K</sup> diheteromers; the other was a prominent subconductance close in value to the primary conductance of GluN2A<sup>N615K</sup> diheteromers.</p><p>We conducted some additional analyses to investigate two alternative explanations that could mediate what appears to be a prominent subconductance in GluN2A<sup>N615K</sup> containing triheteromeric NMDA receptors. One alternative explanation is that the higher conductance represents simultaneous openings of two triheteromeric channels. However, the higher conductance was equal to more than double the lower conductance (44&#x000a0;pS <italic>vs</italic>. 15&#x000a0;pS and 44&#x000a0;pS <italic>vs</italic>. 16&#x000a0;pS) (Fig.&#x000a0;<xref rid="tjp13388-fig-0003" ref-type="fig">3</xref>
+<italic>F</italic>). We therefore concluded that the upper conductance did not represent the simultaneous opening of two identical lower conductance triheteromeric channels.</p><p>Another alternative explanation could be that the patch contains one triheteromeric channel and one diheteromeric channel that has &#x02018;escaped&#x02019; retention in the endoplasmic reticulum. To explore this possibility, we compared events attributable to the simultaneous opening and/or closing of two channels in patches expressing triheteromers <italic>vs</italic>. patches expressing multiple diheteromeric GluN2A<sup>N615K</sup> receptors and found far fewer such events associated with multiple diheteromers than with triheteromers [GluN2A<sup>N615K</sup> diheteromers: 4&#x000a0;&#x000b1;&#x000a0;2% of openings (<italic>n</italic>&#x000a0;=&#x000a0;7)&#x000a0;<italic>vs</italic>. GluN2A<sup>N615K</sup>/2A triheteromers: 25&#x000a0;&#x000b1;&#x000a0;1% of openings (<italic>n</italic>&#x000a0;=&#x000a0;6) (<italic>t</italic>
+<sub>10.1</sub>&#x000a0;=&#x000a0;7.8, <italic>P</italic>&#x000a0;=&#x000a0;2.8&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;5</sup>) and GluN2A<sup>N615K</sup>/2B triheteromers: 19&#x000a0;&#x000b1;&#x000a0;2% of openings (<italic>n</italic>&#x000a0;=&#x000a0;16) (<italic>t</italic>
+<sub>17.0</sub>&#x000a0;=&#x000a0;4.7, <italic>P</italic>&#x000a0;=&#x000a0;3.9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;4</sup>)].</p><p>We also assessed mean open times, finding that the GluN2A<sup>N615K</sup>/2A triheteromeric subconductance openings were briefer than those observed for GluN2A<sup>N615K</sup> diheteromers (Fig.&#x000a0;<xref rid="tjp13388-fig-0003" ref-type="fig">3</xref>
+<italic>G</italic>). This argues against the possibility that the similar conductance is mediated by GluN2A<sup>N615K</sup> diheteromeric receptors present in triheteromer&#x02010;expressing patches. Such diheteromeric &#x02018;escape currents&#x02019; can potentially arise when expression levels are high (Hansen <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0010" ref-type="ref">2014</xref>) and, indeed, we did observe a small number of putative triheteromeric receptor patches (five out of 27 patches) in which only one conductance was observed (four with conductances close to wild&#x02010;type diheteromers; one with a conductance close to 2A N615K diheteromers). Because these patches presumably contained escaped diheteromeric receptors, they were excluded from the analysis. Overall, our findings suggest that the GluN2A<sup>N615K</sup> variant results in a marked reduction in NMDA receptor single channel conductance when one or two copies are present. When two copies are present in a receptor, a single low conductance is seen. When one copy is present, two conductances are seen: low and intermediate.</p></sec><sec id="tjp13388-sec-0180"><title>GluN2A<sup>N615K</sup> reduces Mg<sup>2+</sup> blockade and current density in cultured neurons</title><p>To complete our investigation, we wished to explore whether the pronounced effects of GluN2A<sup>N615K</sup> seen in NMDA receptors expressed in a human cell line would also be seen in receptors expressed in primary neurons, subject to neuronal specific trafficking and regulation. Accordingly, we used transient transfection to overexpress GluN2A<sup>WT</sup> and GluN2A<sup>N615K</sup> subunits in mouse primary cortical neurons. The resulting NMDA receptor population probably comprised a mixture of diheteromeric and triheteromeric GluN2B and GluN2A&#x02010;containing receptors, formed from both endogenous GluN2B subunits and transfected subunits. We first confirmed the expression of transfected GluN2A subunits (wild&#x02010;type or GluN2A<sup>N615K</sup>) by demonstrating a reduction in inhibition by ifenprodil (a selective GluN2B negative allosteric modulator) compared to neurons transfected with an inert control, which express predominantly GluN2B at DIV 9 (McKay <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0017" ref-type="ref">2012</xref>) (Fig.&#x000a0;<xref rid="tjp13388-fig-0004" ref-type="fig">4</xref>
+<italic>A</italic>&#x02013;<italic>D</italic>). We next assessed the impact of the GluN2A<sup>N615K</sup> mutation on Mg<sup>2+</sup> blockade, in the presence and absence of ifenprodil (Fig.&#x000a0;<xref rid="tjp13388-fig-0004" ref-type="fig">4</xref>
+<italic>A</italic>&#x02013;<italic>C</italic> and <italic>E</italic>). We found that Mg<sup>2+</sup> blockade was reduced in neurons transfected with GluN2A<sup>N615K</sup> and that this effect was more pronounced in the presence of ifenprodil, when a higher proportion of activated receptors contain GluN2A subunits. Third, we assessed the impact of GluN2A<sup>N615K</sup> on current density (Fig.&#x000a0;<xref rid="tjp13388-fig-0004" ref-type="fig">4</xref>
+<italic>A</italic>&#x02013;<italic>C</italic> and <italic>F</italic>). We found that current density was reduced in neurons transfected with GluN2A<sup>N615K</sup> and this effect was again more pronounced in the presence of ifenprodil. This reduction in current density is consistent with the reduction in conductance we observed previously (Fig.&#x000a0;<xref rid="tjp13388-fig-0003" ref-type="fig">3</xref>). Taken together, these results show that, when the GluN2A<sup>N615K</sup> mutation is expressed in cells which endogenously express NMDA receptors, it continues to have a profound influence on Mg<sup>2+</sup> blockade and on current density.</p><fig fig-type="Figure" xml:lang="en" id="tjp13388-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<bold>GluN2A<sup>N615K</sup> reduces Mg<sup>2+</sup> blockade and current density in cultured neurons</bold>
+</p><p>
+<italic>A</italic>&#x02013;<italic>C</italic>, representative whole&#x02010;cell, voltage clamp recordings made from DIV 9 primary mouse cortical neurons transiently transfected with an inert control: &#x003b2; globin (<italic>A</italic>), GluN2A<sup>WT</sup> (<italic>B</italic>) or GluN2A<sup>N615K</sup> (<italic>C</italic>). Traces show the response to saturating NMDA (150&#x000a0;&#x003bc;<sc>m</sc>) and inhibition by Mg<sup>2+</sup> (1&#x000a0;m<sc>m</sc>), before and after a 1&#x000a0;min application of ifenprodil (3&#x000a0;&#x003bc;<sc>m</sc>) (a selective GluN2B negative allosteric modulator). <italic>D</italic>, summary data showing percentage inhibition by ifenprodil. A one&#x02010;way ANOVA showed a significant effect of transfected subunit (<italic>F</italic>
+<sub>2,42</sub>&#x000a0;=&#x000a0;46, <italic>P</italic>&#x000a0;=&#x000a0;2.8&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;11</sup>), with <italic>post hoc</italic> Bonferroni corrected <italic>t</italic>&#x000a0;tests indicating that neurons transfected with GluN2A<sup>WT</sup> showed lower ifenprodil sensitivity than control transfection cells (WT: 32&#x000a0;&#x000b1;&#x000a0;3; <italic>n</italic>&#x000a0;=&#x000a0;15; globin 75&#x000a0;&#x000b1;&#x000a0;2; <italic>n</italic>&#x000a0;=&#x000a0;15; <italic>t</italic>
+<sub>21.9</sub>&#x000a0;=&#x000a0;10.7, <italic>P</italic>&#x000a0;=&#x000a0;1.0&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;9</sup>), as did neurons transfected with GluN2A<sup>N615K</sup> (43&#x000a0;&#x000b1;&#x000a0;4; <italic>n</italic>&#x000a0;=&#x000a0;15; <italic>t</italic>
+<sub>20.0</sub>&#x000a0;=&#x000a0;7.2, <italic>P</italic>&#x000a0;=&#x000a0;1.9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;6</sup>) and with no difference between GluN2A and GluN2A<sup>N615K</sup> (<italic>t</italic>
+<sub>27.3</sub>&#x000a0;=&#x000a0;1.9, <italic>P</italic>&#x000a0;=&#x000a0;0.19). These results confirm that the GluN2A<sup>N615K</sup> subunits have been successfully trafficked to the surface in neurons. <italic>E</italic>, summary data showing Mg<sup>2+</sup> blockade in the presence and absence of ifenprodil. Squares show blockade without ifenprodil; triangles show blockade with ifenprodil. Solid shapes represent means; hollow shapes are individual cells. A two&#x02010;way ANOVA showed a significant effect of transfected subunit (<italic>F</italic>
+<sub>2,42</sub>&#x000a0;=&#x000a0;111, <italic>P</italic>&#x000a0;=&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>) and the presence of ifenprodil (<italic>F</italic>
+<sub>1,42</sub>&#x000a0;=&#x000a0;31, <italic>P</italic>&#x000a0;=&#x000a0;1.9&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;6</sup>), with a significant interaction (<italic>F</italic>
+<sub>2,42</sub>&#x000a0;=&#x000a0;90, <italic>P</italic>&#x000a0;=&#x000a0;6.7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>). <italic>Post hoc</italic> Bonferroni corrected <italic>t</italic>&#x000a0;tests showed lower Mg<sup>2+</sup> blockade in the absence of ifenprodil in neurons transfected with GluN2A<sup>N615K</sup> compared to GluN2A<sup>WT</sup> (WT: 93&#x000a0;&#x000b1;&#x000a0;1%; <italic>n</italic>&#x000a0;=&#x000a0;15; N615K 52&#x000a0;&#x000b1;&#x000a0;5%; <italic>n</italic>&#x000a0;=&#x000a0;15; <italic>t</italic>
+<sub>16.7</sub>&#x000a0;=&#x000a0;8.2, <italic>P</italic>&#x000a0;=&#x000a0;9.7&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;7</sup>), although there was no difference between GluN2A<sup>WT</sup> and control (globin: 97&#x000a0;&#x000b1;&#x000a0;1%; <italic>n</italic>&#x000a0;=&#x000a0;15; <italic>t</italic>
+<sub>23.3</sub>&#x000a0;=&#x000a0;2.2, <italic>P</italic>&#x000a0;=&#x000a0;0.13). In the presence of ifenprodil, the reduction in Mg<sup>2+</sup> blockade associated with GluN2A<sup>N615K</sup>
+<italic>vs</italic>. wild&#x02010;type was even more marked (WT: 95&#x000a0;&#x000b1;&#x000a0;1%; <italic>n</italic>&#x000a0;=&#x000a0;15; N615K 31&#x000a0;&#x000b1;&#x000a0;5%; <italic>n</italic>&#x000a0;=&#x000a0;15; <italic>t</italic>
+<sub>15.4</sub>&#x000a0;=&#x000a0;12.1, <italic>P</italic>&#x000a0;=&#x000a0;8.4&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;9</sup>). <italic>F</italic>, summary data showing current density in the presence and absence of ifenprodil. As with Mg<sup>2+</sup> blockade, we found that current density was reduced in neurons transfected with GluN2A<sup>N615K</sup>, and this effect was more pronounced in the presence of ifenprodil. A two&#x02010;way ANOVA showed a significant effect of transfected subunit (<italic>F</italic>
+<sub>2,42</sub>&#x000a0;=&#x000a0;9.4, <italic>P</italic>&#x000a0;=&#x000a0;0.0004) and the presence of ifenprodil (<italic>F</italic>
+<sub>1,42</sub>&#x000a0;=&#x000a0;178, <italic>P</italic>&#x000a0;=&#x000a0;2&#x000a0;&#x000d7;&#x000a0;10<sup>&#x02013;16</sup>), with a significant interaction (<italic>F</italic>
+<sub>2,42</sub>&#x000a0;=&#x000a0;9.2, <italic>P</italic>&#x000a0;=&#x000a0;0.0005). <italic>Post hoc</italic> Bonferroni corrected <italic>t</italic>&#x000a0;tests showed lower current density in the absence of ifenprodil in neurons transfected with GluN2A<sup>N615K</sup> compared to GluN2A<sup>WT</sup> (WT: 58&#x000a0;&#x000b1;&#x000a0;5 pA&#x000a0;pF<sup>&#x02013;1</sup>; <italic>n</italic>&#x000a0;=&#x000a0;15; N615K 40&#x000a0;&#x000b1;&#x000a0;4 pA&#x000a0;pF<sup>&#x02013;1</sup>; <italic>n</italic>&#x000a0;=&#x000a0;15; <italic>t</italic>
+<sub>27.3</sub>&#x000a0;=&#x000a0;2.7, <italic>P</italic>&#x000a0;=&#x000a0;0.037), although there was no difference between GluN2A<sup>WT</sup> and control (globin: 45&#x000a0;&#x000b1;&#x000a0;4 pA&#x000a0;pF<sup>&#x02013;1</sup>; <italic>n</italic>&#x000a0;=&#x000a0;15; <italic>t</italic>
+<sub>27.4</sub>&#x000a0;=&#x000a0;1.9, <italic>P</italic>&#x000a0;=&#x000a0;0.22). In the presence of ifenprodil, the reduction in current density associated with GluN2A<sup>N615K</sup>
+<italic>vs</italic>. wild&#x02010;type was even more marked (WT: 38&#x000a0;&#x000b1;&#x000a0;4 pA&#x000a0;pF<sup>&#x02013;1</sup>; <italic>n</italic>&#x000a0;=&#x000a0;15; N615K 23&#x000a0;&#x000b1;&#x000a0;3 pA&#x000a0;pF<sup>&#x02013;1</sup>; <italic>n</italic>&#x000a0;=&#x000a0;15) (<italic>t</italic>
+<sub>27.8</sub>&#x000a0;=&#x000a0;3.3, <italic>P</italic>&#x000a0;=&#x000a0;0.009).</p></caption><graphic id="nlm-graphic-9" xlink:href="TJP-597-1691-g005"/></fig></sec></sec><sec id="tjp13388-sec-0190"><title>Discussion</title><p>In the present study, we investigated the functional consequences of GluN2A<sup>N615K</sup>, a heterozygous missense variant found to have arisen <italic>de novo</italic> in two unrelated people with early onset epileptic encephalopathy. Using heterologous systems, we showed that the GluN2A<sup>N615K</sup> variant results in major alterations to physiologically crucial aspects of NMDA receptor function: an almost complete loss of Mg<sup>2+</sup> blockade and a four&#x02010;fold reduction in conductance. Importantly, the variant continues to markedly reduce Mg<sup>2+</sup> blockade and conductance when expressed in NMDA receptor triheteromers with one wild&#x02010;type GluN2 subunit, and also continues to have effect when expressed in cortical neurons. These findings strengthen the evidence that the GluN2A<sup>N615K</sup> variant causes the severe neurodevelopmental disorder experienced by its carriers.</p><sec id="tjp13388-sec-0200"><title>GluN2A<sup>N615K</sup> reduces Mg<sup>2+</sup> blockade</title><p>The marked reduction in Mg<sup>2+</sup> blockade that we observed with the GluN2A<sup>N615K</sup> mutation is in keeping with previous work identifying the affected residue as important for Mg<sup>2+</sup> blockade (Wollmuth <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0036" ref-type="ref">1998</xref>) and with the disruptive replacement of an asparagine with a positively&#x02010;charged lysine. Our finding is also consistent with previous work reporting minimal Mg<sup>2+</sup> blockade in GluN2A<sup>N615K</sup> diheteromers (Endele <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0005" ref-type="ref">2010</xref>). We additionally demonstrated a reduction in Mg<sup>2+</sup> blockade when GluN2A<sup>N615K</sup> is expressed in primary neurons. The smaller magnitude of reduction in Mg<sup>2+</sup> blockade seen in neurons probably reflects the presence of endogenous GluN2B subunits. We directly addressed the impact of GluN2A<sup>N615K</sup> when expressed as part of triheteromeric NMDA receptors with wild&#x02010;type partner subunits and found that Mg<sup>2+</sup> blockade was reduced to an intermediate extent. This is an important finding because disease&#x02010;associated mutations in <italic>GRIN2A</italic> have so far only been found heterozygously. Observing an effect of the variant despite the presence of wild&#x02010;type subunits further supports a role for GluN2A<sup>N615K</sup> in disease causation. This finding indirectly supports the disease relevance of other NMDA receptor pore mutations where functional consequences have been established in diheteromers (Fedele <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0006" ref-type="ref">2018</xref>; Fern&#x000e1;ndez&#x02010;Marmiesse <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0007" ref-type="ref">2018</xref>).</p><p>Interestingly, we observed an impact of partner subunit identity on Mg<sup>2+</sup> blockade in GluN2A<sup>N615K</sup>&#x02010;containing triheteromers: receptors with a wild&#x02010;type GluN2A partner subunit showed higher Mg<sup>2+</sup> blockade than those with a wild&#x02010;type GluN2B partner subunit. However, we did not see an impact of partner subunit identity on single&#x02010;channel conductance. The mechanism of this intriguing finding and the extent to which it applies to other receptor properties requires additional study.</p><p>A reduction in Mg<sup>2+</sup> blockade would be hypothesized to have substantial impact on neuronal physiology and synaptic plasticity because voltage&#x02010;dependent Mg<sup>2+</sup> blockade is essential to the role of the NMDA receptor as a molecular coincidence detector (Huganir &#x00026; Nicoll, <xref rid="tjp13388-bib-0012" ref-type="ref">2013</xref>). Alterations to this property could therefore be anticipated to result in deficits in learning and memory, as may be reflected in the severe and profound intellectual disability of carriers. However, plasticity is dependent on many interacting factors: additional receptor properties such as calcium permeability, expression of other NMDA receptor subunits and expression of other receptor types. Furthermore, deficits in plasticity caused by reduced or increased expression of NMDA receptor subunits have been associated with behavioural consequences in several (Sakimura <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0027" ref-type="ref">1995</xref>; Kiyama <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0013" ref-type="ref">1998</xref>; Roberts <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0026" ref-type="ref">2009</xref>) but not all studies (Okabe <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0021" ref-type="ref">1998</xref>). Further studies are needed to assess the potential impact of the GluN2A<sup>N615K</sup> variant on synaptic plasticity, which would be aided by a transgenic animal model.</p></sec><sec id="tjp13388-sec-0210"><title>GluN2A<sup>N615K</sup> reduces conductance</title><p>We found that the GluN2A<sup>N615K</sup> variant reduced single&#x02010;channel conductance by around four&#x02010;fold when expressed as diheteromers. Triheteromers containing only one GluN2A<sup>N615K</sup> subunit showed two conductances: one similar to GluN2A<sup>N615K</sup> diheteromers and one intermediate conductance equivalent to around two&#x02010;thirds of wild&#x02010;type. We also found that NMDA&#x02010;evoked current density was reduced in neurons expressing GluN2A<sup>N615K</sup>, suggesting that any acute compensation by other receptor subunits was insufficient to overcome the reduction in conductance associated with the GluN2A<sup>N615K</sup> variant. Our finding of reduced conductance adds to previous work reporting similarly marked reductions in conductance following mutations of equivalent residues neighbouring the location of the GluN2A<sup>N615K</sup> variant in GluN1 and GluN2B subunits (Behe <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0004" ref-type="ref">1995</xref>; Premkumar <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0024" ref-type="ref">1997</xref>; Schneggenburger &#x00026; Ascher, <xref rid="tjp13388-bib-0029" ref-type="ref">1997</xref>). In addition to this probable direct impact of the altered residue on ion permeation through the narrow internal region of the pore (Song <italic>et&#x000a0;al</italic>. <xref rid="tjp13388-bib-0030" ref-type="ref">2018</xref>), it is possible that other charged regions that strongly influence ion permeation (e.g. the DRPEER motif in the GluN1 subunit) (Wollmuth, <xref rid="tjp13388-bib-0035" ref-type="ref">2018</xref>) may also be indirectly affected by the GluN2A<sup>N615K</sup> variant, contributing to effects on single&#x02010;channel conductance. Our finding that glutamate deactivation rates are unaffected by the mutation shows that the overall time course of receptor openings is similar. A reduction in conductance is of physiological importance because it implies that less charge is passed by activated NMDA receptors containing GluN2A<sup>N615K</sup> subunits. This would reduce the ability of a receptor to contribute to neuronal excitability, and also potentially alter the receptor's ionotropic signaling pathways.</p><p>In summary, the present study has strengthened the evidence indicating that the disease&#x02010;associated variant GluN2A<sup>N615K</sup> is associated with substantial changes in physiologically crucial properties of NMDA receptors. This information can be used to inform genetic counselling. Our work highlights NMDA receptor&#x02010;related synaptic transmission as probable candidates for disruption in the pathogenesis of neurodevelopmental disorders. Future work could usefully explore the impact of this mutation <italic>in vivo</italic> in synaptic plasticity at circuit and behavioural levels.</p></sec></sec><sec id="tjp13388-sec-0220"><title>Additional information</title><sec id="tjp13388-sec-0230"><title>Competing interests</title><p>The authors declare that they have no competing interests.</p></sec><sec id="tjp13388-sec-0240"><title>Author contributions</title><p>KFMM, KBH, PAS, GEH and DJAW were responsible for the conception and design of the experiments. KFMM and KBH were responsible for the collection and assembly of data. KFMM, KBH, PAS, GEH and DJAW were responsible for the analysis and interpretation of data. KFMM, KBH, PAS, GEH and DJAW were responsible for drafting the article or revising it critically for important intellectual content. All authors approved the final version of the manuscript submitted for publication, and all persons designated as authors qualify for authorship and all those who qualify for authorship are listed.</p></sec><sec id="tjp13388-sec-0250"><title>Funding</title><p>This work was funded by the Wellcome Trust (WT102838) and National Institutes of Health (GM103546 and NS097536).</p></sec></sec></body><back><ack id="tjp13388-sec-0260"><title>Acknowledgements</title><p>We thank Dr M. R. Livesey for his help with single&#x02010;channel data analysis and critical comments on the manuscript.</p></ack><bio id="d35e54"><p>
+<bold>Katie Marwick</bold> studied medicine at the University of Cambridge and University of Edinburgh before completing a PhD at the University of Edinburgh, where she is currently a Clinical Lecturer in Psychiatry. Her PhD and postdoctoral work have focused on investigating the functional consequences of disease&#x02010;associated variants in NMDA receptors. Future work includes exploring the impact of such variants in transgenic animals. Her goal is to improve the identification and targeting of treatments for NMDA receptor&#x02010;associated neurodevelopmental disorders.</p><graphic xlink:href="TJP-597-1691-g001.gif" position="anchor" id="nlm-graphic-1" orientation="portrait"/></bio><ref-list id="tjp13388-bibl-0001"><title>References</title><ref id="tjp13388-bib-0001"><mixed-citation publication-type="journal" id="tjp13388-cit-0001">
+<string-name>
+<surname>Allen</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Conroy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Shahwan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lynch</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Correa</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Pena</surname>
+<given-names>SDJ</given-names>
+</string-name>, <string-name>
+<surname>McCreary</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Magalh&#x000e3;es</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Ennis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lynch</surname>
+<given-names>SA</given-names>
+</string-name> &#x00026; <string-name>
+<surname>King</surname>
+<given-names>MD</given-names>
+</string-name> (<year>2016</year>). <article-title>Unexplained early onset epileptic encephalopathy: exome screening and phenotype expansion</article-title>. <source xml:lang="en">Epilepsia</source>
+<volume>57</volume>, <fpage>e12</fpage>&#x02013;<lpage>e17</lpage>.<pub-id pub-id-type="pmid">26648591</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0002"><mixed-citation publication-type="journal" id="tjp13388-cit-0002">
+<string-name>
+<surname>Bading</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ginty</surname>
+<given-names>DD</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Greenberg</surname>
+<given-names>ME</given-names>
+</string-name> (<year>1993</year>). <article-title>Regulation of gene expression in hippocampal neurons by distinct calcium signaling pathways</article-title>. <source xml:lang="en">Science</source>
+<volume>260</volume>, <fpage>181</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">8097060</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0003"><mixed-citation publication-type="journal" id="tjp13388-cit-0003">
+<string-name>
+<surname>Bar&#x02010;Shira</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Maor</surname>
+<given-names>R</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chechik</surname>
+<given-names>G</given-names>
+</string-name> (<year>2015</year>). <article-title>Gene expression switching of receptor subunits in human brain development</article-title>. <source xml:lang="en">PLoS Comput Biol</source>
+<volume>11</volume>, <fpage>1</fpage>&#x02013;<lpage>21</lpage>.</mixed-citation></ref><ref id="tjp13388-bib-0004"><mixed-citation publication-type="journal" id="tjp13388-cit-0004">
+<string-name>
+<surname>Behe</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wyllie</surname>
+<given-names>DJA</given-names>
+</string-name>, <string-name>
+<surname>Nassar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schoepfer</surname>
+<given-names>R</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Colquhoun</surname>
+<given-names>D</given-names>
+</string-name> (<year>1995</year>). <article-title>Determination of NMDA NR1 subunit copy number in recombinant NMDA receptors</article-title>. <source xml:lang="en">Proc R Soc B Biol Sci</source>
+<volume>262</volume>, <fpage>205</fpage>&#x02013;<lpage>213</lpage>.</mixed-citation></ref><ref id="tjp13388-bib-0005"><mixed-citation publication-type="journal" id="tjp13388-cit-0005">
+<string-name>
+<surname>Endele</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rosenberger</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Geider</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Popp</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tamer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Stefanova</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Milh</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kort&#x000fc;m</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fritsch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pientka</surname>
+<given-names>FK</given-names>
+</string-name>, <string-name>
+<surname>Hellenbroich</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kalscheuer</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Kohlhase</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Moog</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Rappold</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Rauch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ropers</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>von Spiczak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>T&#x000f6;nnies</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Villeneuve</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Villard</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zabel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zenker</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Laube</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Reis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wieczorek</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Van Maldergem</surname>
+<given-names>L</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kutsche</surname>
+<given-names>K</given-names>
+</string-name> (<year>2010</year>). <article-title>Mutations in GRIN2A and GRIN2B encoding regulatory subunits of NMDA receptors cause variable neurodevelopmental phenotypes</article-title>. <source xml:lang="en">Nat Genet</source>
+<volume>42</volume>, <fpage>1</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">20037606</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0006"><mixed-citation publication-type="journal" id="tjp13388-cit-0006">
+<string-name>
+<surname>Fedele</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Newcombe</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Topf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gibb</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Harvey</surname>
+<given-names>RJ</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Smart</surname>
+<given-names>TG</given-names>
+</string-name> (<year>2018</year>). <article-title>Disease&#x02010;associated missense mutations in GluN2B subunit alter NMDA receptor ligand binding and ion channel properties</article-title>. <source xml:lang="en">Nat Commun</source>
+<volume>9</volume>, <fpage>957</fpage>.<pub-id pub-id-type="pmid">29511171</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0007"><mixed-citation publication-type="journal" id="tjp13388-cit-0007">
+<string-name>
+<surname>Fern&#x000e1;ndez&#x02010;Marmiesse</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kusumoto</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Rekarte</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Roca</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Myers</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Traynelis</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Couce</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez&#x02010;Solana</surname>
+<given-names>L</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yuan</surname>
+<given-names>H</given-names>
+</string-name> (<year>2018</year>). <article-title>A novel missense mutation in GRIN2A causes a nonepileptic neurodevelopmental disorder</article-title>. <source xml:lang="en">Mov Disord</source>
+<volume>33</volume>, <fpage>992</fpage>&#x02013;<lpage>999</lpage>.<pub-id pub-id-type="pmid">29644724</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0008"><mixed-citation publication-type="journal" id="tjp13388-cit-0008">
+<string-name>
+<surname>Gray</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Usui</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>During</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Sakimura</surname>
+<given-names>K</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Nicoll</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2011</year>). <article-title>Distinct modes of AMPA receptor suppression at developing synapses by GluN2A and GluN2B: single&#x02010;cell NMDA receptor subunit deletion in vivo</article-title>. <source xml:lang="en">Neuron</source>
+<volume>71</volume>, <fpage>1085</fpage>&#x02013;<lpage>1101</lpage>.<pub-id pub-id-type="pmid">21943605</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0009"><mixed-citation publication-type="journal" id="tjp13388-cit-0009">
+<string-name>
+<surname>Grundy</surname>
+<given-names>D</given-names>
+</string-name> (<year>2015</year>). <article-title>Principles and standards for reporting animal experiments in <italic>The Journal of Physiology</italic> and <italic>Experimental Physiology</italic>
+</article-title>. <source xml:lang="en">J Physiol</source>
+<volume>593</volume>, <fpage>2547</fpage>&#x02013;<lpage>2549</lpage>.<pub-id pub-id-type="pmid">26095019</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0010"><mixed-citation publication-type="journal" id="tjp13388-cit-0010">
+<string-name>
+<surname>Hansen</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Ogden</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>H</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Traynelis</surname>
+<given-names>SF</given-names>
+</string-name> (<year>2014</year>). <article-title>Distinct functional and pharmacological properties of triheteromeric GluN1/GluN2A/GluN2B NMDA receptors</article-title>. <source xml:lang="en">Neuron</source>
+<volume>81</volume>, <fpage>1084</fpage>&#x02013;<lpage>1096</lpage>.<pub-id pub-id-type="pmid">24607230</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0011"><mixed-citation publication-type="journal" id="tjp13388-cit-0011">
+<string-name>
+<surname>Hedegaard</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>KB</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Brauner&#x02010;Osborne</surname>
+<given-names>H</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Traynelis</surname>
+<given-names>SF</given-names>
+</string-name> (<year>2012</year>). <article-title>Molecular pharmacology of human NMDA receptors</article-title>. <source xml:lang="en">Neurochem Int</source>
+<volume>61</volume>, <fpage>601</fpage>&#x02013;<lpage>609</lpage>.<pub-id pub-id-type="pmid">22197913</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0012"><mixed-citation publication-type="journal" id="tjp13388-cit-0012">
+<string-name>
+<surname>Huganir</surname>
+<given-names>RL</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Nicoll</surname>
+<given-names>RA</given-names>
+</string-name> (<year>2013</year>). <article-title>AMPARs and synaptic plasticity: the last 25 years</article-title>. <source xml:lang="en">Neuron</source>
+<volume>80</volume>, <fpage>704</fpage>&#x02013;<lpage>717</lpage>.<pub-id pub-id-type="pmid">24183021</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0013"><mixed-citation publication-type="journal" id="tjp13388-cit-0013">
+<string-name>
+<surname>Kiyama</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Manabe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sakimura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kawakami</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>
+<given-names>H</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mishina</surname>
+<given-names>M</given-names>
+</string-name> (<year>1998</year>). <article-title>Increased thresholds for long&#x02010;term potentiation and contextual learning in mice lacking the NMDA&#x02010;type glutamate receptor &#x003b5;1 subunit</article-title>. <source xml:lang="en">J Neurosci</source>
+<volume>18</volume>, <fpage>6704</fpage>&#x02013;<lpage>6712</lpage>.<pub-id pub-id-type="pmid">9712642</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0014"><mixed-citation publication-type="journal" id="tjp13388-cit-0014">
+<string-name>
+<surname>MacDermott</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Mayer</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Westbrook</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>SJ</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Barker</surname>
+<given-names>JL</given-names>
+</string-name> (<year>1986</year>). <article-title>NMDA&#x02010;receptor activation increases cytoplasmic calcium concentration in cultured spinal cord neurones</article-title>. <source xml:lang="en">Nature</source>
+<volume>321</volume>, <fpage>519</fpage>&#x02013;<lpage>522</lpage>.<pub-id pub-id-type="pmid">3012362</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0015"><mixed-citation publication-type="journal" id="tjp13388-cit-0015">
+<string-name>
+<surname>Marwick</surname>
+<given-names>KFM</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Skehel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hardingham</surname>
+<given-names>G</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wyllie</surname>
+<given-names>DJA</given-names>
+</string-name> (<year>2017</year>). <article-title>Functional assessment of the NMDA receptor variant GluN2AR586K</article-title>. <source xml:lang="en">Wellcome Open Res</source>
+<volume>2</volume>, <fpage>20</fpage>.<pub-id pub-id-type="pmid">28459106</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0016"><mixed-citation publication-type="journal" id="tjp13388-cit-0016">
+<string-name>
+<surname>Mayer</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Westbrook</surname>
+<given-names>GL</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Guthrie</surname>
+<given-names>PB</given-names>
+</string-name> (<year>1984</year>). <article-title>Voltage&#x02010;dependent block by Mg<sup>2+</sup> of NMDA responses in spinal cord neurones</article-title>. <source xml:lang="en">Nature</source>
+<volume>309</volume>, <fpage>261</fpage>&#x02013;<lpage>263</lpage>.<pub-id pub-id-type="pmid">6325946</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0017"><mixed-citation publication-type="journal" id="tjp13388-cit-0017">
+<string-name>
+<surname>McKay</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Griffiths</surname>
+<given-names>NH</given-names>
+</string-name>, <string-name>
+<surname>Butters</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Thubron</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Hardingham</surname>
+<given-names>GE</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Wyllie</surname>
+<given-names>DJA</given-names>
+</string-name> (<year>2012</year>). <article-title>Direct pharmacological monitoring of the developmental switch in NMDA receptor subunit composition using TCN 213, a GluN2A&#x02010;selective, glycine&#x02010;dependent antagonist</article-title>. <source xml:lang="en">Br J Pharmacol</source>
+<volume>166</volume>, <fpage>924</fpage>&#x02013;<lpage>937</lpage>.<pub-id pub-id-type="pmid">22022974</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0018"><mixed-citation publication-type="journal" id="tjp13388-cit-0018">
+<string-name>
+<surname>Monyer</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Burnashev</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Laurie</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Sakmann</surname>
+<given-names>B</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Seeburg</surname>
+<given-names>PH</given-names>
+</string-name> (<year>1994</year>). <article-title>Developmental and regional expression in the rat brain and functional properties of four NMDA receptors</article-title>. <source xml:lang="en">Neuron</source>
+<volume>12</volume>, <fpage>529</fpage>&#x02013;<lpage>540</lpage>.<pub-id pub-id-type="pmid">7512349</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0019"><mixed-citation publication-type="journal" id="tjp13388-cit-0019">
+<string-name>
+<surname>Nowak</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bregestovski</surname>
+<given-names>P</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ascher</surname>
+<given-names>P</given-names>
+</string-name> (<year>1984</year>). <article-title>Magnesium gates glutamate&#x02010;activated channels in mouse central neurones</article-title>. <source xml:lang="en">Nature</source>
+<volume>307</volume>, <fpage>472</fpage>&#x02013;<lpage>465</lpage>.</mixed-citation></ref><ref id="tjp13388-bib-0020"><mixed-citation publication-type="journal" id="tjp13388-cit-0020">
+<string-name>
+<surname>Ogden</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Swanger</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>McDaniel</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>LZ</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tankovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kusumoto</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kosobucki</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Schulien</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Pecha</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bhattacharya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Petrovski</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Aizenman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Traynelis</surname>
+<given-names>SF</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yuan</surname>
+<given-names>H</given-names>
+</string-name> (<year>2017</year>). <article-title>Molecular mechanism of disease&#x02010;associated mutations in the pre&#x02010;M1 helix of NMDA receptors and potential rescue pharmacology</article-title>. <source xml:lang="en">PLoS Genet</source>
+<volume>13</volume>, <fpage>1</fpage>&#x02013;<lpage>35</lpage>.</mixed-citation></ref><ref id="tjp13388-bib-0021"><mixed-citation publication-type="journal" id="tjp13388-cit-0021">
+<string-name>
+<surname>Okabe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Collin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Auerbach</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Meiri</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bengzon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kennedy</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Segal</surname>
+<given-names>M</given-names>
+</string-name> &#x00026; <string-name>
+<surname>McKay</surname>
+<given-names>RD</given-names>
+</string-name> (<year>1998</year>). <article-title>Hippocampal synaptic plasticity in mice overexpressing an embryonic subunit of the NMDA receptor</article-title>. <source xml:lang="en">J Neurosci</source>
+<volume>18</volume>, <fpage>4177</fpage>&#x02013;<lpage>4188</lpage>.<pub-id pub-id-type="pmid">9592097</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0022"><mixed-citation publication-type="journal" id="tjp13388-cit-0022">
+<string-name>
+<surname>Paoletti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bellone</surname>
+<given-names>C</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name> (<year>2013</year>). <article-title>NMDA receptor subunit diversity: impact on receptor properties, synaptic plasticity and disease</article-title>. <source xml:lang="en">Nat Rev Neurosci</source>
+<volume>14</volume>, <fpage>383</fpage>&#x02013;<lpage>400</lpage>.<pub-id pub-id-type="pmid">23686171</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0023"><mixed-citation publication-type="journal" id="tjp13388-cit-0023">
+<string-name>
+<surname>Pierson</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Marsh</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Fuentes&#x02010;Fajardo</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Markello</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Golas</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Simeonov</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Holloman</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tankovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Karamchandani</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Schreiber</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Mullikin</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Tifft</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Toro</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Boerkoel</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Traynelis</surname>
+<given-names>SF</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gahl</surname>
+<given-names>WA</given-names>
+</string-name> (<year>2014</year>). <article-title>GRIN2A mutation and early&#x02010;onset epileptic encephalopathy: personalized therapy with memantine</article-title>. <source xml:lang="en">Ann Clin Transl Neurol</source>
+<volume>1</volume>, <fpage>190</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">24839611</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0024"><mixed-citation publication-type="journal" id="tjp13388-cit-0024">
+<string-name>
+<surname>Premkumar</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>F</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Auerbach</surname>
+<given-names>A</given-names>
+</string-name> (<year>1997</year>). <article-title>Subconductance states of a mutant NMDA receptor channel kinetics, calcium, and voltage dependence</article-title>. <source xml:lang="en">J Gen Physiol</source>
+<volume>109</volume>, <fpage>181</fpage>&#x02013;<lpage>189</lpage>.<pub-id pub-id-type="pmid">9041447</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0025"><mixed-citation publication-type="journal" id="tjp13388-cit-0025">
+<string-name>
+<surname>Rauner</surname>
+<given-names>C</given-names>
+</string-name> &#x00026; <string-name>
+<surname>K&#x000f6;hr</surname>
+<given-names>G</given-names>
+</string-name> (<year>2011</year>). <article-title>Triheteromeric NR1/NR2A/NR2B receptors constitute the major N&#x02010;methyl&#x02010;D&#x02010;aspartate receptor population in adult hippocampal synapses</article-title>. <source xml:lang="en">J Biol Chem</source>
+<volume>286</volume>, <fpage>7558</fpage>&#x02013;<lpage>7566</lpage>.<pub-id pub-id-type="pmid">21190942</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0026"><mixed-citation publication-type="journal" id="tjp13388-cit-0026">
+<string-name>
+<surname>Roberts</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>D&#x000ed;ez&#x02010;Garc&#x000ed;a</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rodriguiz</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez</surname>
+<given-names>IP</given-names>
+</string-name>, <string-name>
+<surname>Luj&#x000e1;n</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;nez&#x02010;Turrillas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pic&#x000f3;</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Henson</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Bernardo</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Jarrett</surname>
+<given-names>TM</given-names>
+</string-name>, <string-name>
+<surname>Clendeninn</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>L&#x000f3;pez&#x02010;Mascaraque</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Wesseling</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Wetsel</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Philpot</surname>
+<given-names>BD</given-names>
+</string-name> &#x00026; <string-name>
+<surname>P&#x000e9;rez&#x02010;Ota&#x000f1;o</surname>
+<given-names>I</given-names>
+</string-name> (<year>2009</year>). <article-title>Downregulation of NR3A&#x02010;containing NMDARs is required for synapse maturation and memory consolidation</article-title>. <source xml:lang="en">Neuron</source>
+<volume>63</volume>, <fpage>342</fpage>&#x02013;<lpage>356</lpage>.<pub-id pub-id-type="pmid">19679074</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0027"><mixed-citation publication-type="journal" id="tjp13388-cit-0027">
+<string-name>
+<surname>Sakimura</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kutsuwada</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Manabe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Takayama</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kushiya</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Yagi</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Aizawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sugiyama</surname>
+<given-names>H</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mishina</surname>
+<given-names>M</given-names>
+</string-name> (<year>1995</year>). <article-title>Reduced hippocampal LTP and spatial learning in mice lacking NMDA receptor epsilon 1 subunit</article-title>. <source xml:lang="en">Nature</source>
+<volume>373</volume>, <fpage>151</fpage>&#x02013;<lpage>155</lpage>.<pub-id pub-id-type="pmid">7816096</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0028"><mixed-citation publication-type="journal" id="tjp13388-cit-0028">
+<string-name>
+<surname>Scheffer</surname>
+<given-names>IE</given-names>
+</string-name>, <string-name>
+<surname>Berkovic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Capovilla</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Connolly</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>French</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Guilhoto</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jain</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mathern</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Mosh&#x000e9;</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Nordli</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Perucca</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tomson</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wiebe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>YH</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Zuberi</surname>
+<given-names>SM</given-names>
+</string-name> (<year>2017</year>). <article-title>ILAE classification of the epilepsies: position paper of the ILAE commission for classification and terminology</article-title>. <source xml:lang="en">Epilepsia</source>
+<volume>58</volume>, <fpage>512</fpage>&#x02013;<lpage>521</lpage>.<pub-id pub-id-type="pmid">28276062</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0029"><mixed-citation publication-type="journal" id="tjp13388-cit-0029">
+<string-name>
+<surname>Schneggenburger</surname>
+<given-names>R</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ascher</surname>
+<given-names>P</given-names>
+</string-name> (<year>1997</year>). <article-title>Coupling of permeation and gating in an NMDA&#x02010;channel pore mutant</article-title>. <source xml:lang="en">Neuron</source>
+<volume>18</volume>, <fpage>167</fpage>&#x02013;<lpage>177</lpage>.<pub-id pub-id-type="pmid">9010214</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0030"><mixed-citation publication-type="journal" id="tjp13388-cit-0030">
+<string-name>
+<surname>Song</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>
+<given-names>M&#x000d8;</given-names>
+</string-name>, <string-name>
+<surname>Jogini</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>C&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Mchaourab</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>DE</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gouaux</surname>
+<given-names>E</given-names>
+</string-name> (<year>2018</year>). <article-title>Mechanism of NMDA receptor channel block by MK&#x02010;801 and memantine</article-title>. <source xml:lang="en">Nature</source>
+<volume>556</volume>, <fpage>515</fpage>&#x02013;<lpage>519</lpage>.<pub-id pub-id-type="pmid">29670280</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0031"><mixed-citation publication-type="journal" id="tjp13388-cit-0031">
+<string-name>
+<surname>Stroebel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Carvalho</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Grand</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>S</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Paoletti</surname>
+<given-names>P</given-names>
+</string-name> (<year>2014</year>). <article-title>Controlling NMDA receptor subunit composition using ectopic retention signals</article-title>. <source xml:lang="en">J Neurosci</source>
+<volume>34</volume>, <fpage>16630</fpage>&#x02013;<lpage>16636</lpage>.<pub-id pub-id-type="pmid">25505316</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0032"><mixed-citation publication-type="journal" id="tjp13388-cit-0032">
+<string-name>
+<surname>Swanger</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wells</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Burger</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name>
+<surname>Tankovic</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bhattacharya</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Strong</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kusumoto</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Millichap</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Petrovski</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Traynelis</surname>
+<given-names>SF</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yuan</surname>
+<given-names>H</given-names>
+</string-name> (<year>2016</year>). <article-title>Mechanistic insight into NMDA receptor dysregulation by rare variants in the GluN2A and GluN2B agonist binding domains</article-title>. <source xml:lang="en">Am J Hum Genet</source>
+<volume>99</volume>, <fpage>1261</fpage>&#x02013;<lpage>1280</lpage>.<pub-id pub-id-type="pmid">27839871</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0033"><mixed-citation publication-type="journal" id="tjp13388-cit-0033">
+<string-name>
+<surname>Tovar</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>McGinley</surname>
+<given-names>MJ</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Westbrook</surname>
+<given-names>GL</given-names>
+</string-name> (<year>2013</year>). <article-title>Triheteromeric NMDA receptors at hippocampal synapses</article-title>. <source xml:lang="en">J Neurosci</source>
+<volume>33</volume>, <fpage>9150</fpage>&#x02013;<lpage>9160</lpage>.<pub-id pub-id-type="pmid">23699525</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0034"><mixed-citation publication-type="journal" id="tjp13388-cit-0034">
+<string-name>
+<surname>Watanabe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sakimura</surname>
+<given-names>K</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mishina</surname>
+<given-names>M</given-names>
+</string-name> (<year>1992</year>). <article-title>Developmental changes in distribution of NMDA receptor channel subunit mRNAs</article-title>. <source xml:lang="en">Neuroreport</source>
+<volume>3</volume>, <fpage>1138</fpage>&#x02013;<lpage>1140</lpage>.<pub-id pub-id-type="pmid">1493227</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0035"><mixed-citation publication-type="journal" id="tjp13388-cit-0035">
+<string-name>
+<surname>Wollmuth</surname>
+<given-names>LP</given-names>
+</string-name> (<year>2018</year>). <article-title>Ion permeation in ionotropic glutamate receptors: still dynamic after all these years</article-title>. <source xml:lang="en">Curr Opin Physiol</source>
+<volume>2</volume>, <fpage>36</fpage>&#x02013;<lpage>41</lpage>.<pub-id pub-id-type="pmid">29607422</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0036"><mixed-citation publication-type="journal" id="tjp13388-cit-0036">
+<string-name>
+<surname>Wollmuth</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Kuner</surname>
+<given-names>T</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sakmann</surname>
+<given-names>B</given-names>
+</string-name> (<year>1998</year>). <article-title>Adjacent asparagines in the NR2&#x02010;subunit of the NMDA receptor channel control the voltage&#x02010;dependent block by extracellular Mg<sup>2+</sup>
+</article-title>. <source xml:lang="en">J Physiol</source>
+<volume>506</volume>, <fpage>13</fpage>&#x02013;<lpage>32</lpage>.<pub-id pub-id-type="pmid">9481670</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0037"><mixed-citation publication-type="journal" id="tjp13388-cit-0037">
+<string-name>
+<surname>Wyllie</surname>
+<given-names>DJA</given-names>
+</string-name>, <string-name>
+<surname>Livesey</surname>
+<given-names>MR</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hardingham</surname>
+<given-names>GE</given-names>
+</string-name> (<year>2013</year>). <article-title>Influence of GluN2 subunit identity on NMDA receptor function</article-title>. <source xml:lang="en">Neuropharmacology</source>
+<volume>74</volume>, <fpage>4</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">23376022</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0038"><mixed-citation publication-type="journal" id="tjp13388-cit-0038">
+<string-name>
+<surname>XiangWei</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>Y</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Yuan</surname>
+<given-names>H</given-names>
+</string-name> (<year>2018</year>). <article-title>De novo mutations and rare variants occurring in NMDA receptors</article-title>. <source xml:lang="en">Curr Opin Physiol</source>
+<volume>2</volume>, <fpage>27</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">29756080</pub-id></mixed-citation></ref><ref id="tjp13388-bib-0039"><mixed-citation publication-type="journal" id="tjp13388-cit-0039">
+<string-name>
+<surname>Yi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zachariassen</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Dorsett</surname>
+<given-names>KN</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Hansen</surname>
+<given-names>KB</given-names>
+</string-name> (<year>2018</year>). <article-title>Properties of triheteromeric NMDA receptors containing two distinct GluN1 isoforms</article-title>. <source xml:lang="en">Mol Pharmacol</source>
+<volume>93</volume>, <fpage>453</fpage>&#x02013;<lpage>467</lpage>.<pub-id pub-id-type="pmid">29483146</pub-id></mixed-citation></ref></ref-list></back></article>

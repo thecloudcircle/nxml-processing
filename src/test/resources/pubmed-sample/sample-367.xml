@@ -1,0 +1,1264 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21407803</article-id><article-id pub-id-type="pmc">3047562</article-id><article-id pub-id-type="publisher-id">PONE-D-10-05847</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0017328</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Anatomy and Physiology</subject><subj-group><subject>Neurological System</subject><subj-group><subject>Nerve Tissue</subject><subject>Nervous System Physiology</subject><subject>Peripheral Nervous System</subject></subj-group></subj-group></subj-group><subj-group><subject>Developmental Biology</subject><subj-group><subject>Morphogenesis</subject><subj-group><subject>Regeneration</subject></subj-group></subj-group><subj-group><subject>Organism Development</subject><subj-group><subject>Regeneration</subject></subj-group></subj-group></subj-group><subj-group><subject>Model Organisms</subject><subj-group><subject>Animal Models</subject><subj-group><subject>Rat</subject></subj-group></subj-group></subj-group><subj-group><subject>Neuroscience</subject><subj-group><subject>Developmental Neuroscience</subject><subj-group><subject>Neuroglial Development</subject></subj-group></subj-group><subj-group><subject>Neurophysiology</subject><subj-group><subject>Peripheral Nervous System</subject><subject>Spinal Cord</subject></subj-group></subj-group><subj-group><subject>Neurobiology of Disease and Regeneration</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Anatomy and Physiology</subject><subj-group><subject>Neurological System</subject><subj-group><subject>Nerve Tissue</subject><subject>Nervous System Physiology</subject><subject>Peripheral Nervous System</subject></subj-group></subj-group></subj-group><subj-group><subject>Neurology</subject><subj-group><subject>Spinal Cord Diseases</subject><subj-group><subject>Spinal Cord Injury</subject></subj-group></subj-group><subj-group><subject>Neurorehabilitation and Trauma</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Transplantation of Specific Human Astrocytes Promotes Functional
+Recovery after Spinal Cord Injury</article-title><alt-title alt-title-type="running-head">Human Astrocytes Promote SCI
+Repair</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Davies</surname><given-names>Stephen J. A.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Shih</surname><given-names>Chung-Hsuan</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Noble</surname><given-names>Mark</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Mayer-Proschel</surname><given-names>Margot</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Davies</surname><given-names>Jeannette E.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Proschel</surname><given-names>Christoph</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>*</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Neurosurgery, University of
+Colorado Denver, Anschutz Medical Campus, Aurora, Colorado, United States of
+America</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Biomedical Genetics, Institute
+for Stem Cell and Regenerative Medicine, University of Rochester Medical Center,
+Rochester, New York, United States of America</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Combs</surname><given-names>Colin</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">University of North Dakota, United States of America</aff><author-notes><corresp id="cor1">* E-mail: <email>Jeannette.Davies@ucdenver.edu</email>; <email>chris_proschel@urmc.rochester.edu</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: SJAD MN MM-P JED CP. Performed the
+experiments: SJAD C-HS JED CP. Analyzed the data: SJAD JED CP. Contributed
+reagents/materials/analysis tools: SJAD MM-P JED CP. Wrote the paper: SJAD
+MN JED CP.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>2</day><month>3</month><year>2011</year></pub-date><pub-date pub-type="ecorrected"><day>17
+</day><month>3</month><year>2011</year></pub-date><volume>6</volume><issue>3</issue><elocation-id>e17328</elocation-id><history><date date-type="received"><day>26</day><month>11</month><year>2010</year></date><date date-type="accepted"><day>24</day><month>1</month><year>2011</year></date></history><permissions><copyright-statement>This is an open-access article distributed under the terms of the
+Creative Commons Public Domain declaration which stipulates that, once placed in the
+public domain, this work may be freely reproduced, distributed, transmitted,
+modified, built upon, or otherwise used by anyone for any lawful
+purpose.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="https://creativecommons.org/publicdomain/zero/1.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Public Domain declaration, which stipulates that, once placed in the public domain, this work may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose.</license-p></license></permissions><abstract><p>Repairing trauma to the central nervous system by replacement of glial support
+cells is an increasingly attractive therapeutic strategy. We have focused on the
+less-studied replacement of astrocytes, the major support cell in the central
+nervous system, by generating astrocytes from embryonic human glial precursor
+cells using two different astrocyte differentiation inducing factors. The
+resulting astrocytes differed in expression of multiple proteins thought to
+either promote or inhibit central nervous system homeostasis and regeneration.
+When transplanted into acute transection injuries of the adult rat spinal cord,
+astrocytes generated by exposing human glial precursor cells to bone
+morphogenetic protein promoted significant recovery of volitional foot
+placement, axonal growth and notably robust increases in neuronal survival in
+multiple spinal cord laminae. In marked contrast, human glial precursor cells
+and astrocytes generated from these cells by exposure to ciliary neurotrophic
+factor both failed to promote significant behavioral recovery or similarly
+robust neuronal survival and support of axon growth at sites of injury. Our
+studies thus demonstrate functional differences between human astrocyte
+populations and suggest that pre-differentiation of precursor cells into a
+specific astrocyte subtype is required to optimize astrocyte replacement
+therapies. To our knowledge, this study is the first to show functional
+differences in ability to promote repair of the injured adult central nervous
+system between two distinct subtypes of human astrocytes derived from a common
+fetal glial precursor population. These findings are consistent with our
+previous studies of transplanting specific subtypes of rodent glial precursor
+derived astrocytes into sites of spinal cord injury, and indicate a remarkable
+conservation from rat to human of functional differences between astrocyte
+subtypes. In addition, our studies provide a specific population of human
+astrocytes that appears to be particularly suitable for further development
+towards clinical application in treating the traumatically injured or diseased
+human central nervous system.</p></abstract><counts><page-count count="13"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>The recognition that astrocyte dysfunction may play an important role in a wide range
+of neurological disorders raises the question of whether astrocyte transplantation
+could be of therapeutic value in treating the injured or diseased human central
+nervous system (CNS). For example, it has long been known that astrocytes within
+glial scar tissue contribute to the failure of axon regeneration across sites of
+traumatic brain or spinal cord injury <xref rid="pone.0017328-Windle1" ref-type="bibr">[1]</xref>&#x02013;<xref rid="pone.0017328-Davies2" ref-type="bibr">[6]</xref>. A failure of normal astrocyte
+generation by CNS precursor cells has been discovered to be a consequence of the
+mutations that cause Vanishing White Matter leukodystrophy <xref rid="pone.0017328-Dietrich1" ref-type="bibr">[7]</xref>, and dysfunction of astrocytes
+has also been suggested to be of importance in models of amyotrophic lateral
+sclerosis <xref rid="pone.0017328-Nagai1" ref-type="bibr">[8]</xref>,
+forebrain ischemic injury <xref rid="pone.0017328-Ouyang1" ref-type="bibr">[9]</xref>, epileptic seizures <xref rid="pone.0017328-Seifert1" ref-type="bibr">[10]</xref>, Huntington's disease
+<xref rid="pone.0017328-Bradford1" ref-type="bibr">[11]</xref>,
+tuberous sclerosis <xref rid="pone.0017328-Xu1" ref-type="bibr">[12]</xref> and Rett syndrome <xref rid="pone.0017328-Maezawa1" ref-type="bibr">[13]</xref>. We therefore have proposed
+that enhancing astrocyte function through transplantation of specific subtypes of
+astrocytes derived from glial precursors will promote repair and functional recovery
+after CNS injury <xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>.</p><p>There are a number of challenges inherent in the development of astrocyte-based
+treatments for human disease. One of the most important of these is the question of
+whether all astrocytes are equivalent in their ability to promote repair, or whether
+specific populations of astrocytes are more useful than others. While previous
+studies had demonstrated a synergistic effect of BMP and LIF on the astrocytic
+differentiation of human neural stem cells <xref rid="pone.0017328-Weible1" ref-type="bibr">[15]</xref>, it remains unclear whether BMP
+and LIF induce distinct types of astrocytes and if so, what the functional
+properties of these astrocytes may be with respect to repairing CNS injuries. The
+recent description of considerable astrocyte heterogeneity in the human CNS raises
+the question whether distinct astrocytes can also be derived from single populations
+of human glial precursors, and more importantly whether different human astrocyte
+populations exhibit distinct functional properties <xref rid="pone.0017328-Oberheim1" ref-type="bibr">[16]</xref>. Further challenges include
+the identification of signaling molecules that promote the generation of beneficial
+populations of astrocytes, identification of appropriate stem and/or progenitor cell
+populations that can be the source of such cells, and determination of whether there
+are situations in which it is more useful to transplant astrocytes themselves rather
+than to transplant stem or progenitor cells that might generate astrocytes in vivo
+in response to signals present in the host environment.</p><p>We now show that astrocytes generated from the same population of human fetal glial
+precursor cells, by exposure to either bone morphogenetic protein (BMP) or ciliary
+neurotrophic factor (CNTF), promote widely divergent outcomes with respect to
+repairing the injured adult spinal cord. Transplantation of astrocytes generated by
+exposure of human glial progenitor cells (hGPCs) to BMP (hGDAs<sup>BMP</sup>)
+promoted robust behavioral recovery and multi-laminae protection of spinal cord
+neurons following spinal cord injury (SCI), while transplantation of
+undifferentiated hGPCs or astrocytes generated by hGPC exposure to CNTF
+(hGDAs<sup>CNTF</sup>) failed to provide such benefits. These results provide a
+defined population of human astrocytes suitable for further pre-clinical development
+for treatment of SCI, and demonstrate that pre-differentiation into astrocytes prior
+to transplantation provides a much greater functional recovery than transplantation
+of precursor cells themselves. Our results also underscore the importance of
+function-based analysis of astrocyte diversity as a foundation for the development
+of astrocyte transplantation-based therapies.</p></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>Human glial precursors give rise to two distinct astrocyte populations in
+vitro</title><p>As a first step towards determining whether human glial progenitor cells (hGPCs)
+can generate functionally distinct astrocyte populations, we exposed embryonic
+hGPCs isolated from spinal cords of 9.5 week old abortuses to BMP or CNTF. Both
+BMP and CNTF-induced astrocyte populations express GFAP (<xref ref-type="fig" rid="pone-0017328-g001">Fig. 1 A&#x02013;C</xref>), AQP4 and S100&#x003b2; (<xref ref-type="fig" rid="pone-0017328-g001">Fig. 1 D</xref>), three widely used
+markers of astrocyte differentiation <xref rid="pone.0017328-Bignami1" ref-type="bibr">[17]</xref>&#x02013;<xref rid="pone.0017328-Brunet1" ref-type="bibr">[22]</xref>.
+hGDAs<sup>BMP</sup> also expressed connexin 43 (CX43), glutamate transporter
+1 (GLT-1), AKAP12 and glia-derived neurotrophic factor (GDNF), all of which are
+expressed in the astroglial lineage <xref rid="pone.0017328-Ochalski1" ref-type="bibr">[23]</xref>&#x02013;<xref rid="pone.0017328-Rothstein1" ref-type="bibr">[25]</xref>. In
+contrast, CNTF treatment did not induce expression of GLT-1, connexin 43,
+AKAP12, or GDNF. Instead, hGDAs<sup>CNTF</sup> &#x02013; but not
+hGDAs<sup>BMP</sup> &#x02013; expressed several antigens expressed in
+astrocytes generated in response to injury (<xref ref-type="fig" rid="pone-0017328-g001">Fig. 1</xref> E and F), including the transcription
+factor OLIG2 and the chondroitin sulphate proteogylcans (CSPGs) phosphacan and
+CSPG4/NG2 <xref rid="pone.0017328-McKeon2" ref-type="bibr">[5]</xref>,
+<xref rid="pone.0017328-CassianiIngoni1" ref-type="bibr">[26]</xref>&#x02013;<xref rid="pone.0017328-Tang1" ref-type="bibr">[31]</xref>. Thus, induction of differentiation of human spinal
+cord derived glial precursors with BMP or CNTF induces the generation of two
+phenotypically distinct astrocyte populations.</p><fig id="pone-0017328-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.g001</object-id><label>Figure 1</label><caption><title>Generation of two distinct types of astrocytes from human glial
+precursors after treatment with BMP4 or CNTF.</title><p>Both BMP and CNTF promote the differentiation of hGPCs into GFAP-positive
+astrocytes expressing S100b but with otherwise distinct morphological
+and antigenic phenotypes. hGDAs<sup>BMP</sup> express lower levels of
+GFAP and exhibit a more compact morphology. hGDAs<sup>CNTF</sup> have a
+more elongated morphology and expressed high levels of GFAP.
+hGDAs<sup>CNTF</sup> also expressed high levels of neurite-outgrowth
+inhibitory chondroitin sulfate proteoglycans, phosphacan and CSPG4, as
+well as the transcription factor Olig2 - all of which have been found to
+be upregulated in glial scar associated astrocytes. (A&#x02013;C) Human
+GPCs grown in bFGF (A) were induced to differentiate into astrocytes
+using BMP-4 (B) or CNTF (C). Labeling with anti-GFAP (Alexa-488)
+demonstrates that both BMP4 and CNTF induce differentiation of human
+glial precursors into GFAP-expressing astrocytes, while Olig2 expression
+(Alexa-568) is repressed in hGDAs<sup>BMP</sup>. Scale
+bar&#x0200a;=&#x0200a;50 &#x000b5;m. (D) RT-QPCR analysis of hGPC,
+hGDA<sup>BMP</sup> and hGDA<sup>CNTF</sup> populations reveals
+induction of AQP4 and S100&#x003b2; in both hGDAs<sup>BMP</sup> and
+hGDAs<sup>CNTF</sup>. Induction of CX43, GLT1, AKAP12 and GDNF
+however are restricted to hGDAs<sup>BMP</sup>. Average fold change and
+SD of expression levels is shown for three independent experiments using
+9W-1 hGPCs. (E and F) Phosphacan and CSPG4 remain elevated in
+hGDAs<sup>CNTF</sup> and are reduced in hGDAs<sup>BMP</sup> derived
+from both 9W-1 (E) and 9W-2 (F) glial precursors. Mean relative protein
+expression and SD from three independent experiments are shown. Values
+were normalized to &#x003b2;-actin and expression in hGPCs.</p></caption><graphic xlink:href="pone.0017328.g001"/></fig></sec><sec id="s2b"><title>Transplant morphology</title><p>To test the functional properties of these distinct astrocyte populations in
+vivo, hGDAs<sup>BMP</sup>, hGDAs<sup>CNTF</sup> or undifferentiated hGPCs were
+transplanted into the injury site of adult Sprague-Dawley rats that had received
+unilateral transections of the right-side dorso-lateral funiculus (DLF),
+including the rubrospinal pathway, at the C3/C4 intervertebral spinal cord
+level.</p><p>Serial section analysis of transplants using antibodies to human mitochondria
+(hMito) showed that the majority of hGDA<sup>BMP</sup> transplants (4 out of 6)
+and half of the hGDA<sup>CNTF</sup> transplants (3 out of 6) that under went
+histological analysis had robust survival of hMito+ cells at 5 weeks post
+transplantation within dorsolateral funiculus (DLF) injury sites. Surviving
+transplants spanned the rostral to caudal extent of injury sites to effectively
+provide continuous substrates for potential growth of host axons across sites of
+injury. Qualitative assessment of transplant size showed that all surviving
+hGDA<sup>CNTF</sup> transplants were larger than hGDA<sup>BMP</sup>
+transplants in terms of both their rostral to caudal and lateral to medial
+extents (<xref ref-type="fig" rid="pone-0017328-g002">Fig. 2
+A&#x02013;D</xref>).</p><fig id="pone-0017328-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.g002</object-id><label>Figure 2</label><caption><title>Human GDA graft survival and support of axon growth within spinal
+cord DLF injuries.</title><p>Immuno-staining for human mitochondrial marker (red channel) of
+histological cross sections at sites of injury revealed
+hGDAs<sup>BMP</sup> (A, C, E) and hGDAs<sup>CNTF</sup> (B, D, F)
+transplant masses spanning the dorsal-ventral and lateral-medial margins
+of injury sites. Arrowheads in C and D indicate accumulations of
+hGDAs<sup>BMP</sup> and hGDAs<sup>CNTF</sup> respectively at the
+pial surface of lateral funiculus white matter (see also <xref ref-type="fig" rid="pone-0017328-g004">Fig. 4 A, B</xref>).
+Co-labeling for neurofilament (NF: green) and human mitochondrial marker
+(hMito: red) shows a markedly higher density of axons within
+hGDAs<sup>BMP</sup> treated injury sites (A, E) compared to
+hGDAs<sup>CNTF</sup> treated injury sites (B, F). Greater numbers of
+NF+ axons within hGDAs<sup>BMP</sup> transplants aligned with the
+normal rostral/caudal trajectory of DLF white matter (E) compared to
+NF+ axons within hGDAs<sup>CNTF</sup> transplants (F).
+Survival&#x0200a;=&#x0200a;5 weeks post injury/transplantation.
+Scale bars: A, B, C, D&#x0200a;=&#x0200a;200 &#x000b5;m; E,
+F&#x0200a;=&#x0200a;100 &#x000b5;m.</p></caption><graphic xlink:href="pone.0017328.g002"/></fig><p>We next found that hGDA<sup>BMP</sup> grafted injury sites exhibited higher
+densities of axons than hGDA<sup>CNTF</sup> grafted injury sites. As shown in
+<xref ref-type="fig" rid="pone-0017328-g002">figure 2</xref>,
+hGDA<sup>BMP</sup> grafts contained many 200 kD neurofilament+ axons
+(<xref ref-type="fig" rid="pone-0017328-g002">Fig. 2 A and E</xref>), while
+relatively few axons were observed in hGDA<sup>CNTF</sup> grafts (<xref ref-type="fig" rid="pone-0017328-g002">Fig. 2 B and F</xref>).
+Quantification of neurofilament immuno-reactivity within hGDAs<sup>BMP</sup> and
+hGDAs<sup>CNTF</sup> treated injury sites revealed that the injury centers
+of hGDA<sup>BMP</sup> treated spinal cords contained almost double the density
+of NF+ axon profiles (1.91 fold more: average 14.79 units<sup>2</sup>
++/&#x02212; 3.05 st. dev.) than measured in hGDA<sup>CNTF</sup> treated
+injury centers (average 7.75 units<sup>2</sup> +/&#x02212; 2.28 st. dev.;
+p&#x0200a;=&#x0200a;0.003). Notably the profiles of the majority of
+NF+ axons, particularly within the rostral and caudal margins of
+hGDA<sup>BMP</sup> grafted injuries, were end on to the transverse plane of
+section indicating that, as previously observed for axons within spinal cord
+injury sites bridged with rodent GDAs<sup>BMP</sup>
+<xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>, these
+axons were aligned with the normal rostral/caudal trajectory of the DLF white
+matter (<xref ref-type="fig" rid="pone-0017328-g002">Fig. 2 A and E</xref>).</p></sec><sec id="s2c"><title>hGDA migration and cell morphology</title><p>Analysis of the migration of transplanted hMito+ hGDAs revealed similar
+patterns of distribution within spinal cord gray matter. The highest densities
+of both types of hGDAs were observed within laminae 4, 5 and 6 of gray matter
+directly adjacent to sites of injury (<xref ref-type="fig" rid="pone-0017328-g002">Fig. 2 A&#x02013;D</xref>). In contrast, relatively
+few hMito+ hGDA cells of either type were observed within laminae 7, 8 and
+9 (<xref ref-type="fig" rid="pone-0017328-g002">Fig. 2 A&#x02013;D</xref>)
+directly adjacent to injury sites. No hMito+ cells of either type of hGDA
+were observed to have migrated medially in either gray or white matter beyond
+the central canal i.e. into the contra-lateral side of the spinal cord.
+Significantly, in all hGDA treated cords analyzed, neither type of hGDA was
+found in the contra-lateral side of the spinal cord or within gray matter
+rostral or caudal to the injury site. Migration of hGDAs in white matter was
+more extensive than in gray matter, with both types of hGDAs showing extensive
+migration both rostral and caudal to the injury site, with maximum
+rostral/caudal migration distances of 3.24 mm/3.96 mm recorded for
+hGDAs<sup>CNTF</sup> and 2.52 mm/2.16 mm recorded for hGDAs<sup>BMP</sup>
+respectively.</p><p>High power imaging of the centers of both types of hGDA grafts showed comparable
+densities of hMito positive cell bodies and processes that contained GFAP+
+intermediate filaments (<xref ref-type="fig" rid="pone-0017328-g003">Fig.
+3</xref>). Similar densities of hGDAs<sup>BMP</sup> and hGDAs<sup>CNTF</sup>
+had migrated to the pial surface of lateral funiculus white matter both rostral
+and caudal to the injury site (<xref ref-type="fig" rid="pone-0017328-g002">Figs. 2 C and D</xref>; <xref ref-type="fig" rid="pone-0017328-g004">Fig. 4
+A and B</xref>). The distribution and density of hMito+ mitochondria
+within individual hGDAs was sufficient to identify their cell bodies and show
+that both types of hGDA often displayed similar typical astrocytic
+&#x0201c;stellate&#x0201d; arrangements of their processes within transplant
+parenchyma, gray matter and white matter (<xref ref-type="fig" rid="pone-0017328-g002">Fig. 2 E and F</xref>, <xref ref-type="fig" rid="pone-0017328-g003">Fig. 3 A and B</xref>, <xref ref-type="fig" rid="pone-0017328-g004">Fig. 4 C</xref>).</p><fig id="pone-0017328-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.g003</object-id><label>Figure 3</label><caption><title>GFAP expression by transplanted hGDAs within DLF transection
+injuries.</title><p>Images of hMito+ (red) and GFAP (green) immuno-reactivity within
+hGDAs<sup>BMP</sup> (A, C, E, F) and hGDAs<sup>CNTF</sup> (B, D, G,
+H) transplants at the center of injury sites showing comparable
+densities of GFAP+ intermediate filaments (green) within hMito
+immuno-positive cell bodies and process of both types of hGDAs.
+Arrowheads indicate some examples of GFAP+/hMito+ hGDA cell
+bodies at low and high magnification. Images are maximum projections of
+apotome (Zeiss) optical sections captured through a depth of 3.5
+&#x000b5;m of tissue. Survival&#x0200a;=&#x0200a;5 weeks post
+injury/transplantation. All scale bars&#x0200a;=&#x0200a;20
+&#x000b5;m.</p></caption><graphic xlink:href="pone.0017328.g003"/></fig><fig id="pone-0017328-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.g004</object-id><label>Figure 4</label><caption><title>Migration and morphology of hGDAsBMP within DLF white matter.</title><p>(A, B) High power images showing hMito+ hGDAs<sup>BMP</sup> in the
+process of migrating and accumulating at the pial surface within lateral
+funniculus white matter. Note the elongated radially orientated
+processes displayed by some hMito+ hGDAs<sup>BMP</sup> within white
+matter (B: arrowheads), a glial morphology indicative of tangential
+migration of these cells towards the adjacent pial surface (hMito: red;
+NF+ axons: green). (C) hGDAs<sup>BMP</sup> displaying typical
+astrocytic &#x0201c;stellate&#x0201d; arrangements of their processes within
+white matter immediately ventral to the injury site.
+Survival&#x0200a;=&#x0200a;5 weeks post injury/transplantation.
+Scale bars: A, B&#x0200a;=&#x0200a;100 &#x000b5;m;
+C&#x0200a;=&#x0200a;20 &#x000b5;m.</p></caption><graphic xlink:href="pone.0017328.g004"/></fig></sec><sec id="s2d"><title>hGDAs<sup>BMP</sup> promote locomotor recovery while hGDAs<sup>CNTF</sup> do
+not</title><p>Despite the similar ability of transplanted hGDAs<sup>BMP</sup> and
+hGDAs<sup>CNTF</sup> to span the rostral to caudal extent of injury sites
+and migrate into adjacent tissues, only hGDAs<sup>BMP</sup> promoted locomotor
+recovery following transplantation into the transected dorsolateral funiculus
+(DLF). This injury severs descending, supraspinal axons and causes chronic
+deficits in both fore- and hind-limb motor function <xref rid="pone.0017328-Muir1" ref-type="bibr">[32]</xref>, which can be detected by the
+grid-walk behavioral test <xref rid="pone.0017328-Schucht1" ref-type="bibr">[33]</xref>. A similar average number of mistakes were seen in
+each group at 3 days post injury/transplantation (<xref ref-type="fig" rid="pone-0017328-g005">Fig. 5</xref> A). At day 7 the hGDA<sup>BMP</sup>
+group improved from an average 7.7&#x000b1;0.7 mistakes per crossing to
+4.7&#x000b1;0.8, and further improved by day 28 to only 2.4&#x000b1;0.2 mistakes,
+comparable to uninjured controls. By comparison, by day 28 the untreated injury
+group and animals receiving hGDAs<sup>CNTF</sup> transplants made 6.7&#x000b1;0.5
+and 6.5&#x000b1;0.5 mistakes respectively. The number of mistakes made by rats in
+the hGDA<sup>CNTF</sup> group was not significantly different from those in the
+media-injected DLF injured control group and did not improve statistically over
+time. Persistent survival of the transplant was not required in order to obtain
+benefit after transplantation, as behavioral recovery was as extensive in
+animals in which transplanted cells were still present at 5 weeks as in those in
+which no human cells were detected at this time point.</p><fig id="pone-0017328-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.g005</object-id><label>Figure 5</label><caption><title>Human GDAs<sup>BMP</sup> promote robust locomotor recovery but
+hGDAs<sup>CNTF</sup> and hGPCs do not.</title><p>Graphs show the average number of mistakes per experimental group made
+during Grid walk testing of locomotor recovery at 1 day before injury to
+28 days after injury. In two separate experiments, hGDA<sup>BMP</sup>
+transplanted animals (closed circles) performed significantly better
+than hGDA<sup>CNTF</sup> (A) or hGPC (B) transplanted animals at all
+time points from 7 to 28 days post injury/transplantation. Note that the
+performance of hGDA<sup>CNTF</sup> or hGPC transplanted animals was not
+significantly different from control injured rats at all time points
+(two-way repeated measures ANOVA, *p&#x0003c; 0.05).</p></caption><graphic xlink:href="pone.0017328.g005"/></fig></sec><sec id="s2e"><title>Pre-differentiation of hGPCs to hGDAs<sup>BMP</sup> is required for robust
+functional recovery</title><p>We next examined the question of whether the precursor cells from which
+hGDAs<sup>BMP</sup> were derived were also capable of promoting behavioral
+recovery after DLF transection and found that pre-differentiation of these
+precursor cells into astrocytes was essential to promote significant functional
+recovery. Rats that received hGDA<sup>BMP</sup> transplants performed
+significantly better on the grid-walk test than either the hGPC transplanted
+group or the media-injected control injury group at all time points from 7 to 28
+days post injury/transplantation (<xref ref-type="fig" rid="pone-0017328-g005">Fig. 5 B</xref>). The number of mistakes made by the hGPC treated group was
+not different from the injury control group at all post-injury time points and
+did not improve statistically over time. Specifically, at 3 days after
+injury/transplantation the average number of mistakes for each group were
+8.2+/&#x02212;1.3 (media-injected control injury), 7.9+/&#x02212;1.6
+(hGPCs), and 8.2+/&#x02212;1.4 (9W-1 hGDAs<sup>BMP</sup>), which are not
+significantly different from each other (as also seen for 9W-2
+hGDAs<sup>BMP</sup>). However by day 7 the hGDA<sup>BMP</sup> group showed a
+robust improvement to 3.75+/&#x02212;1.5 mistakes, and by 28 days post
+injury/transplantation, the last time point tested, the 9W-1 hGDA<sup>BMP</sup>
+group made an average of only 3.0+/&#x02212;0.7 mistakes, compared to
+5.5+/&#x02212;1.0 and 5.1+/&#x02212;0.8 mistakes for hGPC treated and
+control groups respectively (p&#x0003c;0.05, <xref ref-type="fig" rid="pone-0017328-g005">Fig. 5 B</xref>).</p></sec><sec id="s2f"><title>hGDAs<sup>BMP</sup> are more effective at providing neuroprotection than
+hGDAs<sup>CNTF</sup> and hGPCs</title><p>Differences in behavioral recovery were mirrored by marked differences in
+promotion of neuronal survival within ipsilateral gray matter immediately
+adjacent to sites of injury (<xref ref-type="fig" rid="pone-0017328-g006">Fig.
+6</xref> and <xref ref-type="fig" rid="pone-0017328-g007">Fig. 7</xref>) and
+even within rostral and caudal gray matter in which no transplanted
+hGDAs<sup>BMP</sup> were observed. Previous studies of neuron survival by
+the Priestley lab have confirmed with toluidine blue histochemistry that NeuN
+immuno-reactivity is a reliable marker of neuron survival after spinal cord
+injury <xref rid="pone.0017328-Huang1" ref-type="bibr">[34]</xref>. At
+5 weeks post injury/transplantation, NeuN+ neuron cell bodies were counted
+in laminae 4 to 9 on the injured, right hand side of the spinal cord (<xref ref-type="table" rid="pone-0017328-t001">Tables 1</xref> and <xref ref-type="table" rid="pone-0017328-t002">2</xref>). These regions of the
+spinal cord were chosen because they are either post synaptic targets of the
+corticospinal (laminae 3&#x02013;7, dense terminations; laminae 8 and 9, sparse
+terminations), rubrospinal (laminae 5&#x02013;7), and raphe (laminae 7&#x02013;9)
+supra-spinal motor systems; contain interneurons, propriospinal neurons (laminae
+4&#x02013;8), or commissural neurons (lamina 8) involved in motor control; or
+primary motor neurons (lamina 9) <xref rid="pone.0017328-Antal1" ref-type="bibr">[35]</xref>&#x02013;<xref rid="pone.0017328-Grant1" ref-type="bibr">[39]</xref>.</p><fig id="pone-0017328-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.g006</object-id><label>Figure 6</label><caption><title>hGDA<sup>BMP</sup> transplants promote protection of spinal cord
+neurons while hGDA<sup>CNTF</sup> and hGPC transplants do not.</title><p>Montaged images of NeuN immuno-histochemistry at the C5 spinal level of
+normal (A) and untreated injured (control) spinal cords (B) show that
+the unilateral DLF transection injury causes loss of NeuN+ neurons
+in multiple spinal cord laminae adjacent to the transected white matter.
+Transplantation of hGDAs<sup>BMP</sup> (C) promotes significant
+protection of neurons in laminae 7, 8, and 9 at the injury center. In
+contrast, transplantation of hGDAs<sup>CNTF</sup> (D) or hGPCs (E) did
+not promote significant levels of neuroprotection. (F) Schematic showing
+gray matter laminae at the C5 level of the rat spinal cord (adapted from
+<xref rid="pone.0017328-Grant1" ref-type="bibr">[39]</xref>). All scale bars&#x0200a;=&#x0200a;200
+&#x000b5;m.</p></caption><graphic xlink:href="pone.0017328.g006"/></fig><fig id="pone-0017328-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.g007</object-id><label>Figure 7</label><caption><title>hGDAs<sup>BMP</sup> promote robust neuroprotection of spinal cord
+neurons but hGDAs<sup>CNTF</sup> and hGPCs do not.</title><p>(A) hGDA<sup>BMP</sup> transplantation led to significant increases in
+numbers of NeuN+ neurons counted in a 1.8mm length of spinal cord
+encompassing the injury site. Graphs show percentage changes in numbers
+of NeuN+ neurons in laminae 4 to 9; laminae 4, 5, and 6; 7; and 8
+and 9 in spinal cords from animals that received transplants of 9W2 or
+9W1 hGDAs<sup>BMP</sup>, hGDAs<sup>CNTF</sup> or hGPCs and untreated
+control injuries. (B) Analysis of neuron survival within laminae
+immediately adjacent to the site of injury shows that hGDA<sup>BMP</sup>
+transplantation promoted significant protection of neurons when all
+laminae were considered (4 to 9), with the most robust increases in
+neuron numbers in intermediate (7) and ventral (8 and 9) gray matter
+laminae. Numbers of NeuN+ neurons in spinal cords of rats
+transplanted with GDAs<sup>CNTF</sup> or hGPCs were not significantly
+different from each other or untreated spinal cord injuries. * ANOVA
+and Pairwise Multiple Comparison (Holm-Sidak), p&#x0003c;0.05. + t-test
+comparison with untreated spinal cord injuries, p&#x0003c;0.05.</p></caption><graphic xlink:href="pone.0017328.g007"/></fig><table-wrap id="pone-0017328-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.t001</object-id><label>Table 1</label><caption><title>Survival of NeuN<sup>+</sup> neurons 5 weeks post
+injury.</title></caption><alternatives><graphic id="pone-0017328-t001-1" xlink:href="pone.0017328.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Transplant</td><td align="left" rowspan="1" colspan="1">Lam. 4 to 9<italic>All
+sections<sup>#</sup></italic>
+</td><td align="left" rowspan="1" colspan="1">Lam. 4 to 9<italic>Injury site</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">No Transplant</td><td align="left" rowspan="1" colspan="1">2374.25+/&#x02212;352.84</td><td align="left" rowspan="1" colspan="1">909.0+/&#x02212;237.02</td></tr><tr><td align="left" rowspan="1" colspan="1">9W2 hGDA<sup>BMP</sup>
+</td><td align="left" rowspan="1" colspan="1">3313.75+/&#x02212;238.51*</td><td align="left" rowspan="1" colspan="1">1204.25+/&#x02212;138.88*</td></tr><tr><td align="left" rowspan="1" colspan="1">9W2 hGDA<sup>CNTF</sup>
+</td><td align="left" rowspan="1" colspan="1">2548.5+/&#x02212;175.44</td><td align="left" rowspan="1" colspan="1">906.0+/&#x02212;103.94*</td></tr><tr><td align="left" rowspan="1" colspan="1">9W1 hGDA<sup>BMP</sup>
+</td><td align="left" rowspan="1" colspan="1">3128.25+/&#x02212;327.41*</td><td align="left" rowspan="1" colspan="1">1153.75+/&#x02212;127.95*</td></tr><tr><td align="left" rowspan="1" colspan="1">9W1 hGPC</td><td align="left" rowspan="1" colspan="1">2578.2+/&#x02212;71.59</td><td align="left" rowspan="1" colspan="1">938.6+/&#x02212;117.48</td></tr><tr><td align="left" rowspan="1" colspan="1">ANOVA</td><td align="left" rowspan="1" colspan="1">p&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">p&#x0003c;0.05</td></tr></tbody></table></alternatives></table-wrap><table-wrap id="pone-0017328-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0017328.t002</object-id><label>Table 2</label><caption><title>Lamina-specific analysis of spinal cord neuron survival.</title></caption><alternatives><graphic id="pone-0017328-t002-2" xlink:href="pone.0017328.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td colspan="2" align="left" rowspan="1">Lam. 4, 5, 6</td><td colspan="2" align="left" rowspan="1">Lam. 7</td><td colspan="2" align="left" rowspan="1">Lam. 8, 9</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">
+<italic>All sections</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Injury site</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>All sections</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Injury site</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>All sections</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Injury site</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">No Transplant</td><td align="left" rowspan="1" colspan="1">1191.25+/&#x02212;259.127</td><td align="left" rowspan="1" colspan="1">456.50+/&#x02212;124.66</td><td align="left" rowspan="1" colspan="1">948.75+/&#x02212;119.29</td><td align="left" rowspan="1" colspan="1">330.5+/&#x02212;74.25</td><td align="left" rowspan="1" colspan="1">359.25+/&#x02212;108.53</td><td align="left" rowspan="1" colspan="1">122.0+/&#x02212;45.35</td></tr><tr><td align="left" rowspan="1" colspan="1">9W2 hGDA<sup>BMP</sup>
+</td><td align="left" rowspan="1" colspan="1">1530.25+/&#x02212;139.1<xref ref-type="table-fn" rid="nt102">*</xref>
+</td><td align="left" rowspan="1" colspan="1">550.0+/&#x02212;103.91</td><td align="left" rowspan="1" colspan="1">1242+/&#x02212;95.62<xref ref-type="table-fn" rid="nt102">*</xref>
+</td><td align="left" rowspan="1" colspan="1">447.5+/&#x02212;41.99<xref ref-type="table-fn" rid="nt102">*</xref>
+</td><td align="left" rowspan="1" colspan="1">541.5+/&#x02212;61.47<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">206.75+/&#x02212;22.40<xref ref-type="table-fn" rid="nt102">*</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">9W2 hGDA<sup>CNTF</sup>
+</td><td align="left" rowspan="1" colspan="1">1178.75+/&#x02212;126.64</td><td align="left" rowspan="1" colspan="1">396.0+/&#x02212; 71.58</td><td align="left" rowspan="1" colspan="1">909.75+/&#x02212;48.92</td><td align="left" rowspan="1" colspan="1">356.75+/&#x02212;12.34</td><td align="left" rowspan="1" colspan="1">435+/&#x02212;74.62</td><td align="left" rowspan="1" colspan="1">153.25+/&#x02212;42.52</td></tr><tr><td align="left" rowspan="1" colspan="1">9W1 hGDA<sup>BMP</sup>
+</td><td align="left" rowspan="1" colspan="1">1466+/&#x02212;151.15<xref ref-type="table-fn" rid="nt102">*</xref>
+</td><td align="left" rowspan="1" colspan="1">528.50+/&#x02212;59.04</td><td align="left" rowspan="1" colspan="1">1171+/&#x02212;110.22<xref ref-type="table-fn" rid="nt102">*</xref>
+</td><td align="left" rowspan="1" colspan="1">437.5+/&#x02212;49.94<xref ref-type="table-fn" rid="nt102">*</xref>
+</td><td align="left" rowspan="1" colspan="1">491.25+/&#x02212;99.12<xref ref-type="table-fn" rid="nt103">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">187.75+/&#x02212;43.87<xref ref-type="table-fn" rid="nt102">*</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">9W1 hGPC</td><td align="left" rowspan="1" colspan="1">1248+/&#x02212;35.02</td><td align="left" rowspan="1" colspan="1">435.2+/&#x02212;61.72</td><td align="left" rowspan="1" colspan="1">870.4+/&#x02212;74.65</td><td align="left" rowspan="1" colspan="1">336.6+/&#x02212;50.97</td><td align="left" rowspan="1" colspan="1">459.8+/&#x02212;70.28</td><td align="left" rowspan="1" colspan="1">166.8+/&#x02212;49.43</td></tr><tr><td align="left" rowspan="1" colspan="1">ANOVA</td><td align="left" rowspan="1" colspan="1">p&#x0003c;0.05</td><td align="left" rowspan="1" colspan="1">p&#x0200a;=&#x0200a;0.09</td><td align="left" rowspan="1" colspan="1">p&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">p&#x0003c;0.05</td><td align="left" rowspan="1" colspan="1">p&#x0200a;=&#x0200a;0.08</td><td align="left" rowspan="1" colspan="1">p&#x0003c;0.05</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p># All sections sampled above, at and below injury site.</p></fn><fn id="nt102"><label/><p>* Significantly different from SCI animals receiving no
+transplant, Holm-Sidak post hoc test.</p></fn><fn id="nt103"><label/><p>&#x02020; Separate t-tests demonstrate that 9W1 and 9W2
+GDAs<sup>BMP</sup> are statistically different from control
+injury (p&#x0003c;0.05).</p></fn></table-wrap-foot></table-wrap><p>Significant improvements in neuronal survival in all laminae studied were seen in
+a 1.8 mm length of spinal cord encompassing the injury site of
+hGDA<sup>BMP</sup>-treated animals. Combined neuron counts for all laminae
+(4 to 9) showed that hGDA<sup>BMP</sup> transplantation promoted increases of
+40% and 32%, in two separate experiments, of surviving neurons
+compared to untreated injured spinal cords (<xref ref-type="fig" rid="pone-0017328-g007">Fig. 7 A</xref>; <xref ref-type="table" rid="pone-0017328-t001">Table 1</xref>), with significant increases seen in
+all laminae. Analysis of a region closer to the site of injury, through 750
+&#x000b5;m of tissue spanning the injury center, revealed notably robust increases
+in numbers of neurons for lamina 7 (35% and 32%) and laminae 8 and
+9 (70% and 54%) above control injured cords (<xref ref-type="fig" rid="pone-0017328-g007">Fig. 7 B</xref>; <xref ref-type="table" rid="pone-0017328-t002">Table 2</xref>). As with behavioral recovery,
+continued graft survival was not required for promotion of neuronal survival.
+Significant increases in neuron numbers were not observed in lamina 4, 5, 6
+adjacent to injury centers, despite rescue of neurons more distal to the zone of
+injury; an outcome most likely due to neuron loss resulting from direct trauma
+to these laminae at time of injury.</p></sec></sec><sec id="s3"><title>Discussion</title><p>The present studies provide multiple novel findings relevant to the development of
+astrocyte transplantation therapies for treatment of the injured or diseased central
+nervous system. We show that subpopulations of human astrocytes, generated by
+activation of different signaling pathways in the same population of human glial
+precursor cells, have markedly different effects when transplanted into the injured
+spinal cord. hGDAs<sup>BMP</sup> provided extensive benefit, including robust
+protection of spinal cord neurons, increased support of axon growth and locomotor
+recovery. In contrast, transplantation of either undifferentiated hGPCs or
+hGDAs<sup>CNTF</sup> failed to provide significant benefits. The major gains in
+behavioral recovery and neuronal survival achieved by
+<italic>pre</italic>-differentiation of glial precursors to specific, beneficial
+astrocytic cell types prior to transplantation stresses the need to consider such
+manipulations as a critical component in the optimization of stem/precursor cell
+transplantation based therapies.</p><p>The development of astrocyte transplantation represents a new avenue for the
+treatment of CNS injury, as contrasted with the extensive research that has been
+conducted on replacement of oligodendrocytes. Starting with transplants of human
+oligodendrocytes in the late 1980s <xref rid="pone.0017328-Gumpel1" ref-type="bibr">[40]</xref>, and more recently with populations of human
+oligodendrocyte progenitor cells isolated from the developing or adult CNS, or from
+human embryonic stem cells, it has been possible to generate extensive myelination
+upon transplantation into spinal cord injury or into congenital mouse models of
+hypomyelination <xref rid="pone.0017328-Cloutier1" ref-type="bibr">[41]</xref>&#x02013;<xref rid="pone.0017328-Windrem2" ref-type="bibr">[48]</xref>. In contrast, much less is known about the potential
+utility of astrocyte-based therapies. Moreover, initial studies showed only modest
+benefits of astrocyte transplantation for treatment of traumatic injury to the
+spinal cord <xref rid="pone.0017328-Smith1" ref-type="bibr">[49]</xref>&#x02013;<xref rid="pone.0017328-Joosten1" ref-type="bibr">[53]</xref>.</p><p>One of the striking differences in outcome between our studies and work on
+oligodendrocyte and oligodendrocyte-precursor replacement lies in the finding that
+differentiation of precursor cells into a specific astrocyte subtype
+<italic>prior</italic> to transplantation provides a much greater level of
+benefit than transplantation of the precursor cells themselves. This is the opposite
+situation to that reported in the oligodendrocyte lineage, for which a greater
+degree of pre-transplant differentiation is associated with less effective repair
+<xref rid="pone.0017328-Archer1" ref-type="bibr">[54]</xref>, <xref rid="pone.0017328-Warrington1" ref-type="bibr">[55]</xref>. While it
+may be that precursor cell transplantation is of potential use in astrocyte
+replacement in neurological disorders such as ALS <xref rid="pone.0017328-Lepore1" ref-type="bibr">[56]</xref>, our results demonstrate the
+importance of determining whether direct transplantation of astrocytes themselves
+provides greater benefit. In light of the modest benefits obtained with
+transplantation of rodent astrocytes isolated directly from the immature CNS <xref rid="pone.0017328-Smith1" ref-type="bibr">[49]</xref>&#x02013;<xref rid="pone.0017328-Joosten1" ref-type="bibr">[53]</xref>, however, our
+present and earlier studies <xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>, <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref> suggest that it is necessary instead to transplant
+astrocytes generated from precursor cells in vitro in order to optimize benefit.</p><p>Along with demonstrating the marked benefits from astrocyte transplantation in
+experimental injuries of the spinal cord, our studies also demonstrate that
+obtaining benefit may require transplanting very specific populations of human
+astrocytes. The significant difference in outcome achieved by transplantation of
+hGDAs<sup>BMP</sup> versus hGDAs<sup>CNTF</sup> demonstrates clearly that not
+all astrocytes are equivalent in respect to their therapeutic value, and this
+appears to be the first study demonstrating functional differences between different
+human astrocyte populations with respect to repairing the adult central nervous
+system. It is also interesting to note the similarity between the outcomes obtained
+with human cells and with our prior studies on rat cells <xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>, <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref>. In a similar fashion to that
+observed for rodent GDAs transplanted hGDAs<sup>BMP</sup> were more supportive of
+axon growth than hGDAs<sup>CNTF</sup> at sites of spinal cord injury. Like the human
+GDAs<sup>BMP</sup>, rodent derived GDAs<sup>BMP</sup> promote robust functional
+recovery, while GDAs<sup>CNTF</sup> did not <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref>. The conservation of the
+phenotypic and functional properties of GDAs<sup>BMP</sup> and GDAs<sup>CNTF</sup>
+between human astrocytes and rat astrocytes suggests that such properties are
+fundamental to the biology of these cells. The one difference observed in these
+studies was that hGDA<sup>BMP</sup> transplantation showed a slightly longer delay
+(7 days versus 3 days) in providing significant behavioral recovery. Whether this is
+due to differences in cell properties or a consequence of the xenograft itself
+remains to be investigated.</p><p>It was also of interest to observe that prolonged survival of the grafted astrocytes
+was not required to obtain durable improvements in behavior and neuronal survival.
+This also demonstrates a conservation of outcomes between human cells and rat cells,
+which also did not require prolonged survival to provide durable benefit <xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>, <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref>, suggesting
+that this too might be a conserved aspect of GDA<sup>BMP</sup> function.</p><p>This is also the first study, to our knowledge, in which transplanted astrocytes
+(rodent or human) have been shown to promote extensive neuroprotection of spinal
+cord neurons following spinal cord injury, an observation consistent with the robust
+neuroprotective effects of intra-spinal rodent GDA<sup>BMP</sup> transplants on
+axotomized neurons of the red nucleus <xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>, <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref>. While future studies will
+reveal whether transplantation of hGDAs<sup>BMP</sup> to DLF injuries provide
+protection of red nucleus neurons, hGDAs<sup>BMP</sup> provided robust neuron
+protection in multiple spinal cord laminae, even in more distant gray matter in
+which there was no evidence of hGDAs<sup>BMP</sup> migration. hGDAs<sup>BMP</sup>
+were able to promote survival of multiple neuronal populations within multiple gray
+matter laminae with notably robust increases of up to 69% in neuronal
+survival in laminae 8 and 9 containing motor neurons. In contrast, although SCI rats
+that were treated with hGPCs and hGDAs<sup>CNTF</sup> showed positive trends in
+neuron protection for laminae 8 and 9, this did not translate to improvements in
+grid-walk performance and these cells failed to promote statistically significant
+increases in neuronal survival even in laminae into which they had migrated.</p><p>The underlying mechanisms accounting for why hGDAs<sup>BMP</sup> are so much more
+beneficial in terms of neuroprotection and functional recovery than either
+hGDAs<sup>CNTF</sup> or undifferentiated precursor cells when transplanted into
+spinal cord injured rats remain to be investigated, but it is likely that multiple
+cellular functions are involved. For example, hGDAs<sup>BMP</sup> express higher
+levels of such astrocyte-related genes as glutamate transporter 1, connexin 43, and
+AKAP12, which are relevant to maintaining tissue homeostasis in the CNS as well as
+reducing astrogliosis and neuronal death after injury, mediating glutamate uptake
+and promoting blood-brain barrier formation <xref rid="pone.0017328-Ochalski1" ref-type="bibr">[23]</xref>, <xref rid="pone.0017328-Lee1" ref-type="bibr">[24]</xref>, <xref rid="pone.0017328-Maeda1" ref-type="bibr">[58]</xref>&#x02013;<xref rid="pone.0017328-Rothstein2" ref-type="bibr">[61]</xref>. These and other differences
+between hGDAs<sup>BMP</sup> and undifferentiated hGPCs and hGDAs<sup>CNTF</sup>,
+such as the marked differences in expression of axon growth inhibitory CSPGs and the
+expression of GDNF, may all contribute to creating a particularly effective cell
+type for promoting functional recovery in the traumatically injured adult central
+nervous system.</p><p>In brief our present studies provide the first demonstration of the utility of human
+astrocyte transplantation as a therapy for central nervous system injuries.
+Moreover, our studies provide a specific population of human astrocytes that appear
+to be particularly suitable for further development towards clinical
+applications.</p></sec><sec sec-type="materials|methods" id="s4"><title>Materials and Methods</title><sec id="s4a"><title>Ethics Statement</title><p>The University of Rochester RSRB has reviewed this study and determined that
+based on federal (45 CFR 46.102) and University criteria, the study does not
+qualify as human subjects research and has waived the need for consent
+(RSRB#00024759). All animal procedures were performed under guidelines of the
+National Institutes of Health and approved by the Institutional Animal Care and
+Utilization Committee (IACUC) of University of Colorado Denver, Aurora, CO
+(UCAR# 80710(05)1E). or the IACUC of University of Rochester Medical Center,
+Rochester, NY (UCAR# 2008-075).</p></sec><sec id="s4b"><title>Preparation of human cells</title><p>Human spinal cord tissues were obtained from two nine week old, de-identified
+abortus samples collected in the course of medically prescribed procedures using
+the Safe-Harbor Method. Spinal cord-derived glial precursors were grown and
+isolated as previously described <xref rid="pone.0017328-Dietrich2" ref-type="bibr">[62]</xref>&#x02013;<xref rid="pone.0017328-Rao1" ref-type="bibr">[64]</xref>. Spinal cord
+tissue was dissected from the rostral neural tube of two 9 week old samples
+(referred to here as 9W1 and 9W2). After removal of the meninges, tissue was
+digested at 37&#x000b0;C with 59 U/ml papain (Worthington) in Hanks balanced salt
+solution (HBSS, Invitrogen) supplemented with 10 mM Hepes (EMD), pH 8.0 and 125
+U/ml Dnase I (Sigma), and triturated in 0.3%(w/v) BSA/HBSS (Sigma), 250
+U/ml Dnase I. A2B5<sup>+</sup>PSA-NCAM<bold><sup>&#x02212;</sup></bold> glial
+progenitor cells were isolated by step-wise immunopurification using
+anti-PSA-NCAM and A2B5-bound magnetic beads (Miltenyi). and cultured in
+5% O<sub>2</sub>/7% CO<sub>2</sub> in Bottenstein-Sato F12 medium
+with 10 ng/ml human recombinant basic fibroblast growth factor (Peprotech) on a
+substrate of 1 &#x000b5;g/cm<sup>2</sup> fibronectin (Chemicon) and 0.5
+&#x000b5;g/cm<sup>2</sup> laminin (Invitrogen). Differentiation of hGPCs was
+induced at 2500 cells/cm<sup>2</sup> by replacing bFGF with either 20 ng/ml
+BMP-4 (R&#x00026;D) or 10 ng/ml CNTF (Peprotech) and allowed to differentiate for 7
+days prior to harvest.</p></sec><sec id="s4c"><title>RNA and protein expression analysis</title><p>Characterization of hGPC and hGDA cultures was performed by reverse-transcriptase
+semi-quantitative polymerase chain reaction (RT-QPCR), Western blot and
+immunofluorescent labeling as previously described <xref rid="pone.0017328-Dietrich1" ref-type="bibr">[7]</xref>, <xref rid="pone.0017328-Li1" ref-type="bibr">[65]</xref>. Multiplex QPCR reactions of RT
+product were performed using FAM-labeled probes for aquaporin 4, S100b, CX43,
+GLT-1 and AKAP12, in combination with VIC-labeled, primer limited GAPDH probe
+and Taqman mastermix (all Applied Biosystems). DDCt analysis was performed using
+Microsoft Excel software as previously described <xref rid="pone.0017328-Livak1" ref-type="bibr">[66]</xref>. Independent experiments
+were performed in triplicate and average fold change expression normalized to
+expression in undifferentiated hGPCs grown in bFGF. Western blot analysis of
+chondroitin sulfate proteoglycans and Olig2 was performed as previously
+described <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref>, using anti-phosphacan monoclonal (1&#x02236;1000, 3F8,
+Developmental Studies Hybridoma Bank), anti-CSPG4/NG2 monoclonal (1&#x02236;2000,
+Chemicon), anti-Olig2 polyclonal (1&#x02236;4000, Chemicon) and anti-b-tubulin
+monoclonal antibody (1&#x02236;1000, Santa Cruz). Expression levels of phosphacan
+(320&#x02013;340 kDa band) NG2 (270&#x02013;300 kDa band) and Olig2 (32 kDa band),
+respectively, were normalized for each sample to &#x003b2;-tubulin (52 kDa)
+expression. All Western blot experiments were conducted in triplicate and
+results were compared using the Student's t-test, p&#x0003c;0.05.
+Immunofluorescent labeling was performed using anti-Olig2 (1&#x02236;4000,
+Chemicon) and anti-GFAP (1&#x02236;400, Cell Signaling) followed by fluorescently
+labeled, secondary anti-Ig antibodies (Alexa 488 and 568 conjugates, Invitrogen)
+at a 1&#x02236;2000 dilution. Monochrome images of parallel samples were captured
+using identical exposure times and gain settings, and merged as pseudo-colored
+images.</p></sec><sec id="s4d"><title>Spinal cord injury model</title><p>Adult female Sprague Dawley rats (3 months old, Harlan) were used in all
+<italic>in vivo</italic> spinal cord injury experiments and were
+anesthetized by injection of a cocktail containing ketamine and xylazine.
+Unilateral transections of the right-side dorso-lateral funiculus (DLF)
+including the rubrospinal pathway were conducted at the C3/C4 intervertebral
+spinal cord level (Supplemental <xref ref-type="supplementary-material" rid="pone.0017328.s001">Fig. S1A and S1B</xref>). The dorsal surface of the
+spinal cord was exposed by opening the intervertebral space between the C3 and
+C4 vertebrae. After opening the dura, a 1 mm deep transection was made lateral
+to the midline using micro-scissors. To ensure that the injury was complete and
+that the depth was uniformly 1 mm, a 30 gauge needle was again inserted into the
+transection site to a depth of 1 mm and slowly passed through the medial to
+lateral extent of the injury. The use of an inter-vertebral surgery approach in
+combination with discreet transection injuries of the dorsolateral funiculus
+results in highly consistent deficits in grid-walk locomotor performance <xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>, <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref>.</p><p>A total of 6 &#x000b5;l of hGDA<sup>BMP</sup>, hGDA<sup>CNTF</sup> or hGPC
+suspensions (30,000 cells/&#x000b5;l; 180,000 cells total) per animal were acutely
+transplanted into six different sites at the injury site on the right side of
+the spinal cord: medial and lateral of the rostral and caudal injury margins,
+and medial and lateral of the injury center (Supplemental <xref ref-type="supplementary-material" rid="pone.0017328.s001">Fig. S1C</xref>).
+Control injured rats were injected with 6 &#x000b5;l HBSS. All control or cell
+transplanted rats were immune suppressed. Rats in the 9W2 groups were given
+daily injections of cyclosporine (1 mg/100 g body weight) beginning the day
+before injury/transplantation through the duration of the experiment. Due to a
+temporary unavailability of injectable cyclosporine, rats in the 9W1 group were
+given a bolus injection of methyl prednisolone (30 mg/kg body weight) 1 hour
+prior to injury/transplantation.</p></sec><sec id="s4e"><title>Histology</title><p>At 5 weeks post-surgery animals were deeply anesthetized and transcardially
+perfused with 0.1 M PBS followed by 4% paraformaldehyde in 0.1M PBS.
+Dissected spinal cords were cryosectioned and immunofluorescently labeled as
+previously described <xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>, <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref>. The following primary antibodies were used: mouse
+anti-GFAP (Sigma), rabbit polyclonal anti-GFAP (Sigma) or goat anti GFAP
+(Lifespan Biosciences); mouse anti-NeuN (Millipore); rabbit anti- 200 kD
+neurofilament (Serotec); mouse anti-human mitochondrial antigen (Millipore).
+Alexa-488, Alexa-594, and Alexa-647 conjugated secondary antibodies (Invitrogen)
+were used to visualize primary antibody binding. All secondary antibodies were
+pre-absorbed against rat serum. To control for nonspecific secondary antibody
+binding, adjacent sections were also processed as described above without
+primary antibodies. Some sections were counterstained with DAPI to show nuclei.
+Labeled sections were examined and imaged using a Zeiss 510 Meta confocal
+microscope. Antigen co-localization and cellular associations were determined
+with Zeiss Confocal image analysis software.</p></sec><sec id="s4f"><title>Quantification of axon growth into GDA treated injury sites</title><p>The relative density of axons within the centers of hGDA<sup>BMP</sup> or
+hGDA<sup>CNTF</sup> transplanted injury sites was determined by quantifying
+neurofilament-immunoreactive pixels in 4 tissue sections per spinal cord from 5
+animals per experimental group. Images were captured (Zeiss-Z1 microscope) of
+the right-side dorsolateral funiculus from every sixth histological cross
+section (4 sections in total per spinal cord) from tissue at injury centers.
+Using Image-J analysis software, a 465 &#x000b5;m&#x000d7;465 &#x000b5;m square region
+of interest was drawn on each image with the upper right corner located on the
+dorso-lateral outer edge of the transplant mass such that the region of interest
+was contained within injury sites/transplant parenchyma (Supplemental <xref ref-type="supplementary-material" rid="pone.0017328.s002">Fig. S2</xref>). The
+area within the region of interest filled with NF+ pixels was determined.
+The sum total of NF+ areas of each region of interest per spinal cord was
+calculated, and then the average area per experimental group was determined. A
+two-sample T-test was applied to assess statistical significance
+(alpha&#x0200a;=&#x0200a;0.05).</p></sec><sec id="s4g"><title>Quantification of neuron survival</title><p>Neuronal survival within spinal cord gray matter was determined using NeuN
+immuno-reactivity as a marker of surviving spinal cord neurons after spinal cord
+injury <xref rid="pone.0017328-Huang1" ref-type="bibr">[34]</xref>. To
+quantify surviving NeuN+ neurons, 15 sections per spinal cord at 5 weeks
+post injury were sampled from a 1.8 mm length of spinal cord encompassing the
+injury site. 5 spinal cords per experimental group were analyzed. Starting 400
+&#x000b5;m rostral to the injury site, the right side of every sixth serial
+section was imaged (Zeiss-Z1 microscope). Using AxioVision software the gray
+matter was subdivided into 3 regions: laminae 4-6; lamina 7; laminae 8&#x02013;9.
+NeuN+ neurons were counted within each region per section. The average
+number of neurons (+/&#x02212; one standard deviaton) per total number of
+neurons was determined per region (<xref ref-type="table" rid="pone-0017328-t001">tables 1</xref> and <xref ref-type="table" rid="pone-0017328-t002">2</xref>). The percent change was calculated by
+dividing the average number of neurons per group by the average number of
+neurons in the injury control group. A second set of calculations was conducted
+on 6 sections per spinal cord through 750 &#x000b5;m of tissue spanning the injury
+center. One way ANOVA and Holm-Sidak multiple comparisons post hoc tests were
+applied to determine statistical significance (p&#x0003c;0.05). The power of these
+tests, with an alpha of 0.05, was 0.996 when all sections are considered, and
+0.702 when only the 6 sections spanning the injury center are considered.</p></sec><sec id="s4h"><title>Analysis of Locomotor Recovery</title><p>Behavioral analysis of volitional foot placement was tested using a grid-walk
+behavioral test (Foot Misplacement Apparatus, Columbus Instruments) as
+previously described <xref rid="pone.0017328-Davies3" ref-type="bibr">[14]</xref>, <xref rid="pone.0017328-Davies4" ref-type="bibr">[57]</xref>. Two weeks before surgery, rats were trained to walk
+across a horizontal ladder and those that consistently crossed without stopping
+were used in experiments. Baseline gridwalk scores were obtained one day prior
+to surgery and rats were randomly assigned into experimental groups. One
+experiment included the following three groups: DLF injury + media
+injection (n&#x0200a;=&#x0200a;8), DLF injury + 9W-1 hGPCs
+(n&#x0200a;=&#x0200a;8), and DLF injury + 9W-1 hGDAs<sup>BMP</sup>
+(n&#x0200a;=&#x0200a;8). The second experiment included DLF injury +
+media injection (n&#x0200a;=&#x0200a;6), DLF injury + 9W-2
+hGDAs<sup>CNTF</sup> (n&#x0200a;=&#x0200a;6) and DLF injury + 9W-2
+hGDAs<sup>BMP</sup> (n&#x0200a;=&#x0200a;7). At 3, 7, 10, 14, 21, and
+28 days post-surgery, each rat was tested three times and the number of mistakes
+from each trial was averaged to generate a daily score for each animal. Two-way
+repeated measures ANOVA and Holm-Sidak post hoc (p&#x0003c;0.05) were applied to
+assess statistical significance using Sigma Stat 3.5 (Systat Software Inc.). The
+power of these tests for each independent behavior study, with an alpha of 0.05,
+was equal to 1.0.</p></sec></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0017328.s001"><label>Figure S1</label><caption><p>Schematic illustrations of the adult rat dorso-lateral funiculus (DLF)
+transection spinal cord injury model and cell injections at injury sites.
+Dorsal (A) and cross section (B) schematics of the rat cervical spinal cord
+showing right side unilateral transection injury (red shaded area) conducted
+at the level of the C3/C4 intervertebral junction. (C) Injections (six in
+total) of either hGDAs or hGPCs were made at sites if injury, two into
+injury centers and two further injections each to rostral and caudal injury
+margins respectively (black diamonds represent injection sites). C3/C4,
+junction of the third and fourth cervical vertebrae; DLF, dorsolateral
+funiculus; Cf, cuneate fasciculus; Gf, gracile fasciculus; GM, gray matter.
+(Cross section schematic (B) adapted from Grant and Koerber <xref rid="pone.0017328-Grant1" ref-type="bibr">[39]</xref>).</p><p>(TIF)</p></caption><media xlink:href="pone.0017328.s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0017328.s002"><label>Figure S2</label><caption><p>Schematic illustration of neurofilament sampling region at
+injury/transplantation sites. Image-J analysis software has been used to
+draw a 465 &#x000b5;m&#x000d7;465 &#x000b5;m square region of interest (ROI, white
+box) on a representative image of an NF immuno-stained tissue section at the
+center of hGDA<sup>CNTF</sup> treated DLF injury site. The upper right
+corner of the ROI is located on the dorso-lateral outer edge of the
+transplant mass such that that the region of interest is contained within
+the injury site/transplant mass. Scale bar&#x0200a;=&#x0200a;200
+&#x000b5;m.</p><p>(TIF)</p></caption><media xlink:href="pone.0017328.s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We thank K. Saul, D. Harlow and K. Ellison for conducting histology and behavioral
+testing (Department of Neurosurgery, UC Denver) and Michelle Lacagnina (Department
+for Biomedical Genetics, University of Rochester, NY) and Laurie Baxter (Surgical
+Pathology, University of Rochester, NY) for assistance with human cell cultures, and
+Brendan Carlin for assistance with RT-PCR analysis (Department for Biomedical
+Genetics, University of Rochester, NY). The 3F8 anti-phosphacan antibody was
+obtained from the Developmental Hybridoma Bank developed under the auspices of the
+NICHID and maintained by the University of Iowa, Department of Biological
+Sciences.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This work was supported by funding from the National Institutes of Health
+[grant numbers RO1-NS046442, RO1-NS42820]; the Carlson Stem Cell
+Trust and the CareCure SCI community. The funders had no role in
+study design, data collection and analysis, decision to publish, or preparation
+of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0017328-Windle1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Windle</surname><given-names>WF</given-names></name><name><surname>Clemente</surname><given-names>CD</given-names></name><name><surname>Chambers</surname><given-names>WW</given-names></name></person-group>
+<year>1952</year>
+<article-title>Inhibition of formation of a glial barrier as a means of
+permitting a peripheral nerve to grow into the brain.</article-title>
+<source>J Comp Neurol</source>
+<volume>96</volume>
+<fpage>359</fpage>
+<lpage>369</lpage>
+<pub-id pub-id-type="pmid">14938473</pub-id></element-citation></ref><ref id="pone.0017328-McKeon1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McKeon</surname><given-names>RJ</given-names></name><name><surname>Hoke</surname><given-names>A</given-names></name><name><surname>Silver</surname><given-names>J</given-names></name></person-group>
+<year>1995</year>
+<article-title>Injury-induced proteoglycans inhibit the potential for
+laminin-mediated axon growth on astrocytic scars.</article-title>
+<source>Exp Neurol</source>
+<volume>136</volume>
+<fpage>32</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="pmid">7589332</pub-id></element-citation></ref><ref id="pone.0017328-Davies1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davies</surname><given-names>SJ</given-names></name><name><surname>Field</surname><given-names>PM</given-names></name><name><surname>Raisman</surname><given-names>G</given-names></name></person-group>
+<year>1996</year>
+<article-title>Regeneration of cut adult axons fails even in the presence of
+continuous aligned glial pathways.</article-title>
+<source>Exp Neurol</source>
+<volume>142</volume>
+<fpage>203</fpage>
+<lpage>216</lpage>
+<pub-id pub-id-type="pmid">8934554</pub-id></element-citation></ref><ref id="pone.0017328-Zuo1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zuo</surname><given-names>J</given-names></name><name><surname>Neubauer</surname><given-names>D</given-names></name><name><surname>Dyess</surname><given-names>K</given-names></name><name><surname>Ferguson</surname><given-names>TA</given-names></name><name><surname>Muir</surname><given-names>D</given-names></name></person-group>
+<year>1998</year>
+<article-title>Degradation of chondroitin sulfate proteoglycan enhances the
+neurite-promoting potential of spinal cord tissue.</article-title>
+<source>Exp Neurol</source>
+<volume>154</volume>
+<fpage>654</fpage>
+<lpage>662</lpage>
+<pub-id pub-id-type="pmid">9878200</pub-id></element-citation></ref><ref id="pone.0017328-McKeon2"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McKeon</surname><given-names>RJ</given-names></name><name><surname>Jurynec</surname><given-names>MJ</given-names></name><name><surname>Buck</surname><given-names>CR</given-names></name></person-group>
+<year>1999</year>
+<article-title>The chondroitin sulfate proteoglycans neurocan and phosphacan are
+expressed by reactive astrocytes in the chronic CNS glial
+scar.</article-title>
+<source>J Neurosci</source>
+<volume>19</volume>
+<fpage>10778</fpage>
+<lpage>10788</lpage>
+<pub-id pub-id-type="pmid">10594061</pub-id></element-citation></ref><ref id="pone.0017328-Davies2"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davies</surname><given-names>S</given-names></name><name><surname>Goucher</surname><given-names>D</given-names></name><name><surname>Doller</surname><given-names>C</given-names></name><name><surname>Silver</surname><given-names>J</given-names></name></person-group>
+<year>1999</year>
+<article-title>Robust regeneration of adult sensory axons in degenerating white
+matter of the adult rat spinal cord.</article-title>
+<source>J Neurosci</source>
+<volume>19</volume>
+<fpage>5810</fpage>
+<lpage>5822</lpage>
+<pub-id pub-id-type="pmid">10407022</pub-id></element-citation></ref><ref id="pone.0017328-Dietrich1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietrich</surname><given-names>J</given-names></name><name><surname>Lacagnina</surname><given-names>M</given-names></name><name><surname>Gass</surname><given-names>D</given-names></name><name><surname>Richfield</surname><given-names>E</given-names></name><name><surname>Mayer-Proschel</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>EIF2B5 mutations compromise GFAP(+) astrocyte generation in
+vanishing white matter leukodystrophy.</article-title>
+<source>Nat Med</source>
+<volume>11</volume>
+<fpage>277</fpage>
+<lpage>283</lpage>
+<pub-id pub-id-type="pmid">15723074</pub-id></element-citation></ref><ref id="pone.0017328-Nagai1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nagai</surname><given-names>M</given-names></name><name><surname>Re</surname><given-names>DB</given-names></name><name><surname>Nagata</surname><given-names>T</given-names></name><name><surname>Chalazonitis</surname><given-names>A</given-names></name><name><surname>Jessell</surname><given-names>TM</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Astrocytes expressing ALS-linked mutated SOD1 release factors
+selectively toxic to motor neurons.</article-title>
+<source>Nat Neurosci</source>
+<volume>10</volume>
+<fpage>615</fpage>
+<lpage>622</lpage>
+<pub-id pub-id-type="pmid">17435755</pub-id></element-citation></ref><ref id="pone.0017328-Ouyang1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ouyang</surname><given-names>YB</given-names></name><name><surname>Voloboueva</surname><given-names>LA</given-names></name><name><surname>Xu</surname><given-names>LJ</given-names></name><name><surname>Giffard</surname><given-names>RG</given-names></name></person-group>
+<year>2007</year>
+<article-title>Selective dysfunction of hippocampal CA1 astrocytes contributes
+to delayed neuronal damage after transient forebrain
+ischemia.</article-title>
+<source>J Neurosci</source>
+<volume>27</volume>
+<fpage>4253</fpage>
+<lpage>4260</lpage>
+<pub-id pub-id-type="pmid">17442809</pub-id></element-citation></ref><ref id="pone.0017328-Seifert1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Seifert</surname><given-names>G</given-names></name><name><surname>Carmignoto</surname><given-names>G</given-names></name><name><surname>Steinhauser</surname><given-names>C</given-names></name></person-group>
+<year>2009</year>
+<article-title>Astrocyte dysfunction in epilepsy.</article-title>
+<source>Brain Res Rev</source>
+</element-citation></ref><ref id="pone.0017328-Bradford1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bradford</surname><given-names>J</given-names></name><name><surname>Shin</surname><given-names>JY</given-names></name><name><surname>Roberts</surname><given-names>M</given-names></name><name><surname>Wang</surname><given-names>CE</given-names></name><name><surname>Li</surname><given-names>XJ</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Expression of mutant huntingtin in mouse brain astrocytes causes
+age-dependent neurological symptoms.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>106</volume>
+<fpage>22480</fpage>
+<lpage>22485</lpage>
+<pub-id pub-id-type="pmid">20018729</pub-id></element-citation></ref><ref id="pone.0017328-Xu1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>L</given-names></name><name><surname>Zeng</surname><given-names>LH</given-names></name><name><surname>Wong</surname><given-names>M</given-names></name></person-group>
+<year>2009</year>
+<article-title>Impaired astrocytic gap junction coupling and potassium buffering
+in a mouse model of tuberous sclerosis complex.</article-title>
+<source>Neurobiol Dis</source>
+<volume>34</volume>
+<fpage>291</fpage>
+<lpage>299</lpage>
+<pub-id pub-id-type="pmid">19385061</pub-id></element-citation></ref><ref id="pone.0017328-Maezawa1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maezawa</surname><given-names>I</given-names></name><name><surname>Swanberg</surname><given-names>S</given-names></name><name><surname>Harvey</surname><given-names>D</given-names></name><name><surname>LaSalle</surname><given-names>JM</given-names></name><name><surname>Jin</surname><given-names>LW</given-names></name></person-group>
+<year>2009</year>
+<article-title>Rett syndrome astrocytes are abnormal and spread MeCP2 deficiency
+through gap junctions.</article-title>
+<source>J Neurosci</source>
+<volume>29</volume>
+<fpage>5051</fpage>
+<lpage>5061</lpage>
+<pub-id pub-id-type="pmid">19386901</pub-id></element-citation></ref><ref id="pone.0017328-Davies3"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davies</surname><given-names>JE</given-names></name><name><surname>Huang</surname><given-names>C</given-names></name><name><surname>Proschel</surname><given-names>C</given-names></name><name><surname>Noble</surname><given-names>M</given-names></name><name><surname>Mayer-Proschel</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Astrocytes derived from glial-restricted precursors promote
+spinal cord repair.</article-title>
+<source>J Biol</source>
+<volume>5</volume>
+<fpage>7</fpage>
+<pub-id pub-id-type="pmid">16643674</pub-id></element-citation></ref><ref id="pone.0017328-Weible1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weible</surname><given-names>MW</given-names><suffix>2nd</suffix></name><name><surname>Chan-Ling</surname><given-names>T</given-names></name></person-group>
+<year>2007</year>
+<article-title>Phenotypic characterization of neural stem cells from human fetal
+spinal cord: synergistic effect of LIF and BMP4 to generate
+astrocytes.</article-title>
+<source>Glia</source>
+<volume>55</volume>
+<fpage>1156</fpage>
+<lpage>1168</lpage>
+<pub-id pub-id-type="pmid">17597119</pub-id></element-citation></ref><ref id="pone.0017328-Oberheim1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oberheim</surname><given-names>NA</given-names></name><name><surname>Takano</surname><given-names>T</given-names></name><name><surname>Han</surname><given-names>X</given-names></name><name><surname>He</surname><given-names>W</given-names></name><name><surname>Lin</surname><given-names>JH</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Uniquely hominid features of adult human
+astrocytes.</article-title>
+<source>J Neurosci</source>
+<volume>29</volume>
+<fpage>3276</fpage>
+<lpage>3287</lpage>
+<pub-id pub-id-type="pmid">19279265</pub-id></element-citation></ref><ref id="pone.0017328-Bignami1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bignami</surname><given-names>A</given-names></name><name><surname>Eng</surname><given-names>LF</given-names></name><name><surname>Dahl</surname><given-names>D</given-names></name><name><surname>Uyeda</surname><given-names>CT</given-names></name></person-group>
+<year>1972</year>
+<article-title>Localization of the glial fibrillary acidic protein in astrocytes
+by immunofluorescence.</article-title>
+<source>Brain Res</source>
+<volume>43</volume>
+<fpage>429</fpage>
+<lpage>435</lpage>
+<pub-id pub-id-type="pmid">4559710</pub-id></element-citation></ref><ref id="pone.0017328-Gomori1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gomori</surname><given-names>E</given-names></name><name><surname>Pal</surname><given-names>J</given-names></name><name><surname>Abraham</surname><given-names>H</given-names></name><name><surname>Vajda</surname><given-names>Z</given-names></name><name><surname>Sulyok</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Fetal development of membrane water channel proteins aquaporin-1
+and aquaporin-4 in the human brain.</article-title>
+<source>Int J Dev Neurosci</source>
+<volume>24</volume>
+<fpage>295</fpage>
+<lpage>305</lpage>
+<pub-id pub-id-type="pmid">16814974</pub-id></element-citation></ref><ref id="pone.0017328-Haglid1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haglid</surname><given-names>KG</given-names></name><name><surname>Hamberger</surname><given-names>A</given-names></name><name><surname>Hansson</surname><given-names>HA</given-names></name><name><surname>Hyden</surname><given-names>H</given-names></name><name><surname>Persson</surname><given-names>L</given-names></name><etal/></person-group>
+<year>1976</year>
+<article-title>Cellular and subcellular distribution of the S-100 protein in
+rabbit and rat central nervous system.</article-title>
+<source>J Neurosci Res</source>
+<volume>2</volume>
+<fpage>175</fpage>
+<lpage>191</lpage>
+<pub-id pub-id-type="pmid">994248</pub-id></element-citation></ref><ref id="pone.0017328-Ludwin1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ludwin</surname><given-names>SK</given-names></name><name><surname>Kosek</surname><given-names>JC</given-names></name><name><surname>Eng</surname><given-names>LF</given-names></name></person-group>
+<year>1976</year>
+<article-title>The topographical distribution of S-100 and GFA proteins in the
+adult rat brain: an immunohistochemical study using horseradish
+peroxidase-labelled antibodies.</article-title>
+<source>J Comp Neurol</source>
+<volume>165</volume>
+<fpage>197</fpage>
+<lpage>207</lpage>
+<pub-id pub-id-type="pmid">1107363</pub-id></element-citation></ref><ref id="pone.0017328-Rash1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rash</surname><given-names>JE</given-names></name><name><surname>Yasumura</surname><given-names>T</given-names></name><name><surname>Hudson</surname><given-names>CS</given-names></name><name><surname>Agre</surname><given-names>P</given-names></name><name><surname>Nielsen</surname><given-names>S</given-names></name></person-group>
+<year>1998</year>
+<article-title>Direct immunogold labeling of aquaporin-4 in square arrays of
+astrocyte and ependymocyte plasma membranes in rat brain and spinal
+cord.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>95</volume>
+<fpage>11981</fpage>
+<lpage>11986</lpage>
+<pub-id pub-id-type="pmid">9751776</pub-id></element-citation></ref><ref id="pone.0017328-Brunet1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brunet</surname><given-names>JF</given-names></name><name><surname>Grollimund</surname><given-names>L</given-names></name><name><surname>Chatton</surname><given-names>JY</given-names></name><name><surname>Lengacher</surname><given-names>S</given-names></name><name><surname>Magistretti</surname><given-names>PJ</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Early acquisition of typical metabolic features upon
+differentiation of mouse neural stem cells into astrocytes.</article-title>
+<source>Glia</source>
+<volume>46</volume>
+<fpage>8</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="pmid">14999809</pub-id></element-citation></ref><ref id="pone.0017328-Ochalski1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ochalski</surname><given-names>PA</given-names></name><name><surname>Frankenstein</surname><given-names>UN</given-names></name><name><surname>Hertzberg</surname><given-names>EL</given-names></name><name><surname>Nagy</surname><given-names>JI</given-names></name></person-group>
+<year>1997</year>
+<article-title>Connexin-43 in rat spinal cord: localization in astrocytes and
+identification of heterotypic astro-oligodendrocytic gap
+junctions.</article-title>
+<source>Neuroscience</source>
+<volume>76</volume>
+<fpage>931</fpage>
+<lpage>945</lpage>
+<pub-id pub-id-type="pmid">9135062</pub-id></element-citation></ref><ref id="pone.0017328-Lee1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>SW</given-names></name><name><surname>Kim</surname><given-names>WJ</given-names></name><name><surname>Choi</surname><given-names>YK</given-names></name><name><surname>Song</surname><given-names>HS</given-names></name><name><surname>Son</surname><given-names>MJ</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>SSeCKS regulates angiogenesis and tight junction formation in
+blood-brain barrier.</article-title>
+<source>Nat Med</source>
+<volume>9</volume>
+<fpage>900</fpage>
+<lpage>906</lpage>
+<pub-id pub-id-type="pmid">12808449</pub-id></element-citation></ref><ref id="pone.0017328-Rothstein1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rothstein</surname><given-names>JD</given-names></name><name><surname>Martin</surname><given-names>L</given-names></name><name><surname>Levey</surname><given-names>AI</given-names></name><name><surname>Dykes-Hoberg</surname><given-names>M</given-names></name><name><surname>Jin</surname><given-names>L</given-names></name><etal/></person-group>
+<year>1994</year>
+<article-title>Localization of neuronal and glial glutamate
+transporters.</article-title>
+<source>Neuron</source>
+<volume>13</volume>
+<fpage>713</fpage>
+<lpage>725</lpage>
+<pub-id pub-id-type="pmid">7917301</pub-id></element-citation></ref><ref id="pone.0017328-CassianiIngoni1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cassiani-Ingoni</surname><given-names>R</given-names></name><name><surname>Coksaygan</surname><given-names>T</given-names></name><name><surname>Xue</surname><given-names>H</given-names></name><name><surname>Reichert-Scrivner</surname><given-names>SA</given-names></name><name><surname>Wiendl</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Cytoplasmic translocation of Olig2 in adult glial progenitors
+marks the generation of reactive astrocytes following autoimmune
+inflammation.</article-title>
+<source>Exp Neurol</source>
+<volume>201</volume>
+<fpage>349</fpage>
+<lpage>358</lpage>
+<pub-id pub-id-type="pmid">16814281</pub-id></element-citation></ref><ref id="pone.0017328-Chen1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>Y</given-names></name><name><surname>Miles</surname><given-names>DK</given-names></name><name><surname>Hoang</surname><given-names>T</given-names></name><name><surname>Shi</surname><given-names>J</given-names></name><name><surname>Hurlock</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>The basic helix-loop-helix transcription factor olig2 is critical
+for reactive astrocyte proliferation after cortical injury.</article-title>
+<source>J Neurosci</source>
+<volume>28</volume>
+<fpage>10983</fpage>
+<lpage>10989</lpage>
+<pub-id pub-id-type="pmid">18945906</pub-id></element-citation></ref><ref id="pone.0017328-Jones1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jones</surname><given-names>LL</given-names></name><name><surname>Yamaguchi</surname><given-names>Y</given-names></name><name><surname>Stallcup</surname><given-names>WB</given-names></name><name><surname>Tuszynski</surname><given-names>MH</given-names></name></person-group>
+<year>2002</year>
+<article-title>NG2 is a major chondroitin sulfate proteoglycan produced after
+spinal cord injury and is expressed by macrophages and oligodendrocyte
+progenitors.</article-title>
+<source>J Neurosci</source>
+<volume>22</volume>
+<fpage>2792</fpage>
+<lpage>2803</lpage>
+<pub-id pub-id-type="pmid">11923444</pub-id></element-citation></ref><ref id="pone.0017328-Massey1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Massey</surname><given-names>JM</given-names></name><name><surname>Amps</surname><given-names>J</given-names></name><name><surname>Viapiano</surname><given-names>MS</given-names></name><name><surname>Matthews</surname><given-names>RT</given-names></name><name><surname>Wagoner</surname><given-names>MR</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Increased chondroitin sulfate proteoglycan expression in
+denervated brainstem targets following spinal cord injury creates a barrier
+to axonal regeneration overcome by chondroitinase ABC and
+neurotrophin-3.</article-title>
+<source>Exp Neurol</source>
+<volume>209</volume>
+<fpage>426</fpage>
+<lpage>445</lpage>
+<pub-id pub-id-type="pmid">17540369</pub-id></element-citation></ref><ref id="pone.0017328-Zhao1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>JW</given-names></name><name><surname>Raha-Chowdhury</surname><given-names>R</given-names></name><name><surname>Fawcett</surname><given-names>JW</given-names></name><name><surname>Watts</surname><given-names>C</given-names></name></person-group>
+<year>2009</year>
+<article-title>Astrocytes and oligodendrocytes can be generated from NG2+
+progenitors after acute brain injury: intracellular localization of
+oligodendrocyte transcription factor 2 is associated with their fate
+choice.</article-title>
+<source>Eur J Neurosci</source>
+<volume>29</volume>
+<fpage>1853</fpage>
+<lpage>1869</lpage>
+<pub-id pub-id-type="pmid">19473238</pub-id></element-citation></ref><ref id="pone.0017328-Tang1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tang</surname><given-names>X</given-names></name><name><surname>Davies</surname><given-names>JE</given-names></name><name><surname>Davies</surname><given-names>SJ</given-names></name></person-group>
+<year>2003</year>
+<article-title>Changes in distribution, cell associations, and protein
+expression levels of NG2, neurocan, phosphacan, brevican, versican V2, and
+tenascin-C during acute to chronic maturation of spinal cord scar
+tissue.</article-title>
+<source>J Neurosci Res</source>
+<volume>71</volume>
+<fpage>427</fpage>
+<lpage>444</lpage>
+<pub-id pub-id-type="pmid">12526031</pub-id></element-citation></ref><ref id="pone.0017328-Muir1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Muir</surname><given-names>GD</given-names></name><name><surname>Whishaw</surname><given-names>IQ</given-names></name></person-group>
+<year>2000</year>
+<article-title>Red nucleus lesions impair overground locomotion in rats: a
+kinetic analysis.</article-title>
+<source>Eur J Neurosci</source>
+<volume>12</volume>
+<fpage>1113</fpage>
+<lpage>1122</lpage>
+<pub-id pub-id-type="pmid">10762342</pub-id></element-citation></ref><ref id="pone.0017328-Schucht1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schucht</surname><given-names>P</given-names></name><name><surname>Raineteau</surname><given-names>O</given-names></name><name><surname>Schwab</surname><given-names>ME</given-names></name><name><surname>Fouad</surname><given-names>K</given-names></name></person-group>
+<year>2002</year>
+<article-title>Anatomical correlates of locomotor recovery following dorsal and
+ventral lesions of the rat spinal cord.</article-title>
+<source>Exp Neurol</source>
+<volume>176</volume>
+<fpage>143</fpage>
+<lpage>153</lpage>
+<pub-id pub-id-type="pmid">12093091</pub-id></element-citation></ref><ref id="pone.0017328-Huang1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>WL</given-names></name><name><surname>George</surname><given-names>KJ</given-names></name><name><surname>Ibba</surname><given-names>V</given-names></name><name><surname>Liu</surname><given-names>MC</given-names></name><name><surname>Averill</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>The characteristics of neuronal injury in a static compression
+model of spinal cord injury in adult rats.</article-title>
+<source>Eur J Neurosci</source>
+<volume>25</volume>
+<fpage>362</fpage>
+<lpage>372</lpage>
+<pub-id pub-id-type="pmid">17284176</pub-id></element-citation></ref><ref id="pone.0017328-Antal1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Antal</surname><given-names>M</given-names></name><name><surname>Sholomenko</surname><given-names>GN</given-names></name><name><surname>Moschovakis</surname><given-names>AK</given-names></name><name><surname>Storm-Mathisen</surname><given-names>J</given-names></name><name><surname>Heizmann</surname><given-names>CW</given-names></name><etal/></person-group>
+<year>1992</year>
+<article-title>The termination pattern and postsynaptic targets of rubrospinal
+fibers in the rat spinal cord: a light and electron microscopic
+study.</article-title>
+<source>J Comp Neurol</source>
+<volume>325</volume>
+<fpage>22</fpage>
+<lpage>37</lpage>
+<pub-id pub-id-type="pmid">1484116</pub-id></element-citation></ref><ref id="pone.0017328-Casale1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Casale</surname><given-names>EJ</given-names></name><name><surname>Light</surname><given-names>AR</given-names></name><name><surname>Rustioni</surname><given-names>A</given-names></name></person-group>
+<year>1988</year>
+<article-title>Direct projection of the corticospinal tract to the superficial
+laminae of the spinal cord in the rat.</article-title>
+<source>J Comp Neurol</source>
+<volume>278</volume>
+<fpage>275</fpage>
+<lpage>286</lpage>
+<pub-id pub-id-type="pmid">3230165</pub-id></element-citation></ref><ref id="pone.0017328-Holstege1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Holstege</surname><given-names>JC</given-names></name><name><surname>Kuypers</surname><given-names>HG</given-names></name></person-group>
+<year>1987</year>
+<article-title>Brainstem projections to spinal motoneurons: an
+update.</article-title>
+<source>Neuroscience</source>
+<volume>23</volume>
+<fpage>809</fpage>
+<lpage>821</lpage>
+<pub-id pub-id-type="pmid">2893995</pub-id></element-citation></ref><ref id="pone.0017328-Jones2"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jones</surname><given-names>SL</given-names></name><name><surname>Light</surname><given-names>AR</given-names></name></person-group>
+<year>1990</year>
+<article-title>Termination patterns of serotoninergic medullary raphespinal
+fibers in the rat lumbar spinal cord: an anterograde immunohistochemical
+study.</article-title>
+<source>J Comp Neurol</source>
+<volume>297</volume>
+<fpage>267</fpage>
+<lpage>282</lpage>
+<pub-id pub-id-type="pmid">2370323</pub-id></element-citation></ref><ref id="pone.0017328-Grant1"><label>39</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Grant</surname><given-names>G</given-names></name><name><surname>Koerber</surname></name><name><surname>R</surname><given-names>H</given-names></name></person-group>
+<year>2004</year>
+<article-title>Spinal Cord Cytoarchitecture; Paxinos G, editor.</article-title>
+<publisher-loc>San Diego, CA</publisher-loc>
+<publisher-name>Elsevier Academic Press</publisher-name>
+</element-citation></ref><ref id="pone.0017328-Gumpel1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gumpel</surname><given-names>M</given-names></name><name><surname>Lachapelle</surname><given-names>F</given-names></name><name><surname>Gansmuller</surname><given-names>A</given-names></name><name><surname>Baulac</surname><given-names>M</given-names></name><name><surname>Baron van Evercooren</surname><given-names>A</given-names></name><etal/></person-group>
+<year>1987</year>
+<article-title>Transplantation of human embryonic oligodendrocytes into shiverer
+brain.</article-title>
+<source>Ann N Y Acad Sci</source>
+<volume>495</volume>
+<fpage>71</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="pmid">3300467</pub-id></element-citation></ref><ref id="pone.0017328-Cloutier1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cloutier</surname><given-names>F</given-names></name><name><surname>Siegenthaler</surname><given-names>MM</given-names></name><name><surname>Nistor</surname><given-names>G</given-names></name><name><surname>Keirstead</surname><given-names>HS</given-names></name></person-group>
+<year>2006</year>
+<article-title>Transplantation of human embryonic stem cell-derived
+oligodendrocyte progenitors into rat spinal cord injuries does not cause
+harm.</article-title>
+<source>Regen Med</source>
+<volume>1</volume>
+<fpage>469</fpage>
+<lpage>479</lpage>
+<pub-id pub-id-type="pmid">17465839</pub-id></element-citation></ref><ref id="pone.0017328-Izrael1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Izrael</surname><given-names>M</given-names></name><name><surname>Zhang</surname><given-names>P</given-names></name><name><surname>Kaufman</surname><given-names>R</given-names></name><name><surname>Shinder</surname><given-names>V</given-names></name><name><surname>Ella</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Human oligodendrocytes derived from embryonic stem cells: Effect
+of noggin on phenotypic differentiation in vitro and on myelination in
+vivo.</article-title>
+<source>Mol Cell Neurosci</source>
+<volume>34</volume>
+<fpage>310</fpage>
+<lpage>323</lpage>
+<pub-id pub-id-type="pmid">17196394</pub-id></element-citation></ref><ref id="pone.0017328-Keirstead1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Keirstead</surname><given-names>HS</given-names></name><name><surname>Nistor</surname><given-names>G</given-names></name><name><surname>Bernal</surname><given-names>G</given-names></name><name><surname>Totoiu</surname><given-names>M</given-names></name><name><surname>Cloutier</surname><given-names>F</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Human embryonic stem cell-derived oligodendrocyte progenitor cell
+transplants remyelinate and restore locomotion after spinal cord
+injury.</article-title>
+<source>J Neurosci</source>
+<volume>25</volume>
+<fpage>4694</fpage>
+<lpage>4705</lpage>
+<pub-id pub-id-type="pmid">15888645</pub-id></element-citation></ref><ref id="pone.0017328-Kerr1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kerr</surname><given-names>CL</given-names></name><name><surname>Letzen</surname><given-names>BS</given-names></name><name><surname>Hill</surname><given-names>CM</given-names></name><name><surname>Agrawal</surname><given-names>G</given-names></name><name><surname>Thakor</surname><given-names>NV</given-names></name><etal/></person-group>
+<article-title>Efficient differentiation of human embryonic stem cells into
+oligodendrocyte progenitors for application in a rat contusion model of
+spinal cord injury.</article-title>
+<source>Int J Neurosci</source>
+<volume>120</volume>
+<fpage>305</fpage>
+<lpage>313</lpage>
+<pub-id pub-id-type="pmid">20374080</pub-id></element-citation></ref><ref id="pone.0017328-Nistor1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nistor</surname><given-names>GI</given-names></name><name><surname>Totoiu</surname><given-names>MO</given-names></name><name><surname>Haque</surname><given-names>N</given-names></name><name><surname>Carpenter</surname><given-names>MK</given-names></name><name><surname>Keirstead</surname><given-names>HS</given-names></name></person-group>
+<year>2005</year>
+<article-title>Human embryonic stem cells differentiate into oligodendrocytes in
+high purity and myelinate after spinal cord transplantation.</article-title>
+<source>Glia</source>
+<volume>49</volume>
+<fpage>385</fpage>
+<lpage>396</lpage>
+<pub-id pub-id-type="pmid">15538751</pub-id></element-citation></ref><ref id="pone.0017328-Sharp1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sharp</surname><given-names>J</given-names></name><name><surname>Frame</surname><given-names>J</given-names></name><name><surname>Siegenthaler</surname><given-names>M</given-names></name><name><surname>Nistor</surname><given-names>G</given-names></name><name><surname>Keirstead</surname><given-names>HS</given-names></name></person-group>
+<article-title>Human embryonic stem cell-derived oligodendrocyte progenitor cell
+transplants improve recovery after cervical spinal cord
+injury.</article-title>
+<source>Stem Cells</source>
+<volume>28</volume>
+<fpage>152</fpage>
+<lpage>163</lpage>
+<pub-id pub-id-type="pmid">19877167</pub-id></element-citation></ref><ref id="pone.0017328-Windrem1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Windrem</surname><given-names>MS</given-names></name><name><surname>Nunes</surname><given-names>MC</given-names></name><name><surname>Rashbaum</surname><given-names>WK</given-names></name><name><surname>Schwartz</surname><given-names>TH</given-names></name><name><surname>Goodman</surname><given-names>RA</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Fetal and adult human oligodendrocyte progenitor cell isolates
+myelinate the congenitally dysmyelinated brain.</article-title>
+<source>Nat Med</source>
+<volume>10</volume>
+<fpage>93</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="pmid">14702638</pub-id></element-citation></ref><ref id="pone.0017328-Windrem2"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Windrem</surname><given-names>MS</given-names></name><name><surname>Schanz</surname><given-names>SJ</given-names></name><name><surname>Guo</surname><given-names>M</given-names></name><name><surname>Tian</surname><given-names>GF</given-names></name><name><surname>Washco</surname><given-names>V</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Neonatal chimerization with human glial progenitor cells can both
+remyelinate and rescue the otherwise lethally hypomyelinated shiverer
+mouse.</article-title>
+<source>Cell Stem Cell</source>
+<volume>2</volume>
+<fpage>553</fpage>
+<lpage>565</lpage>
+<pub-id pub-id-type="pmid">18522848</pub-id></element-citation></ref><ref id="pone.0017328-Smith1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>GM</given-names></name><name><surname>Silver</surname><given-names>J</given-names></name></person-group>
+<year>1988</year>
+<article-title>Transplantation of immature and mature astrocytes and their
+effect on scar formation in the lesioned central nervous
+system.</article-title>
+<source>Prog Brain Res</source>
+<volume>78</volume>
+<fpage>353</fpage>
+<lpage>361</lpage>
+<pub-id pub-id-type="pmid">3247435</pub-id></element-citation></ref><ref id="pone.0017328-Kliot1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kliot</surname><given-names>M</given-names></name><name><surname>Smith</surname><given-names>GM</given-names></name><name><surname>Siegal</surname><given-names>JD</given-names></name><name><surname>Silver</surname><given-names>J</given-names></name></person-group>
+<year>1990</year>
+<article-title>Astrocyte-polymer implants promote regeneration of dorsal root
+fibers into the adult mammalian spinal cord.</article-title>
+<source>Exp Neurol</source>
+<volume>109</volume>
+<fpage>57</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="pmid">1694141</pub-id></element-citation></ref><ref id="pone.0017328-Wunderlich1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wunderlich</surname><given-names>G</given-names></name><name><surname>Stichel</surname><given-names>CC</given-names></name><name><surname>Schroeder</surname><given-names>WO</given-names></name><name><surname>Muller</surname><given-names>HW</given-names></name></person-group>
+<year>1994</year>
+<article-title>Transplants of immature astrocytes promote axonal regeneration in
+the adult rat brain.</article-title>
+<source>Glia</source>
+<volume>10</volume>
+<fpage>49</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="pmid">7507887</pub-id></element-citation></ref><ref id="pone.0017328-Wang1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>JJ</given-names></name><name><surname>Chuah</surname><given-names>MI</given-names></name><name><surname>Yew</surname><given-names>DT</given-names></name><name><surname>Leung</surname><given-names>PC</given-names></name><name><surname>Tsang</surname><given-names>DS</given-names></name></person-group>
+<year>1995</year>
+<article-title>Effects of astrocyte implantation into the hemisected adult rat
+spinal cord.</article-title>
+<source>Neuroscience</source>
+<volume>65</volume>
+<fpage>973</fpage>
+<lpage>981</lpage>
+<pub-id pub-id-type="pmid">7617172</pub-id></element-citation></ref><ref id="pone.0017328-Joosten1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Joosten</surname><given-names>EA</given-names></name><name><surname>Veldhuis</surname><given-names>WB</given-names></name><name><surname>Hamers</surname><given-names>FP</given-names></name></person-group>
+<year>2004</year>
+<article-title>Collagen containing neonatal astrocytes stimulates regrowth of
+injured fibers and promotes modest locomotor recovery after spinal cord
+injury.</article-title>
+<source>J Neurosci Res</source>
+<volume>77</volume>
+<fpage>127</fpage>
+<lpage>142</lpage>
+<pub-id pub-id-type="pmid">15197746</pub-id></element-citation></ref><ref id="pone.0017328-Archer1"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Archer</surname><given-names>DR</given-names></name><name><surname>Cuddon</surname><given-names>PA</given-names></name><name><surname>Lipsitz</surname><given-names>D</given-names></name><name><surname>Duncan</surname><given-names>ID</given-names></name></person-group>
+<year>1997</year>
+<article-title>Myelination of the canine central nervous system by glial cell
+transplantation: a model for repair of human myelin disease.</article-title>
+<source>Nat Med</source>
+<volume>3</volume>
+<fpage>54</fpage>
+<lpage>59</lpage>
+<pub-id pub-id-type="pmid">8986741</pub-id></element-citation></ref><ref id="pone.0017328-Warrington1"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Warrington</surname><given-names>AE</given-names></name><name><surname>Barbarese</surname><given-names>E</given-names></name><name><surname>Pfeiffer</surname><given-names>SE</given-names></name></person-group>
+<year>1993</year>
+<article-title>Differential myelinogenic capacity of specific developmental
+stages of the oligodendrocyte lineage upon transplantation into
+hypomyelinating hosts.</article-title>
+<source>J Neurosci Res</source>
+<volume>34</volume>
+<fpage>1</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="pmid">7678656</pub-id></element-citation></ref><ref id="pone.0017328-Lepore1"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lepore</surname><given-names>AC</given-names></name><name><surname>Rauck</surname><given-names>B</given-names></name><name><surname>Dejea</surname><given-names>C</given-names></name><name><surname>Pardo</surname><given-names>AC</given-names></name><name><surname>Rao</surname><given-names>MS</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Focal transplantation-based astrocyte replacement is
+neuroprotective in a model of motor neuron disease.</article-title>
+<source>Nat Neurosci</source>
+<volume>11</volume>
+<fpage>1294</fpage>
+<lpage>1301</lpage>
+<pub-id pub-id-type="pmid">18931666</pub-id></element-citation></ref><ref id="pone.0017328-Davies4"><label>57</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davies</surname><given-names>JE</given-names></name><name><surname>Proschel</surname><given-names>C</given-names></name><name><surname>Zhang</surname><given-names>N</given-names></name><name><surname>Noble</surname><given-names>M</given-names></name><name><surname>Mayer-Proschel</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Transplanted astrocytes derived from BMP- or CNTF-treated
+glial-restricted precursors have opposite effects on recovery and allodynia
+after spinal cord injury.</article-title>
+<source>J Biol</source>
+<volume>7</volume>
+<fpage>24</fpage>
+<pub-id pub-id-type="pmid">18803859</pub-id></element-citation></ref><ref id="pone.0017328-Maeda1"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maeda</surname><given-names>S</given-names></name><name><surname>Kawamoto</surname><given-names>A</given-names></name><name><surname>Yatani</surname><given-names>Y</given-names></name><name><surname>Shirakawa</surname><given-names>H</given-names></name><name><surname>Nakagawa</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Gene transfer of GLT-1, a glial glutamate transporter, into the
+spinal cord by recombinant adenovirus attenuates inflammatory and
+neuropathic pain in rats.</article-title>
+<source>Mol Pain</source>
+<volume>4</volume>
+<fpage>65</fpage>
+<pub-id pub-id-type="pmid">19108711</pub-id></element-citation></ref><ref id="pone.0017328-Nakase1"><label>59</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakase</surname><given-names>T</given-names></name><name><surname>Fushiki</surname><given-names>S</given-names></name><name><surname>Sohl</surname><given-names>G</given-names></name><name><surname>Theis</surname><given-names>M</given-names></name><name><surname>Willecke</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Neuroprotective role of astrocytic gap junctions in ischemic
+stroke.</article-title>
+<source>Cell Commun Adhes</source>
+<volume>10</volume>
+<fpage>413</fpage>
+<lpage>417</lpage>
+<pub-id pub-id-type="pmid">14681050</pub-id></element-citation></ref><ref id="pone.0017328-OCarroll1"><label>60</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O'Carroll</surname><given-names>SJ</given-names></name><name><surname>Alkadhi</surname><given-names>M</given-names></name><name><surname>Nicholson</surname><given-names>LF</given-names></name><name><surname>Green</surname><given-names>CR</given-names></name></person-group>
+<year>2008</year>
+<article-title>Connexin 43 mimetic peptides reduce swelling, astrogliosis, and
+neuronal cell death after spinal cord injury.</article-title>
+<source>Cell Commun Adhes</source>
+<volume>15</volume>
+<fpage>27</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="pmid">18649176</pub-id></element-citation></ref><ref id="pone.0017328-Rothstein2"><label>61</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rothstein</surname><given-names>JD</given-names></name><name><surname>Dykes-Hoberg</surname><given-names>M</given-names></name><name><surname>Pardo</surname><given-names>CA</given-names></name><name><surname>Bristol</surname><given-names>LA</given-names></name><name><surname>Jin</surname><given-names>L</given-names></name><etal/></person-group>
+<year>1996</year>
+<article-title>Knockout of glutamate transporters reveals a major role for
+astroglial transport in excitotoxicity and clearance of
+glutamate.</article-title>
+<source>Neuron</source>
+<volume>16</volume>
+<fpage>675</fpage>
+<lpage>686</lpage>
+<pub-id pub-id-type="pmid">8785064</pub-id></element-citation></ref><ref id="pone.0017328-Dietrich2"><label>62</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietrich</surname><given-names>J</given-names></name><name><surname>Noble</surname><given-names>M</given-names></name><name><surname>Mayer-Proschel</surname><given-names>M</given-names></name></person-group>
+<year>2002</year>
+<article-title>Characterization of A2B5+ glial precursor cells from
+cryopreserved human fetal brain progenitor cells.</article-title>
+<source>Glia</source>
+<volume>40</volume>
+<fpage>65</fpage>
+<lpage>77</lpage>
+<pub-id pub-id-type="pmid">12237844</pub-id></element-citation></ref><ref id="pone.0017328-Barami1"><label>63</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barami</surname><given-names>K</given-names></name><name><surname>Grever</surname><given-names>WE</given-names></name><name><surname>Diaz</surname><given-names>FG</given-names></name><name><surname>Lyman</surname><given-names>WD</given-names></name></person-group>
+<year>2001</year>
+<article-title>An efficient method for the culturing and generation of neurons
+and astrocytes from second trimester human central nervous system
+tissue.</article-title>
+<source>Neurol Res</source>
+<volume>23</volume>
+<fpage>321</fpage>
+<lpage>326</lpage>
+<pub-id pub-id-type="pmid">11428508</pub-id></element-citation></ref><ref id="pone.0017328-Rao1"><label>64</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rao</surname><given-names>MS</given-names></name><name><surname>Noble</surname><given-names>M</given-names></name><name><surname>Mayer-Proschel</surname><given-names>M</given-names></name></person-group>
+<year>1998</year>
+<article-title>A tripotential glial precursor cell is present in the developing
+spinal cord.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>95</volume>
+<fpage>3996</fpage>
+<lpage>4001</lpage>
+<pub-id pub-id-type="pmid">9520481</pub-id></element-citation></ref><ref id="pone.0017328-Li1"><label>65</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>Z</given-names></name><name><surname>Dong</surname><given-names>T</given-names></name><name><surname>Proschel</surname><given-names>C</given-names></name><name><surname>Noble</surname><given-names>M</given-names></name></person-group>
+<year>2007</year>
+<article-title>Chemically diverse toxicants converge on Fyn and c-Cbl to disrupt
+precursor cell function.</article-title>
+<source>PLoS Biol</source>
+<volume>5</volume>
+<fpage>e35</fpage>
+<pub-id pub-id-type="pmid">17298174</pub-id></element-citation></ref><ref id="pone.0017328-Livak1"><label>66</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Livak</surname><given-names>KJ</given-names></name><name><surname>Schmittgen</surname><given-names>TD</given-names></name></person-group>
+<year>2001</year>
+<article-title>Analysis of relative gene expression data using real-time
+quantitative PCR and the 2(-Delta Delta C(T)) Method.</article-title>
+<source>Methods</source>
+<volume>25</volume>
+<fpage>402</fpage>
+<lpage>408</lpage>
+<pub-id pub-id-type="pmid">11846609</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,542 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Microbiologyopen</journal-id><journal-id journal-id-type="iso-abbrev">Microbiologyopen</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-8827</journal-id><journal-id journal-id-type="publisher-id">MBO3</journal-id><journal-title-group><journal-title>MicrobiologyOpen</journal-title></journal-title-group><issn pub-type="epub">2045-8827</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31560838</article-id><article-id pub-id-type="pmc">6925172</article-id><article-id pub-id-type="doi">10.1002/mbo3.937</article-id><article-id pub-id-type="publisher-id">MBO3937</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Assessing the impact of curcumin on dual&#x02010;species biofilms formed by <italic>Streptococcus mutans</italic> and <italic>Candida albicans</italic>
+</article-title><alt-title alt-title-type="left-running-head">LI et al.</alt-title></title-group><contrib-group><contrib id="mbo3937-cr-0001" contrib-type="author"><name><surname>Li</surname><given-names>Xinlong</given-names></name><xref ref-type="aff" rid="mbo3937-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3937-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mbo3937-cr-0002" contrib-type="author"><name><surname>Yin</surname><given-names>Luoping</given-names></name><xref ref-type="aff" rid="mbo3937-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3937-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mbo3937-cr-0003" contrib-type="author"><name><surname>Ramage</surname><given-names>Gordon</given-names></name><xref ref-type="aff" rid="mbo3937-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="mbo3937-cr-0004" contrib-type="author"><name><surname>Li</surname><given-names>Bingchun</given-names></name><xref ref-type="aff" rid="mbo3937-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3937-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="mbo3937-cr-0005" contrib-type="author"><name><surname>Tao</surname><given-names>Ye</given-names></name><xref ref-type="aff" rid="mbo3937-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3937-cr-0006" contrib-type="author"><name><surname>Zhi</surname><given-names>Qinghui</given-names></name><xref ref-type="aff" rid="mbo3937-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mbo3937-cr-0007" contrib-type="author" corresp="yes"><name><surname>Lin</surname><given-names>Huancai</given-names></name><xref ref-type="aff" rid="mbo3937-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3937-aff-0002">
+<sup>2</sup>
+</xref><address><email>linhc@mail.sysu.edu.cn</email></address></contrib><contrib id="mbo3937-cr-0008" contrib-type="author" corresp="yes"><name><surname>Zhou</surname><given-names>Yan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1266-7817</contrib-id><xref ref-type="aff" rid="mbo3937-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="mbo3937-aff-0002">
+<sup>2</sup>
+</xref><address><email>zhouy75@mail.sysu.edu.cn</email><email>zhouy10.3@163.com</email></address></contrib></contrib-group><aff id="mbo3937-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Preventive Dentistry</named-content>
+<named-content content-type="organisation-division">Guanghua School of Stomatology</named-content>
+<institution>Sun Yat&#x02010;sen University</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="mbo3937-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Guangdong Provincial Key Laboratory of Stomatology</named-content>
+<institution>Sun Yat&#x02010;sen University</institution>
+<city>Guangzhou</city>
+<country country="CN">China</country>
+</aff><aff id="mbo3937-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Oral Sciences Research Group</named-content>
+<named-content content-type="organisation-division">Glasgow Dental School</named-content>
+<named-content content-type="organisation-division">School of Medicine, Dentistry and Nursing</named-content>
+<named-content content-type="organisation-division">College of Medical, Veterinary and Life Sciences</named-content>
+<institution>University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Huancai Lin and Yan Zhou, Department of Preventive Dentistry, Guanghua School of Stomatology, Sun Yat&#x02010;sen University, 56 Ling Yuan Road West, Guangzhou 510055, China.<break/>
+Emails: <email>linhc@mail.sysu.edu.cn</email> (HL); <email>zhouy75@mail.sysu.edu.cn</email>, <email>zhouy10.3@163.com</email> (YZ)<break/></corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>9</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2019</year></pub-date><volume>8</volume><issue>12</issue><issue-id pub-id-type="doi">10.1002/mbo3.v8.12</issue-id><elocation-id>e937</elocation-id><history><date date-type="received"><day>18</day><month>6</month><year>2019</year></date><date date-type="rev-recd"><day>03</day><month>9</month><year>2019</year></date><date date-type="accepted"><day>04</day><month>9</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>MicrobiologyOpen</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:MBO3-8-e937.pdf"/><abstract id="mbo3937-abs-0001"><title>Abstract</title><p>
+<italic>Streptococcus mutans</italic> and <italic>Candida albicans</italic> are often isolated from plaques associated with early childhood caries. However, there are limited studies examining how these microorganisms interact with one another and how best to manage them. Recent studies have shown that curcumin (CUR), a natural compound, has the potential to independently control both of these microorganisms. The purpose of this study was to investigate how <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic> respond in mono&#x02010; and dual&#x02010;species biofilms challenged with CUR. Quantitative biofilm biomass and viability were first evaluated and supported by live&#x02013;dead PCR to assess biofilm composition. Confocal laser scanning microscopy (CLSM) was used to evaluate the exopolysaccharide (EPS) content and thickness of the biofilms, and the structure of the biofilms and morphology of the cells were observed by scanning electron microscopy (SEM). Quantitative real&#x02010;time PCR (qRT&#x02010;PCR) was applied to assess relative gene expression. The 50% minimum biofilm eradication concentration (MBEC<sub>50</sub>) of CUR against <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic> was 0.5&#x000a0;mM. The biomass and viability decreased after treatment with CUR both in dual&#x02010;species biofilms and in mono&#x02010;species biofilm. CUR inhibited <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic> in both mono&#x02010; and dual&#x02010;species biofilms. <italic>Streptococcus mutans</italic> was more sensitive to CUR in dual&#x02010;species biofilm than in mono&#x02010;species biofilms, whereas <italic>C.&#x000a0;albicans</italic> was less sensitive in dual&#x02010;species biofilms. EPS production was decreased by CUR in both mono&#x02010; and dual&#x02010;species biofilms, which coincided with the downregulation of glucosyltransferase and quorum sensing&#x02010;related gene expression of <italic>S.&#x000a0;mutans</italic>. In <italic>C.&#x000a0;albicans,</italic> the agglutinin&#x02010;like sequence family of <italic>C.&#x000a0;albicans</italic> was also downregulated in dual&#x02010;species biofilms. <bold>C</bold>ollectively, these data show the potential benefit of using a natural antimicrobial, CUR, to control caries&#x02010;related dual&#x02010;species plaque biofilms.</p></abstract><abstract abstract-type="graphical" id="mbo3937-abs-0002"><p>Curcumin, a natural compound, can inhibit oral dual&#x02010;species biofilms. The results here show that curcumin has not only inhibited the mono&#x02010;species biofilms from <italic>Streptococcus mutans</italic> and <italic>Candida albicans</italic>, but also the dual&#x02010;species biofilm formed by those two species. Exopolysaccharide production was decreased by curcumin treatment in both mono&#x02010; and dual&#x02010;species biofilms.<boxed-text position="anchor" content-type="graphic" id="mbo3937-blkfxd-0001" orientation="portrait"><graphic xlink:href="MBO3-8-e937-g007.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="mbo3937-kwd-0001">biofilm</kwd><kwd id="mbo3937-kwd-0002"><italic>Candida albicans</italic></kwd><kwd id="mbo3937-kwd-0003">curcumin</kwd><kwd id="mbo3937-kwd-0004"><italic>Streptococcus mutans</italic></kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Science and Technology Planning Project of Guangdong Province, China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100012245</institution-id></institution-wrap></funding-source><award-id>2017A020215064</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="9"/><word-count count="5817"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.3 mode:remove_FC converted:20.12.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="mbo3937-cit-1001">
+<string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ramage</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Assessing the impact of curcumin on dual&#x02010;species biofilms formed by <italic>Streptococcus mutans</italic> and <italic>Candida albicans</italic>
+</article-title>. <source xml:lang="en">MicrobiologyOpen</source>. <year>2019</year>;<volume>8</volume>:<elocation-id>e937</elocation-id>
+<pub-id pub-id-type="doi">10.1002/mbo3.937</pub-id>
+</mixed-citation>
+</p><fn-group id="mbo3937-ntgp-0001"><fn fn-type="equal" id="mbo3937-note-0001"><p>Xinlong Li and Luoping Yin contributed equally to this study.</p></fn></fn-group></notes></front><body id="mbo3937-body-0001"><sec id="mbo3937-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Polymicrobial infection occurs during the process of dental caries development. <italic>Streptococcus mutans</italic> interacts with <italic>Candida albicans</italic> to form cross&#x02010;kingdom biofilms associated with early childhood caries (ECC) (Hajishengallis, Parsaei, Klein, &#x00026; Koo, <xref rid="mbo3937-bib-0009" ref-type="ref">2017</xref>). The amount of <italic>C.&#x000a0;albicans</italic> is dramatically higher in children with ECC than in those without tooth decay (Ghasempour, Sefidgar, Eyzadian, &#x00026; Gharakhani, <xref rid="mbo3937-bib-0008" ref-type="ref">2011</xref>). Studies have shown that the presence of <italic>C.&#x000a0;albicans</italic> can augment exopolysaccharides (EPS) in biofilms, resulting in an increase in biomass related to mono&#x02010;species biofilms of <italic>S.&#x000a0;mutans</italic> alone (Falsetta et al., <xref rid="mbo3937-bib-0007" ref-type="ref">2014</xref>; Hwang et al., <xref rid="mbo3937-bib-0012" ref-type="ref">2017</xref>). <italic>S. mutans</italic>&#x02013;<italic>C.&#x000a0;albicans</italic> associations enhance <italic>S.&#x000a0;mutans</italic> infection, modulate the structure of biofilms, and thus influence the onset and severity of dental caries (Falsetta et al., <xref rid="mbo3937-bib-0007" ref-type="ref">2014</xref>).</p><p>Eradicating these bacterial&#x02013;fungal biofilms in vitro is challenging (Heitman, Metwalli, Khan, Krom, &#x00026; Jabra&#x02010;Rizk, <xref rid="mbo3937-bib-0010" ref-type="ref">2013</xref>). Most of the clinically used therapeutic approaches are monotherapies, based on either antibacterial or antifungal agents despite the polymicrobial nature of disease&#x02010;causing biofilms (Xiao et al., <xref rid="mbo3937-bib-0035" ref-type="ref">2018</xref>). Fluoride is widely used in the prevention of dental caries. However, fluoride does not offer protection against the infectious aspects and instead is involved in the remineralization process (Ten Cate, <xref rid="mbo3937-bib-0030" ref-type="ref">2012</xref>). The long&#x02010;term use of chlorhexidine will lead to staining of the tongue and taste disorders (Neturi, <xref rid="mbo3937-bib-0022" ref-type="ref">2014</xref>; Rahmani&#x02010;Badi, Sepehr, &#x00026; Babaie&#x02010;Naiej, <xref rid="mbo3937-bib-0026" ref-type="ref">2015</xref>). Antibiotic resistance also limits the application of therapeutic approaches to control biofilm infection (Marc et al., <xref rid="mbo3937-bib-0020" ref-type="ref">2018</xref>). Finding new therapeutic methods for disrupting bacterial&#x02013;fungal interkingdom biofilms could help improve anticaries strategies and oral health. Naturally derived chemotherapeutic agents are an attractive option. They have advantages over synthetic derivatives due to their natural evolution and diminished likelihood of resistance. Curcumin (CUR), a food&#x02010;grade natural product extracted from the root of turmeric, is widely used as a flavoring and coloring agent in food. It is also used in clinical practice due to its anti&#x02010;inflammatory and antitumor activities (Esatbeyoglu et al., <xref rid="mbo3937-bib-0006" ref-type="ref">2012</xref>). Our group has shown that CUR exerts promising anticaries effects on <italic>S.&#x000a0;mutans</italic> by altering the EPS synthesis mechanism (Li, Li, Lin, &#x00026; Zhou, <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>).</p><p>Since dual&#x02010;species biofilms of <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic> have the advantage of better simulating the pathogenic biofilms in ECC relative to mono&#x02010;species biofilms, exploration of the effect of CUR on dual&#x02010;species biofilms should be prioritized. In this study, we establish an in vitro biofilm model by using <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic>, and investigate the reaction of dual&#x02010;species biofilms to CUR.</p></sec><sec sec-type="materials-and-methods" id="mbo3937-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="mbo3937-sec-0003"><label>2.1</label><title>Growth conditions and MBEC assay to determine the effects of CUR on <italic>S.&#x000a0;mutans</italic> and<italic> C.&#x000a0;albicans</italic>
+</title><p>
+<italic>Streptococcus mutans</italic> UA159 (ATCC 700610) and <italic>C.&#x000a0;albicans</italic> SC5314 (ATCC MYA&#x02010;2876) were selected for this study. <italic>Candida albicans</italic> was grown in Sabouraud's dextrose broth (SDB, HKM) at 37&#x000b0;C with shaking at 200&#x000a0;rpm for 18&#x000a0;hr. <italic>Streptococcus mutans</italic> was cultured in brain heart infusion broth (BHI, Difco) for 18&#x000a0;hr at 37&#x000b0;C. CUR was dissolved in dimethyl sulfoxide (DMSO) for liquid storage.</p><p>
+<italic>Streptococcus mutans</italic> and <italic>C.&#x000a0;albicans</italic> were cultured in BHI and SDB separately for 18&#x000a0;hr. Cellular microorganisms were collected by centrifugation (13,201 <italic>g</italic>, 5&#x000a0;min, 4&#x000b0;C). Phosphate&#x02010;buffered saline (PBS) was applied to wash the cultures three times. Suspensions of microorganisms were standardized to OD values equal to 1&#x000a0;&#x000d7;&#x000a0;10<sup>7</sup>&#x000a0;CFUs/ml using a microplate spectrophotometer (Infinite 200, TECAN). Biofilms were grown in 96&#x02010;well flat&#x02010;bottom plates. The minimum biofilm eradication concentration (MBEC) for <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic> biofilms was determined by the colony counting method. The biofilms were cultured following the methodology described above for 24&#x000a0;hr in 96&#x02010;well flat&#x02010;bottom plates. The medium was refreshed, and serial dilutions of CUR were added to the biofilms. Medium with the corresponding concentrations of DMSO without CUR was used as a control. After 24&#x000a0;hr of cultivation, the supernatants were removed, and sterile PBS was gently applied three times to wash the biofilms that formed on the plates. The biofilms were scraped and then resuspended in PBS, and the CFU counts were used to confirm the MBEC of the microorganisms.</p></sec><sec id="mbo3937-sec-0004"><label>2.2</label><title>The effects of CUR on mono&#x02010; or dual&#x02010;species biofilms in vitro</title><p>The biofilms were grown as described in previous studies with some modification (Willems, Kos, Jabra&#x02010;Rizk, Krom, &#x00026; Bjarnsholt, <xref rid="mbo3937-bib-0033" ref-type="ref">2016</xref>; Zhou et al., <xref rid="mbo3937-bib-0040" ref-type="ref">2018</xref>). The cells were cultured as previously described and standardized by artificial saliva solution (ASS, NOVON) supplemented with 1% sucrose and 10% fetal bovine serum to OD<sub>600</sub>&#x000a0;=&#x000a0;0.1. Three test groups with CUR (<italic>S.&#x000a0;mutans</italic> biofilm, <italic>C.&#x000a0;albicans</italic> biofilm, and <italic>S.&#x000a0;mutans&#x02010;C.&#x000a0;albicans</italic> biofilm) and corresponding control groups without CUR were established.</p><p>The biofilms formed on 6&#x02010;well flat&#x02010;bottom microtiter plates (Coster Corning). For the dual&#x02010;species biofilms, 1.5&#x000a0;ml of <italic>S.&#x000a0;mutans</italic> and 1.5&#x000a0;ml of <italic>C.&#x000a0;albicans</italic> were added to the microtiter plate. To form mono&#x02010;species biofilms, 3&#x000a0;ml of <italic>S.&#x000a0;mutans</italic> and 3&#x000a0;ml of <italic>C.&#x000a0;albicans</italic> were added separately. The plates were cultured for 48&#x000a0;hr at 37&#x000b0;C and 5% CO<sub>2.</sub> The medium was refreshed every 24&#x000a0;hr. Biofilms that formed on the plates were washed gently three times with sterile PBS. Then, CUR was added to the experimental groups and the corresponding concentrations of DMSO were added to the control groups, followed by incubation for 24&#x000a0;hr.</p><p>Crystal violet (CV) and 3&#x02010;(4,5&#x02010;dimethylthiazol&#x02010;2&#x02010;yl)&#x02010;2,5&#x02010;diphenyl tetrazolium bromide (MTT) assays were employed to verify the effects of CUR on the biomass and viability of biofilms. For CV assays, the biofilms that formed on the plates were fixed with methanol after being gently washed three times with sterile PBS. Then, the samples were washed again and stained with CV solution for 15&#x000a0;min. The supernatants were thoroughly discarded, and the microplates were allowed to air&#x02010;dry overnight. Finally, 200&#x000a0;&#x003bc;l of 95% ethanol was used to dissolve the CV in the microplates for 20&#x000a0;min. For each sample, 100&#x000a0;&#x003bc;l of the solution was analyzed on a spectrophotometer, and the absorbance at 600&#x000a0;nm was recorded. For MTT assays, 200&#x000a0;&#x003bc;l of 0.5&#x000a0;mg/ml MTT was added to the wells and incubated at 37&#x000b0;C for 3&#x000a0;hr in the dark (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>). Then, the supernatants were displaced by 100&#x000a0;&#x003bc;l of 100% DMSO for 10&#x000a0;min while protected from light. For each sample, 75&#x000a0;&#x003bc;l of the solution was analyzed on a spectrophotometer and the absorbance at 570&#x000a0;nm was recorded using a microplate reader.</p></sec><sec id="mbo3937-sec-0005"><label>2.3</label><title>Analysis of the composition of bacteria in biofilms by live&#x02013;dead PCR</title><p>Live&#x02013;dead PCR was used to analyze the composition of microorganisms in biofilms. Propidium monoazide (PMA) was applied to examine the quantity of live and dead microorganisms in biofilms as previously described in the literature (Sherry et al., <xref rid="mbo3937-bib-0027" ref-type="ref">2016</xref>; Yasunaga et al., <xref rid="mbo3937-bib-0038" ref-type="ref">2013</xref>). Because PMA is unable to permeate intact membranes of viable cells, it can only penetrate dead cells following membrane damage and bind to the DNA of dead cells following exposure to a halogen light source. This covalent bonding to DNA prevents amplification during quantitative PCR (qPCR); therefore, only live cells can be detected. No PMA&#x02010;added groups were included for each sample to determine total cells.</p><p>The biofilms were collected with a cell scraper and added to 2&#x000a0;ml microcentrifuge tubes with 1&#x000a0;ml of PBS. After resuspension, 5&#x000a0;&#x003bc;l aliquots of 10&#x000a0;&#x003bc;M PMA were added to the samples. Next, the samples were collected by centrifugation (13,201 <italic>g</italic>, 5&#x000a0;min, 4&#x000b0;C). Genomic DNA was extracted by a DNeasy Blood &#x00026; Tissue Kit (QIAGEN) and analyzed to confirm the density and purity. Samples were analyzed using quantitative PCR (qPCR), and the Ct values were input into the formula for a standard curve to determine the quantity of microorganisms in each of the biofilms. Details were described in a previous study (Zhou et al., <xref rid="mbo3937-bib-0040" ref-type="ref">2018</xref>). The primer sequences used were from previous studies in Table <xref rid="mbo3937-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="mbo3937-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Nucleotide sequence of primers used for PCR</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">Gene</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Primer sequence (5&#x02032;&#x02212;3&#x02032;)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Forward</th><th align="left" valign="bottom" rowspan="1" colspan="1">Reverse</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>Streptococcus mutans</italic>
+</td><td align="left" rowspan="1" colspan="1">GATACATAGCCGACCTGAG</td><td align="left" rowspan="1" colspan="1">CCATTGCCGAAGATTCC (Sherry et al., <xref rid="mbo3937-bib-0027" ref-type="ref">2016</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Candida albicans</italic>
+</td><td align="left" rowspan="1" colspan="1">GGGTTTGCTTGAAAGACGGTA</td><td align="left" rowspan="1" colspan="1">TTGAAGATATACGTGGTGGACGTTA (Sherry et al., <xref rid="mbo3937-bib-0027" ref-type="ref">2016</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">gtfB</td><td align="left" rowspan="1" colspan="1">ACACTTTCGGGTGGCTTG</td><td align="left" rowspan="1" colspan="1">GCTTAGATGTCACTTCGGTTG (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">gtfC</td><td align="left" rowspan="1" colspan="1">CCAAAATGGTATTATGGCTGTCG</td><td align="left" rowspan="1" colspan="1">GAGTCTCTATCAAAGTAACGCAGT (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">gbpB</td><td align="left" rowspan="1" colspan="1">AGCAACAGAAGCACAACCATCAG</td><td align="left" rowspan="1" colspan="1">CCACCATTACCCCAGTAGTTTCC (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">comC</td><td align="left" rowspan="1" colspan="1">GACTTTAAAGAAATTAAGACTG</td><td align="left" rowspan="1" colspan="1">AAGCTTGTGTAAAACTTCTGT (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">comD</td><td align="left" rowspan="1" colspan="1">CTCTGATTGACCATTCTTCTGG</td><td align="left" rowspan="1" colspan="1">CATTCTGAGTTTATGCCCCTC (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">comE</td><td align="left" rowspan="1" colspan="1">CCTGAAAAGGGCAATCACCAG</td><td align="left" rowspan="1" colspan="1">GGGGCATAAACTCAGAATGTGTCG (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">16S rRNA</td><td align="left" rowspan="1" colspan="1">CTTACCAGGTCTTGACATCCCG</td><td align="left" rowspan="1" colspan="1">ACCCAACATCTCACGACACGAG (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">als1</td><td align="left" rowspan="1" colspan="1">TTCTCATGAATCAGCATCCACAA</td><td align="left" rowspan="1" colspan="1">CAGAATTTTCACCCATACTTGGTTTC (Alalwan et al., <xref rid="mbo3937-bib-0001" ref-type="ref">2017</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">als3</td><td align="left" rowspan="1" colspan="1">CAACTTGGGTTATTGAAACAAAAACA</td><td align="left" rowspan="1" colspan="1">AGAAACAGAAACCCAAGAACAACCT (Alalwan et al., <xref rid="mbo3937-bib-0001" ref-type="ref">2017</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">18S rRNA</td><td align="left" rowspan="1" colspan="1">AAACGGCTACCACATCCAAG</td><td align="left" rowspan="1" colspan="1">CCAAGCCCAAGGTTCAACTA (Barker et al., <xref rid="mbo3937-bib-0003" ref-type="ref">2004</xref>)<xref ref-type="fn" rid="mbo3937-note-0002">a</xref>
+</td></tr></tbody></table><table-wrap-foot id="mbo3937-ntgp-0002"><fn id="mbo3937-note-0002"><label>a</label><p>The numbers in the brackets after the primer sequences were references.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="mbo3937-sec-0006"><label>2.4</label><title>The effect of CUR on the EPS of biofilms by CLSM</title><p>Confocal laser scanning microscopy was used to examine the amount of EPS in biofilms. The EPS matrix was labeled with Alexa Fluor<sup>&#x000ae;</sup> 647&#x02010;labeled dextran conjugate, a kind of red fluorescent dye (Invitrogen Corp), at the beginning of biofilm formation and was washed gently with sterile normal saline (NS) after 72&#x000a0;hr (Klein et al., <xref rid="mbo3937-bib-0015" ref-type="ref">2009</xref>; Yang, Liu, He, Chen, &#x00026; Li, <xref rid="mbo3937-bib-0037" ref-type="ref">2016</xref>). Then, SYTO9 green fluorescent dye (Molecular Probes) was applied to stain the microorganism cells for 15&#x000a0;min at room temperature. For image collection, the gates were set to 655&#x02013;668&#x000a0;nm for Alexa Fluor<sup>&#x000ae;</sup> 647&#x02010;labeled dextran conjugate and 480&#x02013;500&#x000a0;nm for SYTO9 (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>). Images were collected by CLSM and analyzed by COMSTAT (Liu et al., <xref rid="mbo3937-bib-0019" ref-type="ref">2017</xref>).</p></sec><sec id="mbo3937-sec-0007"><label>2.5</label><title>Observation of the morphology of the microorganisms in biofilms</title><p>Scanning electron microscopy (SEM) was applied to observe the structure of biofilms. The treated biofilms were collected as previously mentioned. Then, the biofilms were fixed with 2.5% glutaraldehyde overnight. The biofilms were washed with sterile PBS and dehydrated by an alcohol gradient (30%, 50%, 70%, 90%, and 100%). After that, the biofilms were treated with tert&#x02010;butanol three times. Finally, samples were dried by lyophilization and metal spraying. The samples were observed at 2,000&#x000d7; and 10,000&#x000d7; magnification by SEM.</p></sec><sec id="mbo3937-sec-0008"><label>2.6</label><title>Detection of gene expression in the biofilms</title><p>The biofilms were collected by centrifugation (13,201 <italic>g</italic>, 5&#x000a0;min, 4&#x000b0;C). Next, the total RNA was extracted by an miRNeasy Mini Kit (QIAGEN) and analyzed by a Nanodrop 2000 spectrophotometer to confirm the density and purity. Reverse transcription of the total RNA was performed. A cDNA library was constructed, and PCR was performed with reference to previous studies (Zhou et al., <xref rid="mbo3937-bib-0040" ref-type="ref">2018</xref>). Table <xref rid="mbo3937-tbl-0001" ref-type="table">1</xref> shows the primer sequences (Alalwan et al., <xref rid="mbo3937-bib-0001" ref-type="ref">2017</xref>; Barker et al., <xref rid="mbo3937-bib-0003" ref-type="ref">2004</xref>; Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>; Sherry et al., <xref rid="mbo3937-bib-0027" ref-type="ref">2016</xref>). The results were calculated by the 2<sup>&#x02212;&#x00394;&#x00394;Ct</sup> method.</p></sec><sec id="mbo3937-sec-0009"><label>2.7</label><title>Statistical analysis</title><p>All experiments were independently performed in triplicate. GraphPad Prism version 7.0 (GraphPad Software) and SPSS 17.0 were employed to analyze the data. An unpaired <italic>t</italic> test was applied to analyze the data. A <italic>p</italic> value&#x000a0;&#x0003c;&#x000a0;.05 was set as the significance level.</p></sec></sec><sec sec-type="results" id="mbo3937-sec-0010"><label>3</label><title>RESULTS</title><sec id="mbo3937-sec-0011"><label>3.1</label><title>Inhibition of biofilm formation by CUR</title><p>The MBEC was shown to be 0.5&#x000a0;mM CUR for <italic>S.&#x000a0;mutans</italic> as well as <italic>C.&#x000a0;albicans</italic> by assay. According to the CV and MTT assays, the biomass and viability of biofilms were greater in dual&#x02010;species biofilms despite the addition of CUR (Figure <xref rid="mbo3937-fig-0001" ref-type="fig">1</xref>). After 24&#x000a0;hr of incubation with CUR, the biomasses of both mono&#x02010; and dual&#x02010;species biofilms were significantly reduced compared with that of the control groups, specifically by 23% for <italic>S.&#x000a0;mutans</italic>, 36% for <italic>C.&#x000a0;albicans</italic>, and 24% for dual&#x02010;species biofilms (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, Figure <xref rid="mbo3937-fig-0001" ref-type="fig">1</xref>a). The viability of the biofilms decreased significantly in all treated groups (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05, Figure <xref rid="mbo3937-fig-0001" ref-type="fig">1</xref>b). The viability of the <italic>S.&#x000a0;mutans</italic> biofilms decreased by 54%, while those of the <italic>C.&#x000a0;albicans</italic> and dual&#x02010;species biofilms decreased by 29% and 30%, respectively, relative to the control group (Figure <xref rid="mbo3937-fig-0001" ref-type="fig">1</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="mbo3937-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Effect of 0.5&#x000a0;mM CUR on mono&#x02010; and dual&#x02010;species biofilms. Different types of mature biofilms were incubated with CUR for 24&#x000a0;hr. The biofilm biomass was evaluated by CV assay (a), while the viability of biofilms was evaluated by MTT assay (b). The asterisks (*) indicate significant differences (*<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01). CUR decreased the biomass and viability of all treated groups</p></caption><graphic id="nlm-graphic-3" xlink:href="MBO3-8-e937-g001"/></fig></sec><sec id="mbo3937-sec-0012"><label>3.2</label><title>Inhibition of live/dead cells in biofilms by CUR</title><p>Curcumin decreased total/live cells in both mono&#x02010;species and dual&#x02010;species biofilms (Figure <xref rid="mbo3937-fig-0006" ref-type="fig">A1</xref>), but the percent reductions with CUR in <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic> biofilms were different.</p><p>For the total <italic>S.&#x000a0;mutans</italic> cells, CUR inhibited 79% of <italic>S.&#x000a0;mutans</italic> in dual&#x02010;species biofilms while inhibiting 47% in mono&#x02010;species biofilms (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). A similar trend was observed for live <italic>S.&#x000a0;mutans</italic> cells: CUR inhibited 69% of <italic>S.&#x000a0;mutans</italic> in dual&#x02010;species biofilms while inhibiting 58% in mono&#x02010;species biofilm (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) (Figure <xref rid="mbo3937-fig-0002" ref-type="fig">2</xref>a). For the total <italic>C.&#x000a0;albicans</italic> cells, CUR inhibited 38% of <italic>C.&#x000a0;albicans</italic> in dual&#x02010;speices biofilms while inhibiting 60% in mono&#x02010;species biofilms (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001). The same trend was observed for live <italic>C.&#x000a0;albicans</italic> cells, with 52% reduction of <italic>C.&#x000a0;albicans</italic> in dual&#x02010;speices biofilms and 86% inhibition in mono&#x02010;species biofilm (<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001) (Figure <xref rid="mbo3937-fig-0002" ref-type="fig">2</xref>b).</p><fig fig-type="Figure" xml:lang="en" id="mbo3937-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Effect of CUR on live/dead microorganisms in different types of biofilms. Dual&#x02010;species biofilm models were grown for 48&#x000a0;hr, and spent supernatants were replaced with fresh ASS every 24&#x000a0;hr. After mature biofilms formed, the biofilms were treated with 0.5&#x000a0;mM CUR for 24&#x000a0;hr. The net reduction (net reduction equals the treated group minus the control group) of <italic>Streptococcus mutans</italic> (a) and <italic>Candida albicans</italic> (b) in mono&#x02010; and dual&#x02010;species biofilms was evaluated by species&#x02010;specific qPCR. The asterisks (*) indicate significant differences (*<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01)</p></caption><graphic id="nlm-graphic-5" xlink:href="MBO3-8-e937-g002"/></fig></sec><sec id="mbo3937-sec-0013"><label>3.3</label><title>CUR&#x02010;induced EPS reduction of mono&#x02010; and dual&#x02010;species biofilms by CLSM</title><p>The amount of EPS in mono&#x02010; and dual&#x02010;species biofilms was quantified by CLSM. The production of EPS was decreased both in mono&#x02010; and dual&#x02010;species biofilms by CUR, as determined by CLSM images (Figure <xref rid="mbo3937-fig-0003" ref-type="fig">3</xref>). The EPS in the treated group was sparser than that in the control group (Figure <xref rid="mbo3937-fig-0003" ref-type="fig">3</xref>a). This result was consistent with Figure <xref rid="mbo3937-fig-0003" ref-type="fig">3</xref>b, which showed a reduction in EPS in both mono&#x02010; and dual&#x02010;species biofilms. The dual&#x02010;species group was reduced by 24% relative to the control group. <italic>Streptococcus mutans</italic> biofilms had a 22% reduction in EPS, and <italic>C.&#x000a0;albicans</italic> biofilms had an 80% reduction in EPS. Likewise, the thickness of the biofilms in the treated groups was overtly attenuated compared with that in the control groups (Figure <xref rid="mbo3937-fig-0003" ref-type="fig">3</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="mbo3937-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Effect of CUR on the EPS of mono&#x02010; and dual&#x02010;species biofilms by CLSM. After incubation and staining, images of the biofilms were collected. The green channel was used for microorganism (a). The red channel was used for EPS (a). The EPS and thickness of the biofilms were quantified and compared (b, c). The asterisks (*) indicate significant differences (*<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01; ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001)</p></caption><graphic id="nlm-graphic-7" xlink:href="MBO3-8-e937-g003"/></fig></sec><sec id="mbo3937-sec-0014"><label>3.4</label><title>Morphology of microorganisms in biofilms by SEM</title><p>Scanning electron microscopy images revealed biofilm morphologies and supported the CLSM results. In <italic>S.&#x000a0;mutans</italic> mono&#x02010;species biofilms, the biofilm structures in the treated group were lost (Figure <xref rid="mbo3937-fig-0004" ref-type="fig">4</xref>a). The data also showed that CUR treatment not only led to changes in biofilm structure but also caused slackening of the matrix in <italic>C.&#x000a0;albicans</italic> mono&#x02010;species biofilms (Figure <xref rid="mbo3937-fig-0004" ref-type="fig">4</xref>b). The structure of dual&#x02010;species biofilm seemed more disordered in the treated group than in the control group. Notably, the arrangement of hypha was altered, and less matrix was observed in the treated group of dual&#x02010;species biofilms (Figure <xref rid="mbo3937-fig-0004" ref-type="fig">4</xref>c).</p><fig fig-type="Figure" xml:lang="en" id="mbo3937-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Morphological characteristics of mono&#x02010; and dual&#x02010;species biofilms under CUR treatment. Representative SEM images of <italic>Streptococcus mutans</italic> (a), <italic>Candida albicans</italic> (b), and dual&#x02010;species biofilms (c). Each field of vision was magnified 2,000&#x000d7; and 10,000&#x000d7;. The black arrows indicate the magnified viewing area. The yellow arrows indicate the yeast. The white arrows indicate the EPS in the biofilms</p></caption><graphic id="nlm-graphic-9" xlink:href="MBO3-8-e937-g004"/></fig></sec><sec id="mbo3937-sec-0015"><label>3.5</label><title>Gene expression changes in biofilms</title><p>The mRNA levels of all genes tested were decreased in the CUR&#x02010;treated group relative to the control group. CUR decreased the expression of virulence&#x02010;related genes in both mono&#x02010; and dual&#x02010;species biofilms (Figure <xref rid="mbo3937-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mbo3937-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Change in gene expression in biofilms under the effects of CUR. The mRNA levels of genes in different virulence systems of <italic>Streptococcus mutans and Candida albicans</italic> are shown in Figure <xref rid="mbo3937-fig-0005" ref-type="fig">5</xref>. Different levels of gene expression were standardized to 16 sRNA levels. (a) Relative RNA expression of <italic>gtfs</italic> in <italic>S.&#x000a0;mutans</italic>, (b) relative RNA expression of two&#x02010;component signal transduction system in <italic>S.&#x000a0;mutans</italic>, and (c) relative RNA expression of <italic>als</italic> in <italic>C.&#x000a0;albicans</italic>. The asterisks (*) indicated significant differences (*<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.01; ***<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.001)</p></caption><graphic id="nlm-graphic-11" xlink:href="MBO3-8-e937-g005"/></fig><p>For <italic>S.&#x000a0;mutans</italic>, the relative expression levels of the virulence genes <italic>gtfB</italic>, <italic>gtfC,</italic> and <italic>gbpB</italic> in the mono&#x02010;species biofilms were 44%, 29%, and 31%, respectively, compared with the levels in the control groups, while in the dual&#x02010;species biofilm they were 39%, 26%, and 27%, respectively (Figure <xref rid="mbo3937-fig-0005" ref-type="fig">5</xref>a). The genes of the two&#x02010;component signal transduction system, including <italic>comC</italic>, <italic>comD,</italic> and <italic>comE,</italic> were evaluated. The relative gene expression levels of <italic>comC</italic>, <italic>comD,</italic> and <italic>comE</italic> were downregulated by 25%, 83%, and 80%, respectively, in mono&#x02010;species biofilms and by 65%, 66%, and 46%, respectively, in dual&#x02010;species biofilms (Figure <xref rid="mbo3937-fig-0005" ref-type="fig">5</xref>b).</p><p>In <italic>C.&#x000a0;albicans</italic>, the expression levels of genes related to biofilm formation, <italic>als1</italic> and <italic>als3</italic>, were downregulated by 75% and 78%, respectively, in mono&#x02010;species biofilms and by 56% and 69%, respectively, in dual&#x02010;species biofilms (Figure <xref rid="mbo3937-fig-0005" ref-type="fig">5</xref>c).</p></sec></sec><sec sec-type="discussion" id="mbo3937-sec-0016"><label>4</label><title>DISCUSSION</title><p>Early childhood caries has been treated using different modalities but with little success. Bacterial&#x02013;fungal interactions commonly occur in the process of ECC formation. Combating this cross&#x02010;kingdom infection is a challenge in the control of ECC (Klinke et al., <xref rid="mbo3937-bib-0016" ref-type="ref">2014</xref>; Yang et al., <xref rid="mbo3937-bib-0036" ref-type="ref">2012</xref>). Natural products are an alternative option that results in less antibiotic resistance, and they are widely used in clinical settings (Jeon, Rosalen, Falsetta, &#x00026; Koo, <xref rid="mbo3937-bib-0013" ref-type="ref">2011</xref>; Nijampatnam et al., <xref rid="mbo3937-bib-0023" ref-type="ref">2018</xref>; Townsley &#x00026; Shank, <xref rid="mbo3937-bib-0031" ref-type="ref">2017</xref>). The present study showed the value of applying CUR to address oral dual&#x02010;species biofilms.</p><p>Curcumin inhibited the biomass and viability of both mono&#x02010; and dual&#x02010;species biofilms. A previous study reported that CUR exerted both short&#x02010; and long&#x02010;term effects on the viability of <italic>S.&#x000a0;mutans</italic> biofilms at 0.5&#x000a0;mM (Li et al., <xref rid="mbo3937-bib-0018" ref-type="ref">2018</xref>). Alalwan et al. found that 200&#x000a0;&#x003bc;g/ml CUR (approximately equal to 0.543&#x000a0;mM) caused an 80% reduction in the metabolic activity of <italic>C.&#x000a0;albicans</italic> biofilms (Alalwan et al., <xref rid="mbo3937-bib-0001" ref-type="ref">2017</xref>). This finding is consistent with the present study. To determine the biological basis of the effect of CUR on dual&#x02010;species biofilms, live&#x02013;dead PCR was conducted to assay the composition of cells in the biofilms (Sherry et al., <xref rid="mbo3937-bib-0027" ref-type="ref">2016</xref>). CUR affected <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic> in both dual&#x02010; and mono&#x02010;species biofilms. However, the two microorganisms showed different responses to CUR. Many more cells of <italic>S.&#x000a0;mutans</italic> were eradicated in dual&#x02010;species biofilms. The interaction between <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic> enhanced the effect of CUR on <italic>S.&#x000a0;mutans</italic> in dual&#x02010;species biofilms. Bacteria&#x02013;fungi interactions and their relevance in health are well established (Arvanitis &#x00026; Mylonakis, <xref rid="mbo3937-bib-0002" ref-type="ref">2015</xref>). Dual&#x02010;species biofilms achieve higher biomass and cell numbers than mono&#x02010;species biofilms (Sztajer et al., <xref rid="mbo3937-bib-0029" ref-type="ref">2014</xref>). <italic>Streptococcus mutans&#x02010;</italic>derived glucosyltransferase B (GtfB) itself can promote C.&#x000a0;albicans biofilm development (Ellepola, Liu, Cao, Koo, &#x00026; Seneviratne, <xref rid="mbo3937-bib-0005" ref-type="ref">2017</xref>). The enhanced inhibition of <italic>S.&#x000a0;mutans</italic> by CUR in dual&#x02010;species biofilms shown here is interesting.</p><p>Exopolysaccharides increases in dual&#x02010;species biofilms and enhances the cariogenic potential of biofilms (Mitchell et al., <xref rid="mbo3937-bib-0021" ref-type="ref">2017</xref>). CUR influences the amount of EPS in all biofilms, which was confirmed here by CLSM. A previous study indicated that the presence of <italic>C.&#x000a0;albicans</italic> augmented the production of EPS, and dual&#x02010;species biofilms accrued more biomass and harbored more viable <italic>S.&#x000a0;mutans</italic> cells than mono&#x02010;species biofilms (Falsetta et al., <xref rid="mbo3937-bib-0007" ref-type="ref">2014</xref>). Similarly, the presence of <italic>Pseudomonas aeruginosa</italic> protected <italic>Salmonella</italic> cells in biofilms from disinfection treatment by generating greater EPS production in dual&#x02010;species biofilms than mono&#x02010;species biofilms (Pang, Yang, &#x00026; Yuk, <xref rid="mbo3937-bib-0025" ref-type="ref">2017</xref>). Kim et al. (<xref rid="mbo3937-bib-0014" ref-type="ref">2018</xref>) found that bacteria&#x02010;derived EPS enhanced antifungal drug tolerance in a cross&#x02010;kingdom oral biofilm. In mono&#x02010;species biofilms, we found that CUR disrupted EPS secretion not only from <italic>S.&#x000a0;mutans</italic> but also from <italic>C.&#x000a0;albicans</italic> biofilms. It is likely that CUR affects EPS production, either by fungi or bacteria, to disrupt dual&#x02010;species biofilms.</p><p>
+<italic>Streptococcus mutans</italic> extracellular glucosyltransferases (Gtfs), particularly GtfB and GtfC, synthesize predominantly water&#x02010;insoluble glucans, which contribute to the structural scaffold of biofilms (Bowen &#x00026; Koo, <xref rid="mbo3937-bib-0004" ref-type="ref">2011</xref>). A previous study showed that deletion of <italic>gtfB</italic> and <italic>gtfC</italic> significantly disrupted biofilm formation, which corresponded with the results in this study (Ooshima et al., <xref rid="mbo3937-bib-0024" ref-type="ref">2001</xref>). In our study, <italic>gtfB</italic> and <italic>gtfC</italic> were inhibited by CUR relative to the control group, and a reduction in EPS and structural looseness were observed in biofilms treated with CUR. Quorum sensing (QS) systems have a key role in coordinating biofilm formation and activating virulence factors in many bacteria and are considered an enticing target for fighting biofilm infection (Suntharalingam &#x00026; Cvitkovitch, <xref rid="mbo3937-bib-0028" ref-type="ref">2005</xref>; Worthington, Richards, &#x00026; Melander, <xref rid="mbo3937-bib-0034" ref-type="ref">2012</xref>). Among these, the competence&#x02010;stimulating peptide&#x02010;QS (CSP&#x02010;QS) system is the most common intraspecific example, including a competence&#x02010;stimulating peptide (encoded by <italic>comC</italic>), a histidine kinase sensor protein (encoded by <italic>comD</italic>), and a cognate response regulator (encoded by <italic>comE</italic>) (Suntharalingam &#x00026; Cvitkovitch, <xref rid="mbo3937-bib-0028" ref-type="ref">2005</xref>; Yue et al., <xref rid="mbo3937-bib-0039" ref-type="ref">2018</xref>). A previous study found that in the presence of chlorhexidine, the upregulation of immB in a <italic>comC</italic> mutant was largely inhibited compared with that in the wild&#x02010;type strain, implying that the function of the QS system is one of the mechanisms regulating <italic>S.&#x000a0;mutans</italic> antimicrobial sensitivity (Wang, Liu, Huo, &#x00026; Ling, <xref rid="mbo3937-bib-0032" ref-type="ref">2013</xref>). In the present study, the expression of <italic>comC</italic>, <italic>comD,</italic> and <italic>comE</italic> was suppressed by CUR in all biofilms. The results indicated that CUR inhibition occurs through the QS system.</p><p>The agglutinin&#x02010;like sequence (Als) family plays an important role in adhesion and aggregation with other substances, and it is a key element for <italic>C.&#x000a0;albicans</italic> in biofilm formation (Hoyer &#x00026; Cota, <xref rid="mbo3937-bib-0011" ref-type="ref">2016</xref>)<italic>.</italic> The gene expression of <italic>als1</italic> and <italic>als3</italic> decreased sharply after CUR treatment. This may have affected the function of the Als family and alleviated the interaction of <italic>C.&#x000a0;albicans</italic> with bacteria. Lee et al. suggested that CUR exerted antifungal activity by inducing disruption of the fungal plasma membrane (Lee &#x00026; Lee, <xref rid="mbo3937-bib-0017" ref-type="ref">2014</xref>). CUR most likely hampers the Als family of <italic>C.&#x000a0;albicans</italic> to exert antibacterial effects on <italic>S.&#x000a0;mutans</italic> in dual&#x02010;species biofilms.</p></sec><sec sec-type="conclusions" id="mbo3937-sec-0017"><label>5</label><title>CONCLUSIONS</title><p>Curcumin induces effects on <italic>S.&#x000a0;mutans</italic> and <italic>C.&#x000a0;albicans</italic>, such as their EPS formation, through different biological systems. <italic>Candida albicans</italic> is less sensitive to CUR in fungi&#x02013;bacteria interkingdom biofilms.</p></sec><sec sec-type="COI-statement" id="mbo3937-sec-0018"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="mbo3937-sec-0019"><title>AUTHOR CONTRIBUTION</title><p>Xinlong Li and Luoping Yin participated in the study design, carried out the experimental studies on biofilms, and&#x000a0;performed statistical analysis. Gordon Ramage helped to&#x000a0;draft the manuscript. Binchun Li, Ye Tao, and Qinghui Zhi participated in the study design and assisted with statistical support. Huancai Lin and Yan Zhou conceived the study, participated in the study design and data analysis, and were responsible for writing and submitting the final manuscript. All authors read and approved the manuscript.</p></sec><sec id="mbo3937-sec-0020"><title>ETHICAL APPROVAL</title><p>None required.</p></sec></body><back><ack id="mbo3937-sec-0023"><title>ACKNOWLEDGMENTS</title><p>This work was supported by Science and Technology Planning Project of Guangdong Province, China (2017A020215064).</p></ack><sec sec-type="data-availability" id="mbo3937-sec-0022"><title>DATA AVAILABILITY STATEMENT</title><p>All data generated or analyzed during this study are included in this published article.</p></sec><ref-list content-type="cited-references" id="mbo3937-bibl-0001"><title>REFERENCES</title><ref id="mbo3937-bib-0001"><mixed-citation publication-type="journal" id="mbo3937-cit-0001">
+<string-name>
+<surname>Alalwan</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Rajendran</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lappin</surname>, <given-names>D. F.</given-names>
+</string-name>, <string-name>
+<surname>Combet</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Shahzad</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>, <given-names>D.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ramage</surname>, <given-names>G.</given-names>
+</string-name> (<year>2017</year>). <article-title>The anti&#x02010;adhesive effect of curcumin on <italic>Candida albicans</italic> biofilms on denture materials</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>8</volume>, <fpage>659</fpage>.<pub-id pub-id-type="pmid">28473808</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0002"><mixed-citation publication-type="journal" id="mbo3937-cit-0002">
+<string-name>
+<surname>Arvanitis</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mylonakis</surname>, <given-names>E.</given-names>
+</string-name> (<year>2015</year>). <article-title>Fungal&#x02010;bacterial interactions and their relevance in health</article-title>. <source xml:lang="en">Cellular Microbiology</source>, <volume>17</volume>, <fpage>1442</fpage>&#x02013;<lpage>1446</lpage>.<pub-id pub-id-type="pmid">26243723</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0003"><mixed-citation publication-type="journal" id="mbo3937-cit-0003">
+<string-name>
+<surname>Barker</surname>, <given-names>K. S.</given-names>
+</string-name>, <string-name>
+<surname>Crisp</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Wiederhold</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Bareither</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Eckstein</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Rogers</surname>, <given-names>P. D.</given-names>
+</string-name> (<year>2004</year>). <article-title>Genome&#x02010;wide expression profiling reveals genes associated with amphotericin B and fluconazole resistance in experimentally induced antifungal resistant isolates of <italic>Candida albicans</italic>
+</article-title>. <source xml:lang="en">Journal of Antimicrobial Chemotherapy</source>, <volume>54</volume>, <fpage>376</fpage>&#x02013;<lpage>385</lpage>. <pub-id pub-id-type="doi">10.1093/jac/dkh336</pub-id>
+<pub-id pub-id-type="pmid">15201233</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0004"><mixed-citation publication-type="journal" id="mbo3937-cit-0004">
+<string-name>
+<surname>Bowen</surname>, <given-names>W. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011</year>). <article-title>Biology of <italic>Streptococcus mutans</italic>&#x02010;derived glucosyltransferases: Role in extracellular matrix formation of cariogenic biofilms</article-title>. <source xml:lang="en">Caries Research</source>, <volume>45</volume>, <fpage>69</fpage>&#x02013;<lpage>86</lpage>.</mixed-citation></ref><ref id="mbo3937-bib-0005"><mixed-citation publication-type="journal" id="mbo3937-cit-0005">
+<string-name>
+<surname>Ellepola</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Seneviratne</surname>, <given-names>C. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Bacterial GtfB augments <italic>Candida albicans</italic> accumulation in cross&#x02010;kingdom biofilms</article-title>. <source xml:lang="en">Journal of Dental Research</source>, <volume>96</volume>, <fpage>1129</fpage>&#x02013;<lpage>1135</lpage>.<pub-id pub-id-type="pmid">28605597</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0006"><mixed-citation publication-type="journal" id="mbo3937-cit-0006">
+<string-name>
+<surname>Esatbeyoglu</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Huebbe</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Ernst</surname>, <given-names>I. M. A.</given-names>
+</string-name>, <string-name>
+<surname>Chin</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>, <given-names>A. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rimbach</surname>, <given-names>G.</given-names>
+</string-name> (<year>2012</year>). <article-title>Curcumin&#x02010;from molecule to biological function</article-title>. <source xml:lang="en">Angewandte Chemie International Edition</source>, <volume>51</volume>, <fpage>5308</fpage>&#x02013;<lpage>5332</lpage>.<pub-id pub-id-type="pmid">22566109</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0007"><mixed-citation publication-type="journal" id="mbo3937-cit-0007">
+<string-name>
+<surname>Falsetta</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>, <given-names>M. I.</given-names>
+</string-name>, <string-name>
+<surname>Colonne</surname>, <given-names>P. M.</given-names>
+</string-name>, <string-name>
+<surname>Scott&#x02010;Anne</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Gregoire</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Pai</surname>, <given-names>C. H.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2014</year>). <article-title>Symbiotic relationship between <italic>Streptococcus mutans</italic> and <italic>Candida albicans</italic> synergizes virulence of plaque biofilms in vivo</article-title>. <source xml:lang="en">Infection and Immunity</source>, <volume>82</volume>, <fpage>1968</fpage>&#x02013;<lpage>1981</lpage>.<pub-id pub-id-type="pmid">24566629</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0008"><mixed-citation publication-type="journal" id="mbo3937-cit-0008">
+<string-name>
+<surname>Ghasempour</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Sefidgar</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Eyzadian</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gharakhani</surname>, <given-names>S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Prevalence of <italic>Candida albicans</italic> in dental plaque and caries lesion of early childhood caries (ECC) according to sampling site</article-title>. <source xml:lang="en">Caspian Journal of Internal Medicine</source>, <volume>2</volume>, <fpage>304</fpage>&#x02013;<lpage>308</lpage>.<pub-id pub-id-type="pmid">24551436</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0009"><mixed-citation publication-type="journal" id="mbo3937-cit-0009">
+<string-name>
+<surname>Hajishengallis</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Parsaei</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>, <given-names>M. I.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>Advances in the microbial etiology and pathogenesis of early childhood caries</article-title>. <source xml:lang="en">Molecular Oral Microbiology</source>, <volume>32</volume>, <fpage>24</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">26714612</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0010"><mixed-citation publication-type="journal" id="mbo3937-cit-0010">
+<string-name>
+<surname>Heitman</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Metwalli</surname>, <given-names>K. H.</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Krom</surname>, <given-names>B. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jabra&#x02010;Rizk</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2013</year>). <article-title>
+<italic>Streptococcus mutans</italic>, <italic>Candida albicans</italic>, and the human mouth: A sticky situation</article-title>. <source xml:lang="en">PLoS Path</source>, <volume>9</volume>, <elocation-id>e1003616</elocation-id>.</mixed-citation></ref><ref id="mbo3937-bib-0011"><mixed-citation publication-type="journal" id="mbo3937-cit-0011">
+<string-name>
+<surname>Hoyer</surname>, <given-names>L. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cota</surname>, <given-names>E.</given-names>
+</string-name> (<year>2016</year>). <article-title>
+<italic>Candida albicans</italic> agglutinin&#x02010;like sequence (Als) family vignettes: A review of Als protein structure and function</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>7</volume>, <fpage>280</fpage>
+<pub-id pub-id-type="doi">10.3389/fmicb.2016.00280</pub-id>
+<pub-id pub-id-type="pmid">27014205</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0012"><mixed-citation publication-type="journal" id="mbo3937-cit-0012">
+<string-name>
+<surname>Hwang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Krysan</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>
+<italic>Candida albicans</italic> mannans mediate <italic>Streptococcus mutans</italic> exoenzyme GtfB binding to modulate cross&#x02010;kingdom biofilm development in vivo</article-title>. <source xml:lang="en">PLoS Path</source>, <volume>13</volume>, <elocation-id>e1006407</elocation-id>.</mixed-citation></ref><ref id="mbo3937-bib-0013"><mixed-citation publication-type="journal" id="mbo3937-cit-0013">
+<string-name>
+<surname>Jeon</surname>, <given-names>J. G.</given-names>
+</string-name>, <string-name>
+<surname>Rosalen</surname>, <given-names>P. L.</given-names>
+</string-name>, <string-name>
+<surname>Falsetta</surname>, <given-names>M. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2011</year>). <article-title>Natural products in caries research: Current (limited) knowledge, challenges and future perspective</article-title>. <source xml:lang="en">Caries Research</source>, <volume>45</volume>, <fpage>243</fpage>&#x02013;<lpage>263</lpage>. <pub-id pub-id-type="doi">10.1159/000327250</pub-id>
+<pub-id pub-id-type="pmid">21576957</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0014"><mixed-citation publication-type="journal" id="mbo3937-cit-0014">
+<string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Benhamou</surname>, <given-names>R. I.</given-names>
+</string-name>, <string-name>
+<surname>Sanchez</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Simon&#x02010;Soro</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2018</year>). <article-title>Bacterial&#x02010;derived exopolysaccharides enhance antifungal drug tolerance in a cross&#x02010;kingdom oral biofilm</article-title>. <source xml:lang="en">ISME Journal</source>, <volume>12</volume>, <fpage>1427</fpage>&#x02013;<lpage>1442</lpage>.<pub-id pub-id-type="pmid">29670217</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0015"><mixed-citation publication-type="journal" id="mbo3937-cit-0015">
+<string-name>
+<surname>Klein</surname>, <given-names>M. I.</given-names>
+</string-name>, <string-name>
+<surname>Duarte</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Mitra</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>, <given-names>T. H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>). <article-title>Structural and molecular basis of the role of starch and sucrose in <italic>Streptococcus mutans</italic> biofilm development</article-title>. <source xml:lang="en">Applied and Environment Microbiology</source>, <volume>75</volume>, <fpage>837</fpage>&#x02013;<lpage>841</lpage>.</mixed-citation></ref><ref id="mbo3937-bib-0016"><mixed-citation publication-type="journal" id="mbo3937-cit-0016">
+<string-name>
+<surname>Klinke</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Urban</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Luck</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Hannig</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kuhn</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kramer</surname>, <given-names>N.</given-names>
+</string-name> (<year>2014</year>). <article-title>Changes in <italic>Candida</italic> spp., mutans streptococci and lactobacilli following treatment of early childhood caries: A 1&#x02010;year follow&#x02010;up</article-title>. <source xml:lang="en">Caries Research</source>, <volume>48</volume>, <fpage>24</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">24216710</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0017"><mixed-citation publication-type="journal" id="mbo3937-cit-0017">
+<string-name>
+<surname>Lee</surname>, <given-names>W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lee</surname>, <given-names>D. G.</given-names>
+</string-name> (<year>2014</year>). <article-title>An antifungal mechanism of curcumin lies in membrane&#x02010;targeted action within <italic>Candida albicans</italic>
+</article-title>. <source xml:lang="en">IUBMB Life</source>, <volume>66</volume>, <fpage>780</fpage>&#x02013;<lpage>785</lpage>.<pub-id pub-id-type="pmid">25380239</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0018"><mixed-citation publication-type="journal" id="mbo3937-cit-0018">
+<string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2018</year>). <article-title>Curcumin as a promising antibacterial agent: Effects on metabolism and biofilm formation in <italic>S.&#x000a0;mutans</italic>
+</article-title>. <source xml:lang="en">BioMed Research International</source>, <volume>2018</volume>, <fpage>4508709</fpage>.<pub-id pub-id-type="pmid">29682545</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0019"><mixed-citation publication-type="journal" id="mbo3937-cit-0019">
+<string-name>
+<surname>Liu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>). <article-title>Nicotine enhances interspecies relationship between <italic>Streptococcus mutans</italic> and <italic>Candida albicans</italic>
+</article-title>. <source xml:lang="en">BioMed Research International</source>, <volume>2017</volume>, <fpage>7953920</fpage>.<pub-id pub-id-type="pmid">28280743</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0020"><mixed-citation publication-type="journal" id="mbo3937-cit-0020">
+<string-name>
+<surname>Marc</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Araniciu</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Oniga</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Vlase</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Pirnau</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Duma</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Oniga</surname>, <given-names>O.</given-names>
+</string-name> (<year>2018</year>). <article-title>New N&#x02010;(oxazolylmethyl)&#x02010;thiazolidinedione active against <italic>Candida albicans</italic> biofilm: Potential Als proteins inhibitors</article-title>. <source xml:lang="en">Molecules</source>, <volume>23</volume>(<issue>10</issue>), <fpage>2522</fpage>
+<pub-id pub-id-type="doi">10.3390/molecules23102522</pub-id>
+</mixed-citation></ref><ref id="mbo3937-bib-0021"><mixed-citation publication-type="journal" id="mbo3937-cit-0021">
+<string-name>
+<surname>Mitchell</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Hwang</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Krysan</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Koo</surname>, <given-names>H.</given-names>
+</string-name> (<year>2017</year>). <article-title>
+<italic>Candida albicans</italic> mannans mediate <italic>Streptococcus mutans</italic> exoenzyme GtfB binding to modulate cross&#x02010;kingdom biofilm development in vivo</article-title>. <source xml:lang="en">PLoS Path</source>, <volume>13</volume>, <elocation-id>e1006407</elocation-id>.</mixed-citation></ref><ref id="mbo3937-bib-0022"><mixed-citation publication-type="journal" id="mbo3937-cit-0022">
+<string-name>
+<surname>Neturi</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>2014</year>). <article-title>Effects of green tea on <italic>Streptococcus mutans</italic> counts &#x02013; A randomised control trail</article-title>. <source xml:lang="en">Journal of Clinical and Diagnostic Research</source>, <volume>8</volume>(<issue>11</issue>), <fpage>ZC128</fpage>&#x02013;<lpage>ZC130</lpage>. <pub-id pub-id-type="doi">10.7860/JCDR/2014/10963.5211</pub-id>
+<pub-id pub-id-type="pmid">25584303</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0023"><mixed-citation publication-type="journal" id="mbo3937-cit-0023">
+<string-name>
+<surname>Nijampatnam</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Cai</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Michalek</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Velu</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2018</year>). <article-title>Inhibition of <italic>Streptococcus mutans</italic> Biofilms by the Natural Stilbene Piceatannol Through the Inhibition of Glucosyltransferases</article-title>. <source xml:lang="en">ACS Omega</source>, <volume>3</volume>, <fpage>8378</fpage>&#x02013;<lpage>8385</lpage>.<pub-id pub-id-type="pmid">30087944</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0024"><mixed-citation publication-type="journal" id="mbo3937-cit-0024">
+<string-name>
+<surname>Ooshima</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Matsumura</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hoshino</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Kawabata</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Sobue</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fujiwara</surname>, <given-names>T.</given-names>
+</string-name> (<year>2001</year>). <article-title>Contributions of three glycosyltransferases to sucrose&#x02010;dependent adherence of <italic>Streptococcus mutans</italic>
+</article-title>. <source xml:lang="en">Journal of Dental Research</source>, <volume>80</volume>, <fpage>1672</fpage>&#x02013;<lpage>1677</lpage>.<pub-id pub-id-type="pmid">11597030</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0025"><mixed-citation publication-type="journal" id="mbo3937-cit-0025">
+<string-name>
+<surname>Pang</surname>, <given-names>X. Y.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>Y. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yuk</surname>, <given-names>H. G.</given-names>
+</string-name> (<year>2017</year>). <article-title>Biofilm formation and disinfectant resistance of <italic>Salmonella</italic> sp. in mono&#x02010; and dual&#x02010;species with <italic>Pseudomonas aeruginosa</italic>
+</article-title>. <source xml:lang="en">Journal of Applied Microbiology</source>, <volume>123</volume>, <fpage>651</fpage>&#x02013;<lpage>660</lpage>.<pub-id pub-id-type="pmid">28644912</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0026"><mixed-citation publication-type="journal" id="mbo3937-cit-0026">
+<string-name>
+<surname>Rahmani&#x02010;Badi</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sepehr</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Babaie&#x02010;Naiej</surname>, <given-names>H.</given-names>
+</string-name> (<year>2015</year>). <article-title>A combination of cis&#x02010;2&#x02010;decenoic acid and chlorhexidine removes dental plaque</article-title>. <source xml:lang="en">Archives of Oral Biology</source>, <volume>60</volume>, <fpage>1655</fpage>&#x02013;<lpage>1661</lpage>.<pub-id pub-id-type="pmid">26351749</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0027"><mixed-citation publication-type="journal" id="mbo3937-cit-0027">
+<string-name>
+<surname>Sherry</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Lappin</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>O'Donnell</surname>, <given-names>L. E.</given-names>
+</string-name>, <string-name>
+<surname>Millhouse</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Millington</surname>, <given-names>O. R.</given-names>
+</string-name>, <string-name>
+<surname>Bradshaw</surname>, <given-names>D. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ramage</surname>, <given-names>G.</given-names>
+</string-name> (<year>2016</year>). <article-title>Viable compositional analysis of an eleven species oral polymicrobial biofilm</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>7</volume>, <fpage>912</fpage>.<pub-id pub-id-type="pmid">27375612</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0028"><mixed-citation publication-type="journal" id="mbo3937-cit-0028">
+<string-name>
+<surname>Suntharalingam</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cvitkovitch</surname>, <given-names>D. G.</given-names>
+</string-name> (<year>2005</year>). <article-title>Quorum sensing in streptococcal biofilm formation</article-title>. <source xml:lang="en">Trends in Microbiology</source>, <volume>13</volume>, <fpage>3</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">15639624</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0029"><mixed-citation publication-type="journal" id="mbo3937-cit-0029">
+<string-name>
+<surname>Sztajer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Szafranski</surname>, <given-names>S. P.</given-names>
+</string-name>, <string-name>
+<surname>Tomasch</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Reck</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Nimtz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Rohde</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wagner&#x02010;Dobler</surname>, <given-names>I.</given-names>
+</string-name> (<year>2014</year>). <article-title>Cross&#x02010;feeding and interkingdom communication in dual&#x02010;species biofilms of <italic>Streptococcus mutans</italic> and <italic>Candida albicans</italic>
+</article-title>. <source xml:lang="en">ISME Journal</source>, <volume>8</volume>, <fpage>2256</fpage>&#x02013;<lpage>2271</lpage>.<pub-id pub-id-type="pmid">24824668</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0030"><mixed-citation publication-type="journal" id="mbo3937-cit-0030">
+<string-name>
+<surname>Ten Cate</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2012</year>). <article-title>Novel anticaries and remineralizing agents: Prospects for the future</article-title>. <source xml:lang="en">Journal of Dental Research</source>, <volume>91</volume>, <fpage>813</fpage>&#x02013;<lpage>815</lpage>.<pub-id pub-id-type="pmid">22899858</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0031"><mixed-citation publication-type="journal" id="mbo3937-cit-0031">
+<string-name>
+<surname>Townsley</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shank</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>2017</year>). <article-title>Natural&#x02010;product antibiotics: Cues for modulating bacterial biofilm formation</article-title>. <source xml:lang="en">Trends in Microbiology</source>, <volume>25</volume>, <fpage>1016</fpage>&#x02013;<lpage>1026</lpage>.<pub-id pub-id-type="pmid">28688575</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0032"><mixed-citation publication-type="journal" id="mbo3937-cit-0032">
+<string-name>
+<surname>Wang</surname>, <given-names>W. L.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Huo</surname>, <given-names>Y. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ling</surname>, <given-names>J. Q.</given-names>
+</string-name> (<year>2013</year>). <article-title>Bacteriocin immunity proteins play a role in quorum&#x02010;sensing system regulated antimicrobial sensitivity of <italic>Streptococcus mutans</italic> UA159</article-title>. <source xml:lang="en">Archives of Oral Biology</source>, <volume>58</volume>, <fpage>384</fpage>&#x02013;<lpage>390</lpage>.<pub-id pub-id-type="pmid">23107045</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0033"><mixed-citation publication-type="journal" id="mbo3937-cit-0033">
+<string-name>
+<surname>Willems</surname>, <given-names>H. M.</given-names>
+</string-name>, <string-name>
+<surname>Kos</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jabra&#x02010;Rizk</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name>
+<surname>Krom</surname>, <given-names>B. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bjarnsholt</surname>, <given-names>T.</given-names>
+</string-name> (<year>2016</year>). <article-title>
+<italic>Candida albicans</italic> in oral biofilms could prevent caries</article-title>. <source xml:lang="en">Pathogens and Disease</source>, <volume>74</volume>, <fpage>ftw039</fpage>.<pub-id pub-id-type="pmid">27129365</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0034"><mixed-citation publication-type="journal" id="mbo3937-cit-0034">
+<string-name>
+<surname>Worthington</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Richards</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Melander</surname>, <given-names>C.</given-names>
+</string-name> (<year>2012</year>). <article-title>Small molecule control of bacterial biofilms</article-title>. <source xml:lang="en">Organic &#x00026; Biomolecular Chemistry</source>, <volume>10</volume>, <fpage>7457</fpage>&#x02013;<lpage>7474</lpage>.<pub-id pub-id-type="pmid">22733439</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0035"><mixed-citation publication-type="journal" id="mbo3937-cit-0035">
+<string-name>
+<surname>Xiao</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Grier</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Faustoferri</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Alzoubi</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gill</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Gill</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2018</year>). <article-title>Association between oral candida and bacteriome in children with severe ECC</article-title>. <source xml:lang="en">Journal of Dental Research</source>, <volume>97</volume>, <fpage>1468</fpage>&#x02013;<lpage>1476</lpage>.<pub-id pub-id-type="pmid">30049240</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0036"><mixed-citation publication-type="journal" id="mbo3937-cit-0036">
+<string-name>
+<surname>Yang</surname>, <given-names>X. Q.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>, <given-names>L. Y.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zou</surname>, <given-names>J.</given-names>
+</string-name> (<year>2012</year>). <article-title>Genotypic distribution of <italic>Candida albicans</italic> in dental biofilm of Chinese children associated with severe early childhood caries</article-title>. <source xml:lang="en">Archives of Oral Biology</source>, <volume>57</volume>, <fpage>1048</fpage>&#x02013;<lpage>1053</lpage>.<pub-id pub-id-type="pmid">22717324</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0037"><mixed-citation publication-type="journal" id="mbo3937-cit-0037">
+<string-name>
+<surname>Yang</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>He</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>, <given-names>Z.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Li</surname>, <given-names>M.</given-names>
+</string-name> (<year>2016</year>). <article-title>Effect of LongZhang Gargle on biofilm formation and acidogenicity of <italic>Streptococcus mutans</italic> in vitro</article-title>. <source xml:lang="en">BioMed Research International</source>, <volume>2016</volume>, <fpage>5829823</fpage>.<pub-id pub-id-type="pmid">27314029</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0038"><mixed-citation publication-type="journal" id="mbo3937-cit-0038">
+<string-name>
+<surname>Yasunaga</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Yoshida</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Morikawa</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Maki</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Soh</surname>, <given-names>I.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ansai</surname>, <given-names>T.</given-names>
+</string-name> (<year>2013</year>). <article-title>Monitoring the prevalence of viable and dead cariogenic bacteria in oral specimens and in vitro biofilms by qPCR combined with propidium monoazide</article-title>. <source xml:lang="en">BMC Microbiology</source>, <volume>13</volume>, <fpage>157</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-2180-13-157</pub-id>
+<pub-id pub-id-type="pmid">23848601</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0039"><mixed-citation publication-type="journal" id="mbo3937-cit-0039">
+<string-name>
+<surname>Yue</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Huang</surname>, <given-names>C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Influence of naringenin on the biofilm formation of <italic>Streptococcus mutans</italic>
+</article-title>. <source xml:lang="en">Journal of Dentistry</source>, <volume>76</volume>, <fpage>24</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">29679633</pub-id></mixed-citation></ref><ref id="mbo3937-bib-0040"><mixed-citation publication-type="journal" id="mbo3937-cit-0040">
+<string-name>
+<surname>Zhou</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Millhouse</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lappin</surname>, <given-names>D. F.</given-names>
+</string-name>, <string-name>
+<surname>Rajendran</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Bagg</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Ramage</surname>, <given-names>G.</given-names>
+</string-name> (<year>2018</year>). <article-title>Evaluating <italic>Streptococcus mutans</italic> strain dependent characteristics in a polymicrobial biofilm community</article-title>. <source xml:lang="en">Frontiers in Microbiology</source>, <volume>9</volume>, <fpage>1498</fpage>.<pub-id pub-id-type="pmid">30083138</pub-id></mixed-citation></ref></ref-list><app-group><app id="mbo3937-app-0001" content-type="APPENDIX"><label>APPENDIX 1</label><sec id="mbo3937-sec-0024"><label>1.1</label><fig fig-type="Figure" xml:lang="en" id="mbo3937-fig-0006" orientation="portrait" position="anchor"><label>Figure A1</label><caption><p>Effect of CUR on total/live microorganisms in different biofilms. Dual&#x02010;species biofilm models were grown for 48 h, and spent supernatants were replaced with fresh AS every 24 h. After mature biofilm formed, the biofilms were treated with 0.5 mM CUR for 24 h. Biofilms were assessed for total and viable composition of <italic>C. albicans</italic> and <italic>S. mutans</italic> using viability qRT&#x02010;PCR</p><p>[Correction added on 21 October 2019 after first online publication: Figure S1 from Supporting Information has been moved to Appendix section as Figure A1]</p></caption><graphic id="nlm-graphic-13" xlink:href="MBO3-8-e937-g006"/></fig></sec></app></app-group></back></article>

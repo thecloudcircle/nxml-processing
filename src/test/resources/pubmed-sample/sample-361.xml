@@ -1,0 +1,317 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21533080</article-id><article-id pub-id-type="pmc">3080371</article-id><article-id pub-id-type="publisher-id">PONE-D-11-03081</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0018878</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Biophysics</subject><subj-group><subject>Cell Motility</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Oncology</subject><subj-group><subject>Cancers and Neoplasms</subject><subj-group><subject>Gastrointestinal Tumors</subject><subj-group><subject>Hepatocellular Carcinoma</subject></subj-group></subj-group></subj-group><subj-group><subject>Basic Cancer Research</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Proline-Rich Tyrosine Kinase 2 (Pyk2) Promotes Cell Motility of Hepatocellular Carcinoma through Induction of Epithelial to Mesenchymal Transition</article-title><alt-title alt-title-type="running-head">Pyk2 on Cell Motility of Hepatocellular Carcinoma</alt-title></title-group><contrib-group><contrib contrib-type="author" equal-contrib="yes"><name><surname>Sun</surname><given-names>Chris K.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author" equal-contrib="yes"><name><surname>Ng</surname><given-names>Kevin T.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lim</surname><given-names>Zophia X.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Cheng</surname><given-names>Qiao</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lo</surname><given-names>Chung Mau</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Poon</surname><given-names>Ronnie T.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Man</surname><given-names>Kwan</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Wong</surname><given-names>Nathalie</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Fan</surname><given-names>Sheung Tat</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Surgery, LKS Faculty of Medicine, Centre for Cancer Research, The University of Hong Kong, Pokfulam, Hong Kong, China</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Anatomical and Cellular Pathology, The Chinese University of Hong Kong, Shatin, Hong Kong</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Dent</surname><given-names>Paul</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Virginia Commonwealth University, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>kwanman@hku.hk</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: CKS KTN KM. Performed the experiments: CKS KTN ZXL QC. Analyzed the data: CKS KTN KM NW. Contributed reagents/materials/analysis tools: RTP CML STF. Wrote the paper: CKS KTN.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>20</day><month>4</month><year>2011</year></pub-date><volume>6</volume><issue>4</issue><elocation-id>e18878</elocation-id><history><date date-type="received"><day>27</day><month>1</month><year>2011</year></date><date date-type="accepted"><day>11</day><month>3</month><year>2011</year></date></history><permissions><copyright-statement>Sun et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Aims</title><p>Proline-rich tyrosine kinase 2 (Pyk2), a non-receptor tyrosine kinase of the focal adhesion kinase (FAK) family, is up-regulated in more than 60&#x00025; of the tumors of hepatocellular carcinoma (HCC) patients. Forced overexpression of Pyk2 can promote the proliferation and invasion of HCC cells. In this study, we aimed to explore the underlying molecular mechanism of Pyk2-mediated cell migration of HCC cells.</p></sec><sec><title>Methodology/Principal Findings</title><p>We demonstrated that Pyk2 transformed the epithelial HCC cell line Hep3B into a mesenchymal phenotype via the induction of epithelial to mesenchymal transition (EMT), signified by the up-regulation of membrane ruffle formation, activation of Rac/Rho GTPases, down-regulation of epithelial genes E-cadherin and cytokeratin as well as promotion of cell motility in presence of lysophosphatidic acid (LPA). Suppression of Pyk2 by overexpression of dominant negative PRNK domain in the metastatic HCC cell line MHCC97L transformed its fibroblastoid phenotype to an epithelial phenotype with up-regulation of epithelial genes, down-regulation of mesenchymal genes N-cadherin and STAT5b, and reduction of LPA-induced membrane ruffle formation and cell motility. Moreover, overexpression of Pyk2 in Hep3B cells promoted the phosphorylation and localization of mesenchymal gene Hic-5 onto cell membrane while suppression of Pyk2 in MHCC97L cells attenuated its phosphorylation and localization.</p></sec><sec><title>Conclusion</title><p>These data provided new evidence of the underlying mechanism of Pyk2 in controlling cell motility of HCC cells through regulation of genes associated with EMT.</p></sec></abstract><counts><page-count count="7"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Hepatocellular carcinoma (HCC) is the primary malignancy of the liver. It is fifth in popularity and third in cancer-related deaths worldwide <xref rid="pone.0018878-Farazi1" ref-type="bibr">[1]</xref>. Prognosis and treatment of HCC remains unsatisfactory due to tumor recurrence, metastasis of the primary tumor and poor therapeutic response to chemotherapy and radiotherapy <xref rid="pone.0018878-Mathurin1" ref-type="bibr">[2]</xref>, <xref rid="pone.0018878-Kawano1" ref-type="bibr">[3]</xref>. Metastasis is not only a complex process but also the major cause of cancer-related deaths <xref rid="pone.0018878-Liotta1" ref-type="bibr">[4]</xref>. Transformation of cells to a fibroblastic phenotype is important for the cancer cells to successfully metastasize <xref rid="pone.0018878-Stracke1" ref-type="bibr">[5]</xref>. Several lines of evidences suggested that the induction of epithelial to mesenchymal transition (EMT) plays an important role in cancer cell transformation <xref rid="pone.0018878-Larue1" ref-type="bibr">[6]</xref>, <xref rid="pone.0018878-Thiery1" ref-type="bibr">[7]</xref>. It contributes significantly to metazoan embryogenesis and pathogenesis such as tissue fibrosis and cancer progression <xref rid="pone.0018878-Moustakas1" ref-type="bibr">[8]</xref>. On the other hand, the process of mesenchymal to epithelial transition (MET) may promote the growth of the metastatic cancer cells in secondary sites <xref rid="pone.0018878-Chaffer1" ref-type="bibr">[9]</xref>. The critical hallmarks of EMT include the down-regulation of E-cadherin which is considered to be a tumor suppressor gene <xref rid="pone.0018878-Huber1" ref-type="bibr">[10]</xref>, activation of Rho small GTPases such as Rac1/RhoA which may increase cell motility by up-regulating actin turnover and formation of focal adhesion <xref rid="pone.0018878-Boivin1" ref-type="bibr">[11]</xref>, cytoskeletal rearrangement and nuclear translocation of several transcription factors such as Snail and Twist <xref rid="pone.0018878-Niu1" ref-type="bibr">[12]</xref>, <xref rid="pone.0018878-Teng1" ref-type="bibr">[13]</xref>. Understanding the mechanism of HCC cell migration and metastasis may have great value to develop effective diagnostic and therapeutic strategies for treatment of HCC patients.</p><p>Proline-rich tyrosine kinase 2 (Pyk2) is a non-receptor tyrosine kinase of the focal adhesion kinase (FAK) family. Our previous study had shown that up-regulation of Pyk2 in tumor tissues of HCC patients is significantly associated to poor prognosis <xref rid="pone.0018878-Sun1" ref-type="bibr">[14]</xref>. Moreover, forced overexpression of Pyk2 in HCC cells promotes cell proliferation, invasion and migration via the activation of the c-Src and ERK/MAPK pathways which can be attenuated by forced overexpression of its C-terminal non-kinase region (PRNK)<xref rid="pone.0018878-Sun2" ref-type="bibr">[15]</xref>. Furthermore, Pyk2 up-regulates the formation of lamellipodia and actin stress fiber polymerization of HCC cells <xref rid="pone.0018878-Sun2" ref-type="bibr">[15]</xref>. However, the underlying mechanism of Pyk2 on regulation of cell transformation and motility of HCC cells is poorly understood. Recently, some of the signaling molecules associated with Pyk2 (Hic-5 and STAT5b) have been reported to promote EMT <xref rid="pone.0018878-Lee1" ref-type="bibr">[16]</xref>, <xref rid="pone.0018878-Avraamides1" ref-type="bibr">[17]</xref>. Therefore, it is valuable to investigate the effect of Pyk2 on regulating these molecular in the process of cell transformation of HCC cells.</p><p>Hydrogen peroxide inducible clone-5 (Hic-5) is a 55 kDa protein that serves as an adaptor protein in focal adhesion and possesses the ability to translocate to the nucleus, where it acts as a transcription factor <xref rid="pone.0018878-Shibanuma1" ref-type="bibr">[18]</xref>. It maintains the general structure of paxillin with 4 N-terminal LD motifs and 4 C-terminal LIM domains <xref rid="pone.0018878-Brown1" ref-type="bibr">[19]</xref>, <xref rid="pone.0018878-Tumbarello1" ref-type="bibr">[20]</xref>. The LIM domain of Hic-5 is able to bind with DNA fragments in a zinc-finger-dependent manner <italic>in vitro</italic>, suggesting its possible role as a transcription factor <xref rid="pone.0018878-Nishiya1" ref-type="bibr">[21]</xref>. Pyk2 can physically interact with Hic-5 and subsequently phosphorylate Hic-5 <xref rid="pone.0018878-Matsuya1" ref-type="bibr">[22]</xref>. It has been reported that activated Pyk2 phosphorylates Hic-5 at tyrosine residue 60 resulting in up-regulation of LPA-mediated cell migration and the induction of EMT through a RhoA/ROCK-dependent pathway <xref rid="pone.0018878-Avraamides1" ref-type="bibr">[17]</xref>, <xref rid="pone.0018878-Ishino1" ref-type="bibr">[23]</xref>, <xref rid="pone.0018878-Tumbarello2" ref-type="bibr">[24]</xref>. So far the interaction between Pyk2 and Hic-5 in HCC is still unknown.</p><p>STAT5b belongs to the Signal Transducers and Activators of Transcription (STAT) family which are activated by cytokines and transcription factors via its dimerization and nuclear translocation. They are involved in a variety of cell processes including cell proliferation, cells survival and differentiation <xref rid="pone.0018878-Klampfer1" ref-type="bibr">[25]</xref>, <xref rid="pone.0018878-Quesnelle1" ref-type="bibr">[26]</xref>, <xref rid="pone.0018878-Bunting1" ref-type="bibr">[27]</xref>. STAT5b has been reported to promote EMT in HCC by the transformation of HCC cells into an aggressive phenotype. It has been shown that the activation of STAT5b is closely associated with the X protein of the Hepatitis B virus <xref rid="pone.0018878-Lee1" ref-type="bibr">[16]</xref>.</p><p>In this study, we hypothesize that Pyk2 transformed HCC cells to a fibroblastoid phenotype through regulation of genes associated with EMT. To validate the hypothesis, Hep3B cells were stably overexpressed with full length Pyk2 and MHCC97L cells were stably transfected with PRNK to suppress the Pyk2 activation. The gene expression profiles associated with EMT (Hic-5, STAT5b, E-cadherin, Twist, N-cadherin, fibronectin and Rho GTP-binding proteins) were investigated.</p></sec><sec sec-type="materials|methods" id="s2"><title>Materials and Methods</title><sec id="s2a"><title>Reagents, plasmids and antibodies</title><p>Platelet derived growth factor-BB (PDGF-BB) was purchased from Calbiochem (Darmstadt, Germany). Lysophosphatidic acid (LPA) was purchased from Sigma (St. Louis, MO, USA). Plasmids pCDNA3-Pyk2 and pCDNA3-PRNK were gifts from Dr. Joseph Loftus, Mayo Clinic Scottsdale, USA. pCDNA 3.1 (&#x0002b;) vector was purchased from Invitrogen (Carlsbad, CA). Anti-E-cadherin, anti-N-cadherin, anti-Twist and Anti-phosphotyrosine monoclonal antibodies were purchased from Cell Signaling (Danvers, MA, USA). Monoclonal antibodies against cytokeratin (AE1/AE3) was purchased from DAKO (Glostrup, Denmark). Anti-STAT5b and anti-fibronectin antibodies were purchased from Santa Cruz (Santa Cruz, CA, USA). Anti-Hic-5 and anti-Pyk2 monoclonal antibodies were purchased from BD Transduction Laboratory (San Jose, CA, USA). Alexa fluor 488 goat anti-rabbit IgG and goat anti-mouse IgG were purchased from Molecular Probes (Carlsbad, CA, USA).</p></sec><sec id="s2b"><title>Cell culture, transfection and stable cell lines</title><p>Human HCC cell line Hep3B was purchased from the American Type Culture Collection (Manassas, VA, USA) and grown in DMEM medium containing 10&#x00025; FBS, 2 mM L-glutamine, and 100 units/ml streptomycin (Life technologies, Carlsbad, CA, USA). Human metastatic HCC cell line MHCC97L was a gift from Prof. Z.Y. Tang, Fudan University, Shanghai, China. Stable transfectants MHCC97L-vector and MHCC97L-PRNK has been reported previously. Hep3B cells were stably transfected with full length Pyk2 or PCDNA 3.1 (&#x0002b;) empty vector and maintained in DMEM medium supplemented with 300 &#x000b5;g/ml G418 as described previously <xref rid="pone.0018878-Sun2" ref-type="bibr">[15]</xref>. The expressions of Pyk2 in the stable clones were confirmed by Western blotting. One clone with the highest expression of Pyk2 was selected for further study.</p></sec><sec id="s2c"><title>Scanning electron microscopy (SEM)</title><p>Cells were seeded in 13-mm glass dishes and maintained in serum-free DMEM medium supplemented with 10&#x00025; FBS and antibiotics G 418 (0.6 mg/ml for Hep3B cells and 0.2 mg/ml for MHCC97L cells). To study the effects of Rho small GTPases activation on cell transformation, the cells were further treated with PDGF-BB (10 ng/ml) or LPA (1 &#x000b5;g/ml) for 10 minutes before cell fixation. Cells were fixed with 2.5&#x00025; glutaraldehyde in 0.1 M sodium cacodylate-HCL buffer, pH 7.4, quenched with 0.1 M sucrose/cacodylate solution and washed in cacodylate buffer. The samples were then post-fixed with 1&#x00025; OsO<sub>4</sub> in cacodylate buffer. After a cacodylate buffer wash, samples were dehydrated through a graded series of ethanol washes, followed by critical point drying using a Bal-Tec CPD 030 (Bal-Tec AG, Liechtenstein). The samples were sputter-coated with a thin layer of gold (Bal-Tec SCD005 Sputter Coater) and visualized using a Leica Cambridge Stereoscan 440 SEM at an accelerating voltage of 12 kV. Each experiment was repeated for 3 times.</p></sec><sec id="s2d"><title>Activation assays for Rac1 and RhoA</title><p>Rac and RhoA activation assays were purchased from Cytoskeleton (Denver, CO, USA). Hep3B transfectants were serum-starved overnight prior to experiment. Cells were treated with PDGF-BB (10 ng/ml) or LPA (1 &#x000b5;g/ml) for 5 minutes and were then lysed with lysis buffer. Rac1 and RhoA pull-down assays were performed according to manufacturer's protocol.</p></sec><sec id="s2e"><title>Migration assay</title><p>Cells were trypsinized, counted and resuspended in serum free DMEM medium. Around 50,000 cells were seeded on the upper side of the migration chamber (BD, San Jose, CA, USA) with the lower chamber supplemented with serum free DMEM medium or with LPA (1 &#x000b5;g/ml). After 36 hrs cells that had penetrated through the chamber were fixed and counted.</p></sec><sec id="s2f"><title>Immunofluorescence staining</title><p>The protocol for immunofluorescent staining has been reported previously <xref rid="pone.0018878-Sun2" ref-type="bibr">[15]</xref>. Briefly, cells were fixed and stained with anti-E-cadherin, anti-Hic-5 and anti-STAT5b antibodies. The cells were then labeled with alexa fluor 488 goat anti-rabbit IgG or goat anti-mouse IgG and counter-stained with DAPI at 37<sup>o</sup>C.</p></sec><sec id="s2g"><title>Immunoprecipitation and Western blotting</title><p>Immunoprecipitation was performed on whole-cell lysates using antibodies against Hic-5 and phosphotyrosine. The cells were serum starved for 24 hours before stimulation with LPA for 20 minutes. Cell lysates were then incubated with anti-Hic-5 antibody for 4 hours at 4<sup>o</sup>C. Immunoprecipitates were washed twice in ice-cold lysis buffer. Immunoblotting was carried out as previously reported <xref rid="pone.0018878-Sun2" ref-type="bibr">[15]</xref>.</p></sec><sec id="s2h"><title>Statistics and data analyses</title><p>All data were expressed as mean &#x000b1; SD. Difference between groups were calculated by one-way ANOVA analysis. A <italic>p</italic>&#x0003c;0.05 was considered statistically significant. Unless stated, all experiments were repeated three times. Calculations were performed by using the SPSS computer software version 12 (SPSS, Chicago, IL).</p></sec></sec><sec id="s3"><title>Results</title><sec id="s3a"><title>Pyk2 promoted formation of membrane ruffles</title><p>Forced overexpression of Pyk2 in the non-metastatic HCC cell line Hep3B (Hep3B-Pyk2 cells) enhanced the formation of lamellipodia and membrane ruffles upon stimulation by PDGF-BB or LPA compared to control Hep3B-vector cells (<xref ref-type="fig" rid="pone-0018878-g001">Fig. 1A</xref>). Suppression of Pyk2, by overexpression of PRNK domain, in the metastatic MHCC97L cells (MHCC97L-PRNK cells) reduced the formation of membrane ruffles, as compared to the MHCC97L-vector control (<xref ref-type="fig" rid="pone-0018878-g001">Fig. 1B</xref>) in presence of PDGF-BB or LPA. Migration assay demonstrated that Hep3B-Pyk2 exhibited a significant increase of LPA-induced migration than Hep3B-vector (<italic>p</italic>&#x0003c;0.05, <xref ref-type="fig" rid="pone-0018878-g001">Fig. 1C</xref>). Suppression of Pyk2 activation by PRNK significantly down-regulated the cell migration in MHCC97L-PRNK cells as compared to the vector control (<italic>p</italic>&#x0003c;0.05, <xref ref-type="fig" rid="pone-0018878-g001">Fig. 1C</xref>).</p><fig id="pone-0018878-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0018878.g001</object-id><label>Figure 1</label><caption><title>Pyk2 promoted cell motility of HCC cells.</title><p>(A) Overexpression of Pyk2 in Hep3B cells enhanced the formation of membrane ruffles while (B) suppression of Pyk2 in MHCC97L cells reduced the formation of membrane ruffles under the stimulation of PDGF and LPA. White arrows indicate the presence of membrane ruffles. (C) Effects of Pyk2 on cell migration of Hep3B and MHCC97L cells in presence of LPA. &#x0002a;, P&#x0003c;0.05. (D) The effect of over-expression of Pyk2 on the activation of Rac1 and RhoA in Hep3B cells by Rac1 and RhoA pull-down assays. Total Rac1 and RhoA were used as loading controls.</p></caption><graphic xlink:href="pone.0018878.g001"/></fig><p>To elucidate the contributing mechanisms to the increase of membrane ruffles formation in Hep3B-Pyk2 cells, Rac1 and RhoA pull-down assays were performed to study the effects of Pyk2 on LPA-induced activation of Rac1 and RhoA. Significant up-regulation of activated forms and baseline levels of Rac1 and RhoA were found in Hep3B-Pyk2 cells compared to Hep3B-vector cells (<xref ref-type="fig" rid="pone-0018878-g001">Fig. 1D</xref>). For MHCC97L cells, no activated Rac1 and RhoA was detected in their cell lysates due to low baseline levels of Rac1 and RhoA (data not shown).</p></sec><sec id="s3b"><title>Pyk2 down-regulated the expression of E-cadherin and cytokeratin</title><p>The effects of overexpression of Pyk2 on the regulation of epithelial genes E-cadherin and cytokeratin were investigated. Result from immunofluorescent staining showed that Hep3B-Pyk2 cells had lower level of E-cadherin expression and localization on the cell membrane as compared to the Hep3B-vector cells (<xref ref-type="fig" rid="pone-0018878-g002">Fig. 2A</xref>). Weak positive staining (green) was present in the cytoplasm of Hep3B-Pyk2 cells, indicating the deactivation of E-cadherin. Western blot analysis showed that the expression levels of E-cadherin and cytokeratin were lower in Hep3B-Pyk2 cells compared with that in Hep3B-vector cells (<xref ref-type="fig" rid="pone-0018878-g002">Fig. 2B</xref>). In MHCC97L-vector cells with high baseline level of Pyk2, E-cadherin expression was almost absent in the cytoplasm of the cells (<xref ref-type="fig" rid="pone-0018878-g002">Fig. 2C</xref>). Transfection of PRNK in MHCC97L cells significantly restored the expression of E-cadherin at cytoplasm and on cell membranes (green, <xref ref-type="fig" rid="pone-0018878-g002">Fig. 2C</xref>). Western blot analysis showed that suppression of Pyk2 activation by PRNK restored the expression of E-cadherin and cytokeratin (<xref ref-type="fig" rid="pone-0018878-g002">Fig. 2D</xref>) in MHCC97L-PRNK cells. These results confirmed the role of Pyk2 on down-regulation of epithelial genes E-cadherin and cytokeratin.</p><fig id="pone-0018878-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0018878.g002</object-id><label>Figure 2</label><caption><title>Effects of Pyk2 on epithelial genes cytokeratin and E-cadherin.</title><p>(A) Effects of Pyk2 over-expression on the localization of E-cadherin in Hep3B cells. Positive staining of E-cadherin (green, white arrow) was present in the cytoplasm of the transfectants. (B) Over-expression of Pyk2 down-regulated the expression of cytokeratin and E-cadherin in Hep3B cells as shown by Western Blotting. (C) Forced expression of PRNK in MHCC97L cells restored the expression of E-cadherin (green, white arrow) on the cell membrane and cytoplasm. (D) The expression of E-cadherin and cytokeratin was increased upon suppression of Pyk2 in MHCC97L cells.</p></caption><graphic xlink:href="pone.0018878.g002"/></fig></sec><sec id="s3c"><title>Pyk2 activated Hic-5 and its focal adhesion localization</title><p>Inmmunofluorescent staining demonstrated that Hic-5 was predominantly present in the cytoplasm and the cell membrane of the Hep3B-vector cells in a dispersed pattern (<xref ref-type="fig" rid="pone-0018878-g003">Fig. 3A</xref>). Overexpression of Pyk2 promoted the membrane localization of Hic-5 in Hep3B-Pyk2 cells. Interestingly, more positive Hic-5 signals were present on the membrane and the peri-nuclear region in the Hep3B-Pyk2 cells (<xref ref-type="fig" rid="pone-0018878-g003">Fig. 3A</xref>). To further confirm the up-regulation of phosphorylated Hic-5 by Pyk2 overexpression, immunoprecipitation was performed to determine the presence of phosphorylated Hic-5 in cultured cells. The level of phosphorylated Hic-5 was up-regulated in Hep3B-Pyk2 cells, as compared to the Hep3B-vector control (<xref ref-type="fig" rid="pone-0018878-g003">Fig. 3B</xref>). In MHCC97L cells, Hic-5 was frequently localized on the membrane region as shown by the strong green positive staining by IF (<xref ref-type="fig" rid="pone-0018878-g003">Fig. 3C</xref>). Suppression of Pyk2 activation in MHCC97L-PRNK cells significantly down-regulated the membrane localization of Hic-5 (<xref ref-type="fig" rid="pone-0018878-g003">Fig. 3C</xref>). Moreover, Western blot result showed that suppression of Pyk2 resulted in the down-regulation of phosphorylated Hic-5 in MHCC97L-PRNK cells (<xref ref-type="fig" rid="pone-0018878-g003">Fig. 3D</xref>). These results confirmed the positive correlation between the expression of Pyk2 and the degree of phosphorylation and membrane localization of mesenchymal gene Hic-5 inside the cell.</p><fig id="pone-0018878-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0018878.g003</object-id><label>Figure 3</label><caption><title>Effects of Pyk2 on the phosphorylation and activation of Hic-5.</title><p>(A) Pyk2 over-expression promoted the membrane localization of Hic-5. Positive staining of Hic-5 (green, white arrow) was up-regulated in Pyk2 transfected Hep3B cells. (B) Effect of Pyk2 over-expression on the phosphorylation of Hic-5 in Hep3B cells. (C) Suppression of Pyk2 by PRNK down-regulated the localization of Hic-5 (green, white arrow) on cell membrane and (D) level of activated Hic-5 in MHCC97L cells.</p></caption><graphic xlink:href="pone.0018878.g003"/></fig></sec><sec id="s3d"><title>PRNK down-regulated the expression and activation of STAT5b</title><p>In Hep3B-vector cells with low endogenous expression of Pyk2, green positive immunofluorescent staining of STAT5b was localized in the nuclear region of the cells, indicating its activation. Overexpression of Pyk2 did not significantly enhance the activation of STAT5b because of its intrinsic activation in the vector control (<xref ref-type="fig" rid="pone-0018878-g004">Fig. 4A</xref>). Western blot analysis showed that overexpression of Pyk2 in Hep3B did not up-regulate the expression of mesenchymal genes including STAT5b and Twist (<xref ref-type="fig" rid="pone-0018878-g004">Fig. 4B</xref>). For MHCC97L-vector cells, STAT5b was predominantly localized at the nucleus. Activated dimerized STAT5b, was present in the nucleus (green; <xref ref-type="fig" rid="pone-0018878-g004">Fig. 4C</xref>). Suppression of Pyk2 in MHCC97L-PRNK cells resulted in a loss of nuclear staining of STAT5b. Positive staining of STAT5b was observed in the peri-nuclear region and the cytoplasm, but not in the nucleus (<xref ref-type="fig" rid="pone-0018878-g004">Fig. 4C</xref>). Western blot analysis confirmed the down-regulation of STAT5b expression in MHCC97L-PRNK cells compared to that in MHCC97L-vector cells (<xref ref-type="fig" rid="pone-0018878-g004">Fig. 4D</xref>). In MHCC97L cells, suppression of Pyk2 activation by PRNK resulted in down-regulation of other mesenchymal genes such as Twist, N-cadherin and fibronectin (<xref ref-type="fig" rid="pone-0018878-g004">Fig. 4D</xref>).</p><fig id="pone-0018878-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0018878.g004</object-id><label>Figure 4</label><caption><title>Effects of Pyk2 on the activation of STAT5b.</title><p>(A) Pyk2 over-expression did not increase activation of STAT5b in Hep3B cells (green, white arrow). (B) Western blot analyses of protein level of phosphorylated STAT5b and Twist between Hep3B-vector and Hep3B-Pyk2 cells. (C) Suppression of Pyk2 down-regulated the nuclear localization of STAT5b (green, white arrow) in MHCC97L cells. (D) Suppression of Pyk2 down-regulated the phosphorylated STAT5b and other mesenchymal genes including Twist, N-cadherin and fibronectin analyzed by Western blot.</p></caption><graphic xlink:href="pone.0018878.g004"/></fig></sec></sec><sec id="s4"><title>Discussion</title><p>We previously demonstrated that the focal adhesion localization is a major determinant for Pyk2 to carry out its function in HCC cells <xref rid="pone.0018878-Sun2" ref-type="bibr">[15]</xref>. In this study, the role and underlying molecular mechanism of Pyk2 on transformation of HCC cells to undergo EMT were investigated. Forced overexpression of Pyk2 in Hep3B cells transformed the cells from an epithelial phenotype to a migratory phenotype which is commonly acquired by cancer cells to induce EMT leading to the increase of metastatic potential <xref rid="pone.0018878-Tse1" ref-type="bibr">[28]</xref>. Enhanced formation of membrane ruffles and migration ability in Pyk2-overexpressing Hep3B cells suggested the promoting effect of Pyk2 on cell motility of HCC cells. Increased activation of Rac1/RhoA in Hep3B-Pyk2 cells indicated that Pyk2 might promote cell motility of HCC cells via regulation of Rac1/RhoA activity. Suppression of Pyk2 in a metastatic HCC cell line MHCC97L showing a repression of EMT and cell migratory ability of the cells also indicated the importance of Pyk2 in regulation of cell motility of HCC cells.</p><p>The constitutive expression of E-cadherin in both normal and cancer cells may help to maintain adherence junctions and subsequently decrease the cell's capacity to invade or migrate through the extracellular matrix <xref rid="pone.0018878-Vleminckx1" ref-type="bibr">[29]</xref>, <xref rid="pone.0018878-Frixen1" ref-type="bibr">[30]</xref>. E-cadherin is frequently down-regulated during tumor progression. Loss of E-cadherin is associated with increased tumorigenecity and metastasis of cancer cells, providing a close correlation between metastasis and EMT <xref rid="pone.0018878-Birchmeier1" ref-type="bibr">[31]</xref>. Down-regulation of E-cadherin is usually coupled with an up-regulation of N-cadherin <xref rid="pone.0018878-Agiostratidou1" ref-type="bibr">[32]</xref>. In this study, overexpression of Pyk2 in Hep3B cells resulted in a down-regulation of E-cadherin expression while suppression of Pyk2 by PRNK in MHCC97L cells significantly up-regulated the expression of E-cadherin, suggesting the important mechanism of Pyk2 on the regulation of adhesiveness of HCC cell via regulation of E-cadherin expression.</p><p>The transcription factor, Hic-5, plays important roles in tumorigenesis and metastasis of human cancers including prostate cancer <xref rid="pone.0018878-Li1" ref-type="bibr">[33]</xref> and breast cancer <xref rid="pone.0018878-Deakin1" ref-type="bibr">[34]</xref>. Hic-5 is also a crucial EMT regulator of cancer cells <xref rid="pone.0018878-Tumbarello1" ref-type="bibr">[20]</xref>, <xref rid="pone.0018878-Tumbarello2" ref-type="bibr">[24]</xref>. Our results demonstrated that overexpression of Pyk2 in Hep3B cells up-regulated the activation of Hic-5 and its focal adhesion localization. Moreover, suppression of Pyk2 activation in MHCC97L cells down-regulated the membrane localization of Hic-5. Hic-5 is a Pyk2-binding protein which is phosphorylated by Pyk2 at tyrosine residue 60 upon physical interaction <xref rid="pone.0018878-Matsuya1" ref-type="bibr">[22]</xref>, <xref rid="pone.0018878-Ishino1" ref-type="bibr">[23]</xref>. Given the role of Hic-5 on cell transformation as reported by other investigators <xref rid="pone.0018878-Avraamides1" ref-type="bibr">[17]</xref>, <xref rid="pone.0018878-Tumbarello2" ref-type="bibr">[24]</xref>, it may be one of contributing factors to the Pyk2-mediated cell transformation in HCC. STAT5b and Twist have been reported to promote aggressiveness and EMT of cancer cells in HCC <xref rid="pone.0018878-Lee1" ref-type="bibr">[16]</xref>, <xref rid="pone.0018878-Lee2" ref-type="bibr">[35]</xref>. In this study, we demonstrated that Pyk2 also regulated the expression of STAT5b and Twist in HCC cells, suggesting a multiple regulatory roles of Pyk2 on EMT associated genes.</p><p>In this study, forced overexpression of Pyk2 in epithelial cancer cell line Hep3B up-regulated the mesenchymal gene expression. However, some of the mesenchymal genes were not up-regulated in this study. This may be explained by the partial mesenchymal characteristics of the Hep3B cells, which resulted in an incomplete induction of EMT by Pyk2. In contrast, suppression of Pyk2 activation in MHCC97L cells resulted in the down-regulation of the expression a series of mesenchymal genes including STAT5b, Twist, N-cadherin and fibroectin. These results showed that Pyk2 regulated the expression of mesenchymal genes and promoted the migratory characteristics of HCC cells which can be attenuated by the forced expression of PRNK to suppress Pyk2 activation. For cells with a mesenchymal phenotype (MHCC97L cells), transfection of PRNK successfully transformed the cells to an epithelial phenotype, with the down-regulation of mesenchymal gene expression and up-regulation of epithelial gene expression. E-cadherin was up-regulated with the down-regulation of N-cadherin. The results showed that suppression of Pyk2 by PRNK transformed the cells from a mesenchymal phenotype, to an epithelial phenotype, by undergoing mesenchymal to epithelial transition (MET). These results confirmed the involvement of Pyk2 in the regulation of EMT of HCC cells.</p><p>Both EMT and MET are important processes in cancer progression. The induction of EMT in cancer cells may enhance their cell motility and invasiveness so that to facilitate the development of metastasis <xref rid="pone.0018878-Teng1" ref-type="bibr">[13]</xref>, <xref rid="pone.0018878-Hay1" ref-type="bibr">[36]</xref>. Subsequently, circulating tumor cells must undergo MET to initiate growth in a secondary site <xref rid="pone.0018878-Hugo1" ref-type="bibr">[37]</xref>. Failure of MET induction in bladder cancer cells resulted in micrometastasis, instead of secondary tumors, as shown by experimental models <xref rid="pone.0018878-Chaffer1" ref-type="bibr">[9]</xref>. Novel therapeutic strategies targeting the MET process could be made to inhibit the development of cancer metastasis by preventing secondary tumor formation. In this study, we had shown that the process of both EMT and MET are regulated by the alternation of Pyk2 activation. Overexpression of Pyk2 in Hep3B cells resulted in the induction of EMT. On the other hand, transfection of PRNK in MHCC97L cells resulted in the induction of MET, suggesting that prevention of focal adhesion by targeting of Pyk2 may transform HCC cells from a mesenchymal phenotype to an epithelial phenotype. However, its underlying mechanism is still unclear and thus considered to be worthwhile for further study. Our previous study also demonstrated that the suppression of Pyk2 by PRNK domain in MHCC97L cells can suppress <italic>in vivo</italic> intrahepatic tumor growth and venous invasion as well as extrahepatic lung metastasis <xref rid="pone.0018878-Sun2" ref-type="bibr">[15]</xref>. Together, our data suggested the possible role of Pyk2 in the regulation of EMT, MET and metastasis in HCC cells.</p><p>Our study demonstrated the important role of Pyk2 on controlling cell motility of HCC cells through regulation of genes associated with both mesenchymal and epithelial transformations. Targeting of Pyk2 should be a promising therapeutic strategy to reduce HCC metastasis.</p></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This study was supported by the General Research Fund (7574/06M) and Collaborative Research Fund (HKU5/CRF/08) of the Research Grant Council Hong Kong. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0018878-Farazi1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farazi</surname><given-names>PA</given-names></name><name><surname>DePinho</surname><given-names>RA</given-names></name></person-group>
+<year>2006</year>
+<article-title>Hepatocellular carcinoma pathogenesis: from genes to environment.</article-title>
+<source>Nat Rev Cancer</source>
+<volume>6</volume>
+<fpage>674</fpage>
+<lpage>687</lpage>
+<pub-id pub-id-type="pmid">16929323</pub-id></element-citation></ref><ref id="pone.0018878-Mathurin1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mathurin</surname><given-names>P</given-names></name><name><surname>Rixe</surname><given-names>O</given-names></name><name><surname>Carbonell</surname><given-names>N</given-names></name><name><surname>Bernard</surname><given-names>B</given-names></name><name><surname>Cluzel</surname><given-names>P</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>Review article: Overview of medical treatments in unresectable hepatocellular carcinoma&#x02013;an impossible meta-analysis?</article-title>
+<source>Aliment Pharmacol Ther</source>
+<volume>12</volume>
+<fpage>111</fpage>
+<lpage>126</lpage>
+</element-citation></ref><ref id="pone.0018878-Kawano1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawano</surname><given-names>Y</given-names></name><name><surname>Sasaki</surname><given-names>A</given-names></name><name><surname>Kai</surname><given-names>S</given-names></name><name><surname>Endo</surname><given-names>Y</given-names></name><name><surname>Iwaki</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Prognosis of patients with intrahepatic recurrence after hepatic resection for hepatocellular carcinoma: A retrospective study.</article-title>
+<source>Eur J Surg Oncol</source>
+</element-citation></ref><ref id="pone.0018878-Liotta1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liotta</surname><given-names>LA</given-names></name></person-group>
+<year>1985</year>
+<article-title>Mechanisms of cancer invasion and metastasis.</article-title>
+<source>Important Adv Oncol</source>
+<fpage>28</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="pmid">2836301</pub-id></element-citation></ref><ref id="pone.0018878-Stracke1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stracke</surname><given-names>ML</given-names></name><name><surname>Liotta</surname><given-names>LA</given-names></name></person-group>
+<year>1992</year>
+<article-title>Multi-step cascade of tumor cell metastasis.</article-title>
+<source>In Vivo</source>
+<volume>6</volume>
+<fpage>309</fpage>
+<lpage>316</lpage>
+<pub-id pub-id-type="pmid">1325842</pub-id></element-citation></ref><ref id="pone.0018878-Larue1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Larue</surname><given-names>L</given-names></name><name><surname>Bellacosa</surname><given-names>A</given-names></name></person-group>
+<year>2005</year>
+<article-title>Epithelial-mesenchymal transition in development and cancer: role of phosphatidylinositol 3&#x02032; kinase/AKT pathways.</article-title>
+<source>Oncogene</source>
+<volume>24</volume>
+<fpage>7443</fpage>
+<lpage>7454</lpage>
+<pub-id pub-id-type="pmid">16288291</pub-id></element-citation></ref><ref id="pone.0018878-Thiery1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thiery</surname><given-names>JP</given-names></name></person-group>
+<year>2002</year>
+<article-title>Epithelial-mesenchymal transitions in tumour progression.</article-title>
+<source>Nat Rev Cancer</source>
+<volume>2</volume>
+<fpage>442</fpage>
+<lpage>454</lpage>
+<pub-id pub-id-type="pmid">12189386</pub-id></element-citation></ref><ref id="pone.0018878-Moustakas1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moustakas</surname><given-names>A</given-names></name><name><surname>Heldin</surname><given-names>CH</given-names></name></person-group>
+<year>2007</year>
+<article-title>Signaling networks guiding epithelial-mesenchymal transitions during embryogenesis and cancer progression.</article-title>
+<source>Cancer Sci</source>
+<volume>98</volume>
+<fpage>1512</fpage>
+<lpage>1520</lpage>
+<pub-id pub-id-type="pmid">17645776</pub-id></element-citation></ref><ref id="pone.0018878-Chaffer1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chaffer</surname><given-names>CL</given-names></name><name><surname>Brennan</surname><given-names>JP</given-names></name><name><surname>Slavin</surname><given-names>JL</given-names></name><name><surname>Blick</surname><given-names>T</given-names></name><name><surname>Thompson</surname><given-names>EW</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Mesenchymal-to-epithelial transition facilitates bladder cancer metastasis: role of fibroblast growth factor receptor-2.</article-title>
+<source>Cancer Res</source>
+<volume>66</volume>
+<fpage>11271</fpage>
+<lpage>11278</lpage>
+<pub-id pub-id-type="pmid">17145872</pub-id></element-citation></ref><ref id="pone.0018878-Huber1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huber</surname><given-names>MA</given-names></name><name><surname>Kraut</surname><given-names>N</given-names></name><name><surname>Beug</surname><given-names>H</given-names></name></person-group>
+<year>2005</year>
+<article-title>Molecular requirements for epithelial-mesenchymal transition during tumor progression.</article-title>
+<source>Curr Opin Cell Biol</source>
+<volume>17</volume>
+<fpage>548</fpage>
+<lpage>558</lpage>
+<pub-id pub-id-type="pmid">16098727</pub-id></element-citation></ref><ref id="pone.0018878-Boivin1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boivin</surname><given-names>D</given-names></name><name><surname>Bilodeau</surname><given-names>D</given-names></name><name><surname>Beliveau</surname><given-names>R</given-names></name></person-group>
+<year>1996</year>
+<article-title>Regulation of cytoskeletal functions by Rho small GTP-binding proteins in normal and cancer cells.</article-title>
+<source>Can J Physiol Pharmacol</source>
+<volume>74</volume>
+<fpage>801</fpage>
+<lpage>810</lpage>
+<pub-id pub-id-type="pmid">8946066</pub-id></element-citation></ref><ref id="pone.0018878-Niu1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Niu</surname><given-names>RF</given-names></name><name><surname>Zhang</surname><given-names>L</given-names></name><name><surname>Xi</surname><given-names>GM</given-names></name><name><surname>Wei</surname><given-names>XY</given-names></name><name><surname>Yang</surname><given-names>Y</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Up-regulation of Twist induces angiogenesis and correlates with metastasis in hepatocellular carcinoma.</article-title>
+<source>J Exp Clin Cancer Res</source>
+<volume>26</volume>
+<fpage>385</fpage>
+<lpage>394</lpage>
+<pub-id pub-id-type="pmid">17987801</pub-id></element-citation></ref><ref id="pone.0018878-Teng1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Teng</surname><given-names>Y</given-names></name><name><surname>Zeisberg</surname><given-names>M</given-names></name><name><surname>Kalluri</surname><given-names>R</given-names></name></person-group>
+<year>2007</year>
+<article-title>Transcriptional regulation of epithelial-mesenchymal transition.</article-title>
+<source>J Clin Invest</source>
+<volume>117</volume>
+<fpage>304</fpage>
+<lpage>306</lpage>
+<pub-id pub-id-type="pmid">17273552</pub-id></element-citation></ref><ref id="pone.0018878-Sun1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>CK</given-names></name><name><surname>Ng</surname><given-names>KT</given-names></name><name><surname>Sun</surname><given-names>BS</given-names></name><name><surname>Ho</surname><given-names>JW</given-names></name><name><surname>Lee</surname><given-names>TK</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>The significance of proline-rich tyrosine kinase2 (Pyk2) on hepatocellular carcinoma progression and recurrence.</article-title>
+<source>Br J Cancer</source>
+<volume>97</volume>
+<fpage>50</fpage>
+<lpage>57</lpage>
+<pub-id pub-id-type="pmid">17551499</pub-id></element-citation></ref><ref id="pone.0018878-Sun2"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>CK</given-names></name><name><surname>Man</surname><given-names>K</given-names></name><name><surname>Ng</surname><given-names>KT</given-names></name><name><surname>Ho</surname><given-names>JW</given-names></name><name><surname>Lim</surname><given-names>ZX</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Proline-rich tyrosine kinase 2 (Pyk2) promotes proliferation and invasiveness of hepatocellular carcinoma cells through c-Src/ERK activation.</article-title>
+<source>Carcinogenesis</source>
+<volume>29</volume>
+<fpage>2096</fpage>
+<lpage>2105</lpage>
+<pub-id pub-id-type="pmid">18765415</pub-id></element-citation></ref><ref id="pone.0018878-Lee1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>TK</given-names></name><name><surname>Man</surname><given-names>K</given-names></name><name><surname>Poon</surname><given-names>RT</given-names></name><name><surname>Lo</surname><given-names>CM</given-names></name><name><surname>Yuen</surname><given-names>AP</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Signal transducers and activators of transcription 5b activation enhances hepatocellular carcinoma aggressiveness through induction of epithelial-mesenchymal transition.</article-title>
+<source>Cancer Res</source>
+<volume>66</volume>
+<fpage>9948</fpage>
+<lpage>9956</lpage>
+<pub-id pub-id-type="pmid">17047057</pub-id></element-citation></ref><ref id="pone.0018878-Avraamides1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Avraamides</surname><given-names>C</given-names></name><name><surname>Bromberg</surname><given-names>ME</given-names></name><name><surname>Gaughan</surname><given-names>JP</given-names></name><name><surname>Thomas</surname><given-names>SM</given-names></name><name><surname>Tsygankov</surname><given-names>AY</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Hic-5 promotes endothelial cell migration to lysophosphatidic acid.</article-title>
+<source>Am J Physiol Heart Circ Physiol</source>
+<volume>293</volume>
+<fpage>H193</fpage>
+<lpage>203</lpage>
+<pub-id pub-id-type="pmid">17337598</pub-id></element-citation></ref><ref id="pone.0018878-Shibanuma1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shibanuma</surname><given-names>M</given-names></name><name><surname>Mashimo</surname><given-names>J</given-names></name><name><surname>Kuroki</surname><given-names>T</given-names></name><name><surname>Nose</surname><given-names>K</given-names></name></person-group>
+<year>1994</year>
+<article-title>Characterization of the TGF beta 1-inducible hic-5 gene that encodes a putative novel zinc finger protein and its possible involvement in cellular senescence.</article-title>
+<source>J Biol Chem</source>
+<volume>269</volume>
+<fpage>26767</fpage>
+<lpage>26774</lpage>
+<pub-id pub-id-type="pmid">7929412</pub-id></element-citation></ref><ref id="pone.0018878-Brown1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>MC</given-names></name><name><surname>Curtis</surname><given-names>MS</given-names></name><name><surname>Turner</surname><given-names>CE</given-names></name></person-group>
+<year>1998</year>
+<article-title>Paxillin LD motifs may define a new family of protein recognition domains.</article-title>
+<source>Nat Struct Biol</source>
+<volume>5</volume>
+<fpage>677</fpage>
+<lpage>678</lpage>
+<pub-id pub-id-type="pmid">9699628</pub-id></element-citation></ref><ref id="pone.0018878-Tumbarello1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tumbarello</surname><given-names>DA</given-names></name><name><surname>Brown</surname><given-names>MC</given-names></name><name><surname>Hetey</surname><given-names>SE</given-names></name><name><surname>Turner</surname><given-names>CE</given-names></name></person-group>
+<year>2005</year>
+<article-title>Regulation of paxillin family members during epithelial-mesenchymal transformation: a putative role for paxillin delta.</article-title>
+<source>J Cell Sci</source>
+<volume>118</volume>
+<fpage>4849</fpage>
+<lpage>4863</lpage>
+<pub-id pub-id-type="pmid">16219691</pub-id></element-citation></ref><ref id="pone.0018878-Nishiya1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nishiya</surname><given-names>N</given-names></name><name><surname>Sabe</surname><given-names>H</given-names></name><name><surname>Nose</surname><given-names>K</given-names></name><name><surname>Shibanuma</surname><given-names>M</given-names></name></person-group>
+<year>1998</year>
+<article-title>The LIM domains of hic-5 protein recognize specific DNA fragments in a zinc-dependent manner in vitro.</article-title>
+<source>Nucleic Acids Res</source>
+<volume>26</volume>
+<fpage>4267</fpage>
+<lpage>4273</lpage>
+<pub-id pub-id-type="pmid">9722648</pub-id></element-citation></ref><ref id="pone.0018878-Matsuya1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matsuya</surname><given-names>M</given-names></name><name><surname>Sasaki</surname><given-names>H</given-names></name><name><surname>Aoto</surname><given-names>H</given-names></name><name><surname>Mitaka</surname><given-names>T</given-names></name><name><surname>Nagura</surname><given-names>K</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>Cell adhesion kinase beta forms a complex with a new member, Hic-5, of proteins localized at focal adhesions.</article-title>
+<source>J Biol Chem</source>
+<volume>273</volume>
+<fpage>1003</fpage>
+<lpage>1014</lpage>
+<pub-id pub-id-type="pmid">9422762</pub-id></element-citation></ref><ref id="pone.0018878-Ishino1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishino</surname><given-names>M</given-names></name><name><surname>Aoto</surname><given-names>H</given-names></name><name><surname>Sasaski</surname><given-names>H</given-names></name><name><surname>Suzuki</surname><given-names>R</given-names></name><name><surname>Sasaki</surname><given-names>T</given-names></name></person-group>
+<year>2000</year>
+<article-title>Phosphorylation of Hic-5 at tyrosine 60 by CAKbeta and Fyn.</article-title>
+<source>FEBS Lett</source>
+<volume>474</volume>
+<fpage>179</fpage>
+<lpage>183</lpage>
+<pub-id pub-id-type="pmid">10838081</pub-id></element-citation></ref><ref id="pone.0018878-Tumbarello2"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tumbarello</surname><given-names>DA</given-names></name><name><surname>Turner</surname><given-names>CE</given-names></name></person-group>
+<year>2007</year>
+<article-title>Hic-5 contributes to epithelial-mesenchymal transformation through a RhoA/ROCK-dependent pathway.</article-title>
+<source>J Cell Physiol</source>
+<volume>211</volume>
+<fpage>736</fpage>
+<lpage>747</lpage>
+<pub-id pub-id-type="pmid">17299801</pub-id></element-citation></ref><ref id="pone.0018878-Klampfer1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klampfer</surname><given-names>L</given-names></name></person-group>
+<year>2008</year>
+<article-title>The role of signal transducers and activators of transcription in colon cancer.</article-title>
+<source>Front Biosci</source>
+<volume>13</volume>
+<fpage>2888</fpage>
+<lpage>2899</lpage>
+<pub-id pub-id-type="pmid">17981761</pub-id></element-citation></ref><ref id="pone.0018878-Quesnelle1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quesnelle</surname><given-names>KM</given-names></name><name><surname>Boehm</surname><given-names>AL</given-names></name><name><surname>Grandis</surname><given-names>JR</given-names></name></person-group>
+<year>2007</year>
+<article-title>STAT-mediated EGFR signaling in cancer.</article-title>
+<source>J Cell Biochem</source>
+<volume>102</volume>
+<fpage>311</fpage>
+<lpage>319</lpage>
+<pub-id pub-id-type="pmid">17661350</pub-id></element-citation></ref><ref id="pone.0018878-Bunting1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bunting</surname><given-names>KD</given-names></name></person-group>
+<year>2007</year>
+<article-title>STAT5 signaling in normal and pathologic hematopoiesis.</article-title>
+<source>Front Biosci</source>
+<volume>12</volume>
+<fpage>2807</fpage>
+<lpage>2820</lpage>
+<pub-id pub-id-type="pmid">17485261</pub-id></element-citation></ref><ref id="pone.0018878-Tse1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tse</surname><given-names>JC</given-names></name><name><surname>Kalluri</surname><given-names>R</given-names></name></person-group>
+<year>2007</year>
+<article-title>Mechanisms of metastasis: epithelial-to-mesenchymal transition and contribution of tumor microenvironment.</article-title>
+<source>J Cell Biochem</source>
+<volume>101</volume>
+<fpage>816</fpage>
+<lpage>829</lpage>
+<pub-id pub-id-type="pmid">17243120</pub-id></element-citation></ref><ref id="pone.0018878-Vleminckx1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vleminckx</surname><given-names>K</given-names></name><name><surname>Vakaet</surname><given-names>L</given-names><suffix>Jr</suffix></name><name><surname>Mareel</surname><given-names>M</given-names></name><name><surname>Fiers</surname><given-names>W</given-names></name><name><surname>van Roy</surname><given-names>F</given-names></name></person-group>
+<year>1991</year>
+<article-title>Genetic manipulation of E-cadherin expression by epithelial tumor cells reveals an invasion suppressor role.</article-title>
+<source>Cell</source>
+<volume>66</volume>
+<fpage>107</fpage>
+<lpage>119</lpage>
+<pub-id pub-id-type="pmid">2070412</pub-id></element-citation></ref><ref id="pone.0018878-Frixen1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frixen</surname><given-names>UH</given-names></name><name><surname>Behrens</surname><given-names>J</given-names></name><name><surname>Sachs</surname><given-names>M</given-names></name><name><surname>Eberle</surname><given-names>G</given-names></name><name><surname>Voss</surname><given-names>B</given-names></name><etal/></person-group>
+<year>1991</year>
+<article-title>E-cadherin-mediated cell-cell adhesion prevents invasiveness of human carcinoma cells.</article-title>
+<source>J Cell Biol</source>
+<volume>113</volume>
+<fpage>173</fpage>
+<lpage>185</lpage>
+<pub-id pub-id-type="pmid">2007622</pub-id></element-citation></ref><ref id="pone.0018878-Birchmeier1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Birchmeier</surname><given-names>W</given-names></name><name><surname>Behrens</surname><given-names>J</given-names></name></person-group>
+<year>1994</year>
+<article-title>Cadherin expression in carcinomas: role in the formation of cell junctions and the prevention of invasiveness.</article-title>
+<source>Biochim Biophys Acta</source>
+<volume>1198</volume>
+<fpage>11</fpage>
+<lpage>26</lpage>
+<pub-id pub-id-type="pmid">8199193</pub-id></element-citation></ref><ref id="pone.0018878-Agiostratidou1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Agiostratidou</surname><given-names>G</given-names></name><name><surname>Hulit</surname><given-names>J</given-names></name><name><surname>Phillips</surname><given-names>GR</given-names></name><name><surname>Hazan</surname><given-names>RB</given-names></name></person-group>
+<year>2007</year>
+<article-title>Differential cadherin expression: potential markers for epithelial to mesenchymal transformation during tumor progression.</article-title>
+<source>J Mammary Gland Biol Neoplasia</source>
+<volume>12</volume>
+<fpage>127</fpage>
+<lpage>133</lpage>
+<pub-id pub-id-type="pmid">17564818</pub-id></element-citation></ref><ref id="pone.0018878-Li1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>X</given-names></name><name><surname>Martinez-Ferrer</surname><given-names>M</given-names></name><name><surname>Botta</surname><given-names>V</given-names></name><name><surname>Uwamariya</surname><given-names>C</given-names></name><name><surname>Banerjee</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Epithelial Hic-5/ARA55 expression contributes to prostate tumorigenesis and castrate responsiveness.</article-title>
+<source>Oncogene</source>
+<volume>30</volume>
+<fpage>167</fpage>
+<lpage>177</lpage>
+<pub-id pub-id-type="pmid">20818421</pub-id></element-citation></ref><ref id="pone.0018878-Deakin1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deakin</surname><given-names>NO</given-names></name><name><surname>Turner</surname><given-names>CE</given-names></name></person-group>
+<year>2010</year>
+<article-title>Distinct roles for Paxillin and Hic-5 in regulating Breast Cancer cell morphology, invasion and metastasis.</article-title>
+<source>Mol Biol Cell</source>
+</element-citation></ref><ref id="pone.0018878-Lee2"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>TK</given-names></name><name><surname>Poon</surname><given-names>RT</given-names></name><name><surname>Yuen</surname><given-names>AP</given-names></name><name><surname>Ling</surname><given-names>MT</given-names></name><name><surname>Kwok</surname><given-names>WK</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Twist overexpression correlates with hepatocellular carcinoma metastasis through induction of epithelial-mesenchymal transition.</article-title>
+<source>Clin Cancer Res</source>
+<volume>12</volume>
+<fpage>5369</fpage>
+<lpage>5376</lpage>
+<pub-id pub-id-type="pmid">17000670</pub-id></element-citation></ref><ref id="pone.0018878-Hay1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hay</surname><given-names>ED</given-names></name></person-group>
+<year>1995</year>
+<article-title>An overview of epithelio-mesenchymal transformation.</article-title>
+<source>Acta Anat (Basel)</source>
+<volume>154</volume>
+<fpage>8</fpage>
+<lpage>20</lpage>
+<pub-id pub-id-type="pmid">8714286</pub-id></element-citation></ref><ref id="pone.0018878-Hugo1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hugo</surname><given-names>H</given-names></name><name><surname>Ackland</surname><given-names>ML</given-names></name><name><surname>Blick</surname><given-names>T</given-names></name><name><surname>Lawrence</surname><given-names>MG</given-names></name><name><surname>Clements</surname><given-names>JA</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Epithelial--mesenchymal and mesenchymal--epithelial transitions in carcinoma progression.</article-title>
+<source>J Cell Physiol</source>
+<volume>213</volume>
+<fpage>374</fpage>
+<lpage>383</lpage>
+<pub-id pub-id-type="pmid">17680632</pub-id></element-citation></ref></ref-list></back></article>

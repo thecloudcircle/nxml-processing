@@ -1,0 +1,751 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1582-4934</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31904910</article-id><article-id pub-id-type="pmc">7028867</article-id><article-id pub-id-type="doi">10.1111/jcmm.14933</article-id><article-id pub-id-type="publisher-id">JCMM14933</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>CXCR4 or CXCR7 antagonists treat endometriosis by reducing bone marrow cell trafficking</article-title><alt-title alt-title-type="left-running-head">PLUCHINO et al.</alt-title></title-group><contrib-group><contrib id="jcmm14933-cr-0001" contrib-type="author"><name><surname>Pluchino</surname><given-names>Nicola</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7475-9082</contrib-id><xref ref-type="aff" rid="jcmm14933-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14933-cr-0002" contrib-type="author" corresp="yes"><name><surname>Mamillapalli</surname><given-names>Ramanaiah</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4022-8910</contrib-id><xref ref-type="aff" rid="jcmm14933-aff-0001">
+<sup>1</sup>
+</xref><address><email>ramana.mamillapalli@yale.edu</email></address></contrib><contrib id="jcmm14933-cr-0003" contrib-type="author"><name><surname>Shaikh</surname><given-names>Shafiq</given-names></name><xref ref-type="aff" rid="jcmm14933-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14933-cr-0004" contrib-type="author"><name><surname>Habata</surname><given-names>Shutaro</given-names></name><xref ref-type="aff" rid="jcmm14933-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14933-cr-0005" contrib-type="author"><name><surname>Tal</surname><given-names>Aya</given-names></name><xref ref-type="aff" rid="jcmm14933-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14933-cr-0006" contrib-type="author"><name><surname>Gaye</surname><given-names>Marie</given-names></name><xref ref-type="aff" rid="jcmm14933-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14933-cr-0007" contrib-type="author"><name><surname>Taylor</surname><given-names>Hugh S.</given-names></name><xref ref-type="aff" rid="jcmm14933-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jcmm14933-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Obstetrics, Gynecology and Reproductive Sciences</named-content>
+<institution>Yale School of Medicine</institution>
+<city>New Haven</city>
+<named-content content-type="country-part">CT</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Ramanaiah Mamillapalli, Department of Obstetrics, Gynecology and Reproductive Sciences, Yale School of Medicine, 333 Cedar Street, New Haven, CT 06520, USA.<break/>
+Email: <email>ramana.mamillapalli@yale.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>1</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>2</month><year>2020</year></pub-date><volume>24</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/jcmm.v24.4</issue-id><fpage>2464</fpage><lpage>2474</lpage><history><date date-type="received"><day>17</day><month>7</month><year>2019</year></date><date date-type="rev-recd"><day>29</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>25</day><month>11</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Journal of Cellular and Molecular Medicine</italic> published by Foundation for Cellular and Molecular Medicine and John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JCMM-24-2464.pdf"/><abstract id="jcmm14933-abs-0001"><title>Abstract</title><p>Adult stem cells have a major role in endometrial physiology, including remodelling and repair. However, they also have a critical role in the development and progression of endometriosis. Bone marrow&#x02010;derived stem cells engraft eutopic endometrium and endometriotic lesions, differentiating to both stromal and epithelial cell fates. Using a mouse bone marrow transplantation model, we show that bone marrow&#x02010;derived cells engrafting endometriosis express CXCR4 and CXCR7. Targeting either receptor by the administration of small molecule receptor antagonists AMD3100 or CCX771, respectively, reduced BM&#x02010;derived stem cell recruitment into endometriosis implants. Endometriosis lesion size was decreased compared to vehicle controls after treatment with each antagonist in both an early growth and established lesion treatment model. Endometriosis lesion size was not effected when the local effects of CXCL12 were abrogated using uterine&#x02010;specific CXCL12 null mice, suggesting an effect primarily on bone marrow cell migration rather than a direct endometrial effect. Antagonist treatment also decreased hallmarks of endometriosis physiopathology such as pro&#x02010;inflammatory cytokine production and vascularization. CXCR4 and CXCR7 antagonists are potential novel, non&#x02010;hormonal therapies for endometriosis.</p></abstract><kwd-group><kwd id="jcmm14933-kwd-0001">AMD3100</kwd><kwd id="jcmm14933-kwd-0002">BMDSC</kwd><kwd id="jcmm14933-kwd-0003">bone marrow&#x02010;derived stem cells</kwd><kwd id="jcmm14933-kwd-0004">CCX771</kwd><kwd id="jcmm14933-kwd-0005">CXCR4</kwd><kwd id="jcmm14933-kwd-0006">CXCR7</kwd><kwd id="jcmm14933-kwd-0007">endometriosis</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Institutes of Health </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000002</institution-id></institution-wrap></funding-source><award-id>NIH U54 HD052668</award-id><award-id>R01 HD076422</award-id></award-group></funding-group><counts><fig-count count="5"/><table-count count="0"/><page-count count="11"/><word-count count="7577"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:18.02.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm14933-cit-1001">
+<string-name>
+<surname>Pluchino</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mamillapalli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Shaikh</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>CXCR4 or CXCR7 antagonists treat endometriosis by reducing bone marrow cell trafficking</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2020</year>;<volume>24</volume>:<fpage>2464</fpage>&#x02013;<lpage>2474</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.14933</pub-id>
+</mixed-citation>
+</p><fn-group id="jcmm14933-ntgp-0001"><fn fn-type="equal" id="jcmm14933-note-0001"><p>Nicola Pluchino&#x000a0;and&#x000a0;Ramanaiah Mamillapalli contributed equally.</p></fn></fn-group></notes></front><body id="jcmm14933-body-0001"><sec id="jcmm14933-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Endometriosis is a common, chronic inflammatory disorder affecting 5%&#x02010;15% of women in the reproductive age range.<xref rid="jcmm14933-bib-0001" ref-type="ref">1</xref>, <xref rid="jcmm14933-bib-0002" ref-type="ref">2</xref> It is characterized by the growth of endometrial tissue in ectopic locations, causing pain and infertility. In addition, endometriosis has a significant social and psychological impact on the lives of women, 63% of whom report serious negative impact on their quality of life.<xref rid="jcmm14933-bib-0003" ref-type="ref">3</xref>, <xref rid="jcmm14933-bib-0004" ref-type="ref">4</xref> The yearly costs of endometriosis treatment exceed $22 billion in the United States alone.<xref rid="jcmm14933-bib-0005" ref-type="ref">5</xref> There is currently no endometriosis specific treatment available. While surgery and medications for symptomatic pain relief are commonly used treatments, all current disease&#x02010;modifying medical therapies function by altering sex steroid hormones.<xref rid="jcmm14933-bib-0006" ref-type="ref">6</xref>
+</p><p>Bone marrow&#x02010;derived stem cells (BMDSCs) are involved in the pathogenesis of the disease and contribute to the development of endometriotic lesions.<xref rid="jcmm14933-bib-0007" ref-type="ref">7</xref> BM&#x02010;derived stem cells participate in epithelial and stromal regeneration in endometrial tissue<xref rid="jcmm14933-bib-0008" ref-type="ref">8</xref> and endometriotic lesions,<xref rid="jcmm14933-bib-0009" ref-type="ref">9</xref>, <xref rid="jcmm14933-bib-0010" ref-type="ref">10</xref> and they are also likely the principal source of extra&#x02010;pelvic endometriosis.<xref rid="jcmm14933-bib-0007" ref-type="ref">7</xref>, <xref rid="jcmm14933-bib-0010" ref-type="ref">10</xref> Further, BM&#x02010;derived endothelial progenitor cells (EPCs) also contribute to endometriosis vascularization.<xref rid="jcmm14933-bib-0011" ref-type="ref">11</xref>, <xref rid="jcmm14933-bib-0012" ref-type="ref">12</xref> We have recently demonstrated a functional role of bone marrow&#x02010;derived stem cells in pregnancy.<xref rid="jcmm14933-bib-0013" ref-type="ref">13</xref>
+</p><p>In cancer models, signals from the tumour microenvironment systemically stimulate quiescent bone marrow compartments, resulting in the expansion, mobilization and recruitment of BM&#x02010;derived cells<xref rid="jcmm14933-bib-0014" ref-type="ref">14</xref>, <xref rid="jcmm14933-bib-0015" ref-type="ref">15</xref> with a clear role in tumour development.<xref rid="jcmm14933-bib-0014" ref-type="ref">14</xref>, <xref rid="jcmm14933-bib-0016" ref-type="ref">16</xref> C&#x02010;X&#x02010;C motif chemokine ligand 12 (CXCL12) is one of the best&#x02010;characterized chemokines active in mobilization of BM&#x02010;derived stem cells in cancer and inflammation.<xref rid="jcmm14933-bib-0015" ref-type="ref">15</xref> In the endometriosis niche, CXCL12 participates in epithelial/glandular cell proliferation,<xref rid="jcmm14933-bib-0017" ref-type="ref">17</xref>, <xref rid="jcmm14933-bib-0018" ref-type="ref">18</xref> vasculogenesis and angiogenesis.<xref rid="jcmm14933-bib-0019" ref-type="ref">19</xref> CXCR4, a G protein&#x02010;coupled receptor (GPCR), is a receptor for CXCL12 expressed by bone marrow&#x02010;derived mesenchymal stem cells. CXCL12&#x02010;CXCR4 signalling is increased in women with endometriosis<xref rid="jcmm14933-bib-0020" ref-type="ref">20</xref>, <xref rid="jcmm14933-bib-0021" ref-type="ref">21</xref> and has been established as a crucial signal for BMDCs migration to endometriosis.<xref rid="jcmm14933-bib-0022" ref-type="ref">22</xref>
+</p><p>CXCR7, also a GPCR, was recently identified as another receptor for CXCL12.<xref rid="jcmm14933-bib-0023" ref-type="ref">23</xref>, <xref rid="jcmm14933-bib-0024" ref-type="ref">24</xref> CXCR7 is phylogenetically closely related to other chemokine receptors and binds CXCL12 with a higher affinity than CXCR4, but it fails to couple to G proteins to induce typical chemokine receptor&#x02010;mediated cellular responses.<xref rid="jcmm14933-bib-0025" ref-type="ref">25</xref> CXCR7 has been demonstrated to regulate cell migration and survival through several pathways that include ligand scavenging, direct signal transduction and direct interaction with CXCR45.<xref rid="jcmm14933-bib-0026" ref-type="ref">26</xref>, <xref rid="jcmm14933-bib-0027" ref-type="ref">27</xref>, <xref rid="jcmm14933-bib-0028" ref-type="ref">28</xref> CXCR4 activation promotes tumour growth and metastasis in cancer,<xref rid="jcmm14933-bib-0029" ref-type="ref">29</xref>, <xref rid="jcmm14933-bib-0030" ref-type="ref">30</xref> and recent preclinical studies have shown similar effects for CXCR7.<xref rid="jcmm14933-bib-0028" ref-type="ref">28</xref>, <xref rid="jcmm14933-bib-0031" ref-type="ref">31</xref>, <xref rid="jcmm14933-bib-0032" ref-type="ref">32</xref> Agents blocking chemokine signalling by binding to these receptors are currently being developed for cancer therapy<xref rid="jcmm14933-bib-0027" ref-type="ref">27</xref>, <xref rid="jcmm14933-bib-0033" ref-type="ref">33</xref> (eg ClinicalTrials.gov identifier NCT02179970, NCT02737072), supporting an evaluation of their efficacy in endometriosis. Given the central role of the CXCL12/CXCR4/CXCR7 axis on BMDCs trafficking and in the pathogenesis of endometriosis, we hypothesized that blocking CXCR4 or CXCR7 in endometriosis using a reproductive and immune&#x02010;competent murine model would inhibit the growth of endometriosis. Both CXCR4 and CXCR7 may represent new targets for regulating BMDCs engraftment into endometriosis with potential therapeutic applications.</p></sec><sec sec-type="materials-and-methods" id="jcmm14933-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jcmm14933-sec-0003"><label>2.1</label><title>Animals</title><p>C57BL/6J wild&#x02010;type and ubiquitin&#x02010;GFP mice were purchased from Charles River Laboratories and The Jackson Laboratory, respectively. Mice were housed and maintained (four to five per cage) in a room (21&#x000a0;&#x000b1;&#x000a0;1C) with a 12&#x02010;hour light/dark cycle (7:00&#x000a0;<sc>am</sc> to 7:00&#x000a0;<sc>pm</sc>) with ad libitum access to food (Purina Chow; Purina Mills) and water, in the Yale Animal Resources Center (YARC) at Yale School of Medicine. Oestrous cyclicity was evaluated by vaginal cytology before endometriosis induction in order to transplant all tissue in dioestrus phase. In addition, oestrous cyclicity was evaluated during injection of vehicle or treatment to investigate any potential effect on the oestrous cycle. All animal experiments were conducted in accordance with approved protocols from Institutional Animal Care and Use Committee (IACUC) of Yale University. IACUC guidelines were clearly followed for animal care, 5FU treatments, bone marrow cell injections, blood collection and anaesthesia.</p></sec><sec id="jcmm14933-sec-0004"><label>2.2</label><title>Conditional knockout of CXCL12 uterus of mice</title><p>Mice expressing Cre recombinase under control of the progesterone receptor (PGR) promoter were crossed to CXCL12<italic><sup>fl/fl</sup></italic> homozygotes (Jackson Laboratories stock numbers 017915 and 021773, respectively). Mice were genotyped to confirm targeted deletion of CXCL12 in PGR&#x02010;expressing tissues using PGR&#x02010;Cre specific primers (5&#x02032;&#x02010;agttattgctgcccagttgc&#x02010;3&#x02032;, 5&#x02032;&#x02010;cccttctca tggagatctgtc&#x02010;3&#x02032;, 5&#x02032;&#x02010;gcgctaaggatgactctggtc&#x02010;3&#x02032;) and CXCL12<italic><sup>fl/fl</sup></italic>&#x02010;specific primers (5&#x02032;&#x02010;ctgcaccaggca gataatga&#x02010;3&#x02032;, 5&#x02032;&#x02010;tttggacaccagaaccttga&#x02010;3&#x02032;). Uteri from PGR&#x02010;Cre+/CXCL12<italic><sup>&#x02212;</sup></italic>
+<sup>/</sup>
+<italic><sup>&#x02212;</sup></italic> and CXCL12<italic><sup>fl/fl</sup></italic> controls to be used for endometriosis induction (EI) were analysed for expression of total <italic>CXCL12</italic> transcript levels using the primer set 5&#x02032;&#x02010;tgcccttcagattgttgcacg&#x02010;3&#x02032; and 5&#x02032;&#x02010;ggctgttgtgcttacttgtttaaagc&#x02010;3&#x02032;, with GAPDH primers 5&#x02032;&#x02010;gcctgcttcaccaccttctt&#x02010;3&#x02032; and 5&#x02032;&#x02010;atggccttccgtgttcctac&#x02010;3&#x02032;. Uteri from CXCL12<italic><sup>fl/fl</sup></italic> or PGR&#x02010;Cre+/CXCL12<italic><sup>&#x02212;</sup></italic>
+<sup>/</sup>
+<italic><sup>&#x02212;</sup></italic> mice were sutured onto cycling wild&#x02010;type females (n&#x000a0;=&#x000a0;4 and n&#x000a0;=&#x000a0;10 hosts, respectively). Four weeks after EI, lesions were extracted, and total lesion area was measured using ImageJ software after subtracting cyst area. Mean&#x000a0;&#x000b1;&#x000a0;standard error of the mean (SEM) was calculated for the various experiments using GraphPad Prism 6 (GraphPad Software). An unpaired <italic>t</italic> test was used to compare lesion size in the two groups.</p></sec><sec id="jcmm14933-sec-0005"><label>2.3</label><title>BM conditioning and transplantation</title><p>Six&#x02010;week&#x02010;old female C57BL/6J wild&#x02010;type mice received 125&#x000a0;mg/kg of 5&#x02010;FU by i.p injections 6&#x000a0;days and 1&#x000a0;day before bone marrow transplantation (BMT). In addition, stem cell factor (SCF, 50&#x000a0;mg/kg) was injected i.p twice before BMT, as we have previously described.<xref rid="jcmm14933-bib-0034" ref-type="ref">34</xref> Transplantation of fresh BM cells was performed as described previously.<xref rid="jcmm14933-bib-0009" ref-type="ref">9</xref> Briefly, bone marrow cells were obtained from 6&#x02010; to 10&#x02010;week&#x02010;old C57BL/6J ubiquitin&#x02010;GFP male donor mice by flushing the marrow from femurs and tibias into cold sterile PBS and filtered through 70&#x02010;&#x003bc;m cell strainer (BD Biosciences, San Jose, CA, USA). The yield and viability of BM cells were determined by trypan blue staining. Next, 20&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> unfractionated BM cells were iv injected to recipients 6&#x000a0;days after the beginning of BM conditioning. Lesions were stained for Ki&#x02010;67 proliferation marker as described below.</p></sec><sec id="jcmm14933-sec-0006"><label>2.4</label><title>Induction of endometriosis in mice</title><p>Endometriosis in mice was surgically induced under aseptic conditions and anaesthesia using a modified method previously described.<xref rid="jcmm14933-bib-0010" ref-type="ref">10</xref>, <xref rid="jcmm14933-bib-0035" ref-type="ref">35</xref> Surgery was performed 30&#x000a0;days following BMT. Uterine horns were removed from wild&#x02010;type female donor mice at dioestrus (low oestrogen stage), opened longitudinally, cut into fragments of 3&#x02010;mm and transplanted onto the peritoneal wall of recipient mice by suturing. Three uterus fragments from wild&#x02010;type mice as well as CXCL12<sup>&#x02212;/&#x02212;</sup> were systematically transplanted into peritoneal wall of each mouse. After treatments, ectopic lesions were collected. Ectopic lesion volume was calculated as a half ellipsoid that approximated lesion shape on the peritoneum, using formula V&#x000a0;=&#x000a0;(1/2) (4/3)&#x003c0;r1<sup>2</sup>r2 (r1 and r2 are radii, r1&#x000a0;&#x0003c;&#x000a0;r2).<xref rid="jcmm14933-bib-0036" ref-type="ref">36</xref> Sham mice were subjected to the surgery, but in place of suturing uterine tissue, peritoneal tissue from the ventral midline was used. Sham mice did not receive any treatment.</p></sec><sec id="jcmm14933-sec-0007"><label>2.5</label><title>Endometrial cell culture</title><p>Human endometrial tissue was obtained from consenting subjects with a diagnosis of endometriosis under a protocol approved by the Yale Institutional Review Board (IRB). Primary cell cultures were prepared from the tissue collected from endometrium of endometriosis patients (n&#x000a0;=&#x000a0;7). The finely minced tissue was incubated in Hanks balanced salt solution containing 4&#x02010;(2&#x02010;hydroxyethyl)&#x02010;1&#x02010;piperazineethanesulfonic acid (HEPES; 25&#x000a0;mm), 1% penicillin/streptomycin, collagenase (1&#x000a0;mg/mL, 15&#x000a0;U/mg) and DNase (0.1&#x000a0;mg/mL, 1500&#x000a0;U/mg) for 45&#x000a0;minutes at 37_C with agitation. During and at the end of the incubation, the tissue was pipetted gently to disperse the cells every 15&#x000a0;minutes. Endometrial cells were pelleted, washed and suspended in Ham's Dulbecco's modified Eagle medium: nutrient mixture F&#x02010;12 (DMEM/F12) (1:1) containing 10% foetal bovine serum (FBS), 1% penicillin/ streptomycin and 1% amphotericin B. A mixture of endometrial cells (epithelial and stromal) was passed through a 40&#x02010;mm sieve, which allowed stromal cells to pass through while epithelial cells are retained on the sieve (Millipore, Billerica, Massachusetts). The stromal cells were cultured and treated with AMD3100 (25&#x000a0;&#x000b5;g/mL) at 50% of cell confluence and cell proliferation determined by counting the number of cells on day 1 and day 6. All the experiments were carried out three times, each in duplicate. Untreated cell count on day 1 and day 6 taken 100%.</p></sec><sec id="jcmm14933-sec-0008"><label>2.6</label><title>In vivo CCX771 and AMD3100 treatment</title><p>The ligand CCX771 (30&#x000a0;mg/kg body weight) kindly provided by ChemoCentryx (Mountain View, CA, USA) or vehicle (10% Captisol) was administered daily (s.c) in 100&#x000a0;&#x003bc;L vehicle throughout the treatment period. AMD3100 (5&#x000a0;mg/kg) from Sigma&#x02010;Aldrich was administered daily (s.c) in 100&#x000a0;&#x003bc;L vehicle.<xref rid="jcmm14933-bib-0037" ref-type="ref">37</xref>
+</p></sec><sec id="jcmm14933-sec-0009"><label>2.7</label><title>Flow cytometry analysis of murine endometriosis</title><p>Endometriosis lesions were removed, finely minced and subsequently digested with a solution of Hanks' balanced salt solution (Life Technologies Inc) containing HEPES (25&#x000a0;mmol/L), collagenase B (1&#x000a0;mg/mL; Roche Diagnostics) and deoxyribonuclease I (0.1&#x000a0;mg/mL; Sigma&#x02010;Aldrich) for 60&#x02010;90&#x000a0;minutes at 37&#x000b0;C. All samples were filtered through 70&#x02010;micron mesh and centrifuged at 300&#x000a0;<italic>g</italic> at 4&#x000b0;C for 5&#x000a0;minutes. Cell suspensions were stained with fluorescently conjugated antibodies to CD45 (catalog #103116; BioLegend). Flow cytometry was performed on a fluorescence&#x02010;activated cell sorting Beckman Coulter MoFlo machine (Beckman Coulter) using the corresponding excitation wavelength for GFP and CD45. Gates were applied to forward scatter/side scatter dot plots to exclude non&#x02010;viable cells and cell debris. Data were analysed using the software FlowJo V10 (FlowJo).</p></sec><sec id="jcmm14933-sec-0010"><label>2.8</label><title>Immunohistochemistry and immunofluorescence</title><p>Tissue from endometriotic lesions was fixed in 4% paraformaldehyde and embedded in paraffin. Five&#x02010;micrometre tissue sections were mounted on slides followed by 10&#x000a0;minutes boiling in sodium citrate (pH 6) for antigen retrieval, and blocking using 10% serum (Vector Laboratories). Tissue sections on slides were incubated at 4&#x000b0;C overnight with anti&#x02010;CXCR7 primary antibody (catalog #MAB42273&#x02010;SP; Clone 11G8, 1:1000; R &#x00026; D Systems) or anti&#x02010;CD31 (catalog #ab28364; 1:300) or anti&#x02010;Ki&#x02010;67 (catalog #ab15580; 1:1000; Abcam) followed by 30&#x000a0;minutes at room temperature with appropriate biotinylated secondary antibody (1:200; Vector Laboratories), and detection used ABC Vectastain Elite reagents with DAB plus H<sub>2</sub>O<sub>2</sub> (catalog #SK&#x02010;4105; Vector Laboratories). Tissue sections were counterstained with haematoxylin (Sigma&#x02010;Aldrich). Images of stained sections were captured using Olympus BX&#x02010;51 microscope (Olympus). For colocalization of GFP&#x02010;positive BMDCs by immunofluorescence, sections were incubated with the following primary antibodies purchased from Abcam: polyclonal anti&#x02010;GFP antibody (catalog #ab6673; 1:1000), anti&#x02010;CD45 (catalog #ab25386; 1:300), anti&#x02010;Sca&#x02010;1 (catalog #701919, Invitrogen; 1:400), anti&#x02010;CD31 (1:200), anti&#x02010;CXCR4 (catalog #PA3&#x02010;305; 1:300), anti&#x02010;CXCR7 (1:500, # MAB42273, R&#x00026;D Systems), anti&#x02010;CXCL12 (catalog #ab18919; 1:300) and anti&#x02010;F4/80 (catalog #ab111101; 1:160). Secondary antibodies used were Alexa Fluor 568&#x02010;conjugated donkey anti&#x02010;goat (catalog #A11057) and Alexa Fluor 488&#x02010;conjugated donkey anti&#x02010;rabbit (catalog #A21206) or Alexa Fluor 647&#x02010;conjugated donkey anti&#x02010;rat (catalog #ab150155) or Alexa Fluor 488&#x02010;conjugated donkey anti&#x02010;rat (catalog #A21208) or Alexa Fluor 488&#x02010;conjugated goat antimouse (catalog #A28175), all in 1:200 dilution (Life Technologies). Sections were mounted under coverslips using Vectashield fluorescent mounting media with 46&#x02010;diamidino&#x02010;2&#x02010;phenylindole (DAPI) (catalog #H&#x02010;1200; Vector Laboratories.) Isotype controls were used to confirm the specificity of CXCR4, CXCR7 and CXCL12 by immunofluorescence studies with rabbit IgG antibody (Abcam, #37415) for CXCR4 and CXCL12 or mouse IgG1 (#&#x000a0;MAB002, R &#x00026; D Systems) shown in Figure <xref rid="jcmm14933-sup-0001" ref-type="supplementary-material">S1</xref>. Visualization of the slides was performed using a laser scanning confocal microscope (LSM 710; Zeiss) and the ZEN software (Carl Zeiss). Stained cells were quantified by monitoring the average numbers of positively stained cells relative to the total number of cells from six randomly chosen fields.</p></sec><sec id="jcmm14933-sec-0011"><label>2.9</label><title>Apoptosis assays</title><p>The TUNEL assay was performed to assess the apoptosis activity in ectopic lesions sections with the In situ Apoptosis Detection Kit (Abcam, catalog #ab206386) according to the manufacturer's instructions. The TUNEL reaction preferentially labels DNA strand breaks generated during apoptosis and allows discrimination of apoptosis from necrosis. In this assay, terminal deoxynucleotidyl transferase (TdT) binds to exposed 3&#x02032;&#x02010;OH ends of DNA and are detected using a anti&#x02010;digoxigenin&#x02010;conjugated HRP. Diaminobenzidine (DAB) reacts with the HRP&#x02010;labelled sample to generate an insoluble coloured (brown) substrate at the site of DNA fragmentation. Briefly, deparaffinized and rehydrated ectopic lesion tissue sections were permeabilized using protease K (20&#x000a0;&#x003bc;g/mL, Sigma) for 30&#x000a0;minutes at room temperature and endogenous peroxidases were inactivated with 3% H<sub>2</sub>O<sub>2</sub> for 10&#x000a0;minutes at room temperature. After two washes with immunoassay buffer, sections were incubated with TdT enzyme for 2&#x000a0;hours and the reaction was stopped with blocking buffer for 10&#x000a0;minutes and then incubated with anti&#x02010;digoxigenin&#x02010;conjugated HRP and diaminobenzidine (DAB) solution for 30 and 20&#x000a0;minutes, respectively. DAB reacts with the HRP&#x02010;labelled sample to generate an insoluble coloured (brown) substrate at the site of DNA fragmentation. Sections were dehydrated and placed cover slips with fluorescent mounting medium. All washes between each step were performed with buffer. Slides were analysed with fluorescence microscopy. (Leica, DM 5000B; Leica CTR 5000; Germany).</p></sec><sec id="jcmm14933-sec-0012"><label>2.10</label><title>Quantitative real&#x02010;time polymerase chain reaction (qRT&#x02010;PCR)</title><p>Total RNA was isolated from endometriotic lesions by TRIzol reagent (Life Technologies) followed by purification using Quiagen cleaning kit (Valencia, CA, USA) to prepare cDNA with 50&#x000a0;ng RNA in a 20&#x000a0;&#x003bc;L reaction mixture by iScript cDNA Synthesis Kit (Bio&#x02010;Rad Laboratories). Quantitative real&#x02010;time PCR was performed to quantify gene expression using specific primers and SYBR Green (Bio&#x02010;Rad) and optimized in the MyiQ Single Color Real&#x02010;Time PCR Detection System (Bio&#x02010;Rad). The specificity of the amplified transcript and absence of primer&#x02010;dimers was confirmed by a melting curve analysis. Gene expression was normalized to the expression of &#x003b2;&#x02010;actin for each sample. Relative mRNA expression for each gene was calculated using the comparative cycle threshold (Ct) method, also known as the 2<sup>&#x02212;&#x00394;&#x00394;C(T)</sup> method.<xref rid="jcmm14933-bib-0038" ref-type="ref">38</xref> All experiments were carried out in triplicate and nuclease&#x02010;free water was used as a negative control replacing the cDNA template.</p></sec><sec id="jcmm14933-sec-0013"><label>2.11</label><title>Statistical analysis</title><p>Data were analysed using GraphPad Prism 7.0 (GraphPad Software Inc). An unpaired Student's <italic>t</italic> test for percentage of labelled cells (PLC) or one&#x02010;way ANOVA for cell counts and RT&#x02010;PCR data was used to determine statistical significance. Data are expressed as means&#x000a0;&#x000b1;&#x000a0;standard error (SE).</p></sec></sec><sec sec-type="results" id="jcmm14933-sec-0014"><label>3</label><title>RESULTS</title><sec id="jcmm14933-sec-0015"><label>3.1</label><title>BMDSCs engrafting endometriosis express CXCR4, CXCR7 and stem cell markers</title><p>To characterize BMDSCs engrafting endometriosis in vivo, we used a 5&#x02010;FU&#x02010;based submyeloablation mouse bone marrow transplantation model according to our previously published protocol.<xref rid="jcmm14933-bib-0034" ref-type="ref">34</xref> This method results in efficient bone marrow donor chimerism (approximately 50% donor&#x02010;derived cells) while preserving ovarian function and fertility. Previous studies on BMDCs trafficking in endometriosis have relied on sub&#x02010;lethal irradiation as conditioning for BMT with resulting loss of ovarian function, oestrous cyclicity,<xref rid="jcmm14933-bib-0009" ref-type="ref">9</xref>, <xref rid="jcmm14933-bib-0011" ref-type="ref">11</xref>, <xref rid="jcmm14933-bib-0039" ref-type="ref">39</xref>, <xref rid="jcmm14933-bib-0040" ref-type="ref">40</xref> dysfunctional immune signalling<xref rid="jcmm14933-bib-0041" ref-type="ref">41</xref> and blood flow.<xref rid="jcmm14933-bib-0042" ref-type="ref">42</xref> Preserving gonadal activity is crucial because models of murine endometriosis using reproductive and immuno&#x02010;competent mice show the same endocrine features of human disease, namely aberrant oestrogen signalling and progesterone resistance.<xref rid="jcmm14933-bib-0043" ref-type="ref">43</xref>, <xref rid="jcmm14933-bib-0044" ref-type="ref">44</xref> Moreover, gonadal steroids regulate the CXCL12&#x02010;CXCR4 axis in endometrium and endometriosis.<xref rid="jcmm14933-bib-0045" ref-type="ref">45</xref>, <xref rid="jcmm14933-bib-0046" ref-type="ref">46</xref> Thus, BMT from GFP&#x02010;positive donors allowed the investigation of the contribution of BMDCs mobilization and engraftment in endometriosis. We have previously demonstrated that GFP+ BM cells contain an immune population derived from haematopoietic system cells that are CD45+. As haematopoietic cells, all immune cells originate from the bone marrow, and the extensive contribution of immune in endometriosis pathophysiology has been documented. Further, CD45&#x02010; bone marrow&#x02010;derived cells in mice are a heterogenous population that includes BM stromal cells, endothelial progenitor cells and mesenchymal stem cells<xref rid="jcmm14933-bib-0047" ref-type="ref">47</xref> and are identified by their surface markers.<xref rid="jcmm14933-bib-0048" ref-type="ref">48</xref>, <xref rid="jcmm14933-bib-0049" ref-type="ref">49</xref> CD45&#x02010; cells of BM origin contribute to endometriosis development. Here we observed the engraftment of bone marrow&#x02010;derived stem cells (BMDSCs), characterized as CD45&#x02010;/GFP+/Sca1+, to endometriotic lesions as shown in Figure <xref rid="jcmm14933-sup-0002" ref-type="supplementary-material">S2</xref>. While characterized here by immune staining alone, we have previously shown that these engrafted cells can give rise to adipogenic, osteogenic and chondrogenic lineages.<xref rid="jcmm14933-bib-0047" ref-type="ref">47</xref>
+</p><p>Treatment for bone marrow conditioning (BMC) started on day &#x02212;36 before uterine fragment grafting and 6&#x000a0;days before bone marrow transplantation (BMT) as shown in (Figure <xref rid="jcmm14933-fig-0001" ref-type="fig">1</xref>A). Flow cytometry analysis of single cell suspensions from endometriotic lesions, 15 and 30&#x000a0;days after BMT, demonstrated no significant difference in the number of GFP&#x000a0;+&#x000a0;BMDCs between 15&#x000a0;days (11.5&#x000a0;&#x000b1;&#x000a0;2.4%) and 30&#x000a0;days (10.3&#x000a0;&#x000b1;&#x000a0;2.1, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 vs day 15) (Figure <xref rid="jcmm14933-fig-0001" ref-type="fig">1</xref>B). Bone marrow (BM)&#x02010;derived cells are known to express chemokine receptors<xref rid="jcmm14933-bib-0050" ref-type="ref">50</xref> including CXCR4<xref rid="jcmm14933-bib-0016" ref-type="ref">16</xref> Using immunofluorescence, we revealed that in endometriosis CXCR4 labelled up to 50% of the total endometriosis cell population (Figure <xref rid="jcmm14933-fig-0001" ref-type="fig">1</xref>C). To identify bone marrow&#x02010;derived MSCs expressing CXCR4, we counted GFP/CXCR4 double&#x02010;positive cells; BM&#x02010;derived GFP+ cells that colocalized with CXCR4 represented 4.4&#x000a0;&#x000b1;&#x000a0;0.7% of total cells (Figure <xref rid="jcmm14933-fig-0001" ref-type="fig">1</xref>C); however, a substantial number (approximately 15%) of BM&#x02010;derived cells did not express CXCR4 at the time of assay. In contrast, only 1.4&#x000a0;&#x000b1;&#x000a0;0.7% of total cells showed colocalization of GFP with CXCR7, although up to 11% of total endometriosis stromal cells expressed CXCR7 (Figure <xref rid="jcmm14933-fig-0001" ref-type="fig">1</xref>D). Remarkably, a small percentage of BMDCs engrafting endometriotic lesions expressed CXCL12 (0.1&#x000a0;&#x000b1;&#x000a0;0.02% of total cells) (Figure <xref rid="jcmm14933-fig-0001" ref-type="fig">1</xref>E). No GFP (bone marrow&#x02010;derived cells) was found in the epithelium (Figure <xref rid="jcmm14933-fig-0002" ref-type="fig">2</xref>A). Also, we noticed that some engrafted bone marrow&#x02010;derived cells were positive for CD45 and some of them were simultaneously positive for F4/80, a marker for macrophages (Figure <xref rid="jcmm14933-fig-0002" ref-type="fig">2</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14933-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>A model of 5&#x02010;FU submyeloablation to characterize the bone marrow cell trafficking into endometriotic lesions in mice. Schematic model: Treatment for bone marrow conditioning (BMC) started on day &#x02212;36 before uterine fragment grafting and 6&#x000a0;days before bone marrow transplantation (BMT) (A). Ectopic lesions were harvested 15 and 30&#x000a0;days (each group n&#x000a0;=&#x000a0;6) after grafting uterine fragments into the peritoneal. Representative images of flow cytometry analysis of ectopic lesion cells on day 15 and 30 after uterine fragment grafting demonstrating the percentage of GFP&#x02010;positive cells in endometriosis. B, Control group (n&#x000a0;=&#x000a0;6 mice), represented by GFP&#x02010;negative endometriosis lesions, was used to set a gate. Fluorescence confocal microscopy analysis of mouse endometriosis sections (C, D and E). Representative images of IF and quantitative analyses of cells expressing CXCR4, CXCR7 or CXCL12 and GFP, as a per cent of total endometriosis cells. Murine lesions were stained with anti&#x02010;GFP antibody (green) and co&#x02010;stained with CXCR4 antibody (red) (C), with CXCR7 antibody (red) (D) and with CXCL12 antibody (red) (E). Nuclei were stained by DAPI and are shown in blue. BMC, Bone morrow conditioning; BMT, Bone morrow transplantation; PLC, percentage of labelled cells. Results shown as mean&#x000a0;&#x000b1;&#x000a0;SE. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 vs vehicle. Scale bar: 20&#x000a0;&#x003bc;m</p></caption><graphic id="nlm-graphic-1" xlink:href="JCMM-24-2464-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="jcmm14933-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Immunostaining of CXCR4, CXCR7 and CXCL12 and BMDCs. A, Representative immunofluorescence images of CXCR4, CXCR7 and CXCL12 staining in the epithelial cells of murine endometriosis. In our model, no GFP (bone marrow&#x02010;derived cells) was identified in the epithelium. Scale bar: 10&#x000a0;&#x003bc;m. B, Engrafted BMDCs express CD45 and F4/80. BMDCs: Engrafted bone marrow&#x02010;derived immune cells (BMDCs) were stained with DAPI or immunofluorescence for CD45 and F4/80. Engrafted BMDCs shows the presence of non&#x02010;immune (CD45 negative) and immune cells (CD45 positive), some of which co&#x02010;express F4/80, a marker of macrophages. Included is a cell that is a bone marrow&#x02010;derived (GFP+), CD45+, F4/80+ macrophage (arrow) Scale bar: 10&#x000a0;&#x003bc;m</p></caption><graphic id="nlm-graphic-3" xlink:href="JCMM-24-2464-g002"/></fig></sec><sec id="jcmm14933-sec-0016"><label>3.2</label><title>Pharmacological antagonism of CXCR4 or CXCR7 reduced the engrafting of BMDSCs into endometriosis</title><p>The high expression of CXCL12 in endometriosis and expression of CXCR4 and CXCR7 in BMDCs suggested that CXCL12 might serve to regulate BMDCs trafficking towards endometriosis. To test this hypothesis in our murine model, we administered the small molecule CCX771, a CXCR7 antagonist,<xref rid="jcmm14933-bib-0051" ref-type="ref">51</xref> AMD3100 (Plerixafor), a CXCR4 antagonist, or vehicle control for 15&#x000a0;days (day 1&#x02010;15 after graft) (Figure <xref rid="jcmm14933-fig-0003" ref-type="fig">3</xref>A). We showed that of total endometriosis cells, the majority of BMDCs engrafting endometriosis were CD45<sup>&#x02212;</sup> compared to CD45+ cells (leucocytes) as shown in Figure <xref rid="jcmm14933-fig-0003" ref-type="fig">3</xref>B. AMD3100 significantly reduced the engraftment of GFP+ cells in endometriosis including GFP&#x000a0;+&#x000a0;CD45<sup>+</sup> leucocytes and GFP&#x000a0;+&#x000a0;CD45<sup>&#x02212;</sup> BMDSCs, consistent with a reduction of recruitment of total BMDCs in the lesions. Similarly, CCX771 reduced total GFP<sup>+</sup> cells significantly in endometriosis including GFP<sup>+</sup>CD45<sup>+</sup> and GFP<sup>+</sup>CD45<sup>&#x02212;</sup> cells (Figure <xref rid="jcmm14933-fig-0003" ref-type="fig">3</xref>C). Taken together, these findings demonstrate that targeting CXCR4 or CXCR7 reduced BMDCs engraftment, with a marked predominance for BM cells not expressing the pan&#x02010;leucocyte protein CD45. Blocking CXCL12 activity on its receptor greatly reduced BMDCs engraftment in endometriosis.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14933-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Targeting CXCR4 or CXCR7 reduced BMDCs engraftment of endometriosis. Schematic model: treatment for bone marrow conditioning (BMC) started on day &#x02212;36 before grafting uterine fragments and 6&#x000a0;days before bone marrow transplantation (BMT) (A). Treatment with AMD3100, CCX771 or vehicle (three groups, each group n&#x000a0;=&#x000a0;6 mice) started on day 1 after grafting uterine fragments into the peritoneal cavity (day 0). Ectopic lesions were harvested after 15&#x000a0;days of treatment. B, Representative images of flow cytometry analysis of ectopic lesion cells after treatment showing the percentage of GFP&#x02010;positive cells in endometriotic lesions. Control, represented by GFP&#x02010;negative endometriosis lesion stained with CD45 isotype, was used to set gates (B). Fluorescence confocal microscopy analysis of mouse endometriosis sections. Representative images of IF and quantitative analyses of cells expressing CD45 (C) or CD31 (D) and GFP, as a per cent of total cells, following treatment. Nuclei were stained by DAPI and are shown in blue. PLC, percentage of labelled cells. BMC, Bone morrow conditioning. BMT: Bone morrow transplantation. Results shown as mean&#x000a0;&#x000b1;&#x000a0;SE. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 vs vehicle. Scale bar: 20&#x000a0;&#x003bc;m</p></caption><graphic id="nlm-graphic-5" xlink:href="JCMM-24-2464-g003"/></fig><p>To further characterize BMDCs affected by AMD3100 and CXC771 treatment, we investigated the endometriosis engraftment of BM&#x02010;derived endothelial cells expressing CD31. We confirmed the contribution of BM to endometriosis vascularization as previously reported.<xref rid="jcmm14933-bib-0052" ref-type="ref">52</xref> Specifically, although a small percentage of GFP<sup>+</sup>CD31<sup>+</sup> cells engrafted endometriosis (0.6&#x000a0;&#x000b1;&#x000a0;0.1%), the presence of these cells in murine endometriosis was significantly reduced after treatment with either AMD3100 (0.18&#x000a0;&#x000b1;&#x000a0;0.04%) or CCX771 (0.3&#x000a0;&#x000b1;&#x000a0;0.1%) (Figure <xref rid="jcmm14933-fig-0003" ref-type="fig">3</xref>D).</p></sec><sec id="jcmm14933-sec-0017"><label>3.3</label><title>Pharmacological antagonism of CXCR4 or CXCR7 led to the regression of endometriosis</title><p>To investigate whether targeting CXCR4 or CXCR7 could have clinical application, we examined volumetric and molecular changes of endometriotic lesions following treatment. We first used an early growth model (treatment over days 1&#x02010;15 after graft placement) to examine the effectiveness of AMD3100 and CCX771 in preventing ectopic lesion establishment. (Figure <xref rid="jcmm14933-fig-0004" ref-type="fig">4</xref>A). Either AMD3100 or CCX771 treatment prevented the development of endometriosis following the engraftment of donor uteri fragments in normal cycling mice. Treatment with AMD3100 or CCX771 resulted in more than a 50% reduction of the lesion volume after 15&#x000a0;days comparing either agent to vehicle treated controls. There were no significant differences between the two active treatments (Figure <xref rid="jcmm14933-fig-0004" ref-type="fig">4</xref>B). IHC labelling confirmed reduction in Ki&#x02010;67 expression in the stroma following both treatments whereas only CCX771 reduced epithelial Ki&#x02010;67 expression (Figure <xref rid="jcmm14933-fig-0004" ref-type="fig">4</xref>C). Both treatments reduced the vessel density by 40% in endometriosis determined by IHC staining (Figure <xref rid="jcmm14933-fig-0004" ref-type="fig">4</xref>D). Treatment was also associated with a decline in mRNA expression of several pro&#x02010;inflammatory cytokines including IL&#x02010;6, TNF&#x02010;&#x003b1;, IL&#x02010;1&#x003b2; and TGF&#x02010;&#x003b2;, known to be highly expressed in endometriosis. Both treatments reduced the mRNA expression of vascular endothelial growth factor A (VEGF&#x02010;A) and matrix metalloproteinase MMP2 and MMP9. CCX771 had no effect on IL&#x02010;6 or COX&#x02010;2 expression in this model (Figure <xref rid="jcmm14933-fig-0004" ref-type="fig">4</xref>E).</p><fig fig-type="Figure" xml:lang="en" id="jcmm14933-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Targeting CXCR4 or CXCR7 reduced endometriosis development. Early growth model: AMD3100 or CCX771 or vehicle (three groups, each group n&#x000a0;=&#x000a0;6 mice) injection started on day 1 after uterine fragments into the peritoneal cavity (day 0) of wild&#x02010;type animals (A). Ectopic lesions were harvested after 15&#x000a0;days of treatment. Representative pictures of ectopic lesions isolated from wild&#x02010;type mice with endometriosis subcutaneously treated with either vehicle or receptor antagonists (B). Lesion volume measurement after 15&#x000a0;days of treatment. IHC and quantitative analyses of the expression patterns of Ki&#x02010;67 in epithelial or stromal cells of ectopic lesions of wild&#x02010;type mice after treatment (C). Scale bar: 50&#x000a0;&#x003bc;m. IHC, and quantification of microvessel density of ectopic lesions of wild&#x02010;type mice treated with ligands or vehicle using CD31 staining (D). Scale bar: 100&#x000a0;&#x003bc;m. Expression of IL&#x02010;6, TNF&#x02010;&#x003b1;, IL&#x02010;1&#x003b2;, TGF&#x02010;&#x003b2;, COX&#x02010;2, VEGEF&#x02010;A and MMP2, MMP9 in ectopic lesions was analysed by quantitative reverse transcription PCR (qRT&#x02010;PCR) after 15&#x000a0;days of treatment. mRNA levels are expressed relative to transcript level in ectopic lesions of mice treated with vehicle (E), set at 1.0. Results showed as mean&#x000a0;&#x000b1;&#x000a0;SE. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 vs vehicle</p></caption><graphic id="nlm-graphic-7" xlink:href="JCMM-24-2464-g004"/></fig><p>In order to further test our hypothesis, treatment with AMD3100 and CCX771 was started after ectopic lesions were already established in recipient mice (treatment over days 15&#x02010;30 after graft placement) (Figure <xref rid="jcmm14933-fig-0005" ref-type="fig">5</xref>A). This more closely models the pre&#x02010;existing lesions found in humans at the time of endometriosis diagnosis. Both treatments reduced the vessel density in endometriosis determined by IHC staining and VEGF&#x02010;A mRNA expression (Figure <xref rid="jcmm14933-fig-0005" ref-type="fig">5</xref>C). Consistent with the results presented above, both AMD3100 and CCX771 reduced endometriosis lesion volume by 60% (Figure <xref rid="jcmm14933-fig-0005" ref-type="fig">5</xref>B) and cell proliferation by 70% in the stromal compartment as determined by ki&#x02010;67 staining (Figure <xref rid="jcmm14933-fig-0005" ref-type="fig">5</xref>D). Both treatments also increased apoptosis as determined by TUNEL assay (Figure <xref rid="jcmm14933-fig-0005" ref-type="fig">5</xref>E). CCX771 treatment increased the apoptosis significantly both in stroma and epithelium while AMD3100 reduced only stromal apoptosis. Moreover, the administration of either drug (d15&#x02010;d30 after graft) reduced the expression of pro&#x02010;inflammatory cytokines such as IL&#x02010;1&#x003b2;, IL&#x02010;6 and TNF&#x02010;&#x003b1;, COX&#x02010;2 and invasion pathway proteins MMP2 and MMP9 as shown in Figure <xref rid="jcmm14933-fig-0005" ref-type="fig">5</xref>F, confirming our hypothesis that CXCR4&#x02010;CXCR7 may treat endometriosis and endometriosis&#x02010;associated inflammation.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14933-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Targeting CXCR4 or CXCR7 induced the regression of endometriosis. Treatment model: AMD3100 or CCX771 or vehicle was subcutaneously injected into three groups of mice separately (each group n&#x000a0;=&#x000a0;6 mice) of mice starting on day 15 after grafting uterine fragment into the peritoneal cavity (day 0) of wild&#x02010;type animals (A). Ectopic lesions were harvested after 15&#x000a0;days of treatment (day 30). Representative pictures of ectopic lesions isolated from wild&#x02010;type mice with endometriosis subcutaneously treated with either vehicle or receptor antagonists (B). Lesion volume measurement after 15&#x000a0;days of treatment. IHC, and quantification of microvessel density of ectopic lesions of wild&#x02010;type mice treated with ligands or vehicle using CD31 staining (C). Scale bar: 100&#x000a0;&#x003bc;m. IHC and quantitative analyses of the expression patterns of Ki&#x02010;67 in epithelial or stromal cells of ectopic lesions of wild&#x02010;type mice after treatment (D). Scale bar: 50&#x000a0;&#x003bc;m. Representative pictures and quantification of deoxynucleotidyl transferase&#x02010;mediated deoxyuridine triphosphate nick end labelling (TUNEL) assays in epithelial and stroma cells (E) (the number of TUNEL&#x02010;positive stained cells are shown in the bar graphs as percentage to the total cells). Scale bar: 50&#x000a0;&#x003bc;m. Expression of IL&#x02010;1&#x003b2;, IL&#x02010;6, TNF&#x02010;&#x003b1;, COX&#x02010;2 and MMP&#x02010;2 and MMP&#x02010;9 in ectopic lesions was analysed by quantitative reverse transcription PCR (RT&#x02010;PCR) after 15&#x000a0;days of treatment (F). mRNA levels are expressed relative to transcript level in ectopic lesions of mice treated with vehicle, set at 1.0. Results show mean&#x000a0;&#x000b1;&#x000a0;SE. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 vs vehicle</p></caption><graphic id="nlm-graphic-9" xlink:href="JCMM-24-2464-g005"/></fig><p>In addition, the oestrous cycle was evaluated during injection of vehicle, AMD3100 and CCX771, to investigate any potential effects on mice oestrous. Phase identification was performed by vaginal cytology. No significant changes in the length of each oestrous cycle stage were recorded in animals receiving either drug, supporting the absence of systemic endocrine effects and demonstrating that the effects of these agents worked thorough a hormone independent pathway targeting stem cell recruitment.</p></sec><sec id="jcmm14933-sec-0018"><label>3.4</label><title>No significant change in lesion size in endometriosis from uterine&#x02010;specific CXCL12 null mice</title><p>To assure that the effects of treatment was due to blockade of BMDC recruitment and not local effects of endometrial cell&#x02010;derived CXCL12, we repeated these experiments creating endometriosis derived from uterine&#x02010;specific CXCL12 null mice. Uteri of PGR&#x02010;Cre+/CXCL12<italic><sup>&#x02212;</sup></italic>
+<sup>/</sup>
+<italic><sup>&#x02212;</sup></italic> mice demonstrated dramatically decreased CXCL12 mRNA relative to CXCL12<italic><sup>fl/fl</sup></italic> controls (<italic>P</italic>&#x000a0;=&#x000a0;.037) (Figure <xref rid="jcmm14933-sup-0003" ref-type="supplementary-material">S3</xref>a). When these uteri were used in our endometriosis model, lesions still grew to sizes comparable to those of CXCL12<italic><sup>fl/fl</sup></italic> controls (0.762&#x000a0;&#x000b1;&#x000a0;0.104&#x000a0;mm<sup>2</sup>, n&#x000a0;=&#x000a0;35 lesions vs 0.547&#x000a0;&#x000b1;&#x000a0;0.118&#x000a0;mm<sup>2</sup>, n&#x000a0;=&#x000a0;12 lesions, respectively, <italic>P</italic>&#x000a0;=&#x000a0;NS) (Figure <xref rid="jcmm14933-sup-0003" ref-type="supplementary-material">S3</xref>b) and exhibited comparable cycle&#x02010;matched proliferation (Figure <xref rid="jcmm14933-sup-0003" ref-type="supplementary-material">S3</xref>c), suggesting that expression of CXCL12 by the endometriosis lesion is not essential for lesion development.</p></sec><sec id="jcmm14933-sec-0019"><label>3.5</label><title>In vitro studies on primary endometrial cells from endometriosis patients and AMD3100</title><p>To further evaluate the effect of AMD3100 directly on endometrial cells, primary endometrial cells stromal from women with endometriosis were treated with AMD3100. No significant changes in cell proliferation were observed when primary endometrial cells from endometriosis patients were treated with AMD3100 compared to untreated cells as shown in Figure <xref rid="jcmm14933-sup-0004" ref-type="supplementary-material">S4</xref>. AMD3100 did not directly affect endometrial cells, further supporting the effect of AMD3100 specifically on BMDCs.</p></sec></sec><sec sec-type="discussion" id="jcmm14933-sec-0020"><label>4</label><title>DISCUSSION</title><p>Interaction of CXCL12 with its G protein&#x02010;coupled receptors CXCR4 and CXCR7 plays a crucial role during embryonic development, tissue repair as well as in many pathologic processes. Activation of the CXCL12&#x02010;CXCR4&#x02010;CXCR7 signalling axis in endometriosis is associated with dysfunctional chemotaxis, increased cell proliferation, angiogenesis and reduced autophagy.<xref rid="jcmm14933-bib-0018" ref-type="ref">18</xref>, <xref rid="jcmm14933-bib-0053" ref-type="ref">53</xref> Characterization and the role of bone marrow mesenchymal stem cells in translation research has been extensively studied.<xref rid="jcmm14933-bib-0054" ref-type="ref">54</xref>, <xref rid="jcmm14933-bib-0055" ref-type="ref">55</xref>, <xref rid="jcmm14933-bib-0056" ref-type="ref">56</xref>, <xref rid="jcmm14933-bib-0057" ref-type="ref">57</xref> The present findings show that endometriosis development is associated with a significant engraftment of BMDCs, that are mostly CD45&#x02212; and only a small percentage are CD31+; these data provide evidence of the relative contribution of bone marrow&#x02010;derived lineages to murine endometriosis lesion establishment and thus confirming the pivotal role of BM&#x02010;derived cells not belonging to haematopoietic system in endometriosis early growth and progression. Notably, up to 30% of BMDCs in murine endometriosis expressed CXCR4, and 25% expressed CXCR7. In addition, our model of BM transplant was designed to preserve ovarian function and oestrogen production necessary for endometriosis development. The BM transplant resulted in approximately 50% chimerism; a higher percentage of BM&#x02010;derived stem cells is likely to have engrafted the lesions as we expect that unmarked endogenous BM cells also were recruited. Given the degree of chimerism, we estimate that the number of BM&#x02010;derived cells is approximately twice that measured directly as GFP+ cells.</p><p>A number of mechanisms may explain the increased CXCL12 production and stem cell recruitment in endometriosis. Hypoxia, an hallmark of endometriosis, induces CXCL12 expression.<xref rid="jcmm14933-bib-0058" ref-type="ref">58</xref> Similarly, aberrant oestrogen signalling and progesterone resistance further amplified CXCL12&#x02010;CXCR4 axis activation in endometrial cells and endometriosis.<xref rid="jcmm14933-bib-0045" ref-type="ref">45</xref>, <xref rid="jcmm14933-bib-0046" ref-type="ref">46</xref> Targeting CXCR4 or CXCR7 using AMD3100 or CCX771, respectively, in this preclinical model of endometriosis was effective in preventing and treating ectopic lesions by affecting BM cell engraftment. We demonstrated that both compounds efficiently reduced homing of BM&#x02010;derived CD45+ and CD45&#x02212; cells in endometriosis. Chronic treatment of AMD3100 efficiently blocks BM CXCR4+ cell trafficking and homing in other medical conditions<xref rid="jcmm14933-bib-0058" ref-type="ref">58</xref> and our results further support this hypothesis and extend it to endometriosis. As approved for clinical use, AMD3100 is used to block CXCR4 on BM stem cells. These cells are no longer attracted to the CXCL12 produced at high levels in bone marrow; this allows bone marrow stem cell mobilization. In a similar manner, AMD3100 also blocks chemoattraction of bone marrow stem cells to CXCL12 produced by endometriosis.</p><p>The CXCL12&#x02010;CXC4&#x02010;CXCR7 axis has a crucial role in vascular remodelling and endothelial function, including angiogenesis and vasculogenesis,<xref rid="jcmm14933-bib-0059" ref-type="ref">59</xref>, <xref rid="jcmm14933-bib-0060" ref-type="ref">60</xref> and both processes have been also described in murine endometriosis.<xref rid="jcmm14933-bib-0044" ref-type="ref">44</xref> AMD3100 and CCX771 have been described as potent anti&#x02010;angiogenesis drugs.<xref rid="jcmm14933-bib-0046" ref-type="ref">46</xref>, <xref rid="jcmm14933-bib-0061" ref-type="ref">61</xref> We showed here that both treatments reduce vessel density and VEGF&#x02010;A expression in endometriosis. We do not exclude the possibility that actions of these agents other than BMDC recruitment and engraftment may have also contributed to their ability to treat endometriosis. These drugs may also have acted directly on their receptors expressed in endometriosis. Both treatments may also exert activity by acting on endometriosis&#x02010;associated vasculature expressing CXCR4 and CXCR7. Further, not all of the actions of CXCRs are mediated through GPCR and there may be additional mechanisms driving the effects seen. We did not observe any significant changes in lesion size or volume when we used the CXCL12 knockout uterus as donor tissue compared to CXCL12 floxed mice. Elimination of local endometrial CXCL12 suggests that the effect of AMD3100 in blocking CXCL12 is not a direct effect endometrial cells; rather, bone marrow cell mobilization and recruitment to endometriosis is likely mediated by systemic CXCL12 and the impact on bone marrow&#x02010;derived cells. Confirming this observation, our in vitro studies showed that there was no significant effect of AMD3100 on endometrial stromal cells from endometriosis patients. AMD3100 likely exerts its effects on endometriosis through BMDSCs. Similarly, blocking CXCR7 by CCX771 reduces angiogenesis in vivo interrupting the pro&#x02010;angiogenic CXCL12&#x02010;CXCR7 autocrine loop exerted by activated endothelial cells.<xref rid="jcmm14933-bib-0062" ref-type="ref">62</xref> Additional studies using CXCR4 and CXCR7 knockout mouse donor tissue would clarify the role of specific cell populations in endometriosis regression following AMD3100 and CCX771 treatment.</p><p>In conclusion, in a preclinical model of endometriosis, we showed that targeting the CXCL12&#x02010;CXCR4&#x02010;CXCR7 axis blocks bone marrow&#x02010;derived stem cell recruitment. Treatment leads to regression of both new and established lesions. Bone marrow&#x02010;derived stem cell recruitment is likely necessary for endometriosis lesion maintenance, and blocking trafficking of these cells treats the disease. Both drugs exhibited similar efficacy. Clinical use will likely depend on side effect profile; the effects of prolonged use are not well characterized. In addition, these therapies may have off&#x02010;target effects on other tissues; the specificity of these treatments to endometriosis has not been evaluated in these studies. CXCR4 and CXCR7 antagonists are promising novel, non&#x02010;hormonal therapies for endometriosis.</p></sec><sec sec-type="COI-statement" id="jcmm14933-sec-0022"><title>CONFLICT OF INTEREST</title><p>All authors declare no conflict of interest.</p></sec><sec id="jcmm14933-sec-0023"><title>AUTHOR CONTRIBUTIONS</title><p>Taylor HS, Pluchino N and Mamillapalli R critically revised the manuscript and designed this study. Pluchino N, Shaikh S and Mamillapalli R performed the acquisition, analysis and interpretation of the data: Tal A helped in CXCL12 knockout experiments while Habata S and Gaye M helped in immunofluorescence experiments. Taylor HS revised the manuscript critically and finally approved the version to be published. All authors have read and approved the final manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jcmm14933-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="JCMM-24-2464-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm14933-sup-0002"><caption><p>&#x000a0;</p></caption><media xlink:href="JCMM-24-2464-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm14933-sup-0003"><caption><p>&#x000a0;</p></caption><media xlink:href="JCMM-24-2464-s003.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm14933-sup-0004"><caption><p>&#x000a0;</p></caption><media xlink:href="JCMM-24-2464-s004.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jcmm14933-sec-0021"><title>ACKNOWLEDGEMENTS</title><p>This work was supported by the NIH (NIH U54 HD052668 and R01 HD076422 to H.T). We thank Ying Lu for help in FACS experiments, Reshef Tal for suggestions in experiments. We thank Tran Dang for technical help and proof reading manuscript.</p></ack><sec sec-type="data-availability" id="jcmm14933-sec-0025"><title>DATA AVAILABILITY STATEMENT</title><p>Dr Taylor HS and Dr Mamillapalli R had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.</p></sec><ref-list content-type="cited-references" id="jcmm14933-bibl-0001"><title>REFERENCES</title><ref id="jcmm14933-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0001">
+<string-name>
+<surname>Giudice</surname>
+<given-names>LC</given-names>
+</string-name>, <article-title>Clinical practice. Endometriosis</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2010</year>;<volume>362</volume>:<fpage>2389</fpage>&#x02010;<lpage>2398</lpage>.<pub-id pub-id-type="pmid">20573927</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0002">
+<string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Osteen</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name>
+<surname>Bruner&#x02010;Tran</surname>
+<given-names>KL</given-names>
+</string-name>, et al. <article-title>Novel therapies targeting endometriosis</article-title>. <source xml:lang="en">Reproductive sciences (Thousand Oaks, Calif)</source>. <year>2011</year>;<volume>18</volume>:<fpage>814</fpage>&#x02010;<lpage>823</lpage>.</mixed-citation></ref><ref id="jcmm14933-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0003">
+<string-name>
+<surname>Culley</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Law</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hudson</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>The social and psychological impact of endometriosis on women's lives: a critical narrative review</article-title>. <source xml:lang="en">Hum Reprod Update</source>. <year>2013</year>;<volume>19</volume>:<fpage>625</fpage>&#x02010;<lpage>639</lpage>.<pub-id pub-id-type="pmid">23884896</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0004">
+<string-name>
+<surname>Pluchino</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Wenger</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Petignat</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Sexual function in endometriosis patients and their partners: effect of the disease and consequences of treatment</article-title>. <source xml:lang="en">Hum Reprod Update</source>. <year>2016</year>;<volume>22</volume>:<fpage>762</fpage>&#x02010;<lpage>774</lpage>.<pub-id pub-id-type="pmid">27591248</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0005">
+<string-name>
+<surname>Simoens</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hummelshoj</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>D'Hooghe</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Endometriosis: cost estimates and methodological perspective</article-title>. <source xml:lang="en">Hum Reprod Update</source>. <year>2007</year>;<volume>13</volume>:<fpage>395</fpage>&#x02010;<lpage>404</lpage>.<pub-id pub-id-type="pmid">17584822</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0006">
+<string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Giudice</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Lessey</surname>
+<given-names>BA</given-names>
+</string-name>, et al. <article-title>Treatment of endometriosis&#x02010;associated pain with elagolix, an oral GnRH antagonist</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2017</year>;<volume>377</volume>:<fpage>28</fpage>&#x02010;<lpage>40</lpage>.<pub-id pub-id-type="pmid">28525302</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0007">
+<string-name>
+<surname>Pluchino</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Endometriosis and stem cell trafficking</article-title>. <source xml:lang="en">Reprod Sci</source>. <year>2016</year>;<volume>23</volume>:<fpage>1616</fpage>&#x02010;<lpage>1619</lpage>.<pub-id pub-id-type="pmid">27821558</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0008">
+<string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Endometrial cells derived from donor stem cells in bone marrow transplant recipients</article-title>. <source xml:lang="en">JAMA</source>. <year>2004</year>;<volume>292</volume>:<fpage>81</fpage>&#x02010;<lpage>85</lpage>.<pub-id pub-id-type="pmid">15238594</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0009">
+<string-name>
+<surname>Du</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Contribution of bone marrow&#x02010;derived stem cells to endometrium and endometriosis</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2007</year>;<volume>25</volume>:<fpage>2082</fpage>&#x02010;<lpage>2086</lpage>.<pub-id pub-id-type="pmid">17464086</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0010">
+<string-name>
+<surname>Sakr</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Naqvi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Komm</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Endometriosis impairs bone marrow&#x02010;derived stem cell recruitment to the uterus whereas bazedoxifene treatment leads to endometriosis regression and improved uterine stem cell engraftment</article-title>. <source xml:lang="en">Endocrinology</source>. <year>2014</year>;<volume>155</volume>:<fpage>1489</fpage>&#x02010;<lpage>1497</lpage>.<pub-id pub-id-type="pmid">24484171</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0011">
+<string-name>
+<surname>Becker</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Beaudry</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Funakoshi</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Circulating endothelial progenitor cells are up&#x02010;regulated in a mouse model of endometriosis</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>2011</year>;<volume>178</volume>:<fpage>1782</fpage>&#x02010;<lpage>1791</lpage>.<pub-id pub-id-type="pmid">21435458</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0012">
+<string-name>
+<surname>Laschke</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Elitzsch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vollmar</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Menger</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>In vivo analysis of angiogenesis in endometriosis&#x02010;like lesions by intravital fluorescence microscopy</article-title>. <source xml:lang="en">Fertil Steril</source>. <year>2005</year>;<volume>84</volume>(<issue>Suppl 2</issue>):<fpage>1199</fpage>&#x02010;<lpage>1209</lpage>.<pub-id pub-id-type="pmid">16210012</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0013">
+<string-name>
+<surname>Tal</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Shaikh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pallavi</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Adult bone marrow progenitors become decidual cells and contribute to embryo implantation and pregnancy</article-title>. <source xml:lang="en">PLoS Biol</source>. <year>2019</year>;<volume>17</volume>:<elocation-id>e3000421</elocation-id>.<pub-id pub-id-type="pmid">31513564</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0014">
+<string-name>
+<surname>Gao</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Mittal</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>The role of bone&#x02010;marrow&#x02010;derived cells in tumor growth, metastasis initiation and progression</article-title>. <source xml:lang="en">Trends Mol Med</source>. <year>2009</year>;<volume>15</volume>:<fpage>333</fpage>&#x02010;<lpage>343</lpage>.<pub-id pub-id-type="pmid">19665928</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0015">
+<string-name>
+<surname>Quante</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tu</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Tomita</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Bone marrow&#x02010;derived myofibroblasts contribute to the mesenchymal stem cell niche and promote tumor growth</article-title>. <source xml:lang="en">Cancer Cell</source>. <year>2011</year>;<volume>19</volume>:<fpage>257</fpage>&#x02010;<lpage>272</lpage>.<pub-id pub-id-type="pmid">21316604</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0016">
+<string-name>
+<surname>Kidd</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Spaeth</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Watson</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Origins of the tumor microenvironment: Quantitative assessment of adipose&#x02010;derived and bone marrow&#x02010;derived stroma</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2012</year>;<volume>7</volume>:<elocation-id>e30563</elocation-id>.<pub-id pub-id-type="pmid">22363446</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0017">
+<string-name>
+<surname>Tsutsumi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Okada</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nakamoto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Okamoto</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Yasuda</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kanzaki</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Estrogen induces stromal cell&#x02010;derived factor 1 (SDF&#x02010;1/CXCL12) production in human endometrial stromal cells: a possible role of endometrial epithelial cell growth</article-title>. <source xml:lang="en">Fertil Steril</source>. <year>2011</year>;<volume>95</volume>:<fpage>444</fpage>&#x02010;<lpage>447</lpage>.<pub-id pub-id-type="pmid">20869048</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0018">
+<string-name>
+<surname>Reis</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Petraglia</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>RN</given-names>
+</string-name>. <article-title>Endometriosis: hormone regulation and clinical consequences of chemotaxis and apoptosis</article-title>. <source xml:lang="en">Hum Reprod Update</source>. <year>2013</year>;<volume>19</volume>:<fpage>406</fpage>&#x02010;<lpage>418</lpage>.<pub-id pub-id-type="pmid">23539633</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0019">
+<string-name>
+<surname>Laschke</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Giebels</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Menger</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Vasculogenesis: a new piece of the endometriosis puzzle</article-title>. <source xml:lang="en">Hum Reprod Update</source>. <year>2011</year>;<volume>17</volume>:<fpage>628</fpage>&#x02010;<lpage>636</lpage>.<pub-id pub-id-type="pmid">21586449</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0020">
+<string-name>
+<surname>Leconte</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chouzenoux</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Nicco</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Role of the CXCL12&#x02010;CXCR4 axis in the development of deep rectal endometriosis</article-title>. <source xml:lang="en">J Reprod Immunol</source>. <year>2014</year>;<volume>103</volume>:<fpage>45</fpage>&#x02010;<lpage>52</lpage>.<pub-id pub-id-type="pmid">24534089</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0021">
+<string-name>
+<surname>Virani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Childs</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tayade</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Blocking of stromal cell&#x02010;derived factor&#x02010;1 reduces neoangiogenesis in human endometriosis lesions in a mouse model</article-title>. <source xml:lang="en">Am J Reprod Immunol</source>. <year>2013</year>;<volume>70</volume>:<fpage>386</fpage>&#x02010;<lpage>397</lpage>.<pub-id pub-id-type="pmid">23650939</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0022">
+<string-name>
+<surname>Moridi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Mamillapalli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cosar</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ersoy</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Bone marrow stem cell chemotactic activity is induced by elevated CXCl12 in endometriosis</article-title>. <source xml:lang="en">Reprod Sci</source>. <year>2017</year>;<volume>24</volume>:<fpage>526</fpage>&#x02010;<lpage>533</lpage>.</mixed-citation></ref><ref id="jcmm14933-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0023">
+<string-name>
+<surname>Sierro</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Biben</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Martinez&#x02010;Munoz</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Disrupted cardiac development but normal hematopoiesis in mice deficient in the second CXCL12/SDF&#x02010;1 receptor, CXCR7</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2007</year>;<volume>104</volume>:<fpage>14759</fpage>&#x02010;<lpage>14764</lpage>.<pub-id pub-id-type="pmid">17804806</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0024">
+<string-name>
+<surname>Balabanian</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lagane</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Infantino</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The chemokine SDF&#x02010;1/CXCL12 binds to and signals through the orphan receptor RDC1 in T lymphocytes</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2005</year>;<volume>280</volume>:<fpage>35760</fpage>&#x02010;<lpage>35766</lpage>.<pub-id pub-id-type="pmid">16107333</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0025">
+<string-name>
+<surname>Burns</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Summers</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>A novel chemokine receptor for SDF&#x02010;1 and I&#x02010;TAC involved in cell survival, cell adhesion, and tumor development</article-title>. <source xml:lang="en">J Exp Med</source>. <year>2006</year>;<volume>203</volume>:<fpage>2201</fpage>&#x02010;<lpage>2213</lpage>.<pub-id pub-id-type="pmid">16940167</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0026">
+<string-name>
+<surname>Levoye</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Balabanian</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Baleux</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bachelerie</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lagane</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>CXCR7 heterodimerizes with CXCR4 and regulates CXCL12&#x02010;mediated G protein signaling</article-title>. <source xml:lang="en">Blood</source>. <year>2009</year>;<volume>113</volume>:<fpage>6085</fpage>&#x02010;<lpage>6093</lpage>.<pub-id pub-id-type="pmid">19380869</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0027">
+<string-name>
+<surname>Sanchez&#x02010;Martin</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x02010;Mateos</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cabanas</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>CXCR7 impact on CXCL12 biology and disease</article-title>. <source xml:lang="en">Trends Mol Med</source>. <year>2013</year>;<volume>19</volume>:<fpage>12</fpage>&#x02010;<lpage>22</lpage>.<pub-id pub-id-type="pmid">23153575</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0028">
+<string-name>
+<surname>Vela</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aris</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Llorente</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Sanz</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Kremer</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Chemokine receptor&#x02010;specific antibodies in cancer immunotherapy: achievements and challenges</article-title>. <source xml:lang="en">Front Immunol</source>. <year>2015</year>;<volume>6</volume>:<fpage>12</fpage>.<pub-id pub-id-type="pmid">25688243</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0029">
+<string-name>
+<surname>Krook</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Nicholls</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Scannell</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Chugh</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Lawlor</surname>
+<given-names>ER</given-names>
+</string-name>. <article-title>Stress&#x02010;induced CXCR4 promotes migration and invasion of ewing sarcoma</article-title>. <source xml:lang="en">Mol Cancer Res</source>. <year>2014</year>;<volume>12</volume>:<fpage>953</fpage>&#x02010;<lpage>964</lpage>.<pub-id pub-id-type="pmid">24651452</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0030">
+<string-name>
+<surname>Sun</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>CXCL12&#x02010;CXCR4 axis promotes the natural selection of breast cancer cell metastasis</article-title>. <source xml:lang="en">Tumour Biol</source>. <year>2014</year>;<volume>35</volume>:<fpage>7765</fpage>&#x02010;<lpage>7773</lpage>.<pub-id pub-id-type="pmid">24810923</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0031">
+<string-name>
+<surname>Miao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Luker</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Summers</surname>
+<given-names>BC</given-names>
+</string-name>, et al. <article-title>CXCR7 (RDC1) promotes breast and lung tumor growth in vivo and is expressed on tumor&#x02010;associated vasculature</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2007</year>;<volume>104</volume>:<fpage>15735</fpage>&#x02010;<lpage>15740</lpage>.<pub-id pub-id-type="pmid">17898181</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0032">
+<string-name>
+<surname>Jung</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Shiozawa</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Recruitment of mesenchymal stem cells into prostate tumours promotes metastasis</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2013</year>;<volume>4</volume>:<fpage>1795</fpage>.<pub-id pub-id-type="pmid">23653207</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0033">
+<string-name>
+<surname>Jacobson</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>ID</given-names>
+</string-name>. <article-title>CXCR4 chemokine receptor overview: biology, pathology and applications in imaging and therapy</article-title>. <source xml:lang="en">Theranostics</source>. <year>2013</year>;<volume>3</volume>:<fpage>1</fpage>&#x02010;<lpage>2</lpage>.<pub-id pub-id-type="pmid">23382779</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0034">
+<string-name>
+<surname>Tal</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Pluchino</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Shaikh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mamillapalli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>A murine 5&#x02010;fluorouracil&#x02010;based submyeloablation model for the study of bone marrow&#x02010;derived cell trafficking in reproduction</article-title>. <source xml:lang="en">Endocrinology</source>. <year>2016</year>;<volume>157</volume>:<fpage>3749</fpage>&#x02010;<lpage>3759</lpage>.<pub-id pub-id-type="pmid">27427897</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0035">
+<string-name>
+<surname>Lee</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Experimental murine endometriosis induces DNA methylation and altered gene expression in eutopic endometrium</article-title>. <source xml:lang="en">Biol Reprod</source>. <year>2009</year>;<volume>80</volume>:<fpage>79</fpage>&#x02010;<lpage>85</lpage>.<pub-id pub-id-type="pmid">18799756</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0036">
+<string-name>
+<surname>Ricci</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Olivares</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Bilotas</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Meresman</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Baranao</surname>
+<given-names>RI</given-names>
+</string-name>. <article-title>Effect of vascular endothelial growth factor inhibition on endometrial implant development in a murine model of endometriosis</article-title>. <source xml:lang="en">Reprod Sci</source>. <year>2011</year>;<volume>18</volume>:<fpage>614</fpage>&#x02010;<lpage>622</lpage>.<pub-id pub-id-type="pmid">21266664</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0037">
+<string-name>
+<surname>Williams</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Daniels</surname>
+<given-names>BP</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>Targeting CXCR7/ACKR3 as a therapeutic strategy to promote remyelination in the adult central nervous system</article-title>. <source xml:lang="en">J Exp Med</source>. <year>2014</year>;<volume>211</volume>:<fpage>791</fpage>&#x02010;<lpage>799</lpage>.<pub-id pub-id-type="pmid">24733828</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0038"><label>38</label><mixed-citation publication-type="book" id="jcmm14933-cit-0038">
+<string-name>
+<surname>Barr</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Manning</surname>
+<given-names>D</given-names>
+</string-name>. <source xml:lang="en">G Proteins Techniques of Analysis</source>. <publisher-loc>Boca Raton, FL</publisher-loc>: <publisher-name>CRC Press Inc</publisher-name>; <year>1999</year>:<fpage>227</fpage>&#x02010;<lpage>245</lpage>.</mixed-citation></ref><ref id="jcmm14933-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0039">
+<string-name>
+<surname>Laschke</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Giebels</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nickels</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Scheuer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Menger</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Endothelial progenitor cells contribute to the vascularization of endometriotic lesions</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>2011</year>;<volume>178</volume>:<fpage>442</fpage>&#x02010;<lpage>450</lpage>.<pub-id pub-id-type="pmid">21224081</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0040">
+<string-name>
+<surname>Du</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Naqvi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Ischemia/reperfusion injury promotes and granulocyte&#x02010;colony stimulating factor inhibits migration of bone marrow&#x02010;derived stem cells to endometrium</article-title>. <source xml:lang="en">Stem Cells Dev</source>. <year>2012</year>;<volume>21</volume>:<fpage>3324</fpage>&#x02010;<lpage>3331</lpage>.<pub-id pub-id-type="pmid">22897736</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0041">
+<string-name>
+<surname>Frischholz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wunderlich</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ruhle</surname>
+<given-names>PF</given-names>
+</string-name>, et al. <article-title>Reduced secretion of the inflammatory cytokine IL&#x02010;1beta by stimulated peritoneal macrophages of radiosensitive Balb/c mice after exposure to 0.5 or 0.7 Gy of ionizing radiation</article-title>. <source xml:lang="en">Autoimmunity</source>. <year>2013</year>;<volume>46</volume>:<fpage>323</fpage>&#x02010;<lpage>328</lpage>.<pub-id pub-id-type="pmid">23215648</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0042">
+<string-name>
+<surname>Holm</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Nysom</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Brocks</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Hertz</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Muller</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Ultrasound B&#x02010;mode changes in the uterus and ovaries and Doppler changes in the uterus after total body irradiation and allogeneic bone marrow transplantation in childhood</article-title>. <source xml:lang="en">Bone Marrow Transplant</source>. <year>1999</year>;<volume>23</volume>:<fpage>259</fpage>&#x02010;<lpage>263</lpage>.<pub-id pub-id-type="pmid">10084257</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0043">
+<string-name>
+<surname>Heard</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Simmons</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Simmen</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Simmen</surname>
+<given-names>RC</given-names>
+</string-name>. <article-title>Kruppel&#x02010;like factor 9 deficiency in uterine endometrial cells promotes ectopic lesion establishment associated with activated notch and hedgehog signaling in a mouse model of endometriosis</article-title>. <source xml:lang="en">Endocrinology</source>. <year>2014</year>;<volume>155</volume>:<fpage>1532</fpage>&#x02010;<lpage>1546</lpage>.<pub-id pub-id-type="pmid">24476135</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0044">
+<string-name>
+<surname>Han</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>S&#x02010;P</given-names>
+</string-name>, et al. <article-title>Estrogen receptor &#x003b2; modulates apoptosis complexes and the inflammasome to drive the pathogenesis of endometriosis</article-title>. <source xml:lang="en">Cell</source>. <year>2015</year>;<volume>163</volume>:<fpage>960</fpage>&#x02010;<lpage>974</lpage>.<pub-id pub-id-type="pmid">26544941</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0045">
+<string-name>
+<surname>Glace</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Grygielko</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Boyle</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Estrogen&#x02010;induced stromal cell&#x02010;derived factor&#x02010;1 (SDF&#x02010;1/Cxcl12) expression is repressed by progesterone and by Selective Estrogen Receptor Modulators via estrogen receptor alpha in rat uterine cells and tissues</article-title>. <source xml:lang="en">Steroids</source>. <year>2009</year>;<volume>74</volume>:<fpage>1015</fpage>&#x02010;<lpage>1024</lpage>.<pub-id pub-id-type="pmid">19665469</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0046">
+<string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Mamillapalli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mutlu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>HS</given-names>
+</string-name>. <article-title>Chemoattraction of bone marrow&#x02010;derived stem cells towards human endometrial stromal cells is mediated by estradiol regulated CXCL12 and CXCR4 expression</article-title>. <source xml:lang="en">Stem cell research</source>. <year>2015</year>;<volume>15</volume>:<fpage>14</fpage>&#x02010;<lpage>22</lpage>.<pub-id pub-id-type="pmid">25957946</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0047">
+<string-name>
+<surname>Li</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Alderman</surname>
+<given-names>MH</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Tal</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Hematogenous dissemination of mesenchymal stem cells from endometriosis</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2018</year>;<volume>36</volume>:<fpage>881</fpage>&#x02010;<lpage>890</lpage>.<pub-id pub-id-type="pmid">29450941</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0048">
+<string-name>
+<surname>Lv</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Tuan</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Cheung</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>
+<given-names>VY</given-names>
+</string-name>. <article-title>Concise review: the surface markers and identity of human mesenchymal stem cells</article-title>. <source xml:lang="en">Stem Cells</source>. <year>2014</year>;<volume>32</volume>:<fpage>1408</fpage>&#x02010;<lpage>1419</lpage>.<pub-id pub-id-type="pmid">24578244</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0049">
+<string-name>
+<surname>Boxall</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Markers for characterization of bone marrow multipotential stromal cells</article-title>. <source xml:lang="en">Stem Cells Int</source>. <year>2012</year>;<volume>2012</volume>:<fpage>975871</fpage>.<pub-id pub-id-type="pmid">22666272</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0050">
+<string-name>
+<surname>Chamberlain</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Rot</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ashton</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Middleton</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Murine mesenchymal stem cells exhibit a restricted repertoire of functional chemokine receptors: comparison with human</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2008</year>;<volume>3</volume>:<elocation-id>e2934</elocation-id>.<pub-id pub-id-type="pmid">18698345</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0051">
+<string-name>
+<surname>Zabel</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lewen</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Elucidation of CXCR7&#x02010;mediated signaling events and inhibition of CXCR4&#x02010;mediated tumor cell transendothelial migration by CXCR7 ligands</article-title>. <source xml:lang="en">J Immunol</source>. <year>1950</year>;<volume>2009</volume>(<issue>183</issue>):<fpage>3204</fpage>&#x02010;<lpage>3211</lpage>.</mixed-citation></ref><ref id="jcmm14933-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0052">
+<string-name>
+<surname>Rudzitis&#x02010;Auth</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nenicu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nickels</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Menger</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Laschke</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Estrogen stimulates homing of endothelial progenitor cells to endometriotic lesions</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>2016</year>;<volume>186</volume>:<fpage>2129</fpage>&#x02010;<lpage>2142</lpage>.<pub-id pub-id-type="pmid">27315780</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0053">
+<string-name>
+<surname>Mei</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>XY</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Duan</surname>
+<given-names>ZL</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>MQ</given-names>
+</string-name>. <article-title>Estrogen promotes the survival of human secretory phase endometrial stromal cells via CXCL12/CXCR4 up&#x02010;regulation&#x02010;mediated autophagy inhibition</article-title>. <source xml:lang="en">Hum Reprod</source>. <year>2015</year>;<volume>30</volume>:<fpage>1677</fpage>&#x02010;<lpage>1689</lpage>.<pub-id pub-id-type="pmid">25976655</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0054">
+<string-name>
+<surname>Bianco</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>"Mesenchymal" stem cells</article-title>. <source xml:lang="en">Annu Rev Cell Dev Biol</source>. <year>2014</year>;<volume>30</volume>:<fpage>677</fpage>&#x02010;<lpage>704</lpage>.<pub-id pub-id-type="pmid">25150008</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0055">
+<string-name>
+<surname>Bianco</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Stem cells and bone: a historical perspective</article-title>. <source xml:lang="en">Bone</source>. <year>2015</year>;<volume>70</volume>:<fpage>2</fpage>&#x02010;<lpage>9</lpage>.<pub-id pub-id-type="pmid">25171959</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0056">
+<string-name>
+<surname>Bianco</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Frenette</surname>
+<given-names>PS</given-names>
+</string-name>, et al. <article-title>The meaning, the sense and the significance: translating the science of mesenchymal stem cells into medicine</article-title>. <source xml:lang="en">Nat Med</source>. <year>2013</year>;<volume>19</volume>:<fpage>35</fpage>&#x02010;<lpage>42</lpage>.<pub-id pub-id-type="pmid">23296015</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0057">
+<string-name>
+<surname>Sacchetti</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Funari</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Remoli</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>No identical "Mesenchymal Stem Cells" at different times and sites: human committed progenitors of distinct origin and differentiation potential are incorporated as adventitial cells in microvessels</article-title>. <source xml:lang="en">Stem Cell Reports</source>. <year>2016</year>;<volume>6</volume>:<fpage>897</fpage>&#x02010;<lpage>913</lpage>.<pub-id pub-id-type="pmid">27304917</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0058">
+<string-name>
+<surname>Petit</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rafii</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The SDF&#x02010;1&#x02013;CXCR4 signaling pathway: a molecular hub modulating neo&#x02010;angiogenesis</article-title>. <source xml:lang="en">Trends Immunol</source>. <year>2007</year>;<volume>28</volume>:<fpage>299</fpage>&#x02010;<lpage>307</lpage>.<pub-id pub-id-type="pmid">17560169</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0059">
+<string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Qiu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>CXCL12 enhances angiogenesis through CXCR7 activation in human umbilical vein endothelial cells</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2017</year>;<volume>7</volume>:<fpage>8289</fpage>.<pub-id pub-id-type="pmid">28811579</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0060">
+<string-name>
+<surname>Darash&#x02010;Yahana</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pikarsky</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Abramovitch</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Role of high expression levels of CXCR4 in tumor growth, vascularization, and metastasis</article-title>. <source xml:lang="en">FASEB J</source>. <year>2004</year>;<volume>18</volume>:<fpage>1240</fpage>&#x02010;<lpage>1242</lpage>.<pub-id pub-id-type="pmid">15180966</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0061">
+<string-name>
+<surname>Qian</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>CXCR7 regulates breast tumor metastasis and angiogenesis in vivo and in vitro</article-title>. <source xml:lang="en">Mol Med Rep</source>. <year>2018</year>;<volume>17</volume>:<fpage>3633</fpage>&#x02010;<lpage>3639</lpage>.<pub-id pub-id-type="pmid">29257351</pub-id></mixed-citation></ref><ref id="jcmm14933-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jcmm14933-cit-0062">
+<string-name>
+<surname>Yamada</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Maishi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Akiyama</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>CXCL12&#x02010;CXCR7 axis is important for tumor endothelial cell angiogenic property</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2015</year>;<volume>137</volume>:<fpage>2825</fpage>&#x02010;<lpage>2836</lpage>.<pub-id pub-id-type="pmid">26100110</pub-id></mixed-citation></ref></ref-list></back></article>

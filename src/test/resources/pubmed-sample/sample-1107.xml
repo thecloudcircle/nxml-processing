@@ -1,0 +1,985 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Physiol Rep</journal-id><journal-id journal-id-type="iso-abbrev">Physiol Rep</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2051-817X</journal-id><journal-id journal-id-type="publisher-id">PHY2</journal-id><journal-id journal-id-type="hwp">physreports</journal-id><journal-title-group><journal-title>Physiological Reports</journal-title></journal-title-group><issn pub-type="epub">2051-817X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28193783</article-id><article-id pub-id-type="pmc">5309573</article-id><article-id pub-id-type="doi">10.14814/phy2.13085</article-id><article-id pub-id-type="publisher-id">PHY213085</article-id><article-categories><subj-group subj-group-type="article-subject-classification"><subject>Autonomic Nervous System</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Circulation</subject></subj-group><subj-group subj-group-type="article-subject-classification"><subject>Heart</subject></subj-group><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Remote ischemic preconditioning triggers changes in autonomic nervous system activity: implications for cardioprotection</article-title><alt-title alt-title-type="left-running-head">S. Abdul&#x02010;Ghani <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="phy213085-cr-0001" contrib-type="author"><name><surname>Abdul&#x02010;Ghani</surname><given-names>Safa</given-names></name><xref ref-type="aff" rid="phy213085-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="phy213085-curr-0001">
+<sup>4</sup>
+</xref></contrib><contrib id="phy213085-cr-0002" contrib-type="author"><name><surname>Fleishman</surname><given-names>Arnold N.</given-names></name><xref ref-type="aff" rid="phy213085-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="phy213085-cr-0003" contrib-type="author"><name><surname>Khaliulin</surname><given-names>Igor</given-names></name><xref ref-type="aff" rid="phy213085-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="phy213085-cr-0004" contrib-type="author"><name><surname>Meloni</surname><given-names>Marco</given-names></name><xref ref-type="aff" rid="phy213085-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="phy213085-cr-0005" contrib-type="author"><name><surname>Angelini</surname><given-names>Gianni D.</given-names></name><xref ref-type="aff" rid="phy213085-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="phy213085-cr-0006" contrib-type="author" corresp="yes"><name><surname>Suleiman</surname><given-names>M&#x02010;Saadeh</given-names></name><address><email>m.s.suleiman@bristol.ac.uk</email></address><xref ref-type="aff" rid="phy213085-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="phy213085-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Bristol Heart Institute</named-content><named-content content-type="organisation-division">School of Clinical Sciences</named-content><named-content content-type="organisation-division">Faculty of Medicine &#x00026; Dentistry</named-content><institution>University of Bristol</institution><named-content content-type="city">Bristol</named-content><country country="GB">United Kingdom</country></aff><aff id="phy213085-aff-0002"><label><sup>2</sup></label><institution>Research Institute for Complex Problems of Hygiene and Occupational Diseases</institution><named-content content-type="city">Novokuznetsk</named-content><named-content content-type="city">Kemerovo Oblast</named-content><country>Russia</country></aff><aff id="phy213085-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">BHF Centre for Cardiovascular Science</named-content><institution>University of Edinburgh</institution><named-content content-type="city">Edinburgh</named-content><country country="GB">United Kingdom</country></aff><aff id="phy213085-curr-0001"><label><sup>4</sup></label>Present address: <named-content content-type="organisation-division">Department of Physiology &#x00026; Pharmacology</named-content><named-content content-type="organisation-division">Faculty of Medicine</named-content><institution>Al&#x02010;Quds University</institution><named-content content-type="city">Abu&#x02010;Dis</named-content><named-content content-type="post-code">P O Box&#x000a0;89</named-content><country>Jerusalem</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+M. Saadeh Suleiman, University of Bristol, Bristol Royal Infirmary, Level 7, Bristol BS2 8HW, United Kingdom.<break/>
+Tel: +44 (0) 117 34 23519<break/>
+Fax: +44 (0) 117 9299737<break/>
+E&#x02010;mail: <email>m.s.suleiman@bristol.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>2</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2017</year></pub-date><volume>5</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/phy2.2017.5.issue-3</issue-id><elocation-id>e13085</elocation-id><history><date date-type="received"><day>23</day><month>10</month><year>2016</year></date><date date-type="rev-recd"><day>21</day><month>11</month><year>2016</year></date><date date-type="accepted"><day>22</day><month>11</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Published by the American Physiological Society and The Physiological Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Physiological Reports</italic> published by Wiley Periodicals, Inc. on behalf of The Physiological Society and the American Physiological Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:PHY2-5-e13085.pdf"/><abstract id="phy213085-abs-0001"><title>Abstract</title><p>Cardioprotective efficacy of remote ischemic preconditioning (<styled-content style="fixed-case">RIPC</styled-content>) remains controversial. Experimental studies investigating <styled-content style="fixed-case">RIPC</styled-content> have largely monitored cardiovascular changes during index ischemia and reperfusion with little work investigating changes during <styled-content style="fixed-case">RIPC</styled-content> application. This work aims to identify cardiovascular changes associated with autonomic nervous system (<styled-content style="fixed-case">ANS</styled-content>) activity during <styled-content style="fixed-case">RIPC</styled-content> and prior to index ischemia. <styled-content style="fixed-case">RIPC</styled-content> was induced in anesthetized male C57/Bl6 mice by four cycles of 5&#x000a0;min of hindlimb ischemia using inflated cuff (200&#x000a0;mmHg) followed by 5&#x000a0;min reperfusion. Electrocardiography (<styled-content style="fixed-case">ECG</styled-content>) and microcirculatory blood flow in both hindlimbs were recorded throughout <styled-content style="fixed-case">RIPC</styled-content> protocol. Heart rate variability (<styled-content style="fixed-case">HRV</styled-content>) analysis was performed using <styled-content style="fixed-case">ECG</styled-content> data. Hearts extracted at the end of <styled-content style="fixed-case">RIPC</styled-content> protocol were used either for measurement of myocardial metabolites using high&#x02010;performance liquid chromatography or for Langendorff perfusion to monitor function and injury during 30&#x000a0;min index ischemia and 2&#x000a0;h reperfusion. Isolated&#x02010;perfused hearts from <styled-content style="fixed-case">RIPC</styled-content> animals had significantly less infarct size after index ischemia and reperfusion (34&#x000a0;&#x000b1;&#x000a0;5% vs. 59&#x000a0;&#x000b1;&#x000a0;7%; mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SE </styled-content>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05). <styled-content style="fixed-case">RIPC</styled-content> protocol was associated with increased heart rate measured both in ex&#x000a0;vivo and in&#x000a0;vivo. Frequency ratio of <styled-content style="fixed-case">HRV</styled-content> spectra was altered in <styled-content style="fixed-case">RIPC</styled-content> compared to control. <styled-content style="fixed-case">RIPC</styled-content> was associated with a standard hyperemic response in the cuffed&#x02010;limb but there was a sustained reduction in blood flow in the uncuffed contralateral limb. <styled-content style="fixed-case">RIPC</styled-content> hearts (prior to index ischemia) had significantly lower phosphorylation potential and energy charge compared to the control group. In conclusion, <styled-content style="fixed-case">RIPC</styled-content> is associated with changes in <styled-content style="fixed-case">ANS</styled-content> activity (heart rate, blood flow, <styled-content style="fixed-case">HRV</styled-content>) and mild myocardial ischemic stress that would contribute to cardioprotection.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="phy213085-kwd-0001">Autonomic nervous system</kwd><kwd id="phy213085-kwd-0002">blood flow</kwd><kwd id="phy213085-kwd-0003">cardiac</kwd><kwd id="phy213085-kwd-0004">ischemia</kwd><kwd id="phy213085-kwd-0005">remote ischemic preconditioning</kwd></kwd-group><funding-group><award-group><funding-source>British Heart Foundation</funding-source><award-id>PG/15/66/31710</award-id></award-group></funding-group><funding-group><award-group><funding-source>National Institute for Health Research Bristol Biomedical Research Unit in Cardiovascular Disease</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="1"/><page-count count="13"/><word-count count="7212"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>phy213085</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.0.6 mode:remove_FC converted:15.02.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="phy213085-cit-1001">
+<string-name>
+<given-names>S.</given-names>
+<surname>Abdul&#x02010;Ghani</surname>
+</string-name>, <string-name>
+<given-names>A. N.</given-names>
+<surname>Fleishman</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Khaliulin</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Meloni</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Angelini</surname>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Suleiman</surname>
+</string-name>, <article-title>Remote ischemic preconditioning triggers changes in autonomic nervous system activity: implications for cardioprotection</article-title>, <source>Physiol Rep</source>, <volume>5</volume> (<issue>3</issue>), <year>2017</year>, e13085, doi: <ext-link ext-link-type="doi" xlink:href="10.14814/phy2.13085">10.14814/phy2.13085</ext-link>
+</mixed-citation>
+</p></notes><notes><fn-group id="phy213085-ntgp-0001"><fn fn-type="funding" id="phy213085-note-1001"><p>
+<bold>Funding Information</bold>
+</p><p>This work was funded by the British Heart Foundation (PG/15/66/31710) and the National Institute for Health Research Bristol Biomedical Research Unit in Cardiovascular Disease.</p></fn></fn-group></notes></front><body><sec id="phy213085-sec-0001"><title>Introduction</title><p>Remote ischemic preconditioning (RIPC) is a phenomenon where preconditioning a tissue distant to the heart confers cardioprotection against index ischemia and reperfusion. It is suggested that the signal from the distant tissue is transmitted to the heart via neural or humoral signaling pathways or an overlap between both (Gho et&#x000a0;al. <xref rid="phy213085-bib-0018" ref-type="ref">1996</xref>; Gill et&#x000a0;al. <xref rid="phy213085-bib-0019" ref-type="ref">2015</xref>; Heusch et&#x000a0;al. <xref rid="phy213085-bib-0022" ref-type="ref">2015</xref>). However, the role of either pathway or the exact mechanism(s) involved is not presently known.</p><p>The neural hypothesis proposes that substances (e.g., autacoids, adenosine, and bradykinin) released locally in the remotely ischemic area activate a neural afferent pathway which in turn activates various efferent pathways in the heart that induce cardioprotection (Tang et&#x000a0;al. <xref rid="phy213085-bib-0054" ref-type="ref">1999</xref>; Schoemaker and van Heijningen <xref rid="phy213085-bib-0045" ref-type="ref">2000</xref>; Xiao et&#x000a0;al. <xref rid="phy213085-bib-0058" ref-type="ref">2001</xref>; Brzozowski et&#x000a0;al. <xref rid="phy213085-bib-0005" ref-type="ref">2004a</xref>; Dong et&#x000a0;al. <xref rid="phy213085-bib-0013" ref-type="ref">2004</xref>; Donato et&#x000a0;al. <xref rid="phy213085-bib-0012" ref-type="ref">2013</xref>). The efferent pathway appears to involve the autonomous nervous system (ANS). Evidence for the involvement of the ANS comes from work showing pretreatment with the ganglionic blocker hexamethonium, inhibits RIPC cardioprotection (Gho et&#x000a0;al. <xref rid="phy213085-bib-0018" ref-type="ref">1996</xref>). Additionally, the cardioprotective effect of RIPC disappears in animals subjected to nerve resection, vagotomy (Mastitskaya et&#x000a0;al. <xref rid="phy213085-bib-0035" ref-type="ref">2016</xref>), blockade of muscarinic cholinergic receptors (Ding et&#x000a0;al. <xref rid="phy213085-bib-0011" ref-type="ref">2001</xref>; Brzozowski et&#x000a0;al. <xref rid="phy213085-bib-0006" ref-type="ref">2004b</xref>; Dong et&#x000a0;al. <xref rid="phy213085-bib-0013" ref-type="ref">2004</xref>; Lim et&#x000a0;al. <xref rid="phy213085-bib-0033" ref-type="ref">2010</xref>; Donato et&#x000a0;al. <xref rid="phy213085-bib-0012" ref-type="ref">2013</xref>), or silencing vagal preganglionic neurons in the brainstem (Mastitskaya et&#x000a0;al. <xref rid="phy213085-bib-0034" ref-type="ref">2012</xref>). Recent evidence suggests that cardioprotection is partially mediated by intrinsic cardiac ganglia in response to increased systemic efferent vagal tone (Pickard et&#x000a0;al. <xref rid="phy213085-bib-0042" ref-type="ref">2016</xref>). Moreover, there is also evidence supporting a role for sympathetic adrenergic stimulation in RIPC&#x02010;induced cardioprotection (Taliyan et&#x000a0;al. <xref rid="phy213085-bib-0050" ref-type="ref">2010</xref>). Involvement of ANS in RIPC&#x02010;induced effects also includes changes in organ blood flow and cardiac output. For example, RIPC application in anesthetized pigs was associated with coronary vasodilation in paced hearts (Shimizu et&#x000a0;al. <xref rid="phy213085-bib-0047" ref-type="ref">2007</xref>). RIPC in conscious volunteers also induces vasodilatation of the contralateral artery (right brachial artery) and improved parasympathetic activity as measured using heart rate variability (HRV) (Enko et&#x000a0;al. <xref rid="phy213085-bib-0015" ref-type="ref">2011</xref>). However, a recent study could only detect HRV changes in patients with coronary disease but not in healthy volunteers (Zagidullin et&#x000a0;al. <xref rid="phy213085-bib-0060" ref-type="ref">2016</xref>). Moreover, RIPC in healthy volunteers attenuated I/R sympathetic activation following ischemia/reperfusion limb injury (Lambert et&#x000a0;al. <xref rid="phy213085-bib-0030" ref-type="ref">2016</xref>). It is evident therefore that the effect of RIPC application on the ANS activity remains controversial. Furthermore, it is anticipated that changes in sympathetic activity would alter cardiac metabolic demand. Direct evidence to support this view is currently lacking as most studies have largely reported changes in signaling pathways after reperfusion (Wolfrum et&#x000a0;al. <xref rid="phy213085-bib-0057" ref-type="ref">2002</xref>; Yamamura et&#x000a0;al. <xref rid="phy213085-bib-0059" ref-type="ref">2005</xref>; Serejo et&#x000a0;al. <xref rid="phy213085-bib-0046" ref-type="ref">2007</xref>; Tamareille et&#x000a0;al. <xref rid="phy213085-bib-0051" ref-type="ref">2011</xref>). Therefore, the aim of this work was to address these issues and directly link them to cardioprotection using anesthetized mouse model. In particular, we investigated the effect of RIPC on key cardiovascular activities associated with ANS including blood flow, HR, HRV, and myocardial energetics prior to index ischemia.</p></sec><sec id="phy213085-sec-0002"><title>Materials and Methods</title><sec id="phy213085-sec-0003"><title>Animals and ethics statement</title><p>Male C57/BL6 wild&#x02010;type mice (25&#x02013;28&#x000a0;weeks old, 26&#x02013;33&#x000a0;g, <italic>n</italic>&#x000a0;=&#x000a0;60) were used for all experiments. All animals were purchased from B&#x00026;K Universal. Animals were kept at the University of Bristol Veterinary School until used. Animal work was performed in accordance with the UK Animals (Scientific Procedures) Act of 1986 and approved by the University of Bristol Animal Welfare and Ethical Review Board (Permit numbers: PPL 30/2859 and PIL 30/9564).</p></sec><sec id="phy213085-sec-0004"><title>RIPC protocol</title><p>Mice were anesthetized by an intraperitoneal injection (0.020&#x000a0;mL/g weight) of 2.5% tribromoethanol (Avertin<sup>&#x000ae;</sup>) (Sigma&#x02010;Aldrich, Gillingham, Dorset, U.K.), allowed ~5&#x000a0;min to become fully anesthetized (evidenced by lack of response to toe or tail pinch). A specially designed small (1.6&#x000a0;&#x000d7;&#x000a0;9&#x000a0;cm) pressure cuff (Hokanson, Inc., Bellevue, WA, USA) was placed around the hind limb at the inguinal level (Fig.&#x000a0;<xref rid="phy213085-fig-0001" ref-type="fig">1</xref>A) and RIPC was induced by four cycles of 5&#x000a0;min of limb ischemia at 200&#x000a0;mmHg followed by 5&#x000a0;min of reperfusion. The applied pressure was selected as it was used earlier (Li et&#x000a0;al. <xref rid="phy213085-bib-0031" ref-type="ref">2011</xref>) and was associated with complete block of microcirculatory blood flow (Fig.&#x000a0;<xref rid="phy213085-fig-0001" ref-type="fig">1</xref>B) followed by significant hyperemia (Fig.&#x000a0;<xref rid="phy213085-fig-0001" ref-type="fig">1</xref>C). Control group had a deflated cuff placed on the lower limb. Body temperature was maintained at around 37&#x000b0;C using a heating pad.</p><fig fig-type="Figure" xml:lang="en" id="phy213085-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Monitoring microcirculatory blood flow using laser Doppler flowmetry. This figure shows a photo of a mouse with a cuff placed around the hind limb and an image showing both the color intensity scale and intensity in the limbs reflecting blood flow (A). The lower panels show cessation of blood flow during ischemia (200&#x000a0;mmHg cuff inflation) and hyperemia during reperfusion following cuff deflation (B and C). (D) A schematic of the experimental protocols. In summary, mice were anesthetized for 50&#x000a0;min and divided into control and <styled-content style="fixed-case">RIPC</styled-content> groups. In the <styled-content style="fixed-case">RIPC</styled-content> group, the animals were exposed to four cycles of 5&#x000a0;min limb ischemia followed by 5&#x000a0;min reperfusion. Blood flow in both limbs or <styled-content style="fixed-case">ECG</styled-content> was monitored during this period. At the end of <styled-content style="fixed-case">RIPC</styled-content>/control protocol, hearts were extracted and used for either metabolite extraction or for Langendorff perfusion. RIPC, remote ischemic preconditioning; ECG, electrocardiography.</p></caption><graphic id="nlm-graphic-3" xlink:href="PHY2-5-e13085-g001"/></fig></sec><sec id="phy213085-sec-0005"><title>Langendorff&#x02010;perfused heart</title><p>At the end of 50&#x000a0;min anesthesia involving control or RIPC protocols, animals were killed by cervical dislocation. Hearts were rapidly excised and placed in cold Krebs&#x02013;Henseleit (K&#x02010;H) buffer. The excess tissue was removed from the heart, and the aorta was cannulated with a metal cannula via modified Langendorff perfusion apparatus and perfused under constant pressure of 60&#x000a0;mmHg with 37&#x000b0;C K&#x02010;H solution containing (mmol/L) NaCl 120, KCl 4.8, CaCl<sub>2</sub> 2, MgSO<sub>4</sub> 1.2, KH<sub>2</sub>PO<sub>4</sub> 1.2, NaHCO<sub>3</sub> 25, and glucose 11. The solution was filtered and continuously gassed with 95% O<sub>2</sub>, 5% CO<sub>2</sub> (pH 7.4). The perfusion chamber was tightly closed and temperature controlled to ensure the heart was maintained at constant temperature (~37&#x000b0;C) throughout. Cardiac contractile function was measured with a force&#x02010;transducer (MLT0402 [2&#x000a0;g]; AD Instruments, Castle Hill, Australia) connected to the apex of the heart using a metal hook. Hearts were preloaded with a resting tension of 250&#x000a0;mg. Perfused hearts were left to stabilize for ~30&#x000a0;min followed by 30&#x000a0;min global ischemia (introduced by switching off the pump) and 2&#x000a0;h reperfusion. Developed tension was monitored using Mac Lab data acquisition system (AD Instruments) and was used to compute heart rate. Cardiac pump function was expressed as rate tension product (RTP), the product of heart rate and developed tension. Developed tension and subsequently heart rate could not be computed in the reperfused injured (hyper&#x02010;contracted) heart. Therefore only the following parameters were measured: time to stop beating, time to rigor, changes in diastolic tension and flow rate. Diastolic tension was used as a marker of functional impairment during reperfusion.</p></sec><sec id="phy213085-sec-0006"><title>Measurement of infarct size</title><p>At the end of reperfusion hearts were perfused in Langendorff mode with 1% (W/V) Triphenyltetrazolium chloride in phosphate buffer saline for 8&#x000a0;min at a flow rate of 2.5&#x000a0;mL/min. After staining, the heart was removed, wrapped in Clingfilm and stored in freezer for 1&#x000a0;h. The frozen heart was cut transversely into four (~2&#x02010;mm&#x02010;thick) slices from apex to the top of the ventricles and left overnight in 10% formaldehyde for fixation. The viable myocardium stained red, and infarct tissues appeared pale white. Later each side of the slices was scanned by electronic scanner (Epson perfection 4990 photo). The infarct size was determined by computerized planimetry using AlphaEaseFC software (Alpha Innotech, San Leandro, CA, USA). Since the entire heart was at risk from global ischemia, the ratio of necrotic areas to total slice areas of the four myocardial slices were used to estimate percentage of necrosis.</p></sec><sec id="phy213085-sec-0007"><title>Measurement of creatine kinase</title><p>In all Langendorff experiments involving index ischemia and reperfusion, coronary effluent was collected at regular intervals. Collections were made preischemia, and at 1, 3, 5, 10, 20, 30, 60, 90, and 120&#x000a0;min during reperfusion. Creatine kinase (CK&#x02010;MB) activity in these samples was determined using a commercially available kit (Randox, Crumlin, County Antrim, U.K.) and measured using a spectrophotometer at 340&#x000a0;nm, 37&#x000b0;C and expressed as U/L.</p></sec><sec id="phy213085-sec-0008"><title>Laser Doppler flowmetry</title><p>Blood flow in the hind limb was monitored throughout the RIPC protocol using laser Doppler flowmetry (moorLDI2 imager Perimed, Sweden, and Moor, USA). A color&#x02010;coded image representing the microvascular blood flow distribution after each RIPC cycle (after and during 5&#x000a0;min occlusion) for the whole procedure (50&#x000a0;min) was captured on the monitor (see <xref rid="phy213085-sec-0013" ref-type="sec">Results</xref> below). Color intensity scheme (Fig.&#x000a0;<xref rid="phy213085-fig-0001" ref-type="fig">1</xref>A) is used to quantify blood flow in the tissue.</p></sec><sec id="phy213085-sec-0009"><title>Electrocardiography (ECG) in&#x000a0;vivo</title><p>Approximately 5&#x000a0;min after anesthetic induction, three needle (29G) electrodes (MLA1204; AD Instruments) were inserted subcutaneously into the right pelvic limb area and into each thoracic limb area of 32 mice (<italic>n</italic>&#x000a0;=&#x000a0;19 for control and 13 for RIPC). The ECG signal was recorded and analyzed using Bio amplifier connected to the data acquisition system (Power Lab/8SP; AD Instruments). The data were recorded continuously for the whole RIPC procedure (50&#x000a0;min). Heart rate was estimated using R&#x02010;R interval of the least noisy traces of the ECG.</p></sec><sec id="phy213085-sec-0010"><title>HRV analysis</title><p>HRV is widely used as a measure of ANS activity to the heart (sympatho&#x02010;vagal balance) (Roy and Ghatak <xref rid="phy213085-bib-0044" ref-type="ref">2013</xref>) and can help to elucidate the role and the contribution of the ANS in RIPC. The HRV and HR analysis was performed using randomly selected ECG recordings from 12 mice (6/group) that had least noisy traces and sufficient signal to enable HRV analysis. The following ranges of the analyzed HRV spectrum were selected for the frequency quantification (Fleishman et&#x000a0;al. <xref rid="phy213085-bib-0016" ref-type="ref">2014</xref>): low frequency (LF, 0.08&#x02013;0.12&#x000a0;Hz) and high frequency (HF, 0.15&#x02013;0.35&#x000a0;Hz). The HF reflects peripheral activity of parasympathetic system while LF predominantly corresponds to the activity of peripheral sympathetic modulations (Task Force of the European Society of Cardiology the North American Society of Pacing Electrophysiology, <xref rid="phy213085-bib-0014" ref-type="ref">1996</xref>). Additionally, the ratio (HF/LF) has been used to assess changes in vagus activity relative to the activity of sympathetic system.</p></sec><sec id="phy213085-sec-0011"><title>Measurement of cellular metabolites</title><p>Cardiac metabolites from hearts collected after 50&#x000a0;min of anesthesia with or without RIPC were extracted and measured using high&#x02010;performance liquid chromatography (HPLC) as described previously (Imura et&#x000a0;al. <xref rid="phy213085-bib-0025" ref-type="ref">2001</xref>; Modi et&#x000a0;al. <xref rid="phy213085-bib-0037" ref-type="ref">2004</xref>) and based on earlier work (Ally and Park <xref rid="phy213085-bib-0002" ref-type="ref">1992</xref>). In brief, frozen myocardial tissue samples were crushed in liquid nitrogen and a small amount added to tube containing 500&#x000a0;<italic>&#x003bc;</italic>L of 4.8% perchloric acid, vortexed, weighed (to obtain sample wet weight) and then spun at 4500&#x000a0;rpm for 15&#x000a0;min at 4&#x000b0;C. The supernatant was neutralized with equal volume of 0.44&#x000a0;mol/L K<sub>2</sub>CO<sub>3</sub>, vortexed and then spun at 4500&#x000a0;rpm for 15&#x000a0;min at 4&#x000b0;C. The supernatant was taken and stored at &#x02212;20&#x000b0;C until analyzed for cellular metabolites using an HPLC Beckman System and a 3&#x02010;<italic>&#x003bc;</italic>m octadecyl silane Hypersil column (150&#x000a0;&#x000d7;&#x000a0;4.6&#x000a0;mm) (Thermo Scientific, Newport, U.K.). Eluent A contained 150&#x000a0;mmol/L KH<sub>2</sub>PO<sub>4</sub> and 150&#x000a0;mmol/L KCl, set at pH 6.0 with KOH. Eluent B consisted of eluent A with 15% (v/v) HPLC grade acetonitrile. A low&#x02010;pressure gradient mixing device was used to control the composition of the mobile phase. The amount of eluent B changed linearly between the time points. The analytical column was maintained at a constant temperature in the range 17&#x02013;19&#x000b0;C and absorption was measured at 254&#x000a0;nm. The metabolites measured were ATP, ADP, AMP, GTP, GDP, GMP, IMP, xanthine, hypoxanthine, Nicotinamide adenine dinucleotide (NAD<sup>+</sup>), inosine, and adenosine. The area under the peak for each metabolite was determined and compared to the standard sample, then corrected for weight.</p></sec><sec id="phy213085-sec-0012"><title>Statistical analysis</title><p>Statistical analyses were performed using Statveiw for Windows (SAS Institute Inc., Cary, NC, USA) and Prism 5 Version 5.01 software (GraphPad, La Jolla, CA, USA). Data were expressed as the mean&#x000a0;&#x000b1;&#x000a0;SEM. Differences between control and RIPC groups were analyzed using unpaired <italic>t</italic>&#x02010;test <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 considered significant, whereas differences within the same group were analyzed using paired <italic>t</italic>&#x02010;test. Data were tested for normal distribution using Kolmogorov&#x02013;Smirnov test and equal variance using the <italic>F</italic>&#x02010;test. Area under the curve to estimate total creatine kinase release was calculated using Trapezium rule on Excel spread sheet. Repeated measures analysis of variance (ANOVA) was used for changes overtime and significance tested using Bonferroni&#x02010;Dunn post hoc test.</p></sec></sec><sec id="phy213085-sec-0013"><title>Results</title><sec id="phy213085-sec-0014"><title>The effect of RIPC on cardiac injury following index ischemia and reperfusion</title><p>Myocardial injury following index ischemia and reperfusion was determined by measuring release of cardiac enzyme creatine kinase and the infarcted area in control and RIPC hearts (Fig.&#x000a0;<xref rid="phy213085-fig-0002" ref-type="fig">2</xref>A and B). RIPC induced significant (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) reduction in the percentage of infarct size compared to control (34&#x000a0;&#x000b1;&#x000a0;5% vs. 59&#x000a0;&#x000b1;&#x000a0;7%). RIPC also significantly reduced total release of creatine kinase compared to control (13,000&#x000a0;&#x000b1;&#x000a0;1000&#x000a0;IU/mg vs. 21,000&#x000a0;&#x000b1;&#x000a0;2000&#x000a0;IU/mg dry tissue). Furthermore, RIPC was associated with significantly better recovery in diastolic tension measured at different time points during reperfusion compared to control (Fig.&#x000a0;<xref rid="phy213085-fig-0002" ref-type="fig">2</xref>C). Table&#x000a0;<xref rid="phy213085-tbl-0001" ref-type="table-wrap">1</xref> shows no effects on parameters during index ischemia (e.g., time to stop beating, time to rigor, changes in diastolic tension).</p><fig fig-type="Figure" xml:lang="en" id="phy213085-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cardiac ischemia and reperfusion injury in Langendorff heart. The Effects of <styled-content style="fixed-case">RIPC</styled-content> on infarct size and creatine kinase release. Langendorff&#x02010;perfused hearts with or without <styled-content style="fixed-case">RIPC</styled-content> application were exposed to 30&#x000a0;min ischemia followed by 120&#x000a0;min reperfusion. (A) Infarct size measured using <styled-content style="fixed-case">TTC</styled-content> and expressed as percentage of risk area. Inset shows representative sections from control and <styled-content style="fixed-case">RIPC</styled-content> hearts with darker parts indicating viable tissue. (B) Creatine kinase activity from hearts effluents collected preischemia and during reperfusion. (C) The effects of <styled-content style="fixed-case">RIPC</styled-content> on diastolic tension measured at 20, 30, 60, 90, and 120&#x000a0;min during reperfusion. Data are presented as mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;6&#x02013;10 hearts/group for different endpoints). *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 versus corresponding control (or basal) using either unpaired <italic>t</italic>&#x02010;test (A and B) or repeated measures <styled-content style="fixed-case">ANOVA</styled-content> with Bonferroni&#x02010;Dunn test (C). RIPC, remote ischemic preconditioning; TTC, triphenyltetrazolium chloride; ANOVA, analysis of variance.</p></caption><graphic id="nlm-graphic-5" xlink:href="PHY2-5-e13085-g002"/></fig><table-wrap id="phy213085-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Effect of RIPC on cardiac function during index ischemia</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">Control</th><th align="center" valign="top" rowspan="1" colspan="1">RIPC</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Time to stop beating (min)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">8.6&#x000a0;&#x000b1;&#x000a0;1.2</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">10.3&#x000a0;&#x000b1;&#x000a0;4.0</td><td align="char" char="." rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" rowspan="1" colspan="1">Time to start rigor contracture (min)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">17&#x000a0;&#x000b1;&#x000a0;2.6</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">19.3&#x000a0;&#x000b1;&#x000a0;2.7</td><td align="char" char="." rowspan="1" colspan="1">0.55</td></tr><tr><td align="left" rowspan="1" colspan="1">Time to reach maximal diastolic tension (min) after onset of rigor</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">11.0&#x000a0;&#x000b1;&#x000a0;2.5</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">9.3&#x000a0;&#x000b1;&#x000a0;2.5</td><td align="char" char="." rowspan="1" colspan="1">0.65</td></tr><tr><td align="left" rowspan="1" colspan="1">Maximum diastolic tension (mg)</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">869&#x000a0;&#x000b1;&#x000a0;105</td><td align="char" char="&#x000b1;" rowspan="1" colspan="1">711&#x000a0;&#x000b1;&#x000a0;100</td><td align="char" char="." rowspan="1" colspan="1">0.31</td></tr></tbody></table><table-wrap-foot><fn id="phy213085-note-0002"><p>Data are presented as mean&#x000a0;&#x000b1;&#x000a0;SEM (<italic>n</italic>&#x000a0;=&#x000a0;7&#x02013;8 hearts/group). RIPC, remote ischemic preconditioning.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="phy213085-sec-0015"><title>Cardiovascular effects of RIPC prior to index ischemia</title><sec id="phy213085-sec-0016"><title>Effect of RIPC on heart rate in&#x000a0;vitro and in&#x000a0;vivo</title><p>Figure&#x000a0;<xref rid="phy213085-fig-0003" ref-type="fig">3</xref>A shows the data for computed heart rate and heart RTP measured after 30&#x000a0;min of Langendorff perfusion (prior to index ischemia). Perfused hearts from animals treated with RIPC had a significantly higher heart rate and RTP compared to control hearts.</p><fig fig-type="Figure" xml:lang="en" id="phy213085-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The effect of remote ischemic preconditioning (<styled-content style="fixed-case">RIPC</styled-content>) on heart rate and heart rate variability. (A) Changes in heart rate (left panel) and in tension (right panel) prior to ischemia and during equilibration measured in&#x000a0;vitro (<italic>n</italic>&#x000a0;=&#x000a0;10 hearts control, <italic>n</italic>&#x000a0;=&#x000a0;7 hearts <styled-content style="fixed-case">RIPC</styled-content> group). (B) Heart rate percentage change from baseline during <styled-content style="fixed-case">RIPC</styled-content> protocol in&#x000a0;vivo (<italic>n</italic>&#x000a0;=&#x000a0;19 for control and <italic>n</italic>&#x000a0;=&#x000a0;13 hearts for <styled-content style="fixed-case">RIPC</styled-content> group). (C) Low&#x02010;/high&#x02010;frequency power spectrum density ratio in <styled-content style="fixed-case">RIPC</styled-content> and control group during each reperfusion cycle (10, 20, 30, 40, and 50&#x000a0;min). Data are presented as mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;6 hearts in each group). *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 versus control.</p></caption><graphic id="nlm-graphic-7" xlink:href="PHY2-5-e13085-g003"/></fig><p>Following the induction of anesthesia, heart rate drops to levels of around 450 BPM and slowly recovers to higher levels but remains relatively lower than physiological levels of 550&#x02013;600 (data not shown). The extent of this increase tended to be higher in RIPC compared to control. The percentage change in heart rate from baseline was calculated for each mouse in&#x000a0;vivo. There was a gradual and similar increase in heart rate for both control and RIPC groups for most of the anesthesia duration except for the period 30&#x02013;35&#x000a0;min (Fig.&#x000a0;<xref rid="phy213085-fig-0003" ref-type="fig">3</xref>B). However, the percentage in HR started to decline in control group but remained high in RIPC group during the remaining period of RIPC. At the end of the 50&#x000a0;min duration there was a significant difference between the two groups. The data for changes in the ratio between low and HF components of HRV spectra (LF/HF ratio) using HRV analysis, represent a measure of balance of sympatho&#x02010;vagal activity. Up to 20&#x000a0;min of RIPC, there was no difference between LF/HF ratios compared to control (Fig.&#x000a0;<xref rid="phy213085-fig-0003" ref-type="fig">3</xref>C). However, at 30&#x000a0;min the ratio was higher for RIPC but this was not sustained toward the end of RIPC protocol.</p></sec><sec id="phy213085-sec-0017"><title>The effect of RIPC on cardiac metabolites</title><p>With exception of adenosine (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.02), none of the cellular metabolites measured in freshly excised hearts after 50&#x000a0;min of anesthesia with or without application of RIPC showed significant difference. Furthermore, upon calculating markers of ischemic stress (Atkinson and Walton <xref rid="phy213085-bib-0003" ref-type="ref">1967</xref>; Imura et&#x000a0;al. <xref rid="phy213085-bib-0026" ref-type="ref">2011</xref>; Gout et&#x000a0;al. <xref rid="phy213085-bib-0020" ref-type="ref">2014</xref>) including phosphorylation potential and adenylate energy charge, RIPC was found to have a significant effect (Fig.&#x000a0;<xref rid="phy213085-fig-0004" ref-type="fig">4</xref>). RIPC was associated with a lower phosphorylation potential (ATP/ADP, ATP/AMP, GTP/GDP, and GTP/GMP) compared to control (Fig.&#x000a0;<xref rid="phy213085-fig-0004" ref-type="fig">4</xref>A). Furthermore, adenylate energy charge, an index of the metabolic status and reflects the ability of the cell to make energy&#x02010;rich phosphates from precursors was also found to be lower in RIPC group compared to control (Fig.&#x000a0;<xref rid="phy213085-fig-0004" ref-type="fig">4</xref>B). The energy charge was calculated using the following equation: Energy Charge&#x000a0;=&#x000a0;(0.5 ADP&#x000a0;+&#x000a0;ATP)/(AMP&#x000a0;+&#x000a0;ADP&#x000a0;+&#x000a0;ATP) (Gout et&#x000a0;al. <xref rid="phy213085-bib-0020" ref-type="ref">2014</xref>).</p><fig fig-type="Figure" xml:lang="en" id="phy213085-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The effect of remote ischemic preconditioning (<styled-content style="fixed-case">RIPC</styled-content>) on computed markers of ischemic stress. (A) Phosphorylation potential in hearts collected immediately after <styled-content style="fixed-case">RIPC</styled-content> protocol. (B) Energy charge calculated using energy charge equation. Data are mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;7 hearts from each group). *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05, **<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.005.</p></caption><graphic id="nlm-graphic-9" xlink:href="PHY2-5-e13085-g004"/></fig></sec><sec id="phy213085-sec-0018"><title>The effect of RIPC on blood flow in hind limbs</title><p>Inflating blood pressure cuff during RIPC induced a complete block of the microcirculatory blood flow in the ischemic right limb (cuffed). During reperfusion there was a strong hyperemic (increased blood flow) response in this limb. However, this intervention in the right limb was associated with a sustained reduction in blood flow in the uncuffed nonischemic left limb (Fig.&#x000a0;<xref rid="phy213085-fig-0005" ref-type="fig">5</xref>B). Figure&#x000a0;<xref rid="phy213085-fig-0005" ref-type="fig">5</xref>C shows the calculated blood flow ratio for left limb/contralateral right limb. The ratio was ~1 in anesthetized control mice without RIPC. However, during RIPC application (reperfusion phase) the ratio was significantly lower compared to control mice. This appeared to be due to sustained drop in blood flow in the uncuffed hind limb.</p><fig fig-type="Figure" xml:lang="en" id="phy213085-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Blood flow ratio in hind limbs during remote ischemic preconditioning (<styled-content style="fixed-case">RIPC</styled-content>) application. (A and B) Representative images showing changes of blood flow (color intensity) in both hind limbs of anesthetized mice. Top panel shows the flow during ischemia and following reperfusion (hyperemia). Lower left hand panel shows blood flow in anesthetized mouse overtime without application of <styled-content style="fixed-case">RIPC</styled-content>. Lower right hand panel shows the changes in blood flow in limb exposed to four cycles of <styled-content style="fixed-case">RIPC</styled-content> and the corresponding changes in its contralateral limb (white rectangles). (C) Changes in blood flow ratio expressed as left (uncuffed) limb over right in control mice or in mice exposed to <styled-content style="fixed-case">RIPC</styled-content> application. Data extrapolated from color intensity (see colored panels above) and shown as mean&#x000a0;&#x000b1;&#x000a0;<styled-content style="fixed-case">SEM</styled-content> (<italic>n</italic>&#x000a0;=&#x000a0;3 hearts for control and four for <styled-content style="fixed-case">RIPC</styled-content>). Comparison was made between control and <styled-content style="fixed-case">RIPC</styled-content> values at similar time points. *<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 versus corresponding control values. <sup>$</sup>
+<italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 versus Cycle 1 (10&#x000a0;min).</p></caption><graphic id="nlm-graphic-11" xlink:href="PHY2-5-e13085-g005"/></fig></sec></sec></sec><sec id="phy213085-sec-0019"><title>Discussion</title><sec id="phy213085-sec-0020"><title>Validation of a mouse model of RIPC and protection against I/R</title><p>In this study we validated the use of mouse model of RIPC using a nonvolatile anesthetic where four cycles of I/R of hind limb resulted in significant cardioprotection as measured by size of infarction, cardiac enzyme release and developed tension (Fig.&#x000a0;<xref rid="phy213085-fig-0002" ref-type="fig">2</xref>). Most RIPC studies use volatile anesthetics, which are known to produce pharmacological preconditioning (Ross and Foex <xref rid="phy213085-bib-0043" ref-type="ref">1999</xref>; Cromheecke et&#x000a0;al. <xref rid="phy213085-bib-0009" ref-type="ref">2006</xref>). Other anesthetics including pentobarbital can affect plasma catecholamine which in turn may affect heart rate and other parameters including temperature and blood pressure (Baum et&#x000a0;al. <xref rid="phy213085-bib-0004" ref-type="ref">1985</xref>). In our study we used tribromoethanol which is known to produce appropriate surgical anesthesia, with sufficient skeletal muscle relaxation and only a moderate degree of respiratory depression and has a good margin of safety (Murray et&#x000a0;al. <xref rid="phy213085-bib-0038" ref-type="ref">2000</xref>). Furthermore, tribromoethanol has the most predictable and reproducible level of cardiac suppression and maintenance of heart rate compared to other anesthetics (Hart et&#x000a0;al. <xref rid="phy213085-bib-0021" ref-type="ref">2001</xref>; Gao et&#x000a0;al. <xref rid="phy213085-bib-0017" ref-type="ref">2011</xref>).</p></sec><sec id="phy213085-sec-0021"><title>Intermittent limb ischemia reduces blood flow in contralateral limb</title><p>During RIPC, the reduced blood flow in cuffed limb is associated with reactive hyperemia on reperfusion (Fig.&#x000a0;<xref rid="phy213085-fig-0005" ref-type="fig">5</xref>A and B). However, blood flow in the uncuffed contralateral limb decreases during RIPC cycles (Fig.&#x000a0;<xref rid="phy213085-fig-0005" ref-type="fig">5</xref>B and C). More importantly this vasoconstriction effect was dependent on the number of RIPC cycles as the first cycle had small effect while maximum effect appears following the third cycle. Most RIPC studies in mice used three or four cycles of 5&#x000a0;min ischemia and 5&#x000a0;min reperfusion (Lim et&#x000a0;al. <xref rid="phy213085-bib-0033" ref-type="ref">2010</xref>; Cai et&#x000a0;al. <xref rid="phy213085-bib-0007" ref-type="ref">2012</xref>; Kalakech et&#x000a0;al. <xref rid="phy213085-bib-0028" ref-type="ref">2013</xref>). This interesting observation regarding flow in the uncuffed limb, suggests a gradual accumulative effect possibly due to release of vasoconstrictive endogenous factors during RIPC cycles. However, this observation does not appear to extend to other tissues as the blood flow in the tail was not altered (Fig.&#x000a0;<xref rid="phy213085-fig-0005" ref-type="fig">5</xref>B). It is possible, however, that control of tail blood flow is different from that in limb flow and in view of the finding that the control/contribution of sympathetic&#x02010;mediated vasoconstriction responses in skeletal muscle is not fully elucidated (Thomas and Segal <xref rid="phy213085-bib-0055" ref-type="ref">2004</xref>).</p><p>Several studies have suggested release of humoral factors from the remotely preconditioned organ during RIPC which include adenosine, bradykinin, opioid, angiotensin 1, calcitonin gene&#x02010;related peptide, endocannabinoids, apolipoprotein A&#x02010;1, heat shock proteins, NO (Tanaka et&#x000a0;al. <xref rid="phy213085-bib-0053" ref-type="ref">1998</xref>; Tang et&#x000a0;al. <xref rid="phy213085-bib-0054" ref-type="ref">1999</xref>; Schoemaker and van Heijningen <xref rid="phy213085-bib-0045" ref-type="ref">2000</xref>; Xiao et&#x000a0;al. <xref rid="phy213085-bib-0058" ref-type="ref">2001</xref>; Brzozowski et&#x000a0;al. <xref rid="phy213085-bib-0005" ref-type="ref">2004a</xref>; Dong et&#x000a0;al. <xref rid="phy213085-bib-0013" ref-type="ref">2004</xref>; Hibert et&#x000a0;al. <xref rid="phy213085-bib-0023" ref-type="ref">2013</xref>), stromal cell&#x02010;derived factor&#x02010;1 (Davidson et&#x000a0;al. <xref rid="phy213085-bib-0010" ref-type="ref">2013</xref>), and microRNA&#x02010;144 (Li et&#x000a0;al. <xref rid="phy213085-bib-0032" ref-type="ref">2014</xref>). However, it is unlikely that factors involved in hyperemic response which include adenosine, bradykinin, and NO (Smits et&#x000a0;al. <xref rid="phy213085-bib-0048" ref-type="ref">1995</xref>; Costa and Biaggioni <xref rid="phy213085-bib-0008" ref-type="ref">1998</xref>; Nyberg et&#x000a0;al. <xref rid="phy213085-bib-0040" ref-type="ref">2010</xref>) are responsible for the observed vasoconstriction in the uncuffed limb (Fig.&#x000a0;<xref rid="phy213085-fig-0005" ref-type="fig">5</xref>). One possible explanation for the vasoconstriction of microcirculatory blood vessels is that the release of local triggers in the preconditioned limb stimulate neural pathway(s) which in turn influence other organs (e.g., limb and heart). This is supported by studies showing limb ischemia induces norepinephrine release from the heart due to a systemic stress reaction, suggesting that this process involves adrenergic nerve termini of the heart (Oxman et&#x000a0;al. <xref rid="phy213085-bib-0041" ref-type="ref">1997</xref>). The activation of neural pathways such as <italic>&#x003b1;</italic>1 and <italic>&#x003b1;</italic>2 adrenergic signaling pathways release epinephrine which leads to vasoconstriction of smooth muscle (Vatner et&#x000a0;al. <xref rid="phy213085-bib-0056" ref-type="ref">1986</xref>). Moreover, <italic>&#x003b1;</italic>1&#x02010;adrenergic receptor has been implicated in the cardioprotection by RIPC (Taliyan et&#x000a0;al. <xref rid="phy213085-bib-0050" ref-type="ref">2010</xref>). Whether measuring blood flow in our study is linked to changes in coronary circulation is not presently known. Nonetheless, it has been suggested that peripheral changes in skin blood flow can reflect generalized microvascular function including that of the coronary circulation (Khan et&#x000a0;al. <xref rid="phy213085-bib-0029" ref-type="ref">2008</xref>).</p><p>In contrast to our study, a limited number of studies have reported vasodilatory effect when monitoring blood flow in selected remote organs (e.g., heart) during RIPC (Shimizu et&#x000a0;al. <xref rid="phy213085-bib-0047" ref-type="ref">2007</xref>; Enko et&#x000a0;al. <xref rid="phy213085-bib-0015" ref-type="ref">2011</xref>). In one study, RIPC application in conscious volunteers was found to induce vasodilatation of the contralateral artery (right brachial artery) (Enko et&#x000a0;al. <xref rid="phy213085-bib-0015" ref-type="ref">2011</xref>) while in another, RIPC application in anesthetized pigs was associated with coronary vasodilation (Shimizu et&#x000a0;al. <xref rid="phy213085-bib-0047" ref-type="ref">2007</xref>). These two studies were fundamentally different from our model where the volunteers were conscious and anesthetized pigs hearts were controlled by pacing during monitoring of coronary flow resistance (Shimizu et&#x000a0;al. <xref rid="phy213085-bib-0047" ref-type="ref">2007</xref>).</p><p>It is evident from our data that intermittent limb ischemia triggers reduced blood flow in contralateral limb and that this effect appears to be dependent on number of cycles. The work suggests a possible role for neuronal (e.g., sympathetic) involvement. However, evidence for direct involvement of neural autonomic control can be extrapolated from monitoring changes in heart rate and HRV as discussed below.</p></sec><sec id="phy213085-sec-0022"><title>RIPC increases heart rate ex&#x000a0;vivo and in&#x000a0;vivo and alters <italic>HRV</italic>
+</title><p>During the characterization of this mouse RIPC model, we found that spontaneously beating Langendorff&#x02010;perfused hearts show significantly higher heart rate (computed from developed tension) compared to control hearts (Fig.&#x000a0;<xref rid="phy213085-fig-0003" ref-type="fig">3</xref>A). This was also confirmed in&#x000a0;vivo where % change from baseline was significantly different at the end of RIPC (50&#x000a0;min) compared to control (Fig.&#x000a0;<xref rid="phy213085-fig-0003" ref-type="fig">3</xref>B). The relatively higher heart rate in isolated&#x02010;perfused heart after RIPC application could be triggered by different factors including changes in pacemaker cells excitability and the presence of neurotransmitter stores in the heart (Hoover et&#x000a0;al. <xref rid="phy213085-bib-0024" ref-type="ref">2004</xref>; Tan et&#x000a0;al. <xref rid="phy213085-bib-0052" ref-type="ref">2006</xref>). A likely trigger for increased heart rate is an activation of sympathetic activity. This is consistent with earlier evidence showing norepinephrine release from the heart following RIPC (Oxman et&#x000a0;al. <xref rid="phy213085-bib-0041" ref-type="ref">1997</xref>) and evidence of PKA activation as shown by the increased phosphorylation of ryanodine receptor 2 (Abdul&#x02010;Ghani et&#x000a0;al. <xref rid="phy213085-bib-0001" ref-type="ref">2013</xref>). <italic>&#x000df;</italic>&#x02010;blockers have been shown to block cardioprotection induced by spinal cord stimulation or peripheral surgical trauma (Southerland et&#x000a0;al. <xref rid="phy213085-bib-0049" ref-type="ref">2007</xref>; Jones et&#x000a0;al. <xref rid="phy213085-bib-0027" ref-type="ref">2009</xref>; Heusch et&#x000a0;al. <xref rid="phy213085-bib-0022" ref-type="ref">2015</xref>). Finally very recent study suggests that cardioprotection by RIPC may involve intrinsic cardiac ganglia (Pickard et&#x000a0;al. <xref rid="phy213085-bib-0042" ref-type="ref">2016</xref>).</p><p>Further evidence for the involvement of autonomic control of heart rate during RIPC comes from spectral analysis of HRV. HRV is widely used as a measure of ANS activity to the heart (sympatho&#x02010;vagal balance) (Roy and Ghatak <xref rid="phy213085-bib-0044" ref-type="ref">2013</xref>). The ratio between low and HF components of HRV spectra (LF/HF) ratio was relatively higher after reperfusion in the third cycle in RIPC group compared to control suggesting the involvement of sympathetic activity (Milicevic <xref rid="phy213085-bib-0036" ref-type="ref">2005</xref>). This finding contrasts with work showing intermittent human limb ischemia is associated with increased parasympathetic activity (Enko et&#x000a0;al. <xref rid="phy213085-bib-0015" ref-type="ref">2011</xref>). This, however, was tested in conscious volunteers with no evidence of cardioprotection. The finding that RIPC is associated with increased in sympathetic activity can be used to explain the increase in heart rate and vasoconstriction in limb's blood vessel. Moreover, these activities would render the heart metabolically stressed. To address this issue, the myocardial energetics were monitored in control and in RIPC hearts.</p></sec><sec id="phy213085-sec-0023"><title>RIPC alters cardiac energetics</title><p>Unexpectedly, our study showed signs of mild ischemic stress in RIPC hearts as evidenced by a relatively lower myocardial ATP/ADP, ATP/AMP, GTP/GDP, and GTP/GMP ratios and in energy charge (Fig.&#x000a0;<xref rid="phy213085-fig-0004" ref-type="fig">4</xref>). Clearly the extent of this anaerobic stress is relatively smaller than what is seen following classical preconditioning where ATP levels fall by as much as 30% (Murry et&#x000a0;al. <xref rid="phy213085-bib-0039" ref-type="ref">1990</xref>). The importance/relevance of this mild stress is not presently known. It is likely, however, that this change could trigger signaling pathways involved in protecting the heart during RIPC.</p></sec></sec><sec id="phy213085-sec-0024"><title>Summary and Conclusions</title><p>RIPC is associated with changes in cardiac and distal cardiovascular activities, consistent with ANS involvement which would contribute to cardioprotection.</p></sec><sec id="phy213085-sec-0025"><title>Clinical Perspective</title><p>Large amount of experimental data is available demonstrating that RIPC is a powerful, simple, noninvasive cardioprotective intervention. However, thus far this intervention has failed to convincingly translate into clinical practice. Lack of understanding of the signals mediating the response from distant organ to the heart or the cardiovascular changes during the application of RIPC and prior to index ischemia is likely to be key in hindering the translation of the RIPC intervention. Our work provides evidence for significant cardiovascular changes consistent with the involvement of ANS and myocardial metabolic stress during RIPC application which would provide an explanation for subsequent cardioprotective effects. These findings should prompt new translational/clinical studies that will take into account these changes in order to optimize conditions to take advantage of this intervention.</p></sec><sec id="phy213085-sec-0027"><title>Conflict of Interest</title><p>None declared.</p></sec></body><back><ack id="phy213085-sec-0026"><title>Acknowledgments</title><p>The authors thank Hua Lin for her assistance with performing the HPLC analysis.</p></ack><ref-list content-type="cited-references" id="phy213085-bibl-0001"><title>References</title><ref id="phy213085-bib-0001"><mixed-citation publication-type="journal" id="phy213085-cit-0001">
+<string-name>
+<surname>Abdul&#x02010;Ghani</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>G.</given-names>
+<surname>Chanoit</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Angelini</surname>
+</string-name> and <string-name>
+<given-names>M. S.</given-names>
+<surname>Suleiman</surname>
+</string-name>. <year>2013</year>
+<article-title>Cardiac energetics during remote ischemic preconditioning</article-title>. <source>Exp. Clin. Cardiol.</source>
+<volume>18</volume>:<fpage>1</fpage>&#x02013;<lpage>5</lpage>.</mixed-citation></ref><ref id="phy213085-bib-0002"><mixed-citation publication-type="journal" id="phy213085-cit-0002">
+<string-name>
+<surname>Ally</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>Park</surname>
+</string-name>. <year>1992</year>
+<article-title>Rapid determination of creatine, phosphocreatine, purine bases and nucleotides (ATP, ADP, AMP, GTP, GDP) in heart biopsies by gradient ion&#x02010;pair reversed&#x02010;phase liquid chromatography</article-title>. <source>J. Chromatogr.</source>
+<volume>575</volume>:<fpage>19</fpage>&#x02013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">1517298</pub-id></mixed-citation></ref><ref id="phy213085-bib-0003"><mixed-citation publication-type="journal" id="phy213085-cit-0003">
+<string-name>
+<surname>Atkinson</surname>, <given-names>D. E.</given-names>
+</string-name>, and <string-name>
+<given-names>G. M.</given-names>
+<surname>Walton</surname>
+</string-name>. <year>1967</year>
+<article-title>Adenosine triphosphate conservation in metabolic regulation. Rat liver citrate cleavage enzyme</article-title>. <source>J. Biol. Chem.</source>
+<volume>242</volume>:<fpage>3239</fpage>&#x02013;<lpage>3241</lpage>.<pub-id pub-id-type="pmid">6027798</pub-id></mixed-citation></ref><ref id="phy213085-bib-0004"><mixed-citation publication-type="journal" id="phy213085-cit-0004">
+<string-name>
+<surname>Baum</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<given-names>J. B.</given-names>
+<surname>Halter</surname>
+</string-name>, <string-name>
+<given-names>G. J.</given-names>
+<surname>Taborsky</surname>, <suffix>Jr.</suffix>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Porte</surname>, <suffix>Jr</suffix>
+</string-name>. <year>1985</year>
+<article-title>Pentobarbital effects on plasma catecholamines: temperature, heart rate, and blood pressure</article-title>. <source>Am. J. Physiol.</source>
+<volume>248</volume>:<fpage>E95</fpage>&#x02013;<lpage>E100</lpage>.<pub-id pub-id-type="pmid">3966554</pub-id></mixed-citation></ref><ref id="phy213085-bib-0005"><mixed-citation publication-type="journal" id="phy213085-cit-0005">
+<string-name>
+<surname>Brzozowski</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Konturek</surname>
+</string-name>, <string-name>
+<given-names>S. J.</given-names>
+<surname>Konturek</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Pajdo</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kwiecien</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Pawlik</surname>
+</string-name>, et&#x000a0;al. <year>2004a</year>
+<article-title>Ischemic preconditioning of remote organs attenuates gastric ischemia&#x02010;reperfusion injury through involvement of prostaglandins and sensory nerves</article-title>. <source>Eur. J. Pharmacol.</source>
+<volume>499</volume>:<fpage>201</fpage>&#x02013;<lpage>213</lpage>.<pub-id pub-id-type="pmid">15363968</pub-id></mixed-citation></ref><ref id="phy213085-bib-0006"><mixed-citation publication-type="journal" id="phy213085-cit-0006">
+<string-name>
+<surname>Brzozowski</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>P. C.</given-names>
+<surname>Konturek</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Pajdo</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kwiecien</surname>
+</string-name>, <string-name>
+<given-names>Z.</given-names>
+<surname>Sliwowski</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Drozdowicz</surname>
+</string-name>, et&#x000a0;al. <year>2004b</year>
+<article-title>Importance of brain&#x02010;gut axis in the gastroprotection induced by gastric and remote preconditioning</article-title>. <source>J. Physiol. Pharmacol.</source>
+<volume>55</volume>:<fpage>165</fpage>&#x02013;<lpage>177</lpage>.<pub-id pub-id-type="pmid">15082876</pub-id></mixed-citation></ref><ref id="phy213085-bib-0007"><mixed-citation publication-type="journal" id="phy213085-cit-0007">
+<string-name>
+<surname>Cai</surname>, <given-names>Z. P.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Parajuli</surname>
+</string-name>, <string-name>
+<given-names>X.</given-names>
+<surname>Zheng</surname>
+</string-name>, and <string-name>
+<given-names>L.</given-names>
+<surname>Becker</surname>
+</string-name>. <year>2012</year>
+<article-title>Remote ischemic preconditioning confers late protection against myocardial ischemia&#x02010;reperfusion injury in mice by upregulating interleukin&#x02010;10</article-title>. <source>Basic Res. Cardiol.</source>
+<volume>107</volume>:<fpage>277</fpage>.<pub-id pub-id-type="pmid">22752341</pub-id></mixed-citation></ref><ref id="phy213085-bib-0008"><mixed-citation publication-type="journal" id="phy213085-cit-0008">
+<string-name>
+<surname>Costa</surname>, <given-names>F.</given-names>
+</string-name>, and <string-name>
+<given-names>I.</given-names>
+<surname>Biaggioni</surname>
+</string-name>. <year>1998</year>
+<article-title>Role of nitric oxide in adenosine&#x02010;induced vasodilation in humans</article-title>. <source>Hypertension</source>
+<volume>31</volume>:<fpage>1061</fpage>&#x02013;<lpage>1064</lpage>.<pub-id pub-id-type="pmid">9576114</pub-id></mixed-citation></ref><ref id="phy213085-bib-0009"><mixed-citation publication-type="journal" id="phy213085-cit-0009">
+<string-name>
+<surname>Cromheecke</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Pepermans</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Hendrickx</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Lorsomradee</surname>
+</string-name>, <string-name>
+<given-names>P. W.</given-names>
+<surname>Ten Broecke</surname>
+</string-name>, <string-name>
+<given-names>B. A.</given-names>
+<surname>Stockman</surname>
+</string-name>, et&#x000a0;al. <year>2006</year>
+<article-title>Cardioprotective properties of sevoflurane in patients undergoing aortic valve replacement with cardiopulmonary bypass</article-title>. <source>Anesth. Analg.</source>
+<volume>103</volume>:<fpage>289</fpage>&#x02013;<lpage>296</lpage>, table of contents.<pub-id pub-id-type="pmid">16861404</pub-id></mixed-citation></ref><ref id="phy213085-bib-0010"><mixed-citation publication-type="journal" id="phy213085-cit-0010">
+<string-name>
+<surname>Davidson</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Selvaraj</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>He</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Boi&#x02010;Doku</surname>
+</string-name>, <string-name>
+<given-names>R. L.</given-names>
+<surname>Yellon</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Vicencio</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Remote ischaemic preconditioning involves signalling through the SDF&#x02010;1alpha/CXCR4 signalling axis</article-title>. <source>Basic Res. Cardiol.</source>
+<volume>108</volume>:<fpage>377</fpage>.<pub-id pub-id-type="pmid">23917520</pub-id></mixed-citation></ref><ref id="phy213085-bib-0011"><mixed-citation publication-type="journal" id="phy213085-cit-0011">
+<string-name>
+<surname>Ding</surname>, <given-names>Y. F.</given-names>
+</string-name>, <string-name>
+<given-names>M. M.</given-names>
+<surname>Zhang</surname>
+</string-name>, and <string-name>
+<given-names>R. R.</given-names>
+<surname>He</surname>
+</string-name>. <year>2001</year>
+<article-title>Role of renal nerve in cardioprotection provided by renal ischemic preconditioning in anesthetized rabbits</article-title>. <source>Sheng Li Xue Bao</source>
+<volume>53</volume>:<fpage>7</fpage>&#x02013;<lpage>12</lpage>.<pub-id pub-id-type="pmid">11354802</pub-id></mixed-citation></ref><ref id="phy213085-bib-0012"><mixed-citation publication-type="journal" id="phy213085-cit-0012">
+<string-name>
+<surname>Donato</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Buchholz</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Rodriguez</surname>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Perez</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Inserte</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Garcia&#x02010;Dorado</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Role of the parasympathetic nervous system in cardioprotection by remote hindlimb ischaemic preconditioning</article-title>. <source>Exp. Physiol.</source>
+<volume>98</volume>:<fpage>425</fpage>&#x02013;<lpage>434</lpage>.<pub-id pub-id-type="pmid">22872660</pub-id></mixed-citation></ref><ref id="phy213085-bib-0013"><mixed-citation publication-type="journal" id="phy213085-cit-0013">
+<string-name>
+<surname>Dong</surname>, <given-names>J. H.</given-names>
+</string-name>, <string-name>
+<given-names>Y. X.</given-names>
+<surname>Liu</surname>
+</string-name>, <string-name>
+<given-names>E. S.</given-names>
+<surname>Ji</surname>
+</string-name>, and <string-name>
+<given-names>R. R.</given-names>
+<surname>He</surname>
+</string-name>. <year>2004</year> [<article-title>Limb ischemic preconditioning reduces infarct size following myocardial ischemia&#x02010;reperfusion in rats</article-title>]. <source>Sheng Li Xue Bao</source>
+<volume>56</volume>:<fpage>41</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">14985828</pub-id></mixed-citation></ref><ref id="phy213085-bib-0014"><mixed-citation publication-type="journal" id="phy213085-cit-0014">
+<collab collab-type="authors">Task Force of the European Society of Cardiology the North American Society of Pacing Electrophysiology</collab>
+. <year>1996</year>
+<article-title>Heart rate variability: standards of measurement, physiological interpretation, and clinical use</article-title>. <source>Circulation</source>
+<volume>93</volume>:<fpage>1043</fpage>&#x02013;<lpage>1065</lpage>.<pub-id pub-id-type="pmid">8598068</pub-id></mixed-citation></ref><ref id="phy213085-bib-0015"><mixed-citation publication-type="journal" id="phy213085-cit-0015">
+<string-name>
+<surname>Enko</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Nakamura</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yunoki</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Miyoshi</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Akagi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Yoshida</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>
+<article-title>Intermittent arm ischemia induces vasodilatation of the contralateral upper limb</article-title>. <source>J. Physiol. Sci.</source>
+<volume>61</volume>:<fpage>507</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">21901641</pub-id></mixed-citation></ref><ref id="phy213085-bib-0016"><mixed-citation publication-type="journal" id="phy213085-cit-0016">
+<string-name>
+<surname>Fleishman</surname>, <given-names>A. N.</given-names>
+</string-name>, <string-name>
+<given-names>I. D.</given-names>
+<surname>Martynov</surname>
+</string-name>, <string-name>
+<given-names>S. A.</given-names>
+<surname>Petrovsky</surname>
+</string-name>, and <string-name>
+<given-names>T. V.</given-names>
+<surname>Korablina</surname>
+</string-name>. <year>2014</year>
+<article-title>Orthostatic tachycardia: diagnostic and prognostic value of very low frequency of heart rate variability</article-title>. <source>Bull. Sib. Med.</source>
+<volume>13</volume>:<fpage>136</fpage>&#x02013;<lpage>148</lpage>.</mixed-citation></ref><ref id="phy213085-bib-0017"><mixed-citation publication-type="journal" id="phy213085-cit-0017">
+<string-name>
+<surname>Gao</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Ho</surname>
+</string-name>, <string-name>
+<given-names>D. E.</given-names>
+<surname>Vatner</surname>
+</string-name>, and <string-name>
+<given-names>S. F.</given-names>
+<surname>Vatner</surname>
+</string-name>. <year>2011</year>
+<article-title>Echocardiography in mice</article-title>. <source>Curr. Protoc. Mouse Biol.</source>
+<volume>1</volume>:<fpage>71</fpage>&#x02013;<lpage>83</lpage>.<pub-id pub-id-type="pmid">21743841</pub-id></mixed-citation></ref><ref id="phy213085-bib-0018"><mixed-citation publication-type="journal" id="phy213085-cit-0018">
+<string-name>
+<surname>Gho</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<given-names>R. G.</given-names>
+<surname>Schoemaker</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>van den Doel</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Duncker</surname>
+</string-name>, and <string-name>
+<given-names>P. D.</given-names>
+<surname>Verdouw</surname>
+</string-name>. <year>1996</year>
+<article-title>Myocardial protection by brief ischemia in noncardiac tissue</article-title>. <source>Circulation</source>
+<volume>94</volume>:<fpage>2193</fpage>&#x02013;<lpage>2200</lpage>.<pub-id pub-id-type="pmid">8901671</pub-id></mixed-citation></ref><ref id="phy213085-bib-0019"><mixed-citation publication-type="journal" id="phy213085-cit-0019">
+<string-name>
+<surname>Gill</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kuriakose</surname>
+</string-name>, <string-name>
+<given-names>Z. M.</given-names>
+<surname>Gertz</surname>
+</string-name>, <string-name>
+<given-names>F. N.</given-names>
+<surname>Salloum</surname>
+</string-name>, <string-name>
+<given-names>L.</given-names>
+<surname>Xi</surname>
+</string-name>, and <string-name>
+<given-names>R. C.</given-names>
+<surname>Kukreja</surname>
+</string-name>. <year>2015</year>
+<article-title>Remote ischemic preconditioning for myocardial protection: update on mechanisms and clinical relevance</article-title>. <source>Mol. Cell. Biochem.</source>
+<volume>402</volume>:<fpage>41</fpage>&#x02013;<lpage>49</lpage>.<pub-id pub-id-type="pmid">25552250</pub-id></mixed-citation></ref><ref id="phy213085-bib-0020"><mixed-citation publication-type="journal" id="phy213085-cit-0020">
+<string-name>
+<surname>Gout</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Rebeille</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Douce</surname>
+</string-name>, and <string-name>
+<given-names>R.</given-names>
+<surname>Bligny</surname>
+</string-name>. <year>2014</year>
+<article-title>Interplay of Mg2+, ADP, and ATP in the cytosol and mitochondria: unravelling the role of Mg2+ in cell respiration</article-title>. <source>Proc. Natl. Acad. Sci. USA</source>
+<volume>111</volume>:<fpage>E4560</fpage>&#x02013;<lpage>E4567</lpage>.<pub-id pub-id-type="pmid">25313036</pub-id></mixed-citation></ref><ref id="phy213085-bib-0021"><mixed-citation publication-type="journal" id="phy213085-cit-0021">
+<string-name>
+<surname>Hart</surname>, <given-names>C. Y.</given-names>
+</string-name>, <string-name>
+<given-names>J. C.</given-names>
+<surname>Burnett</surname>, <suffix>Jr.</suffix>
+</string-name>, and <string-name>
+<given-names>M. M.</given-names>
+<surname>Redfield</surname>
+</string-name>. <year>2001</year>
+<article-title>Effects of avertin versus xylazine&#x02010;ketamine anesthesia on cardiac function in normal mice</article-title>. <source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<volume>281</volume>:<fpage>H1938</fpage>&#x02013;<lpage>H1945</lpage>.<pub-id pub-id-type="pmid">11668054</pub-id></mixed-citation></ref><ref id="phy213085-bib-0022"><mixed-citation publication-type="journal" id="phy213085-cit-0022">
+<string-name>
+<surname>Heusch</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<given-names>H. E.</given-names>
+<surname>Botker</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Przyklenk</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Redington</surname>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Yellon</surname>
+</string-name>. <year>2015</year>
+<article-title>Remote ischemic conditioning</article-title>. <source>J. Am. Coll. Cardiol.</source>
+<volume>65</volume>:<fpage>177</fpage>&#x02013;<lpage>195</lpage>.<pub-id pub-id-type="pmid">25593060</pub-id></mixed-citation></ref><ref id="phy213085-bib-0023"><mixed-citation publication-type="journal" id="phy213085-cit-0023">
+<string-name>
+<surname>Hibert</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Prunier&#x02010;Mirebeau</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Beseme</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Chwastyniak</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tamareille</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Lamon</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Apolipoprotein a&#x02010;I is a potential mediator of remote ischemic preconditioning</article-title>. <source>PLoS One</source>
+<volume>8</volume>:<fpage>e77211</fpage>.<pub-id pub-id-type="pmid">24155931</pub-id></mixed-citation></ref><ref id="phy213085-bib-0024"><mixed-citation publication-type="journal" id="phy213085-cit-0024">
+<string-name>
+<surname>Hoover</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<given-names>C. E.</given-names>
+<surname>Ganote</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Ferguson</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>Blakely</surname>
+</string-name>, and <string-name>
+<given-names>R. L.</given-names>
+<surname>Parsons</surname>
+</string-name>. <year>2004</year>
+<article-title>Localization of cholinergic innervation in guinea pig heart by immunohistochemistry for high&#x02010;affinity choline transporters</article-title>. <source>Cardiovasc. Res.</source>
+<volume>62</volume>:<fpage>112</fpage>&#x02013;<lpage>121</lpage>.<pub-id pub-id-type="pmid">15023558</pub-id></mixed-citation></ref><ref id="phy213085-bib-0025"><mixed-citation publication-type="journal" id="phy213085-cit-0025">
+<string-name>
+<surname>Imura</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Caputo</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Parry</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pawade</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Angelini</surname>
+</string-name>, and <string-name>
+<given-names>M. S.</given-names>
+<surname>Suleiman</surname>
+</string-name>. <year>2001</year>
+<article-title>Age&#x02010;dependent and hypoxia&#x02010;related differences in myocardial protection during pediatric open heart surgery</article-title>. <source>Circulation</source>
+<volume>103</volume>:<fpage>1551</fpage>&#x02013;<lpage>1556</lpage>.<pub-id pub-id-type="pmid">11257084</pub-id></mixed-citation></ref><ref id="phy213085-bib-0026"><mixed-citation publication-type="journal" id="phy213085-cit-0026">
+<string-name>
+<surname>Imura</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Lin</surname>
+</string-name>, <string-name>
+<given-names>E. J.</given-names>
+<surname>Griffiths</surname>
+</string-name>, and <string-name>
+<given-names>M. S.</given-names>
+<surname>Suleiman</surname>
+</string-name>. <year>2011</year>
+<article-title>Controlled hyperkalemic reperfusion with magnesium&#x000a0;rescues ischemic juvenile hearts by reducing calcium loading</article-title>. <source>J. Thorac. Cardiovasc. Surg.</source>
+<volume>141</volume>:<fpage>1529</fpage>&#x02013;<lpage>1537</lpage>.<pub-id pub-id-type="pmid">21168858</pub-id></mixed-citation></ref><ref id="phy213085-bib-0027"><mixed-citation publication-type="journal" id="phy213085-cit-0027">
+<string-name>
+<surname>Jones</surname>, <given-names>W. K.</given-names>
+</string-name>, <string-name>
+<given-names>G. C.</given-names>
+<surname>Fan</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Liao</surname>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Wang</surname>
+</string-name>, <string-name>
+<given-names>N. L.</given-names>
+<surname>Weintraub</surname>
+</string-name>, et&#x000a0;al. <year>2009</year>
+<article-title>Peripheral nociception associated with surgical incision elicits remote nonischemic cardioprotection via neurogenic activation of protein kinase C signaling</article-title>. <source>Circulation</source>
+<volume>120</volume>:<fpage>S1</fpage>&#x02013;<lpage>S9</lpage>.<pub-id pub-id-type="pmid">19752352</pub-id></mixed-citation></ref><ref id="phy213085-bib-0028"><mixed-citation publication-type="journal" id="phy213085-cit-0028">
+<string-name>
+<surname>Kalakech</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Tamareille</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Pons</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Godin&#x02010;Ribuot</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Carmeliet</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Furber</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Role of hypoxia inducible factor&#x02010;1alpha in remote limb ischemic preconditioning</article-title>. <source>J. Mol. Cell. Cardiol.</source>
+<volume>65</volume>:<fpage>98</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">24140799</pub-id></mixed-citation></ref><ref id="phy213085-bib-0029"><mixed-citation publication-type="journal" id="phy213085-cit-0029">
+<string-name>
+<surname>Khan</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Patterson</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<surname>Belch</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hirata</surname>
+</string-name>, and <string-name>
+<given-names>C. C.</given-names>
+<surname>Lang</surname>
+</string-name>. <year>2008</year>
+<article-title>Relationship between peripheral and coronary function using laser Doppler imaging and transthoracic echocardiography</article-title>. <source>Clin. Sci. (Lond.)</source>
+<volume>115</volume>:<fpage>295</fpage>&#x02013;<lpage>300</lpage>.<pub-id pub-id-type="pmid">18338981</pub-id></mixed-citation></ref><ref id="phy213085-bib-0030"><mixed-citation publication-type="journal" id="phy213085-cit-0030">
+<string-name>
+<surname>Lambert</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Thomas</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Hemmes</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Eikelis</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pathak</surname>
+</string-name>, <string-name>
+<given-names>M. P.</given-names>
+<surname>Schlaich</surname>
+</string-name>, et&#x000a0;al. <year>2016</year>
+<article-title>Sympathetic nervous response to ischemia&#x02010;reperfusion injury in humans is altered with remote ischemic preconditioning</article-title>. <source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<volume>311</volume>:<fpage>H364</fpage>&#x02013;<lpage>H370</lpage>.<pub-id pub-id-type="pmid">27288436</pub-id></mixed-citation></ref><ref id="phy213085-bib-0031"><mixed-citation publication-type="journal" id="phy213085-cit-0031">
+<string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Xuan</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Yan</surname>
+</string-name>, <string-name>
+<given-names>M. B.</given-names>
+<surname>Tropak</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Jean&#x02010;St&#x02010;Michel</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Liang</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>
+<article-title>Remote preconditioning provides potent cardioprotection via PI3K/Akt activation and is associated with nuclear accumulation of beta&#x02010;catenin</article-title>. <source>Clin. Sci. (Lond.)</source>
+<volume>120</volume>:<fpage>451</fpage>&#x02013;<lpage>462</lpage>.<pub-id pub-id-type="pmid">21143191</pub-id></mixed-citation></ref><ref id="phy213085-bib-0032"><mixed-citation publication-type="journal" id="phy213085-cit-0032">
+<string-name>
+<surname>Li</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Rohailla</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Gelber</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Rutka</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Sabah</surname>
+</string-name>, <string-name>
+<given-names>R. A.</given-names>
+<surname>Gladstone</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>MicroRNA&#x02010;144 is a circulating effector of remote ischemic preconditioning</article-title>. <source>Basic Res. Cardiol.</source>
+<volume>109</volume>:<fpage>423</fpage>.<pub-id pub-id-type="pmid">25060662</pub-id></mixed-citation></ref><ref id="phy213085-bib-0033"><mixed-citation publication-type="journal" id="phy213085-cit-0033">
+<string-name>
+<surname>Lim</surname>, <given-names>S. Y.</given-names>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Yellon</surname>
+</string-name>, and <string-name>
+<given-names>D. J.</given-names>
+<surname>Hausenloy</surname>
+</string-name>. <year>2010</year>
+<article-title>The neural and humoral pathways in remote limb ischemic preconditioning</article-title>. <source>Basic Res. Cardiol.</source>
+<volume>105</volume>:<fpage>651</fpage>&#x02013;<lpage>655</lpage>.<pub-id pub-id-type="pmid">20449597</pub-id></mixed-citation></ref><ref id="phy213085-bib-0034"><mixed-citation publication-type="journal" id="phy213085-cit-0034">
+<string-name>
+<surname>Mastitskaya</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Marina</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gourine</surname>
+</string-name>, <string-name>
+<given-names>M. P.</given-names>
+<surname>Gilbey</surname>
+</string-name>, <string-name>
+<given-names>K. M.</given-names>
+<surname>Spyer</surname>
+</string-name>, <string-name>
+<given-names>A. G.</given-names>
+<surname>Teschemacher</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Cardioprotection evoked by remote ischaemic preconditioning is critically dependent on the activity of vagal pre&#x02010;ganglionic neurones</article-title>. <source>Cardiovasc. Res.</source>
+<volume>95</volume>:<fpage>487</fpage>&#x02013;<lpage>494</lpage>.<pub-id pub-id-type="pmid">22739118</pub-id></mixed-citation></ref><ref id="phy213085-bib-0035"><mixed-citation publication-type="journal" id="phy213085-cit-0035">
+<string-name>
+<surname>Mastitskaya</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Basalay</surname>
+</string-name>, <string-name>
+<given-names>P. S.</given-names>
+<surname>Hosford</surname>
+</string-name>, <string-name>
+<given-names>A. G.</given-names>
+<surname>Ramage</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Gourine</surname>
+</string-name>, and <string-name>
+<given-names>A. V.</given-names>
+<surname>Gourine</surname>
+</string-name>. <year>2016</year>
+<article-title>Identifying the source of a humoral factor of remote (pre)conditioning cardioprotection</article-title>. <source>PLoS One</source>
+<volume>11</volume>:<fpage>e0150108</fpage>.<pub-id pub-id-type="pmid">26918777</pub-id></mixed-citation></ref><ref id="phy213085-bib-0036"><mixed-citation publication-type="journal" id="phy213085-cit-0036">
+<string-name>
+<surname>Milicevic</surname>, <given-names>G.</given-names>
+</string-name>
+<year>2005</year>
+<article-title>Low to high frequency ratio of heart rate variability spectra fails to describe sympatho&#x02010;vagal balance in cardiac patients</article-title>. <source>Coll. Antropol.</source>
+<volume>29</volume>:<fpage>295</fpage>&#x02013;<lpage>300</lpage>.<pub-id pub-id-type="pmid">16117339</pub-id></mixed-citation></ref><ref id="phy213085-bib-0037"><mixed-citation publication-type="journal" id="phy213085-cit-0037">
+<string-name>
+<surname>Modi</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<given-names>M. S.</given-names>
+<surname>Suleiman</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Reeves</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Pawade</surname>
+</string-name>, <string-name>
+<given-names>A. J.</given-names>
+<surname>Parry</surname>
+</string-name>, <string-name>
+<given-names>G. D.</given-names>
+<surname>Angelini</surname>
+</string-name>, et&#x000a0;al. <year>2004</year>
+<article-title>Myocardial metabolic changes during pediatric cardiac surgery: a randomized study of 3 cardioplegic techniques</article-title>. <source>J. Thorac. Cardiovasc. Surg.</source>
+<volume>128</volume>:<fpage>67</fpage>&#x02013;<lpage>75</lpage>.<pub-id pub-id-type="pmid">15224023</pub-id></mixed-citation></ref><ref id="phy213085-bib-0038"><mixed-citation publication-type="book" id="phy213085-cit-0038">
+<string-name>
+<surname>Murray</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Pekow</surname>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>Borkowski</surname>
+</string-name>. <year>2000</year>
+<chapter-title>Laboratory animals: rodent anesthesia &#x00026; analgesia</chapter-title> Pp. <fpage>1</fpage>&#x02013;<lpage>22</lpage>
+<italic>in</italic> Autotutorial Committee of the American College of Laboratory Animal Medicine, ed. <source>Laboratory Animal Medicine and Science &#x02013; Series II</source>. <publisher-name>University of Washington, Health Sciences Center for Educational Resources</publisher-name>, <publisher-loc>Seattle, WA</publisher-loc>.</mixed-citation></ref><ref id="phy213085-bib-0039"><mixed-citation publication-type="journal" id="phy213085-cit-0039">
+<string-name>
+<surname>Murry</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name>
+<given-names>V. J.</given-names>
+<surname>Richard</surname>
+</string-name>, <string-name>
+<given-names>K. A.</given-names>
+<surname>Reimer</surname>
+</string-name>, and <string-name>
+<given-names>R. B.</given-names>
+<surname>Jennings</surname>
+</string-name>. <year>1990</year>
+<article-title>Ischemic preconditioning slows energy metabolism and delays ultrastructural damage during a sustained ischemic episode</article-title>. <source>Circ. Res.</source>
+<volume>66</volume>:<fpage>913</fpage>&#x02013;<lpage>931</lpage>.<pub-id pub-id-type="pmid">2317895</pub-id></mixed-citation></ref><ref id="phy213085-bib-0040"><mixed-citation publication-type="journal" id="phy213085-cit-0040">
+<string-name>
+<surname>Nyberg</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>S. P.</given-names>
+<surname>Mortensen</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Thaning</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Saltin</surname>
+</string-name>, and <string-name>
+<given-names>Y.</given-names>
+<surname>Hellsten</surname>
+</string-name>. <year>2010</year>
+<article-title>Interstitial and plasma adenosine stimulate nitric oxide and prostacyclin formation in human skeletal muscle</article-title>. <source>Hypertension</source>
+<volume>56</volume>:<fpage>1102</fpage>&#x02013;<lpage>1108</lpage>.<pub-id pub-id-type="pmid">21041702</pub-id></mixed-citation></ref><ref id="phy213085-bib-0041"><mixed-citation publication-type="journal" id="phy213085-cit-0041">
+<string-name>
+<surname>Oxman</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Arad</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Klein</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Avazov</surname>
+</string-name>, and <string-name>
+<given-names>B.</given-names>
+<surname>Rabinowitz</surname>
+</string-name>. <year>1997</year>
+<article-title>Limb ischemia preconditions the heart against reperfusion tachyarrhythmia</article-title>. <source>Am. J. Physiol.</source>
+<volume>273</volume>:<fpage>H1707</fpage>&#x02013;<lpage>H1712</lpage>.<pub-id pub-id-type="pmid">9362234</pub-id></mixed-citation></ref><ref id="phy213085-bib-0042"><mixed-citation publication-type="journal" id="phy213085-cit-0042">
+<string-name>
+<surname>Pickard</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Davidson</surname>
+</string-name>, <string-name>
+<given-names>D. J.</given-names>
+<surname>Hausenloy</surname>
+</string-name>, and <string-name>
+<given-names>D. M.</given-names>
+<surname>Yellon</surname>
+</string-name>. <year>2016</year>
+<article-title>Co&#x02010;dependence of the neural and humoral pathways in the mechanism of remote ischemic conditioning</article-title>. <source>Basic Res. Cardiol.</source>
+<volume>111</volume>:<fpage>50</fpage>.<pub-id pub-id-type="pmid">27338249</pub-id></mixed-citation></ref><ref id="phy213085-bib-0043"><mixed-citation publication-type="journal" id="phy213085-cit-0043">
+<string-name>
+<surname>Ross</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Foex</surname>
+</string-name>. <year>1999</year>
+<article-title>Protective effects of anaesthetics in reversible and irreversible ischaemia&#x02010;reperfusion injury</article-title>. <source>Br. J. Anaesth.</source>
+<volume>82</volume>:<fpage>622</fpage>&#x02013;<lpage>632</lpage>.<pub-id pub-id-type="pmid">10472233</pub-id></mixed-citation></ref><ref id="phy213085-bib-0044"><mixed-citation publication-type="journal" id="phy213085-cit-0044">
+<string-name>
+<surname>Roy</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Ghatak</surname>
+</string-name>. <year>2013</year>
+<article-title>Nonlinear methods to assess changes in heart rate variability in type 2 diabetic patients</article-title>. <source>Arq. Bras. Cardiol.</source>
+<volume>101</volume>:<fpage>317</fpage>&#x02013;<lpage>327</lpage>.<pub-id pub-id-type="pmid">24008652</pub-id></mixed-citation></ref><ref id="phy213085-bib-0045"><mixed-citation publication-type="journal" id="phy213085-cit-0045">
+<string-name>
+<surname>Schoemaker</surname>, <given-names>R. G.</given-names>
+</string-name>, and <string-name>
+<given-names>C. L.</given-names>
+<surname>van Heijningen</surname>
+</string-name>. <year>2000</year>&#x000a0;<article-title>Bradykinin mediates cardiac preconditioning at a distance</article-title>. <source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<volume>278</volume>:<fpage>H1571</fpage>&#x02013;<lpage>H1576</lpage>.<pub-id pub-id-type="pmid">10775135</pub-id></mixed-citation></ref><ref id="phy213085-bib-0046"><mixed-citation publication-type="journal" id="phy213085-cit-0046">
+<string-name>
+<surname>Serejo</surname>, <given-names>F. C.</given-names>
+</string-name>, <string-name>
+<given-names>L. F.</given-names>
+<surname>Rodrigues</surname>, <suffix>Jr.</suffix>
+</string-name>, <string-name>
+<given-names>K. C.</given-names>
+<surname>da Silva Tavares</surname>
+</string-name>, <string-name>
+<given-names>A. C.</given-names>
+<surname>de Carvalho</surname>
+</string-name>, and <string-name>
+<given-names>J. H.</given-names>
+<surname>Nascimento</surname>
+</string-name>. <year>2007</year>
+<article-title>Cardioprotective properties of humoral factors released from rat hearts subject to ischemic preconditioning</article-title>. <source>J. Cardiovasc. Pharmacol.</source>
+<volume>49</volume>:<fpage>214</fpage>&#x02013;<lpage>220</lpage>.<pub-id pub-id-type="pmid">17438406</pub-id></mixed-citation></ref><ref id="phy213085-bib-0047"><mixed-citation publication-type="journal" id="phy213085-cit-0047">
+<string-name>
+<surname>Shimizu</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>I. E.</given-names>
+<surname>Konstantinov</surname>
+</string-name>, <string-name>
+<given-names>R. K.</given-names>
+<surname>Kharbanda</surname>
+</string-name>, <string-name>
+<given-names>M. H.</given-names>
+<surname>Cheung</surname>
+</string-name>, and <string-name>
+<given-names>A. N.</given-names>
+<surname>Redington</surname>
+</string-name>. <year>2007</year>
+<article-title>Effects of intermittent lower limb ischaemia on coronary blood flow and coronary resistance in pigs</article-title>. <source>Acta Physiol. (Oxf.)</source>
+<volume>190</volume>:<fpage>103</fpage>&#x02013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">17394577</pub-id></mixed-citation></ref><ref id="phy213085-bib-0048"><mixed-citation publication-type="journal" id="phy213085-cit-0048">
+<string-name>
+<surname>Smits</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<given-names>S. B.</given-names>
+<surname>Williams</surname>
+</string-name>, <string-name>
+<given-names>D. E.</given-names>
+<surname>Lipson</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Banitt</surname>
+</string-name>, <string-name>
+<given-names>G. A.</given-names>
+<surname>Rongen</surname>
+</string-name>, and <string-name>
+<given-names>M. A.</given-names>
+<surname>Creager</surname>
+</string-name>. <year>1995</year>
+<article-title>Endothelial release of nitric oxide contributes to the vasodilator effect of adenosine in humans</article-title>. <source>Circulation</source>
+<volume>92</volume>:<fpage>2135</fpage>&#x02013;<lpage>2141</lpage>.<pub-id pub-id-type="pmid">7554193</pub-id></mixed-citation></ref><ref id="phy213085-bib-0049"><mixed-citation publication-type="journal" id="phy213085-cit-0049">
+<string-name>
+<surname>Southerland</surname>, <given-names>E. M.</given-names>
+</string-name>, <string-name>
+<given-names>D. M.</given-names>
+<surname>Milhorn</surname>
+</string-name>, <string-name>
+<given-names>R. D.</given-names>
+<surname>Foreman</surname>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Linderoth</surname>
+</string-name>, <string-name>
+<given-names>M. J.</given-names>
+<surname>DeJongste</surname>
+</string-name>, <string-name>
+<given-names>J. A.</given-names>
+<surname>Armour</surname>
+</string-name>, et&#x000a0;al. <year>2007</year>
+<article-title>Preemptive, but not reactive, spinal cord stimulation mitigates transient ischemia&#x02010;induced myocardial infarction via cardiac adrenergic neurons</article-title>. <source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<volume>292</volume>:<fpage>H311</fpage>&#x02013;<lpage>H317</lpage>.<pub-id pub-id-type="pmid">16920800</pub-id></mixed-citation></ref><ref id="phy213085-bib-0050"><mixed-citation publication-type="journal" id="phy213085-cit-0050">
+<string-name>
+<surname>Taliyan</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Singh</surname>
+</string-name>, <string-name>
+<given-names>P. L.</given-names>
+<surname>Sharma</surname>
+</string-name>, <string-name>
+<given-names>H. N.</given-names>
+<surname>Yadav</surname>
+</string-name>, and <string-name>
+<given-names>K. S.</given-names>
+<surname>Sidhu</surname>
+</string-name>. <year>2010</year>
+<article-title>Possible involvement of alpha1&#x02010;adrenergic receptor and K(ATP) channels in cardioprotective effect of remote aortic preconditioning in isolated rat heart</article-title>. <source>J. Cardiovasc. Dis. Res.</source>
+<volume>1</volume>:<fpage>145</fpage>&#x02013;<lpage>151</lpage>.<pub-id pub-id-type="pmid">21187869</pub-id></mixed-citation></ref><ref id="phy213085-bib-0051"><mixed-citation publication-type="journal" id="phy213085-cit-0051">
+<string-name>
+<surname>Tamareille</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>V.</given-names>
+<surname>Mateus</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Ghaboura</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Jeanneteau</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Croue</surname>
+</string-name>, <string-name>
+<given-names>D.</given-names>
+<surname>Henrion</surname>
+</string-name>, et&#x000a0;al. <year>2011</year>
+<article-title>RISK and SAFE signaling pathway interactions in remote limb ischemic perconditioning in combination with local ischemic postconditioning</article-title>. <source>Basic Res. Cardiol.</source>
+<volume>106</volume>:<fpage>1329</fpage>&#x02013;<lpage>1339</lpage>.<pub-id pub-id-type="pmid">21833651</pub-id></mixed-citation></ref><ref id="phy213085-bib-0052"><mixed-citation publication-type="journal" id="phy213085-cit-0052">
+<string-name>
+<surname>Tan</surname>, <given-names>A. Y.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Li</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Wachsmann&#x02010;Hogiu</surname>
+</string-name>, <string-name>
+<given-names>L. S.</given-names>
+<surname>Chen</surname>
+</string-name>, <string-name>
+<given-names>P. S.</given-names>
+<surname>Chen</surname>
+</string-name>, and <string-name>
+<given-names>M. C.</given-names>
+<surname>Fishbein</surname>
+</string-name>. <year>2006</year>
+<article-title>Autonomic innervation and segmental muscular disconnections at the human pulmonary vein&#x02010;atrial junction: implications for catheter ablation of atrial&#x02010;pulmonary vein junction</article-title>. <source>J. Am. Coll. Cardiol.</source>
+<volume>48</volume>:<fpage>132</fpage>&#x02013;<lpage>143</lpage>.<pub-id pub-id-type="pmid">16814659</pub-id></mixed-citation></ref><ref id="phy213085-bib-0053"><mixed-citation publication-type="journal" id="phy213085-cit-0053">
+<string-name>
+<surname>Tanaka</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Fujiwara</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Yamasaki</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Yokota</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Doyama</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Inada</surname>
+</string-name>, et&#x000a0;al. <year>1998</year>
+<article-title>Expression of heat shock protein after ischemic preconditioning in rabbit hearts</article-title>. <source>Jpn. Circ. J.</source>
+<volume>62</volume>:<fpage>512</fpage>&#x02013;<lpage>516</lpage>.<pub-id pub-id-type="pmid">9707008</pub-id></mixed-citation></ref><ref id="phy213085-bib-0054"><mixed-citation publication-type="journal" id="phy213085-cit-0054">
+<string-name>
+<surname>Tang</surname>, <given-names>Z. L.</given-names>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Dai</surname>
+</string-name>, <string-name>
+<given-names>Y. J.</given-names>
+<surname>Li</surname>
+</string-name>, and <string-name>
+<given-names>H. W.</given-names>
+<surname>Deng</surname>
+</string-name>. <year>1999</year>
+<article-title>Involvement of capsaicin&#x02010;sensitive sensory nerves in early and delayed cardioprotection induced by a brief ischaemia of the small intestine</article-title>. <source>Naunyn Schmiedebergs Arch. Pharmacol.</source>
+<volume>359</volume>:<fpage>243</fpage>&#x02013;<lpage>247</lpage>.<pub-id pub-id-type="pmid">10208312</pub-id></mixed-citation></ref><ref id="phy213085-bib-0055"><mixed-citation publication-type="journal" id="phy213085-cit-0055">
+<string-name>
+<surname>Thomas</surname>, <given-names>G. D.</given-names>
+</string-name>, and <string-name>
+<given-names>S. S.</given-names>
+<surname>Segal</surname>
+</string-name>. <year>2004</year>
+<article-title>Neural control of muscle blood flow during exercise</article-title>. <source>J. Appl. Physiol. (1985)</source>
+<volume>97</volume>:<fpage>731</fpage>&#x02013;<lpage>738</lpage>.<pub-id pub-id-type="pmid">15247201</pub-id></mixed-citation></ref><ref id="phy213085-bib-0056"><mixed-citation publication-type="journal" id="phy213085-cit-0056">
+<string-name>
+<surname>Vatner</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<given-names>D. R.</given-names>
+<surname>Knight</surname>
+</string-name>, <string-name>
+<given-names>C. J.</given-names>
+<surname>Homcy</surname>
+</string-name>, <string-name>
+<given-names>S. F.</given-names>
+<surname>Vatner</surname>
+</string-name>, and <string-name>
+<given-names>M. A.</given-names>
+<surname>Young</surname>
+</string-name>. <year>1986</year>
+<article-title>Subtypes of beta&#x02010;adrenergic receptors in bovine coronary arteries</article-title>. <source>Circ. Res.</source>
+<volume>59</volume>:<fpage>463</fpage>&#x02013;<lpage>473</lpage>.<pub-id pub-id-type="pmid">2878738</pub-id></mixed-citation></ref><ref id="phy213085-bib-0057"><mixed-citation publication-type="journal" id="phy213085-cit-0057">
+<string-name>
+<surname>Wolfrum</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Schneider</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Heidbreder</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Nienstedt</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Dominiak</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Dendorfer</surname>
+</string-name>. <year>2002</year>
+<article-title>Remote preconditioning protects the heart by activating myocardial PKCepsilon&#x02010;isoform</article-title>. <source>Cardiovasc. Res.</source>
+<volume>55</volume>:<fpage>583</fpage>&#x02013;<lpage>589</lpage>.<pub-id pub-id-type="pmid">12160956</pub-id></mixed-citation></ref><ref id="phy213085-bib-0058"><mixed-citation publication-type="journal" id="phy213085-cit-0058">
+<string-name>
+<surname>Xiao</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Lu</surname>
+</string-name>, <string-name>
+<given-names>C. P.</given-names>
+<surname>Hu</surname>
+</string-name>, <string-name>
+<given-names>H. W.</given-names>
+<surname>Deng</surname>
+</string-name>, and <string-name>
+<given-names>Y. J.</given-names>
+<surname>Li</surname>
+</string-name>. <year>2001</year>
+<article-title>Delayed cardioprotection by intestinal preconditioning is mediated by calcitonin gene&#x02010;related peptide</article-title>. <source>Eur. J. Pharmacol.</source>
+<volume>427</volume>:<fpage>131</fpage>&#x02013;<lpage>135</lpage>.<pub-id pub-id-type="pmid">11557265</pub-id></mixed-citation></ref><ref id="phy213085-bib-0059"><mixed-citation publication-type="journal" id="phy213085-cit-0059">
+<string-name>
+<surname>Yamamura</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Steenbergen</surname>
+</string-name>, and <string-name>
+<given-names>E.</given-names>
+<surname>Murphy</surname>
+</string-name>. <year>2005</year>
+<article-title>Protein kinase C and preconditioning: role of the sarcoplasmic reticulum</article-title>. <source>Am. J. Physiol. Heart Circ. Physiol.</source>
+<volume>289</volume>:<fpage>H2484</fpage>&#x02013;<lpage>H2490</lpage>.<pub-id pub-id-type="pmid">16055516</pub-id></mixed-citation></ref><ref id="phy213085-bib-0060"><mixed-citation publication-type="journal" id="phy213085-cit-0060">
+<string-name>
+<surname>Zagidullin</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Scherbakova</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Safina</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Zulkarneev</surname>
+</string-name>, and <string-name>
+<given-names>S.</given-names>
+<surname>Zagidullin</surname>
+</string-name>. <year>2016</year>
+<article-title>The impact of remote ischemic preconditioning on arterial stiffness and heart rate variability in patients with angina pectoris</article-title>. <source>J. Clin. Med.</source>
+<volume>5</volume>:<fpage>E60</fpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.3390/jcm5070060">10.3390/jcm5070060</ext-link>.<pub-id pub-id-type="pmid">27348009</pub-id></mixed-citation></ref></ref-list></back></article>

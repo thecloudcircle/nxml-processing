@@ -1,0 +1,1085 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="brief-report"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Protein Sci</journal-id><journal-id journal-id-type="iso-abbrev">Protein Sci</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1469-896X</journal-id><journal-id journal-id-type="publisher-id">PRO</journal-id><journal-title-group><journal-title>Protein Science : A Publication of the Protein Society</journal-title></journal-title-group><issn pub-type="ppub">0961-8368</issn><issn pub-type="epub">1469-896X</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name><publisher-loc>Hoboken, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32790204</article-id><article-id pub-id-type="pmc">7513700</article-id><article-id pub-id-type="doi">10.1002/pro.3927</article-id><article-id pub-id-type="publisher-id">PRO3927</article-id><article-categories><subj-group subj-group-type="overline"><subject>Accelerated Communication</subject></subj-group><subj-group subj-group-type="heading"><subject>Accelerated Communications</subject></subj-group></article-categories><title-group><article-title>Cotranslational folding of alkaline phosphatase in the periplasm of <styled-content style="fixed-case" toggle="no"><italic>Escherichia coli</italic></styled-content>
+</article-title><alt-title alt-title-type="left-running-head">Elfageih et al.</alt-title></title-group><contrib-group><contrib id="pro3927-cr-0001" contrib-type="author"><name><surname>Elfageih</surname><given-names>Rageia</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0506-1470</contrib-id><xref ref-type="aff" rid="pro3927-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro3927-cr-0002" contrib-type="author"><name><surname>Karyolaimos</surname><given-names>Alexandros</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-2264-3958</contrib-id><xref ref-type="aff" rid="pro3927-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro3927-cr-0003" contrib-type="author"><name><surname>Kemp</surname><given-names>Grant</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5125-2740</contrib-id><xref ref-type="aff" rid="pro3927-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro3927-cr-0004" contrib-type="author"><name><surname>de Gier</surname><given-names>Jan&#x02010;Willem</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5537-4358</contrib-id><xref ref-type="aff" rid="pro3927-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="pro3927-cr-0005" contrib-type="author" corresp="yes"><name><surname>von Heijne</surname><given-names>Gunnar</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4490-8569</contrib-id><xref ref-type="aff" rid="pro3927-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="pro3927-aff-0002">
+<sup>2</sup>
+</xref><address><email>gunnar@dbb.su.se</email></address></contrib><contrib id="pro3927-cr-0006" contrib-type="author" corresp="yes"><name><surname>Kudva</surname><given-names>Renuka</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0426-3716</contrib-id><xref ref-type="aff" rid="pro3927-aff-0001">
+<sup>1</sup>
+</xref><address><email>renuka.kudva@dbb.su.se</email></address></contrib></contrib-group><aff id="pro3927-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Biochemistry and Biophysics</named-content>
+<institution>Stockholm University</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="pro3927-aff-0002">
+<label><sup>2</sup></label>
+<institution>Science for Life Laboratory Stockholm University</institution>
+<city>Solna</city>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Gunnar von Heijne and Renuka Kudva, Department of Biochemistry and Biophysics, Svante Arrhenius v&#x000e4;g 16C, Stockholm 106 91, Sweden.<break/>
+Email: <email>gunnar@dbb.su.se</email> (G. v H.) and <email>renuka.kudva@dbb.su.se</email> (R. K.)<break/></corresp></author-notes><pub-date pub-type="epub"><day>24</day><month>8</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2020</year></pub-date><pub-date pub-type="pmc-release"><day>24</day><month>8</month><year>2020</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>29</volume><issue>10</issue><issue-id pub-id-type="doi">10.1002/pro.v29.10</issue-id><fpage>2028</fpage><lpage>2037</lpage><history><date date-type="received"><day>06</day><month>7</month><year>2020</year></date><date date-type="rev-recd"><day>08</day><month>8</month><year>2020</year></date><date date-type="accepted"><day>11</day><month>8</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 The Protein Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Protein Science</italic> published by Wiley Periodicals LLC on behalf of The Protein Society.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:PRO-29-2028.pdf"/><abstract><title>Abstract</title><p>Cotranslational protein folding studies using Force Profile Analysis, a method where the SecM translational arrest peptide is used to detect folding&#x02010;induced forces acting on the nascent polypeptide, have so far been limited mainly to small domains of cytosolic proteins that fold in close proximity to the translating ribosome. In this study, we investigate the cotranslational folding of the periplasmic, disulfide bond&#x02010;containing <italic>Escherichia coli</italic> protein alkaline phosphatase (PhoA) in a wild&#x02010;type strain background and a strain background devoid of the periplasmic thiol: disulfide interchange protein DsbA. We find that folding&#x02010;induced forces can be transmitted via the nascent chain from the periplasm to the polypeptide transferase center in the ribosome, a distance of ~160&#x02009;&#x000c5;, and that PhoA appears to fold cotranslationally via at least two disulfide&#x02010;stabilized folding intermediates. Thus, Force Profile Analysis can be used to study cotranslational folding of proteins in an extra&#x02010;cytosolic compartment, like the periplasm.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pro3927-kwd-0001">alkaline phosphatase</kwd><kwd id="pro3927-kwd-0002">disulfide bonds</kwd><kwd id="pro3927-kwd-0003">force profile analysis</kwd><kwd id="pro3927-kwd-0004">periplasm</kwd><kwd id="pro3927-kwd-0005">protein folding</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Knut och Alice Wallenbergs Stiftelse </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004063</institution-id></institution-wrap></funding-source><award-id>2017.0323</award-id></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Novo Nordisk Fonden </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100009708</institution-id></institution-wrap></funding-source><award-id>NNF18OC0032828</award-id><award-id>NNF19OC0057673</award-id></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>Vetenskapsr&#x000e5;det </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004359</institution-id></institution-wrap></funding-source><award-id>2019&#x02010;04143</award-id><award-id>621&#x02010; 2014&#x02010;3713</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="0"/><page-count count="10"/><word-count count="6193"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.1 mode:remove_FC converted:24.09.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="pro3927-cit-9001">
+<string-name>
+<surname>Elfageih</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Karyolaimos</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kemp</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>de Gier</surname>
+<given-names>J&#x02010;W</given-names>
+</string-name>, <string-name>
+<surname>von Heijne</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kudva</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Cotranslational folding of alkaline phosphatase in the periplasm of <styled-content style="fixed-case" toggle="no"><italic>Escherichia coli</italic></styled-content>
+</article-title>. <source xml:lang="en">Protein Science</source>. <year>2020</year>;<volume>29</volume>:<fpage>2028</fpage>&#x02013;<lpage>2037</lpage>. <pub-id pub-id-type="doi">10.1002/pro.3927</pub-id>
+</mixed-citation>
+</p><fn-group><fn id="pro3927-note-1002"><p>
+<bold>Funding information</bold> Knut och Alice Wallenbergs Stiftelse, Grant/Award Number: 2017.0323; Novo Nordisk Fonden, Grant/Award Numbers: NNF18OC0032828, NNF19OC0057673; Vetenskapsr&#x000e5;det, Grant/Award Numbers: 2019&#x02010;04143, 621&#x02010; 2014&#x02010;3713</p></fn></fn-group></notes></front><body id="pro3927-body-0001"><sec id="pro3927-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Protein secretion across the inner membrane in the Gram&#x02010;negative bacterium <italic>Escherichia coli</italic> has been classically thought to proceed post&#x02010;translationally, orchestrated by an interplay between the signal peptide of the protein, cytoplasmic chaperones such as Trigger Factor and SecB, the ATPase SecA, and the SecYEG translocon.<xref rid="pro3927-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="pro3927-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref>, <xref rid="pro3927-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="pro3927-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="pro3927-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="pro3927-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="pro3927-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="pro3927-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="pro3927-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="pro3927-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="pro3927-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="pro3927-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="pro3927-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="pro3927-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="pro3927-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="pro3927-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="pro3927-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>
+</p><p>Post&#x02010;translational export commences when SecA recognizes a secretory protein via its signal sequence, and targets it to the inner membrane.<xref rid="pro3927-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="pro3927-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="pro3927-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="pro3927-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="pro3927-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> Folding <italic>en route</italic> to the membrane is prevented by sequence&#x02010;specific motifs within the protein itself,<xref rid="pro3927-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> and by interactions with cytoplasmic chaperones such as SecB.<xref rid="pro3927-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref>, <xref rid="pro3927-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="pro3927-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> The unfolded state enables the protein to be exported via the SecYEG translocon,<xref rid="pro3927-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> driven by the SecA ATPase activity and by the proton motive force.<xref rid="pro3927-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="pro3927-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref>, <xref rid="pro3927-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>, <xref rid="pro3927-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref>, <xref rid="pro3927-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> The signal sequence of the protein is then cleaved off by signal peptidase I (LepB), after most of the protein is completely translocated across the inner membrane into the periplasm.<xref rid="pro3927-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>, <xref rid="pro3927-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref> Once in the oxidizing environment of the periplasm, the protein commences folding, often involving the formation of disulfide bridges catalyzed by the periplasmic Disulfide bond (Dsb) system.<xref rid="pro3927-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref>, <xref rid="pro3927-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="pro3927-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>, <xref rid="pro3927-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>
+</p><p>The existing view that secretion of proteins across the inner membrane occurs post&#x02010;translationally has been recently challenged by experiments demonstrating that SecA can associate with ribosomes and ribosome&#x02010;bound nascent chains during translation.<xref rid="pro3927-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>, <xref rid="pro3927-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref>, <xref rid="pro3927-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref>, <xref rid="pro3927-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref>, <xref rid="pro3927-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref> These studies suggest that proteins may also be targeted and secreted cotranslationally, and are consistent with earlier findings that signal peptides of certain periplasmic proteins are cleaved before the proteins are fully exported.<xref rid="pro3927-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref> Moreover, it has been found that translation intermediates of alkaline phosphatase (PhoA) can form complexes with the periplasmic thiol: disulfide interchange protein DsbA, indicating that a population of PhoA can fold cotranslationally, as assayed by disulfide&#x02010;bond formation.<xref rid="pro3927-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>
+</p><p>Force&#x02010;profile analysis (FPA) is a recently developed method that has been used to study cotranslational protein folding of cytoplasmic proteins, both in vitro and in vivo.<xref rid="pro3927-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="pro3927-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref>, <xref rid="pro3927-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>, <xref rid="pro3927-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>, <xref rid="pro3927-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref>, <xref rid="pro3927-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref>, <xref rid="pro3927-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref>, <xref rid="pro3927-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>, <xref rid="pro3927-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref>, <xref rid="pro3927-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref> FPA takes advantage of the sensitivity of the SecM&#x02010;family of translational arrest peptides (APs) to pulling forces acting on the nascent chain: the higher the pulling force, the less efficient is the translational stall induced by the AP.<xref rid="pro3927-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref>, <xref rid="pro3927-bib-0055" ref-type="ref">
+<sup>55</sup>
+</xref> Many cotranslational processes, including protein folding, can generate force on the nascent chain, and are hence amenable to FPA. Here, we ask whether FPA can be used to study cotranslational folding in the periplasm of <italic>E. coli</italic>, that is, when proteins fold &#x02273;160&#x02009;&#x000c5; away from the peptidyl transferase center (PTC) in the 50S subunit of the ribosome, where the force exerted on the nascent chain is sensed by the AP. Specifically, we have analyzed the cotranslational folding of PhoA. Our results suggest the existence of at least two disulfide&#x02010;stabilized, cotranslational folding intermediates that form when ~330 and ~360 residues of mature PhoA have emerged into the periplasm.</p></sec><sec id="pro3927-sec-0002"><label>2</label><title>RESULTS AND DISCUSSION</title><sec id="pro3927-sec-0003"><label>2.1</label><title>
+<italic><styled-content style="fixed-case" toggle="no">FPA</styled-content></italic>
+<italic>as a tool to study protein folding in the periplasm</italic>
+</title><p>FPA is based on the principle that cotranslational folding of a protein domain fused to an AP can generate a pulling force on the AP that reduces its stalling efficiency.<xref rid="pro3927-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref>, <xref rid="pro3927-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref>, <xref rid="pro3927-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>, <xref rid="pro3927-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref>, <xref rid="pro3927-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref>, <xref rid="pro3927-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref>, <xref rid="pro3927-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref>, <xref rid="pro3927-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref>, <xref rid="pro3927-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref>, <xref rid="pro3927-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref> To study the cotranslational folding of PhoA by FPA, different lengths of PhoA were fused to the 17 amino&#x02010;acids long <italic>E. coli</italic> SecM AP via a four amino acid long glycine&#x02010;serine linker and a hemagglutinin tag (HA; Figure <xref rid="pro3927-fig-0001" ref-type="fig">1a,b</xref>); the length <italic>N</italic> of each construct is calculated from the N&#x02010;terminal end of PhoA (including the signal peptide) to the last amino acid in the AP. The 30 amino&#x02010;acids long linker sequence (serine&#x02010;glycine linker&#x02009;+&#x02009;HA tag&#x02009;+&#x02009;AP) was kept constant for all constructs, to reduce background noise in the force profile (FP) stemming from interactions of the elongating chain with the ribosome exit tunnel. A 77&#x02010;residue long C&#x02010;terminal tail derived from the <italic>E. coli</italic> protein LacZ was engineered at the C terminus of the AP to ensure good separation of the arrested (<italic>A</italic>) and full&#x02010;length (<italic>FL</italic>) forms of the protein by SDS&#x02010;PAGE (Figure <xref rid="pro3927-fig-0001" ref-type="fig">1c</xref>). Since PhoA has a cleavable signal peptide, the possible appearance of both cleaved and uncleaved forms could complicate interpretation of the FPA data due to multiple protein species on SDS&#x02010;PAGE. To avoid this, we used a variant of PhoA with a point mutation (A<sub>21</sub>P) in the signal peptide that renders it uncleavable, yet does not interfere with export of PhoA into the periplasm.<xref rid="pro3927-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>, <xref rid="pro3927-bib-0056" ref-type="ref">
+<sup>56</sup>
+</xref>
+</p><fig fig-type="FIGURE" xml:lang="en" id="pro3927-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>(a) Diagrammatic representation of the PhoA constructs. Different lengths of PhoA (black) with a NC signal peptide (magenta) were fused to the <italic>E. coli</italic> SecM arrest peptide (<italic>Ec</italic>SecM; purple) via a GS linker (gray) and an HA tag (pink) (a comprehensive list of sequences for all constructs is included as <xref rid="pro3927-supitem-0001" ref-type="supplementary-material">Supporting Information</xref>). The 30 amino&#x02010;acid long linker sequence (serine&#x02010;glycine linker&#x02009;+&#x02009;HA tag&#x02009;+&#x02009;AP) was kept constant for all constructs. A 77 amino acid long C&#x02010;terminal tail was added at the C&#x02010;terminal end of the AP to allow for resolution of arrested <italic>A</italic> and full&#x02010;length <italic>FL</italic> protein products by SDS&#x02010;PAGE. The different lengths of PhoA were generated by truncating from the C&#x02010;terminal end of the PhoA coding region. (b) A schematic representation of cotranslational translocation of a stalled ribosome&#x02010;nascent chain of PhoA with the NC signal sequence (magenta) docked in the inner membrane (IM). and the mature domain of PhoA translocated into the periplasm where it can form disulfide bonds upon interacting with DsbA. Translation was arrested at the ribosome by SecM (purple), and the 30 amino acid long sequence spanning the ribosome tunnel (SecM&#x02009;+&#x02009;HA tag&#x02009;+&#x02009;GS linker) was kept constant for all constructs. (c) Autoradiographs of three different constructs of SecM&#x02010;stalled PhoA obtained after radioactive pulse&#x02010;labeling in vivo and SDS&#x02010;PAGE. The relative amounts of <italic>A</italic> and <italic>FL</italic> were estimated by quantification of the protein bands in the autoradiographs, and the fraction full&#x02010;length was calculated as <italic>f</italic>
+<sub><italic>FL</italic></sub>
+<italic>=&#x02009;I</italic>
+<sub><italic>FL</italic></sub>
+<italic>/(I</italic>
+<sub><italic>A</italic></sub>
+<italic>+&#x02009;I</italic>
+<sub><italic>FL</italic></sub>
+<italic>)</italic>. <italic>f</italic>
+<sub><italic>FL</italic></sub> serves as a proxy for the force generated by cotranslational folding of the mature domain of PhoA in the periplasm. (d) Autoradiographs of constructs <italic>N</italic> = 403 and <italic>N</italic> = 431 demonstrate a difference in protein migration on SDS&#x02010;PAGE &#x000b1;DTT. DTT was either excluded or included in the Laemmli buffer that was used to elute the immune&#x02010;precipitated proteins after pulse&#x02010;labeling. The differences in migration reflect the formation of disulfide bonds in the absence of DTT, which are reduced in its presence. The schematics in panels A and B were created using <ext-link ext-link-type="uri" xlink:href="http://biorender.com">BioRender.com</ext-link>
+</p></caption><graphic id="nlm-graphic-1" xlink:href="PRO-29-2028-g001"/></fig><p>All constructs were expressed in <italic>E. coli</italic> MC1061 or in MC1061&#x00394;<italic>dsbA</italic>. Proteins were labeled for 2 min with [<sup>35</sup>S] methionine, followed by immune&#x02010;precipitation against the HA&#x02010;tag and separation by SDS&#x02010;PAGE. As a proxy for the pulling force acting on the nascent chain, the fraction full&#x02010;length protein (<italic>f</italic>
+<sub><italic>FL</italic></sub>) was calculated for each <italic>N</italic> as the ratio between the intensity of the <italic>FL</italic> protein band and the sum of the intensities of the <italic>A</italic> and <italic>FL</italic> protein bands (Figure <xref rid="pro3927-fig-0001" ref-type="fig">1c</xref>). <italic>f</italic>
+<sub><italic>FL</italic></sub> values were plotted against their corresponding <italic>N</italic> values to obtain a FP for PhoA. Both the <italic>A</italic> and <italic>FL</italic> PhoA protein products for lengths <italic>N</italic> = 403 and <italic>N</italic> = 431 showed a difference in their migration on SDS&#x02010;PAGE in the presence or absence of the reductant 1,4&#x02010;dithiothreitol (Figure <xref rid="pro3927-fig-0001" ref-type="fig">1d</xref>), indicating disulfide bond formation and therefore translocation into the periplasm, as depicted in Figure <xref rid="pro3927-fig-0001" ref-type="fig">1b</xref>.</p></sec><sec id="pro3927-sec-0004"><label>2.2</label><title>
+<italic>The</italic>
+<italic><styled-content style="fixed-case" toggle="no">PhoA</styled-content></italic>
+<italic>FP reveals two disulfide bond&#x02010;stabilized folding intermediates</italic>
+</title><p>The PhoA FP obtained in wild&#x02010;type <italic>E. coli</italic> (Figure <xref rid="pro3927-fig-0002" ref-type="fig">2a</xref>), reveals multiple peaks with maxima at <italic>N</italic> = 311, 403&#x02013;407, and 431 residues. In addition, the <italic>f</italic>
+<sub><italic>FL</italic></sub> value for the <italic>N</italic> = 555 construct, in which the entire PhoA domain has been translocated into the periplasm and is connected via an 84&#x02010;residue long linker to the PTC, is also relatively high.</p><fig fig-type="FIGURE" xml:lang="en" id="pro3927-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>(a) Force profile for PhoA (<italic>N&#x02009;=</italic> 141 to <italic>N&#x02009;=</italic> 555) obtained after pulse&#x02010;labeling in <italic>E. coli</italic> MC1061. Four maxima (I, II, III, and IV) can be seen. The corresponding lengths are indicated in the figure. (b) Comparison of <italic>f</italic>
+<sub><italic>FL</italic></sub> of selected constructs pulse&#x02010;labeled in <italic>E. coli</italic> MC1061 (purple) and <italic>E. coli</italic> MC1061 <italic>&#x00394;dsbA</italic> (red). Significant reductions in <italic>f</italic>
+<sub><italic>FL</italic></sub> (two&#x02010;sided <italic>t</italic>&#x02010;test, <italic>p</italic>&#x02009;&#x0003c;&#x02009;.01, indicated as **) were seen for constructs <italic>N</italic> = 403 and 431. Error bars indicate SEM values calculated from independent triplicates of all constructs</p></caption><graphic id="nlm-graphic-3" xlink:href="PRO-29-2028-g002"/></fig><p>The tightly spaced Peaks II and III at <italic>N</italic>&#x02009;&#x02248;&#x02009;400&#x02013;435 residues are particularly interesting, since they correspond well to the respective lengths of PhoA nascent chains (~39 and ~44&#x02009;kDa, not including the signal peptide) when the cotranslational formation of the C190&#x02013;C200 and C308&#x02013;C358 disulfide bonds (catalyzed by DsbA) can first be detected.<xref rid="pro3927-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref> Given that an extended polypeptide of ~50 residues length should be able to span the ~160&#x02009;&#x000c5; distance between the PTC and the periplasmic exit from the SecYEG translocation channel,<xref rid="pro3927-bib-0057" ref-type="ref">
+<sup>57</sup>
+</xref> C308 should emerge into the periplasm at <italic>N</italic>&#x02009;&#x02248;&#x02009;360 residues, and C358 at <italic>N</italic>&#x02009;&#x02248;&#x02009;410 residues. This suggested to us that Peaks II and III may reflect the formation of disulfide&#x02010;stabilized folding intermediates in the periplasm. This is also supported by Figure <xref rid="pro3927-fig-0001" ref-type="fig">1d</xref>, and by in vivo studies that have shown that both the C190&#x02013;C200 and the C308&#x02013;C358 disulfide bonds are needed for mature PhoA to reach full stability.<xref rid="pro3927-bib-0058" ref-type="ref">
+<sup>58</sup>
+</xref>
+</p><p>To test this hypothesis, we first recorded <italic>f</italic>
+<sub><italic>FL</italic></sub> values in and around Peaks I, II, and III in the MC1061&#x00394;<italic>dsbA</italic> strain (Figure <xref rid="pro3927-fig-0002" ref-type="fig">2b</xref>). Significant reductions in <italic>f</italic>
+<sub><italic>FL</italic></sub> (<italic>p</italic>&#x02009;&#x0003c;&#x02009;.01, two&#x02010;sided <italic>t</italic>&#x02010;test) were seen for constructs <italic>N</italic> = 403 and <italic>N</italic> = 431. We further mutated the four Cys residues involved in disulfide&#x02010;bond formation (C190, C200, C308, and C358) to Ala, either individually or in combination, in constructs <italic>N</italic> = 311 (Peak I), 403 and 407 (Peak II), and 431 (Peak III; Figure <xref rid="pro3927-fig-0003" ref-type="fig">3a&#x02013;d</xref>). In the <italic>N</italic> = 311 and <italic>N</italic> = 403 construct, none of the mutations gave rise to a significant reduction in <italic>f</italic>
+<sub><italic>FL</italic></sub>. Mutations C190A and C200A both significantly reduced <italic>f</italic>
+<sub><italic>FL</italic></sub> in the <italic>N</italic> = 407 construct. Finally, in the <italic>N</italic> = 431 construct, mutations C200A, C308A, and C358A all strongly reduced <italic>f</italic>
+<sub><italic>FL</italic></sub>, as did the triple mutation C190A&#x02009;+&#x02009;C308A&#x02009;+&#x02009;C358A but not the double mutations C190A&#x02009;+&#x02009;C200A and C308A&#x02009;+&#x02009;C358A.</p><fig fig-type="FIGURE" xml:lang="en" id="pro3927-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>
+<italic>f</italic>
+<sub><italic>FL</italic></sub> values for the indicated PhoA Cys&#x02009;&#x02192;&#x02009;Ala mutations obtained after pulse&#x02010;labeling in <italic>E. coli</italic> MC1061. (a) For length <italic>N</italic> = 311, no significant drop in <italic>f</italic>
+<sub><italic>FL</italic></sub> is observed for the individual mutants C190A and C200A (orange bars) compared to the wild&#x02010;type PhoA truncate <italic>N</italic> = 311 (purple bar). C190A and C200A form the first pair of disulfide bonds in PhoA and are exposed to the periplasm at this length. (b) For length <italic>N</italic> = 403, no significant effects are seen for the individual mutants C190A and C200A (orange bars) or C308A and C358A (that form the second disulfide bond; magenta bars) compared to the wild&#x02010;type PhoA truncate. C190A, C200A, and C308A should be in the periplasm at this length. (c) At <italic>N</italic> = 407, a significant reduction (2&#x02010;sided <italic>t</italic>&#x02010;test, <italic>p</italic>&#x02009;&#x0003c;&#x02009;.01, indicated as **) was observed for C190A and C200A (orange bars) compared to the wild&#x02010;type PhoA truncate (purple bar). No significant reduction was seen for C308A and C358A (magenta bars). (d) At <italic>N</italic> = 431, all four Cys residues are exposed to the periplasm, and the consequences of mutating them to Ala result in significant reductions (<italic>p</italic>&#x02009;&#x0003c;&#x02009;.01, indicated as **) for C200A (orange solid bar), C308A and C358A (magenta solid bars). No significant reduction was seen for the double mutations C190A&#x02013;C200A (orange striped bar) or C308A&#x02013;C358A (magenta striped bar). A significant reduction (<italic>p</italic>&#x02009;&#x0003c;&#x02009;.01, indicated as **) was observed for the triple mutant C190A&#x02013;C308A&#x02013;C358A, (blue striped bar). Error bars indicate SEM values calculated from independent triplicates of all constructs</p></caption><graphic id="nlm-graphic-5" xlink:href="PRO-29-2028-g003"/></fig><p>The data for Peak II (<italic>N</italic> = 407) suggest the existence of an early folding intermediate encompassing Residues 1 to ~335 in mature PhoA (Figure <xref rid="pro3927-fig-0004" ref-type="fig">4a</xref>), stabilized by the C190&#x02013;C200 disulfide bond. At this length, C358 has not yet emerged into the periplasm, making the intermediate sensitive to mutations in the first disulfide (C190, C200) but not in the second (C308, C358). Likewise, the data for Peak III (<italic>N</italic> = 431) suggest the existence of a second intermediate encompassing Residues 1 to ~360 (Figure <xref rid="pro3927-fig-0004" ref-type="fig">4b</xref>), in which all four Cys residues have emerged into the periplasm. In this case, the single Cys&#x02009;&#x02192;&#x02009;Ala mutations destabilize the folded state both directly and also indirectly through the formation of mis&#x02010;paired disulfides between the three remaining Cys residues.<xref rid="pro3927-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref>, <xref rid="pro3927-bib-0058" ref-type="ref">
+<sup>58</sup>
+</xref> The double mutations C190&#x02009;+&#x02009;C200 and C308&#x02009;+&#x02009;C358 are less detrimental as they leave one native disulfide intact and do not lead to mis&#x02010;pairing, while the triple mutations prevent both native disulfides from forming. Whether Peak I also reflects the formation of a folding intermediate remains unclear, but in any case disulfide bond formation appears not to be involved (Figures <xref rid="pro3927-fig-0002" ref-type="fig">2b</xref> and <xref rid="pro3927-fig-0003" ref-type="fig">3a</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="pro3927-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>Proposed disulfide&#x02010;stabilized, cotranslational folding intermediates modeled after PDB 3CMR<xref rid="pro3927-bib-0064" ref-type="ref">
+<sup>64</sup>
+</xref>. (a) Mature PhoA Residues 1 &#x02010;335 (Peak II). The intermediate represents a state where strand &#x003b2;6 has inserted between strands &#x003b2;1 and &#x003b2;2, completing the &#x003b2;1 &#x02010;&#x003b2;6 &#x02010;&#x003b2;2 &#x02010;&#x003b2;3 &#x02010;&#x003b2;5 &#x02010;&#x003b2;4 portion of the central &#x003b2; sheet. (b) Mature PhoA Residues 1 &#x02010;360 (Peak III). The intermediate represents a state where the &#x003b1;&#x02010;helix (in orange) following &#x003b2;6 has packed on top of the central &#x003b2;&#x02010;sheet. Cys residues are indicated in spacefill and numbered according to UniProt ID P00634, that is, counting from the N&#x02010;terminus of the signal peptide (which is 22 residues away from the N&#x02010;terminus of the mature protein). Prepared using the PyMol molecular graphics software (<ext-link ext-link-type="uri" xlink:href="https://pymol.org">https://pymol.org</ext-link>)</p></caption><graphic id="nlm-graphic-7" xlink:href="PRO-29-2028-g004"/></fig><p>We conclude that FPA can detect long&#x02010;range forces on the nascent chain generated by cotranslational protein folding in the periplasm, and that PhoA folds cotranslationally via at least two disulfide&#x02010;stabilized intermediate states. It will be interesting to further investigate the folding of periplasmic proteins with nonconsecutive disulfide bonds, and to dissect the role of periplasmic chaperones in cotranslational folding.</p></sec></sec><sec id="pro3927-sec-0005"><label>3</label><title>MATERIALS AND METHODS</title><sec id="pro3927-sec-0006"><label>3.1</label><title>
+<italic>Reagents, chemicals, and primers</italic>
+</title><p>All chemicals and reagents were purchased from Merck Sigma Aldrich; primers for PCR and DNA sequencing were purchased from Eurofins Genomics; gene fragments, Bis&#x02010;Tris gels, Phusion DNA polymerase, GeneJet plasmid isolation kits, GeneJet PCR purification kits, and GeneJet Gel extraction kits were purchased from Thermo Fisher Scientific; [<sup>35</sup>S] Methionine was purchased from Perkin Elmer; Protein&#x02010;G agarose beads were manufactured by Roche and purchased from Sigma Aldrich; the mouse monoclonal antibody against the HA antigen was purchased from Covance.</p></sec><sec id="pro3927-sec-0007"><label>3.2</label><title>
+<italic>Design and engineering of full&#x02010;length</italic>
+<italic><styled-content style="fixed-case" toggle="no">PhoA</styled-content></italic>
+<italic>fused to the</italic>
+<italic><styled-content style="fixed-case" toggle="no">SecM AP</styled-content></italic>
+</title><p>The gene sequence encoding full&#x02010;length PhoA&#x02010;GSGS&#x02010;HA&#x02010;SecM was designed in silico and ordered from GeneArt, Thermo Fisher Scientific.</p><p>The construct was designed as follows: the sequence of the <italic>phoA</italic> gene from <italic>E. coli</italic> K12 MG1655 was obtained from the <italic>EcoCyc</italic> database,<xref rid="pro3927-bib-0059" ref-type="ref">
+<sup>59</sup>
+</xref> and was engineered upstream of sequences encoding a four amino&#x02010;acid long GSGS linker, an HA tag, the 17 amino acid long <italic>E. coli</italic> SecM AP, and a C&#x02010;terminal tail consisting of 77 residues derived from the sequence of LacZ.</p><p>The obtained gene fragment was engineered by Gibson Assembly<xref rid="pro3927-bib-0060" ref-type="ref">
+<sup>60</sup>
+</xref> into a previously described plasmid that harbors an arabinose&#x02010;inducible promoter and an ampicillin resistance gene for selection,<xref rid="pro3927-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref> and sequenced for verification.</p></sec><sec id="pro3927-sec-0008"><label>3.3</label><title>
+<italic>Engineering a noncleavable</italic>
+<italic><styled-content style="fixed-case" toggle="no">PhoA</styled-content></italic>
+<italic>signal and generation of truncates</italic>
+</title><p>The noncleavable (NC) PhoA signal peptide (MKQSTIALALLPLLFTPVTK<underline underline-style="single">P</underline>R) was designed based on predictions using SignalP 5.0<xref rid="pro3927-bib-0061" ref-type="ref">
+<sup>61</sup>
+</xref> and PhoA mutants with NC signal peptides.<xref rid="pro3927-bib-0056" ref-type="ref">
+<sup>56</sup>
+</xref> The sequence used consists of a single amino acid substitution (A&#x02013;P) at Residue 21 in PhoA (underlined above). This single substitution was introduced into the gene sequence encoding PhoA&#x02010;GSGS&#x02010;HA&#x02010;SecM using partially overlapping PCR and the following pair of primers:</p><p>forward 5&#x02032;&#x02010;GTGACAAAACCACGGACACCAGAAATGCC&#x02010;3&#x02032; and, reverse 5&#x02032;&#x02010;TTCTGGTGTCCGTGGTTTTGTCACAGGGGTAAA&#x02010;3&#x02032;.</p><p>The resulting parental construct&#x02014;NCPhoA&#x02010;GSGS&#x02010;HA&#x02010;SecM&#x02014;was used to engineer constructs that were truncated every 10 amino acid residues from the C&#x02010;terminus of PhoA (primer list and protein sequences provided as <xref rid="pro3927-supitem-0001" ref-type="supplementary-material">Supporting Information</xref>).</p><p>The resulting PCR products were subjected to <italic>Dpn1</italic> digestion and transformed into DH5&#x003b1; cells, thereafter the plasmids were isolated and sequences verified (Eurofins Genomics).</p><p>Plasmids bearing the correct sequences were transformed into <italic>E. coli</italic> MC1061 competent cells for in vivo expression and pulse labeling.</p></sec><sec id="pro3927-sec-0009"><label>3.4</label><title>
+<italic>Engineering the</italic>
+<italic><styled-content style="fixed-case" toggle="no"><italic>E. coli</italic> MC1061&#x00394;dsbA</styled-content></italic>
+<italic>strain</italic>
+</title><p>The MC1061&#x00394;<italic>dsbA</italic> strain was engineered using the &#x003bb;&#x02010;Red recombineering&#x02010;based approach developed by Datsenko and Wanner.<xref rid="pro3927-bib-0062" ref-type="ref">
+<sup>62</sup>
+</xref> In short, a kanamycin cassette with flanking regions homologous to the up&#x02010; and downstream regions of the <italic>dsbA</italic> gene was generated by PCR using the pKD13 plasmid as a template and the dsbA&#x02010;FRT&#x02010;fw and dsbA&#x02010;FRT&#x02010;rv primers. The PCR&#x02010;reaction was treated with <italic>Dpn</italic>I (NEB CutSmart) to get rid of the template DNA. The PCR reaction was loaded on an agarose gel to verify the molecular weight of the generated PCR product and it was subsequently purified using the GeneJET PCR Purification kit (Thermo Scientific). The purified PCR product was electroporated into <italic>E. coli</italic> MC1061 cells harboring pKD46 that were cultured in standard Lysogeny Broth (LB) in the presence of 0.2% arabinose at 30&#x000b0;C. After verifying the correct insertion of the kanamycin cassette into the <italic>dsbA</italic> gene using colony PCR and the primers dsbA&#x02010;up and dsbA&#x02010;down, <italic>dsbA</italic>::Km<sup>R</sup> was transferred from MC1061&#x00394;<italic>dsbA</italic>::Km<sup>R</sup>/pKD46 to wild&#x02010;type MC1061 by means of P1&#x02010;transduction<xref rid="pro3927-bib-0063" ref-type="ref">
+<sup>63</sup>
+</xref> to generate MC1061&#x00394;<italic>dsbA</italic>::Km<sup>R</sup>
+</p><p>dsbA&#x02010;FRT&#x02010;rv: AGAACCCCCTTTGCAATTAACACCTATGTATTAATCGGAGAGAGTAGATCTGTAGGCTGGAGCTGCTTCG</p><p>dsbA&#x02010;FRT&#x02010;fw:</p><p>TAATAAAAAAAGCCCGTGAATATTCACGGGCTTTATGTAATTTACATTGAAATTCCGGGGATCCGTCGACC</p><p>dsbA&#x02010;up: TACGGCTAACGCAACAATAACACC</p><p>dsbA&#x02010;dw: CATTCCTGAAAGCGACAGATGAG</p></sec><sec id="pro3927-sec-0010"><label>3.5</label><title>
+<italic>In vivo expression and pulse labeling</italic>
+</title><p>
+<italic>E. coli</italic> MC1061 or MC1061&#x00394;<italic>dsbA</italic> harboring arabinose&#x02010;inducible plasmids with the PhoA constructs of interest were cultured for 14&#x02009;hr in 2 ml LB supplemented with 100&#x02009;&#x003bc;g/ml Ampicillin at 37&#x000b0;C and shaking at 200&#x02009;rpm in a New Brunswick Scientific Innova 44 incubator shaker.</p><p>After ~14 hr, the cultures were back&#x02010;diluted into 2 ml LB (supplemented with 100&#x02009;&#x003bc;g/ml Ampicillin) to an A<sub>600</sub> of 0.1, and the fresh suspensions were cultured at 37&#x000b0;C with shaking at 200&#x02009;rpm till they reached an A600 of 0.4 (measured using a Shimadzu UV&#x02010;1300 spectrophotometer). The cultures were chilled on ice for 5 min, transferred into 2 ml reaction tubes (Sarstedt), and cells were isolated by centrifugation at 5000<italic>g</italic> for 8 min in a cooled table&#x02010;top centrifuge. The supernatant was discarded rapidly, and the cell pellets were washed in M9 minimal medium (supplemented with 1 &#x003bc;g/ml of 19 amino acids excluding methionine, 100&#x02009;&#x003bc;g/ml Thiamine, 0.1&#x02009;mM CaCl<sub>2</sub>, 2&#x02009;mM MgSO<sub>4</sub>, 0.4% w/w fructose, and 100&#x02009;&#x003bc;g/ml Ampicillin), by gentle resuspension.</p><p>The suspensions were centrifuged once again to obtain cell pellets, which were subsequently resuspended in M9 medium at 37&#x000b0;C. These were cultured for 1 hr at 37&#x000b0;C and shaking at 200&#x02009;rpm.</p><p>The cell cultures were then transferred into 2 ml reaction tubes and placed in slots in a table&#x02010;top thermomixer (Eppendorf) set to 37&#x000b0;C and shaking at 700&#x02009;rpm for 5&#x02009;min prior to pulse&#x02010;labeling. Expression of the gene of interest was induced by 0.2% Arabinose for 5&#x02009;min, and cells were pulse&#x02010;labeled with 4 cu [<sup>35</sup>S] Methionine for 2&#x02009;min. The reaction was aborted by treating the cells with ice&#x02010;cold Trichloroacetic acid (TCA) at a final conc. of 10%, and incubating at &#x02212;20&#x000b0;C for 20&#x02009;min. The precipitated samples were centrifuged for 10 min at 20,000<italic>g</italic> at 4&#x000b0;C in a table&#x02010;top centrifuge.</p><p>The resulting pellets were washed with ice&#x02010;cold acetone (to neutralize the TCA and solvate lipids) and centrifuged at 20,000<italic>g</italic> for 10 min in a table&#x02010;top micro&#x02010;centrifuge (Eppendorf). The obtained pellets were air&#x02010;dried to rid them of residual acetone and solubilized with 120&#x02009;&#x003bc;l Tris&#x02010;SDS (10&#x02009;mM Tris&#x02013;HCl pH 7.5 and 2% SDS) at 56&#x000b0;C for 10 min and shaking at 1,000&#x02009;rpm in a table&#x02010;top thermomixer (Eppendorf). The resulting suspension was centrifuged 20,000<italic>g</italic> for 10 min at room temperature in a table&#x02010;top micro&#x02010;centrifuge (Eppendorf), and 100&#x02009;&#x003bc;l of the supernatant was subjected to immune precipitation using the anti&#x02010;HA antiserum.</p><p>The obtained samples were separated by SDS&#x02010;PAGE and visualized by autoradiography on a FujiFilm Scanner FLA&#x02010;9000.</p></sec><sec id="pro3927-sec-0011"><label>3.6</label><title>
+<italic>Quantification of radioactively labeled proteins</italic>
+</title><p>The <italic>FL</italic> and <italic>A</italic> protein bands on the gel visualized after autoradiography were quantified using MultiGauge (Fujifilm) from which one&#x02010;dimensional intensity profile of each gel lane was extracted. The band intensities were fit to Gaussian distributions using EasyQuant.<xref rid="pro3927-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref> The sum of the arrested and full&#x02010;length band intensities was calculated, and this was used to estimate the fraction of full&#x02010;length protein for each construct. Independent triplicates were run for all constructs, and averages and SEM values were calculated.</p></sec></sec><sec id="pro3927-sec-0013"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Rageia Elfageih:</bold> Formal analysis; investigation; methodology; visualization; writing&#x02010;review and editing. <bold>Alexandros Karyolaimos:</bold> Investigation; methodology; writing&#x02010;review and editing. <bold>Grant Kemp:</bold> Methodology; writing&#x02010;review and editing. <bold>Jan&#x02010;Willem de Gier:</bold> Conceptualization; funding acquisition; project administration; resources; supervision; writing&#x02010;review and editing. <bold>Gunnar von Heijne:</bold> Conceptualization; formal analysis; funding acquisition; methodology; project administration; resources; supervision; validation; visualization; writing&#x02010;original draft; writing&#x02010;review and editing. <bold>Renuka Kudva:</bold> Conceptualization; data curation; formal analysis; investigation; methodology; project administration; validation; visualization; writing&#x02010;original draft; writing&#x02010;review and editing.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="pro3927-supitem-0001"><caption><p>
+<bold>APPENDIX</bold> S1: Supporting Information</p></caption><media xlink:href="PRO-29-2028-s001.zip"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="pro3927-sec-0012"><title>ACKNOWLEDGEMENTS</title><p>This work was supported by grants from the Knut och Alice Wallenbergs Stiftelse (2017.0323), the Novo Nordisk Fund (NNF18OC0032828), and the Swedish Research Council (621&#x02010;2014&#x02010;3713) to Gunnar von Heijne, and the Swedish Research Council (2019&#x02010;04143) and the Novo Nordisk Fund (NNF19OC0057673) to Jan&#x02010;Willem de Gier.</p></ack><ref-list id="pro3927-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="pro3927-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="pro3927-cit-0001">
+<string-name>
+<surname>Smets</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Loos</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Karamanou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Economou</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Protein transport across the bacterial plasma membrane by the Sec pathway</article-title>. <source xml:lang="en">Protein J</source>. <year>2019</year>;<volume>38</volume>:<fpage>262</fpage>&#x02013;<lpage>273</lpage>.<pub-id pub-id-type="pmid">31134461</pub-id></mixed-citation></ref><ref id="pro3927-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="pro3927-cit-0002">
+<string-name>
+<surname>Mao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>SJS</given-names>
+</string-name>, <string-name>
+<surname>Randall</surname>
+<given-names>LL</given-names>
+</string-name>. <article-title>Maximal efficiency of coupling between ATP hydrolysis and translocation of polypeptides mediated by SecB requires two protomers of SecA</article-title>. <source xml:lang="en">J Bacteriol</source>. <year>2009</year>;<volume>191</volume>:<fpage>978</fpage>&#x02013;<lpage>984</lpage>.<pub-id pub-id-type="pmid">18978043</pub-id></mixed-citation></ref><ref id="pro3927-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="pro3927-cit-0003">
+<string-name>
+<surname>Karamanou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gouridis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Papanikou</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Preprotein&#x02010;controlled catalysis in the helicase motor of SecA</article-title>. <source xml:lang="en">EMBO J</source>. <year>2007</year>;<volume>26</volume>:<fpage>2904</fpage>&#x02013;<lpage>2914</lpage>.<pub-id pub-id-type="pmid">17525736</pub-id></mixed-citation></ref><ref id="pro3927-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="pro3927-cit-0004">
+<string-name>
+<surname>Kudva</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Denks</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kuhn</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vogt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>
+<given-names>H&#x02010;G</given-names>
+</string-name>. <article-title>Protein translocation across the inner membrane of Gram&#x02010;negative bacteria: The Sec and Tat dependent protein transport pathways</article-title>. <source xml:lang="en">Res Microbiol</source>. <year>2013</year>;<volume>164</volume>:<fpage>505</fpage>&#x02013;<lpage>534</lpage>.<pub-id pub-id-type="pmid">23567322</pub-id></mixed-citation></ref><ref id="pro3927-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="pro3927-cit-0005">
+<string-name>
+<surname>Denks</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vogt</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sachelaru</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Petriman</surname>
+<given-names>N&#x02010;A</given-names>
+</string-name>, <string-name>
+<surname>Kudva</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>
+<given-names>H&#x02010;G</given-names>
+</string-name>. <article-title>The Sec translocon mediated protein transport in prokaryotes and eukaryotes</article-title>. <source xml:lang="en">Mol Membr Biol</source>. <year>2014</year>;<volume>31</volume>:<fpage>58</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">24762201</pub-id></mixed-citation></ref><ref id="pro3927-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="pro3927-cit-0006">
+<string-name>
+<surname>Tsirigotaki</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>De Geyter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>&#x00160;o&#x00161;taric</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Economou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Karamanou</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Protein export through the bacterial Sec pathway</article-title>. <source xml:lang="en">Nat Rev Microbiol</source>. <year>2017</year>;<volume>15</volume>:<fpage>21</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">27890920</pub-id></mixed-citation></ref><ref id="pro3927-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="pro3927-cit-0007">
+<string-name>
+<surname>Randall</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Hardy</surname>
+<given-names>SJS</given-names>
+</string-name>. <article-title>SecB, one small chaperone in the complex milieu of the cell</article-title>. <source xml:lang="en">Cell Mol Life Sci</source>. <year>2002</year>;<volume>59</volume>:<fpage>1617</fpage>&#x02013;<lpage>1623</lpage>.<pub-id pub-id-type="pmid">12475171</pub-id></mixed-citation></ref><ref id="pro3927-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="pro3927-cit-0008">
+<string-name>
+<surname>Oh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Sandikci</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Selective ribosome profiling reveals the cotranslational chaperone action of trigger factor in vivo</article-title>. <source xml:lang="en">Cell</source>. <year>2011</year>;<volume>147</volume>:<fpage>1295</fpage>&#x02013;<lpage>1308</lpage>.<pub-id pub-id-type="pmid">22153074</pub-id></mixed-citation></ref><ref id="pro3927-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="pro3927-cit-0009">
+<string-name>
+<surname>Chatzi</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Sardis</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Economou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Karamanou</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>SecA&#x02010;mediated targeting and translocation of secretory proteins</article-title>. <source xml:lang="en">Biochim Biophys Acta</source>. <year>2014</year>;<volume>1843</volume>:<fpage>1466</fpage>&#x02013;<lpage>1474</lpage>.<pub-id pub-id-type="pmid">24583121</pub-id></mixed-citation></ref><ref id="pro3927-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="pro3927-cit-0010">
+<string-name>
+<surname>De Geyter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Portaliou</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Srinivasu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Krishnamurthy</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Economou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Karamanou</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Trigger factor is a bona fide secretory pathway chaperone that interacts with SecB and the translocase</article-title>. <source xml:lang="en">EMBO Rep</source>. <year>2020</year>;<volume>21</volume>:<elocation-id>e49054</elocation-id>.<pub-id pub-id-type="pmid">32307852</pub-id></mixed-citation></ref><ref id="pro3927-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="pro3927-cit-0011">
+<string-name>
+<surname>Brundage</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hendrick</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Schiebel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Driessen</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Wickner</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>The purified <italic>E. coli</italic> integral membrane protein SecY/E is sufficient for reconstitution of SecA&#x02010;dependent precursor protein translocation</article-title>. <source xml:lang="en">Cell</source>. <year>1990</year>;<volume>62</volume>:<fpage>649</fpage>&#x02013;<lpage>657</lpage>.<pub-id pub-id-type="pmid">2167176</pub-id></mixed-citation></ref><ref id="pro3927-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="pro3927-cit-0012">
+<string-name>
+<surname>Saio</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Guan</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Economou</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kalodimos</surname>
+<given-names>CG</given-names>
+</string-name>. <article-title>Structural basis for protein antiaggregation activity of the trigger factor chaperone</article-title>. <source xml:lang="en">Science</source>. <year>2014</year>;<volume>344</volume>:<elocation-id>1250494</elocation-id>.<pub-id pub-id-type="pmid">24812405</pub-id></mixed-citation></ref><ref id="pro3927-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="pro3927-cit-0013">
+<string-name>
+<surname>Gouridis</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Karamanou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gelis</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kalodimos</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Economou</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Signal peptides are allosteric activators of the protein translocase</article-title>. <source xml:lang="en">Nature</source>. <year>2009</year>;<volume>462</volume>:<fpage>363</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">19924216</pub-id></mixed-citation></ref><ref id="pro3927-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="pro3927-cit-0014">
+<string-name>
+<surname>Zimmer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Nam</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Rapoport</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>Structure of a complex of the ATPase SecA and the protein&#x02010;translocation channel</article-title>. <source xml:lang="en">Nature</source>. <year>2008</year>;<volume>455</volume>:<fpage>936</fpage>&#x02013;<lpage>943</lpage>.<pub-id pub-id-type="pmid">18923516</pub-id></mixed-citation></ref><ref id="pro3927-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="pro3927-cit-0015">
+<string-name>
+<surname>Karamanou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vrontou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sianidis</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>A molecular switch in SecA protein couples ATP hydrolysis to protein translocation</article-title>. <source xml:lang="en">Mol Microbiol</source>. <year>1999</year>;<volume>34</volume>:<fpage>1133</fpage>&#x02013;<lpage>1145</lpage>.<pub-id pub-id-type="pmid">10594836</pub-id></mixed-citation></ref><ref id="pro3927-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="pro3927-cit-0016">
+<string-name>
+<surname>Watanabe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Blobel</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>High&#x02010;affinity binding of <italic>Escherichia coli</italic> SecB to the signal sequence region of a presecretory protein</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>1995</year>;<volume>92</volume>:<fpage>10133</fpage>&#x02013;<lpage>10136</lpage>.<pub-id pub-id-type="pmid">7479740</pub-id></mixed-citation></ref><ref id="pro3927-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="pro3927-cit-0017">
+<string-name>
+<surname>Ullers</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Luirink</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Harms</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Schwager</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Georgopoulos</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Genevaux</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>SecB is a bona fide generalized chaperone in <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2004</year>;<volume>101</volume>:<fpage>7583</fpage>&#x02013;<lpage>7588</lpage>.<pub-id pub-id-type="pmid">15128935</pub-id></mixed-citation></ref><ref id="pro3927-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="pro3927-cit-0018">
+<string-name>
+<surname>Gelis</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Bonvin</surname>
+<given-names>AMJJ</given-names>
+</string-name>, <string-name>
+<surname>Keramisanou</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Structural basis for signal&#x02010;sequence recognition by the translocase motor SecA as determined by NMR</article-title>. <source xml:lang="en">Cell</source>. <year>2007</year>;<volume>131</volume>:<fpage>756</fpage>&#x02013;<lpage>769</lpage>.<pub-id pub-id-type="pmid">18022369</pub-id></mixed-citation></ref><ref id="pro3927-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="pro3927-cit-0019">
+<string-name>
+<surname>Kimura</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Akita</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Matsuyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mizushima</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Determination of a region in SecA that interacts with presecretory proteins in <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1991</year>;<volume>266</volume>:<fpage>6600</fpage>&#x02013;<lpage>6606</lpage>.<pub-id pub-id-type="pmid">1826108</pub-id></mixed-citation></ref><ref id="pro3927-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="pro3927-cit-0020">
+<string-name>
+<surname>Papanikou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Karamanou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Baud</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Identification of the preprotein binding domain of SecA</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2005</year>;<volume>280</volume>:<fpage>43209</fpage>&#x02013;<lpage>43217</lpage>.<pub-id pub-id-type="pmid">16243836</pub-id></mixed-citation></ref><ref id="pro3927-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="pro3927-cit-0021">
+<string-name>
+<surname>Musial&#x02010;Siwek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rusch</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Kendall</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Selective photoaffinity labeling identifies the signal peptide binding domain on SecA</article-title>. <source xml:lang="en">J Mol Biol</source>. <year>2007</year>;<volume>365</volume>:<fpage>637</fpage>&#x02013;<lpage>648</lpage>.<pub-id pub-id-type="pmid">17084862</pub-id></mixed-citation></ref><ref id="pro3927-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="pro3927-cit-0022">
+<string-name>
+<surname>Osborne</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Clemons</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Rapoport</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>A large conformational change of the translocation ATPase SecA</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2004</year>;<volume>101</volume>:<fpage>10937</fpage>&#x02013;<lpage>10942</lpage>.<pub-id pub-id-type="pmid">15256599</pub-id></mixed-citation></ref><ref id="pro3927-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="pro3927-cit-0023">
+<string-name>
+<surname>Loos</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Ramakrishnan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Vranken</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Structural basis of the subcellular topology landscape of <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">Front Microbiol</source>. <year>2019</year>;<volume>10</volume>:<fpage>1670</fpage>.<pub-id pub-id-type="pmid">31404336</pub-id></mixed-citation></ref><ref id="pro3927-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="pro3927-cit-0024">
+<string-name>
+<surname>Hartl</surname>
+<given-names>FU</given-names>
+</string-name>, <string-name>
+<surname>Lecker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schiebel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hendrick</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Wickner</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>The binding cascade of SecB to SecA to SecY/E mediates preprotein targeting to the <italic>E. coli</italic> plasma membrane</article-title>. <source xml:lang="en">Cell</source>. <year>1990</year>;<volume>63</volume>:<fpage>269</fpage>&#x02013;<lpage>279</lpage>.<pub-id pub-id-type="pmid">2170023</pub-id></mixed-citation></ref><ref id="pro3927-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="pro3927-cit-0025">
+<string-name>
+<surname>Wolff</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sapriel</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bodenreider</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chaffotte</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Delepelaire</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Antifolding activity of the SecB chaperone is essential for secretion of HasA, a quickly folding ABC pathway substrate</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2003</year>;<volume>278</volume>:<fpage>38247</fpage>&#x02013;<lpage>38253</lpage>.<pub-id pub-id-type="pmid">12829711</pub-id></mixed-citation></ref><ref id="pro3927-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="pro3927-cit-0026">
+<string-name>
+<surname>Liu</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Topping</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name>
+<surname>Cover</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Randall</surname>
+<given-names>LL</given-names>
+</string-name>. <article-title>Retardation of folding as a possible means of suppression of a mutation in the leader sequence of an exported protein</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1988</year>;<volume>263</volume>:<fpage>14790</fpage>&#x02013;<lpage>14793</lpage>.<pub-id pub-id-type="pmid">3049590</pub-id></mixed-citation></ref><ref id="pro3927-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="pro3927-cit-0027">
+<string-name>
+<surname>van der Wolk</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>de Wit</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Driessen</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>The catalytic cycle of the <italic>Escherichia coli</italic> SecA ATPase comprises two distinct preprotein translocation events</article-title>. <source xml:lang="en">EMBO J</source>. <year>1997</year>;<volume>16</volume>:<fpage>7297</fpage>&#x02013;<lpage>7304</lpage>.<pub-id pub-id-type="pmid">9405359</pub-id></mixed-citation></ref><ref id="pro3927-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="pro3927-cit-0028">
+<string-name>
+<surname>Uchida</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Mizushima</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Stepwise movement of preproteins in the process of translocation across the cytoplasmic membrane of <italic>Escherichia coli</italic>
+</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1995</year>;<volume>270</volume>:<fpage>30862</fpage>&#x02013;<lpage>30868</lpage>.<pub-id pub-id-type="pmid">8537339</pub-id></mixed-citation></ref><ref id="pro3927-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="pro3927-cit-0029">
+<string-name>
+<surname>Erlandson</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Or</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Osborne</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Rapoport</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>Analysis of polypeptide movement in the SecY channel during SecA&#x02010;mediated protein translocation</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2008</year>;<volume>283</volume>:<fpage>15709</fpage>&#x02013;<lpage>15715</lpage>.<pub-id pub-id-type="pmid">18359943</pub-id></mixed-citation></ref><ref id="pro3927-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="pro3927-cit-0030">
+<string-name>
+<surname>Schiebel</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Driessen</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Hartl</surname>
+<given-names>FU</given-names>
+</string-name>, <string-name>
+<surname>Wickner</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Delta mu H+ and ATP function at different steps of the catalytic cycle of preprotein translocase</article-title>. <source xml:lang="en">Cell</source>. <year>1991</year>;<volume>64</volume>:<fpage>927</fpage>&#x02013;<lpage>939</lpage>.<pub-id pub-id-type="pmid">1825804</pub-id></mixed-citation></ref><ref id="pro3927-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="pro3927-cit-0031">
+<string-name>
+<surname>Lill</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dowhan</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wickner</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>The ATPase activity of SecA is regulated by acidic phospholipids, SecY, and the leader and mature domains of precursor proteins</article-title>. <source xml:lang="en">Cell</source>. <year>1990</year>;<volume>60</volume>:<fpage>271</fpage>&#x02013;<lpage>280</lpage>.<pub-id pub-id-type="pmid">2153463</pub-id></mixed-citation></ref><ref id="pro3927-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="pro3927-cit-0032">
+<string-name>
+<surname>Josefsson</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Randall</surname>
+<given-names>LL</given-names>
+</string-name>. <article-title>Different exported proteins in <italic>E. coli</italic> show differences in the temporal mode of processing in vivo</article-title>. <source xml:lang="en">Cell</source>. <year>1981</year>;<volume>25</volume>:<fpage>151</fpage>&#x02013;<lpage>157</lpage>.<pub-id pub-id-type="pmid">7023693</pub-id></mixed-citation></ref><ref id="pro3927-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="pro3927-cit-0033">
+<string-name>
+<surname>Auclair</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Bhanu</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Kendall</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Signal peptidase I: Cleaving the way to mature proteins</article-title>. <source xml:lang="en">Protein Sci</source>. <year>2012</year>;<volume>21</volume>:<fpage>13</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">22031009</pub-id></mixed-citation></ref><ref id="pro3927-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="pro3927-cit-0034">
+<string-name>
+<surname>Bardwell</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>McGovern</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Beckwith</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Identification of a protein required for disulfide bond formation in vivo</article-title>. <source xml:lang="en">Cell</source>. <year>1991</year>;<volume>67</volume>:<fpage>581</fpage>&#x02013;<lpage>589</lpage>.<pub-id pub-id-type="pmid">1934062</pub-id></mixed-citation></ref><ref id="pro3927-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="pro3927-cit-0035">
+<string-name>
+<surname>Akiyama</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kamitani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kusukawa</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>In vitro catalysis of oxidative folding of disulfide&#x02010;bonded proteins by the <italic>Escherichia coli</italic> dsbA (ppfA) gene product</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1992</year>;<volume>267</volume>:<fpage>22440</fpage>&#x02013;<lpage>22445</lpage>.<pub-id pub-id-type="pmid">1429594</pub-id></mixed-citation></ref><ref id="pro3927-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="pro3927-cit-0036">
+<string-name>
+<surname>Akiyama</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Folding and assembly of bacterial alkaline phosphatase in vitro and in vivo</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1993</year>;<volume>268</volume>:<fpage>8146</fpage>&#x02013;<lpage>8150</lpage>.<pub-id pub-id-type="pmid">8463326</pub-id></mixed-citation></ref><ref id="pro3927-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="pro3927-cit-0037">
+<string-name>
+<surname>Kadokura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zander</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Bardwell</surname>
+<given-names>JCA</given-names>
+</string-name>, <string-name>
+<surname>Beckwith</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Snapshots of DsbA in action: Detection of proteins in the process of oxidative folding</article-title>. <source xml:lang="en">Science</source>. <year>2004</year>;<volume>303</volume>:<fpage>534</fpage>&#x02013;<lpage>537</lpage>.<pub-id pub-id-type="pmid">14739460</pub-id></mixed-citation></ref><ref id="pro3927-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="pro3927-cit-0038">
+<string-name>
+<surname>Huber</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rajagopalan</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Preissler</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>SecA interacts with ribosomes in order to facilitate posttranslational translocation in bacteria</article-title>. <source xml:lang="en">Mol Cell</source>. <year>2011</year>;<volume>41</volume>:<fpage>343</fpage>&#x02013;<lpage>353</lpage>.<pub-id pub-id-type="pmid">21292166</pub-id></mixed-citation></ref><ref id="pro3927-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="pro3927-cit-0039">
+<string-name>
+<surname>Singh</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kraft</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Jaiswal</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Cryo&#x02010;electron microscopic structure of SecA protein bound to the 70S ribosome</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2014</year>;<volume>289</volume>:<fpage>7190</fpage>&#x02013;<lpage>7199</lpage>.<pub-id pub-id-type="pmid">24443566</pub-id></mixed-citation></ref><ref id="pro3927-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="pro3927-cit-0040">
+<string-name>
+<surname>Huber</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jamshad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hanmer</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>SecA cotranslationally interacts with nascent substrate proteins in vivo</article-title>. <source xml:lang="en">J Bacteriol</source>. <year>2017</year>;<volume>199</volume>:<fpage>e00622</fpage>&#x02013;<lpage>e00616</lpage>.<pub-id pub-id-type="pmid">27795329</pub-id></mixed-citation></ref><ref id="pro3927-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="pro3927-cit-0041">
+<string-name>
+<surname>Jamshad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Knowles</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>SA</given-names>
+</string-name>, et al. <article-title>The C&#x02010;terminal tail of the bacterial translocation ATPase SecA modulates its activity</article-title>. <source xml:lang="en">Elife</source>. <year>2019</year>;<volume>8</volume>:<elocation-id>e48385</elocation-id>.<pub-id pub-id-type="pmid">31246174</pub-id></mixed-citation></ref><ref id="pro3927-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="pro3927-cit-0042">
+<string-name>
+<surname>Kn&#x000fc;pffer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Fehrenbach</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Denks</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Erichsen</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Petriman</surname>
+<given-names>N&#x02010;A</given-names>
+</string-name>, <string-name>
+<surname>Koch</surname>
+<given-names>H&#x02010;G</given-names>
+</string-name>. <article-title>Molecular mimicry of SecA and signal recognition particle binding to the bacterial ribosome</article-title>. <source xml:lang="en">MBio</source>. <year>2019</year>;<volume>10</volume>:<fpage>e01317</fpage>&#x02013;<lpage>e01319</lpage>.<pub-id pub-id-type="pmid">31409676</pub-id></mixed-citation></ref><ref id="pro3927-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="pro3927-cit-0043">
+<string-name>
+<surname>Kadokura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Beckwith</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Detecting folding intermediates of a protein as it passes through the bacterial translocation channel</article-title>. <source xml:lang="en">Cell</source>. <year>2009</year>;<volume>138</volume>:<fpage>1164</fpage>&#x02013;<lpage>1173</lpage>.<pub-id pub-id-type="pmid">19766568</pub-id></mixed-citation></ref><ref id="pro3927-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="pro3927-cit-0044">
+<string-name>
+<surname>Nilsson</surname>
+<given-names>OB</given-names>
+</string-name>, <string-name>
+<surname>Hedman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Marino</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Cotranslational protein folding inside the ribosome exit tunnel</article-title>. <source xml:lang="en">Cell Rep</source>. <year>2015</year>;<volume>12</volume>:<fpage>1533</fpage>&#x02013;<lpage>1540</lpage>.<pub-id pub-id-type="pmid">26321634</pub-id></mixed-citation></ref><ref id="pro3927-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="pro3927-cit-0045">
+<string-name>
+<surname>Nilsson</surname>
+<given-names>OB</given-names>
+</string-name>, <string-name>
+<surname>M&#x000fc;ller&#x02010;Lucks</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kramer</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bukau</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>von Heijne</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Trigger factor reduces the force exerted on the nascent chain by a cotranslationally folding protein</article-title>. <source xml:lang="en">J Mol Biol</source>. <year>2016</year>;<volume>428</volume>:<fpage>1356</fpage>&#x02013;<lpage>1364</lpage>.<pub-id pub-id-type="pmid">26906929</pub-id></mixed-citation></ref><ref id="pro3927-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="pro3927-cit-0046">
+<string-name>
+<surname>Nilsson</surname>
+<given-names>OB</given-names>
+</string-name>, <string-name>
+<surname>Nickson</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Hollins</surname>
+<given-names>JJ</given-names>
+</string-name>, et al. <article-title>Cotranslational folding of spectrin domains via partially structured states</article-title>. <source xml:lang="en">Nat Struct Mol Biol</source>. <year>2017</year>;<volume>24</volume>:<fpage>221</fpage>&#x02013;<lpage>225</lpage>.<pub-id pub-id-type="pmid">28112730</pub-id></mixed-citation></ref><ref id="pro3927-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="pro3927-cit-0047">
+<string-name>
+<surname>Far&#x000ed;as&#x02010;Rico</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Goetz</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Marino</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>von Heijne</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Mutational analysis of protein folding inside the ribosome exit tunnel</article-title>. <source xml:lang="en">FEBS Lett</source>. <year>2017</year>;<volume>591</volume>:<fpage>155</fpage>&#x02013;<lpage>163</lpage>.<pub-id pub-id-type="pmid">27925654</pub-id></mixed-citation></ref><ref id="pro3927-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="pro3927-cit-0048">
+<string-name>
+<surname>Far&#x000ed;as&#x02010;Rico</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Ruud Selin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Myronidi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Fr&#x000fc;hauf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>von Heijne</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Effects of protein size, thermodynamic stability, and net charge on cotranslational folding on the ribosome</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2018</year>;<volume>115</volume>:<fpage>E9280</fpage>&#x02013;<lpage>E9287</lpage>.<pub-id pub-id-type="pmid">30224455</pub-id></mixed-citation></ref><ref id="pro3927-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="pro3927-cit-0049">
+<string-name>
+<surname>Tian</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Steward</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kudva</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Folding pathway of an Ig domain is conserved on and off the ribosome</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2018</year>;<volume>115</volume>:<fpage>E11284</fpage>&#x02013;<lpage>E11293</lpage>.<pub-id pub-id-type="pmid">30413621</pub-id></mixed-citation></ref><ref id="pro3927-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="pro3927-cit-0050">
+<string-name>
+<surname>Kudva</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Tian</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pardo&#x02010;Avila</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>The shape of the bacterial ribosome exit tunnel affects cotranslational protein folding</article-title>. <source xml:lang="en">Elife</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e36326</elocation-id>.<pub-id pub-id-type="pmid">30475203</pub-id></mixed-citation></ref><ref id="pro3927-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="pro3927-cit-0051">
+<string-name>
+<surname>Kemp</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kudva</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>de la Rosa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>von Heijne</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Force&#x02010;profile analysis of the cotranslational folding of HemK and filamin domains: Comparison of biochemical and biophysical folding assays</article-title>. <source xml:lang="en">J Mol Biol</source>. <year>2019</year>;<volume>431</volume>:<fpage>1308</fpage>&#x02013;<lpage>1314</lpage>.<pub-id pub-id-type="pmid">30738895</pub-id></mixed-citation></ref><ref id="pro3927-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="pro3927-cit-0052">
+<string-name>
+<surname>Marsden</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Hollins</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>O'Neill</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Investigating the effect of chain connectivity on the folding of a beta&#x02010;sheet protein on and off the ribosome</article-title>. <source xml:lang="en">J Mol Biol</source>. <year>2018</year>;<volume>430</volume>:<fpage>5207</fpage>&#x02013;<lpage>5216</lpage>.<pub-id pub-id-type="pmid">30365950</pub-id></mixed-citation></ref><ref id="pro3927-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="pro3927-cit-0053">
+<string-name>
+<surname>Jensen</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Samelson</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Steward</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Clarke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Marqusee</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The folding and unfolding behavior of ribonuclease H on the ribosome</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2020</year>;<volume>295</volume>:<fpage>11410</fpage>&#x02013;<lpage>11417</lpage>. <pub-id pub-id-type="doi">10.1074/jbc.RA120.013909</pub-id>.<pub-id pub-id-type="pmid">32527724</pub-id></mixed-citation></ref><ref id="pro3927-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="pro3927-cit-0054">
+<string-name>
+<surname>Ismail</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hedman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Schiller</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>von Heijne</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>A biphasic pulling force acts on transmembrane helices during translocon&#x02010;mediated membrane integration</article-title>. <source xml:lang="en">Nat Struct Mol Biol</source>. <year>2012</year>;<volume>19</volume>:<fpage>1018</fpage>&#x02013;<lpage>1022</lpage>.<pub-id pub-id-type="pmid">23001004</pub-id></mixed-citation></ref><ref id="pro3927-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="pro3927-cit-0055">
+<string-name>
+<surname>Goldman</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Kaiser</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Milin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Righini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tinoco</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Bustamante</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Ribosome. Mechanical force releases nascent chain&#x02010;mediated ribosome arrest in vitro and in vivo</article-title>. <source xml:lang="en">Science</source>. <year>2015</year>;<volume>348</volume>:<fpage>457</fpage>&#x02013;<lpage>460</lpage>.<pub-id pub-id-type="pmid">25908824</pub-id></mixed-citation></ref><ref id="pro3927-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="pro3927-cit-0056">
+<string-name>
+<surname>Karamyshev</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Karamysheva</surname>
+<given-names>ZN</given-names>
+</string-name>, <string-name>
+<surname>Kajava</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Ksenzenko</surname>
+<given-names>VN</given-names>
+</string-name>, <string-name>
+<surname>Nesmeyanova</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Processing of <italic>Escherichia coli</italic> alkaline phosphatase: Role of the primary structure of the signal peptide cleavage region</article-title>. <source xml:lang="en">J Mol Biol</source>. <year>1998</year>;<volume>277</volume>:<fpage>859</fpage>&#x02013;<lpage>870</lpage>.<pub-id pub-id-type="pmid">9545377</pub-id></mixed-citation></ref><ref id="pro3927-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="pro3927-cit-0057">
+<string-name>
+<surname>Ismail</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hedman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lind&#x000e9;n</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>von Heijne</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Charge&#x02010;driven dynamics of nascent&#x02010;chain movement through the SecYEG translocon</article-title>. <source xml:lang="en">Nat Struct Mol Biol</source>. <year>2015</year>;<volume>22</volume>:<fpage>145</fpage>&#x02013;<lpage>149</lpage>.<pub-id pub-id-type="pmid">25558985</pub-id></mixed-citation></ref><ref id="pro3927-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="pro3927-cit-0058">
+<string-name>
+<surname>Sone</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kishigami</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yoshihisa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Roles of disulfide bonds in bacterial alkaline phosphatase</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1997</year>;<volume>272</volume>:<fpage>6174</fpage>&#x02013;<lpage>6178</lpage>.<pub-id pub-id-type="pmid">9045630</pub-id></mixed-citation></ref><ref id="pro3927-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="pro3927-cit-0059">
+<string-name>
+<surname>Keseler</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Mackie</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Santos&#x02010;Zavaleta</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>The EcoCyc database: Reflecting new knowledge about <italic>Escherichia coli</italic> K&#x02010;12</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2017</year>;<volume>45</volume>:<fpage>D543</fpage>&#x02013;<lpage>D550</lpage>.<pub-id pub-id-type="pmid">27899573</pub-id></mixed-citation></ref><ref id="pro3927-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="pro3927-cit-0060">
+<string-name>
+<surname>Gibson</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chuang</surname>
+<given-names>R&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Venter</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Hutchison</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>HO</given-names>
+</string-name>. <article-title>Enzymatic assembly of DNA molecules up to several hundred kilobases</article-title>. <source xml:lang="en">Nat Methods</source>. <year>2009</year>;<volume>6</volume>:<fpage>343</fpage>&#x02013;<lpage>345</lpage>.<pub-id pub-id-type="pmid">19363495</pub-id></mixed-citation></ref><ref id="pro3927-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="pro3927-cit-0061">
+<string-name>
+<surname>Almagro Armenteros</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Tsirigos</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>S&#x000f8;nderby</surname>
+<given-names>CK</given-names>
+</string-name>, et al. <article-title>SignalP 5.0 improves signal peptide predictions using deep neural networks</article-title>. <source xml:lang="en">Nat Biotechnol</source>. <year>2019</year>;<volume>37</volume>:<fpage>420</fpage>&#x02013;<lpage>423</lpage>.<pub-id pub-id-type="pmid">30778233</pub-id></mixed-citation></ref><ref id="pro3927-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="pro3927-cit-0062">
+<string-name>
+<surname>Datsenko</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Wanner</surname>
+<given-names>BL</given-names>
+</string-name>. <article-title>One&#x02010;step inactivation of chromosomal genes in <italic>Escherichia coli</italic> K&#x02010;12 using PCR products</article-title>. <source xml:lang="en">Proc Natl Acad Sci U S A</source>. <year>2000</year>;<volume>97</volume>:<fpage>6640</fpage>&#x02013;<lpage>6645</lpage>.<pub-id pub-id-type="pmid">10829079</pub-id></mixed-citation></ref><ref id="pro3927-bib-0063"><label>63</label><mixed-citation publication-type="book" id="pro3927-cit-0063">
+<string-name>
+<surname>Thomason</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Costantino</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Court</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Thomason</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Costantino</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Court</surname>
+<given-names>DL</given-names>
+</string-name>. <chapter-title><italic>E. coli</italic> genome manipulation by P1 transduction</chapter-title>
+<source xml:lang="en">Current protocols in molecular biology</source>. <publisher-loc>Hoboken, NJ</publisher-loc>: <publisher-name>John Wiley &#x00026; Sons, Inc.</publisher-name>, <year>2007</year>; p. <fpage>1.17.1</fpage>&#x02013;<lpage>1.17.8</lpage>.</mixed-citation></ref><ref id="pro3927-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="pro3927-cit-0064">
+<string-name>
+<surname>O'Brien</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Lassila</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Fenn</surname>
+<given-names>TD</given-names>
+</string-name>, <string-name>
+<surname>Zalatan</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Herschlag</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Arginine Coordination in Enzymatic Phosphoryl Transfer: Evaluation of the Effect of Arg166 Mutations in Escherichia coli Alkaline Phosphatase</article-title>. <source xml:lang="en">Biochemistry</source>, <year>2008</year>;<volume>47</volume>(<issue>29</issue>):<fpage>7663</fpage>&#x02013;<lpage>7672</lpage>. <pub-id pub-id-type="doi">10.1021/bi800545n</pub-id>.<pub-id pub-id-type="pmid">18627128</pub-id></mixed-citation></ref></ref-list></back></article>

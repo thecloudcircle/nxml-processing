@@ -1,0 +1,728 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Biology (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Biology (Basel)</journal-id><journal-id journal-id-type="publisher-id">biology</journal-id><journal-title-group><journal-title>Biology</journal-title></journal-title-group><issn pub-type="epub">2079-7737</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">23919179</article-id><article-id pub-id-type="pmc">3732451</article-id><article-id pub-id-type="doi">10.3390/biology1030778</article-id><article-id pub-id-type="publisher-id">biology-01-00778</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Recruitment of Transcription Complexes to Enhancers and the Role of Enhancer Transcription</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Stees</surname><given-names>Jared S.</given-names></name><xref ref-type="aff" rid="af1-biology-01-00778">1</xref></contrib><contrib contrib-type="author"><name><surname>Varn</surname><given-names>Fred</given-names></name><xref ref-type="aff" rid="af1-biology-01-00778">1</xref></contrib><contrib contrib-type="author"><name><surname>Huang</surname><given-names>Suming</given-names></name><xref ref-type="aff" rid="af1-biology-01-00778">1</xref></contrib><contrib contrib-type="author"><name><surname>Strouboulis</surname><given-names>John</given-names></name><xref ref-type="aff" rid="af2-biology-01-00778">2</xref></contrib><contrib contrib-type="author"><name><surname>Bungert</surname><given-names>J&#x000f6;rg</given-names></name><xref ref-type="aff" rid="af1-biology-01-00778">1</xref><xref rid="c1-biology-01-00778" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-biology-01-00778"><label>1</label>Department of Biochemistry and Molecular Biology, College of Medicine, Genetics Institute, University of Florida, 1600 SW Archer Road, Gainesville, FL, 32610, USA; E-Mails: <email>jaredstees@ufl.edu</email> (J.S.); <email> fsvarn@gmail.com</email> (F.V.); <email>sumingh@ufl.edu</email> (S.H.)</aff><aff id="af2-biology-01-00778"><label>2</label>Institute of Molecular Oncology, BSRC Alexander Fleming, Varkiza, 16002, Greece; E-Mail: <email>strouboulis@fleming.gr</email></aff><author-notes><corresp id="c1-biology-01-00778"><label>*</label>Author to whom correspondence should be addressed; E&#x02013;Mail: <email>jbungert@ufl.edu</email>; Tel.: 352&#x02013;273&#x02013;8098; Fax: 352-392-2953.</corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>12</month><year>2012</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2012</year></pub-date><volume>1</volume><issue>3</issue><fpage>778</fpage><lpage>793</lpage><history><date date-type="received"><day>01</day><month>11</month><year>2012</year></date><date date-type="rev-recd"><day>21</day><month>11</month><year>2012</year></date><date date-type="accepted"><day>21</day><month>11</month><year>2012</year></date></history><permissions><copyright-statement>&#x000a9; 2012 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2012</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>Enhancer elements regulate the tissue- and developmental-stage-specific expression of genes. Recent estimates suggest that there are more than 50,000 enhancers in mammalian cells. At least a subset of enhancers has been shown to recruit RNA polymerase II transcription complexes and to generate enhancer transcripts. Here, we provide an overview of enhancer function and discuss how transcription of enhancers or enhancer-generated transcripts could contribute to the regulation of gene expression during development and differentiation.</p></abstract><kwd-group><kwd>gene regulation</kwd><kwd>chromatin</kwd><kwd>transcription factor</kwd><kwd>noncoding RNA</kwd><kwd>histone modifications</kwd><kwd>enhancer</kwd><kwd>promoter</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>Expression of genes during development and differentiation is regulated by complex mechanisms involving many <italic>cis</italic>-regulatory DNA elements and <italic>trans</italic>-acting proteins [<xref rid="B1-biology-01-00778" ref-type="bibr">1</xref>,<xref rid="B2-biology-01-00778" ref-type="bibr">2</xref>]. Among the <italic>cis</italic>-regulatory DNA elements modulating transcription of genes are promoters, insulators, enhancers and silencers [<xref rid="B3-biology-01-00778" ref-type="bibr">3</xref>,<xref rid="B4-biology-01-00778" ref-type="bibr">4</xref>,<xref rid="B5-biology-01-00778" ref-type="bibr">5</xref>]. This review will focus on enhancer elements that regulate transcription by RNA polymerase II (Pol II) and on the relationship between enhancers and promoters. Promoters are gene proximal regulatory DNA elements that include basal promoter elements [<xref rid="B3-biology-01-00778" ref-type="bibr">3</xref>]. The basal promoter associates with general transcription factors that recruit and position RNA polymerase for faithful transcription. In contrast to promoters, enhancers are usually located far away from the genes they regulate. </p><p>The current estimate for protein coding genes in the mammalian genome ranges from between 24,000 and 25,000 [<xref rid="B2-biology-01-00778" ref-type="bibr">2</xref>]. A recent map of <italic>cis</italic>-regulatory DNA elements in the mouse genome suggests that the number of enhancers far exceeds the number of genes [<xref rid="B6-biology-01-00778" ref-type="bibr">6</xref>]. Many genes are expressed in different cell-types or at different stages during development. Enhancers are often critical for the tissue- and developmental-stage-specific expression of genes and collaborate with promoters to fine-tune the level of expression [<xref rid="B5-biology-01-00778" ref-type="bibr">5</xref>]. Enhancers share many of the hallmarks that characterize promoter regions, including DNAse I hypersensitivity, establishment of a nucleosome depleted region (NDR), binding of tissue-specific and ubiquitous transcription factors, epigenetic marks that signify accessible chromatin and, at least for a subset of enhancers, recruitment of transcription complexes [<xref rid="B5-biology-01-00778" ref-type="bibr">5</xref>]. However, there are differences between promoters and enhancers that we shall discuss later. </p></sec><sec><title>2. Enhancer and Locus Control Region (LCR)</title><p>Enhancers were first identified based on their ability to increase transcription of a linked gene in transient transfection experiments independent from the orientation of the enhancer with respect to the gene they activate [<xref rid="B7-biology-01-00778" ref-type="bibr">7</xref>,<xref rid="B8-biology-01-00778" ref-type="bibr">8</xref>]. Most viral enhancers, tested in mammalian cells, are ubiquitously active, whereas enhancers of multicellular organisms generally function in a developmental stage-specific and/ or cell-type restricted manner. Like other regulatory DNA elements, enhancers have been traditionally identified by DNase I hypersensitivity mapping experiments [<xref rid="B9-biology-01-00778" ref-type="bibr">9</xref>]. Hypersensitive (HS) sites that were located in relative proximity to Pol II transcribed genes were sub&#x02013;cloned into reporter constructs and assayed for transcriptional activation using either cell-type specific or ubiquitous promoter elements. These early studies revealed functional differences between different HS sites. For example, some HS sites associated with the human &#x003b2;-globin gene locus control region (LCR) functioned in stable, but not in transient, transfection experiments, suggesting that a regular chromatin environment is important for the function of these elements [<xref rid="B10-biology-01-00778" ref-type="bibr">10</xref>,<xref rid="B11-biology-01-00778" ref-type="bibr">11</xref>]. With respect to overall organization principles, enhancers in many ways resemble promoters. They are about 200 to 400 bp in size and often harbor a number of transcription factor binding sites that recruit either ubiquitously expressed or cell-type-restricted proteins [<xref rid="B5-biology-01-00778" ref-type="bibr">5</xref>]. Enhancers normally do not contain any of the typical Pol II basal promoter elements. like TATA-box, initiator (INI) or downstream promoter element (DPE). However, there are many promoters that also lack these basal promoter elements, yet are capable of recruiting transcription complexes [<xref rid="B12-biology-01-00778" ref-type="bibr">12</xref>].</p><p>Locus control regions (LCRs) are composite regulatory DNA elements that regulate multiple genes in complex gene loci [<xref rid="B13-biology-01-00778" ref-type="bibr">13</xref>]. LCRs were first discovered in the human &#x003b2;-globin gene locus and have since been identified in many different gene loci. LCRs differ from simple enhancer elements in that they are usually composed of multiple HS sites that function together to mediate high-level expression of associated genes. LCR associated HS sites can function in an additive, synergistic or in a redundant manner [<xref rid="B14-biology-01-00778" ref-type="bibr">14</xref>,<xref rid="B15-biology-01-00778" ref-type="bibr">15</xref>]. Experiments in the growth hormone gene locus revealed that LCR associated HS sites harbor specific activities that cooperate in transcription activation [<xref rid="B16-biology-01-00778" ref-type="bibr">16</xref>]. Most genes regulated by LCRs are expressed at extremely high levels in differentiated cells [<xref rid="B13-biology-01-00778" ref-type="bibr">13</xref>]. In contrast to enhancers, the LCR associated with the &#x003b2;-globin genes acts in an orientation-dependent manner [<xref rid="B17-biology-01-00778" ref-type="bibr">17</xref>].</p><fig id="biology-01-00778-f001" position="float"><label>Figure 1</label><caption><p>Comparison of the structure and features of enhancer, as well as housekeeping and tissue-specific promoters. Promoters and enhancers are characterized by specific chromatin signatures and recruitment of transcription factors as indicated by the symbols, which are described in the lower right part.</p></caption><graphic xlink:href="biology-01-00778-g001"/></fig><p>Recent advances in the analysis of chromatin-associated activities using chromatin immunoprecipitation followed by DNA sequencing (ChIP&#x02013;Seq) or related methods allowed for the genome&#x02013;wide mapping of transcription factor binding and histone tail post-translational modifications (PTMs) [<xref rid="B18-biology-01-00778" ref-type="bibr">18</xref>,<xref rid="B19-biology-01-00778" ref-type="bibr">19</xref>]. These studies have revealed that enhancer elements can be distinguished from other DNA elements due to a specific combination of histone PTM signatures (<xref ref-type="fig" rid="biology-01-00778-f001">Figure 1</xref>) [<xref rid="B20-biology-01-00778" ref-type="bibr">20</xref>]. Among these signatures is the monomethylation of lysine 4 of histone H3 (H3K4me), which is enriched at enhancer elements and, to a lesser degree, at promoters. The trimethylated form of H3K4 (H3K4me3) is preferentially associated with promoter regions [<xref rid="B21-biology-01-00778" ref-type="bibr">21</xref>]. The original studies were done with transformed cell lines. Recent studies using primary lymphoid cells also showed enrichment of H3K4me3 at enhancer elements [<xref rid="B22-biology-01-00778" ref-type="bibr">22</xref>]. Importantly however, the ratio of H3K4me1 <italic>versus</italic> H3K3me3 was higher at enhancers compared to promoters. Nucleosomes flanking enhancer elements are often acetylated at H3K27 (H3K27ac) [<xref rid="B23-biology-01-00778" ref-type="bibr">23</xref>,<xref rid="B24-biology-01-00778" ref-type="bibr">24</xref>]. H3K27 is a major substrate for the histone acetyltransferase p300, which is also preferentially found at enhancer elements when compared to promoters [<xref rid="B18-biology-01-00778" ref-type="bibr">18</xref>]. In addition to histone marks, enhancers are occupied by a specific combination of tissue-restricted and ubiquitous transcription factors. Although transcription factors often bind to both promoters and enhancers, some proteins preferentially associate with distal regulatory elements. For example, erythroid transcription factor NF&#x02013;E2 and the ubiquitously expressed transcription factor USF2 interact with each other and associate with distal enhancer and proximal promoter elements of erythroid specific genes [<xref rid="B25-biology-01-00778" ref-type="bibr">25</xref>,<xref rid="B26-biology-01-00778" ref-type="bibr">26</xref>]. Interestingly, a recent analysis of protein chromatin interaction patterns using a high&#x02013;resolution DNAse&#x02013;I based footprinting assay revealed that NF-E2 directly binds to distal elements and recruits USF2 indirectly to these sites; whereas USF2 directly interacts with promoter&#x02013;proximal sequences and indirectly recruits NF&#x02013;E2 to these sites [<xref rid="B27-biology-01-00778" ref-type="bibr">27</xref>]. </p><p>At least a subset of enhancers recruit Pol II transcription complexes, including basal transcription factors like TFIIB and TBP [<xref rid="B28-biology-01-00778" ref-type="bibr">28</xref>,<xref rid="B29-biology-01-00778" ref-type="bibr">29</xref>]. Genome-wide RNA sequencing revealed that a large fraction of enhancers are transcribed, often in a bidirectional manner [<xref rid="B30-biology-01-00778" ref-type="bibr">30</xref>,<xref rid="B31-biology-01-00778" ref-type="bibr">31</xref>,<xref rid="B32-biology-01-00778" ref-type="bibr">32</xref>]. The resulting enhancer RNAs (eRNAs) appear to be variable in size and may or may not be polyadenylated. </p><p>There is increasing evidence suggesting that different signatures mark poised enhancers <italic>versus</italic> active enhancers. It has been known for a long time that enhancer elements can exhibit DNase I hypersensitivity in undifferentiated cells in which the target genes are not active [<xref rid="B33-biology-01-00778" ref-type="bibr">33</xref>]. The binding of p300 and the monomethylation of H3K4 of flanking nucleosomes appears to mark poised enhancers, while the recruitment of Pol II, the generation of eRNAs and the acetylation of H3K27 is associated with active enhancers [<xref rid="B18-biology-01-00778" ref-type="bibr">18</xref>,<xref rid="B30-biology-01-00778" ref-type="bibr">30</xref>]. It is likely that there is not a unique combination of signatures that is characteristic for all enhancers. Rather, enhancers likely differ with respect to a specific combination of signatures, which will also reflect differences in activity, e.g. chromatin opening <italic>versus</italic> transcription complex recruitment.</p></sec><sec><title>3. Promoter</title><p>The promoter is a DNA segment that recruits RNA polymerase II with the assistance of promoter binding proteins. The basal promoter is the minimal sequence required for the recruitment of RNA polymerase (<xref ref-type="fig" rid="biology-01-00778-f001">Figure 1</xref>) [<xref rid="B3-biology-01-00778" ref-type="bibr">3</xref>]. The first isolated mammalian Pol II promoters usually contained a TATA-box located 25 to 30bp upstream of the transcription start site. The TATA-box is recognized by the TATA-binding protein (TBP) [<xref rid="B34-biology-01-00778" ref-type="bibr">34</xref>]. This interaction is stabilized by transcription factor of Pol II (TFII) A and TFIIB [<xref rid="B34-biology-01-00778" ref-type="bibr">34</xref>,<xref rid="B35-biology-01-00778" ref-type="bibr">35</xref>]. TFIIB directly interacts with Pol II and recruits it to the TATA-box protein complex. Additional factors required for Pol II transcription are TFIIE, TFIIF and TFIIH. TFIIH is a large protein complex that contains ATPase and helicase activity required for melting the DNA for transcription initiation. TFII&#x02013;H also contains kinase activity, which phosphorylates Pol II at the C&#x02013;terminal domain (CTD) at serine 5 (Pol II-ser-5-P). The genome-wide analysis of promoter structure revealed that only a minority of Pol II transcribed genes contain a TATA-box. Additional basal promoter elements include the initiator (INI) and downstream promoter element (DPE) [<xref rid="B36-biology-01-00778" ref-type="bibr">36</xref>,<xref rid="B37-biology-01-00778" ref-type="bibr">37</xref>]. TBP is part of a larger protein complex called TFIID, which also contains TBP associated factors (TAFs). Some of the TAFs have been shown to interact with the INI and DPE elements, demonstrating that, for many genes, TFIID is the primary DNA binding activity that recruits Pol II to promoters [<xref rid="B3-biology-01-00778" ref-type="bibr">3</xref>]. However, there are many Pol II transcribed genes that do not contain any of the known basal promoter elements, but often are enriched for GC base pairs. Interestingly, promoters with TATA-box or INI elements initiate transcription from very focused sites, whereas GC-rich promoters that do not contain basal promoter elements, like those associated with housekeeping genes, are characterized by dispersed transcription initiation events (<xref ref-type="fig" rid="biology-01-00778-f001">Figure 1</xref>) [<xref rid="B12-biology-01-00778" ref-type="bibr">12</xref>]. Interestingly, transcription from focused promoters is associated with H3K4me3 and H3K79me1, whereas transcription from GC-rich promoters is associated with H4K20me1 and H3K27ac, a mark also associated with enhancer elements [<xref rid="B38-biology-01-00778" ref-type="bibr">38</xref>].</p></sec><sec><title>4. Nuclear Transcription Domains</title><p>Transcription in eukaryotes takes place in the nucleus. Certain activities in the nucleus, e.g. rRNA synthesis, are compartmentalized. These compartments or domains are not engulfed by membranes, but rather represent dynamic centers of specialized function that are characterized by the constant influx and efflux of activities that constitute these domains. For example, there is evidence that many genes are transcribed in domains enriched for Pol II, referred to as transcription factories [<xref rid="B39-biology-01-00778" ref-type="bibr">39</xref>,<xref rid="B40-biology-01-00778" ref-type="bibr">40</xref>,<xref rid="B41-biology-01-00778" ref-type="bibr">41</xref>]. It appears that transcribed genes associate with transcription factories, while inactive genes do not. Furthermore, in erythroid cells, KLF1 co-regulated genes often associate with the same transcription factory [<xref rid="B42-biology-01-00778" ref-type="bibr">42</xref>]. How transcription domains are established and how genes are recruited to these sites of transcription is currently not known.</p><p>The nucleus is also structured with respect to the separation of inaccessible and accessible chromatin. Silent genes are located within inaccessible chromatin territories (CTs), while active genes are located at the surface of these territories [<xref rid="B43-biology-01-00778" ref-type="bibr">43</xref>,<xref rid="B44-biology-01-00778" ref-type="bibr">44</xref>]. Chromatin territories are separated from each other by the interchromatin compartment (IC), viewed as a laguna-like space in the nucleus that contains activities involved in transcription, RNA processing, replication and other functions [<xref rid="B43-biology-01-00778" ref-type="bibr">43</xref>]. The CT-IC model predicts that genes have to be relocated from inaccessible internal domains to accessible domains on the surface of CTs during activation of transcription. What leads to re-positioning of genes away from CTs and anchors them at transcription factories is currently unknown, but enhancers could play a role in this process. </p></sec><sec><title>5. Enhancer Function</title><p>Enhancers activate gene expression at the level of transcription [<xref rid="B5-biology-01-00778" ref-type="bibr">5</xref>]. Recent evidence suggests that enhancers can be classified with respect to the mechanism by which they increase transcription of target genes [<xref rid="B5-biology-01-00778" ref-type="bibr">5</xref>]. The activities range from mediating chromatin opening, positioning of genes with respect to transcriptionally active regions in the nucleus, recruitment of transcription complexes, to modulating transcription elongation.</p><p>It appears that a distinct set of enhancers act by opening chromatin at promoters to increase accessibility for the transcription complex. This has recently been demonstrated for an enhancer element associated with embryonic epsilon globin gene expression in the murine &#x003b2;&#x02013;globin gene locus [<xref rid="B45-biology-01-00778" ref-type="bibr">45</xref>]. The mechanism likely involves the recruitment of chromatin-modifying activities that spread from the enhancer to mediate accessibility over nearby promoter regions (<xref ref-type="fig" rid="biology-01-00778-f002">Figure 2</xref>). Another example of enhancer mediated chromatin accessibility stemmed from studies in the &#x003b1;&#x02013;globin gene locus, which revealed that a distantly located enhancer removes polycomb group (PcGs) complexes from the globin gene promoters [<xref rid="B46-biology-01-00778" ref-type="bibr">46</xref>]. PcG complexes are involved in transcriptional silencing and act by rendering chromatin domains inaccessible [<xref rid="B47-biology-01-00778" ref-type="bibr">47</xref>]. Related to these findings, Taberlay <italic>et al.</italic> [<xref rid="B48-biology-01-00778" ref-type="bibr">48</xref>] demonstrated that the MYOD1 enhancer is in a permissive configuration, marked by a nucleosome-depleted region (NDR) and monomethylation of H3K4me1 in undifferentiated cells, while the gene it regulates is associated with PcG complexes and H3K27me3, a modification introduced by the histone methyltransferase Ezh2, a component of PcGs [<xref rid="B47-biology-01-00778" ref-type="bibr">47</xref>]. During differentiation into muscle cells, master regulators (like Myod1 and Oct4) bind the enhancer and recruit activities that ultimately remove H3K27me3 and PcG from promoters. </p><fig id="biology-01-00778-f002" position="float"><label>Figure 2</label><caption><p>The role of transcription complex recruitment and transcription initiation at enhancers. The diagram in the middle depicts a hypothetical gene locus with a gene (yellow) regulated by an enhancer element (blue). The nucleosomes (small cylinders) are colored dark grey, symbolizing an inaccessible configuration. A transcription complex is recruited to the enhancer, and transcription through the enhancer keeps this element in an open configuration. Upon differentiation, the enhancer activates transcription of the linked gene according to three different scenarios. The mechanism depicted on top shows that tracking of the transcription complex along the chromatin fiber reconfigures the chromatin and renders the promoter accessible, so that transcription factors and RNA Pol II can be recruited to the gene. The model in the lower left indicates that RNA generated from the enhancer and RNA generated from the promoter interact and stabilizes interactions between promoter and enhancer, which facilitates the transfer of activities from the enhancer to the promoter. The model in the lower right indicates that enhancer generated transcripts serve as acceptors for repressor proteins and that the removal of the repressors allows activation of the promoter. The yellow star represents a DNA binding transcription factor. Nucleosomes are represented as light grey (accessible) or dark grey (inaccessible) cylinders. RNA polymerase II transcription complexes are represented as pink cylinders. The blue and yellow boxes represent enhancers and promoters, respectively. The blue and red arrows and lines represent RNAs generated from enhancers (blue) or promoters (red). </p></caption><graphic xlink:href="biology-01-00778-g002"/></fig><p>Enhancers have been shown to directly recruit transcription complexes, which could be delivered to genes by looping mechanisms [<xref rid="B29-biology-01-00778" ref-type="bibr">29</xref>,<xref rid="B49-biology-01-00778" ref-type="bibr">49</xref>,<xref rid="B50-biology-01-00778" ref-type="bibr">50</xref>,<xref rid="B51-biology-01-00778" ref-type="bibr">51</xref>]. A variation of this theme is that enhancers may either recruit specific gene loci to preforme transcription factories in the nucleus or actually initiate the formation of these domains. It was shown that the &#x003b2;&#x02013;globin genes do not associate with transcription factories in erythroid cells in the absence of the LCR [<xref rid="B52-biology-01-00778" ref-type="bibr">52</xref>]. Other studies have shown that enhancers are important for the relative position of genes in the nucleus. Again, the &#x003b2;-globin LCR was shown to be required for the re-positioning of genes toward the surface of chromatin territories upon activation [<xref rid="B53-biology-01-00778" ref-type="bibr">53</xref>].</p><p>There is also increasing evidence demonstrating that enhancer elements affect elongation of RNA Pol II by mediating the recruitment of transcription elongation factors like pTEFb or components of the FACT (facilitator of chromatin transcription) complex [<xref rid="B54-biology-01-00778" ref-type="bibr">54</xref>,<xref rid="B55-biology-01-00778" ref-type="bibr">55</xref>,<xref rid="B56-biology-01-00778" ref-type="bibr">56</xref>]. This could be related to the ability of enhancers to recruit genes into transcription factories, which may be enriched for these activities. Enhancer mediated activation of transcription elongation could play an important role in the activation of gene expression during differentiation of embryonic stem cells [<xref rid="B56-biology-01-00778" ref-type="bibr">56</xref>]. Many developmental stage&#x02013;specific genes are repressed in ES cells, but nevertheless were shown to be associated with Pol II transcription complexes [<xref rid="B57-biology-01-00778" ref-type="bibr">57</xref>]. Upon differentiation along specific cell lineages, enhancer elements could switch on paused Pol II transcription complexes at developmental gene promoters. </p><p>The above described examples illustrate that enhancers are quite diverse with respect to their roles in gene activation. For genes regulated by multiple enhancers, each enhancer could provide a unique activity, and the collective set of enhancers could therefore mediate optimal gene expression. </p></sec><sec><title>6. Transcription Initiation at Enhancers</title><p>The hitherto clear distinction between promoters and enhancers has become blurry due to recent evidence showing that enhancers are capable of recruiting transcription complexes and a recent demonstration that promoters can activate other promoters [<xref rid="B58-biology-01-00778" ref-type="bibr">58</xref>,<xref rid="B59-biology-01-00778" ref-type="bibr">59</xref>]. Tuan and colleagues demonstrated in 1992 that HS2 in the human &#x003b2;-globin LCR recruits Pol II transcription complexes, and the authors detected long non-coding transcripts downstream of HS2 [<xref rid="B60-biology-01-00778" ref-type="bibr">60</xref>]. These results suggested the possibility that Pol II is first recruited to long distance regulatory elements and tracks along the chromatin until it is positioned at promoters to generate protein coding mRNAs. A tracking mechanism was supported by later studies demonstrating that an insulator placed between the LCR and the genes reduced expression of the globin genes and led to accumulation of Pol II at the insulator element [<xref rid="B61-biology-01-00778" ref-type="bibr">61</xref>]. In addition to HS2, other &#x003b2;-globin LCR associated HS sites also recruit Pol II and harbor promoter activity [<xref rid="B62-biology-01-00778" ref-type="bibr">62</xref>,<xref rid="B63-biology-01-00778" ref-type="bibr">63</xref>]. Studies by the Paro laboratory showed that transcription through a polycomb group responsive element (PRE) in <italic>Drosophila</italic> switched the element from being silent to being activated [<xref rid="B64-biology-01-00778" ref-type="bibr">64</xref>]. The continuous transcription of the PRE element prevented PcG mediated silencing. One possible explanation of these results is that the process of transcription erased specific signatures at the PRE elements and allowed establishment of a different set of signatures. Transcription mediated modification of chromatin structure by Pol II-associated co-regulatory protein complexes has been demonstrated for other gene loci as well [<xref rid="B65-biology-01-00778" ref-type="bibr">65</xref>,<xref rid="B66-biology-01-00778" ref-type="bibr">66</xref>].</p><p>Intronic enhancers have also been shown to recruit transcription complexes, which led investigators to propose the term "prohancer" for those enhancer elements that also exhibit promoter activity [<xref rid="B67-biology-01-00778" ref-type="bibr">67</xref>]. A recent study by the Higgs laboratory demonstrated that, in fact, many intronic enhancers have promoter activity and confer alternative transcription start sites for protein coding genes [<xref rid="B68-biology-01-00778" ref-type="bibr">68</xref>]. </p><p>Despite earlier findings of enhancer mediated Pol II recruitment, it was a surprise when in 2010 the Greenberg laboratory showed that thousands of neuronal specificity enhancers recruited Pol II and initiated formation of enhancer RNAs (eRNAs) [<xref rid="B30-biology-01-00778" ref-type="bibr">30</xref>]. The eRNAs were relatively short and resulted from bidirectional transcription initiated in the enhancer elements. Other laboratories have confirmed these studies, demonstrating that enhancer mediated recruitment of Pol II is a common event [<xref rid="B31-biology-01-00778" ref-type="bibr">31</xref>,<xref rid="B32-biology-01-00778" ref-type="bibr">32</xref>]. A recent investigation into the global nature of eRNAs revealed that most of these RNAs remain in the nucleus [<xref rid="B69-biology-01-00778" ref-type="bibr">69</xref>]. Furthermore, comparing the results of global high throughput RNA-sequencing (RNA-Seq) and of Hi-C, a technique that assays proximity between regulatory elements genome-wide, demonstrated that the occurrence of eRNAs correlated with the proximity between enhancers and promoters, suggesting that these transcripts are associated with active enhancers [<xref rid="B70-biology-01-00778" ref-type="bibr">70</xref>].</p></sec><sec><title>7. Possible Functions of eRNAs</title><p>Non-coding RNAs have been shown to associate with protein complexes and to directly regulate expression of genes [<xref rid="B71-biology-01-00778" ref-type="bibr">71</xref>]. For example, it was shown that non-coding RNAs associate with PcG complexes and silence expression of specific target genes [<xref rid="B71-biology-01-00778" ref-type="bibr">71</xref>]. In this regard, enhancer-associated non-coding RNA could serve to tether PcG complexes away from promoters, as outlined in <xref ref-type="fig" rid="biology-01-00778-f002">Figure 2</xref>. Other studies have shown that non-coding RNAs transcribed from HS sites associate with co-activators and stimulate transcription of genes [<xref rid="B72-biology-01-00778" ref-type="bibr">72</xref>,<xref rid="B73-biology-01-00778" ref-type="bibr">73</xref>]. Curiously, the non&#x02013;coding RNAs even functioned in transient transfection assays on heterologous promoters despite the fact that <italic>in vivo</italic> they appeared to regulate specific target genes [<xref rid="B72-biology-01-00778" ref-type="bibr">72</xref>]. However, this is also a characteristic of some enhancers.</p><p>There are many studies showing that RNAs are involved in the formation of specific protein/ RNA complexes or nuclear domains [<xref rid="B74-biology-01-00778" ref-type="bibr">74</xref>]. The ribosome is one example, in which extensive RNA/ RNA and RNA/ protein interactions provide the frame-work for protein synthesis. In addition, Shertsov and Dundr demonstrated that RNAs are involved in nucleating the formation of nuclear histone bodies in the nucleus, which are sites of histone gene transcription [<xref rid="B75-biology-01-00778" ref-type="bibr">75</xref>]. Therefore, the role of many non-coding or eRNAs could be to nucleate or stabilize specific nuclear structures, like transcription, replication or repair domains. In this respect, it is interesting to note that histones associated with double strand breaks are associated with methylated H3K36, a signature of transcribed chromatin [<xref rid="B76-biology-01-00778" ref-type="bibr">76</xref>]. Taking this idea a step further, RNA could also be involved in promoting long-range interactions between enhancers and promoters (<xref ref-type="fig" rid="biology-01-00778-f002">Figure 2</xref>). Conventional or non-conventional base-pairing between RNA molecules tethered to enhancers and promoters could mediate or stabilize promoter/ enhancer contacts. RNA base-pairing-mediated interactions between enhancers and promoters would not only provide stability, but also specificity.</p></sec><sec><title>8. Poised Enhancers During Cellular Differentiation</title><p>Different classes of enhancers can be distinguished by their specific epigenetic signatures. Zentner <italic>et al</italic>. [<xref rid="B24-biology-01-00778" ref-type="bibr">24</xref>] reported that active enhancers are either marked by H3K4me1/ H3K27ac or by H3K4me1 and lack acetylation of H3K27. Genes that are associated with enhancer containing the H3K27ac mark are expressed at higher levels compared to those associated with enhancers that only harbor the H3K4me1 mark. The authors thus distinguish active from intermediate enhancers based on these different modifications and differences in expression levels of associated genes. Poised enhancers are also associated with H3K4me1, but lack H3K27ac. Many poised enhancers are associated with H3K27me3 or H3K9me3, as well as with unstable nucleosomes containing the histone variants H2A.Z and H3.3 [<xref rid="B24-biology-01-00778" ref-type="bibr">24</xref>,<xref rid="B59-biology-01-00778" ref-type="bibr">59</xref>]. Interestingly, the active enhancers are characterized by the presence of Pol II, phosphorylated at serine 2 and 5 of the CTD, as well as H3K36me3, indicating active transcription at these elements [<xref rid="B24-biology-01-00778" ref-type="bibr">24</xref>].</p><p>Enhancers are often in a poised configuration in progenitor or stem cells [<xref rid="B77-biology-01-00778" ref-type="bibr">77</xref>]. In fact, many enhancers regulating early developmental transcription factor genes are associated with bivalent chromatin-containing histone modifications typically associated with active (H3K4me3) or silent (H3K27me3) genes in embryonic stem cells [<xref rid="B77-biology-01-00778" ref-type="bibr">77</xref>]. Differentiation of these cells into specific lineages leads to the erasure of either the H3K4me3 or the H3K27me3 mark, depending on whether an enhancer is active or inactive, respectively. Other enhancers are activated later during differentiation and usually associate with so-called pioneer-transcription factors that initiate chromatin remodeling at these elements [<xref rid="B78-biology-01-00778" ref-type="bibr">78</xref>]. In general, it appears that the reconfiguration of chromatin structure at enhancers precedes the activation of promoters. This is supported by recent findings demonstrating that nucleosomes flanking poised enhancers are marked by H3k9me3 [<xref rid="B79-biology-01-00778" ref-type="bibr">79</xref>]. These marks could be bound by transcription factors that subsequently activate enhancers [<xref rid="B27-biology-01-00778" ref-type="bibr">27</xref>]. </p><p>Observations that enhancers are often primed in progenitor or stem cells suggest that these elements are the primary site of recruitment for activities involved in transcription activation, be it activities that open chromatin, activities that recruit transcription complexes to target genes or activities that stimulate transcription elongation. Moreover, a recent report demonstrated that an enhancer associated with the T-cell-specific CD4 gene is required for initiating activation of the gene locus in undifferentiated cells that do not express the target gene, but is no longer required in differentiated cells that express the CD4 gene [<xref rid="B80-biology-01-00778" ref-type="bibr">80</xref>]. Likewise, DuBose <italic>et al.</italic> [<xref rid="B81-biology-01-00778" ref-type="bibr">81</xref>] demonstrated that deletion of the SNRPN imprinted control region during early embryonic development causes imprinting defects of the associated genes; however, deletion of this element in adult brain cells has no effect on imprinted gene expression. These studies support a previous finding from the Schaffner laboratory showing that the B-cell-specific IgH enhancer is only transiently required for setting up the active state of the target gene [<xref rid="B82-biology-01-00778" ref-type="bibr">82</xref>]. Based on these findings, it is possible that enhancers initiate the formation of an active gene locus and that epigenetic signatures that are introduced during activation are propagated through subsequent differentiation steps. The process of transcription initiated at enhancers could contribute to establishing an activated state that is propagated through subsequent cell divisions. </p><p>As mentioned before, recent interaction maps reveal extensive enhancer/ promoter and promoter/ promoter interactions [<xref rid="B58-biology-01-00778" ref-type="bibr">58</xref>]. RNAs generated at promoter and enhancer regions could be involved in regulating associations between the regulatory elements (<xref ref-type="fig" rid="biology-01-00778-f003">Figure 3</xref>). It is possible that enhancers and eRNAs are involved in setting up transcription domains that are propagated through subsequent cell divisions by epigenetic signatures, so that in differentiated cells, promoter/ promoter interactions could substitute for enhancer/ promoter interactions [<xref rid="B58-biology-01-00778" ref-type="bibr">58</xref>].</p></sec><sec><title>9. The Role of Enhancer-Mediated Transcription in Chromatin Modification</title><p>It should be pointed out that the overall level of sequence conservation of non-coding RNA is 10-fold lower compared to mRNA [<xref rid="B31-biology-01-00778" ref-type="bibr">31</xref>]. Furthermore, it was found that upstream extragenic transcription precedes activation of gene transcription, that extragenic transcripts are generated at a level 100-fold lower than average gene transcripts and that these extragenic transcripts are unstable [<xref rid="B31-biology-01-00778" ref-type="bibr">31</xref>]. Therefore, aside from generating eRNAs, the process of enhancer initiated transcription in itself could aide in generating or maintaining an open chromatin configuration during cellular differentiation (<xref ref-type="fig" rid="biology-01-00778-f002">Figure 2</xref>). This could either involve large chromosomal domains or could be restricted to the vicinity of enhancers. Studies in the human growth hormone gene locus demonstrated that noncoding transcription, rather than noncoding transcripts, mediate long-range enhancer function [<xref rid="B83-biology-01-00778" ref-type="bibr">83</xref>]. Furthermore, enhancer transcription could be involved in introducing the H3K27ac mark, as both of these events mark active enhancers. Another possibility is that low level transcription of enhancers in undifferentiated cells could maintain a dynamic semi-open state that could be stabilized by increased expression of cell-type specific transcription factors in differentiated cells. In this respect, it is important to point out that transcription of promoters with dispersed initiation sites often occurs in both directions similar to what has been described for enhancer transcription [<xref rid="B84-biology-01-00778" ref-type="bibr">84</xref>]. This divergent transcription could aid in shifting nucleosomes away from these regulatory regions. Transcription of enhancers could thus facilitate the formation of cell-type specific enhanceosomes [<xref rid="B85-biology-01-00778" ref-type="bibr">85</xref>].</p><fig id="biology-01-00778-f003" position="float"><label>Figure 3</label><caption><p>Enhancers, promoters and transcription factories. It is proposed that upon activation of genes during cellular differentiation, enhancers and promoters come together to establish transcription factories. Cell-type specific transcription factors bound at promoters and enhancers are involved in mediating proximity between the elements and in the recruitment of transcription complexes. RNAs generated from enhancers (blue) and promoters (red) stabilize formation of transcription domains. </p></caption><graphic xlink:href="biology-01-00778-g003"/></fig></sec><sec><title>10. Conclusions</title><p>The recent genome-wide analysis of histone PTMs and transcription factor binding revealed novel aspects of long-distance regulatory elements. Enhancers and gene proximal promoters share the ability to recruit transcription complexes and to regulate expression of genes over long distances. In hindsight, this may not be too surprising, as enhancers and promoters often harbor similar arrangements of transcription factor binding sites. However, in contrast to transcription at enhancers, it appears that promoter-mediated transcription is more efficient and leads to the production of stable RNAs. The reasons for this are currently not known, but may be due to the fact that promoters contain basal promoter elements that recruit Pol II transcription complexes with a high affinity. Furthermore, promoters generate transcripts that are conserved and contain sequences that mediate stability. It will be important to determine if transcription complex assembly at enhancers follows similar pathways as those operating at promoters. Other outstanding questions pertain to the role eRNAs may play during activation of transcription and if the process of transcription also contributes to the function of enhancers. The available data so far suggest that enhancers exhibit different activities. Therefore, it is possible that for those enhancers that are involved in modulating chromatin domains, the process of transcription is important, while for those enhancers that modulate the recruitment or activity of transcription complexes, the eRNA transcripts directly participate in the activation process. </p></sec></body><back><ack><title>Acknowledgements</title><p>We thank our colleagues in the Bungert and Strouboulis laboratories for stimulating discussions and suggestions. Funding was provided through grants RO1DK052356 (J.B.) and RO1DK083389 (J.B. and J.S.) from the National Institutes of Health. </p></ack><ref-list><title>References</title><ref id="B1-biology-01-00778"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orphanides</surname><given-names>G.</given-names></name><name><surname>Reinberg</surname><given-names>D.</given-names></name></person-group>
+<article-title>A unified theory of gene expression</article-title>
+<source>Cell</source>
+<year>2002</year>
+<volume>108</volume>
+<fpage>439</fpage>
+<lpage>451</lpage>
+<pub-id pub-id-type="doi">10.1016/S0092-8674(02)00655-4</pub-id>
+<pub-id pub-id-type="pmid">11909516</pub-id></element-citation></ref><ref id="B2-biology-01-00778"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bernstein</surname><given-names>B.E.</given-names></name><name><surname>Birney</surname><given-names>E.</given-names></name><name><surname>Dunham</surname><given-names>I.</given-names></name><name><surname>Green</surname><given-names>E.D.</given-names></name><name><surname>Gunter</surname><given-names>C.</given-names></name><name><surname>Snyder</surname><given-names>M.</given-names></name></person-group>
+<article-title>An integrated encyclopedia of DNA elements in the human genome</article-title>
+<source>Nature</source>
+<year>2012</year>
+<volume>489</volume>
+<fpage>57</fpage>
+<lpage>74</lpage>
+<pub-id pub-id-type="pmid">22955616</pub-id></element-citation></ref><ref id="B3-biology-01-00778"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Juven-Gershon</surname><given-names>T.</given-names></name><name><surname>Kadonaga</surname><given-names>J.T.</given-names></name></person-group>
+<article-title>Regulation of gene expression via the core promoter and the basal transcriptional machinery</article-title>
+<source>Dev. Biol.</source>
+<year>2010</year>
+<volume>339</volume>
+<fpage>225</fpage>
+<lpage>229</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ydbio.2009.08.009</pub-id>
+<pub-id pub-id-type="pmid">19682982</pub-id></element-citation></ref><ref id="B4-biology-01-00778"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ghirlando</surname><given-names>R.</given-names></name><name><surname>Giles</surname><given-names>K.</given-names></name><name><surname>Gowher</surname><given-names>H.</given-names></name><name><surname>Xiao</surname><given-names>T.</given-names></name><name><surname>Xu</surname><given-names>Z.</given-names></name><name><surname>Yao</surname><given-names>H.</given-names></name><name><surname>Felsenfeld</surname><given-names>G.</given-names></name></person-group>
+<article-title>Chomatin domains, insulators, and the regulation of gene expression</article-title>
+<source>Biochim. Biophys. Acta</source>
+<year>2012</year>
+<volume>1819</volume>
+<fpage>644</fpage>
+<lpage>651</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bbagrm.2012.01.016</pub-id>
+<pub-id pub-id-type="pmid">22326678</pub-id></element-citation></ref><ref id="B5-biology-01-00778"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bulger</surname><given-names>M.</given-names></name><name><surname>Groudine</surname><given-names>M.</given-names></name></person-group>
+<article-title>Functional and mechanistic diversity of distal transcription enhancers</article-title>
+<source>Cell</source>
+<year>2011</year>
+<volume>144</volume>
+<fpage>327</fpage>
+<lpage>339</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cell.2011.01.024</pub-id>
+<pub-id pub-id-type="pmid">21295696</pub-id></element-citation></ref><ref id="B6-biology-01-00778"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shen</surname><given-names>Y.</given-names></name><name><surname>Yue</surname><given-names>F.</given-names></name><name><surname>McCleary</surname><given-names>D.F.</given-names></name><name><surname>Ye</surname><given-names>Z.</given-names></name><name><surname>Edsall</surname><given-names>L.</given-names></name><name><surname>Kuan</surname><given-names>S.</given-names></name><name><surname>Wagner</surname><given-names>U.</given-names></name><name><surname>Dixon</surname><given-names>J.</given-names></name><name><surname>Lee</surname><given-names>L.</given-names></name><name><surname>Lobanenkov</surname><given-names>V.V.</given-names></name><name><surname>Ren</surname><given-names>B.</given-names></name></person-group>
+<article-title>A map of the cis-regulatory sequences in the mouse genome</article-title>
+<source>Nature</source>
+<year>2012</year>
+<volume>488</volume>
+<fpage>116</fpage>
+<lpage>120</lpage>
+<pub-id pub-id-type="pmid">22763441</pub-id></element-citation></ref><ref id="B7-biology-01-00778"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Banerji</surname><given-names>J.</given-names></name><name><surname>Rusconi</surname><given-names>S.</given-names></name><name><surname>Schaffner</surname><given-names>W.</given-names></name></person-group>
+<article-title>Expression of a beta-globin gene is enhanced by remote SV40 sequences</article-title>
+<source>Cell</source>
+<year>1981</year>
+<volume>27</volume>
+<fpage>299</fpage>
+<lpage>308</lpage>
+<pub-id pub-id-type="doi">10.1016/0092-8674(81)90413-X</pub-id>
+<pub-id pub-id-type="pmid">6277502</pub-id></element-citation></ref><ref id="B8-biology-01-00778"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>M&#x000fc;ller</surname><given-names>M.M.</given-names></name><name><surname>Gerster</surname><given-names>T.</given-names></name><name><surname>Schaffner</surname><given-names>W.</given-names></name></person-group>
+<article-title>Enhancer sequences and the regulation of gene transcription</article-title>
+<source>Eur. J. Biochem.</source>
+<year>1988</year>
+<volume>176</volume>
+<fpage>485</fpage>
+<lpage>495</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1432-1033.1988.tb14306.x</pub-id>
+<pub-id pub-id-type="pmid">3049082</pub-id></element-citation></ref><ref id="B9-biology-01-00778"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>C.</given-names></name></person-group>
+<article-title>The 5&#x02019;ends of Drosophila heat shock genes in chromatin are hypersensitive to DNase I</article-title>
+<source>Nature</source>
+<year>1980</year>
+<volume>286</volume>
+<fpage>854</fpage>
+<lpage>860</lpage>
+<pub-id pub-id-type="doi">10.1038/286854a0</pub-id>
+<pub-id pub-id-type="pmid">6774262</pub-id></element-citation></ref><ref id="B10-biology-01-00778"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Collis</surname><given-names>P.</given-names></name><name><surname>Antoniou</surname><given-names>M.</given-names></name><name><surname>Grosveld</surname><given-names>F.</given-names></name></person-group>
+<article-title>Definition of the minimal requirements within the human beta-globin gene and the dominant control region for high level expression</article-title>
+<source>EMBO J.</source>
+<year>1990</year>
+<volume>9</volume>
+<fpage>233</fpage>
+<lpage>240</lpage>
+<pub-id pub-id-type="pmid">2295312</pub-id></element-citation></ref><ref id="B11-biology-01-00778"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ellis</surname><given-names>J.</given-names></name><name><surname>Tan-Un</surname><given-names>K.C.</given-names></name><name><surname>Harper</surname><given-names>A.</given-names></name><name><surname>Michalovich</surname><given-names>D.</given-names></name><name><surname>Yannoutsos</surname><given-names>N.</given-names></name><name><surname>Philipsen</surname><given-names>S.</given-names></name><name><surname>Grosveld</surname><given-names>F.</given-names></name></person-group>
+<article-title>A dominant chromatin-opening activity in 5'hypersensitive site 3 of the human beta-globin locus control region</article-title>
+<source>EMBO J.</source>
+<year>1996</year>
+<volume>15</volume>
+<fpage>562</fpage>
+<lpage>568</lpage>
+<pub-id pub-id-type="pmid">8599939</pub-id></element-citation></ref><ref id="B12-biology-01-00778"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Valen</surname><given-names>E.</given-names></name><name><surname>Sandelin</surname><given-names>A.</given-names></name></person-group>
+<article-title>Genomic and chromatin signals underlying transcription start-site selection</article-title>
+<source>Trends Genet.</source>
+<year>2011</year>
+<volume>27</volume>
+<fpage>475</fpage>
+<lpage>485</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tig.2011.08.001</pub-id>
+<pub-id pub-id-type="pmid">21924514</pub-id></element-citation></ref><ref id="B13-biology-01-00778"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>Q.</given-names></name><name><surname>Peterson</surname><given-names>K.R.</given-names></name><name><surname>Fang</surname><given-names>X.</given-names></name></person-group>
+<article-title>Stamatoyannopoulos G. Locus control regions</article-title>
+<source>Blood</source>
+<year>2002</year>
+<volume>100</volume>
+<fpage>3077</fpage>
+<lpage>3086</lpage>
+<pub-id pub-id-type="doi">10.1182/blood-2002-04-1104</pub-id>
+<pub-id pub-id-type="pmid">12384402</pub-id></element-citation></ref><ref id="B14-biology-01-00778"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bulger</surname><given-names>M.</given-names></name><name><surname>Groudine</surname><given-names>M.</given-names></name></person-group>
+<article-title>Looping versus linking: toward a model for long-distance gene activation</article-title>
+<source>Genes Dev.</source>
+<year>1999</year>
+<volume>13</volume>
+<fpage>2465</fpage>
+<lpage>2477</lpage>
+<pub-id pub-id-type="doi">10.1101/gad.13.19.2465</pub-id>
+<pub-id pub-id-type="pmid">10521391</pub-id></element-citation></ref><ref id="B15-biology-01-00778"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Engel</surname><given-names>J.D.</given-names></name><name><surname>Tanimoto</surname><given-names>K.</given-names></name></person-group>
+<article-title>Looping, linking, and chromatin activity: new insights into beta-globin locus regulation</article-title>
+<source>Cell</source>
+<year>2000</year>
+<volume>100</volume>
+<fpage>499</fpage>
+<lpage>502</lpage>
+<pub-id pub-id-type="doi">10.1016/S0092-8674(00)80686-8</pub-id>
+<pub-id pub-id-type="pmid">10721987</pub-id></element-citation></ref><ref id="B16-biology-01-00778"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fleetwood</surname><given-names>M.R.</given-names></name><name><surname>Ho</surname><given-names>Y.</given-names></name><name><surname>Cooke</surname><given-names>N.E.</given-names></name><name><surname>Liebhaber</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>DNase I hypersensitive site II of the human growth hormone locus control region mediates an essential and distinct long-range enhancer function</article-title>
+<source>J. Biol. Chem.</source>
+<year>2012</year>
+<volume>287</volume>
+<fpage>25454</fpage>
+<lpage>25465</lpage>
+<pub-id pub-id-type="pmid">22669946</pub-id></element-citation></ref><ref id="B17-biology-01-00778"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tanimoto</surname><given-names>K.</given-names></name><name><surname>Liu</surname><given-names>Q.</given-names></name><name><surname>Bungert</surname><given-names>J.</given-names></name><name><surname>Engel</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>Effects of altered gene order or orientation of the locus control region on human beta-globin gene expression in mice</article-title>
+<source>Nature</source>
+<year>1999</year>
+<volume>398</volume>
+<fpage>344</fpage>
+<lpage>348</lpage>
+<pub-id pub-id-type="pmid">10192336</pub-id></element-citation></ref><ref id="B18-biology-01-00778"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heintzman</surname><given-names>N.D.</given-names></name><name><surname>Hon</surname><given-names>G.C.</given-names></name><name><surname>Hawkins</surname><given-names>R.D.</given-names></name><name><surname>Kheradpour</surname><given-names>P.</given-names></name><name><surname>Stark</surname><given-names>A.</given-names></name><name><surname>Harp</surname><given-names>L.F.</given-names></name><name><surname>Ye</surname><given-names>Z.</given-names></name><name><surname>Lee</surname><given-names>L.K.</given-names></name><name><surname>Stuart</surname><given-names>R.K.</given-names></name><name><surname>Ching</surname><given-names>C.W.</given-names></name><etal/></person-group>
+<article-title>Histone modifications at human enhancers reflect global cell type-specific gene expression</article-title>
+<source>Nature</source>
+<year>2009</year>
+<volume>459</volume>
+<fpage>108</fpage>
+<lpage>112</lpage>
+<pub-id pub-id-type="pmid">19295514</pub-id></element-citation></ref><ref id="B19-biology-01-00778"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ernst</surname><given-names>J.</given-names></name><name><surname>Kheradpour</surname><given-names>P.</given-names></name><name><surname>Mikkelsen</surname><given-names>T.S.</given-names></name><name><surname>Shoresh</surname><given-names>N.</given-names></name><name><surname>Ward</surname><given-names>L.D.</given-names></name><name><surname>Epstein</surname><given-names>C.B.</given-names></name><name><surname>Zhang</surname><given-names>X.</given-names></name><name><surname>Wang</surname><given-names>L.</given-names></name><name><surname>Issner</surname><given-names>R.</given-names></name><name><surname>Coyne</surname><given-names>M.</given-names></name><name><surname>Ku</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Mapping and analysis of chromatin state dynamics in nine human cell types</article-title>
+<source>Nature</source>
+<year>2011</year>
+<volume>473</volume>
+<fpage>43</fpage>
+<lpage>49</lpage>
+<pub-id pub-id-type="pmid">21441907</pub-id></element-citation></ref><ref id="B20-biology-01-00778"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zentner</surname><given-names>G.E.</given-names></name><name><surname>Scacheri</surname><given-names>P.C.</given-names></name></person-group>
+<article-title>The chromatin fingerprint of gene enhancer elements</article-title>
+<source>J. Biol. Chem.</source>
+<year>2012</year>
+<volume>287</volume>
+<fpage>30888</fpage>
+<lpage>30896</lpage>
+<pub-id pub-id-type="doi">10.1074/jbc.R111.296491</pub-id>
+<pub-id pub-id-type="pmid">22952241</pub-id></element-citation></ref><ref id="B21-biology-01-00778"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xi</surname><given-names>H.</given-names></name><name><surname>Shulha</surname><given-names>H.P.</given-names></name><name><surname>Lin</surname><given-names>J.M.</given-names></name><name><surname>Vales</surname><given-names>T.R.</given-names></name><name><surname>Fu</surname><given-names>Y.</given-names></name><name><surname>Bodine</surname><given-names>D.</given-names></name><name><surname>McKay</surname><given-names>R.D.</given-names></name><name><surname>Chenoweth</surname><given-names>J.G.</given-names></name><name><surname>Tesar</surname><given-names>P.J.</given-names></name><name><surname>Furey</surname><given-names>T.S.</given-names></name><etal/></person-group>
+<article-title>Identification and characterization of cell type-specific and ubiquitous chromatin regulatory structures in the human genome</article-title>
+<source>PLoS Genet.</source>
+<year>2007</year>
+<volume>3</volume>
+<pub-id pub-id-type="doi">10.1371/journal.pgen.0030136</pub-id>
+</element-citation></ref><ref id="B22-biology-01-00778"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koch</surname><given-names>F.</given-names></name><name><surname>Fenouil</surname><given-names>R.</given-names></name><name><surname>Gut</surname><given-names>M.</given-names></name><name><surname>Cauchy</surname><given-names>P.</given-names></name><name><surname>Albert</surname><given-names>T.K.</given-names></name><name><surname>Zacarias-Cabeza</surname><given-names>J.</given-names></name><name><surname>Spicuglia</surname><given-names>S.</given-names></name><name><surname>de la Chapelle</surname><given-names>A.L.</given-names></name><name><surname>Heidemann</surname><given-names>M.</given-names></name><name><surname>Hintermair</surname><given-names>C.</given-names></name><etal/></person-group>
+<article-title>Transcription initiation platforms and GTF recruitment at tissue-specific enhancers and promoters</article-title>
+<source>Nat. Struct. Mol. Biol.</source>
+<year>2011</year>
+<volume>18</volume>
+<fpage>956</fpage>
+<lpage>963</lpage>
+<pub-id pub-id-type="pmid">21765417</pub-id></element-citation></ref><ref id="B23-biology-01-00778"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Creyghton</surname><given-names>M.P.</given-names></name><name><surname>Cheng</surname><given-names>A.W.</given-names></name><name><surname>Welstead</surname><given-names>G.G.</given-names></name><name><surname>Kooistra</surname><given-names>T.</given-names></name><name><surname>Carey</surname><given-names>B.W.</given-names></name><name><surname>Steine</surname><given-names>E.J.</given-names></name><name><surname>Hanna</surname><given-names>J.</given-names></name><name><surname>Lodato</surname><given-names>M.A.</given-names></name><name><surname>Frampton</surname><given-names>G.M.</given-names></name><name><surname>Sharp</surname><given-names>P.A.</given-names></name><etal/></person-group>
+<article-title>Histone H3K27ac separates active from poised enhancers and predicts developmental state</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2010</year>
+<volume>107</volume>
+<fpage>21931</fpage>
+<lpage>21936</lpage>
+<pub-id pub-id-type="pmid">21106759</pub-id></element-citation></ref><ref id="B24-biology-01-00778"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zentner</surname><given-names>G.E.</given-names></name><name><surname>Tesar</surname><given-names>P.J.</given-names></name><name><surname>Scacheri</surname><given-names>P.C.</given-names></name></person-group>
+<article-title>Epigenetic signatures distinguish multiple classes of enhancers with distinct cellular functions</article-title>
+<source>Genome Res.</source>
+<year>2011</year>
+<volume>21</volume>
+<fpage>1273</fpage>
+<lpage>1283</lpage>
+<pub-id pub-id-type="doi">10.1101/gr.122382.111</pub-id>
+<pub-id pub-id-type="pmid">21632746</pub-id></element-citation></ref><ref id="B25-biology-01-00778"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhou</surname><given-names>Z.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Deng</surname><given-names>C.</given-names></name><name><surname>Ney</surname><given-names>P.A.</given-names></name><name><surname>Huang</surname><given-names>S.</given-names></name><name><surname>Bungert</surname><given-names>J.</given-names></name></person-group>
+<article-title>USF and NF-E2 cooperate to regulate the recruitment and activity of RNA polymerase II in the beta-globin gene locus</article-title>
+<source>J. Biol. Chem.</source>
+<year>2010</year>
+<volume>285</volume>
+<fpage>15894</fpage>
+<lpage>15905</lpage>
+<pub-id pub-id-type="pmid">20236933</pub-id></element-citation></ref><ref id="B26-biology-01-00778"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>J.</given-names></name><name><surname>Zhuang</surname><given-names>J.L.</given-names></name><name><surname>Iyer</surname><given-names>S.</given-names></name><name><surname>Lin</surname><given-names>X.Y.</given-names></name><name><surname>Whitfield</surname><given-names>T.W.</given-names></name><name><surname>Greven</surname><given-names>M.C.</given-names></name><name><surname>Pierce</surname><given-names>B.G.</given-names></name><name><surname>Dong</surname><given-names>X.J.</given-names></name><name><surname>Kundaje</surname><given-names>A.</given-names></name><name><surname>Cheng</surname><given-names>Y.</given-names></name><etal/></person-group>
+<article-title>Sequence features and chromatin structure around the genomic regions bound by 119 human transcription factors</article-title>
+<source>Genome Res.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>1798</fpage>
+<lpage>1812</lpage>
+<pub-id pub-id-type="pmid">22955990</pub-id></element-citation></ref><ref id="B27-biology-01-00778"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Neph</surname><given-names>S.</given-names></name><name><surname>Vierstra</surname><given-names>J.</given-names></name><name><surname>Stergachis</surname><given-names>A.B.</given-names></name><name><surname>Reynolds</surname><given-names>A.P.</given-names></name><name><surname>Haugen</surname><given-names>E.</given-names></name><name><surname>Vernot</surname><given-names>B.</given-names></name><name><surname>Thurman</surname><given-names>R.E.</given-names></name><name><surname>John</surname><given-names>S.</given-names></name><name><surname>Sandstrom</surname><given-names>R.</given-names></name><name><surname>Johnson</surname><given-names>A.K.</given-names></name><etal/></person-group>
+<article-title>An expansive human regulatory lexicon encoded in transcription factor footprints</article-title>
+<source>Nature</source>
+<year>2012</year>
+<volume>489</volume>
+<fpage>83</fpage>
+<lpage>90</lpage>
+<pub-id pub-id-type="pmid">22955618</pub-id></element-citation></ref><ref id="B28-biology-01-00778"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>K.D.</given-names></name><name><surname>Grass</surname><given-names>J.A.</given-names></name><name><surname>Park</surname><given-names>C.</given-names></name><name><surname>Im</surname><given-names>H.</given-names></name><name><surname>Choi</surname><given-names>K.</given-names></name><name><surname>Bresnick</surname><given-names>E.H.</given-names></name></person-group>
+<article-title>Highly restricted localization of RNA polymerase II within a locus control region of a tissue-specific chromatin domain</article-title>
+<source>Mol. Cell Biol.</source>
+<year>2003</year>
+<volume>23</volume>
+<fpage>6484</fpage>
+<lpage>6493</lpage>
+<pub-id pub-id-type="doi">10.1128/MCB.23.18.6484-6493.2003</pub-id>
+<pub-id pub-id-type="pmid">12944475</pub-id></element-citation></ref><ref id="B29-biology-01-00778"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vieira</surname><given-names>K.F.</given-names></name><name><surname>Levings</surname><given-names>P.P.</given-names></name><name><surname>Hill</surname><given-names>M.A.</given-names></name><name><surname>Crusselle</surname><given-names>V.J.</given-names></name><name><surname>Kang</surname><given-names>S.H.</given-names></name><name><surname>Engel</surname><given-names>J.D.</given-names></name><name><surname>Bungert</surname><given-names>J.</given-names></name></person-group>
+<article-title>Recruitment of transcription complexes to the beta-globin gene locus control region <italic>in vivo</italic> and <italic>in vitro</italic></article-title>
+<source>J. Biol. Chem.</source>
+<year>2004</year>
+<volume>279</volume>
+<fpage>50350</fpage>
+<lpage>50357</lpage>
+<pub-id pub-id-type="pmid">15385559</pub-id></element-citation></ref><ref id="B30-biology-01-00778"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>T.K.</given-names></name><name><surname>Hemberg</surname><given-names>M.</given-names></name><name><surname>Gray</surname><given-names>J.M.</given-names></name><name><surname>Costa</surname><given-names>A.M.</given-names></name><name><surname>Bear</surname><given-names>D.M.</given-names></name><name><surname>Wu</surname><given-names>J.</given-names></name><name><surname>Harmin</surname><given-names>D.A.</given-names></name><name><surname>Laptewicz</surname><given-names>M.</given-names></name><name><surname>Barbara-Haley</surname><given-names>K.</given-names></name><name><surname>Kuersten</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Widespread transcription at neuronal activity-regulated enhancers</article-title>
+<source>Nature</source>
+<year>2010</year>
+<volume>465</volume>
+<fpage>182</fpage>
+<lpage>187</lpage>
+<pub-id pub-id-type="pmid">20393465</pub-id></element-citation></ref><ref id="B31-biology-01-00778"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Santa</surname><given-names>F.</given-names></name><name><surname>Barozzi</surname><given-names>I.</given-names></name><name><surname>Mietton</surname><given-names>F.</given-names></name><name><surname>Ghisletti</surname><given-names>S.</given-names></name><name><surname>Polletti</surname><given-names>S.</given-names></name><name><surname>Tusi</surname><given-names>B.K.</given-names></name><name><surname>Muller</surname><given-names>H.</given-names></name><name><surname>Ragoussis</surname><given-names>J.</given-names></name><name><surname>Wei</surname><given-names>C.L.</given-names></name><name><surname>Natoli</surname><given-names>G.</given-names></name></person-group>
+<article-title>A large fraction of extragenic RNA pol II transcription sites overlap enhancers</article-title>
+<source>PLoS Biol.</source>
+<year>2010</year>
+<volume>8</volume>
+<pub-id pub-id-type="doi">10.1371/journal.pbio.1000384</pub-id>
+</element-citation></ref><ref id="B32-biology-01-00778"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Djebali</surname><given-names>S.</given-names></name><name><surname>Davis</surname><given-names>C.A.</given-names></name><name><surname>Merkel</surname><given-names>A.</given-names></name><name><surname>Dobin</surname><given-names>A.</given-names></name><name><surname>Lassmann</surname><given-names>T.</given-names></name><name><surname>Mortazavi</surname><given-names>A.</given-names></name><name><surname>Tanzer</surname><given-names>A.</given-names></name><name><surname>Lagarde</surname><given-names>J.</given-names></name><name><surname>Lin</surname><given-names>W.</given-names></name><name><surname>Schlesinger</surname><given-names>F.</given-names></name><etal/></person-group>
+<article-title>Landscape of transcription in human cells</article-title>
+<source>Nature</source>
+<year>2012</year>
+<volume>489</volume>
+<fpage>101</fpage>
+<lpage>108</lpage>
+<pub-id pub-id-type="pmid">22955620</pub-id></element-citation></ref><ref id="B33-biology-01-00778"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jimenez</surname><given-names>G.</given-names></name><name><surname>Griffiths</surname><given-names>S.D.</given-names></name><name><surname>Ford</surname><given-names>A.M.</given-names></name><name><surname>Greaves</surname><given-names>M.F.</given-names></name><name><surname>Enver</surname><given-names>T.</given-names></name></person-group>
+<article-title>Activation of the beta-globin locus control region precedes commitment to the erythroid lineage</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>1992</year>
+<volume>89</volume>
+<fpage>10618</fpage>
+<lpage>10622</lpage>
+<pub-id pub-id-type="pmid">1438257</pub-id></element-citation></ref><ref id="B34-biology-01-00778"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Buratowski</surname><given-names>S.</given-names></name><name><surname>Hahn</surname><given-names>S.</given-names></name><name><surname>Guarente</surname><given-names>L.</given-names></name><name><surname>Sharp</surname><given-names>P.A.</given-names></name></person-group>
+<article-title>Five intermediate complexes in transcription initiation by RNA polymerase II</article-title>
+<source>Cell</source>
+<year>1989</year>
+<volume>56</volume>
+<fpage>549</fpage>
+<lpage>561</lpage>
+<pub-id pub-id-type="doi">10.1016/0092-8674(89)90578-3</pub-id>
+<pub-id pub-id-type="pmid">2917366</pub-id></element-citation></ref><ref id="B35-biology-01-00778"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roeder</surname><given-names>R.G.</given-names></name></person-group>
+<article-title>The role of general transcription factors in transcription by RNA polymerase II</article-title>
+<source>Trends Biochem. Sci.</source>
+<year>1996</year>
+<volume>21</volume>
+<fpage>327</fpage>
+<lpage>335</lpage>
+<pub-id pub-id-type="pmid">8870495</pub-id></element-citation></ref><ref id="B36-biology-01-00778"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>T.H.</given-names></name><name><surname>Barrera</surname><given-names>L.O.</given-names></name><name><surname>Zheng</surname><given-names>M.</given-names></name><name><surname>Qu</surname><given-names>C.</given-names></name><name><surname>Singer</surname><given-names>M.A.</given-names></name><name><surname>Richmond</surname><given-names>T.A.</given-names></name><name><surname>Wu</surname><given-names>Y.</given-names></name><name><surname>Green</surname><given-names>R.D.</given-names></name><name><surname>Ren</surname><given-names>B.</given-names></name></person-group>
+<article-title>A high-resolution map of active promoters in the human genome</article-title>
+<source>Nature</source>
+<year>2005</year>
+<volume>436</volume>
+<fpage>876</fpage>
+<lpage>880</lpage>
+<pub-id pub-id-type="pmid">15988478</pub-id></element-citation></ref><ref id="B37-biology-01-00778"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gershenzon</surname><given-names>N.I.</given-names></name><name><surname>Ioshikhes</surname><given-names>I.P.</given-names></name></person-group>
+<article-title>Synergy of human Pol II core promoter elements revealed by statistical sequence analysis</article-title>
+<source>Bioinformatics</source>
+<year>2005</year>
+<volume>21</volume>
+<fpage>1295</fpage>
+<lpage>1300</lpage>
+<pub-id pub-id-type="doi">10.1093/bioinformatics/bti172</pub-id>
+<pub-id pub-id-type="pmid">15572469</pub-id></element-citation></ref><ref id="B38-biology-01-00778"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karlic</surname><given-names>R.</given-names></name><name><surname>Chung</surname><given-names>H.R.</given-names></name><name><surname>Lassere</surname><given-names>J.</given-names></name><name><surname>Vlahovicek</surname><given-names>K.</given-names></name><name><surname>Vingron</surname><given-names>M.</given-names></name></person-group>
+<article-title>Histone modification levels are predictive for gene expression</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2010</year>
+<volume>107</volume>
+<fpage>2926</fpage>
+<lpage>2931</lpage>
+<pub-id pub-id-type="pmid">20133639</pub-id></element-citation></ref><ref id="B39-biology-01-00778"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iborra</surname><given-names>F.J.</given-names></name><name><surname>Pombo</surname><given-names>A.</given-names></name><name><surname>McManus</surname><given-names>J.</given-names></name><name><surname>Jackson</surname><given-names>D.A.</given-names></name><name><surname>Cook</surname><given-names>P.R.</given-names></name></person-group>
+<article-title>The topology of transcription by immobilized polymerases</article-title>
+<source>Exp. Cell Res.</source>
+<year>1996</year>
+<volume>229</volume>
+<fpage>167</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="doi">10.1006/excr.1996.0355</pub-id>
+<pub-id pub-id-type="pmid">8986593</pub-id></element-citation></ref><ref id="B40-biology-01-00778"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deng</surname><given-names>B.</given-names></name><name><surname>Melnik</surname><given-names>S.</given-names></name><name><surname>Cook</surname><given-names>P.R.</given-names></name></person-group>
+<article-title>Transcription factories, chromatin loops, and the dysregulation of gene expression in malignancy</article-title>
+<source>Semin. Cancer Biol.</source>
+<year>2012</year>
+<comment>in press</comment>
+</element-citation></ref><ref id="B41-biology-01-00778"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Edelman</surname><given-names>L.B.</given-names></name><name><surname>Fraser</surname><given-names>P.</given-names></name></person-group>
+<article-title>Transcription factories: Genetic programming in three dimensions</article-title>
+<source>Curr. Opin. Genet. Dev.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>110</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="doi">10.1016/j.gde.2012.01.010</pub-id>
+<pub-id pub-id-type="pmid">22365496</pub-id></element-citation></ref><ref id="B42-biology-01-00778"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schoenfelder</surname><given-names>S.</given-names></name><name><surname>Sexton</surname><given-names>T.</given-names></name><name><surname>Chakalova</surname><given-names>L.</given-names></name><name><surname>Cope</surname><given-names>N.F.</given-names></name><name><surname>Horton</surname><given-names>A.</given-names></name><name><surname>Andrews</surname><given-names>S.</given-names></name><name><surname>Kurukuti</surname><given-names>S.</given-names></name><name><surname>Mitchell</surname><given-names>J.A.</given-names></name><name><surname>Umlauf</surname><given-names>D.</given-names></name><name><surname>Dimitrova</surname><given-names>D.S.</given-names></name><etal/></person-group>
+<article-title>Preferential association between co-regulated genes reveal a transcriptional interactome in erythroid cells</article-title>
+<source>Nat. Genet.</source>
+<year>2010</year>
+<volume>42</volume>
+<fpage>53</fpage>
+<lpage>61</lpage>
+<pub-id pub-id-type="pmid">20010836</pub-id></element-citation></ref><ref id="B43-biology-01-00778"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lanctot</surname><given-names>C.</given-names></name><name><surname>Cheutin</surname><given-names>T.</given-names></name><name><surname>Cremer</surname><given-names>M.</given-names></name><name><surname>Cavalli</surname><given-names>G.</given-names></name><name><surname>Cremer</surname><given-names>T.</given-names></name></person-group>
+<article-title>Dynamic genome architecture in the nuclear space: regulation of gene expression in three dimensions</article-title>
+<source>Nat. Rev. Genet.</source>
+<year>2007</year>
+<volume>8</volume>
+<fpage>104</fpage>
+<lpage>115</lpage>
+<pub-id pub-id-type="doi">10.1038/nrg2041</pub-id>
+<pub-id pub-id-type="pmid">17230197</pub-id></element-citation></ref><ref id="B44-biology-01-00778"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Niedojadlo</surname><given-names>J.</given-names></name><name><surname>Perret-Vivancos</surname><given-names>C.</given-names></name><name><surname>Kalland</surname><given-names>K.H.</given-names></name><name><surname>Cmarko</surname><given-names>D.</given-names></name><name><surname>Cremer</surname><given-names>T.</given-names></name><name><surname>van Driel</surname><given-names>R.</given-names></name><name><surname>Fakan</surname><given-names>S.</given-names></name></person-group>
+<article-title>Transcribed DNA is preferentially located in the perichromatin region of mammalian nuclei</article-title>
+<source>Exp. Cell Res.</source>
+<year>2011</year>
+<volume>317</volume>
+<fpage>433</fpage>
+<lpage>444</lpage>
+<pub-id pub-id-type="doi">10.1016/j.yexcr.2010.10.026</pub-id>
+<pub-id pub-id-type="pmid">21056558</pub-id></element-citation></ref><ref id="B45-biology-01-00778"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fromm</surname><given-names>G.</given-names></name><name><surname>Cadiz-Rivera</surname><given-names>B.</given-names></name><name><surname>de Vries</surname><given-names>C.</given-names></name><name><surname>Getman</surname><given-names>M.</given-names></name><name><surname>McGrath</surname><given-names>K.E.</given-names></name><name><surname>Kingsley</surname><given-names>P.D.</given-names></name><name><surname>Fields</surname><given-names>J.</given-names></name><name><surname>Fiering</surname><given-names>S.</given-names></name><name><surname>Bulger</surname><given-names>M.</given-names></name></person-group>
+<article-title>An embryonic stage-specific enhancer within the murine beta-globin locus mediates domain-wide histone hyperacetylation</article-title>
+<source>Blood</source>
+<year>2011</year>
+<volume>117</volume>
+<fpage>5207</fpage>
+<lpage>5214</lpage>
+<pub-id pub-id-type="doi">10.1182/blood-2010-08-302018</pub-id>
+<pub-id pub-id-type="pmid">21321362</pub-id></element-citation></ref><ref id="B46-biology-01-00778"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vernimmen</surname><given-names>D.</given-names></name><name><surname>Lynch</surname><given-names>M.D.</given-names></name><name><surname>DeGobbi</surname><given-names>M.</given-names></name><name><surname>Garrick</surname><given-names>D.</given-names></name><name><surname>Sharpe</surname><given-names>J.A.</given-names></name><name><surname>Sloane-Stanley</surname><given-names>J.A.</given-names></name><name><surname>Smith</surname><given-names>A.J.H.</given-names></name><name><surname>Higgs</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>Polycomb eviction as a new distant enhancer function</article-title>
+<source>Genes Dev.</source>
+<year>2011</year>
+<volume>25</volume>
+<fpage>1583</fpage>
+<lpage>1588</lpage>
+<pub-id pub-id-type="pmid">21828268</pub-id></element-citation></ref><ref id="B47-biology-01-00778"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morey</surname><given-names>L.</given-names></name><name><surname>Helin</surname><given-names>K.</given-names></name></person-group>
+<article-title>Polycomb group protein-mediated repression of transcription</article-title>
+<source>Trends Biochem. Sci.</source>
+<year>2010</year>
+<volume>35</volume>
+<fpage>323</fpage>
+<lpage>332</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tibs.2010.02.009</pub-id>
+<pub-id pub-id-type="pmid">20346678</pub-id></element-citation></ref><ref id="B48-biology-01-00778"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taberlay</surname><given-names>P.C.</given-names></name><name><surname>Kelly</surname><given-names>T.K.</given-names></name><name><surname>Liu</surname><given-names>C.C.</given-names></name><name><surname>You</surname><given-names>J.S.</given-names></name><name><surname>de Carvalho</surname><given-names>D.D.</given-names></name><name><surname>Miranda</surname><given-names>T.B.</given-names></name><name><surname>Zhou</surname><given-names>X.J.</given-names></name><name><surname>Liang</surname><given-names>G.N.</given-names></name><name><surname>Jones</surname><given-names>P.A.</given-names></name></person-group>
+<article-title>Polycomb-repressed genes have permissive enhancers that initiate reprogramming</article-title>
+<source>Cell</source>
+<year>2011</year>
+<volume>147</volume>
+<fpage>1283</fpage>
+<lpage>1294</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cell.2011.10.040</pub-id>
+<pub-id pub-id-type="pmid">22153073</pub-id></element-citation></ref><ref id="B49-biology-01-00778"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rodriguez-Jato</surname><given-names>S.</given-names></name><name><surname>Nicholls</surname><given-names>R.D.</given-names></name><name><surname>Driscoll</surname><given-names>D.J.</given-names></name><name><surname>Yang</surname><given-names>T.P.</given-names></name></person-group>
+<article-title>Characterization of cis- and trans-acting elements in the imprinted human SNURF-SNRPN locus</article-title>
+<source>Nucl. Acids. Res.</source>
+<year>2005</year>
+<volume>33</volume>
+<fpage>4740</fpage>
+<lpage>4753</lpage>
+<pub-id pub-id-type="pmid">16116039</pub-id></element-citation></ref><ref id="B50-biology-01-00778"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>H.</given-names></name><name><surname>Friedman</surname><given-names>R.D.</given-names></name><name><surname>Fournier</surname><given-names>R.E.K.</given-names></name></person-group>
+<article-title>The locus control region activates serpin gene expression through recruitment of liver-specific transcription factors and RNA polymerase II</article-title>
+<source>Mol. Cell Biol.</source>
+<year>2007</year>
+<volume>27</volume>
+<fpage>5286</fpage>
+<lpage>5295</lpage>
+<pub-id pub-id-type="doi">10.1128/MCB.00176-07</pub-id>
+<pub-id pub-id-type="pmid">17526725</pub-id></element-citation></ref><ref id="B51-biology-01-00778"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levings</surname><given-names>P.P.</given-names></name><name><surname>Bungert</surname><given-names>J.</given-names></name></person-group>
+<article-title>The human beta-globin locus control region</article-title>
+<source>Eur. J. Biochem.</source>
+<year>2002</year>
+<volume>269</volume>
+<fpage>1589</fpage>
+<lpage>1599</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1432-1327.2002.02797.x</pub-id>
+<pub-id pub-id-type="pmid">11895428</pub-id></element-citation></ref><ref id="B52-biology-01-00778"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ragoczy</surname><given-names>T.</given-names></name><name><surname>Bender</surname><given-names>M.A.</given-names></name><name><surname>Telling</surname><given-names>A.</given-names></name><name><surname>Byron</surname><given-names>R.</given-names></name><name><surname>Groudine</surname><given-names>M.</given-names></name></person-group>
+<article-title>The locus control region is required for association of the murine beta-globin locus with engaged transcription factories during erythroid maturation</article-title>
+<source>Genes Dev.</source>
+<year>2006</year>
+<volume>20</volume>
+<fpage>1447</fpage>
+<lpage>1457</lpage>
+<pub-id pub-id-type="doi">10.1101/gad.1419506</pub-id>
+<pub-id pub-id-type="pmid">16705039</pub-id></element-citation></ref><ref id="B53-biology-01-00778"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Francastel</surname><given-names>C.</given-names></name><name><surname>Walters</surname><given-names>M.C.</given-names></name><name><surname>Groudine</surname><given-names>M.</given-names></name><name><surname>Martin</surname><given-names>D.I.</given-names></name></person-group>
+<article-title>A functional enhancer suppresses silencing of a transgene and prevents its localization close to centromeric heterochromatin</article-title>
+<source>Cell</source>
+<year>1999</year>
+<volume>99</volume>
+<fpage>259</fpage>
+<lpage>269</lpage>
+<pub-id pub-id-type="doi">10.1016/S0092-8674(00)81657-8</pub-id>
+<pub-id pub-id-type="pmid">10555142</pub-id></element-citation></ref><ref id="B54-biology-01-00778"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sawado</surname><given-names>T.</given-names></name><name><surname>Halow</surname><given-names>J.</given-names></name><name><surname>Bender</surname><given-names>M.A.</given-names></name><name><surname>Groudine</surname><given-names>M.</given-names></name></person-group>
+<article-title>The beta-globin locus control region (LCR) functions primarily by enhancing the transition from transcription initiation to elongation</article-title>
+<source>Genes Dev.</source>
+<year>2003</year>
+<volume>17</volume>
+<fpage>1009</fpage>
+<lpage>1018</lpage>
+<pub-id pub-id-type="doi">10.1101/gad.1072303</pub-id>
+<pub-id pub-id-type="pmid">12672691</pub-id></element-citation></ref><ref id="B55-biology-01-00778"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>S.H.</given-names></name><name><surname>Kim</surname><given-names>A.</given-names></name><name><surname>Ragoczy</surname><given-names>T.</given-names></name><name><surname>Bender</surname><given-names>M.A.</given-names></name><name><surname>Groudine</surname><given-names>M.</given-names></name><name><surname>Dean</surname><given-names>A.</given-names></name></person-group>
+<article-title>Multiple functions of Ldb1 required for beta-globin activation during erythroid differentiation</article-title>
+<source>Blood</source>
+<year>2010</year>
+<volume>116</volume>
+<fpage>2356</fpage>
+<lpage>2364</lpage>
+<pub-id pub-id-type="doi">10.1182/blood-2010-03-272252</pub-id>
+<pub-id pub-id-type="pmid">20570862</pub-id></element-citation></ref><ref id="B56-biology-01-00778"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nechaev</surname><given-names>S.</given-names></name><name><surname>Adelman</surname><given-names>K.</given-names></name></person-group>
+<article-title>Pol II waiting in the starting gates: Regulating the transition from transcription initiation into productive elongation</article-title>
+<source>Biochim. Biophys. Acta.</source>
+<year>2011</year>
+<volume>1809</volume>
+<fpage>34</fpage>
+<lpage>45</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bbagrm.2010.11.001</pub-id>
+<pub-id pub-id-type="pmid">21081187</pub-id></element-citation></ref><ref id="B57-biology-01-00778"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marks</surname><given-names>H.</given-names></name><name><surname>Kalkan</surname><given-names>T.</given-names></name><name><surname>Denissov</surname><given-names>S.</given-names></name><name><surname>Jones</surname><given-names>K.</given-names></name><name><surname>Hofemeister</surname><given-names>H.</given-names></name><name><surname>Nichols</surname><given-names>J.</given-names></name><name><surname>Stewart</surname><given-names>A.F.</given-names></name><name><surname>Smith</surname><given-names>A.</given-names></name><name><surname>Stunnenberg</surname><given-names>H.G.</given-names></name></person-group>
+<article-title>The transcriptional and epigenomic foundations of ground state pluripotency</article-title>
+<source>Cell</source>
+<year>2012</year>
+<volume>149</volume>
+<fpage>590</fpage>
+<lpage>604</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cell.2012.03.026</pub-id>
+<pub-id pub-id-type="pmid">22541430</pub-id></element-citation></ref><ref id="B58-biology-01-00778"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>G.</given-names></name><name><surname>Ruan</surname><given-names>X.</given-names></name><name><surname>Auerbach</surname><given-names>R.K.</given-names></name><name><surname>Sandhu</surname><given-names>K.S.</given-names></name><name><surname>Zheng</surname><given-names>M.</given-names></name><name><surname>Wang</surname><given-names>P.</given-names></name><name><surname>Poh</surname><given-names>H.M.</given-names></name><name><surname>Goh</surname><given-names>Y.</given-names></name><name><surname>Lim</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title>Extensive promoter-centered chromatin interactions provide a topological basis for transcription regulation</article-title>
+<source>Cell</source>
+<year>2012</year>
+<volume>148</volume>
+<fpage>84</fpage>
+<lpage>98</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cell.2011.12.014</pub-id>
+<pub-id pub-id-type="pmid">22265404</pub-id></element-citation></ref><ref id="B59-biology-01-00778"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ong</surname><given-names>C.T.</given-names></name><name><surname>Corces</surname><given-names>V.G.</given-names></name></person-group>
+<article-title>Enhancer function: new insights into the regulation of tissue-specific gene expression</article-title>
+<source>Nat. Rev. Genet.</source>
+<year>2011</year>
+<volume>12</volume>
+<fpage>283</fpage>
+<lpage>293</lpage>
+<pub-id pub-id-type="pmid">21358745</pub-id></element-citation></ref><ref id="B60-biology-01-00778"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tuan</surname><given-names>D.</given-names></name><name><surname>Kong</surname><given-names>S.</given-names></name><name><surname>Hu</surname><given-names>K.</given-names></name></person-group>
+<article-title>Transcription of the hypersensitive site HS2 enhancer in erythroid cells</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>1992</year>
+<volume>89</volume>
+<fpage>11219</fpage>
+<lpage>11223</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.89.23.11219</pub-id>
+<pub-id pub-id-type="pmid">1454801</pub-id></element-citation></ref><ref id="B61-biology-01-00778"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhu</surname><given-names>X.</given-names></name><name><surname>Ling</surname><given-names>J.</given-names></name><name><surname>Zhang</surname><given-names>L.</given-names></name><name><surname>Pi</surname><given-names>W.</given-names></name><name><surname>Wu</surname><given-names>M.</given-names></name><name><surname>Tuan</surname><given-names>D.</given-names></name></person-group>
+<article-title>A facilitated tracking and transcription mechanism of long-range enhancer function</article-title>
+<source>Nucleic Acids Res.</source>
+<year>2007</year>
+<volume>35</volume>
+<fpage>5532</fpage>
+<lpage>5544</lpage>
+<pub-id pub-id-type="doi">10.1093/nar/gkm595</pub-id>
+<pub-id pub-id-type="pmid">17704132</pub-id></element-citation></ref><ref id="B62-biology-01-00778"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leach</surname><given-names>K.M.</given-names></name><name><surname>Nightingale</surname><given-names>K.</given-names></name><name><surname>Igarashi</surname><given-names>K.</given-names></name><name><surname>Levings</surname><given-names>P.P.</given-names></name><name><surname>Engel</surname><given-names>J.D.</given-names></name><name><surname>Becker</surname><given-names>P.P.</given-names></name><name><surname>Bungert</surname><given-names>J.</given-names></name></person-group>
+<article-title>Reconstitution of human beta-globin locus control region hypersensitive sites in the absence of chromatin assembly</article-title>
+<source>Mol. Cell Biol.</source>
+<year>2001</year>
+<volume>21</volume>
+<fpage>2629</fpage>
+<lpage>2640</lpage>
+<pub-id pub-id-type="doi">10.1128/MCB.21.8.2629-2640.2001</pub-id>
+<pub-id pub-id-type="pmid">11283243</pub-id></element-citation></ref><ref id="B63-biology-01-00778"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Routledge</surname><given-names>S.J.</given-names></name><name><surname>Proudfoot</surname><given-names>N.J.</given-names></name></person-group>
+<article-title>Definition of transcriptional promoters in the human beta globin locus control region</article-title>
+<source>J. Mol. Biol.</source>
+<year>2002</year>
+<volume>323</volume>
+<fpage>601</fpage>
+<lpage>611</lpage>
+<pub-id pub-id-type="doi">10.1016/S0022-2836(02)01011-2</pub-id>
+<pub-id pub-id-type="pmid">12419253</pub-id></element-citation></ref><ref id="B64-biology-01-00778"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schmitt</surname><given-names>S.</given-names></name><name><surname>Prestel</surname><given-names>M.</given-names></name><name><surname>Paro</surname><given-names>R.</given-names></name></person-group>
+<article-title>Intergenic transcription through a polycomb group response element counteracts silencing</article-title>
+<source>Genes Dev.</source>
+<year>2005</year>
+<volume>19</volume>
+<fpage>697</fpage>
+<lpage>708</lpage>
+<pub-id pub-id-type="doi">10.1101/gad.326205</pub-id>
+<pub-id pub-id-type="pmid">15741315</pub-id></element-citation></ref><ref id="B65-biology-01-00778"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walia</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>H.Y.</given-names></name><name><surname>Sun</surname><given-names>J.M.</given-names></name><name><surname>Holth</surname><given-names>L.T.</given-names></name><name><surname>Davie</surname><given-names>J.R.</given-names></name></person-group>
+<article-title>Histone acetylation is required to maintain the unfolded nucleosome structure associated with transcribing DNA</article-title>
+<source>J. Biol. Chem.</source>
+<year>1998</year>
+<volume>273</volume>
+<fpage>14516</fpage>
+<lpage>14522</lpage>
+<pub-id pub-id-type="pmid">9603965</pub-id></element-citation></ref><ref id="B66-biology-01-00778"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hatzis</surname><given-names>P.</given-names></name><name><surname>Talianidis</surname><given-names>I.</given-names></name></person-group>
+<article-title>Dynamics of enhancer-promoter communication during differentiation-induced gene activation</article-title>
+<source>Mol. Cell</source>
+<year>2002</year>
+<volume>10</volume>
+<fpage>1467</fpage>
+<lpage>1477</lpage>
+<pub-id pub-id-type="doi">10.1016/S1097-2765(02)00786-4</pub-id>
+<pub-id pub-id-type="pmid">12504020</pub-id></element-citation></ref><ref id="B67-biology-01-00778"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rogers</surname><given-names>R.J.</given-names></name><name><surname>Chesrown</surname><given-names>S.E.</given-names></name><name><surname>Kuo</surname><given-names>S.</given-names></name><name><surname>Monnier</surname><given-names>J.M.</given-names></name><name><surname>Nick</surname><given-names>H.S.</given-names></name></person-group>
+<article-title>Cytokine-inducible enhancer with promoter activity in both the rat and human manganese-superoxide dismutase genes</article-title>
+<source>Biochem. J.</source>
+<year>2000</year>
+<volume>347</volume>
+<fpage>233</fpage>
+<lpage>242</lpage>
+<pub-id pub-id-type="doi">10.1042/0264-6021:3470233</pub-id>
+<pub-id pub-id-type="pmid">10727424</pub-id></element-citation></ref><ref id="B68-biology-01-00778"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kowalczyk</surname><given-names>M.S.</given-names></name><name><surname>Hughes</surname><given-names>J.R.</given-names></name><name><surname>Garrick</surname><given-names>D.</given-names></name><name><surname>Lynch</surname><given-names>M.D.</given-names></name><name><surname>Sharpe</surname><given-names>J.A.</given-names></name><name><surname>Sloane-Stanley</surname><given-names>J.A.</given-names></name><name><surname>McGowan</surname><given-names>S.J.</given-names></name><name><surname>de Gobbi</surname><given-names>M.</given-names></name><name><surname>Hosseini</surname><given-names>M.</given-names></name><name><surname>Vernimmen</surname><given-names>D.</given-names></name><etal/></person-group>
+<article-title>Intragenic enhancers act as alternative promoters</article-title>
+<source>Cell</source>
+<year>2012</year>
+<volume>45</volume>
+<fpage>447</fpage>
+<lpage>458</lpage>
+</element-citation></ref><ref id="B69-biology-01-00778"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>D.</given-names></name><name><surname>Garcia-Bassets</surname><given-names>I.</given-names></name><name><surname>Benner</surname><given-names>C.</given-names></name><name><surname>Li</surname><given-names>W.</given-names></name><name><surname>Sue</surname><given-names>X.</given-names></name><name><surname>Zhou</surname><given-names>Y.</given-names></name><name><surname>Qiu</surname><given-names>J.</given-names></name><name><surname>Lie</surname><given-names>W.</given-names></name><name><surname>Kaikkonen</surname><given-names>M.U.</given-names></name><name><surname>Ohgi</surname><given-names>K.A.</given-names></name><etal/></person-group>
+<article-title>Reprogramming transcription by distinct classes of enhancers functionally defined by eRNA</article-title>
+<source>Nature</source>
+<year>2011</year>
+<volume>474</volume>
+<fpage>390</fpage>
+<lpage>394</lpage>
+<pub-id pub-id-type="pmid">21572438</pub-id></element-citation></ref><ref id="B70-biology-01-00778"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanyal</surname><given-names>A.</given-names></name><name><surname>Lajoie</surname><given-names>B.R.</given-names></name><name><surname>Jain</surname><given-names>G.</given-names></name><name><surname>Dekker</surname><given-names>J.</given-names></name></person-group>
+<article-title>The long-range interaction landscape of gene promoters</article-title>
+<source>Nature</source>
+<year>2012</year>
+<volume>489</volume>
+<fpage>109</fpage>
+<lpage>113</lpage>
+<pub-id pub-id-type="pmid">22955621</pub-id></element-citation></ref><ref id="B71-biology-01-00778"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khalil</surname><given-names>A.</given-names></name><name><surname>Guttman</surname><given-names>M.</given-names></name><name><surname>Huarte</surname><given-names>M.</given-names></name><name><surname>Garber</surname><given-names>M.</given-names></name><name><surname>Raj</surname><given-names>A.</given-names></name><name><surname>Rivea-Morales</surname><given-names>D.</given-names></name><name><surname>Thomas</surname><given-names>K.</given-names></name><name><surname>Presser</surname><given-names>A.</given-names></name><name><surname>Bernstein</surname><given-names>B.E.</given-names></name><name><surname>van Oudenaarden</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>Many human large intergenic noncoding RNAs associate with chromatin<bold>-</bold>modifying complexes and affect gene expression</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2009</year>
+<volume>106</volume>
+<fpage>11667</fpage>
+<lpage>11672</lpage>
+<pub-id pub-id-type="pmid">19571010</pub-id></element-citation></ref><ref id="B72-biology-01-00778"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orum</surname><given-names>U.A.</given-names></name><name><surname>Derrien</surname><given-names>T.</given-names></name><name><surname>Beringer</surname><given-names>M.</given-names></name><name><surname>Gumireddy</surname><given-names>K.</given-names></name><name><surname>Gardini</surname><given-names>A.</given-names></name><name><surname>Bussotti</surname><given-names>G.</given-names></name><name><surname>Lai</surname><given-names>F.</given-names></name><name><surname>Zytnicki</surname><given-names>M.</given-names></name><name><surname>Notredame</surname><given-names>C.</given-names></name><name><surname>Huang</surname><given-names>Q.</given-names></name><etal/></person-group>
+<article-title>Long noncoding RNAs with enhancer-like function in human cells</article-title>
+<source>Cell</source>
+<year>2010</year>
+<volume>143</volume>
+<fpage>46</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cell.2010.09.001</pub-id>
+<pub-id pub-id-type="pmid">20887892</pub-id></element-citation></ref><ref id="B73-biology-01-00778"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Flynn</surname><given-names>R.A.</given-names></name><name><surname>Chang</surname><given-names>H.Y.</given-names></name></person-group>
+<article-title>Active chromatin and noncoding RNAs: An intimate relationship</article-title>
+<source>Curr. Opin. Genet. Dev.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>172</fpage>
+<lpage>178</lpage>
+<pub-id pub-id-type="doi">10.1016/j.gde.2011.11.002</pub-id>
+<pub-id pub-id-type="pmid">22154525</pub-id></element-citation></ref><ref id="B74-biology-01-00778"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Caudron-Herger</surname><given-names>M.</given-names></name><name><surname>Rippe</surname><given-names>K.</given-names></name></person-group>
+<article-title>Nuclear architecture by RNA</article-title>
+<source>Curr. Opin. Genet. Dev.</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>179</fpage>
+<lpage>187</lpage>
+<pub-id pub-id-type="doi">10.1016/j.gde.2011.12.005</pub-id>
+<pub-id pub-id-type="pmid">22281031</pub-id></element-citation></ref><ref id="B75-biology-01-00778"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shevtsov</surname><given-names>S.P.</given-names></name><name><surname>Dundr</surname><given-names>M.</given-names></name></person-group>
+<article-title>Nucleation of nuclear bodies by RNA</article-title>
+<source>Nat. Cell Biol.</source>
+<year>2011</year>
+<volume>13</volume>
+<fpage>167</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="doi">10.1038/ncb2157</pub-id>
+<pub-id pub-id-type="pmid">21240286</pub-id></element-citation></ref><ref id="B76-biology-01-00778"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fnu</surname><given-names>S.</given-names></name><name><surname>Williamson</surname><given-names>E.A.</given-names></name><name><surname>de Haro</surname><given-names>L.P.</given-names></name><name><surname>Brenneman</surname><given-names>M.</given-names></name><name><surname>Wray</surname><given-names>J.</given-names></name><name><surname>Shaheen</surname><given-names>M.</given-names></name><name><surname>Radhakrishnan</surname><given-names>K.</given-names></name><name><surname>Lee</surname><given-names>S.H.</given-names></name><name><surname>Nickoloff</surname><given-names>J.A.</given-names></name><name><surname>Hromas</surname><given-names>R.</given-names></name></person-group>
+<article-title>Methylation of histone H3 lysine 36 enhances DNA repair by non-homologous end-joining</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2011</year>
+<volume>108</volume>
+<fpage>540</fpage>
+<lpage>545</lpage>
+<pub-id pub-id-type="pmid">21187428</pub-id></element-citation></ref><ref id="B77-biology-01-00778"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rada-Iglesias</surname><given-names>A.</given-names></name><name><surname>Bajpai</surname><given-names>R.</given-names></name><name><surname>Swigut</surname><given-names>T.</given-names></name><name><surname>Brugmann</surname><given-names>S.A.</given-names></name><name><surname>Flynn</surname><given-names>R.A.</given-names></name><name><surname>Wysocka</surname><given-names>J.</given-names></name></person-group>
+<article-title>A unique chromatin signature uncovers early developmental enhancers in humans</article-title>
+<source>Nature</source>
+<year>2011</year>
+<volume>470</volume>
+<fpage>279</fpage>
+<lpage>283</lpage>
+<pub-id pub-id-type="pmid">21160473</pub-id></element-citation></ref><ref id="B78-biology-01-00778"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Magnani</surname><given-names>L.</given-names></name><name><surname>Eeckhoute</surname><given-names>J.</given-names></name><name><surname>Lupien</surname><given-names>M.</given-names></name></person-group>
+<article-title>Pioneer factors: directing transcriptional regulators within the chromatin environment</article-title>
+<source>Trends Genet.</source>
+<year>2011</year>
+<volume>27</volume>
+<fpage>465</fpage>
+<lpage>474</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tig.2011.07.002</pub-id>
+<pub-id pub-id-type="pmid">21885149</pub-id></element-citation></ref><ref id="B79-biology-01-00778"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhu</surname><given-names>Y.</given-names></name><name><surname>van Essen</surname><given-names>D.</given-names></name><name><surname>Saccani</surname><given-names>S.</given-names></name></person-group>
+<article-title>Cell type-specific control of enhancer activity by H3K9 trimethylation</article-title>
+<source>Mol. Cell</source>
+<year>2012</year>
+<volume>46</volume>
+<fpage>408</fpage>
+<lpage>423</lpage>
+<pub-id pub-id-type="doi">10.1016/j.molcel.2012.05.011</pub-id>
+<pub-id pub-id-type="pmid">22633489</pub-id></element-citation></ref><ref id="B80-biology-01-00778"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chong</surname><given-names>M.M.</given-names></name><name><surname>Simpson</surname><given-names>N.</given-names></name><name><surname>Ciofani</surname><given-names>M.</given-names></name><name><surname>Chen</surname><given-names>G.</given-names></name><name><surname>Collins</surname><given-names>A.</given-names></name><name><surname>Littman</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>Epigenetic propagation of CD4 expression is established by the Cd4 proximal enhancer in helper T-cells</article-title>
+<source>Genes Dev.</source>
+<year>2010</year>
+<volume>24</volume>
+<fpage>659</fpage>
+<lpage>669</lpage>
+<pub-id pub-id-type="doi">10.1101/gad.1901610</pub-id>
+<pub-id pub-id-type="pmid">20360383</pub-id></element-citation></ref><ref id="B81-biology-01-00778"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>DuBose</surname><given-names>A.J.</given-names></name><name><surname>Smith</surname><given-names>E.Y.</given-names></name><name><surname>Johnstone</surname><given-names>K.A.</given-names></name><name><surname>Resnick</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>Temporal and developmental requirements for the Prader-Willi imprinting center</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2012</year>
+<volume>109</volume>
+<fpage>3446</fpage>
+<lpage>3450</lpage>
+<pub-id pub-id-type="pmid">22331910</pub-id></element-citation></ref><ref id="B82-biology-01-00778"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klein</surname><given-names>S.</given-names></name><name><surname>Gerster</surname><given-names>T.</given-names></name><name><surname>Picard</surname><given-names>D.</given-names></name><name><surname>Radbruch</surname><given-names>A.</given-names></name><name><surname>Schaffner</surname><given-names>W.</given-names></name></person-group>
+<article-title>Evidence for transient requirement of the IgH enhancer</article-title>
+<source>Nucl. Acids Res.</source>
+<year>1985</year>
+<volume>13</volume>
+<fpage>8901</fpage>
+<lpage>8912</lpage>
+<pub-id pub-id-type="doi">10.1093/nar/13.24.8901</pub-id>
+<pub-id pub-id-type="pmid">3936022</pub-id></element-citation></ref><ref id="B83-biology-01-00778"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yoo</surname><given-names>E.J.</given-names></name><name><surname>Cooke</surname><given-names>N.E.</given-names></name><name><surname>Liebhaber</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>An RNA-independent linkage of noncoding transcription to long-range enhancer function</article-title>
+<source>Mol. Cell Biol.</source>
+<year>2012</year>
+<volume>32</volume>
+<fpage>2020</fpage>
+<lpage>2029</lpage>
+<pub-id pub-id-type="doi">10.1128/MCB.06650-11</pub-id>
+<pub-id pub-id-type="pmid">22431516</pub-id></element-citation></ref><ref id="B84-biology-01-00778"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sequeira-Mendes</surname><given-names>J.</given-names></name><name><surname>Gomez</surname><given-names>M.</given-names></name></person-group>
+<article-title>On the opportunistic nature of transcription and replication initiation of the metazoan genome</article-title>
+<source>Bioessays.</source>
+<year>2011</year>
+<volume>34</volume>
+<fpage>119</fpage>
+<lpage>125</lpage>
+<pub-id pub-id-type="doi">10.1002/bies.201100126</pub-id>
+<pub-id pub-id-type="pmid">22086495</pub-id></element-citation></ref><ref id="B85-biology-01-00778"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thanos</surname><given-names>D.</given-names></name><name><surname>Maniatis</surname><given-names>T.</given-names></name></person-group>
+<article-title>Virus induction of human IFN beta gene expression requires the assembly of an enhanceosome</article-title>
+<source>Cell</source>
+<year>1995</year>
+<volume>83</volume>
+<fpage>1091</fpage>
+<lpage>1100</lpage>
+<pub-id pub-id-type="doi">10.1016/0092-8674(95)90136-1</pub-id>
+<pub-id pub-id-type="pmid">8548797</pub-id></element-citation></ref></ref-list></back></article>

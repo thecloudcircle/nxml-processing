@@ -1,0 +1,992 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Pharmacol Res Perspect</journal-id><journal-id journal-id-type="iso-abbrev">Pharmacol Res Perspect</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2052-1707</journal-id><journal-id journal-id-type="publisher-id">PRP2</journal-id><journal-title-group><journal-title>Pharmacology Research &#x00026; Perspectives</journal-title></journal-title-group><issn pub-type="epub">2052-1707</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">33340266</article-id><article-id pub-id-type="pmc">7749515</article-id><article-id pub-id-type="doi">10.1002/prp2.697</article-id><article-id pub-id-type="publisher-id">PRP2697</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Gabapentin reduces painful bladder hypersensitivity in rats with lipopolysaccharide&#x02010;induced chronic cystitis</article-title><alt-title alt-title-type="left-running-head">YOSHIZUMI et al</alt-title></title-group><contrib-group><contrib id="prp2697-cr-0001" contrib-type="author" corresp="yes"><name><surname>Yoshizumi</surname><given-names>Masaru</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1223-2602</contrib-id><xref ref-type="aff" rid="prp2697-aff-0001">
+<sup>1</sup>
+</xref><address><email>yoshizumi@tohoku-mpu.ac.jp</email></address></contrib><contrib id="prp2697-cr-0002" contrib-type="author"><name><surname>Watanabe</surname><given-names>Chizuko</given-names></name><xref ref-type="aff" rid="prp2697-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="prp2697-cr-0003" contrib-type="author" corresp="yes"><name><surname>Mizoguchi</surname><given-names>Hirokazu</given-names></name><xref ref-type="aff" rid="prp2697-aff-0001">
+<sup>1</sup>
+</xref><address><email>mizo@tohoku-mpu.ac.jp</email></address></contrib></contrib-group><aff id="prp2697-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Physiology and Anatomy Faculty of Pharmaceutical Sciences</named-content>
+<institution>Tohoku Medical and Pharmaceutical University</institution>
+<city>Sendai</city>
+<country country="JP">Japan</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Masaru Yoshizumi and Hirokazu Mizoguchi, Department of Physiology and Anatomy, Faculty of Pharmaceutical Sciences, Tohoku Medical and Pharmaceutical University, 4&#x02010;4&#x02010;1 Komatsushima, Aobaku, Sendai, Miyagi 981&#x02010;8558, Japan.<break/>
+Emails: <email>yoshizumi@tohoku-mpu.ac.jp</email>; <email>mizo@tohoku-mpu.ac.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>19</day><month>12</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2021</year></pub-date><volume>9</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/prp2.v9.1</issue-id><elocation-id>e00697</elocation-id><history><date date-type="received"><day>29</day><month>10</month><year>2020</year></date><date date-type="rev-recd"><day>05</day><month>11</month><year>2020</year></date><date date-type="accepted"><day>05</day><month>11</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright">&#x000a9; 2021 John Wiley & Sons Ltd, British Pharmacological Society and American Society for Pharmacology and Experimental Therapeutics<copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Pharmacology Research &#x00026; Perspectives</italic> published by John Wiley &#x00026; Sons Ltd, British Pharmacological Society and American Society for Pharmacology and Experimental Therapeutics.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:PRP2-9-e00697.pdf"/><abstract id="prp2697-abs-0001"><title>Abstract</title><p>Although interstitial cystitis/bladder pain syndrome (IC/BPS) is a chronic condition causing bladder pain and urinary symptoms, effective treatments have not been established. The aim of this study was to adapt a chronic cystitis model in rats using lipopolysaccharide (LPS), which reflects IC/BPS pathology, and characterize the model's histological and behavioral effects. Furthermore, we investigated the effect of an &#x003b1;<sub>2</sub>&#x003b4; subunit ligand, gabapentin (GBP), on bladder hypersensitivity of rats with chronic cystitis. Cystitis models were created by repeated intravesical injections of LPS. In the histological examination, the LPS&#x02010;injected group had greater inflammatory response, fibrosis, and abnormally thick re&#x02010;epithelialization. In the LPS&#x02010;injected group, LPS prompted hyperalgesia in both the lower abdomen and hind paw regions after day 1 of the first injection compared with the saline&#x02010;injected controls, without any recovery for 21&#x000a0;days at least. During cystometry, the LPS&#x02010;injected group showed bladder hyperactivity at all times. Systemic administration of GBP reduced cystitis&#x02010;related pain due to chronic inflammation and reduced the increased frequency of voiding in the LPS&#x02010;injected group. These results suggest that repeated intravesical injections of LPS induce long&#x02010;lasting bladder inflammation, pain, and overactivity in rats, while GBP is effective in the management of those symptoms in this chronic cystitis model. The current study identifies a relatively simple method to develop an animal model for chronic cystitis and provides evidence that GBP may be an effective treatment option for patients with IC/BPS.</p></abstract><abstract abstract-type="graphical" id="prp2697-abs-0002"><p>This study shows the repeated intravesical injections of lipopolysaccharide (LPS) could be used to generate a model of chronic cystitis in rats, which show signs of long&#x02010;lasting bladder inflammation, pain, and overactivity. Gabapentin, a neuromodulator, effectively inhibited bladder pain and overactivity in the LPS&#x02010;induced chronic cystitis rats.<boxed-text position="anchor" content-type="graphic" id="prp2697-blkfxd-0001" orientation="portrait"><graphic xlink:href="PRP2-9-e00697-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group><kwd id="prp2697-kwd-0001">bladder pain syndrome</kwd><kwd id="prp2697-kwd-0002">chronic cystitis</kwd><kwd id="prp2697-kwd-0003">gabapentin</kwd><kwd id="prp2697-kwd-0004">interstitial cystitis</kwd><kwd id="prp2697-kwd-0005">lipopolysaccharide</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Japan Society for the Promotion of Science </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001691</institution-id></institution-wrap></funding-source><award-id>17K15792</award-id></award-group></funding-group><counts><fig-count count="8"/><table-count count="0"/><page-count count="11"/><word-count count="5930"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2021</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.5 mode:remove_FC converted:19.12.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="prp2697-cit-1001">
+<string-name>
+<surname>Yoshizumi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Watanabe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Mizoguchi</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Gabapentin reduces painful bladder hypersensitivity in rats with lipopolysaccharide&#x02010;induced chronic cystitis</article-title>. <source xml:lang="en">Pharmacol Res Perspect</source>.<year>2021</year>;<volume>9</volume>:<elocation-id>e00697</elocation-id>
+<pub-id pub-id-type="doi">10.1002/prp2.697</pub-id>
+</mixed-citation>
+</p></notes></front><body id="prp2697-body-0001"><def-list list-content="abbreviations" id="prp2697-lp-0001"><title>Abbreviations</title><def-item><term>ABHCA</term><def><p>3&#x02010;exo&#x02010;aminobicyclo [2.2.1] heptane&#x02010;2&#x02010;exo&#x02010;carboxylic acid</p></def></def-item><def-item><term>Bar</term><def><p>Barrington's nucleus</p></def></def-item><def-item><term>BOO</term><def><p>bladder outlet obstruction</p></def></def-item><def-item><term>CPA</term><def><p>cyclophosphamide</p></def></def-item><def-item><term>CRH</term><def><p>corticotropin&#x02010;releasing hormone</p></def></def-item><def-item><term>GBP</term><def><p>gabapentin</p></def></def-item><def-item><term>H&#x00026;E</term><def><p>hematoxylin and eosin</p></def></def-item><def-item><term>IC/BPS</term><def><p>interstitial cystitis/bladder pain syndrome</p></def></def-item><def-item><term>ICI</term><def><p>intercontraction interval</p></def></def-item><def-item><term>IL&#x02010;1&#x003b2;</term><def><p>interleukin&#x02010;1&#x003b2;</p></def></def-item><def-item><term>LC</term><def><p>locus coeruleus</p></def></def-item><def-item><term>LPS</term><def><p>lipopolysaccharide</p></def></def-item><def-item><term>MVP</term><def><p>maximum voiding pressure</p></def></def-item></def-list><sec id="prp2697-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Interstitial cystitis/bladder pain syndrome (IC/BPS) is a chronic bladder inflammation characterized by bladder and pelvic pain, and urinary symptoms, such as urinary frequency, urgency, and nocturia.<xref rid="prp2697-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref>, <xref rid="prp2697-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> IC/BPS primarily affects women, but it can also occur in men over a broad age range, and severely affect the patient's quality of life.<xref rid="prp2697-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="prp2697-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> The etiology of IC/BPS is still not completely understood, and effective drug treatments have not been established.<xref rid="prp2697-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> Although IC/BPS models have been evaluated by a variety of methods,<xref rid="prp2697-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="prp2697-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="prp2697-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="prp2697-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="prp2697-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="prp2697-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="prp2697-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> many of these are acute inflammation models. The durations of cystitis&#x02010;related pain and bladder overactivity in these models are short, which are not consistent with the pathophysiology of chronic conditions displayed in patients with IC/BPS. Therefore, it is necessary to confirm the efficacy and safety of new therapies using an appropriate animal model with characteristics similar to those of the condition in human beings.</p><p>
+<ext-link ext-link-type="uri" xlink:href="https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=5019">Lipopolysaccharide (LPS)</ext-link> is the main outer&#x02010;membrane component of the gram&#x02010;negative bacteria, including <italic>Escherichia coli</italic>, and acts as a common virulence factor.<xref rid="prp2697-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> Intravesical instillation of LPS induces an inflammatory response mediated by the activation of mast cells, production of cytokines, and recruitment of leukocytes to the mucosal surface of the bladder, similar to that observed in patients with IC/BPS.<xref rid="prp2697-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="prp2697-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref>, <xref rid="prp2697-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> Although repeated intravesical injections of LPS have reportedly increased the expression of macrophage migration inhibitory factor (a pro&#x02010;inflammatory cytokine) in both the bladder and the lumbosacral spinal cord,<xref rid="prp2697-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> symptoms of bladder pain and bladder overactivity have not been demonstrated.</p><p>
+<ext-link ext-link-type="uri" xlink:href="https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=5483">Gabapentin (GBP)</ext-link>, an antiepileptic drug, has been effectively used in various chronic pain treatments and is especially suitable for neuropathic pain.<xref rid="prp2697-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="prp2697-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="prp2697-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="prp2697-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>, <xref rid="prp2697-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> We and others have previously demonstrated that GBP acts as a neuromodulator by selectively binding to the &#x003b1;<sub>2</sub>&#x003b4; subunits of <ext-link ext-link-type="uri" xlink:href="https://www.guidetopharmacology.org/GRAC/FamilyDisplayForward?familyId=80">voltage&#x02010;gated Ca<sup>2+</sup> channels</ext-link> in various regions throughout the central nervous system, such as the locus coeruleus (LC) within the brainstem, and the spinal dorsal horn in rats after peripheral nerve injury.<xref rid="prp2697-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="prp2697-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="prp2697-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="prp2697-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> As a result, it demonstrates a therapeutic effect on chronic pain by inhibiting the primary afferent traffic and excitation of the spinal nociceptive neurons.<xref rid="prp2697-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref> Additionally, GBP has been observed to have a beneficial effect on bladder pain and overactivity related to IC/BPS.<xref rid="prp2697-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref>, <xref rid="prp2697-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> In rodent acute cystitis models, a recent study reported that GBP could reduce detrusor overactivity and the visceral nociception,<xref rid="prp2697-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref> but another study had failed to identify any effect.<xref rid="prp2697-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> Therefore, it is necessary to evaluate the effectiveness of GBP in chronic cystitis models with IC/BPS symptoms.</p><p>The current study confirmed whether repeated intravesical injections of LPS cause sustained bladder pain&#x02010;related behavior and bladder overactivity in rats. Thereafter, we tested the effects of GBP on those symptoms in a rat model of LPS&#x02010;induced chronic cystitis.</p></sec><sec sec-type="materials-and-methods" id="prp2697-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="prp2697-sec-0003"><label>2.1</label><title>Animals</title><p>Adult female Sprague&#x02010;Dawley rats (Japan SLC, Hamamatsu, Japan), weighing 200&#x02010;300&#x000a0;g, were used in this study. The animals were housed in a room maintained at 22&#x02010;24&#x02103; and 50%&#x02010;60% relative humidity with an alternating 12&#x02010;h light&#x02013;dark cycle. Food and water were available ad libitum. All animal procedures were approved by the Committee of Animal Experiments, Tohoku Medical and Pharmaceutical University and were performed in accordance with the NIH Guide for the Care and Use of Laboratory Animals.</p></sec><sec id="prp2697-sec-0004"><label>2.2</label><title>Induction of LPS&#x02010;induced cystitis</title><p>Rats were anesthetized with 2% isoflurane (Pfizer Inc). A PE&#x02010;50 polyethylene tube (Becton Dickinson) was inserted into the bladder via the urethra to empty the bladder, and 0.5&#x000a0;mL of LPS (<italic>E</italic>.<italic>&#x000a0;coli</italic> O55:B5, Sigma&#x02010;Aldrich) at 1&#x000a0;mg/mL in sterilized saline was infused intravesically and remained in the bladder for 30&#x000a0;min. After the LPS exposure period, the bladder was rinsed once with saline and allowed to drain freely from the open catheter end. Chronic cystitis was induced by intravesical LPS performed every 24&#x000a0;hours for 4&#x000a0;days in the same manner. The control group rats received 0.5&#x000a0;mL of saline into the bladder.</p></sec><sec id="prp2697-sec-0005"><label>2.3</label><title>Histology</title><p>The bladders were fixed in 4% paraformaldehyde at 7, 14, and 21&#x000a0;days after the first LPS injection. The bladders of the control rats were collected 7&#x000a0;days after the first saline injection. Tissues were frozen and cut on a cryostat at 5&#x02010;&#x003bc;m thickness, and then stained with hematoxylin and eosin (H&#x00026;E) and Masson's trichrome staining for the histology of inflammatory cell infiltration and fibrosis, respectively. Gross histologic observations were performed using a microscope system (BZ&#x02010;X800; Keyence).</p></sec><sec id="prp2697-sec-0006"><label>2.4</label><title>Drugs and administration</title><p>For oral administration, GBP (Tokyo Chemical Industry) was dissolved in distilled water and administered using a feeding tube (30&#x02010;300&#x000a0;mg/6&#x000a0;mL per kg). For intravenous administration, GBP was dissolved in sterilized saline and injected (10&#x02010;300&#x000a0;mg/3&#x000a0;mL per kg) at the rate of 1.2&#x000a0;mL/h.</p></sec><sec id="prp2697-sec-0007"><label>2.5</label><title>Behavioral studies</title><p>Hypersensitivity response to the lower abdomen and hind paw was assessed using calibrated von Frey filaments (Danmic Global, LLC). Rats were placed individually in a small acrylic cage with a wire mesh floor and acclimated to the experimental environment for 1&#x000a0;hour. In the abdominal stimulation, eight von Frey filaments exerting from 2&#x000a0;g to 60&#x000a0;g were used to assess the pain threshold. Tactile sensitivity of the region between the anus and urethral opening was assessed by applying the filaments perpendicularly to the surface of the skin. To prevent the wind&#x02010;up effects of desensitization, repeated stimulation of the same location was avoided. Behaviors considered as positive response to filament stimulation were sharp retraction of the abdomen, immediate licking or scratching of the area of filament stimulation, and jumping. For the hind paw stimulation, eight von Frey filaments exerting 0.6&#x02010;26&#x000a0;g were used to assess the pain threshold. Filaments were applied to the plantar surface of the hind paw, and a brisk paw withdrawal was considered as the positive response. Withdrawal threshold was determined using an up&#x02010;down statistical method.<xref rid="prp2697-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref>
+</p></sec><sec id="prp2697-sec-0008"><label>2.6</label><title>Cystometric studies</title><p>Cystometry was performed as we had reported previously.<xref rid="prp2697-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> Rats were anesthetized using 2% isoflurane, and a midline abdominal incision was made to expose the bladder. A PE&#x02010;50 polyethylene tube with a fire&#x02010;flared tip was implanted into the bladder dome for bladder filling and pressure recording 2&#x000a0;days before the experiments. A PE&#x02010;10 polyethylene tube (Natsume Seisakusho) was inserted into the right jugular vein for intravenous drug administration. After surgery, rats were placed in a Ballman restraining cage (Natsume Seisakusho) and were allowed to recover from anesthesia for 1&#x000a0;hour. Physiological saline was infused at room temperature (22&#x02010;24&#x02103;) into the bladder at a rate of 2.4&#x000a0;mL/h. Intravesical pressure was recorded using a force transducer, quad bridge amplifier FE224 (ADInstruments), and PowerLab data&#x02010;acquisition system with LabChart Pro (ADInstruments). During the course of saline infusion, before drug administration, three voiding cycles were recorded as the control values, and each parameter was averaged.</p></sec><sec id="prp2697-sec-0009"><label>2.7</label><title>Statistics</title><p>Data were presented as the means&#x000a0;&#x000b1;&#x000a0;SEM. Differences in the withdrawal threshold between the groups were analyzed using one&#x02010; or two&#x02010;way analysis of variance followed by either the Dunnett's test or Bonferroni test. The commercial software GraphPad Prism version 7 (GraphPad Software) was used to calculate statistical significance. <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 was considered significant. A parametric test (unpaired <italic>t</italic>&#x02010;test) was used to test for differences in the cystometric variables between the two groups.</p></sec><sec id="prp2697-sec-0010"><label>2.8</label><title>Nomenclature of targets and ligands</title><p>Key protein targets and ligands in this article are hyperlinked to corresponding entries in <ext-link ext-link-type="uri" xlink:href="http://www.guidetopharmacology.org">http://www.guidetopharmacology.org</ext-link>, the common portal for data from the IUPHAR/BPS Guide to PHARMACOLOGY (Harding et al, 2018),<xref rid="prp2697-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref> and are permanently archived in the Concise Guide to PHARMACOLOGY 2019/20: Ion channels (Alexander et al, 2019).<xref rid="prp2697-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>
+</p></sec></sec><sec sec-type="results" id="prp2697-sec-0011"><label>3</label><title>RESULTS</title><sec id="prp2697-sec-0012"><label>3.1</label><title>Bladder histology</title><p>Chronic inflammation induced from repeated intravesical administrations of LPS was observed even 21&#x000a0;days after the first injection (Figure&#x000a0;<xref rid="prp2697-fig-0001" ref-type="fig">1</xref>). In the H&#x00026;E histological examination, LPS&#x02010;induced cystitis presented a mixed inflammatory cell infiltrate, predominantly comprised of macrophages and lymphocytes, increased numbers of urothelial cells, and abnormally thick re&#x02010;epithelialization compared with saline&#x02010;injected rats (control group) (Figure&#x000a0;<xref rid="prp2697-fig-0001" ref-type="fig">1A</xref>). Masson's trichrome staining in the LPS&#x02010;injected group showed an increase in bladder tissue fibrosis, indicated by the blue coloring, compared with the control group (Figure&#x000a0;<xref rid="prp2697-fig-0001" ref-type="fig">1B</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="prp2697-fig-0001" orientation="portrait" position="float"><label>FIGURE 1</label><caption><p>Histological findings of LPS&#x02010;induced chronic bladder inflammation. The bladders of rats were instilled with saline or LPS in saline (1&#x000a0;mg/mL) at every 24&#x000a0;hour for 4&#x000a0;days. At 7, 14, and 21&#x000a0;days after the first LPS injection, the bladders were collected and processed for histological hematoxylin and eosin (H&#x00026;E) and Masson's trichrome staining. The bladders from the control rats were collected at 7&#x000a0;days after the first saline injection. A, In the H&#x00026;E staining, LPS&#x02010;induced cystitis showed inflammatory cell infiltration and urothelial hyperplasia. B, LPS&#x02010;induced cystitis showed accumulation of fibrous tissue in the submucosal layer by Masson's trichrome staining. Magnification &#x000d7;20, scale bar&#x000a0;=&#x000a0;100&#x000a0;&#x003bc;m</p></caption><graphic id="nlm-graphic-3" xlink:href="PRP2-9-e00697-g001"/></fig></sec><sec id="prp2697-sec-0013"><label>3.2</label><title>LPS&#x02010;induced bladder pain&#x02010;related behavior</title><p>At first, chronic cystitis due to repeated intravesical exposures to LPS was observed to induce persistent pain in rats (Figure&#x000a0;<xref rid="prp2697-fig-0002" ref-type="fig">2</xref>). Compared with saline&#x02010;injected rats, the withdrawal thresholds in the abdomen (Figure&#x000a0;<xref rid="prp2697-fig-0002" ref-type="fig">2A</xref>) and the hind paw (Figure&#x000a0;<xref rid="prp2697-fig-0002" ref-type="fig">2B</xref>) were significantly reduced beginning at day 1 following the first injection of LPS and persisted until day 21 at least. The difference in body weight between the two groups was not significant (data not shown).</p><fig fig-type="FIGURE" xml:lang="en" id="prp2697-fig-0002" orientation="portrait" position="float"><label>FIGURE 2</label><caption><p>The time course of the mechanical threshold in chronic cystitis induced by repeated LPS in rats. The bladders of rats were instilled with saline or LPS in saline (1&#x000a0;mg/mL) at every 24&#x000a0;hours for 4&#x000a0;days. The von Frey filaments were applied to (A) the abdominal area close to the urinary bladder and (B) the plantar surface of the hind paw. The mechanical withdrawal threshold is presented over time. Each point represents the means&#x000a0;&#x000b1;&#x000a0;SEM for eight rats. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs saline. <sup>##</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.01 vs pre values</p></caption><graphic id="nlm-graphic-5" xlink:href="PRP2-9-e00697-g002"/></fig></sec><sec id="prp2697-sec-0014"><label>3.3</label><title>LPS&#x02010;induced increased bladder excitability</title><p>Representative traces of the cystometrograms obtained after repeated intravesical instillation of saline and LPS are shown in Figure&#x000a0;<xref rid="prp2697-fig-0003" ref-type="fig">3A</xref> and <xref rid="prp2697-fig-0003" ref-type="fig">B</xref>, respectively. In the control group, during saline infusion, the intercontraction interval (ICI) and maximum voiding pressure (MVP) (n&#x000a0;=&#x000a0;7) were 33.9&#x000a0;&#x000b1;&#x000a0;3.5&#x000a0;minutes and 33.8&#x000a0;&#x000b1;&#x000a0;4.3&#x000a0;cmH<sub>2</sub>O, respectively (Figure&#x000a0;<xref rid="prp2697-fig-0003" ref-type="fig">3C</xref> and <xref rid="prp2697-fig-0003" ref-type="fig">D</xref>). The LPS&#x02010;injected group had shorter ICI by 49.3% at 7&#x000a0;days (<italic>P</italic>&#x000a0;=&#x000a0;.0004, n&#x000a0;=&#x000a0;7), 57.3% at 14&#x000a0;days (<italic>P</italic>&#x000a0;=&#x000a0;.0001, n&#x000a0;=&#x000a0;6), and 49.9% at 21&#x000a0;days (<italic>P</italic>&#x000a0;=&#x000a0;.0005, n&#x000a0;=&#x000a0;6) after the first LPS injection compared with the control group (Figure&#x000a0;<xref rid="prp2697-fig-0003" ref-type="fig">3C</xref>). The MVP of the LPS&#x02010;injected group was slightly lower than that of the control group, although this was not significantly different (Figure&#x000a0;<xref rid="prp2697-fig-0003" ref-type="fig">3D</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="prp2697-fig-0003" orientation="portrait" position="float"><label>FIGURE 3</label><caption><p>Representative continuous cystometrogram tracings from (A) control and (B) LPS&#x02010;injected group in conscious rats. Changes in the (C) intercontraction interval (ICI) and (D) the maximal voiding pressure (MVP) in control and LPS&#x02010;injected groups. Each point represents the means&#x000a0;&#x000b1;&#x000a0;SEM in 6&#x02010;7 rats. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs control</p></caption><graphic id="nlm-graphic-7" xlink:href="PRP2-9-e00697-g003"/></fig></sec><sec id="prp2697-sec-0015"><label>3.4</label><title>Effect of GBP on bladder pain&#x02010;related behavior in LPS&#x02010;induced cystitis</title><p>The analgesic effect of GBP on cystitis&#x02010;related mechanical hyperalgesic behavior was tested at 7&#x000a0;days after the first LPS injection. Orally administered GBP (30&#x02010;300&#x000a0;mg/kg) suppressed mechanical hyperalgesia in the abdomen and the hind paw, evoked by LPS, in a dose&#x02010;dependent manner (Figure&#x000a0;<xref rid="prp2697-fig-0004" ref-type="fig">4</xref>). In the abdomen (Figure&#x000a0;<xref rid="prp2697-fig-0004" ref-type="fig">4A</xref>), oral GBP showed significant analgesic effects in doses of 100 and 300&#x000a0;mg/kg compared with that of the vehicle. In the hind paw (Figure&#x000a0;<xref rid="prp2697-fig-0004" ref-type="fig">4B</xref>), oral GBP showed significant analgesic effects from 30 to 300&#x000a0;mg/kg compared with that of the vehicle. The peak effect of oral GBP was observed 2&#x02010;4&#x000a0;h after administration.</p><fig fig-type="FIGURE" xml:lang="en" id="prp2697-fig-0004" orientation="portrait" position="float"><label>FIGURE 4</label><caption><p>Effect of orally administered GBP on chronic cystitis&#x02010;related pain caused by LPS in rats. The von Frey filaments were applied to (A) the lower abdominal area close to the urinary bladder and (B) the plantar surface of the hind paw. At 7&#x000a0;days after the first intravesical injection of LPS (time 0), the rats were administered with GBP [30&#x02010;300&#x000a0;mg/kg, oral (p.o.)]. Values were obtained before the first LPS injection. The mechanical withdrawal threshold is presented over time. Each point represents the means&#x000a0;&#x000b1;&#x000a0;SEM for eight rats. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs vehicle (VEH). <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, <sup>##</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs time 0</p></caption><graphic id="nlm-graphic-9" xlink:href="PRP2-9-e00697-g004"/></fig></sec><sec id="prp2697-sec-0016"><label>3.5</label><title>Effect of GBP on bladder overactivity in LPS&#x02010;induced cystitis</title><p>To test the therapeutic effect of GBP on overactive bladder symptoms, the effect of GBP on bladder overactivity was examined 7&#x000a0;days after the first LPS injection. In both the control and LPS&#x02010;injected groups, intravenous administration of GBP (10&#x02010;300&#x000a0;mg/kg) caused a dose&#x02010;dependent prolongation of ICI (Figures&#x000a0;<xref rid="prp2697-fig-0005" ref-type="fig">5</xref>, <xref rid="prp2697-fig-0006" ref-type="fig">6</xref>, <xref rid="prp2697-fig-0007" ref-type="fig">7</xref>) without changing the MVP (Figures&#x000a0;<xref rid="prp2697-fig-0005" ref-type="fig">5</xref>, <xref rid="prp2697-fig-0006" ref-type="fig">6</xref>, <xref rid="prp2697-fig-0007" ref-type="fig">7</xref>). In the control group, intravenously administered GBP significantly prolonged ICI at a dose of 300&#x000a0;mg/kg compared with that of the vehicle (<italic>P</italic>&#x000a0;=&#x000a0;.0045, n&#x000a0;=&#x000a0;5, Figure&#x000a0;<xref rid="prp2697-fig-0007" ref-type="fig">7A</xref>). In the LPS&#x02010;injected group, intravenously administered GBP significantly prolonged ICI in doses of 30 and 100&#x000a0;mg/kg compared with that of the vehicle (<italic>P</italic>&#x000a0;=&#x000a0;.0271, n&#x000a0;=&#x000a0;6 and <italic>P</italic>&#x000a0;=&#x000a0;.0005, n&#x000a0;=&#x000a0;6, respectively; Figure&#x000a0;<xref rid="prp2697-fig-0007" ref-type="fig">7A</xref>). The prolongation of ICI due to GBP (30 and 100&#x000a0;mg/kg) in the LPS&#x02010;injected group was significantly higher than that of the control group (<italic>P</italic>&#x000a0;=&#x000a0;.0156 and <italic>P</italic>&#x000a0;=&#x000a0;.0161, respectively; Figure&#x000a0;<xref rid="prp2697-fig-0007" ref-type="fig">7A</xref>). In both groups, intravenous administration of GBP did not affect the MVP (Figure&#x000a0;<xref rid="prp2697-fig-0007" ref-type="fig">7B</xref>).</p><fig fig-type="FIGURE" xml:lang="en" id="prp2697-fig-0005" orientation="portrait" position="float"><label>FIGURE 5</label><caption><p>Representative continuous cystometrogram traces showing the effect of intravenous administration of GBP on the control group in conscious rats. Arrow indicates the timing of drug administration. VEH, vehicle</p></caption><graphic id="nlm-graphic-11" xlink:href="PRP2-9-e00697-g005"/></fig><fig fig-type="FIGURE" xml:lang="en" id="prp2697-fig-0006" orientation="portrait" position="float"><label>FIGURE 6</label><caption><p>Representative continuous cystometrogram traces showing the effect of intravenous administration of GBP on LPS&#x02010;injected group in conscious rats. Arrow indicates the timing of drug administration. VEH, vehicle</p></caption><graphic id="nlm-graphic-13" xlink:href="PRP2-9-e00697-g006"/></fig><fig fig-type="FIGURE" xml:lang="en" id="prp2697-fig-0007" orientation="portrait" position="float"><label>FIGURE 7</label><caption><p>Effect of intravenously administered GBP on the (A) intercontraction interval (ICI) and (B) the maximal voiding pressure (MVP) in the control and LPS&#x02010;injected groups in conscious rats. At 7&#x000a0;days after the first intravesical injection of saline or LPS, rats were administered with GBP [10&#x02010;300&#x000a0;mg/kg, intravenous (iv)]. Responses are represented as % change, where the baseline response before administration is defined as 100%. Each point represents the means&#x000a0;&#x000b1;&#x000a0;SEM in 5&#x02010;6 animals. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs vehicle (VEH). <sup>#</sup>
+<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05 vs the values between the two groups at intravenous administration of 30 and 100&#x000a0;mg/kg GBP (unpaired <italic>t</italic>&#x02010;test)</p></caption><graphic id="nlm-graphic-15" xlink:href="PRP2-9-e00697-g007"/></fig></sec></sec><sec sec-type="discussion" id="prp2697-sec-0017"><label>4</label><title>DISCUSSION</title><p>The clinical symptoms related to IC/BPS include urinary frequency, urgency, nocturia, and pain in the lower abdomen and pelvic regions; however, its response to current therapies and drugs is poor.<xref rid="prp2697-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> IC/BPS is one of the refractory syndromes and its evaluation in animal models that can imitate the clinical aspects of the syndrome in humans is essential for therapeutic development. Therefore, we created a chronic cystitis model in rats, which demonstrated a long&#x02010;lasting bladder inflammation, pain, and overactivity via repeated intravesical instillation of LPS. Additionally, the current study demonstrated that GBP, a drug used to treat chronic neuropathic pain, reduced bladder pain&#x02010;related behavior and overactivity in this chronic cystitis rat model.</p><p>
+<ext-link ext-link-type="uri" xlink:href="https://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=7154">Cyclophosphamide (CPA)</ext-link> is most commonly used in rodents for developing an experimental acute and/or chronic model for IC/BPS.<xref rid="prp2697-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref>, <xref rid="prp2697-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="prp2697-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref>, <xref rid="prp2697-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="prp2697-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> However, CPA&#x02010;induced chronic models lead to deleterious effects, such as strong body weight loss associated with high mortality.<xref rid="prp2697-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="prp2697-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref> Adjusting CPA doses can reduce weight loss and mortality but CPA&#x02010;induced visceral pain does not appear sustained over long&#x02010;term CPA induction.<xref rid="prp2697-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref> LPS is an endotoxin that elicits inflammatory responses, and is used in various animal models of inflammation, including lower urinary tract infections. Similar to our study, previous studies in rodents have shown that intravesical LPS&#x02010;induced bladder inflammation, characterized by edema and leukocytic infiltration,<xref rid="prp2697-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="prp2697-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> caused bladder pain and micturition dysfunction, which are typical symptoms seen in patients with IC/BPS.<xref rid="prp2697-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref>, <xref rid="prp2697-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>, <xref rid="prp2697-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref> In fact, clinical reports have considered a high proportion of women having urinary tract infections at IC/BPS onset, and urinary tract infections resulting in the initiation of IC/BPS in some patients.<xref rid="prp2697-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref> The current study revealed chronic inflammation and bladder remodeling, including urothelial hyperplasia and prominent fibrosis, due to increased frequency of intravesical LPS instillation, consistent with studies in a chronic cystitis model induced by double instillation of protamine sulfate and LPS for 5&#x000a0;weeks.<xref rid="prp2697-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref> Although chronic cystitis models developed by injections of protamine sulfate and LPS once weekly for 5&#x000a0;weeks require long&#x02010;term manipulation, based on our observations, the LPS&#x02010;induced chronic cystitis rat model developed by a relatively simple method also demonstrated sustained pain and bladder overactivity. Furthermore, in our protocol, no severe body weight loss occurred.</p><p>Intravesical instillation of LPS induces the accumulation of inflammatory factors in the bladder, such as tumor necrosis factor&#x02010;&#x003b1;, interleukin&#x02010;1&#x003b2; (IL&#x02010;1&#x003b2;), and nerve growth factor, that cause sensitization of the afferent nerves.<xref rid="prp2697-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref>, <xref rid="prp2697-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> Other studies have reported that inflammatory factors, including IL&#x02010;1&#x003b2; and several growth factors, result in bladder remodeling in the bladder outlet obstruction (BOO) model.<xref rid="prp2697-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref>, <xref rid="prp2697-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref> Therefore, the current findings suggest that continuous inflammation of the bladder with LPS could increase the hypersensitivity of the afferent nerves and induce bladder remodeling, leading to long&#x02010;lasting bladder pain and overactivity.</p><p>GBP has been used as an effective analgesic for neuropathic pain, and its mechanisms of analgesic effect have been extensively studied. The current study demonstrated that GBP not only reduced bladder pain, one of the refractory pains, but also markedly reduced bladder overactivity in LPS&#x02010;induced chronic cystitis rats. Accordingly, GBP has been shown to be useful in overactive bladder as well as in bladder pain. GBP has a high affinity for the &#x003b1;<sub>2</sub>&#x003b4; subunit of the voltage&#x02010;gated Ca<sup>2+</sup> channels (particularly the N&#x02010;type and L&#x02010;type),<xref rid="prp2697-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="prp2697-bib-0044" ref-type="ref">
+<sup>44</sup>
+</xref> and specific binding to this subunit is crucial for analgesic effects.<xref rid="prp2697-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref>, <xref rid="prp2697-bib-0045" ref-type="ref">
+<sup>45</sup>
+</xref> As spinal plasticity and sensitization, including upregulated &#x003b1;<sub>2</sub>&#x003b4; subunits, play pivotal roles in pain amplification after peripheral nerve injury and inflammation,<xref rid="prp2697-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> showing temporal correlation between &#x003b1;<sub>2</sub>&#x003b4; subunit upregulation in dorsal root ganglia and allodynia,<xref rid="prp2697-bib-0046" ref-type="ref">
+<sup>46</sup>
+</xref>, <xref rid="prp2697-bib-0047" ref-type="ref">
+<sup>47</sup>
+</xref> most studies have focused on the peripheral afferents and spinal cord. In fact, animal models of bladder inflammation and BOO induce the upregulation of L&#x02010;, N&#x02010;, and T&#x02010;type Ca<sup>2+</sup> channels in the bladder and spinal dorsal horn, which can result in hypersensitivity of the bladder.<xref rid="prp2697-bib-0048" ref-type="ref">
+<sup>48</sup>
+</xref> In the current study, GBP inhibited bladder overactivity in LPS&#x02010;induced cystitis rats, but its inhibitory effect was poor in the control rats. This is consistent with previous reports that suggested a lack of effect in the absence of hypersensitivity.<xref rid="prp2697-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref>, <xref rid="prp2697-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> This has been emphasized by a study that demonstrated GBP to specifically inhibit Ca<sup>2+</sup> currents in transgenic mice that overexpressed the &#x003b1;<sub>2</sub>&#x003b4;&#x02010;1 subunits, but did not affect the wild&#x02010;type mice.<xref rid="prp2697-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref>
+</p><p>Furthermore, GBP may produce pain attenuating effects by acting on the supraspinal regions to stimulate bulbospinal descending inhibition and alleviate neuropathic pain.<xref rid="prp2697-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref>, <xref rid="prp2697-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> GBP, both systemically administered in vivo and locally applied to isolated brainstem slices in vitro, activated noradrenergic neurons in the LC.<xref rid="prp2697-bib-0049" ref-type="ref">
+<sup>49</sup>
+</xref> We and others have previously demonstrated that GBP reduces GABAergic activity in the LC by an interaction with the &#x003b1;<sub>2</sub>&#x003b4; subunits, thereby increasing the activation of the descending pain inhibitory pathway to the spinal cord.<xref rid="prp2697-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref>, <xref rid="prp2697-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> Interestingly, however, some &#x003b1;<sub>2</sub>&#x003b4; subunit ligands, including 3&#x02010;exo&#x02010;aminobicyclo [2.2.1] heptane&#x02010;2&#x02010;exo&#x02010;carboxylic acid (ABHCA), fail to produce behavioral analgesia, indicating the involvement of additional mechanisms.<xref rid="prp2697-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> We have previously demonstrated that GBP activates glutamate transporters and thereby facilitates glutamate&#x02010;induced glutamate release in cultured astrocytes, while ABHCA do not.<xref rid="prp2697-bib-0050" ref-type="ref">
+<sup>50</sup>
+</xref> An in vivo study also showed that GBP increased extracellular glutamate in the LC by astroglial glutamate transporter&#x02010;mediated mechanisms to stimulate descending inhibition aside from &#x003b1;<sub>2</sub>&#x003b4; subunits in neurons.<xref rid="prp2697-bib-0051" ref-type="ref">
+<sup>51</sup>
+</xref> Thus, the antinociceptive effect of GBP is not solely responsible for the &#x003b1;<sub>2</sub>&#x003b4; subunit, and the mechanism of action has not yet been definitively established.</p><p>In the micturition reflex, Barrington's nucleus (Bar; also known as the pontine micturition center), located rostral and ventromedial to the LC, has been identified as the major brain center regulating urination.<xref rid="prp2697-bib-0052" ref-type="ref">
+<sup>52</sup>
+</xref>, <xref rid="prp2697-bib-0053" ref-type="ref">
+<sup>53</sup>
+</xref>, <xref rid="prp2697-bib-0054" ref-type="ref">
+<sup>54</sup>
+</xref> The majority of neurons in Bar express a reporter for corticotropin&#x02010;releasing hormone (CRH)<xref rid="prp2697-bib-0055" ref-type="ref">
+<sup>55</sup>
+</xref>, <xref rid="prp2697-bib-0056" ref-type="ref">
+<sup>56</sup>
+</xref>, <xref rid="prp2697-bib-0057" ref-type="ref">
+<sup>57</sup>
+</xref>, <xref rid="prp2697-bib-0058" ref-type="ref">
+<sup>58</sup>
+</xref> co&#x02010;innervate spinal preganglionic neurons that control the bladder,<xref rid="prp2697-bib-0059" ref-type="ref">
+<sup>59</sup>
+</xref>, <xref rid="prp2697-bib-0060" ref-type="ref">
+<sup>60</sup>
+</xref> and LC neurons that provide noradrenaline innervation throughout the brain.<xref rid="prp2697-bib-0060" ref-type="ref">
+<sup>60</sup>
+</xref>, <xref rid="prp2697-bib-0061" ref-type="ref">
+<sup>61</sup>
+</xref> Furthermore, at least five separate population of neurons, including GABAergic and LC neurons, are located around Bar neurons.<xref rid="prp2697-bib-0057" ref-type="ref">
+<sup>57</sup>
+</xref> Since increased CRH expression in and around Bar has been reported to prolong the ICI in rodents,<xref rid="prp2697-bib-0062" ref-type="ref">
+<sup>62</sup>
+</xref>, <xref rid="prp2697-bib-0063" ref-type="ref">
+<sup>63</sup>
+</xref>, <xref rid="prp2697-bib-0064" ref-type="ref">
+<sup>64</sup>
+</xref> increased CRH may have an inhibitory effect on the micturition reflex.<xref rid="prp2697-bib-0065" ref-type="ref">
+<sup>65</sup>
+</xref> Furthermore, noradrenaline derived from the LC acts on the &#x003b1;<sub>1</sub>&#x02010;adrenergic receptors in the lumbosacral cord, and appears to contribute to the excitatory and inhibitory responses of the micturition reflex via the glutamatergic and glycinergic/GABAergic neurons in the spinal region.<xref rid="prp2697-bib-0066" ref-type="ref">
+<sup>66</sup>
+</xref> However, the exact central mechanisms by which GBP inhibits the micturition reflex in animal models of cystitis are still unknown. Further studies are ongoing at our laboratory to dissect the mechanisms of GBP to ameliorate both bladder pain and overactivity.</p><p>In summary, repeated intravesical injection of LPS induces consistent, reproducible inflammatory response and bladder remodeling including urothelial hyperplasia and prominent fibrosis in rats. This model maintained long&#x02010;lasting painful bladder hypersensitivity. The current study demonstrated that GBP inhibits not only bladder pain, but also bladder overactivity in LPS&#x02010;induced chronic cystitis rats. The LPS&#x02010;induced chronic cystitis model may be a simple and useful tool in the pathological and pharmacological study for chronic cystitis, such as IC/BPS, and given the clinical availability and established safety profiles, gabapentinoids, including GBP, are considered available as therapeutic drugs for the treatment of IC/BPS.</p></sec><sec sec-type="COI-statement" id="prp2697-sec-0019"><title>DISCLOSURE</title><p>The authors have no conflict of interest to declare.</p></sec><sec id="prp2697-sec-0020"><title>AUTHORS CONTRIBUTIONS</title><p>Participated in research design: Yoshizumi and Mizoguchi.</p><p>Conducted experiments: Yoshizumi.</p><p>Performed data analysis: Yoshizumi.</p><p>Wrote or contributed to the writing of the manuscript: Yoshizumi, Watanabe, and Mizoguchi.</p></sec></body><back><ack id="prp2697-sec-0018"><title>ACKNOWLEDGMENT</title><p>This work was supported in part by JSPS KAKENHI grant number 17K15792 to MY.</p></ack><sec sec-type="data-availability" id="prp2697-sec-0022"><title>DATA AVAILABILITY STATEMENT</title><p>Additional information and requests for data should be directed to the corresponding author, Masaru Yoshizumi. Please contact <email>yoshizumi@tohoku-mpu.ac.jp</email>.</p></sec><ref-list content-type="cited-references" id="prp2697-bibl-0001"><title>REFERENCES</title><ref id="prp2697-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="prp2697-cit-0001">
+<string-name>
+<surname>Chancellor</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Yoshimura</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Treatment of interstitial cystitis</article-title>. <source xml:lang="en">Urology</source>. <year>2004</year>;<volume>63</volume>:<fpage>85</fpage>&#x02010;<lpage>92</lpage>.<pub-id pub-id-type="pmid">15013658</pub-id></mixed-citation></ref><ref id="prp2697-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="prp2697-cit-0002">
+<string-name>
+<surname>Hanno</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Erickson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Moldwin</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Faraday</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>American</surname>
+<given-names>UA</given-names>
+</string-name>. <article-title>Diagnosis and treatment of interstitial cystitis/bladder pain syndrome: AUA guideline amendment</article-title>. <source xml:lang="en">J Urol</source>. <year>2015</year>;<volume>193</volume>:<fpage>1545</fpage>&#x02010;<lpage>1553</lpage>.<pub-id pub-id-type="pmid">25623737</pub-id></mixed-citation></ref><ref id="prp2697-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="prp2697-cit-0003">
+<string-name>
+<surname>Clemens</surname>
+<given-names>JQ</given-names>
+</string-name>, <string-name>
+<surname>Link</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Eggers</surname>
+<given-names>PW</given-names>
+</string-name>, et al. <article-title>Prevalence of painful bladder symptoms and effect on quality of life in black, Hispanic and white men and women</article-title>. <source xml:lang="en">J Urol</source>. <year>2007</year>;<volume>177</volume>:<fpage>1390</fpage>&#x02010;<lpage>1394</lpage>.<pub-id pub-id-type="pmid">17382739</pub-id></mixed-citation></ref><ref id="prp2697-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="prp2697-cit-0004">
+<string-name>
+<surname>Berry</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Elliott</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Suttorp</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Prevalence of symptoms of bladder pain syndrome/interstitial cystitis among adult females in the United States</article-title>. <source xml:lang="en">J Urol</source>. <year>2011</year>;<volume>186</volume>:<fpage>540</fpage>&#x02010;<lpage>544</lpage>.<pub-id pub-id-type="pmid">21683389</pub-id></mixed-citation></ref><ref id="prp2697-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="prp2697-cit-0005">
+<string-name>
+<surname>Watson</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Notley</surname>
+<given-names>RG</given-names>
+</string-name>. <article-title>Urological complications of cyclophosphamide</article-title>. <source xml:lang="en">Br J Urol</source>. <year>1973</year>;<volume>45</volume>:<fpage>606</fpage>&#x02010;<lpage>609</lpage>.<pub-id pub-id-type="pmid">4775738</pub-id></mixed-citation></ref><ref id="prp2697-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="prp2697-cit-0006">
+<string-name>
+<surname>Cox</surname>
+<given-names>PJ</given-names>
+</string-name>. <article-title>Cyclophosphamide cystitis&#x02013;identification of acrolein as the causative agent</article-title>. <source xml:lang="en">Biochem Pharmacol</source>. <year>1979</year>;<volume>28</volume>:<fpage>2045</fpage>&#x02010;<lpage>2049</lpage>.<pub-id pub-id-type="pmid">475846</pub-id></mixed-citation></ref><ref id="prp2697-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="prp2697-cit-0007">
+<string-name>
+<surname>Stein</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Pham</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ito</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Parsons</surname>
+<given-names>CL</given-names>
+</string-name>. <article-title>Bladder injury model induced in rats by exposure to protamine sulfate followed by bacterial endotoxin</article-title>. <source xml:lang="en">J Urol</source>. <year>1996</year>;<volume>155</volume>:<fpage>1133</fpage>&#x02010;<lpage>1138</lpage>.<pub-id pub-id-type="pmid">8583579</pub-id></mixed-citation></ref><ref id="prp2697-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="prp2697-cit-0008">
+<string-name>
+<surname>Olivar</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Laird</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Cyclophosphamide cystitis in mice: behavioural characterisation and correlation with bladder inflammation</article-title>. <source xml:lang="en">Eur J Pain</source>. <year>1999</year>;<volume>3</volume>:<fpage>141</fpage>&#x02010;<lpage>149</lpage>.<pub-id pub-id-type="pmid">10700343</pub-id></mixed-citation></ref><ref id="prp2697-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="prp2697-cit-0009">
+<string-name>
+<surname>Boucher</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Meen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Codron</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Coudore</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Kemeny</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Eschalier</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Cyclophosphamide&#x02010;induced cystitis in freely&#x02010;moving conscious rats: behavioral approach to a new model of visceral pain</article-title>. <source xml:lang="en">J Urol</source>. <year>2000</year>;<volume>164</volume>:<fpage>203</fpage>&#x02010;<lpage>208</lpage>.<pub-id pub-id-type="pmid">10840460</pub-id></mixed-citation></ref><ref id="prp2697-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="prp2697-cit-0010">
+<string-name>
+<surname>Bjorling</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Blum</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <article-title>Intravesical Escherichia coli lipopolysaccharide stimulates an increase in bladder nerve growth factor</article-title>. <source xml:lang="en">BJU Int</source>. <year>2001</year>;<volume>87</volume>:<fpage>697</fpage>&#x02010;<lpage>702</lpage>.<pub-id pub-id-type="pmid">11350415</pub-id></mixed-citation></ref><ref id="prp2697-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="prp2697-cit-0011">
+<string-name>
+<surname>Guerios</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>ZY</given-names>
+</string-name>, <string-name>
+<surname>Bjorling</surname>
+<given-names>DE</given-names>
+</string-name>. <article-title>Nerve growth factor mediates peripheral mechanical hypersensitivity that accompanies experimental cystitis in mice</article-title>. <source xml:lang="en">Neurosci Lett</source>. <year>2006</year>;<volume>392</volume>:<fpage>193</fpage>&#x02010;<lpage>197</lpage>.<pub-id pub-id-type="pmid">16203088</pub-id></mixed-citation></ref><ref id="prp2697-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="prp2697-cit-0012">
+<string-name>
+<surname>Raetz</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Whitfield</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Lipopolysaccharide endotoxins</article-title>. <source xml:lang="en">Annu Rev Biochem</source>. <year>2002</year>;<volume>71</volume>:<fpage>635</fpage>&#x02010;<lpage>700</lpage>.<pub-id pub-id-type="pmid">12045108</pub-id></mixed-citation></ref><ref id="prp2697-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="prp2697-cit-0013">
+<string-name>
+<surname>Saban</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Nguyen</surname>
+<given-names>NB</given-names>
+</string-name>, <string-name>
+<surname>Hammond</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Saban</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Gene expression profiling of mouse bladder inflammatory responses to LPS, substance P, and antigen&#x02010;stimulation</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>2002</year>;<volume>160</volume>:<fpage>2095</fpage>&#x02010;<lpage>2110</lpage>.<pub-id pub-id-type="pmid">12057914</pub-id></mixed-citation></ref><ref id="prp2697-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="prp2697-cit-0014">
+<string-name>
+<surname>Lee</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>SW</given-names>
+</string-name>, et al. <article-title>Alterations of macrophage migration inhibitory factor expression in the nervous system of the rat cystitis model</article-title>. <source xml:lang="en">Urol Int</source>. <year>2017</year>;<volume>98</volume>:<fpage>228</fpage>&#x02010;<lpage>235</lpage>.<pub-id pub-id-type="pmid">28161708</pub-id></mixed-citation></ref><ref id="prp2697-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="prp2697-cit-0015">
+<string-name>
+<surname>Kogan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Sub&#x02010;noxious intravesical lipopolysaccharide triggers bladder inflammation and symptom onset in A transgenic autoimmune cystitis model: a MAPP Network Animal Study</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2018</year>;<volume>8</volume>:<fpage>6573</fpage>.<pub-id pub-id-type="pmid">29700406</pub-id></mixed-citation></ref><ref id="prp2697-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="prp2697-cit-0016">
+<string-name>
+<surname>Pan</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Eisenach</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Gabapentin suppresses ectopic nerve discharges and reverses allodynia in neuropathic rats</article-title>. <source xml:lang="en">J Pharmacol Exp Ther</source>. <year>1999</year>;<volume>288</volume>:<fpage>1026</fpage>&#x02010;<lpage>1030</lpage>.<pub-id pub-id-type="pmid">10027839</pub-id></mixed-citation></ref><ref id="prp2697-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="prp2697-cit-0017">
+<string-name>
+<surname>Luo</surname>
+<given-names>ZD</given-names>
+</string-name>, <string-name>
+<surname>Calcutt</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Higuera</surname>
+<given-names>ES</given-names>
+</string-name>, et al. <article-title>Injury type&#x02010;specific calcium channel alpha 2 delta&#x02010;1 subunit up&#x02010;regulation in rat neuropathic pain models correlates with antiallodynic effects of gabapentin</article-title>. <source xml:lang="en">J Pharmacol Exp Ther</source>. <year>2002</year>;<volume>303</volume>:<fpage>1199</fpage>&#x02010;<lpage>1205</lpage>.<pub-id pub-id-type="pmid">12438544</pub-id></mixed-citation></ref><ref id="prp2697-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="prp2697-cit-0018">
+<string-name>
+<surname>Tanabe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Takasu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kasuya</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Honda</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ono</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Role of descending noradrenergic system and spinal alpha2&#x02010;adrenergic receptors in the effects of gabapentin on thermal and mechanical nociception after partial nerve injury in the mouse</article-title>. <source xml:lang="en">Br J Pharmacol</source>. <year>2005</year>;<volume>144</volume>:<fpage>703</fpage>&#x02010;<lpage>714</lpage>.<pub-id pub-id-type="pmid">15678083</pub-id></mixed-citation></ref><ref id="prp2697-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="prp2697-cit-0019">
+<string-name>
+<surname>Li</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>XL</given-names>
+</string-name>, <string-name>
+<surname>Matthews</surname>
+<given-names>EA</given-names>
+</string-name>, et al. <article-title>Calcium channel alpha2delta1 subunit mediates spinal hyperexcitability in pain modulation</article-title>. <source xml:lang="en">Pain</source>. <year>2006</year>;<volume>125</volume>:<fpage>20</fpage>&#x02010;<lpage>34</lpage>.<pub-id pub-id-type="pmid">16764990</pub-id></mixed-citation></ref><ref id="prp2697-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="prp2697-cit-0020">
+<string-name>
+<surname>Hayashida</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>DeGoes</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Curry</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Eisenach</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Gabapentin activates spinal noradrenergic activity in rats and humans and reduces hypersensitivity after surgery</article-title>. <source xml:lang="en">Anesthesiology</source>. <year>2007</year>;<volume>106</volume>:<fpage>557</fpage>&#x02010;<lpage>562</lpage>.<pub-id pub-id-type="pmid">17325515</pub-id></mixed-citation></ref><ref id="prp2697-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="prp2697-cit-0021">
+<string-name>
+<surname>Gee</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Dissanayake</surname>
+<given-names>VU</given-names>
+</string-name>, <string-name>
+<surname>Offord</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Thurlow</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Woodruff</surname>
+<given-names>GN</given-names>
+</string-name>. <article-title>The novel anticonvulsant drug, gabapentin (Neurontin), binds to the alpha2delta subunit of a calcium channel</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>1996</year>;<volume>271</volume>:<fpage>5768</fpage>&#x02010;<lpage>5776</lpage>.<pub-id pub-id-type="pmid">8621444</pub-id></mixed-citation></ref><ref id="prp2697-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="prp2697-cit-0022">
+<string-name>
+<surname>Takasu</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ono</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tanabe</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Gabapentin produces PKA&#x02010;dependent pre&#x02010;synaptic inhibition of GABAergic synaptic transmission in LC neurons following partial nerve injury in mice</article-title>. <source xml:lang="en">J Neurochem</source>. <year>2008</year>;<volume>105</volume>:<fpage>933</fpage>&#x02010;<lpage>942</lpage>.<pub-id pub-id-type="pmid">18182059</pub-id></mixed-citation></ref><ref id="prp2697-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="prp2697-cit-0023">
+<string-name>
+<surname>Yoshizumi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Eisenach</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Hayashida</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Gabapentin inhibits gamma&#x02010;amino butyric acid release in the locus coeruleus but not in the spinal dorsal horn after peripheral nerve injury in rats</article-title>. <source xml:lang="en">Anesthesiology</source>. <year>2012</year>;<volume>116</volume>:<fpage>1347</fpage>&#x02010;<lpage>1353</lpage>.<pub-id pub-id-type="pmid">22487864</pub-id></mixed-citation></ref><ref id="prp2697-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="prp2697-cit-0024">
+<string-name>
+<surname>Ansari</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Bharti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ranjan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Srivastava</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kapoor</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Gabapentin: a novel drug as add&#x02010;on therapy in cases of refractory overactive bladder in children</article-title>. <source xml:lang="en">J Pediatr Urol</source>. <year>2013</year>;<volume>9</volume>:<fpage>17</fpage>&#x02010;<lpage>22</lpage>.<pub-id pub-id-type="pmid">22134010</pub-id></mixed-citation></ref><ref id="prp2697-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="prp2697-cit-0025">
+<string-name>
+<surname>Takatani</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Takeshima</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Okuda</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Miyakawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Noguchi</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>A case of perineal pain related to interstitial cystitis which was supposed to be relieved with gabapentin</article-title>. <source xml:lang="en">J Anesth</source>. <year>2009</year>;<volume>23</volume>:<fpage>474</fpage>&#x02010;<lpage>475</lpage>.<pub-id pub-id-type="pmid">19685143</pub-id></mixed-citation></ref><ref id="prp2697-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="prp2697-cit-0026">
+<string-name>
+<surname>Kwon</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Ahn</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>
+<given-names>TH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>DY</given-names>
+</string-name>, <string-name>
+<surname>Jeong</surname>
+<given-names>HJ</given-names>
+</string-name>. <article-title>Effect of low&#x02010;dose triple therapy using gabapentin, amitriptyline, and a nonsteroidal anti&#x02010;inflammatory drug for overactive bladder symptoms in patients with bladder pain syndrome</article-title>. <source xml:lang="en">Int Neurourol J</source>. <year>2013</year>;<volume>17</volume>:<fpage>78</fpage>&#x02010;<lpage>82</lpage>.<pub-id pub-id-type="pmid">23869272</pub-id></mixed-citation></ref><ref id="prp2697-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="prp2697-cit-0027">
+<string-name>
+<surname>Yeh</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Do</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Investigations of urethral sphincter activity in mice with bladder hyperalgesia before and after drug administration of gabapentin</article-title>. <source xml:lang="en">Int Urol Nephrol</source>. <year>2019</year>;<volume>51</volume>:<fpage>53</fpage>&#x02010;<lpage>59</lpage>.<pub-id pub-id-type="pmid">30387068</pub-id></mixed-citation></ref><ref id="prp2697-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="prp2697-cit-0028">
+<string-name>
+<surname>Rudick</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Schaeffer</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Klumpp</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Pharmacologic attenuation of pelvic pain in a murine model of interstitial cystitis</article-title>. <source xml:lang="en">BMC Urol</source>. <year>2009</year>;<volume>9</volume>:<fpage>16</fpage>.<pub-id pub-id-type="pmid">19909543</pub-id></mixed-citation></ref><ref id="prp2697-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="prp2697-cit-0029">
+<string-name>
+<surname>Chaplan</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Bach</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Pogrel</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Yaksh</surname>
+<given-names>TL</given-names>
+</string-name>. <article-title>Quantitative assessment of tactile allodynia in the rat paw</article-title>. <source xml:lang="en">J Neurosci Methods</source>. <year>1994</year>;<volume>53</volume>:<fpage>55</fpage>&#x02010;<lpage>63</lpage>.<pub-id pub-id-type="pmid">7990513</pub-id></mixed-citation></ref><ref id="prp2697-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="prp2697-cit-0030">
+<string-name>
+<surname>Yoshizumi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Matsumoto&#x02010;Miyai</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yonezawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kawatani</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Role of supraspinal and spinal alpha1&#x02010;adrenergic receptor subtypes in micturition reflex in conscious rats</article-title>. <source xml:lang="en">Am J Physiol Renal Physiol</source>. <year>2010</year>;<volume>299</volume>:<fpage>F785</fpage>&#x02010;<lpage>F791</lpage>.<pub-id pub-id-type="pmid">20668103</pub-id></mixed-citation></ref><ref id="prp2697-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="prp2697-cit-0031">
+<string-name>
+<surname>Harding</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Sharman</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Faccenda</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>The IUPHAR/BPS Guide to PHARMACOLOGY in 2018: updates and expansion to encompass the new guide to IMMUNOPHARMACOLOGY</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2018</year>;<volume>46</volume>:<fpage>D1091</fpage>&#x02010;<lpage>D1106</lpage>.<pub-id pub-id-type="pmid">29149325</pub-id></mixed-citation></ref><ref id="prp2697-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="prp2697-cit-0032">
+<string-name>
+<surname>Alexander</surname>
+<given-names>SPH</given-names>
+</string-name>, <string-name>
+<surname>Mathie</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>THE CONCISE GUIDE TO PHARMACOLOGY 2019/20: Ion channels</article-title>. <source xml:lang="en">Br J Pharmacol</source>. <year>2019</year>;<volume>176</volume>(<issue>S1</issue>):<fpage>S142</fpage>&#x02010;<lpage>S228</lpage>.<pub-id pub-id-type="pmid">31710715</pub-id></mixed-citation></ref><ref id="prp2697-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="prp2697-cit-0033">
+<string-name>
+<surname>Vizzard</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Erdman</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>de Groat</surname>
+<given-names>WC</given-names>
+</string-name>. <article-title>Increased expression of neuronal nitric oxide synthase in bladder afferent pathways following chronic bladder irritation</article-title>. <source xml:lang="en">J Comp Neurol</source>. <year>1996</year>;<volume>370</volume>:<fpage>191</fpage>&#x02010;<lpage>202</lpage>.<pub-id pub-id-type="pmid">8808730</pub-id></mixed-citation></ref><ref id="prp2697-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="prp2697-cit-0034">
+<string-name>
+<surname>Arms</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Girard</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Malley</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Vizzard</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Expression and function of CCL2/CCR2 in rat micturition reflexes and somatic sensitivity with urinary bladder inflammation</article-title>. <source xml:lang="en">Am J Physiol Renal Physiol</source>. <year>2013</year>;<volume>305</volume>:<fpage>F111</fpage>&#x02010;<lpage>F122</lpage>.<pub-id pub-id-type="pmid">23594826</pub-id></mixed-citation></ref><ref id="prp2697-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="prp2697-cit-0035">
+<string-name>
+<surname>Vera</surname>
+<given-names>PL</given-names>
+</string-name>, <string-name>
+<surname>Iczkowski</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Meyer&#x02010;Siegler</surname>
+<given-names>KL</given-names>
+</string-name>. <article-title>Cyclophosphamide&#x02010;induced cystitis increases bladder CXCR4 expression and CXCR4&#x02010;macrophage migration inhibitory factor association</article-title>. <source xml:lang="en">PLoS One</source>. <year>2008</year>;<volume>3</volume>:<elocation-id>e3898</elocation-id>.<pub-id pub-id-type="pmid">19066630</pub-id></mixed-citation></ref><ref id="prp2697-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="prp2697-cit-0036">
+<string-name>
+<surname>Auge</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Game</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Vergnolle</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lluel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chabot</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Characterization and validation of a chronic model of cyclophosphamide&#x02010;induced interstitial cystitis/bladder pain syndrome in rats</article-title>. <source xml:lang="en">Front Pharmacol</source>. <year>2020</year>;<volume>11</volume>:<fpage>1305</fpage>.<pub-id pub-id-type="pmid">32982733</pub-id></mixed-citation></ref><ref id="prp2697-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="prp2697-cit-0037">
+<string-name>
+<surname>Takezawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kondo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kiuchi</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Combination of bladder ultrasonography and novel cystometry method in mice reveals rapid decrease in bladder capacity and compliance in LPS&#x02010;induced cystitis</article-title>. <source xml:lang="en">Am J Physiol Renal Physiol</source>. <year>2014</year>;<volume>307</volume>:<fpage>F234</fpage>&#x02010;<lpage>F241</lpage>.<pub-id pub-id-type="pmid">24808533</pub-id></mixed-citation></ref><ref id="prp2697-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="prp2697-cit-0038">
+<string-name>
+<surname>Song</surname>
+<given-names>PH</given-names>
+</string-name>, <string-name>
+<surname>Chun</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>JW</given-names>
+</string-name>, et al. <article-title>Comparison of 5 different rat models to establish a standard animal model for research into interstitial cystitis</article-title>. <source xml:lang="en">Int Neurourol J</source>. <year>2017</year>;<volume>21</volume>:<fpage>163</fpage>&#x02010;<lpage>170</lpage>.<pub-id pub-id-type="pmid">28954463</pub-id></mixed-citation></ref><ref id="prp2697-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="prp2697-cit-0039">
+<string-name>
+<surname>Warren</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Horne</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Langenberg</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Greenberg</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Urinary tract infection and inflammation at onset of interstitial cystitis/painful bladder syndrome</article-title>. <source xml:lang="en">Urology</source>. <year>2008</year>;<volume>71</volume>:<fpage>1085</fpage>&#x02010;<lpage>1090</lpage>.<pub-id pub-id-type="pmid">18538691</pub-id></mixed-citation></ref><ref id="prp2697-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="prp2697-cit-0040">
+<string-name>
+<surname>Ryu</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>HY</given-names>
+</string-name>, et al. <article-title>N&#x02010;acetylcysteine prevents bladder tissue fibrosis in a lipopolysaccharide&#x02010;induced cystitis rat model</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2019</year>;<volume>9</volume>:<fpage>8134</fpage>.<pub-id pub-id-type="pmid">31148586</pub-id></mixed-citation></ref><ref id="prp2697-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="prp2697-cit-0041">
+<string-name>
+<surname>Yoshimura</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Bennett</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Hayashi</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Bladder overactivity and hyperexcitability of bladder afferent neurons after intrathecal delivery of nerve growth factor in rats</article-title>. <source xml:lang="en">J Neurosci</source>. <year>2006</year>;<volume>26</volume>:<fpage>10847</fpage>&#x02010;<lpage>10855</lpage>.<pub-id pub-id-type="pmid">17050722</pub-id></mixed-citation></ref><ref id="prp2697-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="prp2697-cit-0042">
+<string-name>
+<surname>Song</surname>
+<given-names>YS</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Doo</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>An</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SU</given-names>
+</string-name>. <article-title>Enhanced angiogenesis and relaxation of bladder as early response to bladder outlet obstruction</article-title>. <source xml:lang="en">Int J Urol</source>. <year>2013</year>;<volume>20</volume>:<fpage>116</fpage>&#x02010;<lpage>122</lpage>.<pub-id pub-id-type="pmid">23126506</pub-id></mixed-citation></ref><ref id="prp2697-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="prp2697-cit-0043">
+<string-name>
+<surname>Kanno</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mitsui</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kitta</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>The inflammatory cytokine IL&#x02010;1beta is involved in bladder remodeling after bladder outlet obstruction in mice</article-title>. <source xml:lang="en">Neurourol Urodyn</source>. <year>2016</year>;<volume>35</volume>:<fpage>377</fpage>&#x02010;<lpage>381</lpage>.<pub-id pub-id-type="pmid">25557558</pub-id></mixed-citation></ref><ref id="prp2697-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="prp2697-cit-0044">
+<string-name>
+<surname>Kukkar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bali</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Jaggi</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Implications and mechanism of action of gabapentin in neuropathic pain</article-title>. <source xml:lang="en">Arch Pharm Res</source>. <year>2013</year>;<volume>36</volume>:<fpage>237</fpage>&#x02010;<lpage>251</lpage>.<pub-id pub-id-type="pmid">23435945</pub-id></mixed-citation></ref><ref id="prp2697-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="prp2697-cit-0045">
+<string-name>
+<surname>Lynch</surname>
+<given-names>JJ</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Honore</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>DJ</given-names>
+</string-name>, et al. <article-title>(L)&#x02010;Phenylglycine, but not necessarily other alpha2delta subunit voltage&#x02010;gated calcium channel ligands, attenuates neuropathic pain in rats</article-title>. <source xml:lang="en">Pain</source>. <year>2006</year>;<volume>125</volume>:<fpage>136</fpage>&#x02010;<lpage>142</lpage>.<pub-id pub-id-type="pmid">16781071</pub-id></mixed-citation></ref><ref id="prp2697-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="prp2697-cit-0046">
+<string-name>
+<surname>Luo</surname>
+<given-names>ZD</given-names>
+</string-name>, <string-name>
+<surname>Chaplan</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Higuera</surname>
+<given-names>ES</given-names>
+</string-name>, et al. <article-title>Upregulation of dorsal root ganglion (alpha)2(delta) calcium channel subunit and its correlation with allodynia in spinal nerve&#x02010;injured rats</article-title>. <source xml:lang="en">J Neurosci</source>. <year>2001</year>;<volume>21</volume>:<fpage>1868</fpage>&#x02010;<lpage>1875</lpage>.<pub-id pub-id-type="pmid">11245671</pub-id></mixed-citation></ref><ref id="prp2697-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="prp2697-cit-0047">
+<string-name>
+<surname>Patel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dickenson</surname>
+<given-names>AH</given-names>
+</string-name>. <article-title>Mechanisms of the gabapentinoids and alpha 2 delta&#x02010;1 calcium channel subunit in neuropathic pain</article-title>. <source xml:lang="en">Pharmacol Res Perspect</source>. <year>2016</year>;<volume>4</volume>:<elocation-id>e00205</elocation-id>.<pub-id pub-id-type="pmid">27069626</pub-id></mixed-citation></ref><ref id="prp2697-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="prp2697-cit-0048">
+<string-name>
+<surname>Igawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kumano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Aizawa</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Changes in the function and expression of T&#x02010;type and N&#x02010;type calcium channels in the rat bladder after bladder outlet obstruction</article-title>. <source xml:lang="en">J Urol</source>. <year>2014</year>;<volume>191</volume>:<fpage>1159</fpage>&#x02010;<lpage>1167</lpage>.<pub-id pub-id-type="pmid">24120720</pub-id></mixed-citation></ref><ref id="prp2697-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="prp2697-cit-0049">
+<string-name>
+<surname>Hayashida</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Obata</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nakajima</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Eisenach</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Gabapentin acts within the locus coeruleus to alleviate neuropathic pain</article-title>. <source xml:lang="en">Anesthesiology</source>. <year>2008</year>;<volume>109</volume>:<fpage>1077</fpage>&#x02010;<lpage>1084</lpage>.<pub-id pub-id-type="pmid">19034104</pub-id></mixed-citation></ref><ref id="prp2697-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="prp2697-cit-0050">
+<string-name>
+<surname>Yoshizumi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Eisenach</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Hayashida</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Riluzole and gabapentinoids activate glutamate transporters to facilitate glutamate&#x02010;induced glutamate release from cultured astrocytes</article-title>. <source xml:lang="en">Eur J Pharmacol</source>. <year>2012</year>;<volume>677</volume>:<fpage>87</fpage>&#x02010;<lpage>92</lpage>.<pub-id pub-id-type="pmid">22206816</pub-id></mixed-citation></ref><ref id="prp2697-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="prp2697-cit-0051">
+<string-name>
+<surname>Suto</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Severino</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Eisenach</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Hayashida</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Gabapentin increases extracellular glutamatergic level in the locus coeruleus via astroglial glutamate transporter&#x02010;dependent mechanisms</article-title>. <source xml:lang="en">Neuropharmacology</source>. <year>2014</year>;<volume>81</volume>:<fpage>95</fpage>&#x02010;<lpage>100</lpage>.<pub-id pub-id-type="pmid">24495399</pub-id></mixed-citation></ref><ref id="prp2697-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="prp2697-cit-0052">
+<string-name>
+<surname>Barrington</surname>
+<given-names>FJF</given-names>
+</string-name>. <article-title>The effect of lesions of the hind and mid&#x02010;brain on micturition in the cat</article-title>. <source xml:lang="en">Q J Exp Physiol</source>. <year>1925</year>;<volume>15</volume>:<fpage>81</fpage>&#x02010;<lpage>102</lpage>.</mixed-citation></ref><ref id="prp2697-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="prp2697-cit-0053">
+<string-name>
+<surname>Satoh</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Tohyama</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Maeda</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Localization of the micturition reflex center at dorsolateral pontine tegmentum of the rat</article-title>. <source xml:lang="en">Neurosci Lett</source>. <year>1978</year>;<volume>8</volume>:<fpage>27</fpage>&#x02010;<lpage>33</lpage>.<pub-id pub-id-type="pmid">19605144</pub-id></mixed-citation></ref><ref id="prp2697-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="prp2697-cit-0054">
+<string-name>
+<surname>Sakakibara</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Lower urinary tract dysfunction in patients with brain lesions</article-title>. <source xml:lang="en">Handb Clin Neurol</source>. <year>2015</year>;<volume>130</volume>:<fpage>269</fpage>&#x02010;<lpage>287</lpage>.<pub-id pub-id-type="pmid">26003249</pub-id></mixed-citation></ref><ref id="prp2697-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="prp2697-cit-0055">
+<string-name>
+<surname>Imaki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nahan</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Rivier</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sawchenko</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name>
+<surname>Vale</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Differential regulation of corticotropin&#x02010;releasing factor mRNA in rat brain regions by glucocorticoids and stress</article-title>. <source xml:lang="en">J Neurosci</source>. <year>1991</year>;<volume>11</volume>:<fpage>585</fpage>&#x02010;<lpage>599</lpage>.<pub-id pub-id-type="pmid">2002354</pub-id></mixed-citation></ref><ref id="prp2697-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="prp2697-cit-0056">
+<string-name>
+<surname>Hou</surname>
+<given-names>XH</given-names>
+</string-name>, <string-name>
+<surname>Hyun</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Taranda</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Central control circuit for context&#x02010;dependent micturition</article-title>. <source xml:lang="en">Cell</source>. <year>2016</year>;<volume>167</volume>(<issue>1</issue>):<fpage>73</fpage>&#x02010;<lpage>86.e12</lpage>.<pub-id pub-id-type="pmid">27662084</pub-id></mixed-citation></ref><ref id="prp2697-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="prp2697-cit-0057">
+<string-name>
+<surname>Verstegen</surname>
+<given-names>AMJ</given-names>
+</string-name>, <string-name>
+<surname>Vanderhorst</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Zeidel</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Geerling</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Barrington's nucleus: neuroanatomic landscape of the mouse "pontine micturition center"</article-title>. <source xml:lang="en">J Comp Neurol</source>. <year>2017</year>;<volume>525</volume>:<fpage>2287</fpage>&#x02010;<lpage>2309</lpage>.<pub-id pub-id-type="pmid">28340519</pub-id></mixed-citation></ref><ref id="prp2697-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="prp2697-cit-0058">
+<string-name>
+<surname>Keller</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Simpson</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Voluntary urination control by brainstem neurons that relax the urethral sphincter</article-title>. <source xml:lang="en">Nat Neurosci</source>. <year>2018</year>;<volume>21</volume>:<fpage>1229</fpage>&#x02010;<lpage>1238</lpage>.<pub-id pub-id-type="pmid">30104734</pub-id></mixed-citation></ref><ref id="prp2697-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="prp2697-cit-0059">
+<string-name>
+<surname>Valentino</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Pavcovich</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Hirata</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Evidence for corticotropin&#x02010;releasing hormone projections from Barrington's nucleus to the periaqueductal gray and dorsal motor nucleus of the vagus in the rat</article-title>. <source xml:lang="en">J Comp Neurol</source>. <year>1995</year>;<volume>363</volume>:<fpage>402</fpage>&#x02010;<lpage>422</lpage>.<pub-id pub-id-type="pmid">8847408</pub-id></mixed-citation></ref><ref id="prp2697-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="prp2697-cit-0060">
+<string-name>
+<surname>Valentino</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Aston&#x02010;Jones</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Evidence for divergent projections to the brain noradrenergic system and the spinal parasympathetic system from Barrington's nucleus</article-title>. <source xml:lang="en">Brain Res</source>. <year>1996</year>;<volume>732</volume>:<fpage>1</fpage>&#x02010;<lpage>15</lpage>.<pub-id pub-id-type="pmid">8891263</pub-id></mixed-citation></ref><ref id="prp2697-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="prp2697-cit-0061">
+<string-name>
+<surname>Curtis</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Lechner</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Pavcovich</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Valentino</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Activation of the locus coeruleus noradrenergic system by intracoerulear microinfusion of corticotropin&#x02010;releasing factor: effects on discharge rate, cortical norepinephrine levels and cortical electroencephalographic activity</article-title>. <source xml:lang="en">J Pharmacol Exp Ther</source>. <year>1997</year>;<volume>281</volume>:<fpage>163</fpage>&#x02010;<lpage>172</lpage>.<pub-id pub-id-type="pmid">9103494</pub-id></mixed-citation></ref><ref id="prp2697-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="prp2697-cit-0062">
+<string-name>
+<surname>Wood</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Baez</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Bhatnagar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Valentino</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Social stress&#x02010;induced bladder dysfunction: potential role of corticotropin&#x02010;releasing factor</article-title>. <source xml:lang="en">Am J Physiol Regul Integr Comp Physiol</source>. <year>2009</year>;<volume>296</volume>:<fpage>R1671</fpage>&#x02010;<lpage>1678</lpage>.<pub-id pub-id-type="pmid">19279290</pub-id></mixed-citation></ref><ref id="prp2697-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="prp2697-cit-0063">
+<string-name>
+<surname>Butler</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Luz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>McFadden</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Murine social stress results in long lasting voiding dysfunction</article-title>. <source xml:lang="en">Physiol Behav</source>. <year>2018</year>;<volume>183</volume>:<fpage>10</fpage>&#x02010;<lpage>17</lpage>.<pub-id pub-id-type="pmid">28988966</pub-id></mixed-citation></ref><ref id="prp2697-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="prp2697-cit-0064">
+<string-name>
+<surname>McFadden</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Wolfe</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Valentino</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Overexpression of corticotropin&#x02010;releasing factor in Barrington's nucleus neurons by adeno&#x02010;associated viral transduction: effects on bladder function and behavior</article-title>. <source xml:lang="en">Eur J Neurosci</source>. <year>2012</year>;<volume>36</volume>:<fpage>3356</fpage>&#x02010;<lpage>3364</lpage>.<pub-id pub-id-type="pmid">22882375</pub-id></mixed-citation></ref><ref id="prp2697-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="prp2697-cit-0065">
+<string-name>
+<surname>Verstegen</surname>
+<given-names>AMJ</given-names>
+</string-name>, <string-name>
+<surname>Klymko</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Non&#x02010;Crh glutamatergic neurons in barrington's nucleus control micturition via glutamatergic afferents from the midbrain and hypothalamus</article-title>. <source xml:lang="en">Curr Biol</source>. <year>2019</year>;<volume>29</volume>(<issue>17</issue>):<fpage>2775</fpage>&#x02010;<lpage>2789.e7</lpage>.<pub-id pub-id-type="pmid">31422881</pub-id></mixed-citation></ref><ref id="prp2697-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="prp2697-cit-0066">
+<string-name>
+<surname>Hattori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sugaya</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Mechanisms of action for alpha1&#x02010;adrenoceptor blockers in storage symptoms with new insights into the micturition reflex</article-title>. <source xml:lang="en">Life Sci</source>. <year>2017</year>;<volume>191</volume>:<fpage>90</fpage>&#x02010;<lpage>96</lpage>.<pub-id pub-id-type="pmid">29032116</pub-id></mixed-citation></ref></ref-list></back></article>

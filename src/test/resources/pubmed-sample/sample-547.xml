@@ -1,0 +1,617 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21304600</article-id><article-id pub-id-type="pmc">3029387</article-id><article-id pub-id-type="publisher-id">PONE-D-10-05364</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0016532</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Immunology</subject><subj-group><subject>Immune Response</subject><subject>Immunity</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Clinical Immunology</subject><subj-group><subject>Immunity</subject><subj-group><subject>Vaccination</subject><subj-group><subject>Vaccines</subject><subject>Vaccine Development</subject></subj-group></subj-group></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Mucosal Targeting of a BoNT/A Subunit Vaccine Adjuvanted with a Mast Cell Activator Enhances Induction of BoNT/A Neutralizing Antibodies in Rabbits</article-title><alt-title alt-title-type="running-head">Mucosally Targeted Botulinum Vaccine</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Staats</surname><given-names>Herman F.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Fielhauer</surname><given-names>Jeffrey R.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Thompson</surname><given-names>Afton L.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Tripp</surname><given-names>Alice A.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Sobel</surname><given-names>Ashley E.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Maddaloni</surname><given-names>Massimo</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Abraham</surname><given-names>Soman N.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Pascual</surname><given-names>David W.</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Pathology, Duke University Medical Center, Durham, North Carolina, United States of America</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Immunology, Duke University Medical Center, Durham, North Carolina, United States of America</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Department of Molecular Genetics and Microbiology, Duke University Medical Center, Durham, North Carolina, United States of America</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Human Vaccine Institute, Duke University Medical Center, Durham, North Carolina, United States of America</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Department of Immunology and Infectious Diseases, Montana State University, Bozeman, Montana, United States of America</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Deepe</surname><given-names>George</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">University of Cincinnati College of Medicine, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>herman.staats@duke.edu</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: HFS SNA DWP. Performed the experiments: HFS ALT JRF AAT AES MM. Analyzed the data: HFS ALT JRF AES AAT. Contributed reagents/materials/analysis tools: MM DWP SNA. Wrote the paper: HFS JRF SNA DWP.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>27</day><month>1</month><year>2011</year></pub-date><volume>6</volume><issue>1</issue><elocation-id>e16532</elocation-id><history><date date-type="received"><day>22</day><month>11</month><year>2010</year></date><date date-type="accepted"><day>17</day><month>12</month><year>2010</year></date></history><permissions><copyright-statement>Staats et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>We previously reported that the immunogenicity of Hc&#x003b2;tre, a botulinum neurotoxin A (BoNT/A) immunogen, was enhanced by fusion to an epithelial cell binding domain, Ad2F, when nasally delivered to mice with cholera toxin (CT). This study was performed to determine if Ad2F would enhance the nasal immunogenicity of Hc&#x003b2;tre in rabbits, an animal model with a nasal cavity anatomy similar to humans. Since CT is not safe for human use, we also tested the adjuvant activity of compound 48/80 (C48/80), a mast cell activating compound previously determined to safely exhibit nasal adjuvant activity in mice.</p></sec><sec><title>Methods</title><p>New Zealand White or Dutch Belted rabbits were nasally immunized with Hc&#x003b2;tre or Hc&#x003b2;tre-Ad2F alone or combined with CT or C48/80, and serum samples were tested for the presence of Hc&#x003b2;tre-specific binding (ELISA) or BoNT/A neutralizing antibodies.</p></sec><sec><title>Results</title><p>Hc&#x003b2;tre-Ad2F nasally administered with CT induced serum anti-Hc&#x003b2;tre IgG ELISA and BoNT/A neutralizing antibody titers greater than those induced by Hc&#x003b2;tre &#x0002b; CT. C48/80 provided significant nasal adjuvant activity and induced BoNT/A-neutralizing antibodies similar to those induced by CT.</p></sec><sec><title>Conclusions</title><p>Ad2F enhanced the nasal immunogenicity of Hc&#x003b2;tre, and the mast cell activator C48/80 was an effective adjuvant for nasal immunization in rabbits, an animal model with a nasal cavity anatomy similar to that in humans.</p></sec></abstract><counts><page-count count="10"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>
+<italic>Clostridium botulinum</italic> is a spore-forming anaerobe which produces seven distinct neurotoxin serotypes (A&#x02013;G). Botulinum neurotoxin is synthesized as a 150 kDa single chain protein and cleaved by proteases to yield a 100 kDa heavy chain (Hc) linked by a disulfide bridge to a 50 kDa light chain (Lc) <xref rid="pone.0016532-Lacy1" ref-type="bibr">[1]</xref>, <xref rid="pone.0016532-Krieglstein1" ref-type="bibr">[2]</xref> (<xref ref-type="fig" rid="pone-0016532-g001">
+<bold>Figure 1</bold>
+</xref>). The Hc encompasses the neuronal cell binding &#x003b2;-trefoil domain <xref rid="pone.0016532-Ginalski1" ref-type="bibr">[3]</xref> and membrane translocation units, and the Lc cleaves SNARE proteins, required for the release of acetylcholine at the neuromuscular junction. The botulinum neurotoxins (BoNT), combined with tetanus neurotoxin, comprise the class of clostridial neurotoxins. Clostridial neurotoxins are the most poisonous natural substances known to man; oral consumption of as little as 7 &#x000b5;g or inhalation of 700 ng is predicted to be lethal to a 150 lb individual <xref rid="pone.0016532-Arnon1" ref-type="bibr">[4]</xref>.</p><fig id="pone-0016532-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0016532.g001</object-id><label>Figure 1</label><caption><title>Schematic representation of Hc&#x003b2;tre-Ad2F fusion protein.</title><p>
+<bold>A</bold>. schematic representation of botulinum neurotoxin type A (heavy and light chains). <bold>B</bold>. Schematic of &#x003b2;-trefoil domain of BoNT/A heavy chain (Hc&#x003b2;tre). <bold>C</bold>. Schematic of fusion protein containing &#x003b2;-trefoil domain of BoNT/A heavy chain (Hc&#x003b2;tre) and the adenovirus type 2 fiber protein (Hc&#x003b2;tre-Ad2F).</p></caption><graphic xlink:href="pone.0016532.g001"/></fig><p>A toxoid vaccine composed of formalin inactivated botulinum neurotoxin has been used as the botulinum neurotoxin vaccine for decades <xref rid="pone.0016532-Smith1" ref-type="bibr">[5]</xref>, <xref rid="pone.0016532-Rusnak1" ref-type="bibr">[6]</xref>. The declining immunogenicity of the toxoid vaccine and the availability of molecular biology techniques to produce non-toxic subunit immunogens has lead to the development of next generation botulinum vaccines that are based on recombinant fragments of the heavy chain <xref rid="pone.0016532-Smith1" ref-type="bibr">[5]</xref>. A recombinant botulinum vaccine based on the cell binding domain (Hc) is currently being tested in human clinical trials (<ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> and <xref rid="pone.0016532-Smith1" ref-type="bibr">[5]</xref>).</p><p>We previously reported that a recombinant immunogen containing botulinum neurotoxin type A (BoNT/A) Hc &#x003b2;-trefoil domain (Hc&#x003b2;tre) induced complete protection against a 20,000 LD<sub>50</sub> BoNT/A challenge in mice when used as a nasal vaccine immunogen coadministered with cholera toxin as a mucosal adjuvant <xref rid="pone.0016532-Maddaloni1" ref-type="bibr">[7]</xref>. Additionally, production of a fusion protein immunogen that contained the Hc&#x003b2;tre fused to the adenovirus type 2 fiber protein as a mucosal targeting ligand (Hc&#x003b2;tre-Ad2F) exhibited superior immunogenicity when compared to the Hc&#x003b2;tre subunit immunogen after nasal (or parenteral) immunization of mice while also inducing complete protection against a 20,000 LD<sub>50</sub> BoNT/A challenge <xref rid="pone.0016532-Maddaloni1" ref-type="bibr">[7]</xref>.</p><p>Although our previous study demonstrated the protective capacity of the Hc&#x003b2;tre and Hc&#x003b2;tre-Ad2F immunogens when delivered nasally to mice, the use of a mouse model may not be ideal when evaluating immunogens for nasal delivery to humans. For example, the mouse nasal cavity is organized to have organized nasal-associated lymphoid tissue (NALT) in the floor of the nasal cavity <xref rid="pone.0016532-Wu1" ref-type="bibr">[8]</xref>&#x02013;<xref rid="pone.0016532-Kiyono1" ref-type="bibr">[12]</xref> while the NALT tissues in larger animals such as rabbits, non-human primates and humans, likely includes immune tissues distributed throughout the nasal cavity <xref rid="pone.0016532-Debertin1" ref-type="bibr">[13]</xref>, <xref rid="pone.0016532-Casteleyn1" ref-type="bibr">[14]</xref> as well as the tonsils, adenoids and Waldeyer's ring <xref rid="pone.0016532-Brandtzaeg1" ref-type="bibr">[15]</xref>, <xref rid="pone.0016532-Boyaka1" ref-type="bibr">[16]</xref>. Therefore, evaluation of nasal vaccines in rabbits, animals that have a nasal cavity immune system more closely related to humans, may be an ideal animal model to evaluate the immunogenicity of vaccines proposed for nasal vaccination of humans.</p><p>Most recombinant protein vaccines lack sufficient immunogenicity and must be formulated with adjuvants to induce maximal protective immunity. We have recently reported that a novel class of vaccine adjuvants, mast cell activators, provided safe and effective vaccine adjuvant activity when delivered nasally <xref rid="pone.0016532-McLachlan1" ref-type="bibr">[17]</xref> or intradermally <xref rid="pone.0016532-McGowen1" ref-type="bibr">[18]</xref> to mice. Although cholera toxin and the related labile toxin provide potent mucosal vaccine adjuvant activity, their numerous adverse effects (induction of IgE, lethal anaphylaxis, pulmonary inflammation, diarrhea, accumulation in olfactory tissues and Bell's Palsy <xref rid="pone.0016532-Snider1" ref-type="bibr">[19]</xref>&#x02013;<xref rid="pone.0016532-Lewis1" ref-type="bibr">[25]</xref>) will likely prevent their use in humans. Therefore, adjuvants that provide safe and effective adjuvant activity when delivered by a mucosal route are needed for development of mucosally-administered vaccines for human use.</p><p>In this study we evaluated our novel botulinum neurotoxin immunogens, Hc&#x003b2;tre and Hc&#x003b2;tre-Ad2F, for their ability to induce BoNT/A-neutralizing antibodies when nasally delivered to rabbits, a species whose nasal structure more closely resembles humans. Additionally, we evaluated a novel vaccine adjuvant, the mast cell activator compound 48/80 (C48/80), for its ability to enhance the immunogenicity of nasally-delivered BoNT/A subunit immunogens in rabbits. Our results demonstrate that Hc&#x003b2;tre-Ad2F is superior to Hc&#x003b2;tre for the induction of BoNT/A neutralizing antibodies after nasal delivery with adjuvant and that the mast cell activator C48/80 provides effective adjuvant activity for nasally-administered vaccines in rabbits.</p></sec><sec sec-type="materials|methods" id="s2"><title>Materials and Methods</title><sec id="s2a"><title>Ethics Statement</title><p>All animal research was performed using Duke University Institutional Animal Care and Use Committee (IACUC) approved procedures under protocols A256-06-07 and A181-09-06.</p></sec><sec id="s2b"><title>Mice and rabbits</title><p>Female BALB/c mice (Charles River/NCI) were used to perform the serum BoNT/A neutralization assay. New Zealand White (females) and Dutch Belted (females) rabbits were obtained from RSI Biotechnology (Mocksville, NC).</p></sec><sec id="s2c"><title>Recombinant protein expression and purification</title><p>Recombinant botulinum neurotoxin type A &#x003b2;-trefoil (Hc&#x003b2;tre) and the fusion protein containing Hc&#x003b2;tre linked to the adenovirus type 2 fiber protein (Hc&#x003b2;tre-Ad2F) were produced as described previously <xref rid="pone.0016532-Maddaloni1" ref-type="bibr">[7]</xref>. Briefly, a synthetic gene encoding Hc BoNT/A, amino acids K1076 to L1295 (GenBank accession no. X52066), was designed for expression in the yeast, <italic>Pichia pastoris</italic>, and cloned into the <italic>P. pastoris</italic> expression vector, pPICZ B. To produce Hc&#x003b2;tre-Ad2F, the C-terminal region of adenovirus 2 fiber protein, spanning amino acids G378 to E582 was cloned from genomic adenovirus 2 DNA and fused to the Hc&#x003b2;tre plasmid. Recombinant plasmids were expressed in <italic>P. pastoris</italic>. Cell homogenates were cleared by centrifugation, filtered through a 1.2 &#x000b5;m prefilter and then through a 0.45 &#x000b5;m filter under vacuum. Cleared supernatants were applied to a Talon column (BD Biosciences, San Jose, CA), as per manufacturer's instruction. Purified proteins were eluted and titrated. Their quality was assessed by SDS-PAGE and Coomassie staining.</p></sec><sec id="s2d"><title>Immunizations and sample collection</title><p>Azide-free cholera toxin (CT) was purchased from List Biological Laboratories (Campbell, CA). Compound 48/80 (C48/80) and alum were purchased from SIGMA (St. Louis, MO). Botulinum neurotoxin A (BoNT/A) toxoid and heavy chain (Hc) were purchased from Metabiologics (Madison, WI). New Zealand White female rabbits were sedated with acepromazine (1 mg/kg) and anesthetized with isoflurane (4&#x00025; isoflurane at 4 liters/minute oxygen) before intranasal immunization on days 0, 14 and 28 with equimolar doses of BoNT/A Hc&#x003b2;tre (10 &#x000b5;g) or BoNT/A Hc&#x003b2;tre-Ad2F (20 &#x000b5;g) alone or combined with the adjuvants, CT (2 &#x000b5;g) or C48/80 (120 &#x000b5;g). The nasal vaccine formulation was prepared to a total volume of 250 &#x000b5;l with 125 &#x000b5;l delivered to each nostril. Rabbits were held on their backs for nasal immunization and maintained on their backs for approximately 30 seconds after nasal delivery before being returned to their cage. Rabbits were upright and conscious, although sedated, after being returned to their cage. For the alum control groups, awake rabbits were immunized intramuscularly (100 &#x000b5;l) with BoNT/A toxoid (10 &#x000b5;g) formulated with alum (350 &#x000b5;g) on days 0, 14 and 28. Serum was collected on days 0, 27 and 40. Dutch Belted female rabbits were sedated with acepromazine (1 mg/kg) and anesthetized with isoflurane (4&#x00025; isoflurane at 4 liters/minute oxygen) before intranasal immunization on days 0, 14, 28 and 91 with equimolar doses of BoNT/A Hc&#x003b2;tre (10 &#x000b5;g) or BoNT/A Hc&#x003b2;tre-Ad2F (20 &#x000b5;g) alone or combined with the adjuvants, CT (2 &#x000b5;g) or C48/80 (120 &#x000b5;g). The nasal vaccine formulation for Dutch Belted rabbits was prepared to a total volume of 200 &#x000b5;l with 100 &#x000b5;l delivered to each nostril. Serum samples were collected days 0, 27, 41, 105 and 162. Vaginal lavage and fecal samples were collected on days 0 and 105.</p></sec><sec id="s2e"><title>ELISA detection of antibodies specific for BoNT/A Toxoid, Hc and &#x003b2;-trefoil</title><p>Sera were tested for the presence of antigen-specific IgG antibodies using an ELISA protocol that utilizes the fluorescent substrate Attophos (Promega, Madison, WI) as previously reported by our group using log<sub>2</sub> serum dilutions beginning at 1&#x02236;32 (1&#x02236;2<sup>5</sup>) <xref rid="pone.0016532-McGowen1" ref-type="bibr">[18]</xref>, <xref rid="pone.0016532-Staats1" ref-type="bibr">[26]</xref>&#x02013;<xref rid="pone.0016532-Bradney1" ref-type="bibr">[28]</xref> except that the coating antigens consisted of BoNT/A toxoid, Hc or Hc&#x003b2;tre. Antigen-specific IgG antibodies were detected with goat anti-rabbit IgG-alkaline phosphatase (Southern Biotech, Birmingham, AL). Endpoint titers were defined as the highest reciprocal dilution of sample giving a fluorescence value 3-fold over an equally diluted na&#x000ef;ve sample from the same animal. Log2 titers were used for statistical analysis. Samples with no detectable antibody were assigned a value 1 less than the starting log<sub>2</sub> dilution for statistical analysis.</p></sec><sec id="s2f"><title>Avidity ELISA</title><p>A modified ELISA assay was utilized to estimate the avidity of vaccine-induced anti-BoNT/A antibodies using a protocol described by others <xref rid="pone.0016532-Chen1" ref-type="bibr">[29]</xref>&#x02013;<xref rid="pone.0016532-McCloskey1" ref-type="bibr">[31]</xref> with slight modifications. Day 162 serum collected from immunized Dutch Belted rabbits was diluted so that each sample produced a similar raw data anti-BoNT/A Hc&#x003b2;tre ELISA value and was added in duplicate to ELISA wells (as per our normal ELISA, see above) and incubated overnight at 4&#x000b0;C followed by washing and addition of 20 mM phosphate buffer to one well or 20 mM phosphate buffer containing 3 M ammonium thiocyanate (SIGMA, Cat. 431354) to another well followed by incubation for 15 minutes at room temperature. Following the room temperature incubation, ELISA wells were washed followed by the addition of goat anti-rabbit Ig-alkaline phosphatase (Southern Biotech, Birmingham, AL) and the assay completed as per our normal ELISA protocol. The ELISA raw data values for each sample were used to calculate the percent antibody remaining bound in the presence of 3 M ammonium thiocyanate as compared to phosphate buffer (i.e., 0 M ammonium thiocyanate).</p></sec><sec id="s2g"><title>BoNT/A neutralization assay</title><p>A serum neutralization assay was utilized with modifications from that described by others <xref rid="pone.0016532-Baldwin1" ref-type="bibr">[32]</xref> to test serum for its ability to neutralize BoNT/A. Sera were collected from Dutch Belted rabbits on days 41 and 105. Individual serum samples were diluted to the desired dilution to produce a final volume of diluted serum in 200 &#x000b5;l in PBS with 0.2&#x00025; gelatin (SIGMA, St. Louis, MO). To the 200 &#x000b5;l of diluted serum was added 200 &#x000b5;l PBS/gelatin containing 20 LD<sub>50</sub> Botulinum Neurotoxin A (Metabiologics, Madison, Wisconsin). The serum and toxin mixture were incubated at room temperature for 1 hour before 200 &#x000b5;l of the mixture (containing 10 LD<sub>50</sub> BoNT/A) was injected intraperitoneally into na&#x000ef;ve, female BALB/c mice. Mice were monitored after 2 and 6 hours and then daily for signs of morbidity, including difficulty breathing and lack of mobility. Mice exhibiting morbidity were euthanized with Duke IACUC approved methods.</p></sec><sec id="s2h"><title>Statistical Analysis</title><p>Log<sub>2</sub> ELISA antibody titers and BoNT/A neutralization titers were compared by ANOVA, followed by Tukey's multiple comparison method. The Mann-Whitney test was used to compare neutralizing antibody titers grouped by antigen (Hc&#x003b2;tre &#x0002b; adjuvant vs Hc&#x003b2;re-Ad2F &#x0002b; adjuvant) to determine if their were significant differences between adjuvanted Hc&#x003b2;tre or Hc&#x003b2;tre-Ad2F in their ability to induce BoNT/A neutralizing antibody. The Mann-Whitney test was also used to compare antibody avidity (&#x00025; antibody bound in the presence of 3 M ammonium thiocyanate) between serum with no BoNT/A neutralization activity and serum with detectable BoNT/A neutralization activity. Significant differences were defined as p&#x0003c;0.05.</p></sec></sec><sec id="s3"><title>Results</title><sec id="s3a"><title>Ad2F enhances the immunogenicity of BoNT/A Hc&#x003b2;tre in New Zealand White rabbits after intranasal immunization with cholera toxin or the mast cell activator adjuvant compound 48/80</title><p>Our previous study <xref rid="pone.0016532-Maddaloni1" ref-type="bibr">[7]</xref> demonstrated that a fusion protein consisting of the botulinum neurotoxin A Hc&#x003b2;tre domain and the adenovirus type 2 fiber protein (Hc&#x003b2;tre-Ad2F; <xref ref-type="fig" rid="pone-0016532-g001">
+<bold>Figure 1</bold>
+</xref>) exhibited immunogenicity that was superior to that observed for Hc&#x003b2;tre when both were used as nasal vaccine immunogens. To determine if Hc&#x003b2;tre-Ad2F exhibited immunogenicity superior to Hc&#x003b2;tre after nasal delivery to a host with a nasal cavity similar to humans <xref rid="pone.0016532-Debertin1" ref-type="bibr">[13]</xref>, <xref rid="pone.0016532-Casteleyn1" ref-type="bibr">[14]</xref>, immunogenicity studies were performed in rabbits. This study was also performed to evaluate the ability of a novel class of vaccine adjuvants, mast cell activators <xref rid="pone.0016532-McLachlan1" ref-type="bibr">[17]</xref>, <xref rid="pone.0016532-McGowen1" ref-type="bibr">[18]</xref> to provide adjuvant activity in rabbits. Female New Zealand White rabbits (3&#x02013;6 rabbits per group) were nasally immunized on days 0, 14 and 28 with equimolar doses of Hc&#x003b2;tre (10 &#x000b5;g) or Hc&#x003b2;tre-Ad2F (20 &#x000b5;g) alone or combined with the adjuvants, CT (2 &#x000b5;g) or C48/80 (120 &#x000b5;g). To compare the immunogenicity and antigenicity of the Hc&#x003b2;tre immunogens to other forms of BoNT/A immunogens, BoNT/A toxoid and BoNT/A Hc were used as control immunogens. Rabbits were immunized with BoNT/A toxoid (10 &#x000b5;g) &#x0002b; alum intramuscularly on days 0, 14 and 28 while BoNT/A Hc (20 &#x000b5;g) combined with CT (2 &#x000b5;g) or C48/80 (120 &#x000b5;g) was delivered nasally on days 0, 14 and 28. Serum was collected on days 0, 28 and 40 and tested for IgG specific for BoNT/A toxoid, recombinant BoNT/A Hc or the &#x003b2;-trefoil domain of BoNT/A Hc (Hc&#x003b2;tre) (<xref ref-type="fig" rid="pone-0016532-g001">
+<bold>Figure 1</bold>
+</xref>). Serum titers were calculated and reported as endpoint geometric means for each group.</p><p>Nasal immunization with Hc&#x003b2;tre-Ad2F immunogens formulated with CT or C48/80 as adjuvants induced the highest serum anti-Hc&#x003b2;tre IgG titers at Day 27 and Day 40 (<xref ref-type="fig" rid="pone-0016532-g002">
+<bold>Figure 2</bold>
+</xref>). At Day 27, nasal immunization with Hc&#x003b2;tre-Ad2F &#x0002b; CT induced a serum anti-BoNT/A &#x003b2;tre IgG titer of 1&#x02236;11,585 while nasal immunization with Hc&#x003b2;tre-Ad2F &#x0002b; C48/80 induced a serum anti-BoNT/A Hc&#x003b2;tre IgG titer of 1&#x02236;813; the only groups with serum anti-Hc&#x003b2;tre significantly greater than those induced by other vaccines (<xref ref-type="fig" rid="pone-0016532-g002">
+<bold>Figure 2</bold>
+</xref>). Despite nasal immunization with an equimolar dose of Hc&#x003b2;tre adjuvanted with CT or C48/80, Hc&#x003b2;tre immunogens failed to induce significantly elevated serum anti-BoNT/A IgG titers (<xref ref-type="fig" rid="pone-0016532-g002">
+<bold>Figure 2</bold>
+</xref>). Nasal immunization with recombinant BoNT/A Hc adjuvanted with CT or C48/80 also failed to induce significantly elevated serum anti-BoNT/A Hc&#x003b2;tre IgG titers. Of particular interest was the observation that intramuscular immunization with BoNT/A toxoid adjuvanted with alum failed to induce serum IgG antibodies that recognized the BoNT/A Hc&#x003b2;tre domain (<xref ref-type="fig" rid="pone-0016532-g002">
+<bold>Figure 2</bold>
+</xref>). Similar results were observed at day 40 with serum anti-BoNT/A Hc&#x003b2;tre IgG titers of 1&#x02236;524,288 and 1&#x02236;49,097 for rabbits nasally immunized with Hc&#x003b2;tre-Ad2F &#x0002b; CT or C48/80, respectively. Serum titers induced by C48/80 were not significantly different than those induced by CT. Our results demonstrate that Hc&#x003b2;tre-Ad2F, an immunogen designed to contain a mucosal targeting component, provided nasal immunogenicity that was superior to immunogens lacking the mucosal targeting domain. Additionally, the mast cell activator C48/80 provided significant adjuvant activity after nasal delivery to rabbits.</p><fig id="pone-0016532-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0016532.g002</object-id><label>Figure 2</label><caption><title>Ad2 fiber protein enhances the nasal immunogenicity of BoNT/A &#x003b2;-trefoil in NZW rabbits.</title><p>Female NZW rabbits were immunized on days 0, 14 and 28 with the indicated vaccine formulation. Intramuscular immunization with 10 &#x000b5;g of BoNT/A toxoid combined with alum (n&#x0200a;=&#x0200a;4) served as a control. BoNT/A Hc&#x003b2;tre (10 &#x000b5;g) was nasally delivered in the absence of adjuvant (n&#x0200a;=&#x0200a;5) or combined with CT (2 &#x000b5;g; n&#x0200a;=&#x0200a;6) or C48/80 (120 &#x000b5;g; n&#x0200a;=&#x0200a;6). BoNT/A Hc&#x003b2;tre-Ad2F (20 &#x000b5;g) was delivered nasally in the absence of adjuvant (n&#x0200a;=&#x0200a;5) or combined with CT (2 &#x000b5;g; n&#x0200a;=&#x0200a;6) or C48/80 (120 &#x000b5;g; n&#x0200a;=&#x0200a;6). BoNT/A Hc (20 &#x000b5;g) was delivered nasally combined with CT (2 &#x000b5;g; n&#x0200a;=&#x0200a;3) or C48/80 (120 &#x000b5;g; n&#x0200a;=&#x0200a;3). Serum samples collected on day 27 and day 40 were tested for the presence of anti-BoNT/A &#x003b2;-trefoil IgG by ELISA. Serum antibody titers were compared between groups by ANOVA followed by Tukey's multiple comparison test (GraphPad, Prism). <bold>a</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by intramuscular immunization with toxoid, nasal immunization with Hc&#x003b2;tre, nasal immunization with Hc&#x003b2;tre &#x0002b; CT, nasal immunization with Hc&#x003b2;tre &#x0002b; C48/80, nasal immunization with Hc&#x003b2;tre-Ad2F, nasal immunization with Hc &#x0002b; CT and nasal immunization with Hc &#x0002b; C48/80. <bold>b</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by nasal immunization with Hc&#x003b2;tre &#x0002b; CT and nasal immunization with Hc&#x003b2;tre &#x0002b; C48/80. <bold>c</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by intramuscular immunization with toxoid, nasal immunization with Hc&#x003b2;tre, nasal immunization with Hc&#x003b2;tre-Ad2F, nasal immunization with Hc&#x003b2;tre &#x0002b; CT, nasal immunization with Hc&#x003b2;tre &#x0002b; C48/80, nasal immunization with Hc &#x0002b; CT and nasal immunization with Hc &#x0002b; C48/80. <bold>d</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by intramuscular immunization with toxoid, nasal immunization with Hc&#x003b2;tre, nasal immunization with Hc&#x003b2;tre &#x0002b; CT, immunization with Hc&#x003b2;tre &#x0002b; C48/80, nasal immunization with Hc&#x003b2;tre-Ad2F and nasal immunization with Hc &#x0002b; C48/80.</p></caption><graphic xlink:href="pone.0016532.g002"/></fig><p>Recombinant BoNT/A Hc immunogens are currently in development as next generation BoNT vaccines <xref rid="pone.0016532-Smith1" ref-type="bibr">[5]</xref>, <xref rid="pone.0016532-Smith2" ref-type="bibr">[33]</xref>. Despite the lack of immunogenicity of Hc when used as a nasal vaccine, as measured by the induction of anti-Hc&#x003b2;tre IgG titers, it is possible that Hc immunogens induce antibodies that recognize epitopes outside of the Hc&#x003b2;tre domain. We therefore tested day 40 serum collected from the rabbit groups described in <xref ref-type="fig" rid="pone-0016532-g002">Figure 2</xref> for the presence of anti-BoNT/A Hc antibodies by ELISA (<xref ref-type="fig" rid="pone-0016532-g003">
+<bold>Figure 3A</bold>
+</xref>). The anti-BoNT/A Hc serum IgG titers at day 40 were similar to the anti-BoNT/A Hc&#x003b2;tre IgG responses with the highest anti-Hc&#x003b2;tre IgG titers in rabbits immunized intranasally with Hc&#x003b2;tre-Ad2F &#x0002b; CT (1&#x02236;23,170) or Hc&#x003b2;tre-Ad2F &#x0002b; C48/80 (1&#x02236;4,598). Due to the variability of the anti-BoNT/A Hc antibody responses, there were no significant differences between any of the groups. These results support the findings discussed in <xref ref-type="fig" rid="pone-0016532-g002">Figure 2</xref> and demonstrate that nasal immunization with Hc&#x003b2;tre-Ad2F immunogens and adjuvant (CT or C48/80) induced maximal anti-BoNT/A Hc antibody responses that were at least 10-fold greater than antibody responses induced by any other vaccine group tested.</p><fig id="pone-0016532-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0016532.g003</object-id><label>Figure 3</label><caption><title>BoNT/A Hc&#x003b2;tre immunogens induce antibodies that recognize epitopes distinct from those induced by BoNT/A toxoid.</title><p>Day 40 sera from a subset of rabbits included in <xref ref-type="fig" rid="pone-0016532-g001">Figure 1</xref> were tested for the presence of antibodies specific for BoNT/A Hc or BoNT/A toxoid by ELISA. <bold>a</bold>: serum anti-BoNT/A toxoid IgG titers significantly greater than those induced by all other groups. There were no other significant differences between groups.</p></caption><graphic xlink:href="pone.0016532.g003"/></fig><p>Since the current investigational vaccine for botulinum neurotoxin is a toxoid <xref rid="pone.0016532-Smith1" ref-type="bibr">[5]</xref>, <xref rid="pone.0016532-Smith2" ref-type="bibr">[33]</xref> and the toxoid may be antigenically distinct from the recombinant immunogens <xref rid="pone.0016532-Singh1" ref-type="bibr">[34]</xref>, <xref rid="pone.0016532-Heimsch1" ref-type="bibr">[35]</xref>, day 40 serum samples were also tested for the presence of antibodies that recognize BoNT/A toxoid (<xref ref-type="fig" rid="pone-0016532-g003">
+<bold>Figure 3B</bold>
+</xref>). As expected, intramuscular immunization with BoNT/A toxoid &#x0002b; alum induced significantly increased serum anti-BoNT/A toxoid IgG titers (1&#x02236;50,535) that were significantly greater than all other vaccine groups tested. In agreement with published literature <xref rid="pone.0016532-Singh1" ref-type="bibr">[34]</xref>, <xref rid="pone.0016532-Heimsch1" ref-type="bibr">[35]</xref>, our results demonstrate that the antigenicity of BoNT/A toxoid is significantly different than recombinant forms of immunogens since immunization with BoNT/A toxoid induced antibodies able to recognize toxoid but not BoNT/A Hc&#x003b2;tre or Hc.</p></sec><sec id="s3b"><title>Ad2F enhances &#x003b2;-trefoil immunogenicity in Dutch Belted rabbits after intranasal immunization with cholera toxin or the mast cell activator adjuvant C48/80</title><p>To determine if the superior immunogenicity of Hc&#x003b2;tre-Ad2F and the adjuvant activity of C48/80 could be confirmed in a second rabbit strain, we repeated the intranasal immunization protocol using BoNT/A Hc&#x003b2;tre or Hc&#x003b2;tre-Ad2F &#x000b1; CT or C48/80 in Dutch Belted rabbits. Four rabbits per group were immunized on days 0, 14, 28 and 91 with the same molar doses of Hc&#x003b2;tre (10 &#x000b5;g) or Hc&#x003b2;tre-Ad2F (20 &#x000b5;g) alone or combined with CT (2 &#x000b5;g) or C48/80 (120 &#x000b5;g). Sera collected on days 27, 41 and 105 were evaluated for the presence of &#x003b2;-trefoil specific IgG antibodies by ELISA (<xref ref-type="fig" rid="pone-0016532-g004">
+<bold>Figure 4</bold>
+</xref>). On day 27, the only groups with significantly increased serum anti-BoNT/A Hc&#x003b2;tre IgG titers were rabbits nasally immunized with Hc&#x003b2;tre-Ad2F &#x0002b; CT (1&#x02236;23,170) or Hc&#x003b2;tre-Ad2F &#x0002b; C48/80 (1&#x02236;32,768). These results demonstrate that the addition of Ad2F as a mucosal targeting ligand when combined with adjuvant (CT or C48/80) enhanced the immunogenicity of the Hc&#x003b2;tre immunogen and improved the induction of serum anti-Hc&#x003b2;tre IgG responses after nasal vaccination. The serum anti-Hc&#x003b2;tre IgG titers induced by nasal immunization with Hc&#x003b2;tre-Ad2F &#x0002b; C48/80 were significantly greater than titers induced by nasal immunization with Hc&#x003b2;tre-Ad2F alone (p&#x0003c;0.05) demonstrating the mucosal adjuvant activity of C48/80 (<xref ref-type="fig" rid="pone-0016532-g004">
+<bold>Figure 4</bold>
+</xref>).</p><fig id="pone-0016532-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0016532.g004</object-id><label>Figure 4</label><caption><title>Ad2 fiber protein enhances the nasal immunogenicity of BoNT/A &#x003b2;-trefoil in Dutch Belted rabbits.</title><p>Female Dutch Belted rabbits (4 per group) were nasally immunized on days 0, 14, 28 and 91 with the indicated vaccine formulation. Serum collected on days 27, 41 and 105 was tested for the presence of anti-BoNT/A &#x003b2;-trefoil IgG by ELISA. <bold>a</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by nasal immunization with Hc&#x003b2;tre or nasal immunization with Hc&#x003b2;tre &#x0002b; C48/80. <bold>b</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by nasal immunization with Hc&#x003b2;tre, nasal immunization with Hc&#x003b2;tre &#x0002b; C48/80 or nasal immunization with Hc&#x003b2;tre-Ad2F. <bold>c</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by nasal immunization with Hc&#x003b2;tre, nasal immunization with Hc&#x003b2;tre &#x0002b; CT, nasal immunization with Hc&#x003b2;tre &#x0002b; C48/80. <bold>d</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by nasal immunization with Hc&#x003b2;tre or nasal immunization with Hc&#x003b2;tre &#x0002b; C48/80. <bold>e</bold>: serum anti-BoNT/A &#x003b2;-trefoil IgG titers significantly greater than those induced by nasal immunization with Hc&#x003b2;tre.</p></caption><graphic xlink:href="pone.0016532.g004"/></fig><p>The day 41 serum anti-Hc&#x003b2;tre IgG profile (2 weeks after the day 28 booster dose) was similar to the day 27 responses and the only groups that generated significantly increased serum anti-Hc&#x003b2;tre IgG titers were Hc&#x003b2;tre-Ad2F &#x0002b; CT (1&#x02236;623,487) or Hc&#x003b2;tre-Ad2F &#x0002b; C48/80 (1&#x02236;185,364). The serum anti-Hc&#x003b2;tre IgG titers induced by nasal immunization with Hc&#x003b2;tre-Ad2F &#x0002b; CT were significantly greater than anti-Hc&#x003b2;tre IgG titers induced by nasal immunization with Hc&#x003b2;tre, Hc&#x003b2;tre &#x0002b; CT, Hc&#x003b2;tre &#x0002b; C48/80 (<xref ref-type="fig" rid="pone-0016532-g004">
+<bold>Figure 4</bold>
+</xref>, p&#x0003c;0.05). Serum anti-Hc&#x003b2;tre IgG titers induced by nasal immunization with Hc&#x003b2;tre-Ad2F &#x0002b; C48/80 were significantly greater than anti-Hc&#x003b2;tre IgG titers induced by nasal immunization with Hc&#x003b2;tre or Hc&#x003b2;tre &#x0002b; C48/80 (<xref ref-type="fig" rid="pone-0016532-g004">
+<bold>Figure 4</bold>
+</xref>, p&#x0003c;0.05). For each vaccine formulation tested (i.e., antigen alone, antigen &#x0002b; CT or antigen &#x0002b; C48/80), the presence of the Ad2F domain increased the induction of serum anti-Hc&#x003b2;tre IgG antibody titers. For example, nasal immunization with Hc&#x003b2;tre alone induced a serum anti-Hc&#x003b2;tre IgG titer of 1&#x02236;76 while nasal immunization with Hc&#x003b2;tre-Ad2F induced a serum titer of 1&#x02236;11,585. When administered with CT, nasal Hc&#x003b2;tre induced a serum titer of 1&#x02236;2,048 while nasal immunization with CT and Hc&#x003b2;tre-Ad2F induced a serum titer of 1&#x02236;623,487. Finally, when administered with C48/80, nasal immunization with Hc&#x003b2;tre induced a serum anti-Hc&#x003b2;tre IgG titer of 1&#x02236;108 while nasal immunization with Hc&#x003b2;tre-Ad2F induced a serum titer of 1&#x02236;185,364. Our results demonstrate that the presence of Ad2F greatly enhanced the immunogenicity of Hc&#x003b2;tre when used as a nasal vaccine immunogen.</p><p>Serum collected on day 105 and tested for the presence of anti-Hc&#x003b2;tre IgG titers demonstrated that the anti-Hc&#x003b2;tre IgG titers had increased in all groups although the serum titers induced by nasal immunization with Hc&#x003b2;tre-Ad2F adjuvanted with CT or C48/80 remained the highest (1&#x02236;524,288 and 1&#x02236;131,072, respectively).</p></sec><sec id="s3c"><title>Ad2F as a mucosal targeting ligand enhances the induction of BoNT/A neutralizing antibodies after nasal immunization with Hc&#x003b2;tre immunogens</title><p>We sought to determine whether the antibodies generated by our Hc&#x003b2;tre vaccines could protect against BoNT/A toxin challenge and whether the addition of Ad2F enhanced the induction of BoNT/A neutralizing antibodies. A mouse neutralization assay <xref rid="pone.0016532-Baldwin1" ref-type="bibr">[32]</xref> was used to measure BoNT/A neutralizing antibodies in day 41 serum (after three doses of vaccine). None of the vaccines tested induced toxin-neutralizing serum antibodies at day 41(data not shown).</p><p>Serum collected on day 105 (after a total of 4 vaccinations) was also tested for the presence of BoNT/A neutralizing antibodies. One rabbit nasally immunized with Hc&#x003b2;tre &#x0002b; CT had measurable BoNT/A neutralizing antibodies (titer of 1&#x02236;8) while all other rabbits in that group and none of the rabbits nasally immunized with Hc&#x003b2;tre, Hc&#x003b2;tre &#x0002b; C48/80 or Hc&#x003b2;tre-Ad2F had measurable serum BoNT/A neutralizing antibodies. Rabbits nasally immunized with Hc&#x003b2;tre-Ad2F &#x0002b; CT had a geometric mean serum BoNT/A neutralizing titer of 1&#x02236;45.25 while rabbits nasally immunized with Hc&#x003b2;tre-Ad2F &#x0002b; C48/80 had a serum BoNT/A neutralizing titer of 1&#x02236;26.91 (<xref ref-type="fig" rid="pone-0016532-g005">
+<bold>Figure 5A</bold>
+</xref>). Serum BoNT/A neutralizing antibody titers induced by nasal immunization with Hc&#x003b2;tre-Ad2F &#x0002b; CT or Hc&#x003b2;tre-Ad2F &#x0002b; C48/80 were significantly greater than the neutralizing antibody titers measured in rabbits nasally immunized with Hc&#x003b2;tre, Hc&#x003b2;tre &#x0002b; CT, Hc&#x003b2;tre &#x0002b; C48/80 or Hc&#x003b2;tre-Ad2F; ANOVA and Tukey's multiple comparison (<xref ref-type="fig" rid="pone-0016532-g005">
+<bold>Figure 5A</bold>
+</xref>
+<bold>, p&#x0003c;0.05</bold>). By combining serum BoNT/A neutralizing antibody titers induced by nasal immunization with Hc&#x003b2;tre &#x0002b; CT or C48/80 (<xref ref-type="fig" rid="pone-0016532-g005">
+<bold>Figure 5B</bold>
+</xref>, Hc&#x003b2;tre &#x0002b; adjuvants) and comparing their serum neutralization titer to those induced by nasal immunization with Hc&#x003b2;tre-Ad2F &#x0002b; CT or C48/80 (<xref ref-type="fig" rid="pone-0016532-g005">
+<bold>Figure 5B</bold>
+</xref>, Hc&#x003b2;tre-Ad2F &#x0002b; adjuvants), we determined that the presence of Ad2F significantly improved the induction of BoNT/A neutralizing antibodies (p&#x0200a;=&#x0200a;0.0006), regardless of the adjuvant used. These results demonstrate that the use of Ad2F as a mucosal targeting ligand as well as the use of adjuvant (CT or C48/80) was required for effective induction of serum BoNT/A neutralizing antibody responses. Additionally, C48/80 provided effective nasal adjuvant activity in rabbits that was comparable to that provided by CT.</p><fig id="pone-0016532-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0016532.g005</object-id><label>Figure 5</label><caption><title>Ad2 fiber protein enhances the induction of BoNT/A-neutralizing antibodies in nasally immunized rabbits.</title><p>Female Dutch Belted rabbits (4 per group) were nasally immunized on days 0, 14, 28 and 91 with the indicated vaccine formulation. <bold>A</bold>. Serum collected on day 105 was tested for the presence of BoNT/A-neutralizing antibodies using a mouse neutralization assay. <bold>a</bold>: serum BoNT/A-neutralizing activity significantly greater than the neutralizing activity measured in rabbits nasally immunized with Hc&#x003b2;tre, Hc&#x003b2;tre &#x0002b; CT, Hc&#x003b2;tre &#x0002b; C48/80 or Hc&#x003b2;tre-Ad2F; ANOVA and Tukey's multiple comparison, p&#x0003c;0.05. <bold>b</bold>: serum BoNT/A-neutralizing activity significantly greater than the neutralizing activity measured in rabbits nasally immunized with Hc&#x003b2;tre, Hc&#x003b2;tre &#x0002b; CT, Hc&#x003b2;tre &#x0002b; C48/80 or Hc&#x003b2;tre-Ad2F; ANOVA and Tukey's multiple comparison, p&#x0003c;0.05. <bold>B</bold>. Hc&#x003b2;tre-Ad2F is superior to Hc&#x003b2;tre for the induction of BoNT/A neutralizing antibodies when delivered with CT or C48/80 as adjuvants. <bold>a</bold>: p&#x0200a;=&#x0200a;0.0006, Mann-Whitney test.</p></caption><graphic xlink:href="pone.0016532.g005"/></fig></sec><sec id="s3d"><title>Antibody affinity correlates with protective immunity</title><p>The binding avidity of antibodies for their antigen may influence their neutralization capacity <xref rid="pone.0016532-Olszewska1" ref-type="bibr">[36]</xref>-<xref rid="pone.0016532-Maynard1" ref-type="bibr">[38]</xref>. To determine if antibody affinity for Hc&#x003b2;tre correlated with its neutralization activity, we measured the relative avidity of serum anti-Hc&#x003b2;tre Ig using a thiocyanate elution ELISA similar to that described by others <xref rid="pone.0016532-Chen1" ref-type="bibr">[29]</xref>&#x02013;<xref rid="pone.0016532-McCloskey1" ref-type="bibr">[31]</xref>. In this assay, the amount of antigen-specific antibody remaining bound in the presence of 3 M ammonium thiocyanate, calculated as a percentage of antibody bound in the absence of ammonium thiocyante, is used to estimate the relative avidity of the antibodies. The percentage of antibody remaining bound in the presence of 3 M ammonium thiocyanate increases as the avidity of the antibody increases. The relative avidity of anti-Hc&#x003b2;tre Ig in Day 162 serum was tested for all samples that had measurable anti-Hc&#x003b2;tre serum antibodies (<xref ref-type="fig" rid="pone-0016532-g006">
+<bold>Figure 6</bold>
+</xref>). Due to the variation in the relative avidities measured in the various groups, there was no significant difference in antibody avidity between the different groups (<xref ref-type="fig" rid="pone-0016532-g006">
+<bold>Figure 6A</bold>
+</xref>). However, grouping of the serum samples based on their neutralization capacity demonstrated that serum samples with BoNT/A neutralization activity had an anti-Hc&#x003b2;tre Ig relative avidity that was greater than that in samples without BoNT/A neutralization activity (p&#x0200a;=&#x0200a;0.0239; <xref ref-type="fig" rid="pone-0016532-g006">
+<bold>Figure 6B</bold>
+</xref>).</p><fig id="pone-0016532-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0016532.g006</object-id><label>Figure 6</label><caption><title>Adjuvants enhance the avidity of anti-BoNT/A &#x003b2;-trefoil IgG antibodies.</title><p>The relative avidity of anti-BoNT/A IgG serum antibodies was measured using day 162 serum using a modified ELISA as described in <xref ref-type="sec" rid="s2">Materials and Methods</xref>. <bold>A</bold>. The percent antibody bound in the ELISA in the presence of 3 M ammonium thiocyanate is indicated for individual serum samples that had measurable anti-&#x003b2;-trefoil IgG. A higher percent antibody bound represents a greater relative avidity for vaccine-induced, antigen-specific antibody. &#x02022;: represents serum anti-&#x003b2;-trefoil IgG with no detectable BoNT/A neutralizing activity. &#x025cb;: represents serum anti-&#x003b2;-trefoil IgG with detectable BoNT/A neutralizing activity. <bold>B</bold>. Average percent antibody bound when samples were organized by the neutralization capacity of the serum. Vaccine-induced BoNT/A neutralizing antibody has significantly greater avidity than non-neutralizing antibody. <bold>a</bold>: &#x00025; antibody bound significantly greater than in the no neutralization group. Two-tailed Mann Whitney, p&#x0200a;=&#x0200a;0.0239.</p></caption><graphic xlink:href="pone.0016532.g006"/></fig></sec></sec><sec id="s4"><title>Discussion</title><p>In this study we have demonstrated that the &#x003b2;-trefoil domain of BoNT/A (Hc&#x003b2;tre) can be used as an immunogen for nasal vaccination in rabbits to induce serum antibodies that protect against BoNT/A challenge. Our results show that production of the Hc&#x003b2;tre immunogen as a fusion protein with the mucosal targeting ligand, Ad2F, enhanced its immunogenicity and the induction of Hc&#x003b2;tre-specific, BoNT/A-neutralizing antibodies. Additionally, the mast cell activator adjuvant C48/80 was as effective as CT for the induction of BoNT/A-neutralizing antibodies when used as a nasal vaccine adjuvant in rabbits. These results confirm similar observations in mice <xref rid="pone.0016532-Maddaloni1" ref-type="bibr">[7]</xref>, <xref rid="pone.0016532-McLachlan1" ref-type="bibr">[17]</xref>.</p><p>Adjuvants and vaccination regimens suitable for nasal immunization are desirable for a number of reasons. First, one goal of the World Health Organization is to have vaccines administered needle-free <xref rid="pone.0016532-Kermode1" ref-type="bibr">[39]</xref>&#x02013;<xref rid="pone.0016532-Jodar1" ref-type="bibr">[43]</xref>, such as nasal immunization, since the re-use of needles in developing countries contributes to the transmission of infectious diseases. Second, nasal immunization offers a beneficial alternative for patients with needle-phobia and may prevent their avoidance to vaccination <xref rid="pone.0016532-Nir1" ref-type="bibr">[44]</xref>&#x02013;<xref rid="pone.0016532-Millner1" ref-type="bibr">[46]</xref>. Third, nasal immunization has the ability to induce antigen-specific secretory IgA (S-IgA) responses in mucosal secretions, while parenterally delivered vaccines rarely induce S-IgA <xref rid="pone.0016532-Beyer1" ref-type="bibr">[47]</xref>&#x02013;<xref rid="pone.0016532-Brandtzaeg2" ref-type="bibr">[49]</xref>. A major benefit of mucosal immunization is the presence of pathogen-specific S-IgA in mucosal secretions offering an added layer of protection against pathogens that primarily infect via a mucosal surface. Such capacity to induce vaccine-specific S-IgA as well as the ease of needle-free immunization warrants continued research to optimize adjuvants and antigen formulations for nasal subunit vaccines.</p><p>The form of antigen used as a vaccine immunogen significantly influences the immune responses induced. To evaluate the performance of Hc&#x003b2;tre immunogens as compared to other BoNT/A immunogens, we utilized BoNT/A toxoid and BoNT/A Hc immunogens as controls for subcutaneous or intranasal immunization, respectively. Of all immunogens tested, only Hc&#x003b2;tre-Ad2F combined with adjuvant (CT or C48/80) induced significantly elevated serum anti-Hc&#x003b2;tre IgG titers. Despite using BoNT/A Hc as an immunogen at the same dose as Hc&#x003b2;tre-Ad2F and formulated with CT or C48/80 as adjuvants, Hc did not induce significantly elevated serum anti-Hc&#x003b2;tre or anti-Hc IgG titers, even though the Hc&#x003b2;tre domain represents a significant portion of the Hc immunogen. BoNT/A toxoid delivered intramuscularly with alum induced significantly elevated serum anti-BoNT/A toxoid IgG antibodies while inducing minimal serum IgG antibodies specific for Hc&#x003b2;tre or Hc. This result confirms published reports describing the altered antigenicity of BoNT/A toxoid as compared to native immunogens <xref rid="pone.0016532-Singh1" ref-type="bibr">[34]</xref>, <xref rid="pone.0016532-Heimsch1" ref-type="bibr">[35]</xref> and supports the use of recombinant subunit immunogens as next generation BoNT vaccines.</p><p>The immunization regimens utilized in this study used relatively low antigen doses. We selected a dose of 10 &#x000b5;g of Hc&#x003b2;tre per vaccination and an equimolar dose of 20 &#x000b5;g Hc&#x003b2;tre-Ad2F to increase the sensitivity of the experiment to determine if the use of the mucosal targeting ligand Ad2F was able to significantly enhance the immunogenicity of Hc&#x003b2;tre. In our previous mouse study, Hc&#x003b2;tre-Ad2F exhibited superior nasal immunogenicity when compared to Hc&#x003b2;tre based on the induction of ELISA binding antibodies but both immunogens induced BoNT/A neutralizing antibody responses when used at 25 &#x000b5;g of Hc&#x003b2;tre per dose and 50 &#x000b5;g of Hc&#x003b2;tre-Ad2F per dose <xref rid="pone.0016532-Maddaloni1" ref-type="bibr">[7]</xref>. In the present study, nasal immunization with Hc&#x003b2;tre-Ad2F adjuvanted with CT or C48/80 induced serum neutralization titers in Dutch belted rabbits that ranged from 1&#x02236;16 to 1&#x02236;128 with each rabbit being immunized with a total of 80 &#x000b5;g of Hc&#x003b2;tre-Ad2F combined with adjuvant. The neutralization assay tested diluted serum for its ability to neutralize 10 LD<sub>50</sub> of BoNT/A using a mouse neutralization assay. Others have reported that immunization of rabbits intradermally with a total dose 750 &#x000b5;g of BoNT/A Hc (residues 871-1295) adjuvanted with complete (priming) and incomplete (booster doses) Freund's adjuvant in five doses induced serum BoNT/A neutralizing antibodies with a neutralization capacity that ranged from 5&#x000d7;10<sup>5</sup> to 7&#x000d7;10<sup>5</sup> mouse LD<sub>50</sub> per mL serum <xref rid="pone.0016532-Baldwin1" ref-type="bibr">[32]</xref>. Given in these terms, our adjuvanted Hc&#x003b2;tre-Ad2F vaccine exhibited a BoNT/A neutralization capacity ranging from 1.6&#x000d7;10<sup>3</sup> to 1.28&#x000d7;10<sup>4</sup> mouse LD<sub>50</sub> per ml of serum while using only 80 &#x000b5;g of total antigen and nasal delivery. One rabbit immunized with a Hc&#x003b2;tre and CT had a serum BoNT/A neutralization capacity of 800 mouse LD<sub>50</sub> per ml of serum demonstrating the ability of Hc&#x003b2;tre to induce BoNT/A neutralizing antibodies. Our use of higher doses of Hc&#x003b2;tre or Hc&#x003b2;tre-Ad2F would likely have induced more potent BoNT/A neutralizing antibody responses.</p><p>The exact mechanism utilized by Ad2F to augment the immunogenicity of nasally-delivered Hc&#x003b2;tre is not clear. We originally selected Ad2F as a mucosal targeting ligand and demonstrated its ability to mediate antigen binding at the epithelial surface in the mouse nasal cavity <xref rid="pone.0016532-Maddaloni1" ref-type="bibr">[7]</xref>. Therefore, it is possible that Hc&#x003b2;tre-Ad2F immunogens bind to the epithelial surface after nasal delivery to rabbits resulting in enhanced antigen retention within the nasal cavity allowing more antigen to be available for induction of Hc&#x003b2;tre-specific immune responses. This conclusion is supported by recent studies in our group demonstrating that nasal vaccination regimens in rabbits that enhance retention of the vaccine within the nasal cavity enhance the induction of antigen-specific serum antibodies <xref rid="pone.0016532-Gwinn1" ref-type="bibr">[50]</xref>. Studies in the mouse that demonstrate superior induction of BoNT/A neutralizing antibodies when using vaccine formulations that result in continued adherence of the vaccine to the nasal epithelium also support this conclusion <xref rid="pone.0016532-Nochi1" ref-type="bibr">[51]</xref>. Although antigen retention within the nasal cavity may contribute to the enhanced immunogenicity of Hc&#x003b2;tre-Ad2F immunogens, the ability of Ad2F to induce cytokine and chemokine expression after binding to its receptor, the coxsackie-adenovirus receptor (CAR), may also contribute to the superior immunogenicity of Hc&#x003b2;tre-Ad2F <xref rid="pone.0016532-Schoggins1" ref-type="bibr">[52]</xref>.</p><p>Induction of BoNT/A-neutralizing antibodies required the use of an adjuvant. We utilized CT as a classic mucosal vaccine adjuvant to determine if the mast cell activator C48/80 <xref rid="pone.0016532-McLachlan1" ref-type="bibr">[17]</xref> provided effective adjuvant activity in the rabbit comparable to that provided by CT. C48/80 provided effective adjuvant activity that was comparable to that provided by CT after nasal immunization with Hc&#x003b2;tre-Ad2F. We have previously reported the C48/80 provided effective adjuvant activity in mice while not inducing antigen-specific IgE responses or other adverse effects such as induction of anaphylactic reactions <xref rid="pone.0016532-McLachlan1" ref-type="bibr">[17]</xref>, <xref rid="pone.0016532-McGowen1" ref-type="bibr">[18]</xref>. Although antigen-specific IgE responses were not monitored in this rabbit study, the use of C48/80 was not associated with the induction of adverse effects such as immediate immunization site reactions or hypersensitivity reactions. While additional studies are needed to thoroughly evaluate the preclinical toxicity of C48/80, no adverse effects have been observed to date. Our results are the first to demonstrate that mast cell activators provide safe and effective mucosal vaccine adjuvant activity in rabbits.</p><p>Many factors such as antibody concentration, specificity and avidity may contribute to the biological activity of vaccine-induced antibodies. Attempts at mapping linear epitopes recognized by Hc&#x003b2;tre and Hc&#x003b2;tre-Ad2F vaccine-induced antibodies were unsuccessful (data not shown) suggesting that the antibodies induced by the Hc&#x003b2;tre immunogens recognize conformational epitopes. By measuring the relative avidity of anti-Hc&#x003b2;tre serum Ig with the use of a modified ELISA <xref rid="pone.0016532-Chen1" ref-type="bibr">[29]</xref>&#x02013;<xref rid="pone.0016532-McCloskey1" ref-type="bibr">[31]</xref> that tests serum at similar antibody concentrations, we determined that serum samples with BoNT/A neutralization activity exhibited a relative binding avidity that was significantly higher than the relative avidity of non-neutralizing antibodies. Our results are in agreement with observations that the biological activity of antibodies is positively correlated with their binding avidity for their specific antigen <xref rid="pone.0016532-Marks1" ref-type="bibr">[37]</xref>, <xref rid="pone.0016532-Maynard1" ref-type="bibr">[38]</xref>, <xref rid="pone.0016532-Harris1" ref-type="bibr">[53]</xref>&#x02013;<xref rid="pone.0016532-Schlesinger1" ref-type="bibr">[55]</xref>. Induction of high avidity, BoNT/A-neutralizing antibodies required the use of adjuvants (CT or C48/80) and future studies will work to optimize vaccine formulations and adjuvants for their ability to induce high-avidity antibodies.</p><p>Nasal immunization with Hc&#x003b2;tre or Hc&#x003b2;tre-Ad2F in Dutch belted rabbits induced minimal vaginal or fecal anti-Hc&#x003b2;tre IgA responses (data not shown). Although we have demonstrated in mouse models that nasal vaccination is an effective method of immunization for the induction of antigen-specific mucosal IgA <xref rid="pone.0016532-Maddaloni1" ref-type="bibr">[7]</xref>, <xref rid="pone.0016532-Gwinn1" ref-type="bibr">[50]</xref>, <xref rid="pone.0016532-Bradney2" ref-type="bibr">[56]</xref>&#x02013;<xref rid="pone.0016532-Gwinn2" ref-type="bibr">[59]</xref>, our nasal immunization studies in non-human primates <xref rid="pone.0016532-Gwinn2" ref-type="bibr">[59]</xref>, <xref rid="pone.0016532-Egan1" ref-type="bibr">[60]</xref> and rabbits <xref rid="pone.0016532-Gwinn1" ref-type="bibr">[50]</xref> have failed to consistently induce mucosal IgA responses in fecal samples or vaginal secretions. Our results in rabbits are supported by published reports from others that also failed to induce significant mucosal IgA responses after nasal immunization <xref rid="pone.0016532-Huang1" ref-type="bibr">[61]</xref>, <xref rid="pone.0016532-Coucke1" ref-type="bibr">[62]</xref>. Our use of low antigen doses may have contributed to the poor induction of mucosal IgA in rabbits after nasal immunization with Hc&#x003b2;tre immunogens since antigen dose has been demonstrated to influence the induction of mucosal IgA responses after nasal immunization <xref rid="pone.0016532-Boyaka2" ref-type="bibr">[63]</xref>. Collectively, these results suggest that the conditions required for induction of mucosal IgA in non-rodents requires further studies.</p><p>While the live-attenuated influenza vaccine (LAIV) provides a convincing example that nasally-administered vaccines may be approved by the U.S. Food and Drug Administration (FDA) and are able to safely induce the desired immune responses in humans <xref rid="pone.0016532-Moro1" ref-type="bibr">[64]</xref>&#x02013;<xref rid="pone.0016532-DeVilliers1" ref-type="bibr">[66]</xref>, additional pre-clinical studies are needed to develop nasal subunit vaccines for use in humans. For example, the potential for vaccine-induced inflammation in the lungs is a significant concern when considering the development of nasally-administered vaccines for use in humans since murine nasal immunization studies have demonstrated the induction of antigen-specific IgE and airway inflammation when potent adjuvants such as cholera toxin are used <xref rid="pone.0016532-Simecka1" ref-type="bibr">[22]</xref>, <xref rid="pone.0016532-Newman1" ref-type="bibr">[67]</xref>. Clear advantages of using our vaccine formulation are the lack of vaccine-induced IgE or anaphylactic reactions by C48/80 when used as a nasal vaccine adjuvant in mice <xref rid="pone.0016532-McLachlan1" ref-type="bibr">[17]</xref> and the lack of sensitivity reactions in rabbits. To avoid potential lung inflammation, nasal immunization methods must include in its design a means to retain the vaccine in the nares, while simultaneously preventing subsequent deposition into the lungs. This can be accomplished by limiting the vaccine to the upper respiratory tract by nasal sprays that deliver large droplets <xref rid="pone.0016532-Newman1" ref-type="bibr">[67]</xref> or the use of dry powder vaccine formulations with large particles (i.e., approximately 10 &#x000b5;m) that are directed only to the upper respiratory tract and unable to reach the lung <xref rid="pone.0016532-Kleinstreuer1" ref-type="bibr">[68]</xref>. Since humans are repeatedly exposed to natural upper respiratory tract infections that induce inflammation and antigen-specific immune responses with no obvious deleterious effects to the host, it seems unlikely that adjuvant-dependent or antigen-specific immune responses induced by nasal immunization would initiate adverse effects in the host. Additional preclinical studies are needed to evaluate the safety and toxicity of nasally-delivered subunit vaccines.</p><p>To summarize, recombinant BoNT/A immunogens utilizing the Hc&#x003b2;tre domain are effective immunogens that contain BoNT/A neutralizing epitopes. When expressed as a fusion protein with Hc&#x003b2;tre, the mucosal targeting ligand Ad2F significantly improved the nasal immunogenicity of Hc&#x003b2;tre and enhanced the induction of BoNT/A neutralizing antibodies with increased avidity when delivered with adjuvants. The chemical mast cell activator C48/80 provided adjuvant activity for nasally administered Hc&#x003b2;tre-Ad2F that was comparable to the adjuvant activity of cholera toxin. Collectively, our results suggest that the use of the mucosal targeting ligand Ad2F and the novel adjuvant C48/80 are effective methods to augment the immunogenicity of nasally-delivered subunit immunogens for the induction of antibodies with increased avidity and biological activity.</p></sec></body><back><ack><p>The authors thank Ms. Nancy Kommers for her assistance in preparing this manuscript.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This work was supported by NIH grants R01 AI064879, R21 AI059591, R01 AI078938, and Rocky Mountain Research Center of Excellence, NIH U54 AI06537, and in part by Montana Agricultural Station and U.S. Department of Agriculture Formula Funds. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0016532-Lacy1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lacy</surname><given-names>DB</given-names></name><name><surname>Tepp</surname><given-names>W</given-names></name><name><surname>Cohen</surname><given-names>AC</given-names></name><name><surname>DasGupta</surname><given-names>BR</given-names></name><name><surname>Stevens</surname><given-names>RC</given-names></name></person-group>
+<year>1998</year>
+<article-title>Crystal structure of botulinum neurotoxin type A and implications for toxicity.</article-title>
+<source>Nature Structural Biology</source>
+<volume>5</volume>
+<fpage>898</fpage>
+<lpage>902</lpage>
+<pub-id pub-id-type="pmid">9783750</pub-id></element-citation></ref><ref id="pone.0016532-Krieglstein1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krieglstein</surname><given-names>KG</given-names></name><name><surname>DasGupta</surname><given-names>BR</given-names></name><name><surname>Henschen</surname><given-names>AH</given-names></name></person-group>
+<year>1994</year>
+<article-title>Covalent structure of botulinum neurotoxin type A: location of sulfhydryl groups, and disulfide bridges and identification of C-termini of light and heavy chains.</article-title>
+<source>Journal of Protein Chemistry</source>
+<volume>13</volume>
+<fpage>49</fpage>
+<lpage>57</lpage>
+<pub-id pub-id-type="pmid">8011071</pub-id></element-citation></ref><ref id="pone.0016532-Ginalski1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ginalski</surname><given-names>K</given-names></name><name><surname>Venclovas</surname><given-names>C</given-names></name><name><surname>Lesyng</surname><given-names>B</given-names></name><name><surname>Fidelis</surname><given-names>K</given-names></name></person-group>
+<year>2000</year>
+<article-title>Structure-based sequence alignment for the Beta-trefoil subdomain of the clostridial neurotoxin family provides residue level information about the putative ganglioside binding site.</article-title>
+<source>FEBS Letters</source>
+<volume>482</volume>
+<fpage>119</fpage>
+<lpage>124</lpage>
+<pub-id pub-id-type="pmid">11018534</pub-id></element-citation></ref><ref id="pone.0016532-Arnon1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arnon</surname><given-names>SS</given-names></name><name><surname>Schechter</surname><given-names>R</given-names></name><name><surname>Inglesby</surname><given-names>TV</given-names></name><name><surname>Henderson</surname><given-names>DA</given-names></name><name><surname>Bartlett</surname><given-names>JG</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Botulinum Toxin as a Biological Weapon: Medical and Public Health Management.</article-title>
+<source>JAMA</source>
+<volume>285</volume>
+<fpage>1059</fpage>
+<lpage>1070</lpage>
+<pub-id pub-id-type="pmid">11209178</pub-id></element-citation></ref><ref id="pone.0016532-Smith1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>LA</given-names></name></person-group>
+<year>2009</year>
+<article-title>Botulism and vaccines for its prevention.</article-title>
+<source>Vaccine</source>
+<volume>27</volume>
+<issue>Suppl 4</issue>
+<fpage>D33</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="pmid">19837283</pub-id></element-citation></ref><ref id="pone.0016532-Rusnak1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rusnak</surname><given-names>JM</given-names></name><name><surname>Smith</surname><given-names>LA</given-names></name></person-group>
+<year>2009</year>
+<article-title>Botulinum neurotoxin vaccines: Past history and recent developments.</article-title>
+<source>Hum Vaccin</source>
+<volume>5</volume>
+</element-citation></ref><ref id="pone.0016532-Maddaloni1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maddaloni</surname><given-names>M</given-names></name><name><surname>Staats</surname><given-names>HF</given-names></name><name><surname>Mierzejewska</surname><given-names>D</given-names></name><name><surname>Hoyt</surname><given-names>T</given-names></name><name><surname>Robinson</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Mucosal vaccine targeting improves onset of mucosal and systemic immunity to botulinum neurotoxin A.</article-title>
+<source>J Immunol</source>
+<volume>177</volume>
+<fpage>5524</fpage>
+<lpage>5532</lpage>
+<pub-id pub-id-type="pmid">17015739</pub-id></element-citation></ref><ref id="pone.0016532-Wu1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>HY</given-names></name><name><surname>Nguyen</surname><given-names>HH</given-names></name><name><surname>Russell</surname><given-names>MW</given-names></name></person-group>
+<year>1997</year>
+<article-title>Nasal lymphoid tissue (NALT) as a mucosal immune inductive site.</article-title>
+<source>Scandinavian Journal of Immunology</source>
+<volume>46</volume>
+<fpage>506</fpage>
+<lpage>513</lpage>
+<pub-id pub-id-type="pmid">9393634</pub-id></element-citation></ref><ref id="pone.0016532-Wu2"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>HY</given-names></name><name><surname>Russell</surname><given-names>MW</given-names></name></person-group>
+<year>1997</year>
+<article-title>Nasal Lymphoid Tissue, Intranasal Immunization, and Compartmentalization of the Common Mucosal Immune System.</article-title>
+<source>Immunologic Research</source>
+<volume>16</volume>
+<fpage>187</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="pmid">9212364</pub-id></element-citation></ref><ref id="pone.0016532-Zuercher1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zuercher</surname><given-names>AW</given-names></name><name><surname>Cebra</surname><given-names>JJ</given-names></name></person-group>
+<year>2002</year>
+<article-title>Structural and functional differences between putative mucosal inductive sites of the rat.</article-title>
+<source>European Journal of Immunology</source>
+<volume>32</volume>
+<fpage>3191</fpage>
+<lpage>3196</lpage>
+<pub-id pub-id-type="pmid">12555664</pub-id></element-citation></ref><ref id="pone.0016532-Bienenstock1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bienenstock</surname><given-names>J</given-names></name><name><surname>McDermott</surname><given-names>MR</given-names></name></person-group>
+<year>2005</year>
+<article-title>Bronchus- and nasal-associated lymphoid tissues.</article-title>
+<source>Immunological Reviews</source>
+<volume>206</volume>
+<fpage>22</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="pmid">16048540</pub-id></element-citation></ref><ref id="pone.0016532-Kiyono1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kiyono</surname><given-names>H</given-names></name><name><surname>Fukuyama</surname><given-names>S</given-names></name></person-group>
+<year>2004</year>
+<article-title>NALT- versus Peyer's-patch-mediated mucosal immunity.</article-title>
+<source>Nat Rev Immunol</source>
+<volume>4</volume>
+<fpage>699</fpage>
+<lpage>710</lpage>
+<pub-id pub-id-type="pmid">15343369</pub-id></element-citation></ref><ref id="pone.0016532-Debertin1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Debertin</surname><given-names>AS</given-names></name><name><surname>Tscherning</surname><given-names>T</given-names></name><name><surname>Tonjes</surname><given-names>H</given-names></name><name><surname>Kleemann</surname><given-names>WJ</given-names></name><name><surname>Troger</surname><given-names>HD</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Nasal-associated lymphoid tissue (NALT): frequency and localization in young children.</article-title>
+<source>Clin Exp Immunol</source>
+<volume>134</volume>
+<fpage>503</fpage>
+<lpage>507</lpage>
+<pub-id pub-id-type="pmid">14632758</pub-id></element-citation></ref><ref id="pone.0016532-Casteleyn1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Casteleyn</surname><given-names>C</given-names></name><name><surname>Broos</surname><given-names>AM</given-names></name><name><surname>Simoens</surname><given-names>P</given-names></name><name><surname>Van den Broeck</surname><given-names>W</given-names></name></person-group>
+<year>2010</year>
+<article-title>NALT (nasal cavity-associated lymphoid tissue) in the rabbit.</article-title>
+<source>Vet Immunol Immunopathol</source>
+<volume>133</volume>
+<fpage>212</fpage>
+<lpage>218</lpage>
+<pub-id pub-id-type="pmid">19733916</pub-id></element-citation></ref><ref id="pone.0016532-Brandtzaeg1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brandtzaeg</surname><given-names>P</given-names></name></person-group>
+<year>2003</year>
+<article-title>Immunology of tonsils and adenoids: everything the ENT surgeon needs to know.</article-title>
+<source>International Journal of Pediatric Otorhinolaryngology</source>
+<volume>67</volume>
+<fpage>S69</fpage>
+<lpage>S76</lpage>
+<pub-id pub-id-type="pmid">14662171</pub-id></element-citation></ref><ref id="pone.0016532-Boyaka1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boyaka</surname><given-names>PN</given-names></name><name><surname>Wright</surname><given-names>PF</given-names></name><name><surname>Marinaro</surname><given-names>M</given-names></name><name><surname>Kiyono</surname><given-names>H</given-names></name><name><surname>Johnson</surname><given-names>JE</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Human nasopharyngeal-associated lymphoreticular tissues. Functional analysis of subepithelial and intraepithelial B and T cells from adenoids and tonsils.</article-title>
+<source>Am J Pathol</source>
+<volume>157</volume>
+<fpage>2023</fpage>
+<lpage>2035</lpage>
+<pub-id pub-id-type="pmid">11106575</pub-id></element-citation></ref><ref id="pone.0016532-McLachlan1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McLachlan</surname><given-names>JB</given-names></name><name><surname>Shelburne</surname><given-names>CP</given-names></name><name><surname>Hart</surname><given-names>JP</given-names></name><name><surname>Pizzo</surname><given-names>SV</given-names></name><name><surname>Goyal</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Mast cell activators: a new class of highly effective vaccine adjuvants.</article-title>
+<source>Nature Medicine</source>
+<volume>14</volume>
+<fpage>536</fpage>
+<lpage>541</lpage>
+</element-citation></ref><ref id="pone.0016532-McGowen1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGowen</surname><given-names>AL</given-names></name><name><surname>Hale</surname><given-names>LP</given-names></name><name><surname>Shelburne</surname><given-names>CP</given-names></name><name><surname>Abraham</surname><given-names>SN</given-names></name><name><surname>Staats</surname><given-names>HF</given-names></name></person-group>
+<year>2009</year>
+<article-title>The mast cell activator compound 48/80 is safe and effective when used as an adjuvant for intradermal immunization with Bacillus anthracis protective antigen.</article-title>
+<source>Vaccine</source>
+<volume>27</volume>
+<fpage>3544</fpage>
+<lpage>3552</lpage>
+<pub-id pub-id-type="pmid">19464533</pub-id></element-citation></ref><ref id="pone.0016532-Snider1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Snider</surname><given-names>DP</given-names></name><name><surname>Marshall</surname><given-names>JS</given-names></name><name><surname>Perdue</surname><given-names>MH</given-names></name><name><surname>Liang</surname><given-names>H</given-names></name></person-group>
+<year>1994</year>
+<article-title>Production of IgE antibody and allergic sensitization of intestinal and peripheral tissues after oral immunization with protein Ag and cholera toxin.</article-title>
+<source>Journal of Immunology</source>
+<volume>153</volume>
+<fpage>647</fpage>
+<lpage>657</lpage>
+</element-citation></ref><ref id="pone.0016532-vanGinkel1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Ginkel</surname><given-names>FW</given-names></name><name><surname>Jackson</surname><given-names>RJ</given-names></name><name><surname>Yuki</surname><given-names>Y</given-names></name><name><surname>McGhee</surname><given-names>JR</given-names></name></person-group>
+<year>2000</year>
+<article-title>Cutting Edge: The mucosal adjuvant cholera toxin redirects vaccine proteins into olfactory tissues.</article-title>
+<source>The Journal of Immunology</source>
+<volume>165</volume>
+<fpage>4778</fpage>
+<lpage>4782</lpage>
+<pub-id pub-id-type="pmid">11045998</pub-id></element-citation></ref><ref id="pone.0016532-Marinaro1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marinaro</surname><given-names>M</given-names></name><name><surname>Staats</surname><given-names>HF</given-names></name><name><surname>Hiroi</surname><given-names>T</given-names></name><name><surname>Jackson</surname><given-names>RJ</given-names></name><name><surname>Coste</surname><given-names>M</given-names></name><etal/></person-group>
+<year>1995</year>
+<article-title>Mucosal adjuvant effect of cholera toxin in mice results from induction of T helper 2 (Th2) cells and IL-4.</article-title>
+<source>Journal of Immunology</source>
+<volume>155</volume>
+<fpage>4621</fpage>
+<lpage>4629</lpage>
+</element-citation></ref><ref id="pone.0016532-Simecka1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simecka</surname><given-names>JW</given-names></name><name><surname>Jackson</surname><given-names>RJ</given-names></name><name><surname>Kiyono</surname><given-names>H</given-names></name><name><surname>McGhee</surname><given-names>JR</given-names></name></person-group>
+<year>2000</year>
+<article-title>Mucosally Induced Immunoglobulin E-Associated Inflammation in the Respiratory Tract.</article-title>
+<source>Infect Immun</source>
+<volume>68</volume>
+<fpage>672</fpage>
+<lpage>679</lpage>
+<pub-id pub-id-type="pmid">10639432</pub-id></element-citation></ref><ref id="pone.0016532-Couch1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Couch</surname><given-names>RB</given-names></name></person-group>
+<year>2004</year>
+<article-title>Nasal vaccination, Escherichia coli enterotoxin, and Bell's palsy. [comment].</article-title>
+<source>New England Journal of Medicine</source>
+<volume>350</volume>
+<fpage>860</fpage>
+<lpage>861</lpage>
+<pub-id pub-id-type="pmid">14985482</pub-id></element-citation></ref><ref id="pone.0016532-Mutsch1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mutsch</surname><given-names>M</given-names></name><name><surname>Zhou</surname><given-names>W</given-names></name><name><surname>Rhodes</surname><given-names>P</given-names></name><name><surname>Bopp</surname><given-names>M</given-names></name><name><surname>Chen</surname><given-names>RT</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Use of the inactivated intranasal influenza vaccine and the risk of Bell's palsy in Switzerland. [see comment].</article-title>
+<source>New England Journal of Medicine</source>
+<volume>350</volume>
+<fpage>896</fpage>
+<lpage>903</lpage>
+<pub-id pub-id-type="pmid">14985487</pub-id></element-citation></ref><ref id="pone.0016532-Lewis1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lewis</surname><given-names>DJ</given-names></name><name><surname>Huo</surname><given-names>Z</given-names></name><name><surname>Barnett</surname><given-names>S</given-names></name><name><surname>Kromann</surname><given-names>I</given-names></name><name><surname>Giemza</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Transient facial nerve paralysis (Bell's palsy) following intranasal delivery of a genetically detoxified mutant of Escherichia coli heat labile toxin.</article-title>
+<source>PLoS One</source>
+<volume>4</volume>
+<fpage>e6999</fpage>
+<pub-id pub-id-type="pmid">19756141</pub-id></element-citation></ref><ref id="pone.0016532-Staats1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Staats</surname><given-names>HF</given-names></name><name><surname>Alam</surname><given-names>SM</given-names></name><name><surname>Scearce</surname><given-names>RM</given-names></name><name><surname>Kirwan</surname><given-names>SM</given-names></name><name><surname>Zhang</surname><given-names>JX</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>In vitro and in vivo characterization of anthrax anti-protective antigen and anti-lethal factor monoclonal antibodies after passive transfer in a mouse lethal toxin challenge model to define correlates of immunity.</article-title>
+<source>Infect Immun</source>
+<volume>75</volume>
+<fpage>5443</fpage>
+<lpage>5452</lpage>
+<pub-id pub-id-type="pmid">17709410</pub-id></element-citation></ref><ref id="pone.0016532-Nordone1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nordone</surname><given-names>SK</given-names></name><name><surname>Peacock</surname><given-names>JW</given-names></name><name><surname>Kirwan</surname><given-names>SM</given-names></name><name><surname>Staats</surname><given-names>HF</given-names></name></person-group>
+<year>2006</year>
+<article-title>Capric acid and hydroxypropylmethylcellulose increase the immunogenicity of nasally administered peptide vaccines.</article-title>
+<source>AIDS Research and Human Retroviruses</source>
+<volume>22</volume>
+<fpage>558</fpage>
+<lpage>568</lpage>
+<pub-id pub-id-type="pmid">16796531</pub-id></element-citation></ref><ref id="pone.0016532-Bradney1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bradney</surname><given-names>CP</given-names></name><name><surname>Sempowski</surname><given-names>GD</given-names></name><name><surname>Liao</surname><given-names>H-X</given-names></name><name><surname>Haynes</surname><given-names>BF</given-names></name><name><surname>Staats</surname><given-names>HF</given-names></name></person-group>
+<year>2002</year>
+<article-title>Cytokines as Adjuvants for the Induction of Anti-Human Immunodeficiency Virus Peptide Immunoglobulin G (IgG) and IgA Antibodies in Serum and Mucosal Secretions after Nasal Immunization.</article-title>
+<source>J Virol</source>
+<volume>76</volume>
+<fpage>517</fpage>
+<lpage>524</lpage>
+<pub-id pub-id-type="pmid">11752142</pub-id></element-citation></ref><ref id="pone.0016532-Chen1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>D</given-names></name><name><surname>Zuleger</surname><given-names>C</given-names></name><name><surname>Chu</surname><given-names>Q</given-names></name><name><surname>Maa</surname><given-names>YF</given-names></name><name><surname>Osorio</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Epidermal Powder Immunization with a Recombinant HIV gp120 Targets Langerhans Cells and Induces Enhanced Immune Responses.</article-title>
+<source>AIDS Research and Human Retroviruses</source>
+<volume>18</volume>
+<fpage>715</fpage>
+<lpage>722</lpage>
+<pub-id pub-id-type="pmid">12167279</pub-id></element-citation></ref><ref id="pone.0016532-Srivastava1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Srivastava</surname><given-names>IK</given-names></name><name><surname>Stamatatos</surname><given-names>L</given-names></name><name><surname>Legg</surname><given-names>H</given-names></name><name><surname>Kan</surname><given-names>E</given-names></name><name><surname>Fong</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Purification and characterization of oligomeric envelope glycoprotein from a primary R5 subtype B human immunodeficiency virus.</article-title>
+<source>J Virol</source>
+<volume>76</volume>
+<fpage>2835</fpage>
+<lpage>2847</lpage>
+<pub-id pub-id-type="pmid">11861851</pub-id></element-citation></ref><ref id="pone.0016532-McCloskey1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCloskey</surname><given-names>N</given-names></name><name><surname>Turner</surname><given-names>MW</given-names></name><name><surname>Goldblatt</surname><given-names>TD</given-names></name></person-group>
+<year>1997</year>
+<article-title>Correlation between the avidity of mouse-human chimeric IgG subclass monoclonal antibodies measured by solid-phase elution ELISA and biospecific interaction analysis (BIA).</article-title>
+<source>Journal of Immunological Methods</source>
+<volume>205</volume>
+<fpage>67</fpage>
+<lpage>72</lpage>
+<pub-id pub-id-type="pmid">9236916</pub-id></element-citation></ref><ref id="pone.0016532-Baldwin1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baldwin</surname><given-names>MR</given-names></name><name><surname>Tepp</surname><given-names>WH</given-names></name><name><surname>Pier</surname><given-names>CL</given-names></name><name><surname>Bradshaw</surname><given-names>M</given-names></name><name><surname>Ho</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Characterization of the antibody response to the receptor binding domain of botulinum neurotoxin serotypes A and E.</article-title>
+<source>Infection &#x00026; Immunity</source>
+<volume>73</volume>
+<fpage>6998</fpage>
+<lpage>7005</lpage>
+<pub-id pub-id-type="pmid">16177380</pub-id></element-citation></ref><ref id="pone.0016532-Smith2"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>LA</given-names></name><name><surname>Rusnak</surname><given-names>JM</given-names></name></person-group>
+<year>2007</year>
+<article-title>Botulinum neurotoxin vaccines: past, present, and future.</article-title>
+<source>Crit Rev Immunol</source>
+<volume>27</volume>
+<fpage>303</fpage>
+<lpage>318</lpage>
+<pub-id pub-id-type="pmid">18197811</pub-id></element-citation></ref><ref id="pone.0016532-Singh1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Singh</surname><given-names>BR</given-names></name><name><surname>DasGupta</surname><given-names>BR</given-names></name></person-group>
+<year>1989</year>
+<article-title>Molecular differences between type A botulinum neurotoxin and its toxoid.</article-title>
+<source>Toxicon</source>
+<volume>27</volume>
+<fpage>403</fpage>
+<lpage>410</lpage>
+<pub-id pub-id-type="pmid">2728029</pub-id></element-citation></ref><ref id="pone.0016532-Heimsch1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heimsch</surname><given-names>RC</given-names></name><name><surname>Champion</surname><given-names>LA</given-names></name><name><surname>Sugiyama</surname><given-names>H</given-names></name></person-group>
+<year>1970</year>
+<article-title>Botulinal toxin and toxoid as antigens.</article-title>
+<source>Proceedings of the Society for Experimental Biology &#x00026; Medicine</source>
+<volume>135</volume>
+<fpage>151</fpage>
+<lpage>154</lpage>
+<pub-id pub-id-type="pmid">4920940</pub-id></element-citation></ref><ref id="pone.0016532-Olszewska1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olszewska</surname><given-names>W</given-names></name><name><surname>Obeid</surname><given-names>OE</given-names></name><name><surname>Steward</surname><given-names>MW</given-names></name></person-group>
+<year>2000</year>
+<article-title>Protection against measles virus-induced encephalitis by anti-mimotope antibodies: the role of antibody affinity.</article-title>
+<source>Virology</source>
+<volume>272</volume>
+<fpage>98</fpage>
+<lpage>105</lpage>
+<pub-id pub-id-type="pmid">10873752</pub-id></element-citation></ref><ref id="pone.0016532-Marks1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marks</surname><given-names>JD</given-names></name></person-group>
+<year>2004</year>
+<article-title>Deciphering antibody properties that lead to potent botulinum neurotoxin neutralization.</article-title>
+<source>Movement Disorders</source>
+<volume>19</volume>
+</element-citation></ref><ref id="pone.0016532-Maynard1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maynard</surname><given-names>JA</given-names></name><name><surname>Maassen</surname><given-names>CB</given-names></name><name><surname>Leppla</surname><given-names>SH</given-names></name><name><surname>Brasky</surname><given-names>K</given-names></name><name><surname>Patterson</surname><given-names>JL</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Protection against anthrax toxin by recombinant antibody fragments correlates with antigen affinity.</article-title>
+<source>Nature Biotechnology</source>
+<volume>20</volume>
+<fpage>597</fpage>
+<lpage>601</lpage>
+</element-citation></ref><ref id="pone.0016532-Kermode1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kermode</surname><given-names>M</given-names></name></person-group>
+<year>2004</year>
+<article-title>Unsafe injections in low-income country health settings: need for injection safety promotion to prevent the spread of blood-borne viruses.</article-title>
+<source>Health Promot Int</source>
+<volume>19</volume>
+<fpage>95</fpage>
+<lpage>103</lpage>
+<pub-id pub-id-type="pmid">14976177</pub-id></element-citation></ref><ref id="pone.0016532-Allegranzi1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Allegranzi</surname><given-names>B</given-names></name><name><surname>Storr</surname><given-names>J</given-names></name><name><surname>Dziekan</surname><given-names>G</given-names></name><name><surname>Leotsakos</surname><given-names>A</given-names></name><name><surname>Donaldson</surname><given-names>L</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>The First Global Patient Safety Challenge &#x0201c;Clean Care is Safer Care&#x0201d;: from launch to current progress and achievements.</article-title>
+<source>Journal of Hospital Infection</source>
+<volume>65</volume>
+<issue>Suppl 2</issue>
+<fpage>115</fpage>
+<lpage>123</lpage>
+<pub-id pub-id-type="pmid">17540254</pub-id></element-citation></ref><ref id="pone.0016532-Reid1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reid</surname><given-names>S</given-names></name></person-group>
+<year>2009</year>
+<article-title>Increase in clinical prevalence of AIDS implies increase in unsafe medical injections.</article-title>
+<source>Int J STD AIDS</source>
+<volume>20</volume>
+<fpage>295</fpage>
+<lpage>299</lpage>
+<pub-id pub-id-type="pmid">19386964</pub-id></element-citation></ref><ref id="pone.0016532-WHO1"><label>42</label><element-citation publication-type="book">
+<collab>WHO</collab>
+<year>2002</year>
+<article-title>Fact Sheet 231.</article-title>
+<publisher-name>SAFETY OF INJECTIONS. Misuse and overuse of injection worldwide</publisher-name>
+</element-citation></ref><ref id="pone.0016532-Jodar1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jodar</surname><given-names>L</given-names></name><name><surname>Duclos</surname><given-names>P</given-names></name><name><surname>Milstien</surname><given-names>JB</given-names></name><name><surname>Griffiths</surname><given-names>E</given-names></name><name><surname>Aguado</surname><given-names>MT</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Ensuring vaccine safety in immunization programmes&#x02014;a WHO perspective.</article-title>
+<source>Vaccine</source>
+<volume>19</volume>
+<fpage>1594</fpage>
+<lpage>1605</lpage>
+<pub-id pub-id-type="pmid">11166881</pub-id></element-citation></ref><ref id="pone.0016532-Nir1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nir</surname><given-names>Y</given-names></name><name><surname>Paz</surname><given-names>A</given-names></name><name><surname>Sabo</surname><given-names>E</given-names></name><name><surname>Potasman</surname><given-names>I</given-names></name></person-group>
+<year>2003</year>
+<article-title>Fear of injections in young adults: prevalence and associations.</article-title>
+<source>American Journal of Tropical Medicine and Hygiene</source>
+<volume>68</volume>
+<fpage>341</fpage>
+<lpage>344</lpage>
+<pub-id pub-id-type="pmid">12685642</pub-id></element-citation></ref><ref id="pone.0016532-Aggerbeck1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aggerbeck</surname><given-names>H</given-names></name><name><surname>Gizurarson</surname><given-names>S</given-names></name><name><surname>Wantzin</surname><given-names>J</given-names></name><name><surname>Heron</surname><given-names>I</given-names></name></person-group>
+<year>1997</year>
+<article-title>Intranasal Booster Vaccination Against Diphtheria and Tetanus in Man.</article-title>
+<source>Vaccine</source>
+<volume>15</volume>
+<fpage>307</fpage>
+<lpage>316</lpage>
+<pub-id pub-id-type="pmid">9139491</pub-id></element-citation></ref><ref id="pone.0016532-Millner1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Millner</surname><given-names>VS</given-names></name><name><surname>Eichold</surname><given-names>BH</given-names><suffix>2nd</suffix></name><name><surname>Franks</surname><given-names>RD</given-names></name><name><surname>Johnson</surname><given-names>GD</given-names></name></person-group>
+<year>2010</year>
+<article-title>Influenza vaccination acceptance and refusal rates among health care personnel.</article-title>
+<source>Southern Medical Journal</source>
+<volume>103</volume>
+<fpage>993</fpage>
+<lpage>998</lpage>
+<pub-id pub-id-type="pmid">20818310</pub-id></element-citation></ref><ref id="pone.0016532-Beyer1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beyer</surname><given-names>WE</given-names></name><name><surname>Palache</surname><given-names>AM</given-names></name><name><surname>de Jong</surname><given-names>JC</given-names></name><name><surname>Osterhaus</surname><given-names>AD</given-names></name></person-group>
+<year>2002</year>
+<article-title>Cold-adapted live influenza vaccine versus inactivated vaccine: systemic vaccine reactions, local and systemic antibody response, and vaccine efficacy. A meta-analysis. [see comment].</article-title>
+<source>Vaccine</source>
+<volume>20</volume>
+<fpage>1340</fpage>
+<lpage>1353</lpage>
+<pub-id pub-id-type="pmid">11818152</pub-id></element-citation></ref><ref id="pone.0016532-Cox1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cox</surname><given-names>RJ</given-names></name><name><surname>Brokstad</surname><given-names>KA</given-names></name><name><surname>Ogra</surname><given-names>P</given-names></name></person-group>
+<year>2004</year>
+<article-title>Influenza virus: immunity and vaccination strategies. Comparison of the immune response to inactivated and live, attenuated influenza vaccines.</article-title>
+<source>Scandinavian Journal of Immunology</source>
+<volume>59</volume>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="pmid">14723616</pub-id></element-citation></ref><ref id="pone.0016532-Brandtzaeg2"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brandtzaeg</surname><given-names>P</given-names></name></person-group>
+<year>2007</year>
+<article-title>Induction of secretory immunity and memory at mucosal surfaces.</article-title>
+<source>Vaccine</source>
+<volume>25</volume>
+<fpage>5467</fpage>
+<lpage>5484</lpage>
+<pub-id pub-id-type="pmid">17227687</pub-id></element-citation></ref><ref id="pone.0016532-Gwinn1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gwinn</surname><given-names>WM</given-names></name><name><surname>Kirwan</surname><given-names>SM</given-names></name><name><surname>Wang</surname><given-names>SH</given-names></name><name><surname>Ashcraft</surname><given-names>KA</given-names></name><name><surname>Sparks</surname><given-names>NL</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Effective induction of protective systemic immunity with nasally administered vaccines adjuvanted with IL-1.</article-title>
+<source>Vaccine</source>
+<volume>28</volume>
+<fpage>6901</fpage>
+<lpage>6914</lpage>
+<pub-id pub-id-type="pmid">20723629</pub-id></element-citation></ref><ref id="pone.0016532-Nochi1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nochi</surname><given-names>T</given-names></name><name><surname>Yuki</surname><given-names>Y</given-names></name><name><surname>Takahashi</surname><given-names>H</given-names></name><name><surname>Sawada</surname><given-names>S</given-names></name><name><surname>Mejima</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Nanogel antigenic protein-delivery system for adjuvant-free intranasal vaccines.</article-title>
+<source>Nat Mater</source>
+<volume>9</volume>
+<fpage>572</fpage>
+<lpage>578</lpage>
+<pub-id pub-id-type="pmid">20562880</pub-id></element-citation></ref><ref id="pone.0016532-Schoggins1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schoggins</surname><given-names>JW</given-names></name><name><surname>Nociari</surname><given-names>M</given-names></name><name><surname>Philpott</surname><given-names>N</given-names></name><name><surname>Falck-Pedersen</surname><given-names>E</given-names></name></person-group>
+<year>2005</year>
+<article-title>Influence of fiber detargeting on adenovirus-mediated innate and adaptive immune activation.</article-title>
+<source>Journal of Virology</source>
+<volume>79</volume>
+<fpage>11627</fpage>
+<lpage>11637</lpage>
+<pub-id pub-id-type="pmid">16140740</pub-id></element-citation></ref><ref id="pone.0016532-Harris1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harris</surname><given-names>SL</given-names></name><name><surname>King</surname><given-names>WJ</given-names></name><name><surname>Ferris</surname><given-names>W</given-names></name><name><surname>Granoff</surname><given-names>DM</given-names></name></person-group>
+<year>2003</year>
+<article-title>Age-related disparity in functional activities of human group C serum anticapsular antibodies elicited by meningococcal polysaccharide vaccine.</article-title>
+<source>Infect Immun</source>
+<volume>71</volume>
+<fpage>275</fpage>
+<lpage>286</lpage>
+<pub-id pub-id-type="pmid">12496177</pub-id></element-citation></ref><ref id="pone.0016532-Vermont1"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vermont</surname><given-names>CL</given-names></name><name><surname>van Dijken</surname><given-names>HH</given-names></name><name><surname>van Limpt</surname><given-names>CJ</given-names></name><name><surname>de Groot</surname><given-names>R</given-names></name><name><surname>van Alphen</surname><given-names>L</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Antibody avidity and immunoglobulin G isotype distribution following immunization with a monovalent meningococcal B outer membrane vesicle vaccine.</article-title>
+<source>Infect Immun</source>
+<volume>70</volume>
+<fpage>584</fpage>
+<lpage>590</lpage>
+<pub-id pub-id-type="pmid">11796586</pub-id></element-citation></ref><ref id="pone.0016532-Schlesinger1"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schlesinger</surname><given-names>Y</given-names></name><name><surname>Granoff</surname><given-names>DM</given-names></name></person-group>
+<year>1992</year>
+<article-title>Avidity and bactericidal activity of antibody elicited by different Haemophilus influenzae type b conjugate vaccines. The Vaccine Study Group.</article-title>
+<source>Jama</source>
+<volume>267</volume>
+<fpage>1489</fpage>
+<lpage>1494</lpage>
+<pub-id pub-id-type="pmid">1538539</pub-id></element-citation></ref><ref id="pone.0016532-Bradney2"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bradney</surname><given-names>CP</given-names></name><name><surname>Sempowski</surname><given-names>GD</given-names></name><name><surname>Liao</surname><given-names>HX</given-names></name><name><surname>Haynes</surname><given-names>BF</given-names></name><name><surname>Staats</surname><given-names>HF</given-names></name></person-group>
+<year>2002</year>
+<article-title>Cytokines as adjuvants for the induction of anti-human immunodeficiency virus peptide immunoglobulin G (IgG) and IgA antibodies in serum and mucosal secretions after nasal immunization.</article-title>
+<source>J Virol</source>
+<volume>76</volume>
+<fpage>517</fpage>
+<lpage>524</lpage>
+<pub-id pub-id-type="pmid">11752142</pub-id></element-citation></ref><ref id="pone.0016532-Staats2"><label>57</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Staats</surname><given-names>HF</given-names></name><name><surname>Nichols</surname><given-names>WG</given-names></name><name><surname>Palker</surname><given-names>TJ</given-names></name></person-group>
+<year>1996</year>
+<article-title>Mucosal immunity to HIV-1: systemic and vaginal antibody responses after intranasal immunization with the HIV-1 C4/V3 peptide T1SP10 MN(A).</article-title>
+<source>J Immunol</source>
+<volume>157</volume>
+<fpage>462</fpage>
+<lpage>472</lpage>
+<pub-id pub-id-type="pmid">8683152</pub-id></element-citation></ref><ref id="pone.0016532-Kobayashi1"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kobayashi</surname><given-names>R</given-names></name><name><surname>Kohda</surname><given-names>T</given-names></name><name><surname>Kataoka</surname><given-names>K</given-names></name><name><surname>Ihara</surname><given-names>H</given-names></name><name><surname>Kozaki</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>A novel neurotoxoid vaccine prevents mucosal botulism.</article-title>
+<source>J Immunol</source>
+<volume>174</volume>
+<fpage>2190</fpage>
+<lpage>2195</lpage>
+<pub-id pub-id-type="pmid">15699151</pub-id></element-citation></ref><ref id="pone.0016532-Gwinn2"><label>59</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Gwinn</surname><given-names>WM</given-names></name><name><surname>Kirwan</surname><given-names>SM</given-names></name><name><surname>Wang</surname><given-names>SH</given-names></name><name><surname>Ashcraft</surname><given-names>KA</given-names></name><name><surname>Sparks</surname><given-names>NL</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Effective induction of protective systemic immunity with nasally-administered vaccines adjuvanted with IL-1.</article-title>
+<publisher-name>Vaccine</publisher-name>
+</element-citation></ref><ref id="pone.0016532-Egan1"><label>60</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Egan</surname><given-names>MA</given-names></name><name><surname>Chong</surname><given-names>SY</given-names></name><name><surname>Hagen</surname><given-names>M</given-names></name><name><surname>Megati</surname><given-names>S</given-names></name><name><surname>Schadeck</surname><given-names>EB</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>A comparative evaluation of nasal and parenteral vaccine adjuvants to elicit systemic and mucosal HIV-1 peptide-specific humoral immune responses in cynomolgus macaques.</article-title>
+<source>Vaccine</source>
+<volume>22</volume>
+<fpage>3774</fpage>
+<lpage>3788</lpage>
+<pub-id pub-id-type="pmid">15315859</pub-id></element-citation></ref><ref id="pone.0016532-Huang1"><label>61</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>J</given-names></name><name><surname>Mikszta</surname><given-names>JA</given-names></name><name><surname>Ferriter</surname><given-names>MS</given-names></name><name><surname>Jiang</surname><given-names>G</given-names></name><name><surname>Harvey</surname><given-names>NG</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Intranasal administration of dry powder anthrax vaccine provides protection against lethal aerosol spore challenge.</article-title>
+<source>Hum Vaccines</source>
+<volume>3</volume>
+<fpage>90</fpage>
+<lpage>93</lpage>
+</element-citation></ref><ref id="pone.0016532-Coucke1"><label>62</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coucke</surname><given-names>D</given-names></name><name><surname>Schotsaert</surname><given-names>M</given-names></name><name><surname>Libert</surname><given-names>C</given-names></name><name><surname>Pringels</surname><given-names>E</given-names></name><name><surname>Vervaet</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Spray-dried powders of starch and crosslinked poly(acrylic acid) as carriers for nasal delivery of inactivated influenza vaccine.</article-title>
+<source>Vaccine</source>
+<volume>27</volume>
+<fpage>1279</fpage>
+<lpage>1286</lpage>
+<pub-id pub-id-type="pmid">19114075</pub-id></element-citation></ref><ref id="pone.0016532-Boyaka2"><label>63</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boyaka</surname><given-names>PN</given-names></name><name><surname>Tafaro</surname><given-names>A</given-names></name><name><surname>Fischer</surname><given-names>R</given-names></name><name><surname>Leppla</surname><given-names>SH</given-names></name><name><surname>Fujihashi</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Effective Mucosal Immunity to Anthrax: Neutralizing Antibodies and Th Cell Responses Following Nasal Immunization with Protective Antigen.</article-title>
+<source>J Immunol</source>
+<volume>170</volume>
+<fpage>5636</fpage>
+<lpage>5643</lpage>
+<pub-id pub-id-type="pmid">12759444</pub-id></element-citation></ref><ref id="pone.0016532-Moro1"><label>64</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Moro</surname><given-names>PL</given-names></name><name><surname>Broder</surname><given-names>K</given-names></name><name><surname>Zheteyeva</surname><given-names>Y</given-names></name><name><surname>Walton</surname><given-names>K</given-names></name><name><surname>Rohan</surname><given-names>P</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Adverse events in pregnant women following administration of trivalent inactivated influenza vaccine and live attenuated influenza vaccine in the Vaccine Adverse Event Reporting System, 1990-2009.</article-title>
+<publisher-name>American Journal of Obstetrics and Gynecology</publisher-name>
+</element-citation></ref><ref id="pone.0016532-Mallory1"><label>65</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mallory</surname><given-names>RM</given-names></name><name><surname>Malkin</surname><given-names>E</given-names></name><name><surname>Ambrose</surname><given-names>CS</given-names></name><name><surname>Bellamy</surname><given-names>T</given-names></name><name><surname>Shi</surname><given-names>L</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Safety and immunogenicity following administration of a live, attenuated monovalent 2009 H1N1 influenza vaccine to children and adults in two randomized controlled trials.</article-title>
+<source>PLoS ONE</source>
+<volume>5</volume>
+<fpage>e13755</fpage>
+<pub-id pub-id-type="pmid">21060780</pub-id></element-citation></ref><ref id="pone.0016532-DeVilliers1"><label>66</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Villiers</surname><given-names>PJ</given-names></name><name><surname>Steele</surname><given-names>AD</given-names></name><name><surname>Hiemstra</surname><given-names>LA</given-names></name><name><surname>Rappaport</surname><given-names>R</given-names></name><name><surname>Dunning</surname><given-names>AJ</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Efficacy and safety of a live attenuated influenza vaccine in adults 60 years of age and older.</article-title>
+<source>Vaccine</source>
+<volume>28</volume>
+<fpage>228</fpage>
+<lpage>234</lpage>
+<pub-id pub-id-type="pmid">19796721</pub-id></element-citation></ref><ref id="pone.0016532-Newman1"><label>67</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Newman</surname><given-names>SP</given-names></name><name><surname>Pitcairn</surname><given-names>GR</given-names></name><name><surname>Dalby</surname><given-names>RN</given-names></name></person-group>
+<year>2004</year>
+<article-title>Drug delivery to the nasal cavity: in vitro and in vivo assessment.</article-title>
+<source>Critical Reviews in Therapeutic Drug Carrier Systems</source>
+<volume>21</volume>
+<fpage>21</fpage>
+<lpage>66</lpage>
+<pub-id pub-id-type="pmid">15099184</pub-id></element-citation></ref><ref id="pone.0016532-Kleinstreuer1"><label>68</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kleinstreuer</surname><given-names>C</given-names></name><name><surname>Zhang</surname><given-names>Z</given-names></name><name><surname>Donohue</surname><given-names>JF</given-names></name></person-group>
+<year>2008</year>
+<article-title>Targeted drug-aerosol delivery in the human respiratory system.</article-title>
+<source>Annu Rev Biomed Eng</source>
+<volume>10</volume>
+<fpage>195</fpage>
+<lpage>220</lpage>
+<pub-id pub-id-type="pmid">18412536</pub-id></element-citation></ref></ref-list></back></article>

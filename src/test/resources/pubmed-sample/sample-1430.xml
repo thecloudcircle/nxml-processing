@@ -1,0 +1,764 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Intern Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Intern. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2796</journal-id><journal-id journal-id-type="publisher-id">JOIM</journal-id><journal-title-group><journal-title>Journal of Internal Medicine</journal-title></journal-title-group><issn pub-type="ppub">0954-6820</issn><issn pub-type="epub">1365-2796</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31127862</article-id><article-id pub-id-type="pmc">6851863</article-id><article-id pub-id-type="doi">10.1111/joim.12941</article-id><article-id pub-id-type="publisher-id">JOIM12941</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Concomitant Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content> and La/<styled-content style="fixed-case" toggle="no">SSB</styled-content> antibodies are biomarkers for the risk of venous thromboembolism and cerebral infarction in primary Sj&#x000f6;gren's syndrome</article-title><alt-title alt-title-type="right-running-head">Cardiovascular disease in pSS</alt-title><alt-title alt-title-type="left-running-head">J. Mofors <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="joim12941-cr-0001" contrib-type="author"><name><surname>Mofors</surname><given-names>J.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="joim12941-cr-0002" contrib-type="author"><name><surname>Holmqvist</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="joim12941-cr-0003" contrib-type="author"><name><surname>Westermark</surname><given-names>L.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="joim12941-cr-0004" contrib-type="author"><name><surname>Bj&#x000f6;rk</surname><given-names>A.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="joim12941-cr-0005" contrib-type="author"><name><surname>Kvarnstr&#x000f6;m</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="joim12941-cr-0006" contrib-type="author"><name><surname>Forsblad&#x02010;d'Elia</surname><given-names>H.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="joim12941-cr-0007" contrib-type="author"><name><surname>Magnusson Bucher</surname><given-names>S.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="joim12941-cr-0008" contrib-type="author"><name><surname>Eriksson</surname><given-names>P.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="joim12941-cr-0009" contrib-type="author"><name><surname>Theander</surname><given-names>E.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="joim12941-cr-0010" contrib-type="author"><name><surname>Mandl</surname><given-names>T.</given-names></name><xref ref-type="aff" rid="joim12941-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="joim12941-cr-0011" contrib-type="author"><name><surname>Wahren&#x02010;Herlenius</surname><given-names>M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0915-7245</contrib-id><xref ref-type="aff" rid="joim12941-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="joim12941-cr-0012" contrib-type="author" corresp="yes"><name><surname>Nordmark</surname><given-names>G.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3829-7431</contrib-id><xref ref-type="aff" rid="joim12941-aff-0003">
+<sup>3</sup>
+</xref><address><email>gunnel.nordmark@medsci.uu.se</email></address></contrib></contrib-group><aff id="joim12941-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Division of Rheumatology</named-content>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Karolinska Institutet</institution>
+<institution>Karolinska University Hospital</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim12941-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Clinical Epidemiology</named-content>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<institution>Karolinska Institutet</institution>
+<city>Stockholm</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim12941-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Medical Sciences</named-content>
+<named-content content-type="organisation-division">Rheumatology and Science for Life Laboratory</named-content>
+<institution>Uppsala University</institution>
+<city>Uppsala</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim12941-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Public Health and Clinical Medicine, Rheumatology</named-content>
+<institution>Ume&#x000e5; University</institution>
+<city>Ume&#x000e5;</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim12941-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Rheumatology</named-content>
+<named-content content-type="organisation-division">Faculty of Medicine and Health</named-content>
+<institution>&#x000d6;rebro University</institution>
+<city>&#x000d6;rebro</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim12941-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Division of Rheumatology</named-content>
+<named-content content-type="organisation-division">Department of Clinical Experimental Medicine</named-content>
+<institution>Link&#x000f6;ping University</institution>
+<city>Link&#x000f6;ping</city>
+<country country="SE">Sweden</country>
+</aff><aff id="joim12941-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Sciences, Malm&#x000f6;, Rheumatology</named-content>
+<institution>Lund University</institution>
+<city>Malm&#x000f6;</city>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence:</italic> Gunnel Nordmark, Department of Medical Sciences, Rheumatology and Science for Life Laboratory, Uppsala University, S&#x02010;751 85 Uppsala, Sweden.<break/>
+(fax: +46-18-55 84 32; e&#x02010;mail: <email>gunnel.nordmark@medsci.uu.se</email>).<break/></corresp></author-notes><pub-date pub-type="epub"><day>17</day><month>6</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>10</month><year>2019</year></pub-date><volume>286</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/joim.v286.4</issue-id><fpage>458</fpage><lpage>468</lpage><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 The Association for the Publication of the Journal of Internal Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Journal of Internal Medicine</italic> published by John Wiley &#x00026; Sons Ltd on behalf of Association for Publication of The Journal of Internal Medicine.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JOIM-286-458.pdf"/><abstract id="joim12941-abs-0001"><title>Abstract</title><sec id="joim12941-sec-0001"><title>Background</title><p>To assess the risk of incident cardiovascular disease in patients with primary Sj&#x000f6;gren's syndrome, overall and stratified by Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content> and La/<styled-content style="fixed-case" toggle="no">SSB</styled-content> autoantibody status.</p></sec><sec id="joim12941-sec-0002"><title>Methods</title><p>A cohort of patients with primary Sj&#x000f6;gren's syndrome in Sweden (<italic>n</italic>&#x000a0;=&#x000a0;960) and matched controls from the general population (<italic>n</italic>&#x000a0;=&#x000a0;9035) were included, and data extracted from the National Patient Register to identify events of myocardial infarction, cerebral infarction and venous thromboembolism. Hazard ratios were estimated using cox proportional hazard regressions.</p></sec><sec id="joim12941-sec-0003"><title>Results</title><p>During a median follow&#x02010;up of 9.5&#x000a0;years, the overall hazard ratio (<styled-content style="fixed-case" toggle="no">HR</styled-content>) was 1.6 (95% <styled-content style="fixed-case" toggle="no">CI</styled-content> 1.2&#x02013;2.1) for myocardial infarction, 1.2 (95% <styled-content style="fixed-case" toggle="no">CI</styled-content> 0.9&#x02013;1.7) for cerebral infarction and 2.1 (95% <styled-content style="fixed-case" toggle="no">CI</styled-content> 1.6&#x02013;2.9) for venous thromboembolism. Patients positive for both Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content> and La/<styled-content style="fixed-case" toggle="no">SSB</styled-content> autoantibodies had a substantially higher risk of cerebral infarction (<styled-content style="fixed-case" toggle="no">HR</styled-content> 1.7, 95% <styled-content style="fixed-case" toggle="no">CI</styled-content> 1.0&#x02013;2.9) and venous thromboembolism (<styled-content style="fixed-case" toggle="no">HR</styled-content> 3.1, 95% <styled-content style="fixed-case" toggle="no">CI</styled-content> 1.9&#x02013;4.8) than the general population. These risks were not significantly increased in Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content>&#x02010; and La/<styled-content style="fixed-case" toggle="no">SSB</styled-content>&#x02010;negative patients. Among autoantibody&#x02010;positive patients, the highest <styled-content style="fixed-case" toggle="no">HR</styled-content> of cerebral infarction was seen after &#x02265;10&#x000a0;years disease duration (<styled-content style="fixed-case" toggle="no">HR</styled-content> 2.8, 95% <styled-content style="fixed-case" toggle="no">CI</styled-content> 1.4&#x02013;5.4), while the <styled-content style="fixed-case" toggle="no">HR</styled-content> for venous thromboembolism was highest 0&#x02013;5&#x000a0;years after disease diagnosis (<styled-content style="fixed-case" toggle="no">HR</styled-content> 4.7, 95% <styled-content style="fixed-case" toggle="no">CI</styled-content> 2.3&#x02013;9.3) and remained high throughout disease duration.</p></sec><sec id="joim12941-sec-0004"><title>Conclusions</title><p>Primary Sj&#x000f6;gren's syndrome is associated with a markedly increased risk of cardiovascular disease and the presence of Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content> and La/<styled-content style="fixed-case" toggle="no">SSB</styled-content> autoantibodies identify the subgroup of patients carrying the highest risk. These findings suggest that monitoring and prevention of cardiovascular disease in this patient group should be considered.</p></sec></abstract><abstract abstract-type="graphical" id="joim12941-abs-0002"><p>
+<boxed-text position="anchor" content-type="graphic" id="joim12941-blkfxd-0001" orientation="portrait"><graphic xlink:href="JOIM-286-458-g004.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="joim12941-kwd-0001">autoantibodies</kwd><kwd id="joim12941-kwd-0002">cardiovascular disease</kwd><kwd id="joim12941-kwd-0003">La/<styled-content style="fixed-case" toggle="no">SSB</styled-content></kwd><kwd id="joim12941-kwd-0004">Primary Sj&#x000f6;gren's syndrome</kwd><kwd id="joim12941-kwd-0005">Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content></kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Swedish Research Council </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004359</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>Swedish Rheumatism Association</funding-source></award-group><award-group id="funding-0003"><funding-source>King Gustaf the V:th 80&#x02010;year Foundation</funding-source></award-group><award-group id="funding-0004"><funding-source>Heart&#x02010;Lung Foundation</funding-source></award-group><award-group id="funding-0005"><funding-source>Stockholm County Council</funding-source></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>Karolinska Institute </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100004047</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="11"/><word-count count="6615"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>October 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.1 mode:remove_FC converted:13.11.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="joim12941-cit-1001">
+<string-name>
+<surname>Mofors</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Holmqvist</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Westermark</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bj&#x000f6;rk</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kvarnstr&#x000f6;m</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Forsblad&#x02010;d'Elia</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Magnusson Bucher</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Theander</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mandl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wahren&#x02010;Herlenius</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nordmark</surname>
+<given-names>G</given-names>
+</string-name> (Karolinska Institutet, Karolinska University Hospital; Karolinska Institutet, Stockholm; Uppsala University, Uppsala; Ume&#x000e5; University, Ume&#x000e5;; &#x000d6;rebro University, &#x000d6;rebro; Link&#x000f6;ping University, Link&#x000f6;ping; Lund University, Malm&#x000f6;, Sweden). <article-title>Concomitant Ro/SSA and La/SSB antibodies are biomarkers for the risk of venous thromboembolism and cerebral infarction in primary Sj&#x000f6;gren's syndrome</article-title>. <source xml:lang="en">J Intern Med</source>
+<year>2019</year>;<volume>286</volume>:<fpage>458</fpage>&#x02013;<lpage>468</lpage>.<pub-id pub-id-type="pmid">31127862</pub-id></mixed-citation>
+</p></notes></front><body id="joim12941-body-0001"><sec id="joim12941-sec-0005"><title>Introduction</title><p>Primary Sj&#x000f6;gren's syndrome is a systemic autoimmune disease, characterized by dysfunction of salivary and lacrimal glands leading to sicca symptoms <xref rid="joim12941-bib-0001" ref-type="ref">1</xref>, <xref rid="joim12941-bib-0002" ref-type="ref">2</xref>. The clinical presentation often includes arthralgia, myalgia and fatigue, and a subgroup of patients present with systemic manifestations such as cutaneous vasculitis, polyneuropathy and interstitial lung disease <xref rid="joim12941-bib-0003" ref-type="ref">3</xref>, <xref rid="joim12941-bib-0004" ref-type="ref">4</xref>, <xref rid="joim12941-bib-0005" ref-type="ref">5</xref>, <xref rid="joim12941-bib-0006" ref-type="ref">6</xref>. Serologically, autoantibodies to the Ro/SSA and La/SSB antigens can be detected <xref rid="joim12941-bib-0007" ref-type="ref">7</xref>, <xref rid="joim12941-bib-0008" ref-type="ref">8</xref>, <xref rid="joim12941-bib-0009" ref-type="ref">9</xref>. These autoantibodies can induce production of type I IFN, and associate with disease severity and systemic manifestations <xref rid="joim12941-bib-0010" ref-type="ref">10</xref>, <xref rid="joim12941-bib-0011" ref-type="ref">11</xref>, <xref rid="joim12941-bib-0012" ref-type="ref">12</xref>.</p><p>Inflammation contributes to cardiovascular disease, and increased morbidity and premature mortality related to cardiovascular events have been reported for rheumatoid arthritis (RA) and systemic lupus erythematosus (SLE) <xref rid="joim12941-bib-0013" ref-type="ref">13</xref>, <xref rid="joim12941-bib-0014" ref-type="ref">14</xref>, <xref rid="joim12941-bib-0015" ref-type="ref">15</xref>. In Sj&#x000f6;gren's syndrome, register&#x02010;based studies have addressed the risk of cardiovascular disease, but with inconsistent results <xref rid="joim12941-bib-0016" ref-type="ref">16</xref>, <xref rid="joim12941-bib-0017" ref-type="ref">17</xref>, <xref rid="joim12941-bib-0018" ref-type="ref">18</xref>, <xref rid="joim12941-bib-0019" ref-type="ref">19</xref>, <xref rid="joim12941-bib-0020" ref-type="ref">20</xref>, <xref rid="joim12941-bib-0021" ref-type="ref">21</xref>, <xref rid="joim12941-bib-0022" ref-type="ref">22</xref>, <xref rid="joim12941-bib-0023" ref-type="ref">23</xref>. However, to the best of our knowledge, no study has previously investigated the long&#x02010;term risk of cardiovascular disease in a large cohort of clinically validated patients with primary Sj&#x000f6;gren's syndrome. Further, the potential impact of Ro/SSA and La/SSB autoantibodies on the risk of cardiovascular disease has not been assessed in large cohorts. In the present study, we therefore investigated the incidence and relative risk of cardiovascular events (myocardial infarction, cerebral infarction and venous thromboembolism) in close to 1000 well&#x02010;characterized patients with primary Sj&#x000f6;gren's syndrome compared with individuals from the general population with a median follow&#x02010;up period approaching 10&#x000a0;years, overall, and stratified by Ro/SSA and/or La/SSB autoantibody status.</p></sec><sec id="joim12941-sec-0006"><title>Material and methods</title><sec id="joim12941-sec-0007"><title>Study design</title><p>We performed a cohort study of patients with primary Sj&#x000f6;gren's syndrome included at diagnosis (incident cases) with matched general population comparators, based on prospectively recorded register data. The publicly funded Swedish healthcare system enables access to all healthcare services, including specialized care for chronic diseases, for all residents. All residents are assigned a unique personal identity number that can be used for linkage of different data resources, including several national health registers of high quality <xref rid="joim12941-bib-0024" ref-type="ref">24</xref>.</p></sec><sec id="joim12941-sec-0008"><title>Study population</title><p>Patients with primary Sj&#x000f6;gren's syndrome (<italic>n</italic>&#x000a0;=&#x000a0;960) diagnosed between 1987 and 2013 at the Departments of Rheumatology at the University Hospitals in Gothenburg, Malm&#x000f6;/Lund, Link&#x000f6;ping, &#x000d6;rebro and Uppsala, as well as the Karolinska University Hospital in Stockholm, Sweden were included in the study. All patients received their diagnosis by a specialist in rheumatology at each centre, and all fulfilled the American&#x02013;European consensus group (AECG) criteria <xref rid="joim12941-bib-0025" ref-type="ref">25</xref>. Clinical parameters related to diagnosis, including autoantibody status, were collected through patient chart review.</p><p>For each patient, ten controls from the general population (matched on sex, age and region of residency 10&#x000a0;years before the matched case's diagnosis date) were randomly selected from the Swedish Total Population Register at Statistics Sweden (<ext-link ext-link-type="uri" xlink:href="http://www.scb.se/en">http://www.scb.se/en</ext-link>). Matching prior to Sj&#x000f6;gren's syndrome diagnosis date was chosen due to patients reporting onset of disease&#x02010;specific symptoms several years before diagnosis <xref rid="joim12941-bib-0005" ref-type="ref">5</xref>. Controls were required to be alive and resident in Sweden at the date of the matched case's diagnosis, resulting in a cohort of <italic>n</italic>&#x000a0;=&#x000a0;9035 controls. The study was approved by the Regional Ethical Review Board in Stockholm, Sweden.</p></sec><sec id="joim12941-sec-0009"><title>Data sources used to detect outcomes during follow&#x02010;up</title><p>Using the national personal identification number, we linked the cohort of patients with primary Sj&#x000f6;gren's syndrome and the matched general population comparator cohort with data from the following registers, for which data were available through 31 December 2013: The Swedish National Patient Register (NPR), the Population Register and the Cause of Death Register. The NPR has a nationwide coverage of hospitalizations (inpatient care) since 1987 and of specialist outpatient care (excluding primary care by general practitioners) since 2001. The register lists date of admission, date of discharge and the discharge diagnosis (primary and secondary diagnoses) as set by the discharging physician and classified according to the calendar year&#x02010;specific version of the International Classification of Diseases (ICD). The coverage is 99% for hospitalizations and 80% for outpatient care, with the latter lower coverage mainly due to lower reporting from private healthcare providers <xref rid="joim12941-bib-0026" ref-type="ref">26</xref>. The Population Register includes information on deaths, emigration and immigration for the entire Swedish population. The Cause of Death Register holds information on cause of death since 1962 (primary and secondary diagnosis), coded according to ICD. Through these linkages, we identified all hospitalizations and nonprimary care outpatient visits after primary Sj&#x000f6;gren's syndrome diagnosis date, and all emigrations and deaths during follow&#x02010;up.</p></sec><sec id="joim12941-sec-0010"><title>Definition of outcomes and follow&#x02010;up</title><p>Using the NPR and Cause of Death Register, we assessed the risk of three types of cardiovascular disease: Myocardial infarction (MI), cerebral infarction and venous thromboembolism (VTE).</p><p>MI was defined as hospitalization listing a primary ICD&#x02010;10 diagnosis of I21 (acute myocardial infarction), or an acute myocardial infarction listed as an underlying cause of death. This definition has a positive predictive value (PPV) of 95% <xref rid="joim12941-bib-0027" ref-type="ref">27</xref>. Cerebral infarction was defined as a primary ICD&#x02010;10 diagnosis of I63 in the inpatient register, or listed as an underlying cause of death, where diagnosis validation has shown a PPV of&#x000a0;&#x0003e;&#x000a0;95% <xref rid="joim12941-bib-0026" ref-type="ref">26</xref>. VTE was defined as a composite measure of pulmonary embolism (ICD&#x02010;10: I26) and deep vein thrombosis (DVT) (ICD&#x02010;10: I80.1&#x02010;I80.2, I81, I82.2&#x02010;I82.9). Primary and secondary diagnoses in the inpatient register and cause of death register were included; diagnoses of DVTs in outpatient care were also included. A previous study examining the validity of VTEs in the NPR suggests that this definition holds a satisfactory validity <xref rid="joim12941-bib-0028" ref-type="ref">28</xref>. For records of diagnoses predating 1997, corresponding ICD&#x02010;9 codes were used (Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S1</xref>).</p><p>The primary Sj&#x000f6;gren's syndrome and comparison cohorts were followed from the Sj&#x000f6;gren's syndrome diagnosis date until the first cardiovascular event, death, emigration, or 31 December 2013, whichever came first.</p></sec><sec id="joim12941-sec-0011"><title>Statistical analyses</title><p>The aim of this study was to investigate the risk of incident cardiovascular disease in patients with primary Sj&#x000f6;gren's syndrome. Therefore, participants with a record of MI, cerebral infarction or VTE before the Sj&#x000f6;gren's syndrome diagnosis date were excluded from the respective follow&#x02010;up. Differences in the proportions of individuals with prior cardiovascular disease were assessed using a conditional logistic regression conditioned on the matching factors.</p><p>Crude incidence rates are expressed as events per 1000 person&#x02010;years. Confidence intervals were estimated for incidence rates by assuming that the number of events followed a Poisson distribution. To compare the risk of incident cardiovascular disease in patients with Sj&#x000f6;gren's syndrome with that in individuals in the comparison cohort, Cox proportional hazard models were used to estimate the hazard ratio (HR) and 95% confidence interval (CI), using time since Sj&#x000f6;gren's syndrome diagnosis as time scale. Proportionality of the hazards was tested using scaled Schoenfeld residuals. No evidence of departure from this assumption was observed for the outcomes considered in this study. In addition, incidence and HR were assessed separately by time since Sj&#x000f6;gren&#x000b4;s syndrome diagnosis (0 to &#x0003c;5, 5 to &#x0003c;10, &#x02265;10&#x000a0;years), age (&#x0003c;50, 50 to 70, &#x0003e;70&#x000a0;years), and by the presence of Ro/SSA and La/SSB autoantibodies.</p><p>All analyses were performed using STATA/MP version 13.0 (StataCorp LP, College Station, TX, USA). Statistical significance was defined by an alpha level of 0.05.</p></sec></sec><sec id="joim12941-sec-0012"><title>Results</title><sec id="joim12941-sec-0013"><title>Demographic and clinical characteristics of the cohort</title><p>Of the included 960 patients with primary Sj&#x000f6;gren's syndrome, 391 (41%) were seropositive for both Ro/SSA and La/SSB autoantibodies (SSA/SSB double&#x02010;positive), 278 (29%) were positive for only one of either Ro/SSA or La/SSB antibodies (SSA/SSB single&#x02010;positive), and 274 (29%) tested negative for both antibodies (SSA/SSB&#x02010;negative) (Table&#x000a0;<xref rid="joim12941-tbl-0001" ref-type="table">1</xref>). Seventeen patients did not have any available record on autoantibody status. The mean age at diagnosis was 55&#x000a0;years; SSA/SSB double&#x02010;positive patients were diagnosed on average 4.8 and 7.3&#x000a0;years earlier in life than SSA/SSB single&#x02010;positive (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.0001) and SSA/SSB&#x02010;negative patients (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.0001), respectively. The median time of follow&#x02010;up (interquartile range) was 9.5 (4.5&#x02013;14.6) years in the Sj&#x000f6;gren's syndrome patient cohort and 9.5 (4.5&#x02013;15.5) years in the comparison cohort.</p><table-wrap id="joim12941-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Descriptive characteristics of 960 incident cases of primary Sj&#x000f6;gren's syndrome and 9035 matched controls from the general population</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Primary Sj&#x000f6;gren's syndrome patients</th><th align="left" valign="top" rowspan="1" colspan="1">General population controls</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Size, <italic>n</italic> (% females)</td><td align="left" rowspan="1" colspan="1">All patients</td><td align="left" rowspan="1" colspan="1">960 (93%)</td><td align="left" rowspan="1" colspan="1">9035 (93%)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB double&#x02010;positive</td><td align="left" rowspan="1" colspan="1">391 (90%)</td><td align="left" rowspan="1" colspan="1">3700 (90%)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB single&#x02010;positive</td><td align="left" rowspan="1" colspan="1">278 (92%)</td><td align="left" rowspan="1" colspan="1">2595 (93%)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB&#x02010;negative</td><td align="left" rowspan="1" colspan="1">274 (96%)</td><td align="left" rowspan="1" colspan="1">2583 (96%)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age in years at primary Sj&#x000f6;gren's syndrome diagnosis, mean (SD)</td><td align="left" rowspan="1" colspan="1">All patients</td><td align="left" rowspan="1" colspan="1">55.4 (15)</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB double&#x02010;positive</td><td align="left" rowspan="1" colspan="1">51.8<xref ref-type="fn" rid="joim12941-note-0003">*</xref> (15)</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB single&#x02010;positive</td><td align="left" rowspan="1" colspan="1">56.6<xref ref-type="fn" rid="joim12941-note-0003">**</xref> (14)</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB&#x02010;negative</td><td align="left" rowspan="1" colspan="1">59.1 (13)</td><td align="left" rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" rowspan="1" colspan="1">Years of follow&#x02010;up time after primary Sj&#x000f6;gren's syndrome diagnosis date, median (IQR)</td><td align="left" rowspan="1" colspan="1">All patients</td><td align="left" rowspan="1" colspan="1">9.5 (4.5&#x02013;14.6)</td><td align="left" rowspan="1" colspan="1">9.5 (4.5&#x02013;15.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB double&#x02010;positive</td><td align="left" rowspan="1" colspan="1">9.5 (4.5&#x02013;15.5)</td><td align="left" rowspan="1" colspan="1">10.5 (4.6&#x02013;16.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB single&#x02010;positive</td><td align="left" rowspan="1" colspan="1">8.9 (4.5&#x02013;13.5)</td><td align="left" rowspan="1" colspan="1">9.5 (4.5&#x02013;14.5)</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB&#x02010;negative</td><td align="left" rowspan="1" colspan="1">8.5 (3.5&#x02013;14.9)</td><td align="left" rowspan="1" colspan="1">9.3 (3.5&#x02013;15.5)</td></tr></tbody></table><table-wrap-foot id="joim12941-ntgp-0001"><fn id="joim12941-note-0001"><p>Seventeen primary Sj&#x000f6;gren's syndrome patients did not have available records on Ro/SSA and La/SSB antibodies, and are hence not included in subgroup analyses.</p></fn><fn id="joim12941-note-0002"><p>IQR, interquartile range; SD, standard deviation; SSA, Ro/SSA antibodies; SSB, La/SSB antibodies.</p></fn><fn id="joim12941-note-0003"><p>Two&#x02010;sided <italic>t</italic>&#x02010;test for means difference: *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.0001 compared to SSA/SSB single&#x02010;positive, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.0001 compared to SSA/SSB&#x02010;negative, **<italic>P</italic>&#x000a0;=&#x000a0;0.024 compared to SSA/SSB&#x02010;negative.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="joim12941-sec-0014"><title>Myocardial infarction</title><p>The incidence rate of myocardial infarction in patients with Sj&#x000f6;gren's syndrome was 5.6 (95% CI 4.3&#x02013;7.3) per 1000 person&#x02010;years, compared to 3.6 (95% CI 3.3&#x02013;4.0) in the comparison cohort, corresponding to a hazard ratio of 1.6 (95% CI 1.2&#x02013;2.1) (Table&#x000a0;<xref rid="joim12941-tbl-0002" ref-type="table">2</xref>). An increased risk was not observed during the first 5&#x000a0;years after diagnosis (HR 0.9, 95% CI 0.4&#x02013;1.8), but was present between 5 to&#x000a0;&#x0003c;&#x000a0;10&#x000a0;years (HR 1.8, 95% CI 1.1&#x02013;2.9) and &#x02265;10&#x000a0;years after the diagnosis of Sj&#x000f6;gren's syndrome (HR 1.9, 95% CI 1.3&#x02013;3.0) (Fig.&#x000a0;<xref rid="joim12941-fig-0001" ref-type="fig">1</xref>a). No patient with Sj&#x000f6;gren's syndrome had an MI before the age of 50; the incidence rate of MI was similar compared to the general population controls during the ages of 50&#x02013;70&#x000a0;years (HR 1.2, 95% CI 0.7&#x02013;2.1), but was increased after the age of 70 (HR 2.0, 95% CI 1.4&#x02013;2.7) (Fig.&#x000a0;<xref rid="joim12941-fig-0001" ref-type="fig">1</xref>b, Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S2</xref>). Female and male patients with Sj&#x000f6;gren's syndrome presented relative risks for MI of similar amplitudes (HR 1.6, 95% CI 1.2&#x02013;2.1 and HR 1.5, 95% CI 0.7&#x02013;3.4, respectively), although the crude incidence rate of MI was higher in male patients (Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S3</xref>).</p><table-wrap id="joim12941-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Risk of cardiovascular events after primary Sj&#x000f6;gren's syndrome diagnosis in an inception cohort of 960 primary Sj&#x000f6;gren's syndrome patients and 9035 matched comparators from the general population</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Event</th><th align="left" rowspan="2" valign="top" colspan="1">SSA/SSB antibody status</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">No. events (%)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Person&#x02010;years</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Incidence rate per 1000 person&#x02010;years (95% CI)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Risk estimate</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Median time to event<xref ref-type="fn" rid="joim12941-note-0006">a</xref>, years</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Excluded individuals due to prior event, <italic>n</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">pSS<xref ref-type="fn" rid="joim12941-note-0006">b</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">Controls<xref ref-type="fn" rid="joim12941-note-0006">c</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">pSS</th><th align="left" valign="top" rowspan="1" colspan="1">Controls</th><th align="left" valign="top" rowspan="1" colspan="1">pSS</th><th align="left" valign="top" rowspan="1" colspan="1">Controls</th><th align="left" valign="top" rowspan="1" colspan="1">Hazard ratio</th><th align="left" valign="top" rowspan="1" colspan="1">95% CI</th><th align="left" valign="top" rowspan="1" colspan="1">pSS</th><th align="left" valign="top" rowspan="1" colspan="1">Controls</th><th align="left" valign="top" rowspan="1" colspan="1">pSS</th><th align="left" valign="top" rowspan="1" colspan="1">Controls</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Myocardial infarction</td><td align="left" rowspan="1" colspan="1">All</td><td align="left" rowspan="1" colspan="1">53 (5.6%)</td><td align="left" rowspan="1" colspan="1">333 (3.7%)</td><td align="left" rowspan="1" colspan="1">9450</td><td align="left" rowspan="1" colspan="1">91&#x000a0;958</td><td align="left" rowspan="1" colspan="1">5.6 (4.3&#x02013;7.3)</td><td align="left" rowspan="1" colspan="1">3.6 (3.3&#x02013;4.0)</td><td align="left" rowspan="1" colspan="1">1.6</td><td align="left" rowspan="1" colspan="1">1.2&#x02013;2.1</td><td align="left" rowspan="1" colspan="1">8.9</td><td align="left" rowspan="1" colspan="1">8.5</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">110</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB DP<xref ref-type="fn" rid="joim12941-note-0006">d</xref>
+</td><td align="left" rowspan="1" colspan="1">16 (4.1%)</td><td align="left" rowspan="1" colspan="1">113 (3.1%)</td><td align="left" rowspan="1" colspan="1">4152</td><td align="left" rowspan="1" colspan="1">40&#x000a0;183</td><td align="left" rowspan="1" colspan="1">3.9 (2.4&#x02013;6.3)</td><td align="left" rowspan="1" colspan="1">2.8 (2.3&#x02013;3.4)</td><td align="left" rowspan="1" colspan="1">1.4</td><td align="left" rowspan="1" colspan="1">0.8&#x02013;2.4</td><td align="left" rowspan="1" colspan="1">11.7</td><td align="left" rowspan="1" colspan="1">8.7</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">32</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB SP<xref ref-type="fn" rid="joim12941-note-0006">e</xref>
+</td><td align="left" rowspan="1" colspan="1">17 (6.2%)</td><td align="left" rowspan="1" colspan="1">86 (3.4%)</td><td align="left" rowspan="1" colspan="1">2546</td><td align="left" rowspan="1" colspan="1">24&#x000a0;886</td><td align="left" rowspan="1" colspan="1">6.7 (4.2&#x02013;10.7)</td><td align="left" rowspan="1" colspan="1">3.5 (2.8&#x02013;4.3)</td><td align="left" rowspan="1" colspan="1">2.0</td><td align="left" rowspan="1" colspan="1">1.2&#x02013;3.4</td><td align="left" rowspan="1" colspan="1">7.1</td><td align="left" rowspan="1" colspan="1">8.5</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">43</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB neg.<xref ref-type="fn" rid="joim12941-note-0006">f</xref>
+</td><td align="left" rowspan="1" colspan="1">19 (7.0%)</td><td align="left" rowspan="1" colspan="1">123 (4.8%)</td><td align="left" rowspan="1" colspan="1">2625</td><td align="left" rowspan="1" colspan="1">25&#x000a0;519</td><td align="left" rowspan="1" colspan="1">7.2 (4.6&#x02013;11.3)</td><td align="left" rowspan="1" colspan="1">4.8 (4.0&#x02013;5.8)</td><td align="left" rowspan="1" colspan="1">1.5</td><td align="left" rowspan="1" colspan="1">0.9&#x02013;2.5</td><td align="left" rowspan="1" colspan="1">10.3</td><td align="left" rowspan="1" colspan="1">7.9</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">32</td></tr><tr><td align="left" rowspan="1" colspan="1">Cerebral infarction</td><td align="left" rowspan="1" colspan="1">All</td><td align="left" rowspan="1" colspan="1">34 (3.6%)</td><td align="left" rowspan="1" colspan="1">278 (3.1%)</td><td align="left" rowspan="1" colspan="1">9497</td><td align="left" rowspan="1" colspan="1">92&#x000a0;615</td><td align="left" rowspan="1" colspan="1">3.6 (2.6&#x02013;5.0)</td><td align="left" rowspan="1" colspan="1">3.0 (2.7&#x02013;3.4)</td><td align="left" rowspan="1" colspan="1">1.2</td><td align="left" rowspan="1" colspan="1">0.9&#x02013;1.7</td><td align="left" rowspan="1" colspan="1">11.3</td><td align="left" rowspan="1" colspan="1">8.7</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">85</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB DP</td><td align="left" rowspan="1" colspan="1">18 (4.6%)</td><td align="left" rowspan="1" colspan="1">104 (2.8%)</td><td align="left" rowspan="1" colspan="1">4089</td><td align="left" rowspan="1" colspan="1">40&#x000a0;252</td><td align="left" rowspan="1" colspan="1">4.4 (2.8&#x02013;7.0)</td><td align="left" rowspan="1" colspan="1">2.6 (2.1&#x02013;3.1)</td><td align="left" rowspan="1" colspan="1">1.7</td><td align="left" rowspan="1" colspan="1">1.0&#x02013;2.9</td><td align="left" rowspan="1" colspan="1">13.6</td><td align="left" rowspan="1" colspan="1">8.1</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">25</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB SP</td><td align="left" rowspan="1" colspan="1">7 (2.5%)</td><td align="left" rowspan="1" colspan="1">84 (3.3%)</td><td align="left" rowspan="1" colspan="1">2601</td><td align="left" rowspan="1" colspan="1">25&#x000a0;129</td><td align="left" rowspan="1" colspan="1">2.7 (1.3&#x02013;5.6)</td><td align="left" rowspan="1" colspan="1">3.3 (2.7&#x02013;4.1)</td><td align="left" rowspan="1" colspan="1">0.8</td><td align="left" rowspan="1" colspan="1">0.4&#x02013;1.8</td><td align="left" rowspan="1" colspan="1">13.1</td><td align="left" rowspan="1" colspan="1">8.5</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">30</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB neg.</td><td align="left" rowspan="1" colspan="1">8 (2.9%)</td><td align="left" rowspan="1" colspan="1">85 (3.3%)</td><td align="left" rowspan="1" colspan="1">2675</td><td align="left" rowspan="1" colspan="1">25&#x000a0;803</td><td align="left" rowspan="1" colspan="1">3.0 (1.5&#x02013;6.0)</td><td align="left" rowspan="1" colspan="1">3.3 (2.7&#x02013;4.1)</td><td align="left" rowspan="1" colspan="1">0.9</td><td align="left" rowspan="1" colspan="1">0.4&#x02013;1.9</td><td align="left" rowspan="1" colspan="1">9.0</td><td align="left" rowspan="1" colspan="1">9.7</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">29</td></tr><tr><td align="left" rowspan="1" colspan="1">Venous thromboembolism</td><td align="left" rowspan="1" colspan="1">All</td><td align="left" rowspan="1" colspan="1">50 (5.3%)</td><td align="left" rowspan="1" colspan="1">238 (2.7%)</td><td align="left" rowspan="1" colspan="1">9282</td><td align="left" rowspan="1" colspan="1">92&#x000a0;300</td><td align="left" rowspan="1" colspan="1">5.4 (4.1&#x02013;7.1)</td><td align="left" rowspan="1" colspan="1">2.6 (2.3&#x02013;2.9)</td><td align="left" rowspan="1" colspan="1">2.1</td><td align="left" rowspan="1" colspan="1">1.6&#x02013;2.9</td><td align="left" rowspan="1" colspan="1">7.7</td><td align="left" rowspan="1" colspan="1">8.5</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">126</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB DP</td><td align="left" rowspan="1" colspan="1">24 (6.3%)</td><td align="left" rowspan="1" colspan="1">80 (2.2%)</td><td align="left" rowspan="1" colspan="1">3976</td><td align="left" rowspan="1" colspan="1">40&#x000a0;262</td><td align="left" rowspan="1" colspan="1">6.0 (4.0&#x02013;9.0)</td><td align="left" rowspan="1" colspan="1">2.0 (1.6&#x02013;2.5)</td><td align="left" rowspan="1" colspan="1">3.1</td><td align="left" rowspan="1" colspan="1">1.9&#x02013;4.8</td><td align="left" rowspan="1" colspan="1">5.1</td><td align="left" rowspan="1" colspan="1">10.4</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">45</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB SP</td><td align="left" rowspan="1" colspan="1">13 (4.8%)</td><td align="left" rowspan="1" colspan="1">76 (3.0%)</td><td align="left" rowspan="1" colspan="1">2580</td><td align="left" rowspan="1" colspan="1">25&#x000a0;006</td><td align="left" rowspan="1" colspan="1">5.0 (2.9&#x02013;8.7)</td><td align="left" rowspan="1" colspan="1">3.0 (2.4&#x02013;3.8)</td><td align="left" rowspan="1" colspan="1">1.7</td><td align="left" rowspan="1" colspan="1">0.9&#x02013;3.0</td><td align="left" rowspan="1" colspan="1">9.7</td><td align="left" rowspan="1" colspan="1">7.9</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">35</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">SSA/SSB neg.</td><td align="left" rowspan="1" colspan="1">12 (4.5%)</td><td align="left" rowspan="1" colspan="1">74 (2.9%)</td><td align="left" rowspan="1" colspan="1">2598</td><td align="left" rowspan="1" colspan="1">25&#x000a0;656</td><td align="left" rowspan="1" colspan="1">4.6 (2.6&#x02013;8.1)</td><td align="left" rowspan="1" colspan="1">2.9 (2.3&#x02013;3.6)</td><td align="left" rowspan="1" colspan="1">1.6</td><td align="left" rowspan="1" colspan="1">0.9&#x02013;3.0</td><td align="left" rowspan="1" colspan="1">9.5</td><td align="left" rowspan="1" colspan="1">7.6</td><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">43</td></tr></tbody></table><table-wrap-foot id="joim12941-ntgp-0002"><fn id="joim12941-note-0004"><p>The analyses were performed on all primary Sj&#x000f6;gren's syndrome patients, and stratified by SSA and SSB autoantibody profile. Individuals with registered events before primary Sj&#x000f6;gren's syndrome diagnosis date were excluded. Seventeen primary Sj&#x000f6;gren's syndrome patients did not have available records on Ro/SSA and La/SSB antibodies, and are hence not included in subgroup analyses.</p></fn><fn id="joim12941-note-0005"><p>CI, confidence interval; SSA, Ro/SSA antibodies; SSB, La/SSB antibodies.</p></fn><fn id="joim12941-note-0006"><p>
+<sup>a</sup>In subjects experiencing the event; <sup>b</sup>Primary Sj&#x000f6;gren's syndrome patients; <sup>c</sup>General population comparators; <sup>d</sup>Ro/SSA and La/SSB double&#x02010;positive; <sup>e</sup>Ro/SSA and/or La/SSB single&#x02010;positive; <sup>f</sup>Ro/SSA and La/SSB&#x02010;negative.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="joim12941-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Myocardial infarction in relation to primary Sj&#x000f6;gren's syndrome duration and age. (a) Incidence rate and hazard ratio of myocardial infarction (<styled-content style="fixed-case" toggle="no">MI</styled-content>) in primary Sj&#x000f6;gren's syndrome, stratified by years since Sj&#x000f6;gren's syndrome diagnosis. Seventeen patients with Sj&#x000f6;gren's syndrome did not have available records on Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content> and La/<styled-content style="fixed-case" toggle="no">SSB</styled-content> antibodies and are not included in subgroup analyses. (b) Age&#x02010;specific incidence rate and hazard ratio of <styled-content style="fixed-case" toggle="no">MI</styled-content> with 95% confidence intervals (<styled-content style="fixed-case" toggle="no">CI</styled-content>) in prevalent Sj&#x000f6;gren's syndrome, and in population&#x02010;based comparators. <sup>1</sup>Primary Sj&#x000f6;gren's syndrome patients, <sup>2</sup>General population comparators. <styled-content style="fixed-case" toggle="no">CI</styled-content>, confidence interval; <styled-content style="fixed-case" toggle="no">NA</styled-content>, not applicable.</p></caption><graphic id="nlm-graphic-3" xlink:href="JOIM-286-458-g001"/></fig><p>Stratifying by autoantibody profile, the hazard ratio of MI after Sj&#x000f6;gren's syndrome diagnosis was 1.4 (95% CI 0.8&#x02013;2.5) in SSA/SSB double&#x02010;positive patients, 2.0 (95% CI 1.2&#x02013;3.4) in SSA/SSB single&#x02010;positive patients, and 1.5 (95% CI 0.9&#x02013;2.5) in SSA/SSB&#x02010;negative patients (Table&#x000a0;<xref rid="joim12941-tbl-0002" ref-type="table">2</xref>). When also stratifying by age, both SSA/SSB double and SSA/SSB single&#x02010;positive patients had significantly increased hazard ratios of MI after the age of 70&#x000a0;years (Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="joim12941-sec-0015"><title>Cerebral infarction</title><p>The incidence rate of cerebral infarction was 3.6 (95% CI 2.6&#x02013;5.0) per 1000 person&#x02010;years in patients with Sj&#x000f6;gren's syndrome and 3.0 (95% CI 2.7&#x02013;3.4) in the comparison cohort, associating with a hazard ratio of 1.2 (95% CI 0.9&#x02013;1.7) (Table&#x000a0;<xref rid="joim12941-tbl-0002" ref-type="table">2</xref>). Stratifying based on disease duration, a significantly increased risk was observed in patients after &#x02265;10&#x000a0;years of follow&#x02010;up (HR 1.6, 95% CI 1.0&#x02013;2.7) (Fig.&#x000a0;<xref rid="joim12941-fig-0002" ref-type="fig">2</xref>a). No cerebral infarction was observed in patients younger than 50&#x000a0;years. The incidence rate of cerebral infarction increased with age, yet with no corresponding increase in observed relative risk in the aggregated group of patients (Fig.&#x000a0;<xref rid="joim12941-fig-0002" ref-type="fig">2</xref>b, Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="joim12941-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Cerebral infarction in relation to primary Sj&#x000f6;gren's syndrome duration and age. (a) Incidence rate and hazard ratio of cerebral infarction in primary Sj&#x000f6;gren's syndrome, stratified by years since Sj&#x000f6;gren's syndrome diagnosis. Seventeen patients with <styled-content style="fixed-case" toggle="no">pSS</styled-content> did not have available records on Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content> and La/<styled-content style="fixed-case" toggle="no">SSB</styled-content> antibodies and are not included in subgroup analyses. (b) Age&#x02010;specific incidence rate and hazard ratio of cerebral infarction with 95% confidence intervals (<styled-content style="fixed-case" toggle="no">CI</styled-content>) in prevalent Sj&#x000f6;gren's syndrome, and in population&#x02010;based comparators. <sup>1</sup>Primary Sj&#x000f6;gren's syndrome patients, <sup>2</sup>General population comparators. <styled-content style="fixed-case" toggle="no">CI</styled-content>, confidence interval; <styled-content style="fixed-case" toggle="no">NA</styled-content>, not applicable.</p></caption><graphic id="nlm-graphic-5" xlink:href="JOIM-286-458-g002"/></fig><p>When stratifying by autoantibody profile, SSA/SSB double&#x02010;positive patients displayed a significantly increased risk for cerebral infarction (HR 1.7, 95% CI 1.0&#x02013;2.9), which was not observed in patients single positive or negative for these autoantibodies (Table&#x000a0;<xref rid="joim12941-tbl-0002" ref-type="table">2</xref>). The increased risk in the SSA/SSB double&#x02010;positive group was most prominent after &#x02265;10&#x000a0;years&#x02019; disease duration (HR 2.8, 95% CI 1.4&#x02013;5.4), and in the ages of 50&#x02013;70&#x000a0;years (HR 2.9, 95% CI 1.3&#x02013;6.4) (Fig.&#x000a0;<xref rid="joim12941-fig-0002" ref-type="fig">2</xref>a and Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S2</xref>).</p></sec><sec id="joim12941-sec-0016"><title>Venous thromboembolism</title><p>Overall, patients with Sj&#x000f6;gren's syndrome had a twofold higher risk of VTE (HR 2.1, 95% CI 1.6&#x02013;2.9) compared to the general population controls, with incidence rates of 5.4 (95% CI 4.1&#x02013;7.1) and 2.6 (95% CI 2.3&#x02013;2.9) per 1000 person&#x02010;years, respectively (Table&#x000a0;<xref rid="joim12941-tbl-0002" ref-type="table">2</xref>). An increased risk of VTE was observed already during the first five years after Sj&#x000f6;gren's syndrome diagnosis (HR 2.1, 95% CI 1.2&#x02013;3.5), as well as between 5 to &#x0003c;10&#x000a0;years (HR 2.8, 95% CI 1.6&#x02013;4.9), and &#x02265;10&#x000a0;years after diagnosis (HR 1.8, 95% CI 1.1&#x02013;2.9) (Fig.&#x000a0;<xref rid="joim12941-fig-0003" ref-type="fig">3</xref>a). The incidence rate of VTE in patients with Sj&#x000f6;gren's syndrome increased with age, and was consistently higher than that in controls across all ages, with the highest relative risk observed in patients younger than 50&#x000a0;years (HR 4.4, 95% CI 1.5&#x02013;12.6) (Fig.&#x000a0;<xref rid="joim12941-fig-0003" ref-type="fig">3</xref>b). Moreover, patients with primary Sj&#x000f6;gren's syndrome were significantly more likely to have a history of VTE at the time of diagnosis compared to controls (Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="joim12941-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Venous thromboembolism in relation to primary Sj&#x000f6;gren's syndrome duration and age. (a) Incidence rate and hazard ratio of venous thromboembolism (<styled-content style="fixed-case" toggle="no">VTE</styled-content>) in primary Sj&#x000f6;gren's syndrome, stratified by years since Sj&#x000f6;gren's syndrome diagnosis. Seventeen patients with Sj&#x000f6;gren's syndrome did not have available records on Ro/<styled-content style="fixed-case" toggle="no">SSA</styled-content> and La/<styled-content style="fixed-case" toggle="no">SSB</styled-content> antibodies and are not included in subgroup analyses. (b) Age&#x02010;specific incidence rate and hazard ratio of <styled-content style="fixed-case" toggle="no">VTE</styled-content> with 95% confidence intervals (<styled-content style="fixed-case" toggle="no">CI</styled-content>) in prevalent Sj&#x000f6;gren's syndrome, and in population&#x02010;based comparators. <sup>1</sup>Primary Sj&#x000f6;gren's syndrome patients, <sup>2</sup>General population comparators. <styled-content style="fixed-case" toggle="no">CI</styled-content>, confidence interval; <styled-content style="fixed-case" toggle="no">NA</styled-content>, not applicable.</p></caption><graphic id="nlm-graphic-7" xlink:href="JOIM-286-458-g003"/></fig><p>Stratifying by autoantibody status, the estimated relative risk of VTE after Sj&#x000f6;gren's syndrome diagnosis was higher and only significant in SSA/SSB double&#x02010;positive patients (HR 3.1, 95% CI 1.9&#x02013;4.8), compared to SSA/SSB single&#x02010;positive (HR 1.7, 95% CI 0.9&#x02013;4.8) and SSA/SSB&#x02010;negative patients (HR 1.6, 95% CI 0.9&#x02013;3.0) (Table&#x000a0;<xref rid="joim12941-tbl-0002" ref-type="table">2</xref>). Notably, an increased risk for VTE in SSA/SSB double&#x02010;positive patients was particularly evident during the first years after diagnosis (HR 4.7, 95% CI 2.3&#x02013;9.3) (Fig.&#x000a0;<xref rid="joim12941-fig-0003" ref-type="fig">3</xref>a). Stratifying by age, the highest risk in SSA/SSB double&#x02010;positive patients was observed between 50 and 70&#x000a0;years of age (HR 5.9, 95% CI 3.0&#x02013;11.4) (Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S2</xref>).</p><p>Separate analyses of pulmonary embolism and DVT resulted in hazard ratios similar to those of VTE. Similar to VTE, the highest relative risk of pulmonary embolism and DVT was observed in SSA/SSB double&#x02010;positive patients (Table <xref rid="joim12941-sup-0001" ref-type="supplementary-material">S5</xref>).</p></sec></sec><sec id="joim12941-sec-0017"><title>Discussion</title><p>We here report that individuals with primary Sj&#x000f6;gren's syndrome have a significantly higher incidence rate of cardiovascular disease in the form of MI, cerebral infarction and VTE. The most striking excess risk was of VTE, for which the aggregated group of patients with Sj&#x000f6;gren's syndrome displayed a twofold increased risk compared to the general population. This estimate is in close proximity with that of a recent meta&#x02010;analysis reviewing four studies, calculating a pooled risk&#x02010;ratio of 2.05 <xref rid="joim12941-bib-0029" ref-type="ref">29</xref>. Notably, however, by stratifying patients according to autoantibody status, we found that the risk of VTE was in fact substantially higher in patients with SSA and SSB autoantibodies, reaching hazard ratios approaching 5 during the years following diagnosis, while not significant for patients with only one antibody specificity or lacking these autoantibodies. The risk of VTE in patients with primary Sj&#x000f6;gren's syndrome has been suggested to relate chronic inflammation, which increases coagulability <xref rid="joim12941-bib-0030" ref-type="ref">30</xref>, and is also observed in other systemic autoimmune diseases <xref rid="joim12941-bib-0021" ref-type="ref">21</xref>, <xref rid="joim12941-bib-0028" ref-type="ref">28</xref>, <xref rid="joim12941-bib-0029" ref-type="ref">29</xref>, <xref rid="joim12941-bib-0031" ref-type="ref">31</xref>. Moreover, type I IFN, the expression of which can be induced by Ro/SSA and La/SSB autoantibodies, is known to exert multiple adverse effects on the vasculature <xref rid="joim12941-bib-0011" ref-type="ref">11</xref>, <xref rid="joim12941-bib-0012" ref-type="ref">12</xref>, <xref rid="joim12941-bib-0032" ref-type="ref">32</xref>, <xref rid="joim12941-bib-0033" ref-type="ref">33</xref>, <xref rid="joim12941-bib-0034" ref-type="ref">34</xref>, <xref rid="joim12941-bib-0035" ref-type="ref">35</xref>. The degree and character of the systemic inflammation in SSA/SSB double&#x02010;positive patients may thus explain the high risk of VTE in this subgroup of patients.</p><p>We also observed that Sj&#x000f6;gren's syndrome was associated with an increased risk of arterial ischaemic diseases. Overall, the patients had a 1.6&#x02010;fold higher relative risk of MI compared to the general population. This estimate is consistent with two previous studies of population&#x02010;based cohorts in Sweden and Taiwan, estimating relative risks of 1.6 and 1.2, respectively <xref rid="joim12941-bib-0019" ref-type="ref">19</xref>, <xref rid="joim12941-bib-0020" ref-type="ref">20</xref>. By contrast, another population&#x02010;based study in Taiwan did not note an increased risk <xref rid="joim12941-bib-0018" ref-type="ref">18</xref>. This observation may however be explained by the short median follow&#x02010;up time of 3.7&#x000a0;years. Indeed, we did not observe an increased risk of MI during the first 5&#x000a0;years following the Sj&#x000f6;gren's syndrome diagnosis in our cohort. Of note, no MI events were observed in patients under the age of 50 in our cohort, contrasting to RA and SLE for which increased risk is observed also in younger patients <xref rid="joim12941-bib-0027" ref-type="ref">27</xref>, <xref rid="joim12941-bib-0036" ref-type="ref">36</xref>.</p><p>Cerebral infarction occurred significantly more frequently in patients with Sj&#x000f6;gren's syndrome than in controls after 10 or more years from diagnosis. The risk was confined to SSA/SSB double&#x02010;positive patients, and in this group reached a HR of 1.6. The observed overall relative risk in our study was similar to the corresponding estimate of 1.3 reported by <italic>Z&#x000f6;ller et&#x000a0;al</italic>., which is slightly lower than the corresponding risk in RA and SLE <xref rid="joim12941-bib-0022" ref-type="ref">22</xref>.</p><p>Higher frequencies of subclinical atherosclerosis or endothelial dysfunction have been reported in patients with primary Sj&#x000f6;gren's syndrome, as determined by carotid intima&#x02010;media thickness, ankle&#x02010;brachial index or endothelium&#x02010;dependent flow mediated or nitrate&#x02010;mediated vasodilation <xref rid="joim12941-bib-0037" ref-type="ref">37</xref>, <xref rid="joim12941-bib-0038" ref-type="ref">38</xref>, <xref rid="joim12941-bib-0039" ref-type="ref">39</xref>, <xref rid="joim12941-bib-0040" ref-type="ref">40</xref>. Moreover, disease duration appears to be an important factor in the pathogenesis. <italic>Rachapalli et&#x000a0;al</italic>. <xref rid="joim12941-bib-0041" ref-type="ref">41</xref> demonstrated that the ankle&#x02010;brachial index was significantly reduced only in patients with a disease duration of more than 10&#x000a0;years. These findings are consistent with our study, in which the relative risk of both MI and cerebral infarction increased with disease duration. In most cases of arterial ischaemic cardiovascular disease, the underlying cause is atherosclerosis, which is widely considered a chronic inflammatory disease <xref rid="joim12941-bib-0042" ref-type="ref">42</xref>. Inflammation is increasingly recognized as playing a key role in cardiovascular disease development, and may be the common mechanism underlying the effect of many traditional risk factors <xref rid="joim12941-bib-0043" ref-type="ref">43</xref>. Interestingly, Ro/SSA and La/SSB antibodies, which are associated with an activated inflammatory type I IFN system, have been reported to correlate positively with subclinical atherosclerosis and endothelial dysfunction <xref rid="joim12941-bib-0037" ref-type="ref">37</xref>, <xref rid="joim12941-bib-0038" ref-type="ref">38</xref>, <xref rid="joim12941-bib-0040" ref-type="ref">40</xref>. These reports are thus consistent with our findings of higher risks of cerebral arterial events in Ro/SSA&#x02010; and La/SSB&#x02010;positive patients. However, intra&#x02010;group variations with regards to reaching statistical significance were observed in the analyses. This may partially relate to the limited number of events in each substratum, and calls for caution in interpreting individual findings. Nevertheless, it does not preclude the joint conclusion that the presence of these antibodies associates with an increased risk.</p><p>The study has limitations to consider. We were unable to control for lifestyle factors and comorbid disorders potentially influencing the risk of cardiovascular disease as previous studies have suggested that, patients with Sj&#x000f6;gren's syndrome have an increased frequency of traditional risk factors associated with cardiovascular disease, including hypertension, hypercholesterolaemia and hypertriglyceridaemia <xref rid="joim12941-bib-0016" ref-type="ref">16</xref>, <xref rid="joim12941-bib-0023" ref-type="ref">23</xref>, <xref rid="joim12941-bib-0044" ref-type="ref">44</xref>, and higher prevalence of subclinical atherosclerosis and endothelial dysfunction <xref rid="joim12941-bib-0039" ref-type="ref">39</xref>. However, our matching based on age, sex and geographical region may mitigate confounding effects from lifestyle factors, and adjustment for comorbid disorders has had marginal impact in previous studies <xref rid="joim12941-bib-0017" ref-type="ref">17</xref>, <xref rid="joim12941-bib-0018" ref-type="ref">18</xref>, <xref rid="joim12941-bib-0019" ref-type="ref">19</xref>. The lack of data to account for the presence of antiphospholipid antibodies constitutes another limitation <xref rid="joim12941-bib-0045" ref-type="ref">45</xref>, <xref rid="joim12941-bib-0046" ref-type="ref">46</xref>. Further, we had no information on underlying treatment, which may potentially influence the risk of cardiovascular disease <xref rid="joim12941-bib-0047" ref-type="ref">47</xref>.</p><p>The strengths of our study relate to the contextually large size of the cohorts, the long follow&#x02010;up and that cardiovascular events were identified using the NPR, which has been confirmed to hold high validity <xref rid="joim12941-bib-0026" ref-type="ref">26</xref>. Most importantly though, we included only patients fulfilling AECG criteria <xref rid="joim12941-bib-0025" ref-type="ref">25</xref> and through our clinical characterization could stratify analyses based on Ro/SSA and La/SSB autoantibodies. The presence or absence of these autoantibodies mark two genetically and clinically distinct subgroups, and therefore constitutes an important factor to take into account <xref rid="joim12941-bib-0048" ref-type="ref">48</xref>.</p><p>Investigations into the mechanisms behind the increased risk of cardiovascular disease in patients with primary Sj&#x000f6;gren's syndrome should involve the assessment of both traditional and disease&#x02010;specific risk factors. Previous studies of traditional risk factors have mostly not been able to stratify patients according to antibody positivity. A study of the impact of smoking and lifestyle factors using the same cohort of patients with primary Sj&#x000f6;gren's syndrome, and hence information on antibody status, is currently underway. Patients positive for SSA/SSB more often present with organ involvement, leukopenia, hypergammaglobulinaemia and high disease activity measured by the European League Against Rheumatism Disease Activity Index (ESSDAI), compared with antibody&#x02010;negative patients <xref rid="joim12941-bib-0049" ref-type="ref">49</xref>, <xref rid="joim12941-bib-0050" ref-type="ref">50</xref>. It is plausible that high disease activity confers an increased risk for cardiovascular disease. While CRP is not a good marker for disease activity in primary Sj&#x000f6;gren's syndrome, a prospective study assessing clinical and laboratory manifestations as well as ESSDAI at diagnosis and follow&#x02010;up would improve the understanding of disease&#x02010;related risk factors. Investigation of the IFN signature, pro&#x02010;inflammatory cytokines and biomarkers of endothelial damage as reviewed in <italic>Valim et&#x000a0;al</italic>. <xref rid="joim12941-bib-0039" ref-type="ref">39</xref>, measured at diagnosis and during the disease course, stratified by SSA/SSB antibodies, would hopefully elucidate some of the immunological disease mechanisms behind the increased risk.</p></sec><sec id="joim12941-sec-0018"><title>Conclusion</title><p>In this cohort study, we found that patients with primary Sj&#x000f6;gren's syndrome have a considerably increased risk of cardiovascular disease of both venous and arterial origin. We further add to the current knowledge by demonstrating that positivity for both Ro/SSA and La/SSB autoantibodies mark the subgroup of patients that carry most of the risk of cerebral infarction and VTE, highlighting the importance of taking patient subgroups into account for correctly defining comorbidity risks. The observations suggest that monitoring and prevention of cardiovascular disease in patients with primary Sj&#x000f6;gren's syndrome should be considered, and that Ro/SSA and La/SSB autoantibodies may be used as biomarkers to identify the group of patients with the greater need.</p></sec><sec sec-type="COI-statement" id="joim12941-sec-0019"><title>Conflict of interest statement</title><p>The authors declare no competing interests.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="joim12941-sup-0001"><caption><p>
+<bold>Table S1.</bold> ICD codes and registers used to identify cardiovascular events.</p><p>
+<bold>Table S2.</bold> Risk of myocardial infarction, cerebral infarction, and venous thromboembolism in prevalent primary Sj&#x000f6;gren's syndrome, stratified by SSA and SSB autoantibodies and age.</p><p>
+<bold>Table S3.</bold> Risk of cardiovascular disease after primary Sj&#x000f6;gren's syndrome diagnosis, stratified by sex.</p><p>
+<bold>Table S4.</bold> Frequencies of cardiovascular events occurring before primary Sj&#x000f6;gren's syndrome diagnosis.</p><p>
+<bold>Table S5.</bold> Risk of pulmonary embolism and deep vein thrombosis events after pSS diagnosis.</p></caption><media xlink:href="JOIM-286-458-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="joim12941-sec-0020"><title>Acknowledgements</title><p>We thank Aur&#x000e9;lie Ambrosi, Karolinska Institutet, for contributing to the writing of the paper. The study was supported by grants from the Swedish Research Council, the Swedish Rheumatism association, the King Gustaf the V:th 80&#x02010;year foundation, the Heart&#x02010;Lung Foundation, the Stockholm County Council and the Karolinska Institute.</p></ack><ref-list content-type="cited-references" id="joim12941-bibl-0001"><title>References</title><ref id="joim12941-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="joim12941-cit-0001">
+<string-name>
+<surname>Ambrosi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wahren&#x02010;Herlenius</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Update on the immunobiology of Sjogren's syndrome</article-title>. <source xml:lang="en">Curr Opin Rheumatol</source>
+<year>2015</year>; <volume>27</volume>: <fpage>468</fpage>&#x02013;<lpage>75</lpage>.<pub-id pub-id-type="pmid">26108063</pub-id></mixed-citation></ref><ref id="joim12941-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="joim12941-cit-0002">
+<string-name>
+<surname>Mariette</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Criswell</surname>
+<given-names>LA</given-names>
+</string-name>. <article-title>Primary Sjogren's Syndrome</article-title>. <source xml:lang="en">N Engl J Med</source>
+<year>2018</year>; <volume>378</volume>: <fpage>931</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">29514034</pub-id></mixed-citation></ref><ref id="joim12941-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="joim12941-cit-0003">
+<string-name>
+<surname>Wahren&#x02010;Herlenius</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dorner</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Immunopathogenic mechanisms of systemic autoimmune disease</article-title>. <source xml:lang="en">Lancet</source>
+<year>2013</year>; <volume>382</volume>: <fpage>819</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">23993191</pub-id></mixed-citation></ref><ref id="joim12941-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="joim12941-cit-0004">
+<string-name>
+<surname>Kvarnstrom</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ottosson</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Nordmark</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wahren&#x02010;Herlenius</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Incident cases of primary Sjogren's syndrome during a 5&#x02010;year period in Stockholm County: a descriptive study of the patients and their characteristics</article-title>. <source xml:lang="en">Scand J Rheumatol</source>
+<year>2015</year>; <volume>44</volume>: <fpage>135</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">25222653</pub-id></mixed-citation></ref><ref id="joim12941-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="joim12941-cit-0005">
+<string-name>
+<surname>Ramirez Sepulveda</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Kvarnstrom</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Long&#x02010;term follow&#x02010;up in primary Sjogren's syndrome reveals differences in clinical presentation between female and male patients</article-title>. <source xml:lang="en">Biol Sex Differ</source>
+<year>2017</year>; <volume>8</volume>: <fpage>25</fpage>.<pub-id pub-id-type="pmid">28789696</pub-id></mixed-citation></ref><ref id="joim12941-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="joim12941-cit-0006">
+<string-name>
+<surname>Ramirez Sepulveda</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Kvarnstrom</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Brauner</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Baldini</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wahren&#x02010;Herlenius</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Difference in clinical presentation between women and men in incident primary Sjogren's syndrome</article-title>. <source xml:lang="en">Biol Sex Differ</source>
+<year>2017</year>; <volume>8</volume>: <fpage>16</fpage>.<pub-id pub-id-type="pmid">28507729</pub-id></mixed-citation></ref><ref id="joim12941-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="joim12941-cit-0007">
+<string-name>
+<surname>Elagib</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Tengner</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Levi</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Immunoglobulin variable genes and epitope recognition of human monoclonal anti&#x02010;Ro 52&#x02010;kd in primary Sjogren's syndrome</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>1999</year>; <volume>42</volume>: <fpage>2471</fpage>&#x02013;<lpage>81</lpage>.<pub-id pub-id-type="pmid">10555043</pub-id></mixed-citation></ref><ref id="joim12941-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="joim12941-cit-0008">
+<string-name>
+<surname>Halse</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Marthinussen</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Wahren&#x02010;Herlenius</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Isotype distribution of anti&#x02010;Ro/SS&#x02010;A and anti&#x02010;La/SS&#x02010;B antibodies in plasma and saliva of patients with Sjogren's syndrome</article-title>. <source xml:lang="en">Scand J Rheumatol</source>
+<year>2000</year>; <volume>29</volume>: <fpage>13</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">10722253</pub-id></mixed-citation></ref><ref id="joim12941-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="joim12941-cit-0009">
+<string-name>
+<surname>Salomonsson</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wahren&#x02010;Herlenius</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Local production of Ro/SSA and La/SSB autoantibodies in the target organ coincides with high levels of circulating antibodies in sera of patients with Sjogren's syndrome</article-title>. <source xml:lang="en">Scand J Rheumatol</source>
+<year>2003</year>; <volume>32</volume>: <fpage>79</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">12737325</pub-id></mixed-citation></ref><ref id="joim12941-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="joim12941-cit-0010">
+<string-name>
+<surname>Balboni</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Niewold</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>
+<given-names>G</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Interferon&#x02010;alpha induction and detection of anti&#x02010;ro, anti&#x02010;la, anti&#x02010;sm, and anti&#x02010;rnp autoantibodies by autoantigen microarray analysis in juvenile dermatomyositis</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2013</year>; <volume>65</volume>: <fpage>2424</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">23740815</pub-id></mixed-citation></ref><ref id="joim12941-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="joim12941-cit-0011">
+<string-name>
+<surname>Bave</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Nordmark</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lovgren</surname>
+<given-names>T</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Activation of the type I interferon system in primary Sjogren's syndrome: a possible etiopathogenic mechanism</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2005</year>; <volume>52</volume>: <fpage>1185</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">15818675</pub-id></mixed-citation></ref><ref id="joim12941-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="joim12941-cit-0012">
+<string-name>
+<surname>Ramos&#x02010;Casals</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Solans</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rosas</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Primary Sjogren syndrome in Spain: clinical and immunologic expression in 1010 patients</article-title>. <source xml:lang="en">Medicine (Baltimore)</source>
+<year>2008</year>; <volume>87</volume>: <fpage>210</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">18626304</pub-id></mixed-citation></ref><ref id="joim12941-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="joim12941-cit-0013">
+<string-name>
+<surname>Holmqvist</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ljung</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Askling</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Acute coronary syndrome in new&#x02010;onset rheumatoid arthritis: a population&#x02010;based nationwide cohort study of time trends in risks and excess risks</article-title>. <source xml:lang="en">Ann Rheum Dis</source>
+<year>2017</year>; <volume>76</volume>: <fpage>1642</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">28710095</pub-id></mixed-citation></ref><ref id="joim12941-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="joim12941-cit-0014">
+<string-name>
+<surname>Schoenfeld</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Kasturi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Costenbader</surname>
+<given-names>KH</given-names>
+</string-name>. <article-title>The epidemiology of atherosclerotic cardiovascular disease among patients with SLE: a systematic review</article-title>. <source xml:lang="en">Semin Arthritis Rheum</source>
+<year>2013</year>; <volume>43</volume>: <fpage>77</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">23422269</pub-id></mixed-citation></ref><ref id="joim12941-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="joim12941-cit-0015">
+<string-name>
+<surname>Shoenfeld</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gerli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Doria</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Accelerated atherosclerosis in autoimmune rheumatic diseases</article-title>. <source xml:lang="en">Circulation</source>
+<year>2005</year>; <volume>112</volume>: <fpage>3337</fpage>&#x02013;<lpage>47</lpage>.<pub-id pub-id-type="pmid">16301360</pub-id></mixed-citation></ref><ref id="joim12941-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="joim12941-cit-0016">
+<string-name>
+<surname>Bartoloni</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Baldini</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schillaci</surname>
+<given-names>G</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Cardiovascular disease risk burden in primary Sjogren's syndrome: results of a population&#x02010;based multicentre cohort study</article-title>. <source xml:lang="en">J Intern Med</source>
+<year>2015</year>; <volume>278</volume>: <fpage>185</fpage>&#x02013;<lpage>92</lpage>.<pub-id pub-id-type="pmid">25582881</pub-id></mixed-citation></ref><ref id="joim12941-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="joim12941-cit-0017">
+<string-name>
+<surname>Chiang</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>PJ</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Primary Sjogren's syndrome and risk of ischemic stroke: a nationwide study</article-title>. <source xml:lang="en">Clin Rheumatol</source>
+<year>2014</year>; <volume>33</volume>: <fpage>931</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">24651915</pub-id></mixed-citation></ref><ref id="joim12941-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="joim12941-cit-0018">
+<string-name>
+<surname>Chiang</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>PJ</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Primary Sjogren's Syndrome and the Risk of Acute Myocardial Infarction: a Nationwide Study</article-title>. <source xml:lang="en">Acta Cardiol Sin</source>
+<year>2013</year>; <volume>29</volume>: <fpage>124</fpage>&#x02013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">27122696</pub-id></mixed-citation></ref><ref id="joim12941-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="joim12941-cit-0019">
+<string-name>
+<surname>Wu</surname>
+<given-names>XF</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Chiou</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>HH</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Dong</surname>
+<given-names>LL</given-names>
+</string-name>. <article-title>Increased risk of coronary heart disease among patients with primary Sjogren's syndrome: a nationwide population&#x02010;based cohort study</article-title>. <source xml:lang="en">Sci Rep</source>
+<year>2018</year>; <volume>8</volume>: <fpage>2209</fpage>.<pub-id pub-id-type="pmid">29396489</pub-id></mixed-citation></ref><ref id="joim12941-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="joim12941-cit-0020">
+<string-name>
+<surname>Zoller</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Sundquist</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sundquist</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Risk of subsequent coronary heart disease in patients hospitalized for immune&#x02010;mediated diseases: a nationwide follow&#x02010;up study from Sweden</article-title>. <source xml:lang="en">PLoS ONE</source>
+<year>2012</year>; <volume>7</volume>: <fpage>e33442</fpage>.<pub-id pub-id-type="pmid">22438933</pub-id></mixed-citation></ref><ref id="joim12941-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="joim12941-cit-0021">
+<string-name>
+<surname>Zoller</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Sundquist</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sundquist</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Risk of pulmonary embolism in patients with autoimmune disorders: a nationwide follow&#x02010;up study from Sweden</article-title>. <source xml:lang="en">Lancet</source>
+<year>2012</year>; <volume>379</volume>: <fpage>244</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">22119579</pub-id></mixed-citation></ref><ref id="joim12941-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="joim12941-cit-0022">
+<string-name>
+<surname>Zoller</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Sundquist</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sundquist</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Risk of subsequent ischemic and hemorrhagic stroke in patients hospitalized for immune&#x02010;mediated diseases: a nationwide follow&#x02010;up study from Sweden</article-title>. <source xml:lang="en">BMC Neurol</source>
+<year>2012</year>; <volume>12</volume>: <fpage>41</fpage>.<pub-id pub-id-type="pmid">22708578</pub-id></mixed-citation></ref><ref id="joim12941-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="joim12941-cit-0023">
+<string-name>
+<surname>Perez&#x02010;De&#x02010;Lis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Akasbi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Siso</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Cardiovascular risk factors in primary Sjogren's syndrome: a case&#x02010;control study in 624 patients</article-title>. <source xml:lang="en">Lupus</source>
+<year>2010</year>; <volume>19</volume>: <fpage>941</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">20581017</pub-id></mixed-citation></ref><ref id="joim12941-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="joim12941-cit-0024">
+<string-name>
+<surname>Ludvigsson</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Otterblad&#x02010;Olausson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pettersson</surname>
+<given-names>BU</given-names>
+</string-name>, <string-name>
+<surname>Ekbom</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The Swedish personal identity number: possibilities and pitfalls in healthcare and medical research</article-title>. <source xml:lang="en">Eur J Epidemiol</source>
+<year>2009</year>; <volume>24</volume>: <fpage>659</fpage>&#x02013;<lpage>67</lpage>.<pub-id pub-id-type="pmid">19504049</pub-id></mixed-citation></ref><ref id="joim12941-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="joim12941-cit-0025">
+<string-name>
+<surname>Vitali</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bombardieri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>
+<given-names>R</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Classification criteria for Sjogren's syndrome: a revised version of the European criteria proposed by the American&#x02010;European Consensus Group</article-title>. <source xml:lang="en">Ann Rheum Dis</source>
+<year>2002</year>; <volume>61</volume>: <fpage>554</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">12006334</pub-id></mixed-citation></ref><ref id="joim12941-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="joim12941-cit-0026">
+<string-name>
+<surname>Ludvigsson</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Andersson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Ekbom</surname>
+<given-names>A</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>External review and validation of the Swedish national inpatient register</article-title>. <source xml:lang="en">BMC Public Health</source>
+<year>2011</year>; <volume>11</volume>: <fpage>450</fpage>.<pub-id pub-id-type="pmid">21658213</pub-id></mixed-citation></ref><ref id="joim12941-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="joim12941-cit-0027">
+<string-name>
+<surname>Holmqvist</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Wedren</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jacobsson</surname>
+<given-names>LT</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Rapid increase in myocardial infarction risk following diagnosis of rheumatoid arthritis amongst patients diagnosed between 1995 and 2006</article-title>. <source xml:lang="en">J Intern Med</source>
+<year>2010</year>; <volume>268</volume>: <fpage>578</fpage>&#x02013;<lpage>85</lpage>.<pub-id pub-id-type="pmid">20698926</pub-id></mixed-citation></ref><ref id="joim12941-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="joim12941-cit-0028">
+<string-name>
+<surname>Holmqvist</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Neovius</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Risk of venous thromboembolism in patients with rheumatoid arthritis and association with disease duration and hospitalization</article-title>. <source xml:lang="en">JAMA</source>
+<year>2012</year>; <volume>308</volume>: <fpage>1350</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">23032551</pub-id></mixed-citation></ref><ref id="joim12941-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="joim12941-cit-0029">
+<string-name>
+<surname>Ungprasert</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Srivali</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kittanamongkolchai</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Risk of venous thromboembolism in patients with Sjogren's syndrome: a systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">Clin Exp Rheumatol</source>
+<year>2015</year>; <volume>33</volume>: <fpage>746</fpage>&#x02013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">26087815</pub-id></mixed-citation></ref><ref id="joim12941-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="joim12941-cit-0030">
+<string-name>
+<surname>Xu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lupu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Esmon</surname>
+<given-names>CT</given-names>
+</string-name>. <article-title>Inflammation, innate immunity and blood coagulation</article-title>. <source xml:lang="en">Hamostaseologie</source>
+<year>2010</year>; <volume>30</volume>: <fpage>5</fpage>&#x02013;<lpage>6</lpage>, 8&#x02013;9.<pub-id pub-id-type="pmid">20162248</pub-id></mixed-citation></ref><ref id="joim12941-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="joim12941-cit-0031">
+<string-name>
+<surname>Avina&#x02010;Zubieta</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Vostretsova</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>De Vera</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Sayre</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>HK</given-names>
+</string-name>. <article-title>The risk of pulmonary embolism and deep venous thrombosis in systemic lupus erythematosus: a general population&#x02010;based study</article-title>. <source xml:lang="en">Semin Arthritis Rheum</source>
+<year>2015</year>; <volume>45</volume>: <fpage>195</fpage>&#x02013;<lpage>201</lpage>.<pub-id pub-id-type="pmid">26364556</pub-id></mixed-citation></ref><ref id="joim12941-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="joim12941-cit-0032">
+<string-name>
+<surname>Brkic</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Maria</surname>
+<given-names>NI</given-names>
+</string-name>, <string-name>
+<surname>van Helden&#x02010;Meeuwsen</surname>
+<given-names>CG</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Prevalence of interferon type I signature in CD14 monocytes of patients with Sjogren's syndrome and association with disease activity and BAFF gene expression</article-title>. <source xml:lang="en">Ann Rheum Dis</source>
+<year>2013</year>; <volume>72</volume>: <fpage>728</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">22736090</pub-id></mixed-citation></ref><ref id="joim12941-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="joim12941-cit-0033">
+<string-name>
+<surname>Kaplan</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Salmon</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>How does interferon&#x02010;alpha insult the vasculature? Let me count the ways</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2011</year>; <volume>63</volume>: <fpage>334</fpage>&#x02013;<lpage>6</lpage>.<pub-id pub-id-type="pmid">21279989</pub-id></mixed-citation></ref><ref id="joim12941-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="joim12941-cit-0034">
+<string-name>
+<surname>Vazquez&#x02010;Garza</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jerjes&#x02010;Sanchez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Navarrete</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Joya&#x02010;Harrison</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Venous thromboembolism: thrombosis, inflammation, and immunothrombosis for clinicians</article-title>. <source xml:lang="en">J Thromb Thrombolysis</source>
+<year>2017</year>; <volume>44</volume>: <fpage>377</fpage>&#x02013;<lpage>85</lpage>.<pub-id pub-id-type="pmid">28730407</pub-id></mixed-citation></ref><ref id="joim12941-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="joim12941-cit-0035">
+<string-name>
+<surname>Emamian</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Leon</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lessard</surname>
+<given-names>CJ</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Peripheral blood gene expression profiling in Sjogren's syndrome</article-title>. <source xml:lang="en">Genes Immun</source>
+<year>2009</year>; <volume>10</volume>: <fpage>285</fpage>&#x02013;<lpage>96</lpage>.<pub-id pub-id-type="pmid">19404300</pub-id></mixed-citation></ref><ref id="joim12941-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="joim12941-cit-0036">
+<string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kaplan</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Cardiovascular disease in systemic lupus erythematosus: an update</article-title>. <source xml:lang="en">Curr Opin Rheumatol</source>
+<year>2018</year>; <volume>30</volume>: <fpage>441</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">29870498</pub-id></mixed-citation></ref><ref id="joim12941-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="joim12941-cit-0037">
+<string-name>
+<surname>Garcia</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Dardin</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Minali</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Czapkowsky</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ajzen</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Trevisani</surname>
+<given-names>VF</given-names>
+</string-name>. <article-title>Asymptomatic Atherosclerosis in Primary Sjogren Syndrome: Correlation Between Low Ankle Brachial Index and Autoantibodies Positivity</article-title>. <source xml:lang="en">J Clin Rheumatol</source>
+<year>2016</year>; <volume>22</volume>: <fpage>295</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">27556236</pub-id></mixed-citation></ref><ref id="joim12941-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="joim12941-cit-0038">
+<string-name>
+<surname>Gerli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Vaudo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bocci</surname>
+<given-names>EB</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Functional impairment of the arterial wall in primary Sjogren's syndrome: combined action of immunologic and inflammatory factors</article-title>. <source xml:lang="en">Arthritis Care Res (Hoboken)</source>
+<year>2010</year>; <volume>62</volume>: <fpage>712</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">20191479</pub-id></mixed-citation></ref><ref id="joim12941-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="joim12941-cit-0039">
+<string-name>
+<surname>Valim</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Gerdts</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jonsson</surname>
+<given-names>R</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Atherosclerosis in Sjogren's syndrome: evidence, possible mechanisms and knowledge gaps</article-title>. <source xml:lang="en">Clin Exp Rheumatol</source>
+<year>2016</year>; <volume>34</volume>: <fpage>133</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">26812164</pub-id></mixed-citation></ref><ref id="joim12941-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="joim12941-cit-0040">
+<string-name>
+<surname>Vaudo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bocci</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Shoenfeld</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Precocious intima&#x02010;media thickening in patients with primary Sjogren's syndrome</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2005</year>; <volume>52</volume>: <fpage>3890</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">16320337</pub-id></mixed-citation></ref><ref id="joim12941-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="joim12941-cit-0041">
+<string-name>
+<surname>Rachapalli</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Kiely</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Bourke</surname>
+<given-names>BE</given-names>
+</string-name>. <article-title>Prevalence of abnormal ankle brachial index in patients with primary Sjogren's syndrome</article-title>. <source xml:lang="en">Clin Rheumatol</source>
+<year>2009</year>; <volume>28</volume>: <fpage>587</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">19205787</pub-id></mixed-citation></ref><ref id="joim12941-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="joim12941-cit-0042">
+<string-name>
+<surname>Gistera</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hansson</surname>
+<given-names>GK</given-names>
+</string-name>. <article-title>The immunology of atherosclerosis</article-title>. <source xml:lang="en">Nat Rev Nephrol</source>
+<year>2017</year>; <volume>13</volume>: <fpage>368</fpage>&#x02013;<lpage>80</lpage>.<pub-id pub-id-type="pmid">28392564</pub-id></mixed-citation></ref><ref id="joim12941-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="joim12941-cit-0043">
+<string-name>
+<surname>Libby</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ridker</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Hansson</surname>
+<given-names>GK</given-names>
+</string-name>. <article-title>Progress and challenges in translating the biology of atherosclerosis</article-title>. <source xml:lang="en">Nature</source>
+<year>2011</year>; <volume>473</volume>: <fpage>317</fpage>&#x02013;<lpage>25</lpage>.<pub-id pub-id-type="pmid">21593864</pub-id></mixed-citation></ref><ref id="joim12941-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="joim12941-cit-0044">
+<string-name>
+<surname>Juarez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Toms</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>de Pablo</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Cardiovascular risk factors in women with primary Sjogren's syndrome: United Kingdom primary Sjogren's syndrome registry results</article-title>. <source xml:lang="en">Arthritis Care Res (Hoboken)</source>
+<year>2014</year>; <volume>66</volume>: <fpage>757</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">24877201</pub-id></mixed-citation></ref><ref id="joim12941-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="joim12941-cit-0045">
+<string-name>
+<surname>Fauchais</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Lambert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Launay</surname>
+<given-names>D</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Antiphospholipid antibodies in primary Sjogren's syndrome: prevalence and clinical significance in a series of 74 patients</article-title>. <source xml:lang="en">Lupus</source>
+<year>2004</year>; <volume>13</volume>: <fpage>245</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">15176660</pub-id></mixed-citation></ref><ref id="joim12941-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="joim12941-cit-0046">
+<string-name>
+<surname>Pasoto</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Chakkour</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name>
+<surname>Natalino</surname>
+<given-names>RR</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Lupus anticoagulant: a marker for stroke and venous thrombosis in primary Sjogren's syndrome</article-title>. <source xml:lang="en">Clin Rheumatol</source>
+<year>2012</year>; <volume>31</volume>: <fpage>1331</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">22692396</pub-id></mixed-citation></ref><ref id="joim12941-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="joim12941-cit-0047">
+<string-name>
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>Chloroquine and hydroxychloroquine are associated with reduced cardiovascular risk: a systematic review and meta&#x02010;analysis</article-title>. <source xml:lang="en">Drug Des Devel Ther</source>
+<year>2018</year>; <volume>12</volume>: <fpage>1685</fpage>&#x02013;<lpage>95</lpage>.</mixed-citation></ref><ref id="joim12941-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="joim12941-cit-0048">
+<string-name>
+<surname>Gottenberg</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Busson</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Loiseau</surname>
+<given-names>P</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>In primary Sjogren's syndrome, HLA class II is associated exclusively with autoantibody production and spreading of the autoimmune response</article-title>. <source xml:lang="en">Arthritis Rheum</source>
+<year>2003</year>; <volume>48</volume>: <fpage>2240</fpage>&#x02013;<lpage>5</lpage>.<pub-id pub-id-type="pmid">12905478</pub-id></mixed-citation></ref><ref id="joim12941-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="joim12941-cit-0049">
+<string-name>
+<surname>Seror</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ravaud</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bowman</surname>
+<given-names>SJ</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>EULAR Sjogren's syndrome disease activity index: development of a consensus systemic disease activity index for primary Sjogren's syndrome</article-title>. <source xml:lang="en">Ann Rheum Dis</source>
+<year>2010</year>; <volume>69</volume>: <fpage>1103</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">19561361</pub-id></mixed-citation></ref><ref id="joim12941-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="joim12941-cit-0050">
+<string-name>
+<surname>Brito&#x02010;Zeron</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Acar&#x02010;Denizli</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>WF</given-names>
+</string-name>
+<italic>et&#x000a0;al</italic>
+<article-title>How immunological profile drives clinical phenotype of primary Sjogren's syndrome at diagnosis: analysis of 10,500 patients (Sjogren Big Data Project)</article-title>. <source xml:lang="en">Clin Exp Rheumatol</source>
+<year>2018</year>; <volume>36</volume>(<issue>Suppl 112</issue>): <fpage>102</fpage>&#x02013;<lpage>12</lpage>.</mixed-citation></ref></ref-list></back></article>

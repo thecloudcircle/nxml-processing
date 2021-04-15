@@ -1,0 +1,301 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS Genet</journal-id><journal-id journal-id-type="iso-abbrev">PLoS Genet</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosgen</journal-id><journal-title-group><journal-title>PLoS Genetics</journal-title></journal-title-group><issn pub-type="ppub">1553-7390</issn><issn pub-type="epub">1553-7404</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">20865118</article-id><article-id pub-id-type="pmc">2928810</article-id><article-id pub-id-type="publisher-id">10-PLGE-RA-EV-2801R3</article-id><article-id pub-id-type="doi">10.1371/journal.pgen.1001080</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Evolutionary Biology</subject><subject>Evolutionary Biology/Evolutionary and Comparative Genetics</subject><subject>Genetics and Genomics</subject><subject>Genetics and Genomics/Population Genetics</subject></subj-group></article-categories><title-group><article-title>Did Genetic Drift Drive Increases in Genome Complexity?</article-title><alt-title alt-title-type="running-head">Genetic Drift and Genome Complexity</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Whitney</surname><given-names>Kenneth D.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Garland</surname><given-names>Theodore</given-names><suffix>Jr</suffix></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="aff1"><label>1</label><addr-line>Department of Ecology and Evolutionary Biology, Rice University, Houston, Texas, United States of America</addr-line></aff><aff id="aff2"><label>2</label><addr-line>Department of Biology, University of California Riverside, Riverside, California, United States of America</addr-line></aff><contrib-group><contrib contrib-type="editor"><name><surname>Moran</surname><given-names>Nancy A.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Yale University, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>kwhitney@rice.edu</email></corresp><fn fn-type="con"><p>Analyzed the data: KDW TG. Contributed reagents/materials/analysis tools: TG. Wrote the paper: KDW. Conceived and designed the study: KDW.</p></fn></author-notes><pub-date pub-type="collection"><month>8</month><year>2010</year></pub-date><pub-date pub-type="epub"><day>26</day><month>8</month><year>2010</year></pub-date><volume>6</volume><issue>8</issue><elocation-id>e1001080</elocation-id><history><date date-type="received"><day>15</day><month>3</month><year>2010</year></date><date date-type="accepted"><day>22</day><month>7</month><year>2010</year></date></history><permissions><copyright-statement>Whitney, Garland.</copyright-statement><copyright-year>2010</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><p>Mechanisms underlying the dramatic patterns of genome size variation across the tree of life remain mysterious. Effective population size (<italic>N<sub>e</sub></italic>) has been proposed as a major driver of genome size: selection is expected to efficiently weed out deleterious mutations increasing genome size in lineages with large (but not small) <italic>N<sub>e</sub></italic>. Strong support for this model was claimed from a comparative analysis of <italic>N<sub>e</sub>u</italic> and genome size for &#x02248;30 phylogenetically diverse species ranging from bacteria to vertebrates, but analyses at that scale have so far failed to account for phylogenetic nonindependence of species. In our reanalysis, accounting for phylogenetic history substantially altered the perceived strength of the relationship between <italic>N<sub>e</sub>u</italic> and genomic attributes: there were no statistically significant associations between <italic>N<sub>e</sub>u</italic> and gene number, intron size, intron number, the half-life of gene duplicates, transposon number, transposons as a fraction of the genome, or overall genome size. We conclude that current datasets do not support the hypothesis of a mechanistic connection between <italic>N<sub>e</sub></italic> and these genomic attributes, and we suggest that further progress requires larger datasets, phylogenetic comparative methods, more robust estimators of genetic drift, and a multivariate approach that accounts for correlations between putative explanatory variables.</p></abstract><abstract abstract-type="summary"><title>Author Summary</title><p>Genome size (the amount of nuclear DNA) varies tremendously across organisms but is not necessarily correlated with organismal complexity. For example, genome sizes just within the grasses vary nearly 20-fold, but large-genomed grass species are not obviously more complex in terms of morphology or physiology than are the small-genomed species. Recent explanations for genome size variation have instead been dominated by the idea that population size determines genome size: mutations that increase genome size are expected to drift to fixation in species with small populations, but such mutations would be eliminated in species with large populations where natural selection operates at higher efficiency. However, inferences from previous analyses are limited because they fail to recognize that species share evolutionary histories and thus are not necessarily statistically independent. Our analysis takes a phylogenetic perspective and, contrary to previous studies, finds no evidence that genome size or any of its components (e.g., transposon number, intron number) are related to population size. We suggest that genome size evolution is unlikely to be neatly explained by a single factor such as population size.</p></abstract><counts><page-count count="6"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>The vast array of genome sizes is a pattern that begs for explanation <xref rid="pgen.1001080-Baack1" ref-type="bibr">[1]</xref>, <xref rid="pgen.1001080-Gregory1" ref-type="bibr">[2]</xref>. Haploid (1C) genome size (measured either in base pairs or mass, where 10<sup>6</sup> Kb &#x02248;1 picogram) spans eight orders of magnitude: the known eukaryotic range is &#x02248;2,249&#x02013;978,000,000 Kb <xref rid="pgen.1001080-Gregory2" ref-type="bibr">[3]</xref>, while Archaea and Bacteria range from 491&#x02013;5,751 Kb and 76&#x02013;13,034 Kb, respectively <xref rid="pgen.1001080-Center1" ref-type="bibr">[4]</xref>.</p><p>Lynch and colleagues <xref rid="pgen.1001080-Lynch1" ref-type="bibr">[5]</xref>&#x02013;<xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref> have argued strongly for a central role for nonadaptive processes such as mutation and drift in the evolution of genome size and complexity. In contrast to proposed neutral and adaptive models of genome size evolution (see, e.g. <xref rid="pgen.1001080-Bennett1" ref-type="bibr">[8]</xref>, <xref rid="pgen.1001080-Petrov1" ref-type="bibr">[9]</xref>), they outline a model positing that mutations increasing genome size are slightly deleterious. Under this model, lineages differ in effective population size (<italic>N<sub>e</sub></italic>) and, as a result, differ in the efficacy with which natural selection will counteract genome expansion. Thus, lineages with small <italic>N<sub>e</sub></italic> will experience drift towards larger genomes <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref>. As support for their argument, they presented a comparative analysis of roughly 30 taxa, ranging from bacteria to angiosperms, fungi, and mammals. Among these taxa, they reported a statistically significant negative relationship between <italic>N<sub>e</sub>u</italic> (a composite parameter including effective population size and nucleotide mutation rate) and genome size. Strikingly, the relationship was quite strong: 66&#x00025; of the variation in genome size was explained by <italic>N<sub>e</sub>u</italic>
+<xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref>. This is truly an astounding result, considering the widely divergent selective regimes, life histories, and modes of reproduction found across these diverse organisms.</p><p>The Lynch &#x00026; Conery model has sparked intense interest and &#x0003e;330 citations. Some objections on theoretical and methodological grounds have been voiced. Charlesworth and Barton <xref rid="pgen.1001080-Charlesworth1" ref-type="bibr">[10]</xref> point out that <italic>N<sub>e</sub></italic> is confounded with many different aspects of organismal biology (e.g., developmental rate, body size), and thus that both <italic>N<sub>e</sub></italic> and genome size may be correlated effects of one or more other causal factors. Daubin and Moran <xref rid="pgen.1001080-Daubin1" ref-type="bibr">[11]</xref> outline several objections, including that taxon differences in mutation rates make <italic>N<sub>e</sub>u</italic> a poor proxy for <italic>N<sub>e</sub></italic> that estimates of <italic>N<sub>e</sub></italic> from silent-site nucleotide diversity in bacteria (as in <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref>) are skewed by population subdivision and cryptic species, and further that such <italic>N<sub>e</sub></italic> estimates are overly sensitive to recent evolutionary history. Nevertheless, the idea that <italic>N<sub>e</sub></italic> drives genome size and complexity seems to have gained acceptance <xref rid="pgen.1001080-Koonin1" ref-type="bibr">[12]</xref>&#x02013;<xref rid="pgen.1001080-Yi1" ref-type="bibr">[14]</xref>, with some going so far as to characterize it as &#x0201c;the principal explanatory framework for understanding the evolution of genome organization&#x0201d; (<xref rid="pgen.1001080-Koonin1" ref-type="bibr">[12]</xref>, p. 303).</p><p>Here, we argue that such conclusions are premature without phylogenetic comparative analyses of genome size evolution. When species are used as data points, relationships between raw values of any two traits (e.g., <italic>N<sub>e</sub></italic> and genome size) are difficult to interpret, as shared phylogenetic history means that assumptions of statistical independence are likely to be violated <xref rid="pgen.1001080-Felsenstein1" ref-type="bibr">[15]</xref>&#x02013;<xref rid="pgen.1001080-Harvey1" ref-type="bibr">[17]</xref>. Special methods are required to recover independence of observations and to test for evolutionary associations between traits. Frequently, conventional (nonphylogenetic) analyses overestimate the strength of the association between traits relative to phylogenetic methods <xref rid="pgen.1001080-Garland2" ref-type="bibr">[18]</xref>. In an extreme case, a strong correlation in the raw data can be driven by a single association at the base of the phylogenetic tree, e.g., it can reflect a single instance of correlated change in the traits, followed by uncorrelated changes and/or stasis in trait values during subsequent evolutionary history (<xref ref-type="fig" rid="pgen-1001080-g001">Figure 1</xref>). In this study, we revisit the Lynch &#x00026; Conery dataset with a phylogenetic perspective, taking advantage of new phylogenetic data and analysis tools.</p><fig id="pgen-1001080-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pgen.1001080.g001</object-id><label>Figure 1</label><caption><title>Ignoring phylogenetic history can lead to incorrect conclusions about the nature of evolutionary associations between traits.</title><p>In this hypothetical example, eight species have been measured for two traits, x and y, as indicated by pairs of values at the tips of the phylogenetic tree (A). Ordinary least-squares linear regression (OLS) indicates a statistically significant positive relationship (B; <italic>r<sup>2</sup></italic>&#x0200a;=&#x0200a;0.62, <italic>P</italic>&#x0200a;=&#x0200a;0.02), potentially leading to an inference of a positive evolutionary association between x and y. However, inspection of the scatterplot (B) in relation to the phylogenetic relationships of the species (A) indicates that the association between x and y is <italic>negative</italic> for the four species within each of the two major lineages. Regression through the origin with phylogenetically independent contrasts (computed using <xref rid="pgen.1001080-Midford1" ref-type="bibr">[34]</xref> and setting all branches to length 1.0), which is equivalent to phylogenetic generalized least squares (PGLS) analysis, accounts for the nonindependence of species and indicates no overall evolutionary relationship between the traits (C, standardized contrasts, <italic>r<sup>2</sup></italic>&#x0200a;=&#x0200a;0.01, <italic>P</italic>&#x0200a;=&#x0200a;0.82; basal contrast indicated in red). The apparent pattern across species was driven by positively correlated trait change only at the basal split of the phylogeny; throughout the rest of the phylogeny, the traits mostly changed in <italic>opposite</italic> directions (A; basal contrast in red). Notes: In A, the estimated nodal values for both traits are shown in parentheses. These are intermediate steps in the independent contrasts algorithm and are not to be taken as optimal estimates of the states at internal nodes; rather, they are a type of &#x0201c;local parsimony&#x0201d; estimate (except the estimate at the basal node, which is equivalent to the estimate under squared-change parsimony). Contrasts are taken between sister nodes on a phylogeny, not along each branch segment <xref rid="pgen.1001080-Felsenstein1" ref-type="bibr">[15]</xref>, <xref rid="pgen.1001080-Garland1" ref-type="bibr">[16]</xref>, <xref rid="pgen.1001080-Garland2" ref-type="bibr">[18]</xref>.</p></caption><graphic xlink:href="pgen.1001080.g001"/></fig></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>Model fitting</title><p>A phylogenetic topology and reconstruction of genome sizes is presented in <xref ref-type="fig" rid="pgen-1001080-g002">Figure 2</xref>, illustrating that close relatives have similar genome sizes. Initial simple linear regressions of genome size on <italic>N<sub>e</sub>u</italic> explored four branch length models and found that the phylogenetic generalized least squares (PGLS) model with all branches &#x0200a;=&#x0200a;1.0 provided a better fit than the nonphylogenetic ordinary least squares (OLS) model (<xref ref-type="table" rid="pgen-1001080-t001">Table 1</xref>). Subsequent analyses therefore used branch lengths of 1.0. For all variables except intron number, phylogenetic models (PGLS) exhibited better fit than nonphylogenetic (OLS) models (<xref ref-type="table" rid="pgen-1001080-t001">Table 1</xref>). For genome size and gene number, estimation of the Ornstein-Uhlenbeck transformation parameter <italic>d</italic> indicated substantial phylogenetic signal (<italic>d</italic>&#x0200a;=&#x0200a;1.31 and 1.16, respectively), and the resulting RegOU models fit significantly better than the OLS models (ln likelihood ratio tests (LRTs), &#x003c7;<sup>2</sup>&#x0200a;=&#x0200a;5.88, <italic>P</italic>&#x0200a;=&#x0200a;0.015 and &#x003c7;<sup>2</sup>&#x0200a;=&#x0200a;7.90, <italic>P</italic>&#x0200a;=&#x0200a;0.005, respectively). In comparing the two phylogenetic models, the RegOU model did not produce significantly better fit vs. PGLS (LRTs, &#x003c7;<sup>2</sup>&#x0200a;=&#x0200a;1.84, <italic>P</italic>&#x0200a;=&#x0200a;0.175 and &#x003c7;<sup>2</sup>&#x0200a;=&#x0200a;0.46, <italic>P</italic>&#x0200a;=&#x0200a;0.498 for genome size and gene number, respectively).</p><fig id="pgen-1001080-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pgen.1001080.g002</object-id><label>Figure 2</label><caption><title>Phylogeny for the species in the Lynch &#x00026; Conery dataset <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[<bold>7</bold>]</xref>, with a reconstruction of genome sizes.</title><p>(See <xref ref-type="sec" rid="s4">Materials and Methods</xref>).</p></caption><graphic xlink:href="pgen.1001080.g002"/></fig><table-wrap id="pgen-1001080-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pgen.1001080.t001</object-id><label>Table 1</label><caption><title>Relationships between <italic>N<sub>e</sub>u</italic> and genomic attributes in nonphylogenetic (OLS) and phylogenetic (PGLS, RegOU) models.</title></caption><alternatives><graphic id="pgen-1001080-t001-1" xlink:href="pgen.1001080.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Model</td><td align="left" rowspan="1" colspan="1">Dependent variable</td><td align="left" rowspan="1" colspan="1">ln Max Likelihood</td><td align="left" rowspan="1" colspan="1">
+<italic>N</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>b</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>r</italic>
+<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>P</italic> for regression</td></tr></thead><tbody><tr><td colspan="2" align="left" rowspan="1">
+<bold><italic>Ordinary Least Squares (OLS)</italic></bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Genome Size (Mb)</td><td align="left" rowspan="1" colspan="1">&#x02212;25.53</td><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">&#x02212;1.17</td><td align="left" rowspan="1" colspan="1">0.64<xref ref-type="table-fn" rid="nt102">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x0003c;0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Gene Number</td><td align="left" rowspan="1" colspan="1">&#x02212;07.81</td><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">&#x02212;0.54</td><td align="left" rowspan="1" colspan="1">0.56</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x0003c;0.001</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Half-life of Gene Duplicates</td><td align="left" rowspan="1" colspan="1">25.87</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">&#x02212;0.03</td><td align="left" rowspan="1" colspan="1">0.52</td><td align="left" rowspan="1" colspan="1">
+<bold>0.028</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Intron Size</td><td align="left" rowspan="1" colspan="1">&#x02212;09.60</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">&#x02212;0.68</td><td align="left" rowspan="1" colspan="1">0.40</td><td align="left" rowspan="1" colspan="1">
+<bold>0.011</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Intron Number</td><td align="left" rowspan="1" colspan="1">&#x02212;23.40</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">&#x02212;1.06</td><td align="left" rowspan="1" colspan="1">0.21</td><td align="left" rowspan="1" colspan="1">0.084</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Transposons (number)</td><td align="left" rowspan="1" colspan="1">&#x02212;35.49</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">&#x02212;2.27</td><td align="left" rowspan="1" colspan="1">0.35</td><td align="left" rowspan="1" colspan="1">
+<bold>0.010</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Transposons (fraction of genome)</td><td align="left" rowspan="1" colspan="1">&#x02212;12.06</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">&#x02212;0.56</td><td align="left" rowspan="1" colspan="1">0.31</td><td align="left" rowspan="1" colspan="1">
+<bold>0.017</bold>
+</td></tr><tr><td colspan="2" align="left" rowspan="1">
+<bold><italic>Phylogenetic Generalized Least Squares (PGLS)</italic></bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Genome Size (Mb)</td><td align="left" rowspan="1" colspan="1">&#x02212;23.51</td><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">&#x02212;0.33</td><td align="left" rowspan="1" colspan="1">0.08</td><td align="left" rowspan="1" colspan="1">0.137</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Gene Number</td><td align="left" rowspan="1" colspan="1">&#x02212;04.09</td><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">&#x02212;0.15</td><td align="left" rowspan="1" colspan="1">0.07</td><td align="left" rowspan="1" colspan="1">0.187</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Half-life of Gene Duplicates</td><td align="left" rowspan="1" colspan="1">23.62</td><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">&#x02212;0.01</td><td align="left" rowspan="1" colspan="1">0.13</td><td align="left" rowspan="1" colspan="1">0.335</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Intron Size</td><td align="left" rowspan="1" colspan="1">&#x02212;09.33</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">&#x02212;0.36</td><td align="left" rowspan="1" colspan="1">0.13</td><td align="left" rowspan="1" colspan="1">0.187</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Intron Number</td><td align="left" rowspan="1" colspan="1">&#x02212;23.84</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">&#x02212;0.75</td><td align="left" rowspan="1" colspan="1">0.09</td><td align="left" rowspan="1" colspan="1">0.291</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Transposons (number)</td><td align="left" rowspan="1" colspan="1">&#x02212;33.83</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">&#x02212;0.29</td><td align="left" rowspan="1" colspan="1">0.01</td><td align="left" rowspan="1" colspan="1">0.707</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Transposons (fraction of genome)</td><td align="left" rowspan="1" colspan="1">&#x02212;11.52</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">&#x02212;0.07</td><td align="left" rowspan="1" colspan="1">0.01</td><td align="left" rowspan="1" colspan="1">0.740</td></tr><tr><td colspan="5" align="left" rowspan="1">
+<bold><italic>Phylogenetic Regression under an Ornstein-Uhlenbeck Process (RegOU)</italic></bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Genome Size (Mb)</td><td align="left" rowspan="1" colspan="1">&#x02212;22.59&#x0002a;</td><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">&#x02212;0.20</td><td align="left" rowspan="1" colspan="1">0.04</td><td align="left" rowspan="1" colspan="1">0.328</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Gene Number</td><td align="left" rowspan="1" colspan="1">&#x02212;03.86&#x0002a;</td><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">&#x02212;0.12</td><td align="left" rowspan="1" colspan="1">0.04</td><td align="left" rowspan="1" colspan="1">0.282</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>Log<sub>10</sub>-transformed dependent variables were regressed on log<sub>10</sub>(<italic>N<sub>e</sub>u</italic>). Phylogenetic models used arbitrary branch lengths of 1.0 (see <xref ref-type="sec" rid="s4">Materials and Methods</xref>). Note that <italic>r<sup>2</sup></italic> values are not comparable across OLS, PGLS, and RegOU models. Asterisks indicate RegOU models with significantly better fit than OLS models, based on ln likelihood ratio tests (see <xref ref-type="sec" rid="s2">Results</xref>); <italic>b</italic>&#x0200a;=&#x0200a;regression slope; significant <italic>P</italic>-values are in bold.</p></fn><fn id="nt102"><p><bold>&#x02020;:</bold> Lynch &#x00026; Conery <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref> reported <italic>r<sup>2</sup></italic>&#x0200a;=&#x0200a;0.659; the discrepancy apparently arises because their analysis used 30 species, only 29 of which were reported in their online supplement.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s2b"><title>Phylogenetic regressions do not detect relationships between <italic>N<sub>e</sub>u</italic> and genomic attributes</title><p>Although there were strong negative relationships between <italic>N<sub>e</sub>u</italic> and six of the seven genomic attributes in nonphylogenetic regressions, the patterns disappeared when phylogenetic models were applied (<xref ref-type="table" rid="pgen-1001080-t001">Table 1</xref>). For example, the strong negative relationship between <italic>N<sub>e</sub>u</italic> and genome size (OLS, <italic>P</italic>&#x0003c;0.001, <xref ref-type="fig" rid="pgen-1001080-g003">Figure 3A</xref>) was replaced with a nonsignificant relationship under better-fitting phylogenetic models (PGLS, <italic>P</italic>&#x0200a;=&#x0200a;0.137, <xref ref-type="fig" rid="pgen-1001080-g003">Figure 3B</xref>; RegOU, <italic>P</italic>&#x0200a;=&#x0200a;0.328). Similar patterns were evident for gene number, the half-life of gene duplicates, intron size, intron number, transposon number, and transposon fraction (<xref ref-type="table" rid="pgen-1001080-t001">Table 1</xref>).</p><fig id="pgen-1001080-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pgen.1001080.g003</object-id><label>Figure 3</label><caption><title>Relationship between <italic>N<sub>e</sub>u</italic> and genome size across 22 eukaryotic and 7 prokaryotic species from the dataset of Lynch &#x00026; Conery <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[<bold>7</bold>]</xref>.</title><p>(A) Ordinary least squares regression (OLS); <italic>r<sup>2</sup></italic>&#x0200a;=&#x0200a;0.64, <italic>P</italic>&#x0003c;0.0001. (B) Standardized phylogenetically independent contrasts (equivalent to PGLS) using branch lengths of 1.0; <italic>r<sup>2</sup></italic>&#x0200a;=&#x0200a;0.08, <italic>P</italic>&#x0200a;=&#x0200a;0.138. Values have been &#x0201c;positivized&#x0201d; on the x-axis <xref rid="pgen.1001080-Garland4" ref-type="bibr">[35]</xref>.</p></caption><graphic xlink:href="pgen.1001080.g003"/></fig></sec></sec><sec id="s3"><title>Discussion</title><p>Accounting for phylogenetic history substantially altered the perceived strength of the relationship between <italic>N<sub>e</sub>u</italic> and genomic attributes. In phylogenetic analyses, there were no consistent evolutionary associations between <italic>N<sub>e</sub>u</italic> and gene number, intron size, intron number, the half-life of gene duplicates, transposon number, transposons as a fraction of the genome, or overall genome size. Thus, a phylogenetically controlled reanalysis of the Lynch &#x00026; Conery dataset <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref> does not support the conclusion that <italic>N<sub>e</sub></italic> drives genome size patterns across the tree of life.</p><p>The few existing comparative analyses of more phylogenetically restricted datasets either do not support or provide only equivocal support for the Lynch &#x00026; Conery model. Whitney et al. <xref rid="pgen.1001080-Whitney1" ref-type="bibr">[19]</xref> conducted a phylogenetically controlled analysis of 205 species of seed plants and found no association between <italic>N<sub>e</sub></italic> and genome size. Kuo et al. <xref rid="pgen.1001080-Kuo1" ref-type="bibr">[20]</xref> analyzed 42 paired bacterial genomes, using the efficacy of purifying selection in coding regions to quantify genetic drift. Bacterial taxa experiencing greater levels of genetic drift &#x02013; implying a smaller evolutionary <italic>N<sub>e</sub></italic> &#x02013; had smaller genomes, a pattern opposite that predicted by the Lynch &#x00026; Conery model as articulated in <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref>. Finally, in putative support of the model, Yi &#x00026; Streelman <xref rid="pgen.1001080-Yi2" ref-type="bibr">[21]</xref> reported a significant negative relationship between <italic>N<sub>e</sub></italic> and genome size in a phylogenetically corrected analysis of 33 species of ray-finned fish. However, this analysis has been challenged as artifactual. Gregory &#x00026; Witt <xref rid="pgen.1001080-Gregory3" ref-type="bibr">[22]</xref> argue that Pleistocene population bottlenecks and polyploidy shaped both <italic>N<sub>e</sub></italic> and genome size of fishes in such a way as to generate a non-causal correlation between <italic>N<sub>e</sub></italic> and genome size in this particular dataset.</p><p>Future investigations of the role of genetic drift in determining genome size across the tree of life would benefit from several approaches. First, utilizing phylogenetic comparative methods, for which we advocate here, is an important step towards drawing robust inferences from species-level comparative analyses. Second, larger datasets would certainly increase confidence in our interpretations. While statistically nonsignificant, we note the relationships between <italic>N<sub>e</sub>u</italic> and genomic attributes (<xref ref-type="table" rid="pgen-1001080-t001">Table 1</xref>) are negative and thus are at least qualitatively consistent with the Lynch &#x00026; Conery model, suggesting that power may be an issue. Furthermore, given that the <italic>N<sub>e</sub>u</italic> estimates in the current analysis required sequence data, species with small genomes relative to averages within clades are likely overrepresented; thus it would be important to ensure that species with large genomes are included in future analyses. Third, future studies would benefit from more robust estimates of genetic drift, as <italic>N<sub>e</sub>u</italic> estimated from silent-site diversity (as in <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref> and the present reanalysis) has several undesirable properties. Because the mutation rate <italic>u</italic> differs among lineages <xref rid="pgen.1001080-Daubin1" ref-type="bibr">[11]</xref>, <xref rid="pgen.1001080-Drake1" ref-type="bibr">[23]</xref>, <xref rid="pgen.1001080-Lynch4" ref-type="bibr">[24]</xref>, using <italic>N<sub>e</sub>u</italic> as a proxy for <italic>N<sub>e</sub></italic> could obscure any relationship between <italic>N<sub>e</sub></italic> and genome size. Further, <italic>N<sub>e</sub></italic> estimated from silent-site diversity may signal the effects of recent evolutionary events more than the long-term history under which genome size evolved <xref rid="pgen.1001080-Daubin1" ref-type="bibr">[11]</xref>. K<sub>a</sub>/K<sub>s</sub> ratios (ratios of nonsynonymous to synonymous substitutions per site) are a promising alternative to <italic>N<sub>e</sub>u</italic> for estimating genetic drift <xref rid="pgen.1001080-Daubin1" ref-type="bibr">[11]</xref>, <xref rid="pgen.1001080-Kuo1" ref-type="bibr">[20]</xref>. Finally, genome size is a complex trait that is unlikely to be explained by univariate analyses <xref rid="pgen.1001080-Charlesworth1" ref-type="bibr">[10]</xref>. Phylogenetic comparative methods should be combined with multivariate models that are capable of distinguishing the contributions of highly correlated predictor variables. A recent analysis <xref rid="pgen.1001080-Whitney1" ref-type="bibr">[19]</xref> is a step in the right direction: plant outcrossing rate and <italic>N<sub>e</sub></italic> were simultaneously examined in a multiple regression analysis of phylogenetically independent contrasts, allowing the partial contribution of each variable to be characterized. To make further progress on the population genetics of genome size and complexity, we clearly need phylogenetic comparative analyses of large datasets capable of distinguishing the contributions of <italic>N<sub>e</sub></italic> and its multiple correlates, including body size, developmental rate, and metabolic rate.</p></sec><sec sec-type="materials|methods" id="s4"><title>Materials and Methods</title><sec id="s4a"><title>Data sources</title><p>Data on <italic>N<sub>e</sub>u</italic> and genome sizes for 22 eukaryotic and 7 prokaryotic species were obtained from the Supporting Online Material of <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref>. For a subset of these species, data on gene number, intron size, intron number, and the half-life of gene duplicates were also obtained from the same source. Data on total transposon number and fraction of the genome occupied by transposons were obtained directly from M. Lynch; these data combine counts of LTR, non-LTR, and DNA transposons and correspond to the fourth panel of Fig. 4 of <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref>. All traits were log<sub>10</sub> transformed prior to analysis; for total transposon number and transposon fraction, constants of 1.0 and 0.01, respectively, were added prior to log-transformation.</p></sec><sec id="s4b"><title>Phylogeny construction</title><p>A composite tree for the species was constructed in Mesquite v. 2.71 <xref rid="pgen.1001080-Maddison1" ref-type="bibr">[25]</xref> based on phylogenetic trees reported in <xref rid="pgen.1001080-Gupta1" ref-type="bibr">[26]</xref>&#x02013;<xref rid="pgen.1001080-Song1" ref-type="bibr">[28]</xref>. As a visual heuristic, genome sizes were traced onto the phylogeny using the Parsimony Ancestral States method <xref rid="pgen.1001080-Maddison3" ref-type="bibr">[29]</xref> with an assumption that all branch lengths equal 1.0.</p></sec><sec id="s4c"><title>Phylogenetic comparative analyses</title><p>All dependent variables were regressed on <italic>N<sub>e</sub>u</italic> using REGRESSIONv2.m <xref rid="pgen.1001080-Lavin1" ref-type="bibr">[30]</xref> running in MATLAB v. 7.9.0. Three types of models were examined: ordinary least squares (OLS), phylogenetic generalized least squares (PGLS), and phylogenetic regression under an Ornstein-Uhlenbeck process (RegOU) <xref rid="pgen.1001080-Lavin1" ref-type="bibr">[30]</xref>, <xref rid="pgen.1001080-Garland3" ref-type="bibr">[31]</xref>. OLS is traditional &#x02018;nonphylogenetic&#x02019; regression, which in effect assumes a star phylogeny in which all species are equally unrelated, and corresponds to the <italic>N<sub>e</sub>u</italic> vs. genome size analysis reported in <xref rid="pgen.1001080-Lynch3" ref-type="bibr">[7]</xref>. PGLS assumes that residual variation among species is correlated, with the correlation given by a Brownian-motion like process along the specified phylogenetic tree (topology and branch lengths). PGLS is functionally equivalent to Felsenstein's <xref rid="pgen.1001080-Felsenstein1" ref-type="bibr">[15]</xref> phylogenetically independent contrast method <xref rid="pgen.1001080-Garland3" ref-type="bibr">[31]</xref>. Finally, the RegOU model estimates (via restricted maximum likelihood) the strength of phylogenetic signal in the residual variation simultaneously with the regression coefficients; the former is given by <italic>d</italic>, the Ornstein-Uhlenbeck transformation parameter. An OU evolutionary model is typically used to model the effects of stabilizing selection around an optimum <xref rid="pgen.1001080-Lavin1" ref-type="bibr">[30]</xref>. When <italic>d</italic>&#x0200a;=&#x0200a;0, there is no phylogenetic signal in the residuals from the regression model; when <italic>d</italic> is significantly greater than 0, significant phylogenetic signal exists <xref rid="pgen.1001080-Lavin1" ref-type="bibr">[30]</xref>, <xref rid="pgen.1001080-Blomberg1" ref-type="bibr">[32]</xref>.</p><p>Following <xref rid="pgen.1001080-Hutcheon1" ref-type="bibr">[33]</xref>, starter branch lengths corresponding to all branches &#x0200a;=&#x0200a;1.0, Grafen's arbitrary lengths, Pagel's arbitrary lengths, and Nee's arbitrary lengths were compared in PGLS and RegOU regressions of genome size on <italic>N<sub>e</sub>u</italic>. Based on their likelihoods, the models with all branches &#x0200a;=&#x0200a;1.0 achieved the best fit, and thus these branch lengths were used in all subsequent phylogenetic analyses. Model selection for each variable then proceeded in two steps. First, we compared the likelihoods of the PGLS model and the OLS model, with a higher likelihood taken as evidence of a better-fitting model. Second, we used ln likelihood ratio tests (LRTs) to compare the RegOU model with the PGLS and OLS models with 1 d.f. <xref rid="pgen.1001080-Lavin1" ref-type="bibr">[30]</xref>. Given the issue of small sample sizes (see <xref rid="pgen.1001080-Blomberg1" ref-type="bibr">[32]</xref>) for most dependent variables and the fact that RegOU models require estimation of an extra parameter, RegOU models were examined only for genome size and gene number.</p></sec></sec></body><back><ack><p>Many thanks to Eric Baack, Mike Barker, Joe Felsenstein, Jon Gelfond, Owen Gilbert, Tony Ives, Michael Kohn, David Queller, and Jennifer Rudgers for discussion and to Mike Lynch for discussion and data sharing.</p></ack><fn-group><fn fn-type="COI-statement"><p>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p>KDW was supported by NSF DEB-0716868 and TG was supported in part by NSF DEB-0416085. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pgen.1001080-Baack1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baack</surname><given-names>EJ</given-names></name><name><surname>Whitney</surname><given-names>KD</given-names></name><name><surname>Rieseberg</surname><given-names>LH</given-names></name></person-group>
+<year>2005</year>
+<article-title>Hybridization and genome size evolution: timing and magnitude of nuclear DNA content increases in <italic>Helianthus</italic> homoploid hybrid species.</article-title>
+<source>New Phytol</source>
+<volume>167</volume>
+<fpage>623</fpage>
+<lpage>630</lpage>
+<pub-id pub-id-type="pmid">15998412</pub-id></element-citation></ref><ref id="pgen.1001080-Gregory1"><label>2</label><element-citation publication-type="book">
+<person-group person-group-type="editor"><name><surname>Gregory</surname><given-names>TR</given-names></name></person-group>
+<year>2005</year>
+<article-title>The evolution of the genome.</article-title>
+<publisher-loc>Amsterdam</publisher-loc>
+<publisher-name>Elsevier</publisher-name>
+</element-citation></ref><ref id="pgen.1001080-Gregory2"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gregory</surname><given-names>TR</given-names></name><name><surname>Nicol</surname><given-names>JA</given-names></name><name><surname>Tamm</surname><given-names>H</given-names></name><name><surname>Kullman</surname><given-names>B</given-names></name><name><surname>Kullman</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Eukaryotic genome size databases.</article-title>
+<source>Nucleic Acids Res</source>
+<volume>35</volume>
+<fpage>D332</fpage>
+<lpage>D338</lpage>
+<pub-id pub-id-type="pmid">17090588</pub-id></element-citation></ref><ref id="pgen.1001080-Center1"><label>4</label><element-citation publication-type="book">
+<collab>Center for Biological Sequence Analysis</collab>
+<year>2010</year>
+<article-title>Genome Atlas Database.</article-title>
+<publisher-loc>Lyngby, Denmark</publisher-loc>
+<publisher-name>Technical University of Denmark</publisher-name>
+<comment><ext-link ext-link-type="uri" xlink:href="http://www.cbs.dtu.dk/services/GenomeAtlas/">http://www.cbs.dtu.dk/services/GenomeAtlas/</ext-link>.</comment>
+</element-citation></ref><ref id="pgen.1001080-Lynch1"><label>5</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lynch</surname><given-names>M</given-names></name></person-group>
+<year>2007</year>
+<article-title>The origins of genome architecture.</article-title>
+<publisher-loc>Sunderland, , Massachusetts, USA</publisher-loc>
+<publisher-name>Sinauer Associates</publisher-name>
+</element-citation></ref><ref id="pgen.1001080-Lynch2"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lynch</surname><given-names>M</given-names></name></person-group>
+<year>2007</year>
+<article-title>The frailty of adaptive hypotheses for the origins of organismal complexity.</article-title>
+<source>Proc Natl Acad Sci USA</source>
+<volume>104</volume>
+<fpage>8597</fpage>
+<lpage>8604</lpage>
+<pub-id pub-id-type="pmid">17494740</pub-id></element-citation></ref><ref id="pgen.1001080-Lynch3"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lynch</surname><given-names>M</given-names></name><name><surname>Conery</surname><given-names>JS</given-names></name></person-group>
+<year>2003</year>
+<article-title>The origins of genome complexity.</article-title>
+<source>Science</source>
+<volume>302</volume>
+<fpage>1401</fpage>
+<lpage>1404</lpage>
+<pub-id pub-id-type="pmid">14631042</pub-id></element-citation></ref><ref id="pgen.1001080-Bennett1"><label>8</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Bennett</surname><given-names>MD</given-names></name><name><surname>Leitch</surname><given-names>IJ</given-names></name></person-group>
+<year>2005</year>
+<article-title>Genome size evolution in plants.</article-title>
+<person-group person-group-type="editor"><name><surname>Gregory</surname><given-names>TR</given-names></name></person-group>
+<source>The evolution of the genome</source>
+<publisher-loc>Amsterdam</publisher-loc>
+<publisher-name>Elsevier</publisher-name>
+<fpage>89</fpage>
+<lpage>162</lpage>
+</element-citation></ref><ref id="pgen.1001080-Petrov1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Petrov</surname><given-names>DA</given-names></name></person-group>
+<year>2002</year>
+<article-title>Mutational equilibrium model of genome size evolution.</article-title>
+<source>Theor Pop Biol</source>
+<volume>61</volume>
+<fpage>531</fpage>
+<lpage>544</lpage>
+<pub-id pub-id-type="pmid">12167373</pub-id></element-citation></ref><ref id="pgen.1001080-Charlesworth1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Charlesworth</surname><given-names>B</given-names></name><name><surname>Barton</surname><given-names>N</given-names></name></person-group>
+<year>2004</year>
+<article-title>Genome size: Does bigger mean worse?</article-title>
+<source>Curr Biol</source>
+<volume>14</volume>
+<fpage>R233</fpage>
+<lpage>R235</lpage>
+<pub-id pub-id-type="pmid">15043833</pub-id></element-citation></ref><ref id="pgen.1001080-Daubin1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Daubin</surname><given-names>V</given-names></name><name><surname>Moran</surname><given-names>NA</given-names></name></person-group>
+<year>2004</year>
+<article-title>Comment on &#x0201c;The origins of genome complexity&#x0201d;.</article-title>
+<source>Science</source>
+<volume>306</volume>
+<fpage>978a</fpage>
+<pub-id pub-id-type="pmid">15528429</pub-id></element-citation></ref><ref id="pgen.1001080-Koonin1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koonin</surname><given-names>EV</given-names></name></person-group>
+<year>2009</year>
+<article-title>Evolution of genome architecture.</article-title>
+<source>Int J Biochem Cell Biol</source>
+<volume>41</volume>
+<fpage>298</fpage>
+<lpage>306</lpage>
+<pub-id pub-id-type="pmid">18929678</pub-id></element-citation></ref><ref id="pgen.1001080-Pritham1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pritham</surname><given-names>EJ</given-names></name></person-group>
+<year>2009</year>
+<article-title>Transposable elements and factors influencing their success in eukaryotes.</article-title>
+<source>J Hered</source>
+<volume>100</volume>
+<fpage>648</fpage>
+<lpage>655</lpage>
+<pub-id pub-id-type="pmid">19666747</pub-id></element-citation></ref><ref id="pgen.1001080-Yi1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yi</surname><given-names>SV</given-names></name></person-group>
+<year>2006</year>
+<article-title>Non-adaptive evolution of genome complexity.</article-title>
+<source>Bioessays</source>
+<volume>28</volume>
+<fpage>979</fpage>
+<lpage>982</lpage>
+<pub-id pub-id-type="pmid">16998825</pub-id></element-citation></ref><ref id="pgen.1001080-Felsenstein1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Felsenstein</surname><given-names>J</given-names></name></person-group>
+<year>1985</year>
+<article-title>Phylogenies and the comparative method.</article-title>
+<source>Am Nat</source>
+<volume>125</volume>
+<fpage>1</fpage>
+<lpage>15</lpage>
+</element-citation></ref><ref id="pgen.1001080-Garland1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garland</surname><given-names>T</given-names><suffix>Jr</suffix></name><name><surname>Bennett</surname><given-names>AF</given-names></name><name><surname>Rezende</surname><given-names>EL</given-names></name></person-group>
+<year>2005</year>
+<article-title>Phylogenetic approaches in comparative physiology.</article-title>
+<source>J Exp Biol</source>
+<volume>208</volume>
+<fpage>3015</fpage>
+<lpage>3035</lpage>
+<pub-id pub-id-type="pmid">16081601</pub-id></element-citation></ref><ref id="pgen.1001080-Harvey1"><label>17</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Harvey</surname><given-names>PH</given-names></name><name><surname>Pagel</surname><given-names>MD</given-names></name></person-group>
+<year>1991</year>
+<article-title>The comparative method in evolutionary biology.</article-title>
+<publisher-loc>Oxford</publisher-loc>
+<publisher-name>Oxford University Press</publisher-name>
+</element-citation></ref><ref id="pgen.1001080-Garland2"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garland</surname><given-names>T</given-names></name><name><surname>Midford</surname><given-names>PE</given-names></name><name><surname>Ives</surname><given-names>AR</given-names></name></person-group>
+<year>1999</year>
+<article-title>An introduction to phylogenetically based statistical methods, with a new method for confidence intervals on ancestral values.</article-title>
+<source>Am Zool</source>
+<volume>39</volume>
+<fpage>374</fpage>
+<lpage>388</lpage>
+</element-citation></ref><ref id="pgen.1001080-Whitney1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whitney</surname><given-names>KD</given-names></name><name><surname>Baack</surname><given-names>EJ</given-names></name><name><surname>Hamrick</surname><given-names>JL</given-names></name><name><surname>Godt</surname><given-names>MJW</given-names></name><name><surname>Barringer</surname><given-names>BC</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>A role for nonadaptive processes in plant genome size evolution?</article-title>
+<source>Evolution</source>
+<volume>64</volume>
+<fpage>2097</fpage>
+<lpage>2109</lpage>
+<pub-id pub-id-type="pmid">20148953</pub-id></element-citation></ref><ref id="pgen.1001080-Kuo1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuo</surname><given-names>CH</given-names></name><name><surname>Moran</surname><given-names>NA</given-names></name><name><surname>Ochman</surname><given-names>H</given-names></name></person-group>
+<year>2009</year>
+<article-title>The consequences of genetic drift for bacterial genome complexity.</article-title>
+<source>Genome Res</source>
+<volume>19</volume>
+<fpage>1450</fpage>
+<lpage>1454</lpage>
+<pub-id pub-id-type="pmid">19502381</pub-id></element-citation></ref><ref id="pgen.1001080-Yi2"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yi</surname><given-names>S</given-names></name><name><surname>Streelman</surname><given-names>JT</given-names></name></person-group>
+<year>2005</year>
+<article-title>Genome size is negatively correlated with effective population size in ray-finned fish.</article-title>
+<source>Trends Genet</source>
+<volume>21</volume>
+<fpage>643</fpage>
+<lpage>646</lpage>
+<pub-id pub-id-type="pmid">16213058</pub-id></element-citation></ref><ref id="pgen.1001080-Gregory3"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gregory</surname><given-names>TR</given-names></name><name><surname>Witt</surname><given-names>JDS</given-names></name></person-group>
+<year>2008</year>
+<article-title>Population size and genome size in fishes: a closer look.</article-title>
+<source>Genome</source>
+<volume>51</volume>
+<fpage>309</fpage>
+<lpage>313</lpage>
+<pub-id pub-id-type="pmid">18356967</pub-id></element-citation></ref><ref id="pgen.1001080-Drake1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Drake</surname><given-names>JW</given-names></name><name><surname>Charlesworth</surname><given-names>B</given-names></name><name><surname>Charlesworth</surname><given-names>D</given-names></name><name><surname>Crow</surname><given-names>JF</given-names></name></person-group>
+<year>1998</year>
+<article-title>Rates of spontaneous mutation.</article-title>
+<source>Genetics</source>
+<volume>148</volume>
+<fpage>1667</fpage>
+<lpage>1686</lpage>
+<pub-id pub-id-type="pmid">9560386</pub-id></element-citation></ref><ref id="pgen.1001080-Lynch4"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lynch</surname><given-names>M</given-names></name></person-group>
+<year>2010</year>
+<article-title>Rate, molecular spectrum, and consequences of human mutation.</article-title>
+<source>Proc Natl Acad Sci USA</source>
+<volume>107</volume>
+<fpage>961</fpage>
+<lpage>968</lpage>
+<pub-id pub-id-type="pmid">20080596</pub-id></element-citation></ref><ref id="pgen.1001080-Maddison1"><label>25</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Maddison</surname><given-names>WP</given-names></name><name><surname>Maddison</surname><given-names>DR</given-names></name></person-group>
+<year>2009</year>
+<article-title>Mesquite: a modular system for evolutionary analysis.</article-title>
+<comment>Version 2.71. <ext-link ext-link-type="uri" xlink:href="http://mesquiteproject.org">http://mesquiteproject.org</ext-link></comment>
+</element-citation></ref><ref id="pgen.1001080-Gupta1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gupta</surname><given-names>RS</given-names></name></person-group>
+<year>2000</year>
+<article-title>The phylogeny of proteobacteria: relationships to other eubacterial phyla and eukaryotes.</article-title>
+<source>FEMS Microbiol Rev</source>
+<volume>24</volume>
+<fpage>367</fpage>
+<lpage>402</lpage>
+<pub-id pub-id-type="pmid">10978543</pub-id></element-citation></ref><ref id="pgen.1001080-Maddison2"><label>27</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Maddison</surname><given-names>DR</given-names></name><name><surname>Schulz</surname><given-names>K-S</given-names></name></person-group>
+<year>2007</year>
+<article-title>The Tree of Life Web Project.</article-title>
+<comment><ext-link ext-link-type="uri" xlink:href="http://tolweb.org">http://tolweb.org</ext-link></comment>
+</element-citation></ref><ref id="pgen.1001080-Song1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Song</surname><given-names>J</given-names></name><name><surname>Xu</surname><given-names>QK</given-names></name><name><surname>Olsen</surname><given-names>R</given-names></name><name><surname>Loomis</surname><given-names>WF</given-names></name><name><surname>Shaulsky</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Comparing the <italic>Dictyostelium</italic> and <italic>Entamoeba</italic> genomes reveals an ancient split in the Conosa lineage.</article-title>
+<source>PLoS Comp Biol</source>
+<volume>1</volume>
+<fpage>e71</fpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1371/journal.pcbi.0010071">10.1371/journal.pcbi.0010071</ext-link></comment>
+</element-citation></ref><ref id="pgen.1001080-Maddison3"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maddison</surname><given-names>WP</given-names></name></person-group>
+<year>1991</year>
+<article-title>Squared-change parsimony reconstructions of ancestral states for continuous-valued characters on a phylogenetic tree.</article-title>
+<source>Syst Zool</source>
+<volume>40</volume>
+<fpage>304</fpage>
+<lpage>314</lpage>
+</element-citation></ref><ref id="pgen.1001080-Lavin1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lavin</surname><given-names>SR</given-names></name><name><surname>Karasov</surname><given-names>WH</given-names></name><name><surname>Ives</surname><given-names>AR</given-names></name><name><surname>Middleton</surname><given-names>KM</given-names></name><name><surname>Garland</surname><given-names>T</given-names></name></person-group>
+<year>2008</year>
+<article-title>Morphometrics of the avian small intestine compared with that of nonflying mammals: A phylogenetic approach.</article-title>
+<source>Physiol Biochem Zool</source>
+<volume>81</volume>
+<fpage>526</fpage>
+<lpage>550</lpage>
+<pub-id pub-id-type="pmid">18754728</pub-id></element-citation></ref><ref id="pgen.1001080-Garland3"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garland</surname><given-names>T</given-names></name><name><surname>Ives</surname><given-names>AR</given-names></name></person-group>
+<year>2000</year>
+<article-title>Using the past to predict the present: Confidence intervals for regression equations in phylogenetic comparative methods.</article-title>
+<source>Am Nat</source>
+<volume>155</volume>
+<fpage>346</fpage>
+<lpage>364</lpage>
+<pub-id pub-id-type="pmid">10718731</pub-id></element-citation></ref><ref id="pgen.1001080-Blomberg1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blomberg</surname><given-names>SP</given-names></name><name><surname>Garland</surname><given-names>T</given-names></name><name><surname>Ives</surname><given-names>AR</given-names></name></person-group>
+<year>2003</year>
+<article-title>Testing for phylogenetic signal in comparative data: Behavioral traits are more labile.</article-title>
+<source>Evolution</source>
+<volume>57</volume>
+<fpage>717</fpage>
+<lpage>745</lpage>
+<pub-id pub-id-type="pmid">12778543</pub-id></element-citation></ref><ref id="pgen.1001080-Hutcheon1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hutcheon</surname><given-names>JM</given-names></name><name><surname>Garland</surname><given-names>T</given-names></name></person-group>
+<year>2004</year>
+<article-title>Are megabats big?</article-title>
+<source>J Mamm Evol</source>
+<volume>11</volume>
+<fpage>257</fpage>
+<lpage>276</lpage>
+</element-citation></ref><ref id="pgen.1001080-Midford1"><label>34</label><element-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Midford</surname><given-names>PE</given-names></name><name><surname>Garland</surname><given-names>T</given-names><suffix>Jr</suffix></name><name><surname>Maddison</surname><given-names>W</given-names></name></person-group>
+<year>2002</year>
+<article-title>PDAP:PDTREE package for Mesquite, version 1.00.</article-title>
+<comment><ext-link ext-link-type="uri" xlink:href="http://mesquiteproject.org/pdap_mesquite/">http://mesquiteproject.org/pdap_mesquite/</ext-link></comment>
+</element-citation></ref><ref id="pgen.1001080-Garland4"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Garland</surname><given-names>T</given-names></name><name><surname>Harvey</surname><given-names>PH</given-names></name><name><surname>Ives</surname><given-names>AR</given-names></name></person-group>
+<year>1992</year>
+<article-title>Procedures for the analysis of comparative data using phylogenetically independent contrasts.</article-title>
+<source>Syst Biol</source>
+<volume>41</volume>
+<fpage>18</fpage>
+<lpage>32</lpage>
+</element-citation></ref></ref-list></back></article>

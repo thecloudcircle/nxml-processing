@@ -1,0 +1,669 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1582-4934</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32176460</article-id><article-id pub-id-type="pmc">7176861</article-id><article-id pub-id-type="doi">10.1111/jcmm.15168</article-id><article-id pub-id-type="publisher-id">JCMM15168</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Acetylcholine decreases formation of myofibroblasts and excessive extracellular matrix production in an in vitro human corneal fibrosis model</article-title><alt-title alt-title-type="left-running-head">S&#x00141;ONIECKA and DANIELSON</alt-title></title-group><contrib-group><contrib id="jcmm15168-cr-0001" contrib-type="author"><name><surname>S&#x00142;oniecka</surname><given-names>Marta</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8039-493X</contrib-id><xref ref-type="aff" rid="jcmm15168-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15168-cr-0002" contrib-type="author" corresp="yes"><name><surname>Danielson</surname><given-names>Patrik</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7906-9152</contrib-id><xref ref-type="aff" rid="jcmm15168-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm15168-aff-0002">
+<sup>2</sup>
+</xref><address><email>patrik.danielson@umu.se</email></address></contrib></contrib-group><aff id="jcmm15168-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Integrative Medical Biology</named-content>
+<institution>Ume&#x000e5; University</institution>
+<city>Ume&#x000e5;</city>
+<country country="SE">Sweden</country>
+</aff><aff id="jcmm15168-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Clinical Sciences, Ophthalmology</named-content>
+<institution>Ume&#x000e5; University</institution>
+<city>Ume&#x000e5;</city>
+<country country="SE">Sweden</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Patrik Danielson, Department of Integrative Medical Biology, Ume&#x000e5; University, Ume&#x000e5; SE&#x02010;901 87, Sweden.<break/>
+Email: <email>patrik.danielson@umu.se</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>16</day><month>3</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2020</year></pub-date><volume>24</volume><issue>8</issue><issue-id pub-id-type="doi">10.1111/jcmm.v24.8</issue-id><fpage>4850</fpage><lpage>4862</lpage><history><date date-type="received"><day>02</day><month>1</month><year>2019</year></date><date date-type="rev-recd"><day>11</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>15</day><month>2</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Journal of Cellular and Molecular Medicine</italic> published by Foundation for Cellular and Molecular Medicine and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JCMM-24-4850.pdf"/><abstract id="jcmm15168-abs-0001"><title>Abstract</title><p>Acetylcholine (ACh) has been reported to play various physiological roles, including wound healing in the cornea. Here, we study the role of ACh in the transition of corneal fibroblasts into myofibroblasts, and in consequence its role in the onset of fibrosis, in an in vitro human corneal fibrosis model. Primary human keratocytes were obtained from healthy corneas. Vitamin C (VitC) and transforming growth factor&#x02010;&#x003b2;1 (TGF&#x02010;&#x003b2;1) were used to induce fibrosis in corneal fibroblasts. qRT&#x02010;PCR and ELISA analyses showed that gene expression and production of collagen I, collagen III, collagen V, lumican, fibronectin (FN) and alpha&#x02010;smooth muscle actin (&#x003b1;&#x02010;SMA) were reduced by ACh in quiescent keratocytes. ACh treatment furthermore decreased gene expression and production of collagen I, collagen III, collagen V, lumican, FN and &#x003b1;&#x02010;SMA during the transition of corneal fibroblasts into myofibroblasts, after induction of fibrotic process. ACh inhibited corneal fibroblasts from developing contractile activity during the process of fibrosis, as assessed with collagen gel contraction assay. Moreover, the effect of ACh was dependent on activation of muscarinic ACh receptors. These results show that ACh has an anti&#x02010;fibrotic effect in an in vitro human corneal fibrosis model, as it negatively affects the transition of corneal fibroblasts into myofibroblasts. Therefore, ACh might play a role in the onset of fibrosis in the corneal stroma.</p></abstract><kwd-group><kwd id="jcmm15168-kwd-0001">collagens</kwd><kwd id="jcmm15168-kwd-0002">cornea</kwd><kwd id="jcmm15168-kwd-0003">fibrotic markers</kwd><kwd id="jcmm15168-kwd-0004">keratocytes</kwd><kwd id="jcmm15168-kwd-0005">scarring</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>V&#x000e4;sterbotten County Council &#x02018;Spjutspetsmedel&#x02019;</funding-source><award-id>VLL&#x02010;363161</award-id></award-group><award-group id="funding-0002"><funding-source>V&#x000e4;sterbotten County Council&#x000a0;ALF</funding-source><award-id>VLL&#x02010;549761</award-id></award-group><award-group id="funding-0003"><funding-source>Kronprinsessan Margaretas Arbetsn&#x000e4;mnd f&#x000f6;r synskadade KMA</funding-source><award-id>2013/10</award-id></award-group><award-group id="funding-0004"><funding-source>Swedish Society of Medicine</funding-source><award-id>SLS&#x02010;504541</award-id></award-group><award-group id="funding-0005"><funding-source>Cronqvist foundation</funding-source><award-id>SLS&#x02010; 691711</award-id></award-group><award-group id="funding-0006"><funding-source><institution-wrap><institution>&#x000d6;gonfonden </institution><institution-id institution-id-type="open-funder-registry">10.13039/100010810</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0007"><funding-source>Swedish Research Council</funding-source><award-id>2017&#x02010;01138</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="0"/><page-count count="13"/><word-count count="8743"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.1 mode:remove_FC converted:23.04.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm15168-cit-1001">
+<string-name>
+<surname>S&#x00142;oniecka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Danielson</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Acetylcholine decreases formation of myofibroblasts and excessive extracellular matrix production in an in vitro human corneal fibrosis model</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2020</year>;<volume>24</volume>:<fpage>4850</fpage>&#x02013;<lpage>4862</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.15168</pub-id>
+</mixed-citation>
+</p></notes></front><body id="jcmm15168-body-0001"><sec id="jcmm15168-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Corneal scarring arises due to overproduction, excessive deposition and contraction of extracellular matrix (ECM).<xref rid="jcmm15168-bib-0001" ref-type="ref">1</xref> A regenerative wound healing process in the cornea of the eye, post&#x02010;surgery or after injury or infection, will result in restoration of normal structure and function of the cornea.<xref rid="jcmm15168-bib-0002" ref-type="ref">2</xref> However, scarring might occur in some cases, leading to fibrosis and corneal blindness.<xref rid="jcmm15168-bib-0003" ref-type="ref">3</xref>
+</p><p>Transforming growth factor&#x02010;&#x003b2;1 (TGF&#x02010;&#x003b2;1) is a cytokine essential for the induction of the fibrotic response. In an uninjured cornea, TGF&#x02010;&#x003b2;1 is stored inside the corneal epithelium and is responsible for maintaining corneal integrity and wound healing.<xref rid="jcmm15168-bib-0004" ref-type="ref">4</xref> Upon injury, TGF&#x02010;&#x003b2;1 is secreted from the epithelium into the ECM in a biologically latent form called latent TGF&#x02010;&#x003b2;1 (L&#x02010;TGF&#x02010;&#x003b2;1) and is biologically inactive.<xref rid="jcmm15168-bib-0005" ref-type="ref">5</xref> It is activated by various activators such as integrins and proteases.<xref rid="jcmm15168-bib-0006" ref-type="ref">6</xref> Additionally, TGF&#x02010;&#x003b2;1 is secreted into tears from the conjunctiva and lacrimal gland. Upon injury to the cornea that extends deeper than the epithelium, a layer of randomly arranged collagen fibres (called Bowman's layer), which normally limits the passage of TGF&#x02010;&#x003b2;1 further down to the stroma, is destroyed. This event results in TGF&#x02010;&#x003b2;1 penetration into the stroma and initiation of the wound healing process.<xref rid="jcmm15168-bib-0007" ref-type="ref">7</xref> Transforming growth factor&#x02010;&#x003b2;1 induces excessive production of ECM components such as collagens I and III<xref rid="jcmm15168-bib-0008" ref-type="ref">8</xref>, <xref rid="jcmm15168-bib-0009" ref-type="ref">9</xref>, <xref rid="jcmm15168-bib-0010" ref-type="ref">10</xref> and fibronectin (FN)<xref rid="jcmm15168-bib-0011" ref-type="ref">11</xref>, <xref rid="jcmm15168-bib-0012" ref-type="ref">12</xref> by activated fibroblasts. Moreover, TGF&#x02010;&#x003b2;1 promotes differentiation of fibroblasts into myofibroblasts.<xref rid="jcmm15168-bib-0013" ref-type="ref">13</xref> In contrast to keratocytes, which are quiescent cells of the corneal stroma, and which main function is to sustain components of the ECM,<xref rid="jcmm15168-bib-0014" ref-type="ref">14</xref> myofibroblasts produce strong contractile force in order to close the injured tissue,<xref rid="jcmm15168-bib-0015" ref-type="ref">15</xref> and they express markers such as alpha&#x02010;smooth muscle actin (&#x003b1;&#x02010;SMA), vimentin and desmin.<xref rid="jcmm15168-bib-0016" ref-type="ref">16</xref> Additionally, myofibroblasts are opaque due to decreased expression of corneal crystallins, such as aldehyde dehydrogenase class 1 (ALDH1),<xref rid="jcmm15168-bib-0017" ref-type="ref">17</xref> and produce disorganized ECM, which makes them responsible for corneal haze <xref rid="jcmm15168-bib-0017" ref-type="ref">17</xref>, <xref rid="jcmm15168-bib-0018" ref-type="ref">18</xref>, <xref rid="jcmm15168-bib-0019" ref-type="ref">19</xref> and lowered mechanical properties of the cornea.<xref rid="jcmm15168-bib-0020" ref-type="ref">20</xref> Contractile activity and expression of &#x003b1;&#x02010;SMA decrease when the injured tissue is properly healed, and myofibroblasts undergo apoptosis.<xref rid="jcmm15168-bib-0021" ref-type="ref">21</xref> However, as mentioned above, in pathological process of healing, the myofibroblasts do not cease their activity, which in turn leads to formation of fibrotic tissue.<xref rid="jcmm15168-bib-0016" ref-type="ref">16</xref>
+</p><p>Acetylcholine (ACh) has been regarded as a classical neurotransmitter, released by cholinergic neurons and acting through activation of nicotinic and muscarinic receptors (n&#x02010; and mAChRs).<xref rid="jcmm15168-bib-0022" ref-type="ref">22</xref> However, for the past decades, increasing evidence has shown that ACh is synthesized by a majority of human cells and that it modulates various cellular processes.<xref rid="jcmm15168-bib-0023" ref-type="ref">23</xref>, <xref rid="jcmm15168-bib-0024" ref-type="ref">24</xref>, <xref rid="jcmm15168-bib-0025" ref-type="ref">25</xref>, <xref rid="jcmm15168-bib-0026" ref-type="ref">26</xref> For example, stimulation of ACh receptors has been found to have an anti&#x02010;inflammatory effect,<xref rid="jcmm15168-bib-0027" ref-type="ref">27</xref>, <xref rid="jcmm15168-bib-0028" ref-type="ref">28</xref>, <xref rid="jcmm15168-bib-0029" ref-type="ref">29</xref> to induce proliferation markers in keratinocytes<xref rid="jcmm15168-bib-0030" ref-type="ref">30</xref> and to stimulate skin wound healing.<xref rid="jcmm15168-bib-0030" ref-type="ref">30</xref> In the cornea, the corneal epithelium has one of the highest concentrations of ACh in the body,<xref rid="jcmm15168-bib-0031" ref-type="ref">31</xref>, <xref rid="jcmm15168-bib-0032" ref-type="ref">32</xref> and it has been suggested that ACh might accelerate corneal re&#x02010;epithelialization<xref rid="jcmm15168-bib-0033" ref-type="ref">33</xref>, <xref rid="jcmm15168-bib-0034" ref-type="ref">34</xref> and play a role in migration of corneal epithelial cells.<xref rid="jcmm15168-bib-0035" ref-type="ref">35</xref> On the contrary, the concentration of ACh in the corneal stroma is very low, but our previous studies have shown that the resident keratocytes are able to produce and secrete ACh in in vitro settings.<xref rid="jcmm15168-bib-0036" ref-type="ref">36</xref> We have also demonstrated that ACh induces proliferation of keratocytes<xref rid="jcmm15168-bib-0037" ref-type="ref">37</xref> and that it decreases keratocyte apoptosis in a Fas&#x02010;ligand apoptosis model.<xref rid="jcmm15168-bib-0038" ref-type="ref">38</xref> Research on the role of ACh in fibrosis has been mostly conducted on its role in airway diseases, for which it has been shown that stimulation of mAChRs may be involved in remodelling processes in chronic airway diseases<xref rid="jcmm15168-bib-0039" ref-type="ref">39</xref> and that &#x003b1;7 nAChR is a key regulator of lung fibrogenesis.<xref rid="jcmm15168-bib-0040" ref-type="ref">40</xref> It has also been shown that ACh induced collagen expression and proliferation of myofibroblasts in hepatic stellate cells.<xref rid="jcmm15168-bib-0041" ref-type="ref">41</xref>
+</p><p>At present, however, it is not known what effects, if any, ACh has on the differentiation of corneal fibroblast into myofibroblasts, nor on the development of fibrosis in the cornea. In this project, we studied the role of ACh in the transition of corneal fibroblasts into myofibroblasts, and therefore its role in the onset of fibrosis, in an in vitro human corneal fibrosis model.</p></sec><sec sec-type="materials-and-methods" id="jcmm15168-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jcmm15168-sec-0003"><label>2.1</label><title>Human corneas</title><p>Healthy human corneas, which were obtained from deceased individuals who had chosen, when alive, to donate their corneas for transplantation or research purposes according to the Swedish law, were stored in the Tissue Establishment, Eye Bank Ume&#x000e5;, at the University Hospital of Ume&#x000e5;, Sweden, and delivered to the research laboratory if they were not used for transplantation. The project was vetted by the Regional Ethical Review Board in Ume&#x000e5;, which determined it to be exempt from the requirement for approval (2010&#x02010;373&#x02010;31M). The study adhered to the tenets of the Declaration of Helsinki.</p></sec><sec id="jcmm15168-sec-0004"><label>2.2</label><title>Isolation and culture of primary keratocytes</title><p>Primary keratocytes were isolated from 14 donors. The isolation and culture of primary keratocytes have been described previously.<xref rid="jcmm15168-bib-0036" ref-type="ref">36</xref> Shortly, in order to remove remaining epithelial and endothelial cells, the corneas were scraped with a scalpel. Next, the central part of the cornea was cut out and minced with a scalpel. Corneal pieces were then digested with 2mg/mL collagenase (Sigma&#x02010;Aldrich, # C0130) diluted in DMEM/F&#x02010;12&#x000a0;+&#x000a0;GlutaMAX&#x02122; medium (Thermo Fisher Scientific, Waltham, MA, USA, # 31330&#x02010;095) containing 2% foetal bovine serum (FBS; Thermo Fisher Scientific, # 10082&#x02010;147) and 1% penicillin&#x02010;streptomycin (Thermo Fisher Scientific, # 15140&#x02010;122) (DMEM/F&#x02010;12 2% FBS) overnight at 37&#x002da;C. Samples were centrifuged at 1500&#x000a0;rpm for 5&#x000a0;min. In order to keep the right phenotype and function of primary keratocytes (quiescent keratocytes), the pellet was resuspended in DMEM/F&#x02010;12 2% FBS, as described in our previous publication,<xref rid="jcmm15168-bib-0036" ref-type="ref">36</xref> in which we demonstrated, through immunocytochemistry and Western blot analyses, that keratocytes grown in DMEM/F&#x02010;12 2% FBS express specific keratocyte markers, such as CD34, keratocan, lumican and ALDH. In order to differentiate primary keratocytes into fibroblasts, for further use in the in vitro fibrosis model, the pellet was resuspended in DMEM/F12 10% FBS. Cells were cultured at 37&#x002da;C with 5% CO<sub>2</sub> until they reached confluency, with medium being changed every second or third day. 0.05% trypsin&#x02010;EDTA (Thermo Fisher, # 15400&#x02010;054) was used to detach the cells. Cells were split into a 1:2 ratio for propagation. Central keratocytes and fibroblasts in passage 4 were used throughout this study. DMEM/F&#x02010;12 2% FBS or DMEM/F&#x02010;12 10% FBS was used to propagate the cell cultures. DMEM/F&#x02010;12 0.1% FBS was used to assess the role of ACh on production of ECM by quiescent keratocytes. DMEM/F&#x02010;12 10% FBS was used for the in vitro corneal fibrosis model. The corneas were assessed individually; that is, keratocytes isolated from different corneas were not pulled together.</p></sec><sec id="jcmm15168-sec-0005"><label>2.3</label><title>Cell viability assay</title><p>The effect of ACh on the viability of corneal fibroblasts during the onset of fibrosis was measured using MTS assay (CellTiter 96&#x000ae; Aqueous One Solution Cell Proliferation Assay; Promega #G3580) according to the manufacturer's instructions. Briefly, corneal fibroblasts were seeded at a density of 2&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>/well in a 96&#x02010;well plate and incubated overnight. Next day, fibrosis was induced, and desired wells were concurrently treated with 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M ACh. Data were collected at times 0, 2&#x000a0;days and 4&#x000a0;days after treatment.</p></sec><sec id="jcmm15168-sec-0006"><label>2.4</label><title>BrdU incorporation ELISA</title><p>The effect of ACh on corneal fibroblast proliferation was performed by measurement of BrdU incorporation in newly synthesized cellular DNA according to the manufacturer's instructions (R&#x00026;D, #11647229001). Briefly, corneal fibroblasts were seeded at a density of 2&#x000a0;&#x000d7;&#x000a0;10<sup>3</sup>/well in a 96&#x02010;well plate and incubated overnight. Next day, fibrosis was induced, and desired wells were concurrently treated with treated with 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M ACh. Data were collected at times 0, 2&#x000a0;days and 4&#x000a0;days after treatment.</p></sec><sec id="jcmm15168-sec-0007"><label>2.5</label><title>In vitro human corneal fibrosis model</title><p>Corneal fibroblasts were plated on plastic culture dishes at desired densities (depending on the experimental method used; cf. each method in Materials and Methods section for the exact cell density) in DMEM/F&#x02010;12 10% FBS medium and incubated overnight. Next, cells were stimulated by a stable vitamin C derivative L&#x02010;ascorbic acid 2&#x02010;phosphate sesquimagnesium salt hydrate (VitC; Sigma&#x02010;Aldrich # A8960) at a concentration of 0.5mM and 0.25ng/mL recombinant human TGF&#x02010;&#x003b2;1 (R&#x00026;D Systems, # 240&#x02010;B) for up to 4&#x000a0;days. Fresh medium supplied with VitC and TGF&#x02010;&#x003b2;1 was supplied every 2&#x000a0;days. The concentration of both VitC and TGF&#x02010;&#x003b2;1 was based on the fibrosis model developed by Karamichos et al<xref rid="jcmm15168-bib-0042" ref-type="ref">42</xref> and was also described in our paper on the role of substance P in corneal fibrosis.<xref rid="jcmm15168-bib-0043" ref-type="ref">43</xref> The expression and secretion of ECM components and fibrotic markers collagen I, collagen III, collagen V, lumican, FN and &#x003b1;&#x02010;smooth muscle actin were assessed by Western blot, RT&#x02010;qPCR, ELISA and flow cytometry 2 and 4&#x000a0;days after stimulation. For RT&#x02010;qPCR analysis, expression of genes at 2 and 4&#x000a0;days was compared to time point 0. This control was set to fold 1 in the analysis, and expression of genes is represented as a fold change compared to time 0. Gel contraction assay was used to assess the contractile abilities of newly formed myofibroblasts. Unstimulated fibroblasts in DMEM/F&#x02010;12 10% FBS served as a control.</p></sec><sec id="jcmm15168-sec-0008"><label>2.6</label><title>Persistent fibrosis</title><p>Corneal fibroblasts were plated on plastic culture dishes at desired densities (depending on the experimental method used; cf. each method in Materials and Methods section for the exact cell density) in DMEM/F&#x02010;12 10% FBS medium and incubated overnight. Next, cells were stimulated by a stable vitamin C derivative L&#x02010;ascorbic acid 2&#x02010;phosphate sesquimagnesium salt hydrate (VitC; Sigma&#x02010;Aldrich # A8960) at a concentration of 0.5&#x000a0;mM, and 0.25&#x000a0;ng/mL recombinant human TGF&#x02010;&#x003b2;1 (R&#x00026;D Systems, # 240&#x02010;B) for 2&#x000a0;days. At day 2, cells were treated with either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M ACh in DMEM/F&#x02010;12 10% FBS&#x000a0;+&#x000a0;TGF&#x02010;&#x003b2;1&#x000a0;+&#x000a0;VitC. Treatment lasted for 8&#x000a0;days, with fresh medium and treatment supplied every 2&#x000a0;days. Samples were collected at 2, 4, 6 and 8&#x000a0;days after treatment with ACh. RT&#x02010;qPCR for ACTA2, FN, COL1A1, COL3A1 and COL5A1, and ELISA for fibronectin and pro&#x02010;collagen I were performed. For RT&#x02010;qPCR analysis, the ACh&#x02010;treated cells were compared with untreated cells at each time point. The ELISA analysis is a cumulative amount of the proteins secreted over the period of 8&#x000a0;days.</p></sec><sec id="jcmm15168-sec-0009"><label>2.7</label><title>RT&#x02010;qPCR</title><p>Primary keratocytes were seeded into 6&#x02010;well plates at a density of 0.25 &#x000d7; 10<sup>6</sup> cells per well in DMEM/F&#x02010;12 0.1% FBS one day before treatment. Cells were treated with ACh at concentrations of either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M for up to 8&#x000a0;days with fresh medium replacement and treatment repeated every 2&#x000a0;days. Gene expression of the experimental samples was compared to an untreated time 0 control for the analysis. Corneal fibroblasts were seeded into 6&#x02010;well plates at a density of 0.25&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> cells per well in DMEM/F12 10% FBS one day before the treatment. Fibrosis was induced in the cells as described in the previous section. At the same time, desired wells were also treated with ACh at concentrations of either 10<sup>&#x02010;7</sup>M or 10<sup>&#x02010;8</sup>M for up to 4&#x000a0;days with fresh medium containing VitC and TGF&#x02010;&#x003b2;1 replaced and treated repeated every 2&#x000a0;days. Gene expression of the experimental samples was compared with fibroblasts in DMEM/F12 10% FBS at time 0. Cells were lysed at 2, 4 and 8&#x000a0;days (keratocytes only), and mRNA was extracted using the RNA extraction kit (Qiagen # 74106) according to the manufacturer's instructions. Next, 1 000&#x000a0;ng of RNA was reverse&#x02010;transcribed into cDNA using the high&#x02010;capacity cDNA reverse transcription kit (Thermo Fisher, # 4368813). Collagen I (COL1A1), collagen III (COL3A1), collagen V (COL5A1), lumican (LUM), fibronectin (FN) and &#x003b1;&#x02010;smooth muscle actin (ACTA2) probes were used in order to determine gene expression (Thermo Fisher). Samples were run in duplicates in ViiA&#x02122; 7 Real&#x02010;Time PCR System (Thermo Fisher). 18S and &#x003b2;&#x02010;actin probes served as endogenous controls (Thermo Fisher; # 4333760F and # 4352935E, respectively). For analysis, each time point was compared to time 0 (set to fold 1). Analysis was performed with ViiA&#x02122; 7 Software (Thermo Fisher).</p></sec><sec id="jcmm15168-sec-0010"><label>2.8</label><title>Western blot</title><p>Primary keratocytes were seeded into 6&#x02010;well plates at a density of 0.25 &#x000d7; 10<sup>6</sup> cells per well in DMEM/F&#x02010;12 0.1% FBS one day before treatment. Cells were treated with ACh at concentrations of either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M for up to 8&#x000a0;days with fresh medium replacement and treatment repeated every 2&#x000a0;days. Corneal fibroblasts were seeded into 6&#x02010;well plates at a density of 0.25 x 10<sup>6</sup> cells per well in DMEM/F12 10% FBS one day before the treatment. Fibrosis was induced in the cells as described in the previous section. At the same time, desired wells were also treated with ACh at concentrations of either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M for up to 4&#x000a0;days with fresh medium containing VitC and TGF&#x02010;&#x003b2;1 replaced and treated repeated every 2&#x000a0;days. Cells were freeze&#x02010;thawed three times and further lysed in RIPA (radioimmunoprecipitation) lysis buffer (Thermo Fisher, # 89901) supplemented with protease and phosphatase inhibitor cocktail (Thermo Fisher, # 78446) at 2, 4 and 8&#x000a0;days (keratocytes only), and total protein concentration was determined with Bradford assay (Bio&#x02010;Rad # 5000006). Samples containing 30&#x000a0;&#x000b5;g of protein were separated on SDS&#x02010;polyacrylamide gels (Bio&#x02010;Rad) and transferred to PVDF membranes (GE Healthcare # GEHERPN303F). Next, membranes were blocked with 5% (w/v) bovine serum albumin (BSA; Sigma&#x02010;Aldrich, # A9647) in TRIS&#x02010;buffered saline (TBS) containing 0.1% Tween&#x02010;20 (TBS&#x02010;T; VWR, # 28829.183) for one hour at room temperature and incubated overnight at 4&#x002da;C with rabbit polyclonal anti&#x02013;alpha&#x02010;smooth muscle actin (&#x003b1;&#x02010;SMA) antibody from Abcam (# ab5694) or rabbit anti&#x02010;&#x003b2;&#x02010;actin antibody from Cell Signaling (# 4967). Next, membranes were washed in TBS&#x02010;T and incubated with anti&#x02010;rabbit IgG, HRP&#x02010;linked secondary goat anti&#x02010;rabbit antibody from Cell Signaling (# 7074) for one hour at room temperature. Images were taken by Odyssey&#x000ae; Fc imaging system (LI&#x02010;COR).</p></sec><sec id="jcmm15168-sec-0011"><label>2.9</label><title>ELISA</title><p>1&#x000a0;&#x000d7;&#x000a0;10<sup>4</sup> keratocytes were seeded into 96&#x02010;well plates in DMEM/F&#x02010;12 0.1% medium one day prior to the treatment with either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M ACh. To study whether ACh acts through activation of muscarinic receptors, appropriate wells were pre&#x02010;treated with atropine (Sigma&#x02010;Aldrich, # A0132), the muscarinic receptor inhibitor, at a concentration of 10<sup>&#x02212;5</sup>M for 20&#x000a0;min. Medium was replaced, and treatment was repeated every 2&#x000a0;days. Supernatants and cell lysates were collected at 4 h, 1&#x000a0;day, 2&#x000a0;days, 4&#x000a0;days and 8&#x000a0;days after treatment. 0.3 &#x000d7; 10<sup>4</sup> corneal fibroblasts were seeded into 96&#x02010;well plates in DMEM/F&#x02010;12 10% medium one day before the treatment. Fibrosis was induced in the cells as described earlier. Appropriate wells were pre&#x02010;treated with atropine at a concentration of 10<sup>&#x02212;5</sup>M for 20&#x000a0;min, and cells were treated, concurrently, with ACh at concentrations of either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M. The treatment was repeated every 2&#x000a0;days. Supernatants and cell lysates were collected at 4h, 1&#x000a0;day, 2&#x000a0;days and 4&#x000a0;days after treatment. Secretion and intracellular production of pro&#x02010;collagen I was assessed with Human Pro&#x02010;Collagen I alpha 1 DuoSet ELISA kit (R&#x00026;D Systems, #DY6220), collagen III with Human Collagen, type III, alpha 1 (COL3A1) ELISA kit (Cusabio # CSB&#x02010;E13446h), collagen V with Human Collagen, type V, alpha 1 (COL5A1) ELISA kit (Cusabio, # CSB&#x02010;E13447h), FN with Human Fibronectin DuoSet ELISA kit (R&#x00026;D Systems, # DY1918), and lumican with Human Lumican DuoSet ELISA kit (R&#x00026;D Systems, # DY2846) according to the manufacturer's protocol.</p></sec><sec id="jcmm15168-sec-0012"><label>2.10</label><title>Contraction assay</title><p>500&#x000a0;&#x000b5;L (per well of a 24&#x02010;well culture plate) of bovine collagen solution, type I PureCol&#x000ae; in DMEM/F&#x02010;12 medium, 5&#x000a0;mg/mL (0.5%) (Advanced BioMatrix # 5074&#x02010;35ML) liquid gel was mixed together with 0.25&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> corneal fibroblasts, FBS (10%), 0.5 mM VitC and 0.25&#x000a0;ng/mL recombinant human TGF&#x02010;&#x003b2;1. The experimental group gels contained ACh at concentration of either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M, atropine at concentration of 10<sup>&#x02212;5</sup>M or 10<sup>&#x02212;5</sup>M atropine with either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M ACh. Gels containing cells and 10% FBS served as controls. Gels were left to polymerize for one hour at 37&#x002da;C. Afterwards, DMEM/F&#x02010;12 10% FBS containing 0.5&#x000a0;mM VitC and 0.25&#x000a0;ng/mL recombinant human TGF&#x02010;&#x003b2;1 was added to the experimental groups, on top of the gels. Acetylcholine at concentration of either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M, atropine at concentration of 10<sup>&#x02212;5</sup>M or 10<sup>&#x02212;5</sup>M atropine with either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M ACh was added to the medium in corresponding wells. DMEM/F&#x02010;12 containing 10%FBS only was added to the control wells. Next, gels were detached from the wells and photographed at 0&#x000a0;h, 4&#x000a0;h, 1&#x000a0;day, 2&#x000a0;days, 3&#x000a0;days and 4&#x000a0;days. The areas of the contracted gels were measured using Photoshop (Adobe Systems). Each treatment was performed in triplicates. Mean area was calculated for each experimental group at each time point. The results are shown as a per cent of contraction: % contraction = (initial area &#x02013; final area)/(initial area) &#x000d7; 100%.</p></sec><sec id="jcmm15168-sec-0013"><label>2.11</label><title>Flow cytometry</title><p>Flow cytometry was used to assess expression of alpha&#x02010;smooth muscle actin in the fibrosis model. 0.25&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> corneal fibroblasts were seeded into 6&#x02010;well plates in triplicates in DMEM/F&#x02010;12 10% FBS medium one day before treatment. Fibrosis was induced as described in the earlier section. Cells were harvested with 0.05% trypsin&#x02010;EDTA 2&#x000a0;days and 4&#x000a0;days after treatment, and washed two times with PBS. 1&#x000a0;&#x000d7;&#x000a0;106 cells/100&#x000a0;&#x000b5;L was aliquoted into FACS tubes (VWR #734&#x02010;0442). 0.5&#x000a0;mL of cold Flow Cytometry Fixation Buffer (R&#x00026;D, #FC004) was added to each tube. Tubes were vortexed and incubated for 10&#x000a0;min at room temperature. Next, cells were washed two times with PBS and the pellet was resuspended in 200&#x000a0;&#x000b5;L of Flow Cytometry Permeabilization/Wash Buffer I (R&#x00026;D, #FC005). 10&#x000a0;&#x000b5;L of human alpha&#x02010;smooth muscle actin PE&#x02010;conjugated antibody (R&#x00026;D Systems # IC1420P) was added. Cells were vortexed and incubated for 30&#x000a0;min at room temperature in the dark. Afterwards, cells were washed two times with Flow Cytometry Permeabilization/Wash Buffer I and pellet was resuspended in 400&#x000a0;&#x000b5;L of PBS for flow cytometric analysis. Cells were analysed with BD LSR II flow cytometer (Becton Dickinson) and FlowJo (FlowJo LLC).</p></sec><sec id="jcmm15168-sec-0014"><label>2.12</label><title>Scratch assay</title><p>0.4&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup>&#x000a0;keratocytes or 0.2&#x000a0;&#x000d7;&#x000a0;10<sup>6</sup> corneal fibroblasts were seeded into six&#x02010;well plates in DMEM/F&#x02010;12 0.1% FBS (keratocytes) or DMEM/F&#x02010;12 10% FBS (corneal fibroblasts) and allowed to adhere overnight. Next morning, bottom of all wells was scratched with a 200&#x02010;&#x003bc;L pipette tip, creating a wound field. Cells were washed with PBS. Keratocytes were treated with either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M ACh in DMEM/F&#x02010;12 0.1% FBS. Fresh medium replacement and treatment were performed every two days. Fibrosis was induced in corneal fibroblasts as described in the previous sections. At the same time, desired wells were also treated with ACh at concentrations of either 10<sup>&#x02212;7</sup>M or 10<sup>&#x02212;8</sup>M. Images of the wounds were taken at same spots, at times 0&#x000a0;h, 1&#x000a0;day, 2&#x000a0;days and 4&#x000a0;days for keratocytes and at times 0h, 1&#x000a0;day and 2&#x000a0;days for corneal fibroblasts using Motic AE31 trinocular inverted microscope (Richmond, BC, Canada). Migration was assessed with MRI Wound Healing tool of ImageJ software (NIH). The areas of the wound were calculated and presented as % of closed wound.</p></sec><sec id="jcmm15168-sec-0015"><label>2.13</label><title>Statistical analysis</title><p>All experiments were performed in triplicates. Data are presented as mean&#x000a0;&#x000b1;&#x000a0;SD. Statistical analysis was performed with one&#x02010;way ANOVA, with Tukey's post hoc test, or unpaired t test. Differences were considered statistically significant at a <italic>P</italic>&#x02010;value of&#x000a0;&#x0003c;&#x000a0;.05. All experiments were performed at least three times, meaning that at least three separate experiments were performed with cells isolated from different patients (biological replicates).</p></sec></sec><sec sec-type="results" id="jcmm15168-sec-0016"><label>3</label><title>RESULTS</title><sec id="jcmm15168-sec-0017"><label>3.1</label><title>Acetylcholine reduces gene expression and production of ECM components and of fibrotic markers in quiescent keratocytes</title><p>First, we wanted to establish whether ACh has an effect on ECM components and fibrotic markers in quiescent keratocytes. The effect of ACh on production of collagen I, collagen III, collagen V, lumican, FN and &#x003b1;&#x02010;SMA by quiescent keratocytes was assessed by qRT&#x02010;PCR, ELISA and Western blot. The results showed that 10<sup>&#x02212;8</sup>M ACh decreased expression of collagen I gene (COL1A1) 8&#x000a0;days after treatment, whereas 10<sup>&#x02212;7</sup>M ACh decreased COL1A1 expression both 4&#x000a0;days and 8&#x000a0;days after treatment. Collagen III (COL3A1) gene expression was decreased by both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh at day 4. Additionally, 10<sup>&#x02212;8</sup>M ACh decreased COL3A1 expression after 8&#x000a0;days. Collagen V (COL5A1) gene expression decreased after both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh treatments at day 8. Moreover, 10<sup>&#x02212;7</sup>M ACh decreased COL5A1 expression 4&#x000a0;days after treatment. Lumican (LUM) gene expression decreased after both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh treatments at 4 and 8&#x000a0;days, with 10<sup>&#x02212;7</sup>M ACh having a more pronounced effect. Gene expression of two fibrotic markers, fibronectin (FN) and &#x003b1;&#x02010;SMA (ACTA2), decreased after both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh treatments at days 4 and 8, except for 10<sup>&#x02212;8</sup>M ACh, which did not have a significant effect on day 8 (Figure&#x000a0;<xref rid="jcmm15168-fig-0001" ref-type="fig">1A</xref>). Treatment of keratocytes with both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh reduced secretion of pro&#x02010;collagen I at days 4 and 8. Secreted collagen III was not detected at day 4, and its secretion was not affected by ACh treatment at day 8. No secreted collagen V could be measured at any time point. Both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh reduced secretion of lumican and FN 8&#x000a0;days after treatment (Figure&#x000a0;<xref rid="jcmm15168-fig-0001" ref-type="fig">1B</xref>). The same effect of ACh was observed on &#x003b1;&#x02010;SMA protein expression; that is, both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh reduced its expression 8&#x000a0;days after treatment (Figure&#x000a0;<xref rid="jcmm15168-fig-0001" ref-type="fig">1C</xref>). We performed a scratch assay in order to assess whether ACh has an effect on keratocyte migration. The results showed that 10<sup>&#x02212;8</sup>M ACh decreased keratocyte migration by 40%. However, 10<sup>&#x02212;7</sup>M ACh had no effect (Figure&#x000a0;<xref rid="jcmm15168-fig-0001" ref-type="fig">1D</xref>). Additionally, intracellular levels of pro&#x02010;collagen I, collagen III, collagen V, lumican and FN were assessed. Except for 10<sup>&#x02212;8</sup>M ACh, which decreased pro&#x02010;collagen I levels at day 8, and both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh, which reduced intracellular FN at day 4, no significant differences were found after ACh treatments (Figure&#x000a0;<xref rid="jcmm15168-sup-0001" ref-type="supplementary-material">S1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcmm15168-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>ACh decreases gene expression and production of extracellular matrix components and fibrotic markers in quiescent keratocytes. (A) qRT&#x02010;PCR analysis in human primary keratocytes showing RNA expression levels of COL1A1, COL3A1, COL5A1, LUM, FN and ACTA2 after ACh stimulation. Each time point was compared to time 0 (set to fold 1). (B) Secretion of pro&#x02010;collagen I, collagen III, lumican and fibronectin after ACh treatment was assessed by ELISA. (C) Western blot analysis showing the effect of ACh on &#x003b1;&#x02010;SMA (42&#x000a0;kDa) expression in human primary keratocytes. &#x003b2;&#x02010;Actin (45&#x000a0;kDa) served as loading control. (D) Scratch assay showing % of closed wound after ACh stimulation at specific time points. Densitometry analysis and scratch assay evaluation were performed with ImageJ software. Values are means&#x000a0;&#x000b1;&#x000a0;SD. n.s. (not significant); *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001; ****<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.0001</p></caption><graphic id="nlm-graphic-1" xlink:href="JCMM-24-4850-g001"/></fig></sec><sec id="jcmm15168-sec-0018"><label>3.2</label><title>In vitro human corneal fibrosis model</title><p>In order to study the effect of ACh in the onset of fibrosis and in the transition of corneal fibroblasts to myofibroblasts, we adapted the in vitro human corneal fibrosis model from Karamichos et al. As described in Materials and Methods, we treated corneal fibroblasts with 0.5&#x000a0;mM VitC and 0.25&#x000a0;ng/mL recombinant human TGF&#x02010;&#x003b2;1 in order to induce the fibrosis process. Untreated corneal fibroblasts served as control. We assessed various extracellular matrix and fibrotic markers in order to confirm the model. First, we determined gene expression of COL1A1, COL3A1, COL5A1, LUM, FN and ACTA2. Our results showed that expression of all the genes tested was increased after treatment with VitC and TGF&#x02010;&#x003b2;1 at days 2 and 4 (Figure&#x000a0;<xref rid="jcmm15168-fig-0002" ref-type="fig">2A</xref>). Next, we checked for secretion of pro&#x02010;collagen I, collagen III, collagen V, lumican and FN. Again, induction of fibrosis with VitC and TGF&#x02010;&#x003b2;1 resulted in increased secretion of all markers mentioned at days 2 and 4, except for collagen III secretion at day 2, for which we found no difference between treated and untreated cells (Figure&#x000a0;<xref rid="jcmm15168-fig-0002" ref-type="fig">2B</xref>). Expression of &#x003b1;&#x02010;SMA was assessed by Western blot and flow cytometry and showed that cells treated with VitC and TGF&#x02010;&#x003b2;1 expressed more &#x003b1;&#x02010;SMA protein than untreated cells both at day 2 and day 4 (Figure&#x000a0;<xref rid="jcmm15168-fig-0002" ref-type="fig">2C</xref> and Figure&#x000a0;<xref rid="jcmm15168-sup-0001" ref-type="supplementary-material">S2</xref>F, respectively). Intracellular levels of pro&#x02010;collagen I, collagen III, collagen V, lumican and FN were increased after fibrosis induction (Figure&#x000a0;<xref rid="jcmm15168-sup-0001" ref-type="supplementary-material">S2</xref>). Lastly, gel contraction assay was used to assess the contractile abilities of newly formed myofibroblasts. Induction of fibrosis with VitC and TGF&#x02010;&#x003b2;1 resulted in significantly increased contractile abilities of the cells from day 1 to day 4 (Figure&#x000a0;<xref rid="jcmm15168-fig-0002" ref-type="fig">2D</xref>). We concluded that the in vitro human corneal fibrosis model is appropriate for our further studies on the ACh effect on the onset of fibrosis.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15168-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>In vitro human corneal fibrosis model. (A) qRT&#x02010;PCR analysis showing RNA expression levels of COL1A1, COL3A1, COL5A1, LUM, FN and ACTA2 after induction of fibrosis in human corneal fibroblasts. Each time point was compared to time 0 (set to fold 1). (B) Secretion of pro&#x02010;collagen I, collagen III, collagen V, lumican and fibronectin after induction of fibrosis in human corneal fibroblasts was assessed by ELISA. (C) Western blot analysis of &#x003b1;&#x02010;SMA (42&#x000a0;kDa) expression after induction of fibrosis in human corneal fibroblasts. &#x003b2;&#x02010;Actin (45&#x000a0;kDa) served as loading control. Densitometry analysis was performed with ImageJ software. (D) Collagen gel contraction assay was used to determine the contractile abilities of the cells after induction of fibrosis in human corneal fibroblasts. Values are means&#x000a0;&#x000b1;&#x000a0;SD. n.s. (not significant); *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001; ****<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.0001</p></caption><graphic id="nlm-graphic-3" xlink:href="JCMM-24-4850-g002"/></fig></sec><sec id="jcmm15168-sec-0019"><label>3.3</label><title>Acetylcholine reduces gene expression and production of ECM components during the process of fibrosis</title><p>First, in order to assure that the concentrations of ACh used in the fibrosis study are not toxic and that the possible effect of ACh on the onset of fibrosis is not caused by cell death or lack of proliferation of corneal fibroblasts, we performed cell viability assays and BrdU incorporation ELISA. In accordance with our previous findings on ACh enhancing proliferation in primary keratocytes,<xref rid="jcmm15168-bib-0037" ref-type="ref">37</xref> we also observed similar effect on corneal fibroblasts during the onset of fibrosis. Both cell viability and proliferation were enhanced in ACh&#x02010;treated cells (Figure&#x000a0;<xref rid="jcmm15168-sup-0001" ref-type="supplementary-material">S3</xref>). Next, we wanted to assess whether ACh affects transition of fibroblasts into myofibroblasts during the fibrosis process. First, we determined the role of ACh in gene expression of ECM components collagen I, collagen III, collagen V and lumican by qRT&#x02010;PCR. The results showed that expression of COL1A1, COL3A1 and COL5A1 decreased after treatment with both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh at days 2 and 4 during the fibrosis process. Gene expression of LUM was unaffected by ACh at day 2, but it decreased at day 4 (Figure&#x000a0;<xref rid="jcmm15168-fig-0003" ref-type="fig">3A</xref>). Next, we assessed secretion of pro&#x02010;collagen I, collagen III, collagen V and lumican by ELISA. We observed that secretion of pro&#x02010;collagen I was reduced after treatment with both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh at days 2 and 4. Additionally, cells were pre&#x02010;treated with 10<sup>&#x02212;5</sup>M atropine to examine whether mAChR activation is necessary to carry the ACh effect. The results showed that ACh effect was no longer present when mAChRs were blocked. Secretion of collagen III was not affected by ACh treatment during the fibrosis process. Interestingly, secretion of collagen V increased after treatment with both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh at days 2 and 4. Blocking mAChRs with 10<sup>&#x02212;5</sup>M atropine reduced secretion of collagen V. Secretion of lumican was not affected by ACh at day 2. However, 4&#x000a0;days after treatment with either 10<sup>&#x02212;8</sup>M or 10<sup>&#x02212;7</sup>M, secretion of lumican was reduced. This effect was abolished when mAChRs were blocked with 10<sup>&#x02212;5</sup>M atropine (Figure&#x000a0;<xref rid="jcmm15168-fig-0003" ref-type="fig">3B</xref>). Intracellular levels of pro&#x02010;collagen I and collagen III were not affected by ACh treatment. However, intracellular level of collagen V was reduced by 10<sup>&#x02212;8</sup>M ACh at day 4, and lumican by both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh also at day 4 (Figure&#x000a0;<xref rid="jcmm15168-sup-0001" ref-type="supplementary-material">S4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcmm15168-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>ACh decreases expression and production of extracellular matrix components during the process of fibrosis. (A) Effect of ACh on RNA expression levels of COL1A1, COL3A1, COL5A1 and LUM 2 and 4&#x000a0;days after induction of fibrosis in human corneal fibroblasts, as assessed by qRT&#x02010;PCR. Each time point was compared to time 0 (set to fold 1). (B) Effect of ACh and atropine on secretion of pro&#x02010;collagen I, collagen III, collagen V and lumican after induction of fibrosis in human corneal fibroblasts was determined by ELISA. Values are means&#x000a0;&#x000b1;&#x000a0;SD. n.s. (not significant); *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001; ****<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.0001</p></caption><graphic id="nlm-graphic-5" xlink:href="JCMM-24-4850-g003"/></fig></sec><sec id="jcmm15168-sec-0020"><label>3.4</label><title>Acetylcholine decreases gene expression and production of fibrotic markers during the process of fibrosis</title><p>Next step in assessing the role of ACh in transitioning of fibroblasts into myofibroblasts during the fibrosis process was to determine whether ACh affects gene expression of two fibrotic markers: FN and ACTA2. The results showed that gene expression of FN decreased after both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh treatment at days 2 and 4. 10<sup>&#x02212;8</sup>M ACh decreased FN expression significantly more than 10<sup>&#x02212;7</sup>M ACh. ACTA2 expression decreased after 10<sup>&#x02212;7</sup>M ACh treatment at day 2 and day 4. 10<sup>&#x02212;8</sup>M ACh decreased ACTA2 expression only 2&#x000a0;days after treatment (Figure&#x000a0;<xref rid="jcmm15168-fig-0004" ref-type="fig">4A</xref>). Secretion of FN was assessed by ELISA and showed that both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh reduced FN secretion at days 2 and 4. Blocking mAChRs with 10<sup>&#x02212;5</sup>M atropine abolished the effect of ACh (Figure&#x000a0;<xref rid="jcmm15168-fig-0004" ref-type="fig">4B</xref>). Additionally, intracellular level of FN was decreased by 10<sup>&#x02212;7</sup>M ACh at day 2 (Figure&#x000a0;<xref rid="jcmm15168-sup-0001" ref-type="supplementary-material">S4</xref>E). &#x003b1;&#x02010;SMA protein expression was assessed by Western blot. The results showed that both 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M ACh reduced &#x003b1;&#x02010;SMA expression at day 2. Acetylcholine had no effect 4&#x000a0;days after ACh treatment (Figure&#x000a0;<xref rid="jcmm15168-fig-0004" ref-type="fig">4C</xref>). Additionally, scratch assay was performed to assess the effect of ACh on fibroblast migration during the onset of fibrosis. The results showed that neither 10<sup>&#x02212;8</sup>M ACh nor 10<sup>&#x02212;7</sup>M ACh had an effect on fibroblast migration (Figure&#x000a0;<xref rid="jcmm15168-fig-0004" ref-type="fig">4D</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcmm15168-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>ACh decreases expression and production of fibrotic markers during the process of fibrosis. (A) Effect of ACh on RNA expression levels of FN and ACTA2 2 and 4&#x000a0;days after induction of fibrosis in human corneal fibroblasts, assessed by qRT&#x02010;PCR. (B) Effect of ACh and atropine on secretion of fibronectin after induction of fibrosis in human corneal fibroblasts determined by ELISA. (C) Effect of ACh on &#x003b1;&#x02010;SMA (42&#x000a0;kDa) expression after fibrosis induction in human corneal fibroblasts was analysed by Western blot. &#x003b2;&#x02010;Actin (45&#x000a0;kDa) served as loading control. (D) Scratch assay showing % of closed wound after ACh stimulation at specific time points. Densitometry analysis and scratch assay evaluation were performed with ImageJ software. Values are means&#x000a0;&#x000b1;&#x000a0;SD. n.s. (not significant); *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001; ****<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.0001</p></caption><graphic id="nlm-graphic-7" xlink:href="JCMM-24-4850-g004"/></fig></sec><sec id="jcmm15168-sec-0021"><label>3.5</label><title>Acetylcholine inhibits corneal fibroblasts from developing contractile abilities</title><p>As our results suggest that ACh decreases transformation of corneal fibroblasts into myofibroblasts during the fibrosis process, we opted for determining whether ACh would also decrease contractile abilities of the transitioning cells. To achieve that, we used a collagen I contraction assay. We tested two concentrations of ACh: 10<sup>&#x02212;8</sup>M and 10<sup>&#x02212;7</sup>M. Both concentrations of ACh significantly decreased gel contraction from day 1 to day 4. Moreover, 10<sup>&#x02212;7</sup>M ACh decreased gel contraction significantly more than 10<sup>&#x02212;8</sup>M ACh from day 2 (Figure&#x000a0;<xref rid="jcmm15168-fig-0005" ref-type="fig">5A</xref>). Next, we blocked mAChRs with 10<sup>&#x02212;5</sup>M atropine and treated cells with 10<sup>&#x02212;8</sup>M ACh, and could observe that gel contraction increased as compared to cells treated with ACh only, and it achieved the level of the control (Figure&#x000a0;<xref rid="jcmm15168-fig-0005" ref-type="fig">5B</xref>). Likewise, blocking mAChRs and treating cells with 10<sup>&#x02212;7</sup>M ACh resulted in significantly increased gel contraction when compared to 10<sup>&#x02212;7</sup>M ACh&#x02010;only treatment (Figure&#x000a0;<xref rid="jcmm15168-fig-0005" ref-type="fig">5C</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcmm15168-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>ACh inhibits corneal fibroblasts from developing contractile abilities. Collagen gel contraction assay was used to determine the effect of ACh (A) and atropine (B, C) on contractile abilities of the cells after induction of fibrosis in human corneal fibroblasts. Values are means&#x000a0;&#x000b1;&#x000a0;SD. n.s. (not significant); *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001; ****<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.0001</p></caption><graphic id="nlm-graphic-9" xlink:href="JCMM-24-4850-g005"/></fig></sec><sec id="jcmm15168-sec-0022"><label>3.6</label><title>Acetylcholine decreases gene expression and production of fibrotic markers in persistent fibrosis</title><p>We were interested in whether ACh exhibits the same anti&#x02010;fibrotic effect in a setting where the fibrosis has already occurred. Therefore, we induced fibrosis in corneal fibroblasts for 2&#x000a0;days. Afterwards, cells were treated with 10<sup>&#x02212;8</sup>M or 10<sup>&#x02212;7</sup>M ACh for 8&#x000a0;days. The results showed that 10<sup>&#x02212;8</sup>M ACh significantly decreased gene expression of both ACTA2 and FN for the period of 8&#x000a0;days. However, 10<sup>&#x02212;7</sup>M ACh decreased gene expression only 2&#x000a0;days after treatment, whilst at day 8, the gene expression was increased (Figure&#x000a0;<xref rid="jcmm15168-fig-0006" ref-type="fig">6A</xref>). Acetylcholine in the concentration 10<sup>&#x02212;8</sup>M decreased gene expression of COL1A1; however, it did not have an effect on gene expression of COL3A1 and COL5A1. 10<sup>&#x02212;7</sup>M ACh decreased COL1A1 gene expression only 2&#x000a0;days after treatment, whilst at day 8, the gene expression was increased. We observed an opposite effect of 10<sup>&#x02212;7</sup>M ACh on gene expression of COL3A1 and COL5A1; that is, it increased the gene expression only 2&#x000a0;days after treatment, whilst at day 8, the gene expression was decreased (Figure&#x000a0;<xref rid="jcmm15168-fig-0006" ref-type="fig">6B</xref>). Additionally, cells treated with ACh secreted significantly less pro&#x02010;collagen I and fibronectin over the period of 8&#x000a0;days (Figure&#x000a0;<xref rid="jcmm15168-fig-0006" ref-type="fig">6C</xref>). Expression of &#x003b1;&#x02010;SMA was not significantly altered by the ACh treatment (data not shown).</p><fig fig-type="Figure" xml:lang="en" id="jcmm15168-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>ACh decreases gene expression and production of fibrotic markers in persistent fibrosis. (A) Effect of ACh on RNA expression levels of ACTA2 and FN in persistent fibrosis setting 2&#x000a0;days, 4&#x000a0;days, 6&#x000a0;days, and 8&#x000a0;days after ACh treatment, assessed by qRT&#x02010;PCR. (B) Effect of ACh on RNA expression levels of COLA1A, COL3A1 and COL5A1 in persistent fibrosis setting 2, 4, 6 and 8&#x000a0;days after ACh treatment, assessed by qRT&#x02010;PCR. (C) Cumulative secretion of fibronectin and pro&#x02010;collagen I after ACh treatment of persistent fibrosis for a period of 8&#x000a0;days, determined by ELISA. Values are means&#x000a0;&#x000b1;&#x000a0;SD. n.s. (not significant); *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05; **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01; ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001; ****<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.0001</p></caption><graphic id="nlm-graphic-11" xlink:href="JCMM-24-4850-g006"/></fig></sec></sec><sec sec-type="discussion" id="jcmm15168-sec-0023"><label>4</label><title>DISCUSSION</title><p>This study shows that ACh has a negative effect on ECM component production both in quiescent keratocytes and during the onset of fibrosis in an in vitro human corneal fibrosis model. Moreover, ACh down&#x02010;regulates expression of fibrotic markers and it diminishes the transition of corneal fibroblasts into myofibroblasts.</p><p>First, we wanted to study whether ACh has an effect on production of ECM components and fibrotic marker expression in quiescent keratocytes. Based on our previous studies on ACh and keratocytes,<xref rid="jcmm15168-bib-0037" ref-type="ref">37</xref>, <xref rid="jcmm15168-bib-0038" ref-type="ref">38</xref> we tested two concentrations of ACh: 10<sup>&#x02212;7</sup>M and 10<sup>&#x02212;8</sup>M. Our results showed that ACh decreased gene expression of all markers tested, with 10<sup>&#x02212;7</sup>M of ACh having bigger effect at earlier time point. Moreover, ACh also decreased secretion of pro&#x02010;collagen I. We chose to determine the secretion of pro&#x02010;collagen I instead of collagen I as it has been reported that keratocytes in cell culture are not able to process all pro&#x02010;collagen I to mature collagen I, and as a result, pro&#x02010;collagen I accumulates in the cell medium with only a small portion being processed to mature collagen I.<xref rid="jcmm15168-bib-0044" ref-type="ref">44</xref> Moreover, ACh had no effect on collagen III secretion and we could not detect secreted collagen V. Interestingly, we have shown that ACh stimulates keratocytes to proliferate<xref rid="jcmm15168-bib-0037" ref-type="ref">37</xref>; therefore, we hypothesized that ACh would possibly increase expression of ECM and fibrotic markers. Surprisingly, our results showed the contrary, and the reason for that should be studied.</p><p>The role of ACh in fibrosis has been investigated in airway diseases and in liver fibrosis, for which it has been shown that ACh is involved in ECM remodelling and proliferation of myofibroblasts,<xref rid="jcmm15168-bib-0039" ref-type="ref">39</xref>, <xref rid="jcmm15168-bib-0040" ref-type="ref">40</xref>, <xref rid="jcmm15168-bib-0041" ref-type="ref">41</xref> but no data exist on its possible role in corneal fibrosis. We have adapted an in vitro human corneal fibrosis model from Karamichos et al<xref rid="jcmm15168-bib-0042" ref-type="ref">42</xref> in order to study the role of ACh in the onset of fibrosis and its effect on the transition of fibroblasts to myofibroblasts. In this model, vitamin C and TGF&#x02010;&#x003b2;1 are used to induce fibrotic process in corneal fibroblasts. Vitamin C has been shown to induce synthesis and secretion of ECM components,<xref rid="jcmm15168-bib-0045" ref-type="ref">45</xref> especially collagen I, without altering non&#x02010;collagen protein synthesis such as fibronectin.<xref rid="jcmm15168-bib-0046" ref-type="ref">46</xref> Transforming growth factor&#x02010;&#x003b2;1 stimulates overproduction and deposition of ECM.<xref rid="jcmm15168-bib-0008" ref-type="ref">8</xref>, <xref rid="jcmm15168-bib-0009" ref-type="ref">9</xref>, <xref rid="jcmm15168-bib-0010" ref-type="ref">10</xref> Using this model, we were able to induce overproduction of ECM components (collagen I, collagen III, collagen V and lumican) and expression of the fibrotic markers FN and &#x003b1;&#x02010;SMA in newly formed myofibroblasts, which presence was confirmed by gel contraction assay.</p><p>Again, our results showed that ACh had an inhibitory effect on the formation of fibrosis and myofibroblasts in our model. It down&#x02010;regulated gene expression of collagen I, collagen III, collagen V and lumican. Secretion of pro&#x02010;collagen I and lumican was decreased; however, secretion of collagen III was unaffected by ACh. Interestingly, secretion of collagen V was enhanced by ACh. However, the results showed that the intracellular content of collagen V was decreased by ACh. Perhaps, the ACh&#x02010;treated cells were able to secrete collagen V more rapidly, but the total content of collagen V (intracellular&#x000a0;+&#x000a0;secreted) was unaffected by ACh treatment, as was the case for collagen III, for which ACh had no effect on either its secretion or its intracellular levels. Moreover, ACh decreased gene expression and secretion of FN, which might explain the lower levels of secreted collagen I, as FN is responsible for its deposition during fibrosis.<xref rid="jcmm15168-bib-0047" ref-type="ref">47</xref> We have found no apparent difference in action between the two concentrations of ACh used. Our results also suggest that the anti&#x02010;fibrotic effect of ACh is mediated by activation of mAChRs. In our previous study, we found that ACh treatment in keratocytes activates mAChRs rather than nAChRs,<xref rid="jcmm15168-bib-0037" ref-type="ref">37</xref> in order to enhance keratocyte proliferation. Perhaps, the activation of mAChRs, rather than nAChRs, in keratocytes and corneal myofibroblasts leads to an anti&#x02010;fibrotic response, rather than a pro&#x02010;fibrotic one, as it has been reported for airways that activation of &#x003b1;7 nAChR is involved in the progression of lung fibrosis.<xref rid="jcmm15168-bib-0039" ref-type="ref">39</xref>, <xref rid="jcmm15168-bib-0040" ref-type="ref">40</xref> Studies have shown contradicting results regarding the role of the mAChR antagonist atropine in fibrosis. Atropine has been found to have an anti&#x02010;fibrotic effect in hepatocytes isolated from rat fibrotic liver<xref rid="jcmm15168-bib-0048" ref-type="ref">48</xref>; however, others have shown that atropine has pro&#x02010;fibrotic properties in rat cardiac fibroblasts.<xref rid="jcmm15168-bib-0049" ref-type="ref">49</xref> Our results suggest that atropine alone does not affect the fibrotic process in corneal fibroblasts. However, it is possible that it affects collagen secretion.</p><p>Finally, we showed that ACh hinders transition of corneal fibroblasts into myofibroblasts, as demonstrated by down&#x02010;regulation of &#x003b1;&#x02010;SMA and subsequent inhibition of development of contractile activity by the fibroblasts. Again, this effect was shown to be mediated by activation of mAChRs, since the usage of atropine increased the contractile activity of the cells. The effect of ACh was dose&#x02010;dependent with higher concentration inhibiting the contraction more. Importantly, we showed that ACh (only the lower concentration) decreased keratocyte migration, which further supports our hypothesis and shows that ACh has an effect under more physiological settings, as mechanical wounds or chemical burns are one of the most common reasons for corneal injury. We think that during injury, ACh affects the keratocytes in a way that they remain quiescent or that they are activated in a slower manner. The reason for ACh not having an effect on fibroblast migration during the onset of fibrosis is perhaps because of the experimental settings, that is very high amount of FBS, which under physiological conditions would be omitted.</p><p>The small, but significant, decrease in fibrotic markers by ACh observed in this study could have potential clinical application. The physiological conditions differ greatly from the in vitro settings, and at least up to this date, it is hard to reproduce the physiological conditions. Issues such as substrate stiffness will affect the in vitro experiments, and isolation of the cells from their natural environment will, to a degree, change them too.<xref rid="jcmm15168-bib-0050" ref-type="ref">50</xref>, <xref rid="jcmm15168-bib-0051" ref-type="ref">51</xref> We expected to see a significantly bigger decrease in &#x003b1;&#x02010;SMA expression, as contraction of the collagen gels, in which the corneal fibroblasts are embedded, was decreased greatly by the ACh&#x02010;treated cells. Perhaps, &#x003b1;&#x02010;SMA removal from the stress fibres is somehow deficient, or &#x003b1;&#x02010;SMA is not properly degraded. One study showed that when inducing apoptosis in fibroblasts, &#x003b1;&#x02010;SMA was degraded by caspase&#x02010;3.<xref rid="jcmm15168-bib-0052" ref-type="ref">52</xref> We have previously shown that ACh has an anti&#x02010;apoptotic effect on keratocytes.<xref rid="jcmm15168-bib-0038" ref-type="ref">38</xref> Therefore, we could speculate that a similar mechanism inhibits &#x003b1;&#x02010;SMA degradation in this study. Additionally, as ACh increases proliferation of corneal fibroblasts during the onset of fibrosis, the small changes observed could be a result of that. Perhaps treating the cells with ACh after arresting the cell cycle could result in a bigger and clearer change.</p><p>Taken together, our results suggest that ACh displays anti&#x02010;fibrotic characteristics in an in vitro human corneal fibrosis model. ACh impedes overproduction of ECM components and hampers expression of fibrotic markers, and this effect is driven by activation of mAChRs. Therefore, ACh not only might play a regulating role during the initial stages of corneal fibrosis, but also might decrease an already&#x02010;existing fibrosis. Hence, perhaps it contributes to reduced scarring of the cornea. Our findings are promising, as it has been reported by Uberti et al<xref rid="jcmm15168-bib-0053" ref-type="ref">53</xref>, <xref rid="jcmm15168-bib-0054" ref-type="ref">54</xref> that kinetically energized ultra&#x02010;low doses of ACh show remarkably great wound healing properties both in vitro in human keratinocytes and in vivo in mice. Even though our results cannot be directly compared with Uberti's findings, throughout our studies on ACh in corneal wound healing, we have observed that the lower dose of ACh exerts stronger wound healing and anti&#x02010;fibrotic effects. Moreover, it seems that the kinetically energized ultra&#x02013;low&#x02010;dose ACh is safe for topical applications to skin in pre&#x02010;clinical studies, which would be very promising and beneficial for treating corneal wounds. Additionally, it might be interesting to study whether application of anti&#x02010;cholinergic drugs such as tropicamide, atropine or cyclopentolate, which are commonly administered for the purpose of ocular examination in order to dilate the pupil,<xref rid="jcmm15168-bib-0055" ref-type="ref">55</xref> or application of cholinergic drugs such a pilocarpine, which is used to constrict the pupil in the treatment of angle closure glaucoma,<xref rid="jcmm15168-bib-0056" ref-type="ref">56</xref> will have a negative or positive effect, respectively, on persons with wounded corneas.</p></sec><sec sec-type="COI-statement" id="jcmm15168-sec-0025"><title>CONFLICT OF INTEREST</title><p>The authors confirm that there are no conflicts of interest.</p></sec><sec id="jcmm15168-sec-0026"><title>AUTHOR CONTRIBUTION</title><p>MS and PD participated in research design. MS performed the experiments. MS analysed the data. MS and PD wrote the paper.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jcmm15168-sup-0001"><caption><p>Fig S1&#x02010;S4</p></caption><media xlink:href="JCMM-24-4850-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jcmm15168-sec-0024"><title>ACKNOWLEDGEMENTS</title><p>The authors thank Dr Jialin Chen, Dr Wei Zhang and Dr Ludvig Backman for technical and scientific advice. We would also like to thank Dr Maria Brohlin, Ms Randi Elstad, Dr Mona Lindstr&#x000f6;m and Dr Berit Bystr&#x000f6;m for help in providing the donated corneas from the biobank. Financial support was obtained by PD from the national Swedish Research Council (grant no. 2017&#x02010;01138), the Swedish Society of Medicine (SLS&#x02010;504541), the Cronqvist Foundation (SLS&#x02010;691711), the foundation &#x000d6;gonfonden, the foundation Kronprinsessan Margaretas Arbetsn&#x000e4;mnd f&#x000f6;r synskadade KMA (2013/10) and V&#x000e4;sterbotten County Council &#x02018;Spjutspetsmedel' (VLL&#x02010;363161), and via federal funds through a regional agreement (ALF) between Ume&#x000e5; University and V&#x000e4;sterbotten County Council (VLL&#x02010;549761). MS and PD participated in research design and wrote the manuscript. MS conducted the experiments and performed data analysis.</p></ack><sec sec-type="data-availability" id="jcmm15168-sec-0028"><title>DATA AVAILABILITY STATEMENT</title><p>The data used in the current study are available from the corresponding author on reasonable request.</p></sec><ref-list content-type="cited-references" id="jcmm15168-bibl-0001"><title>REFERENCES</title><ref id="jcmm15168-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0001">
+<string-name>
+<surname>Leask</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Abraham</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>TGF&#x02010;beta signaling and the fibrotic response</article-title>. <source xml:lang="en">FASEB J</source>. <year>2004</year>;<volume>18</volume>:<fpage>816</fpage>&#x02010;<lpage>827</lpage>.<pub-id pub-id-type="pmid">15117886</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0002">
+<string-name>
+<surname>Netto</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Mohan</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Ambrosio</surname>
+<given-names>R</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Hutcheon</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Zieske</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Wound healing in the cornea: a review of refractive surgery complications and new prospects for therapy</article-title>. <source xml:lang="en">Cornea</source>. <year>2005</year>;<volume>24</volume>:<fpage>509</fpage>&#x02010;<lpage>522</lpage>.<pub-id pub-id-type="pmid">15968154</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0003">
+<string-name>
+<surname>Whitcher</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Srinivasan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Upadhyay</surname>
+<given-names>MP</given-names>
+</string-name>. <article-title>Corneal blindness: a global perspective</article-title>. <source xml:lang="en">Bull World Health Organ</source>. <year>2001</year>;<volume>79</volume>:<fpage>214</fpage>&#x02010;<lpage>221</lpage>.<pub-id pub-id-type="pmid">11285665</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0004">
+<string-name>
+<surname>Saika</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>TGFbeta pathobiology in the eye</article-title>. <source xml:lang="en">Lab Invest</source>. <year>2006</year>;<volume>86</volume>:<fpage>106</fpage>&#x02010;<lpage>115</lpage>.<pub-id pub-id-type="pmid">16341020</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0005">
+<string-name>
+<surname>Khalil</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>TGF&#x02010;beta: from latent to active</article-title>. <source xml:lang="en">Microbes Infect</source>. <year>1999</year>;<volume>1</volume>:<fpage>1255</fpage>&#x02010;<lpage>1263</lpage>.<pub-id pub-id-type="pmid">10611753</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0006">
+<string-name>
+<surname>Wilson</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>El Haj</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Control of scar tissue formation in the cornea: strategies in clinical and corneal tissue engineering</article-title>. <source xml:lang="en">J Funct Biomater</source>. <year>2012</year>;<volume>3</volume>:<fpage>642</fpage>&#x02010;<lpage>687</lpage>.<pub-id pub-id-type="pmid">24955637</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0007">
+<string-name>
+<surname>Torricelli</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Cellular and extracellular matrix modulation of corneal stromal opacity</article-title>. <source xml:lang="en">Exp Eye Res</source>. <year>2014</year>;<volume>129</volume>:<fpage>151</fpage>&#x02010;<lpage>160</lpage>.<pub-id pub-id-type="pmid">25281830</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0008">
+<string-name>
+<surname>Carrington</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Albon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kamma</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Boulton</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Differential regulation of key stages in early corneal wound healing by TGF&#x02010;beta isoforms and their inhibitors</article-title>. <source xml:lang="en">Invest Ophthalmol Vis Sci</source>. <year>2006</year>;<volume>47</volume>:<fpage>1886</fpage>&#x02010;<lpage>1894</lpage>.<pub-id pub-id-type="pmid">16638995</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0009">
+<string-name>
+<surname>Ivarsen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Laurberg</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Moller&#x02010;Pedersen</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Characterisation of corneal fibrotic wound repair at the LASIK flap margin</article-title>. <source xml:lang="en">Br J Ophthalmol</source>. <year>2003</year>;<volume>87</volume>:<fpage>1272</fpage>&#x02010;<lpage>1278</lpage>.<pub-id pub-id-type="pmid">14507765</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0010">
+<string-name>
+<surname>Jester</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Barry&#x02010;Lane</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Petroll</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>
+<given-names>DR</given-names>
+</string-name>, <string-name>
+<surname>Cavanagh</surname>
+<given-names>HD</given-names>
+</string-name>. <article-title>Inhibition of corneal fibrosis by topical application of blocking antibodies to TGF beta in the rabbit</article-title>. <source xml:lang="en">Cornea</source>. <year>1997</year>;<volume>16</volume>:<fpage>177</fpage>&#x02010;<lpage>187</lpage>.<pub-id pub-id-type="pmid">9071531</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0011">
+<string-name>
+<surname>Tuori</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Virtanen</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Aine</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Uusitalo</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>The expression of tenascin and fibronectin in keratoconus, scarred and normal human cornea</article-title>. <source xml:lang="en">Graefes Arch Clin Exp Ophthalmol</source>. <year>1997</year>;<volume>235</volume>:<fpage>222</fpage>&#x02010;<lpage>229</lpage>.<pub-id pub-id-type="pmid">9143890</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0012">
+<string-name>
+<surname>Filenius</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tervo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Virtanen</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Production of fibronectin and tenascin isoforms and their role in the adhesion of human immortalized corneal epithelial cells</article-title>. <source xml:lang="en">Invest Ophthalmol Vis Sci</source>. <year>2003</year>;<volume>44</volume>:<fpage>3317</fpage>&#x02010;<lpage>3325</lpage>.<pub-id pub-id-type="pmid">12882776</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0013">
+<string-name>
+<surname>Caja</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dituri</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mancarella</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>TGF&#x02010;beta and the tissue microenvironment: relevance in fibrosis and cancer</article-title>. <source xml:lang="en">Int J Mol Sci</source>. <year>2018</year>:<volume>19</volume>;<fpage>1294</fpage>.</mixed-citation></ref><ref id="jcmm15168-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0014">
+<string-name>
+<surname>West&#x02010;Mays</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Dwivedi</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>The keratocyte: corneal stromal cell with variable repair phenotypes</article-title>. <source xml:lang="en">Int J Biochem Cell Biol</source>. <year>2006</year>;<volume>38</volume>:<fpage>1625</fpage>&#x02010;<lpage>1631</lpage>.<pub-id pub-id-type="pmid">16675284</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0015">
+<string-name>
+<surname>Hinz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Celetta</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Tomasek</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Gabbiani</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Chaponnier</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Alpha&#x02010;smooth muscle actin expression upregulates fibroblast contractile activity</article-title>. <source xml:lang="en">Mol Biol Cell</source>. <year>2001</year>;<volume>12</volume>:<fpage>2730</fpage>&#x02010;<lpage>2741</lpage>.<pub-id pub-id-type="pmid">11553712</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0016">
+<string-name>
+<surname>Torricelli</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Santhanam</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>The corneal fibrosis response to epithelial&#x02010;stromal injury</article-title>. <source xml:lang="en">Exp Eye Res</source>. <year>2016</year>;<volume>142</volume>:<fpage>110</fpage>&#x02010;<lpage>118</lpage>.<pub-id pub-id-type="pmid">26675407</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0017">
+<string-name>
+<surname>Jester</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Moller&#x02010;Pedersen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>The cellular basis of corneal transparency: evidence for 'corneal crystallins'</article-title>. <source xml:lang="en">J Cell Sci</source>. <year>1999</year>;<volume>112</volume>(<issue>Pt 5</issue>):<fpage>613</fpage>&#x02010;<lpage>622</lpage>.<pub-id pub-id-type="pmid">9973596</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0018">
+<string-name>
+<surname>Mohan</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Hutcheon</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Apoptosis, necrosis, proliferation, and myofibroblast generation in the stroma following LASIK and PRK</article-title>. <source xml:lang="en">Exp Eye Res</source>. <year>2003</year>;<volume>76</volume>:<fpage>71</fpage>&#x02010;<lpage>87</lpage>.<pub-id pub-id-type="pmid">12589777</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0019">
+<string-name>
+<surname>Netto</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Mohan</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Sinha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dupps</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Stromal haze, myofibroblasts, and surface irregularity after PRK</article-title>. <source xml:lang="en">Exp Eye Res</source>. <year>2006</year>;<volume>82</volume>:<fpage>788</fpage>&#x02010;<lpage>797</lpage>.<pub-id pub-id-type="pmid">16303127</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0020">
+<string-name>
+<surname>Tuft</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Gartry</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Rawe</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Meek</surname>
+<given-names>KM</given-names>
+</string-name>. <article-title>Photorefractive keratectomy: implications of corneal wound healing</article-title>. <source xml:lang="en">Br J Ophthalmol</source>. <year>1993</year>;<volume>77</volume>:<fpage>243</fpage>&#x02010;<lpage>247</lpage>.<pub-id pub-id-type="pmid">8494862</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0021">
+<string-name>
+<surname>Desmouliere</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Redard</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Darby</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Gabbiani</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Apoptosis mediates the decrease in cellularity during the transition between granulation tissue and scar</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>1995</year>;<volume>146</volume>:<fpage>56</fpage>&#x02010;<lpage>66</lpage>.<pub-id pub-id-type="pmid">7856739</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0022">
+<string-name>
+<surname>Wessler</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kirkpatrick</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Acetylcholine beyond neurons: the non&#x02010;neuronal cholinergic system in humans</article-title>. <source xml:lang="en">Br J Pharmacol</source>. <year>2008</year>;<volume>154</volume>:<fpage>1558</fpage>&#x02010;<lpage>1571</lpage>.<pub-id pub-id-type="pmid">18500366</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0023">
+<string-name>
+<surname>Grando</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>Biological functions of keratinocyte cholinergic receptors</article-title>. <source xml:lang="en">J Investig Dermatol Symp Proc</source>. <year>1997</year>;<volume>2</volume>:<fpage>41</fpage>&#x02010;<lpage>48</lpage>.</mixed-citation></ref><ref id="jcmm15168-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0024">
+<string-name>
+<surname>Wessler</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kirkpatrick</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Racke</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The cholinergic 'pitfall': acetylcholine, a universal cell molecule in biological systems, including humans</article-title>. <source xml:lang="en">Clin Exp Pharmacol Physiol</source>. <year>1999</year>;<volume>26</volume>:<fpage>198</fpage>&#x02010;<lpage>205</lpage>.<pub-id pub-id-type="pmid">10081614</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0025">
+<string-name>
+<surname>Sastry</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name>
+<surname>Sadavongvivad</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Cholinergic systems in non&#x02010;nervous tissues</article-title>. <source xml:lang="en">Pharmacol Rev</source>. <year>1978</year>;<volume>30</volume>:<fpage>65</fpage>&#x02010;<lpage>132</lpage>.<pub-id pub-id-type="pmid">377313</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0026">
+<string-name>
+<surname>Kurzen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wessler</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Kirkpatrick</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Kawashima</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Grando</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>The non&#x02010;neuronal cholinergic system of human skin</article-title>. <source xml:lang="en">Horm Metab Res</source>. <year>2007</year>;<volume>39</volume>:<fpage>125</fpage>&#x02010;<lpage>135</lpage>.<pub-id pub-id-type="pmid">17326008</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0027">
+<string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ochani</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Nicotinic acetylcholine receptor alpha7 subunit is an essential regulator of inflammation</article-title>. <source xml:lang="en">Nature</source>. <year>2003</year>;<volume>421</volume>:<fpage>384</fpage>&#x02010;<lpage>388</lpage>.<pub-id pub-id-type="pmid">12508119</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0028">
+<string-name>
+<surname>Xu</surname>
+<given-names>ZP</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>GN</given-names>
+</string-name>, et al. <article-title>Role of M3 mAChR in in vivo and in vitro models of LPS&#x02010;induced inflammatory response</article-title>. <source xml:lang="en">Int Immunopharmacol</source>. <year>2012</year>;<volume>14</volume>:<fpage>320</fpage>&#x02010;<lpage>327</lpage>.<pub-id pub-id-type="pmid">22910223</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0029">
+<string-name>
+<surname>Tracey</surname>
+<given-names>KJ</given-names>
+</string-name>. <article-title>Reflex control of immunity</article-title>. <source xml:lang="en">Nat Rev Immunol</source>. <year>2009</year>;<volume>9</volume>:<fpage>418</fpage>&#x02010;<lpage>428</lpage>.<pub-id pub-id-type="pmid">19461672</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0030">
+<string-name>
+<surname>Grando</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Pittelkow</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Schallreuter</surname>
+<given-names>KU</given-names>
+</string-name>. <article-title>Adrenergic and cholinergic control in the biology of epidermis: physiological and clinical significance</article-title>. <source xml:lang="en">J Invest Dermatol</source>. <year>2006</year>;<volume>126</volume>:<fpage>1948</fpage>&#x02010;<lpage>1965</lpage>.<pub-id pub-id-type="pmid">16912692</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0031">
+<string-name>
+<surname>Stevenson</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>WS</given-names>
+</string-name>. <article-title>Drug&#x02010;induced depletion of acetylcholine in the rabbit corneal epithelium</article-title>. <source xml:lang="en">Biochem Pharmacol</source>. <year>1974</year>;<volume>23</volume>:<fpage>3449</fpage>&#x02010;<lpage>3457</lpage>.<pub-id pub-id-type="pmid">4441424</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0032">
+<string-name>
+<surname>Gnadinger</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Heimann</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Markstein</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Choline acetyltransferase in corneal epithelium</article-title>. <source xml:lang="en">Exp Eye Res</source>. <year>1973</year>;<volume>15</volume>:<fpage>395</fpage>&#x02010;<lpage>399</lpage>.<pub-id pub-id-type="pmid">4695443</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0033">
+<string-name>
+<surname>Ozturk</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Kurt</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Inan</surname>
+<given-names>UU</given-names>
+</string-name>, <string-name>
+<surname>Emiroglu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ilker</surname>
+<given-names>SS</given-names>
+</string-name>. <article-title>The effects of acetylcholine and propolis extract on corneal epithelial wound healing in rats</article-title>. <source xml:lang="en">Cornea</source>. <year>1999</year>;<volume>18</volume>:<fpage>466</fpage>&#x02010;<lpage>471</lpage>.<pub-id pub-id-type="pmid">10422861</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0034">
+<string-name>
+<surname>Er</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>The effect of topical parasympathomimetics on corneal epithelial healing in rabbits</article-title>. <source xml:lang="en">Doc Ophthalmol</source>. <year>1997</year>;<volume>93</volume>:<fpage>327</fpage>&#x02010;<lpage>335</lpage>.<pub-id pub-id-type="pmid">9665290</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0035">
+<string-name>
+<surname>Chernyavsky</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Galitovskiy</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Shchepotin</surname>
+<given-names>IB</given-names>
+</string-name>, <string-name>
+<surname>Jester</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Grando</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>The acetylcholine signaling network of corneal epithelium and its role in regulation of random and directional migration of corneal epithelial cells</article-title>. <source xml:lang="en">Invest Ophthalmol Vis Sci</source>. <year>2014</year>;<volume>55</volume>:<fpage>6921</fpage>&#x02010;<lpage>6933</lpage>.<pub-id pub-id-type="pmid">25270189</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0036">
+<string-name>
+<surname>Sloniecka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Le Roux</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Boman</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bystrom</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Danielson</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Expression profiles of neuropeptides, neurotransmitters, and their receptors in human keratocytes in vitro and in situ</article-title>. <source xml:lang="en">PLoS One</source>. <year>2015</year>;<volume>10</volume>:<elocation-id>e0134157</elocation-id>.<pub-id pub-id-type="pmid">26214847</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0037">
+<string-name>
+<surname>Sloniecka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Backman</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Danielson</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Acetylcholine enhances keratocyte proliferation through muscarinic receptor activation</article-title>. <source xml:lang="en">Int Immunopharmacol</source>. <year>2015</year>;<volume>29</volume>:<fpage>57</fpage>&#x02010;<lpage>62</lpage>.<pub-id pub-id-type="pmid">26049030</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0038">
+<string-name>
+<surname>Sloniecka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Backman</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Danielson</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Antiapoptotic Effect of Acetylcholine in Fas&#x02010;Induced Apoptosis in Human Keratocytes</article-title>. <source xml:lang="en">Invest Ophthalmol Vis Sci</source>. <year>2016</year>;<volume>57</volume>:<fpage>5892</fpage>&#x02010;<lpage>5902</lpage>.<pub-id pub-id-type="pmid">27802519</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0039">
+<string-name>
+<surname>Pieper</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Chaudhary</surname>
+<given-names>NI</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Acetylcholine&#x02010;induced proliferation of fibroblasts and myofibroblasts in vitro is inhibited by tiotropium bromide</article-title>. <source xml:lang="en">Life Sci</source>. <year>2007</year>;<volume>80</volume>:<fpage>2270</fpage>&#x02010;<lpage>2273</lpage>.<pub-id pub-id-type="pmid">17412366</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0040">
+<string-name>
+<surname>Sun</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Deficiency of alpha7 nicotinic acetylcholine receptor attenuates bleomycin&#x02010;induced lung fibrosis in mice</article-title>. <source xml:lang="en">Mol Med</source>. <year>2017</year>;<volume>23</volume>.</mixed-citation></ref><ref id="jcmm15168-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0041">
+<string-name>
+<surname>Oben</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ono</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Diehl</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Acetylcholine promotes the proliferation and collagen gene expression of myofibroblastic hepatic stellate cells</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2003</year>;<volume>300</volume>:<fpage>172</fpage>&#x02010;<lpage>177</lpage>.<pub-id pub-id-type="pmid">12480538</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0042">
+<string-name>
+<surname>Karamichos</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>XQ</given-names>
+</string-name>, <string-name>
+<surname>Hutcheon</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Zieske</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>Human corneal fibrosis: an in vitro model</article-title>. <source xml:lang="en">Invest Ophthalmol Vis Sci</source>. <year>2010</year>;<volume>51</volume>:<fpage>1382</fpage>&#x02010;<lpage>1388</lpage>.<pub-id pub-id-type="pmid">19875671</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0043">
+<string-name>
+<surname>Sloniecka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Danielson</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Substance P induces fibrotic changes through activation of the RhoA/ROCK pathway in an in vitro human corneal fibrosis model</article-title>. <source xml:lang="en">J Mol Med (Berl)</source>. <year>2019</year>;<volume>97</volume>:<fpage>1477</fpage>&#x02010;<lpage>1489</lpage>.<pub-id pub-id-type="pmid">31399750</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0044">
+<string-name>
+<surname>Goldberg</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>
+<given-names>EH</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Sherr</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Precursors of collagen secreted by cultured human fibroblasts</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>1972</year>;<volume>69</volume>:<fpage>3655</fpage>&#x02010;<lpage>3659</lpage>.<pub-id pub-id-type="pmid">4509328</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0045">
+<string-name>
+<surname>Hata</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Senoo</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>L&#x02010;ascorbic acid 2&#x02010;phosphate stimulates collagen accumulation, cell proliferation, and formation of a three&#x02010;dimensional tissuelike substance by skin fibroblasts</article-title>. <source xml:lang="en">J Cell Physiol</source>. <year>1989</year>;<volume>138</volume>:<fpage>8</fpage>&#x02010;<lpage>16</lpage>.<pub-id pub-id-type="pmid">2910890</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0046">
+<string-name>
+<surname>Pinnell</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Regulation of collagen biosynthesis by ascorbic acid: a review</article-title>. <source xml:lang="en">Yale J Biol Med</source>. <year>1985</year>;<volume>58</volume>:<fpage>553</fpage>&#x02010;<lpage>559</lpage>.<pub-id pub-id-type="pmid">3008449</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0047">
+<string-name>
+<surname>Torr</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Ngam</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Bernau</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tomasini&#x02010;Johansson</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Acton</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Sandbo</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Myofibroblasts exhibit enhanced fibronectin assembly that is intrinsic to their contractile phenotype</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2015</year>;<volume>290</volume>:<fpage>6951</fpage>&#x02010;<lpage>6961</lpage>.<pub-id pub-id-type="pmid">25627685</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0048">
+<string-name>
+<surname>Luo</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Expression of muscarinic acetylcholine receptors in hepatocytes from rat fibrotic liver</article-title>. <source xml:lang="en">Exp Toxicol Pathol</source>. <year>2017</year>;<volume>69</volume>:<fpage>73</fpage>&#x02010;<lpage>81</lpage>.<pub-id pub-id-type="pmid">27899232</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0049">
+<string-name>
+<surname>Liu</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Improving vagal activity ameliorates cardiac fibrosis induced by angiotensin II: in vivo and in vitro</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2015</year>;<volume>5</volume>:<fpage>17108</fpage>.<pub-id pub-id-type="pmid">26596640</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0050">
+<string-name>
+<surname>Raghunathan</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Thomasy</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Strom</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Tissue and cellular biomechanics during corneal wound injury and repair</article-title>. <source xml:lang="en">Acta Biomater</source>. <year>2017</year>;<volume>58</volume>:<fpage>291</fpage>&#x02010;<lpage>301</lpage>.<pub-id pub-id-type="pmid">28559158</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0051">
+<string-name>
+<surname>Dreier</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Thomasy</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Mendonsa</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Raghunathan</surname>
+<given-names>VK</given-names>
+</string-name>, <string-name>
+<surname>Russell</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Substratum compliance modulates corneal fibroblast to myofibroblast transformation</article-title>. <source xml:lang="en">Invest Ophthalmol Vis Sci</source>. <year>2013</year>;<volume>54</volume>:<fpage>5901</fpage>&#x02010;<lpage>5907</lpage>.<pub-id pub-id-type="pmid">23860754</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0052">
+<string-name>
+<surname>Nakazono&#x02010;Kusaba</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Takahashi&#x02010;Yanaga</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Morimoto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Furue</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sasaguri</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Staurosporine&#x02010;induced cleavage of alpha&#x02010;smooth muscle actin during myofibroblast apoptosis</article-title>. <source xml:lang="en">J Invest Dermatol</source>. <year>2002</year>;<volume>119</volume>:<fpage>1008</fpage>&#x02010;<lpage>1013</lpage>.<pub-id pub-id-type="pmid">12445185</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0053">
+<string-name>
+<surname>Uberti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bardelli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Morsanuto</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ghirlanda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cochis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Molinari</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Stimulation of the Nonneuronal Cholinergic System by Highly Diluted Acetylcholine in Keratinocytes</article-title>. <source xml:lang="en">Cells Tissues Organs</source>. <year>2017</year>;<volume>203</volume>:<fpage>215</fpage>&#x02010;<lpage>230</lpage>.<pub-id pub-id-type="pmid">27883993</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0054">
+<string-name>
+<surname>Uberti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Morsanuto</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Ghirlanda</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Highly Diluted Acetylcholine Promotes Wound Repair in an In Vivo Model</article-title>. <source xml:lang="en">Adv Wound Care (New Rochelle)</source>. <year>2018</year>;<volume>7</volume>:<fpage>121</fpage>&#x02010;<lpage>133</lpage>.<pub-id pub-id-type="pmid">29675337</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0055">
+<string-name>
+<surname>Ah&#x02010;Kee</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name>
+<surname>Egong</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Shafi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>LT</given-names>
+</string-name>, <string-name>
+<surname>Yim</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>A review of drug&#x02010;induced acute angle closure glaucoma for non&#x02010;ophthalmologists</article-title>. <source xml:lang="en">Qatar Med J</source>. <year>2015</year>;<volume>2015</volume>:<fpage>6</fpage>.<pub-id pub-id-type="pmid">26535174</pub-id></mixed-citation></ref><ref id="jcmm15168-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jcmm15168-cit-0056">
+<string-name>
+<surname>Lachkar</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bouassida</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Drug&#x02010;induced acute angle closure glaucoma</article-title>. <source xml:lang="en">Curr Opin Ophthalmol</source>. <year>2007</year>;<volume>18</volume>:<fpage>129</fpage>&#x02010;<lpage>133</lpage>.<pub-id pub-id-type="pmid">17301614</pub-id></mixed-citation></ref></ref-list></back></article>

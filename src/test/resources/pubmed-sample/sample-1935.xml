@@ -1,0 +1,994 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Chem Technol Biotechnol</journal-id><journal-id journal-id-type="iso-abbrev">J Chem Technol Biotechnol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1097-4660</journal-id><journal-id journal-id-type="publisher-id">JCTB</journal-id><journal-title-group><journal-title>Journal of Chemical Technology and Biotechnology</journal-title></journal-title-group><issn pub-type="ppub">0268-2575</issn><issn pub-type="epub">1097-4660</issn><publisher><publisher-name>John Wiley &#x00026; Sons, Ltd</publisher-name><publisher-loc>Chichester, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28781404</article-id><article-id pub-id-type="pmc">5518213</article-id><article-id pub-id-type="doi">10.1002/jctb.5299</article-id><article-id pub-id-type="publisher-id">JCTB5299</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Inactivation combined with cell lysis of <styled-content style="italic-in-any-context">Pseudomonas putida</styled-content> using a low pressure carbon dioxide microbubble technology</article-title><alt-title alt-title-type="right-running-head">Inactivation of <styled-content style="italic-in-any-context">Pseudomonas putida</styled-content> using <styled-content style="fixed-case">CO<sub>2</sub></styled-content> enriched microbubbles</alt-title><alt-title alt-title-type="left-running-head">AR Mulakhudair <styled-content style="italic-in-any-context">et al.</styled-content></alt-title></title-group><contrib-group><contrib id="jctb5299-cr-0001" contrib-type="author" corresp="yes"><name><surname>Mulakhudair</surname><given-names>Ali R</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-8346-0288</contrib-id><address><email>Armulakhudair1@sheffield.ac.uk</email></address><xref ref-type="aff" rid="jctb5299-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jctb5299-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jctb5299-cr-0002" contrib-type="author"><name><surname>Al&#x02010;Mashhadani</surname><given-names>Mahmood</given-names></name><xref ref-type="aff" rid="jctb5299-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jctb5299-cr-0003" contrib-type="author"><name><surname>Hanotu</surname><given-names>James</given-names></name><xref ref-type="aff" rid="jctb5299-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jctb5299-cr-0004" contrib-type="author"><name><surname>Zimmerman</surname><given-names>William</given-names></name><xref ref-type="aff" rid="jctb5299-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jctb5299-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Chemical and Biological Engineering</named-content>
+<institution>University of Sheffield</institution>
+<named-content content-type="city">Sheffield</named-content>
+<country country="GB">UK</country>
+</aff><aff id="jctb5299-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">The University of Babylon</named-content>
+<institution>The Ministry of Higher Education and Scientific Research</institution>
+<country country="IQ">Iraq</country>
+</aff><aff id="jctb5299-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Chemical Engineering</named-content>
+<institution>University of Baghdad</institution>
+<named-content content-type="city">Baghdad</named-content>
+<country country="IQ">Iraq</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence to: AR Mulakhudair, Department of Chemical and Biological Engineering, University of Sheffield, Mappin Street, Sheffield S1 3JD, UK. Email: <email>Armulakhudair1@sheffield.ac.uk</email></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>5</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2017</year></pub-date><volume>92</volume><issue>8</issue><issue-id pub-id-type="doi">10.1002/jctb.2017.92.issue-8</issue-id><fpage>1961</fpage><lpage>1969</lpage><history><date date-type="received"><day>26</day><month>1</month><year>2017</year></date><date date-type="rev-recd"><day>21</day><month>3</month><year>2017</year></date><date date-type="accepted"><day>04</day><month>4</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 Society of Chemical Industry <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Journal of Chemical Technology &#x00026; Biotechnology</italic> published by John Wiley &#x00026; Sons Ltd on behalf of Society of Chemical Industry.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the 
+<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JCTB-92-1961.pdf"/><abstract id="jctb5299-abs-0001"><title>Abstract</title><sec id="jctb5299-sec-0001"><title>BACKGROUND</title><p id="jctb5299-para-0001">Inactivation processes can be classified into non&#x02010;thermal inactivation methods such as ethylene oxide and &#x003b3;&#x02010;radiation, and thermal methods such as autoclaving. The ability of carbon dioxide enriched microbubbles to inactivate <styled-content style="italic-in-any-context">Pseudomonas putida</styled-content> suspended in physiological saline, as a non&#x02010;thermal sterilisation method, was investigated in this study with many operational advantages over both traditional thermal and non&#x02010;thermal sterilisation methods.</p></sec><sec id="jctb5299-sec-0002"><title>RESULTS</title><p id="jctb5299-para-0002">Introducing carbon dioxide enriched microbubbles can achieve &#x0223c;2&#x02010;Log reduction in the bacterial population after 90&#x02009;min of treatment, addition of ethanol to the inactivation solution further enhanced the inactivation process to achieve 3, 2.5 and 3.5&#x02010;Log reduction for 2%, 5% and 10 %( v/v) ethanol, respectively. A range of morphological changes was observed on <styled-content style="italic-in-any-context">Pseudomonas</styled-content> cells after each treatment, and these changes extended from changing cell shape from rod shape to coccus shape to severe lesions and cell death. <styled-content style="italic-in-any-context">Pseudomonas putida <styled-content style="fixed-case">KT</styled-content></styled-content> 2440 was used as a model of gram&#x02010;negative bacteria.</p></sec><sec id="jctb5299-sec-0003"><title>CONCLUSION</title><p id="jctb5299-para-0003">Using <styled-content style="fixed-case">CO<sub>2</sub></styled-content> enriched microbubbles technology has many advantages such as efficient energy consumption (no heat source), avoidance of toxic and corrosive reagents, and <styled-content style="italic-in-any-context">in situ</styled-content> treatment. In addition, many findings from this study could apply to other gram&#x02010;negative bacteria. &#x000a9; 2017 The Authors. <italic>Journal of Chemical Technology &#x00026; Biotechnology</italic> published by John Wiley &#x00026; Sons Ltd on behalf of Society of Chemical Industry.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jctb5299-kwd-0001">inactivation</kwd><kwd id="jctb5299-kwd-0002">cell lysis</kwd><kwd id="jctb5299-kwd-0003">CO<sub>2</sub></kwd><kwd id="jctb5299-kwd-0004">microbubbles</kwd><kwd id="jctb5299-kwd-0005"><styled-content style="italic-in-any-context">Pseudomonas</styled-content></kwd></kwd-group><funding-group><award-group><funding-source>EPSRC</funding-source><award-id>EP/I019790/1</award-id><award-id>EP/K001329/1</award-id><award-id>EP/N011511/1</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="1"/><page-count count="9"/><word-count count="5801"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jctb5299</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.4 mode:remove_FC converted:20.07.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="jctb5299-sec-0004"><title>INTRODUCTION</title><p id="jctb5299-para-0004">Traditionally, inactivation (sterilisation) methods can be classified into two main classes: thermal and non&#x02010;thermal sterilisation methods. Thermal methodologies, such as autoclaving and steam sterilisation, have been widely used to sterilise a variety of materials such as nutritional materials, medical devices and watery solutions. Other substances cannot be sterilised using these methodologies due to their heat&#x02010;sensitive compositions.<xref rid="jctb5299-bib-0001" ref-type="ref">1</xref> Alternatively, non&#x02010;thermal methodologies have been applied on heat&#x02010;labile materials such as high protein foods as they can retain all their physical, mechanical and optical characteristics without denatured changes.<xref rid="jctb5299-bib-0001" ref-type="ref">1</xref> Thermal methods such as steam sterilisation, however, have higher capital and operating costs than non&#x02010;thermal methods. On the other hand, thermal methods have slightly higher effectiveness than the non&#x02010;thermal methodologies.<xref rid="jctb5299-bib-0002" ref-type="ref">2</xref> Therefore, there are increasing demands for non&#x02010;thermal sterilisation methods such as those using ethylene oxide, &#x003b3; irradiation and supercritical CO<sub>2</sub>.<xref rid="jctb5299-bib-0002" ref-type="ref">2</xref>, <xref rid="jctb5299-bib-0003" ref-type="ref">3</xref>, <xref rid="jctb5299-bib-0004" ref-type="ref">4</xref>
+</p><p id="jctb5299-para-0005">However, these methods still have drawbacks, such as the toxicity and carcinogenicity of ethylene oxide,<xref rid="jctb5299-bib-0002" ref-type="ref">2</xref> and changing the mechanical characteristics of biomaterials by &#x003b3;&#x02010;irradiation.<xref rid="jctb5299-bib-0003" ref-type="ref">3</xref> In contrast using carbon dioxide can avoid many of these drawbacks. Recently, CO<sub>2</sub> has been used to preserve foodstuffs and to inactivate a wide range of microorganisms including yeasts and bacteria. Other potential applications for this methodology include <italic>in situ</italic> inactivation processes for both pretreatment slurry of lignocellulosic biomass after microbial pre&#x02010;treatment and contaminated algal culture. The primary action of using carbon dioxide as an effective inactivation technology is instigated by changing the balance of biological systems within the cells.<xref rid="jctb5299-bib-0004" ref-type="ref">4</xref> The proposed targets for CO<sub>2</sub> activity were reviewed and summarised previously.<xref rid="jctb5299-bib-0005" ref-type="ref">5</xref>
+</p><p id="jctb5299-para-0006">CO<sub>2</sub> has a strong tendency to dissolve in water, which increases with hydrophobic solutions and at low temperatures. Interestingly, the CO<sub>2</sub> solubility coefficient increases with decreasing temperature, and at 15&#x02009;&#x000b0;C, the CO<sub>2</sub> solubility coefficient is &#x0223c;1.<xref rid="jctb5299-bib-0006" ref-type="ref">6</xref> The CO<sub>2</sub> activity can be quantified using the survivor ratio, calculated using the following equation suggested previously:<xref rid="jctb5299-bib-0007" ref-type="ref">7</xref>
+<disp-formula id="jctb5299-disp-0001"><label>(1)</label><mml:math id="nlm-math-1"><mml:mi mathvariant="normal">log</mml:mi><mml:mfrac><mml:mi>N</mml:mi><mml:mtext mathvariant="italic">No</mml:mtext></mml:mfrac><mml:mo>=</mml:mo><mml:mi mathvariant="normal">k</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">t</mml:mi><mml:mspace width="0.25em"/><mml:mn>2.303</mml:mn></mml:math></disp-formula>
+</p><p id="jctb5299-para-0007">where <italic>N</italic> is the number of bacterial cells (colony forming units mL<sup>&#x02212;1</sup>), <italic>N<sub>0</sub></italic> is the initial number of bacterial cells (colony forming units mL<sup>&#x02212;1</sup>), <italic>k</italic> is the sterilisation rate constant min <sup>&#x02212;1</sup>(<italic>D</italic>&#x02010;value) and <italic>t</italic> is the time (min).</p><p id="jctb5299-para-0008">The inactivation capability of CO<sub>2</sub> depends on the dissolved CO<sub>2</sub> concentration, while the pressure of pressurized CO<sub>2</sub> might not have a direct effect on the microbial inactivation, it influences its dissolution of CO<sub>2</sub>.</p><p id="jctb5299-para-0009">
+<italic>Pseudomonas putida</italic> KT2440 is a gram&#x02010;negative, aerobic rod&#x02010;shaped bacterium, with a significant metabolic diversity. It is adapted to different environments such as soils, aquatic systems and rhizosphere.<xref rid="jctb5299-bib-0008" ref-type="ref">8</xref> Its unique traits make it suitable as a bio&#x02010;control and growth&#x02010;promoting agent<xref rid="jctb5299-bib-0009" ref-type="ref">9</xref> and therefore model organism for the current study.</p><p id="jctb5299-para-0013">The efficacy of this pre&#x02010;treatment process depends on the diffusion coefficient of carbon dioxide, which can be controlled by the contact time and interfacial area. The low rise velocity of microbubbles, coupled with their high surface area to volume ratio, provide superior mass transfer. To enhance mass transfer, CO<sub>2</sub> needs to be introduced into the bulk liquid as microbubbles.<xref rid="jctb5299-bib-0010" ref-type="ref">10</xref> In addition, microbubbles can generate free radicals during their collapse.<xref rid="jctb5299-bib-0011" ref-type="ref">11</xref>, <xref rid="jctb5299-bib-0012" ref-type="ref">12</xref> These radicals have a much higher standard redox potential (2.80&#x02009;V) than oxidants such as ozone and hydrogen peroxide (2.07 and 1.77&#x02009;V, respectively), and thus, they show instant and non&#x02010;selective reactivity with the majority of organic compounds present in solution.<xref rid="jctb5299-bib-0013" ref-type="ref">13</xref>, <xref rid="jctb5299-bib-0014" ref-type="ref">14</xref>
+</p><p id="jctb5299-para-0014">pH influences not only the quantity of free radicals generated by the collapsed microbubbles but also the electrostatic profile of the microbubbles and the degree of ionization of organic compounds in aqueous solution.<xref rid="jctb5299-bib-0012" ref-type="ref">12</xref> At pH above 4.5, the zeta (&#x003b6;) potential of microbubbles tends to have a negative sign, with the magnitude varying directly with increasing pH.<xref rid="jctb5299-bib-0015" ref-type="ref">15</xref>, <xref rid="jctb5299-bib-0016" ref-type="ref">16</xref> For values of pH below 4.5, the zeta potential has a positive value, and it increases with decreasing pH, resulting in a higher probability of negative charged compounds such as lipopolysaccharides (LPS) in the outer membrane of gram&#x02010;negative bacteria;<xref rid="jctb5299-bib-0017" ref-type="ref">17</xref> which can approach the bubble interface and accelerate the reaction processes.<xref rid="jctb5299-bib-0012" ref-type="ref">12</xref> For <italic>P. putida</italic>, the isoelectric point occurs at pH&#x02009;3,<xref rid="jctb5299-bib-0018" ref-type="ref">18</xref> and below this value, the net surface charge is positive, but negative otherwise.<xref rid="jctb5299-bib-0019" ref-type="ref">19</xref> However, the pH dependent adhesion cannot be described as a linear function as shown previously.<xref rid="jctb5299-bib-0019" ref-type="ref">19</xref> Based on <italic>P. putida</italic> average cell size: 0.5 to 0.6&#x02009;&#x000b5;m in diameter and from 1.4 to 1.7&#x02009;&#x000b5;m in length,<xref rid="jctb5299-bib-0020" ref-type="ref">20</xref> it was calculated that one bacterium covers up to 1&#x02009;&#x000b5;m<sup>2</sup> of surface. However, the surface of each microbubble represents 7850&#x02009;&#x000b5;m<sup>2</sup>, using 50&#x02009;&#x000b5;m as the average microbubbles size. Thus, the adhesion intensity attained in the present experiments is sufficient to attach many bacterial cells, helping to direct diffusion of CO<sub>2</sub> in aqueous phase via a bacterial membrane. CO<sub>2</sub> can diffuse through the cell membrane of bacterial cells to accumulate in the phospholipid layer, leading to increased fluidity of plasma membrane and causing an anaesthesia effect for microbial cells.<xref rid="jctb5299-bib-0021" ref-type="ref">21</xref>
+</p><p id="jctb5299-para-0015">The aim of the present study is to explore the inactivation of <italic>P. putida</italic> using CO<sub>2</sub> enriched microbubbles. Wild&#x02010;type cells were treated with CO<sub>2</sub> microbubbles at low pressure and temperatures. Additives were used to enhance the activity of this process and to achieve a lower survivor ratio (greater log reduction [&#x02212; Log]).</p></sec><sec id="jctb5299-sec-0005"><title>MATERIAL AND METHODS</title><p id="jctb5299-para-0016">
+<italic>Pseudomonas putida</italic> was cultivated at 30&#x02009;&#x000b0;C for 24&#x02009;h on the nutrient broth (Sigma&#x02013;Aldrich, UK). Normal saline solution (0.85%) was prepared and refrigerated for 24&#x02009;h at 6&#x02009;&#x000b0;C. It is worth mentioning that normal saline is the generally favoured fluid as it is isotonic and less likely to interfere with the inactivation process. Diluted bacterial culture was prepared by mixing 900&#x02009;mL of sterile cold saline with 100&#x02009;mL of bacterial culture, which was grown for 18&#x02013;24&#x02009;h, and the final temperature set at 6&#x02009;&#x000b0;C.</p><p id="jctb5299-para-0017">The reactor was connected to a CO<sub>2</sub> (100%) gas cylinder (BOC, UK) through a diffuser (ceramic diffuser, point four systems Inc. UK), and the reactor has a final capacity 1.5&#x02009;L (Fig. <xref rid="jctb5299-fig-0001" ref-type="fig">1</xref>). These experiment sets were conducted for 90&#x02009;min (time required to reach equilibrium state according to the preliminary studies), and samples were drawn every 15&#x02009;min except the first sample, which was drawn after 7 mins. pH and temperature profiles were measured at the same time as drawing samples. Drawn samples were diluted with sterile normal saline and aseptically streaked on nutrient agar plates using an inoculation loop and incubated at 30&#x02009;&#x000b0;C for 24&#x02009;h, and thereafter; the grown colonies were counted using two software packages: ColonyCount, 2015 &#x000a9; Promega Corporation and HGColonyLT, 2014 &#x000a9; HyperGEAR Inc. Petri dishes with 30&#x02013;300 colonies were counted, and colony&#x02010;forming unit per mL was calculated for each sample. In addition, a colony counter (Bio Spectrum 410 imaging system, UVP, UK) was also used to verify and correct the colony count. Survivor ratio was calculated and plotted using ln (N/N<sub>0</sub>) on Y&#x02010;axis and time on X&#x02010;axis, where N refers to the number of colony forming units for treated samples, N<sub>0</sub> refers to the initial number of colony forming units before CO<sub>2</sub> treatment.</p><fig fig-type="Figure" xml:lang="en" id="jctb5299-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Schematic representation of the experimental set&#x02010;up. Pure CO<sub>2</sub> gas (100%) is fed into the microbubbles diffuser.</p></caption><graphic id="nlm-graphic-1" xlink:href="JCTB-92-1961-g005"><alt-text>JCTB-5299-FIG-0001-c</alt-text></graphic></fig><p id="jctb5299-para-0018">In addition, the highest microbubble population fraction generated was of size less than 100 microns and the addition of ethanol to the treatment solution did not affect the bubble size significantly, as both chemicals were added at low concentrations and this has a very limited effect on the size of microbubbles.</p><sec id="jctb5299-sec-0006"><title>Morphological examination of the bacterial cells</title><sec id="jctb5299-sec-0007"><title>
+<italic>Combined microscopy</italic>
+</title><p id="jctb5299-para-0019">For each experiment, two slides for bacterial smear before and after the inactivation process were prepared and stained with gram stain according to the standard protocol described previously.<xref rid="jctb5299-bib-0022" ref-type="ref">22</xref>
+</p></sec><sec id="jctb5299-sec-0008"><title>
+<italic>Scanning electron microscopy</italic>
+</title><p id="jctb5299-para-0020">Microbial specimens were fixed chemically for examination with scanning electron microscopy (SEM). Initially, the specimens were kept in normal saline to avoid any changes as a result of osmolality as normal saline is isotonic solution. Thereafter, the specimens were mounted on 12.5&#x02009;mm diameter stubs, attached with carbon&#x02010;sticky tabs, and then coated using an Edwards S150B sputter coater with approximately 25&#x02009;nm of gold. The specimens were examined in a Philips XL&#x02010;20 scanning electron microscope at an accelerating voltage of 20&#x02009;kV.</p></sec></sec><sec id="jctb5299-sec-0009"><title>
+<bold>Determination of</bold>
+<styled-content style="fixed-case">CO<sub>2</sub></styled-content>
+<bold>concentration</bold>
+</title><p id="jctb5299-para-0021">Kinetically, conversion of CO<sub>2</sub> into carbonic acid is very slow, and <sub>&#x0223c;</sub>0.2% of CO<sub>2</sub> can be converted to carbonic acid and its respective ions, while 99.8% of CO<sub>2</sub> tends to remain as a dissolved gas, which can be shown in the dissociated equilibrium constraint:<xref rid="jctb5299-bib-0023" ref-type="ref">23</xref>
+<disp-formula id="jctb5299-disp-0002"><label>(2)</label><mml:math id="nlm-math-2"><mml:mi mathvariant="normal">C</mml:mi><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mfenced open="(" close=")"><mml:mi mathvariant="normal">g</mml:mi></mml:mfenced><mml:mspace width="0.25em"/><mml:mo>&#x02194;</mml:mo><mml:mspace width="0.25em"/><mml:mi mathvariant="normal">C</mml:mi><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mfenced open="(" close=")"><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">q</mml:mi></mml:mrow></mml:mfenced></mml:math></disp-formula>
+<disp-formula id="jctb5299-disp-0003"><label>(3)</label><mml:math id="nlm-math-3"><mml:mi mathvariant="normal">C</mml:mi><mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mfenced open="(" close=")"><mml:mrow><mml:mi mathvariant="normal">a</mml:mi><mml:mi mathvariant="normal">q</mml:mi></mml:mrow></mml:mfenced><mml:mspace width="0.25em"/><mml:mo form="prefix">+</mml:mo><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">O</mml:mi><mml:mspace width="0.25em"/><mml:mo>&#x02194;</mml:mo><mml:mspace width="0.25em"/><mml:msub><mml:mi mathvariant="normal">H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi mathvariant="normal">C</mml:mi><mml:mi mathvariant="normal">O</mml:mi><mml:mn>3</mml:mn></mml:math></disp-formula>
+<disp-formula id="jctb5299-disp-0004"><label>(4)</label><mml:math id="nlm-math-4"><mml:msub><mml:mi>K</mml:mi><mml:mi>h</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfenced open="[" close="]"><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>C</mml:mi><mml:msub><mml:mi>O</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mfenced><mml:mo stretchy="true">/</mml:mo><mml:mfenced open="[" close="]"><mml:mrow><mml:mi>C</mml:mi><mml:msub><mml:mi>O</mml:mi><mml:mrow><mml:mn>2</mml:mn><mml:mfenced open="(" close=")"><mml:mrow><mml:mi>a</mml:mi><mml:mi>q</mml:mi></mml:mrow></mml:mfenced></mml:mrow></mml:msub></mml:mrow></mml:mfenced></mml:math></disp-formula>
+</p><p id="jctb5299-para-0022">Carbonic acid is a diprotic acid, containing two hydrogen atoms ionizable in water and dissociates into bicarbonate and carbonate ions according to the following equations:
+<disp-formula id="jctb5299-disp-0005"><label>(5)</label><mml:math id="nlm-math-5"><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>C</mml:mi><mml:msub><mml:mi>O</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mspace width="0.5em"/><mml:mo>&#x02194;</mml:mo><mml:mspace width="0.25em"/><mml:mi>H</mml:mi><mml:mi>C</mml:mi><mml:msub><mml:msup><mml:mi>O</mml:mi><mml:mo form="prefix">&#x02212;</mml:mo></mml:msup><mml:mn>3</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">+</mml:mo></mml:msup></mml:math></disp-formula>
+<disp-formula id="jctb5299-disp-0006"><label>(6)</label><mml:math id="nlm-math-6"><mml:mi>H</mml:mi><mml:mi>C</mml:mi><mml:msub><mml:msup><mml:mi>O</mml:mi><mml:mo form="prefix">&#x02212;</mml:mo></mml:msup><mml:mn>3</mml:mn></mml:msub><mml:mspace width="0.25em"/><mml:mo>&#x02194;</mml:mo><mml:mi>C</mml:mi><mml:msub><mml:msup><mml:mi>O</mml:mi><mml:mo form="prefix">&#x02212;</mml:mo></mml:msup><mml:mn>3</mml:mn></mml:msub><mml:mo>+</mml:mo><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">+</mml:mo></mml:msup></mml:math></disp-formula>
+</p><p id="jctb5299-para-0023">Obviously, it is possible to infer the concentration of dissolved CO<sub>2</sub> from the pH assuming equilibrium and a well&#x02010;mixed system.</p><p id="jctb5299-para-0024">The equilibrium constraint for each dissociation reaction <xref rid="jctb5299-disp-0005" ref-type="disp-formula">(5)</xref> and <xref rid="jctb5299-disp-0006" ref-type="disp-formula">(6)</xref> are:
+<disp-formula id="jctb5299-disp-0007"><label>(7)</label><mml:math id="nlm-math-7"><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfenced open="[" close="]"><mml:mrow><mml:mi>H</mml:mi><mml:msub><mml:msup><mml:mi>O</mml:mi><mml:mrow><mml:mo form="prefix">&#x02212;</mml:mo><mml:mn>1</mml:mn></mml:mrow></mml:msup><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mfenced><mml:mfenced open="[" close="]"><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">+</mml:mo></mml:msup></mml:mfenced><mml:mo stretchy="true">/</mml:mo><mml:mfenced open="[" close="]"><mml:mrow><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>C</mml:mi><mml:msub><mml:mi>O</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:math></disp-formula>
+<disp-formula id="jctb5299-disp-0008"><label>(8)</label><mml:math id="nlm-math-8"><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:mo>=</mml:mo><mml:mfenced open="[" close="]"><mml:mrow><mml:mi>C</mml:mi><mml:msup><mml:msub><mml:mi>O</mml:mi><mml:mn>3</mml:mn></mml:msub><mml:mrow><mml:mo form="prefix">&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mfenced><mml:mfenced open="[" close="]"><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">+</mml:mo></mml:msup></mml:mfenced><mml:mo stretchy="true">/</mml:mo><mml:mfenced open="[" close="]"><mml:mrow><mml:mi>H</mml:mi><mml:mi>C</mml:mi><mml:msub><mml:msup><mml:mi>O</mml:mi><mml:mo form="prefix">&#x02212;</mml:mo></mml:msup><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:math></disp-formula>
+</p><p id="jctb5299-para-0025">The system should satisfy the electroneutrality constraint, therefore
+<disp-formula id="jctb5299-disp-0009"><label>(9)</label><mml:math id="nlm-math-9"><mml:mfenced open="[" close="]"><mml:mi>H</mml:mi></mml:mfenced><mml:mo>=</mml:mo><mml:mfenced open="[" close="]"><mml:mrow><mml:mi>O</mml:mi><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">&#x02212;</mml:mo></mml:msup></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:mfenced open="[" close="]"><mml:mrow><mml:mi>H</mml:mi><mml:mi>C</mml:mi><mml:msub><mml:msup><mml:mi>O</mml:mi><mml:mo form="prefix">&#x02212;</mml:mo></mml:msup><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mfenced><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:mfenced open="[" close="]"><mml:mrow><mml:mi>C</mml:mi><mml:msub><mml:msup><mml:mi>O</mml:mi><mml:mrow><mml:mo form="prefix">&#x02212;</mml:mo><mml:mn>2</mml:mn></mml:mrow></mml:msup><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:math></disp-formula>
+</p><p id="jctb5299-para-0026">Dissociation of water to hydrogen and hydroxide ions with dissociation of CO<sub>2</sub> can give five equations and the definitions of the pH relate with six unknowns, which are [H<sup>+</sup>], [OH<sup>&#x02212;</sup>], [HCO<sub>3</sub>
+<sup>&#x02212;</sup>], [H<sub>2</sub>CO<sub>3</sub>], [CO<sub>3</sub>
+<sup>2&#x02212;</sup>] and [CO<sub>2</sub>
+<sub>aq</sub>], which can be solved through a set of nonlinear algebraic equations (Table <xref rid="jctb5299-tbl-0001" ref-type="table-wrap">1</xref>). Accordingly, CO<sub>2</sub> concentration can be inferred from pH measurements as follows:
+<disp-formula id="jctb5299-disp-0010"><label>(10)</label><mml:math id="nlm-math-10"><mml:mfenced open="[" close="]"><mml:mrow><mml:mi>C</mml:mi><mml:msub><mml:mi>O</mml:mi><mml:mrow><mml:mn>2</mml:mn><mml:mfenced open="(" close=")"><mml:mrow><mml:mi>a</mml:mi><mml:mi>q</mml:mi></mml:mrow></mml:mfenced><mml:mspace width="0.25em"/></mml:mrow></mml:msub></mml:mrow></mml:mfenced><mml:mo>=</mml:mo><mml:mfrac><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mi>p</mml:mi><mml:mi>H</mml:mi></mml:mrow></mml:msup><mml:mo stretchy="true">)</mml:mo><mml:mfenced open="(" close=")"><mml:mrow><mml:msup><mml:mrow><mml:mo stretchy="true">(</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mi>p</mml:mi><mml:mi>H</mml:mi></mml:mrow></mml:msup><mml:mo stretchy="true">)</mml:mo></mml:mrow><mml:mn>2</mml:mn></mml:msup><mml:mo>&#x02212;</mml:mo><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mn>14</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:mfenced></mml:mrow><mml:mrow><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mi>h</mml:mi><mml:mspace width="0.25em"/></mml:mrow></mml:msub><mml:mfenced open="[" close="]"><mml:msup><mml:mn>10</mml:mn><mml:mrow><mml:mo>&#x02212;</mml:mo><mml:mi>p</mml:mi><mml:mi>H</mml:mi></mml:mrow></mml:msup></mml:mfenced><mml:mo>+</mml:mo><mml:mn>2</mml:mn><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mn>1</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>K</mml:mi><mml:mrow><mml:mi>a</mml:mi><mml:mn>2</mml:mn></mml:mrow></mml:msub><mml:msub><mml:mi>K</mml:mi><mml:mi>h</mml:mi></mml:msub></mml:mrow></mml:mfrac></mml:math></disp-formula>
+</p><p id="jctb5299-para-0027">Therefore, the concentration of dissolved CO<sub>2</sub> was measured using Equation <xref rid="jctb5299-disp-0010" ref-type="disp-formula">(10)</xref> based on pH values measured by Mettler Toledo&#x02122; S220 (pH) meter. It is worth noting that addition of ethanol to the inactivation solution did not influence the pH of the solution and thus, the same Equation <xref rid="jctb5299-disp-0010" ref-type="disp-formula">(10)</xref> was used to calculate the concentration of dissolved CO<sub>2</sub> in the experimental sets with ethanol used as an additive.</p><table-wrap id="jctb5299-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Chemical reactions with their corresponding reaction rate constants used to integrate the CO<sub>2</sub> concentration equations in the current study</p></caption><table frame="hsides" rules="groups"><col width="1*" span="1"/><col width="1*" span="1"/><col width="1*" span="1"/><col width="1*" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" id="jctb5299-ent-0001" valign="bottom" rowspan="1" colspan="1">Chemical reaction</th><th align="center" id="jctb5299-ent-0002" valign="bottom" rowspan="1" colspan="1">Reaction rate constant</th><th align="center" id="jctb5299-ent-0003" valign="bottom" rowspan="1" colspan="1">Unit</th><th align="center" id="jctb5299-ent-0004" valign="bottom" rowspan="1" colspan="1">Reference</th></tr></thead><tbody valign="top"><tr><td align="left" id="jctb5299-ent-0005" valign="top" rowspan="1" colspan="1">
+<mml:math id="nlm-math-11"><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>O</mml:mi><mml:mspace width="0.25em"/><mml:mover accent="true"><mml:mo>&#x02192;</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mi>f</mml:mi></mml:msup></mml:mover><mml:mspace width="0.25em"/><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">+</mml:mo></mml:msup><mml:mspace width="0.25em"/><mml:mo form="prefix">+</mml:mo><mml:mspace width="0.25em"/><mml:mi>O</mml:mi><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">&#x02212;</mml:mo></mml:msup></mml:math>
+</td><td align="center" id="jctb5299-ent-0006" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sup><italic>f</italic></sup>&#x02009;=&#x02009;5.5&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;&#x02009;6</sup>
+</td><td align="center" id="jctb5299-ent-0007" valign="top" rowspan="1" colspan="1">1/<italic>s</italic>
+</td><td rowspan="2" align="center" id="jctb5299-ent-0008" valign="top" colspan="1">
+<xref rid="jctb5299-bib-0024" ref-type="ref">24</xref>, <xref rid="jctb5299-bib-0025" ref-type="ref">25</xref>, <xref rid="jctb5299-bib-0026" ref-type="ref">26</xref>
+</td></tr><tr><td align="left" id="jctb5299-ent-0009" valign="top" rowspan="1" colspan="1">
+<mml:math id="nlm-math-12"><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">+</mml:mo></mml:msup><mml:mspace width="0.25em"/><mml:mo form="prefix">+</mml:mo><mml:mspace width="0.25em"/><mml:mi>O</mml:mi><mml:msup><mml:mi>H</mml:mi><mml:mrow><mml:mo form="prefix">&#x02212;</mml:mo><mml:mspace width="0.25em"/></mml:mrow></mml:msup><mml:mover accent="true"><mml:mo>&#x02192;</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mi>r</mml:mi></mml:msup></mml:mover><mml:mspace width="0.25em"/><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>O</mml:mi></mml:math>
+</td><td align="center" id="jctb5299-ent-0010" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sup><italic>r</italic></sup>&#x000a0;=&#x02009;3&#x02009;&#x000d7;&#x02009;10<sup>3</sup>
+<break/>
+<italic>K</italic>
+<sub><italic>eq</italic></sub>&#x02009;=&#x02009;1.8&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;&#x02009;16</sup>
+<break/>
+<italic>K</italic>
+<sub><italic>w</italic></sub>&#x02009;=&#x02009;1&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;&#x02009;14</sup>
+</td><td align="center" id="jctb5299-ent-0011" valign="top" rowspan="1" colspan="1">1/<italic>mole</italic>/<italic>sec</italic>
+</td></tr><tr><td align="left" id="jctb5299-ent-0012" valign="top" rowspan="1" colspan="1">
+<italic>CO</italic>
+<sub>2</sub>+ <mml:math id="nlm-math-13"><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>O</mml:mi><mml:mspace width="0.25em"/><mml:mover accent="true"><mml:mo>&#x02192;</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mi>f</mml:mi></mml:msup></mml:mover><mml:mspace width="0.5em"/><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>C</mml:mi><mml:msub><mml:mi>O</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:math>
+</td><td align="center" id="jctb5299-ent-0013" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sup><italic>f</italic></sup>&#x02009;=&#x02009;0.043</td><td align="center" id="jctb5299-ent-0014" valign="top" rowspan="1" colspan="1">1/<italic>mole</italic>/<italic>sec</italic>
+</td><td rowspan="6" align="center" id="jctb5299-ent-0015" valign="top" colspan="1">
+<xref rid="jctb5299-bib-0027" ref-type="ref">27</xref>
+</td></tr><tr><td rowspan="2" align="left" id="jctb5299-ent-0016" valign="top" colspan="1">
+<mml:math id="nlm-math-14"><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>C</mml:mi><mml:msub><mml:mn>0</mml:mn><mml:mrow><mml:mn>3</mml:mn><mml:mspace width="0.5em"/></mml:mrow></mml:msub><mml:mover accent="true"><mml:mo>&#x02192;</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mi>r</mml:mi></mml:msup></mml:mover></mml:math>
+<italic>CO</italic>
+<sub>2</sub>&#x02002;&#x000a0;+&#x02002;<italic>H</italic>
+<sub>2</sub>
+<italic>O</italic>
+</td><td align="center" id="jctb5299-ent-0017" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sup><italic>r</italic></sup>&#x000a0;=&#x02009;14.98</td><td rowspan="3" align="center" id="jctb5299-ent-0018" valign="top" colspan="1">1/<italic>s</italic>
+</td></tr><tr><td align="center" id="jctb5299-ent-0019" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sub><italic>eq</italic></sub>&#x02009;=&#x02009;2.87&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;&#x02009;3</sup>
+</td></tr><tr><td align="left" id="jctb5299-ent-0020" valign="top" rowspan="1" colspan="1">
+<mml:math id="nlm-math-15"><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>C</mml:mi><mml:msub><mml:mn>0</mml:mn><mml:mrow><mml:mn>3</mml:mn><mml:mspace width="0.5em"/></mml:mrow></mml:msub><mml:mover accent="true"><mml:mo>&#x02192;</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mi>r</mml:mi></mml:msup></mml:mover></mml:math>
+<italic>HCO</italic>
+<sub>3</sub>&#x02009;+&#x02002;<italic>H</italic>
+</td><td align="center" id="jctb5299-ent-0021" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sup><italic>f</italic></sup>&#x02009;=&#x02009;10<sup>6.9</sup>
+</td></tr><tr><td rowspan="2" align="left" id="jctb5299-ent-0022" valign="top" colspan="1">
+<mml:math id="nlm-math-16"><mml:mi>H</mml:mi><mml:mi>C</mml:mi><mml:msub><mml:mn>0</mml:mn><mml:mn>3</mml:mn></mml:msub><mml:mspace width="0.5em"/><mml:mo form="prefix">+</mml:mo><mml:mspace width="0.25em"/><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">+</mml:mo></mml:msup><mml:mover accent="true"><mml:mo>&#x02192;</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mi>r</mml:mi></mml:msup></mml:mover><mml:mspace width="0.25em"/><mml:msub><mml:mi>H</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:mi>C</mml:mi><mml:msub><mml:mn>0</mml:mn><mml:mn>3</mml:mn></mml:msub></mml:math>
+</td><td align="center" id="jctb5299-ent-0023" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sup><italic>r</italic></sup>&#x000a0;=&#x02009;4.67&#x02009;&#x000d7;&#x02009;10<sup>10</sup>
+</td><td rowspan="2" align="center" id="jctb5299-ent-0024" valign="top" colspan="1">1/<italic>mole</italic>/<italic>sec</italic>
+</td></tr><tr><td align="center" id="jctb5299-ent-0025" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sub><italic>eq</italic></sub>&#x02009;=&#x02009;1.7&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;&#x02009;4</sup>
+</td></tr><tr><td align="left" id="jctb5299-ent-0026" valign="top" rowspan="1" colspan="1">
+<mml:math id="nlm-math-17"><mml:mi>H</mml:mi><mml:mi>C</mml:mi><mml:msub><mml:mn>0</mml:mn><mml:mrow><mml:mn>3</mml:mn><mml:mspace width="0.5em"/></mml:mrow></mml:msub><mml:mover accent="true"><mml:mo>&#x02192;</mml:mo><mml:msup><mml:mi>K</mml:mi><mml:mi>f</mml:mi></mml:msup></mml:mover><mml:mspace width="0.25em"/><mml:mi>C</mml:mi><mml:msub><mml:mn>0</mml:mn><mml:mn>3</mml:mn></mml:msub><mml:mspace width="0.5em"/><mml:mo form="prefix">+</mml:mo><mml:msup><mml:mi>H</mml:mi><mml:mo form="prefix">+</mml:mo></mml:msup></mml:math>
+</td><td align="center" id="jctb5299-ent-0027" valign="top" rowspan="1" colspan="1">
+<italic>K</italic>
+<sub><italic>eq</italic></sub>&#x02009;=&#x02009;5.62&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;&#x02009;11</sup>
+</td><td align="center" id="jctb5299-ent-0028" valign="top" rowspan="1" colspan="1"/><td align="center" id="jctb5299-ent-0029" valign="top" rowspan="1" colspan="1">
+<xref rid="jctb5299-bib-0028" ref-type="ref">28</xref>
+</td></tr></tbody></table></table-wrap></sec></sec><sec id="jctb5299-sec-0010"><title>RESULTS AND DISCUSSION</title><sec id="jctb5299-sec-0011"><title>Inactivation of <styled-content style="italic-in-any-context">Pseudomonas putida</styled-content> using <styled-content style="fixed-case">CO<sub>2</sub></styled-content> microbubbles with and without the ethanol addition</title><p id="jctb5299-para-0028">
+<italic>Pseudomonas putida</italic> cells were treated with CO<sub>2</sub> microbubbles for 90&#x02009;min at 100&#x02009;mL&#x02009;min<sup>&#x02212;1</sup> flow rate and &#x0223c;1&#x02009;bar. At equilibrium state, the inactivation efficiency was measured using two values, <italic>D&#x02010;value</italic> and <italic>L&#x02010;value</italic>. <italic>D&#x02010;value</italic> is defined as the time required for 1 log cycle reduction in microbial population, and calculated from the negative reciprocal of the slope of regression line from the straight part of the survivor curve <xref rid="jctb5299-bib-0029" ref-type="ref">29</xref> in Fig. <xref rid="jctb5299-fig-0002" ref-type="fig">2</xref>(A). On the other hand, <italic>L value</italic> is the time during which the number of microbial cells remains constant before starting the inactivation of microorganisms.<xref rid="jctb5299-bib-0030" ref-type="ref">30</xref> The <italic>D&#x02010;value</italic> for treatment with CO<sub>2</sub> microbubbles was 64.8&#x02009;min, while there was 2&#x02010;log reduction in <italic>P. putida</italic> population. In contrast, <italic>L value</italic> was 9.6&#x02009;min. Two mechanisms are suggested to play a central role in this process: oxidative stress and the CO<sub>2</sub> effects.</p><fig fig-type="Figure" xml:lang="en" id="jctb5299-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Survivor ratio of <styled-content style="italic-in-any-context">Pseudomonas putid</styled-content>a after treatment with: (A) CO<sub>2</sub> microbubbles; (B) CO<sub>2</sub> microbubbles plus 2% (v/v) ethanol; (C) CO<sub>2</sub> microbubbles plus 5% (v/v) ethanol; (D) CO<sub>2</sub> microbubbles plus 10% (v/v) ethanol. Error bars depict standard deviation.</p></caption><graphic id="nlm-graphic-3" xlink:href="JCTB-92-1961-g006"><alt-text>JCTB-5299-FIG-0002-c</alt-text></graphic></fig><p id="jctb5299-para-0029">Regarding the oxidative stress, during the shrinkage and subsequent collapse of bubbles, some hydroxyl radicals are generated.<xref rid="jctb5299-bib-0012" ref-type="ref">12</xref> In addition, the hydroxyl radicals generated are readily converted to the superoxide radicals and <italic>vice versa</italic>.<xref rid="jctb5299-bib-0031" ref-type="ref">31</xref> Previously, <italic>P. putida</italic> was reported to go through an oxidative stress, when exposed to free radicals.<xref rid="jctb5299-bib-0032" ref-type="ref">32</xref> Free radicals are reactive oxygen species (ROS), and are injurious species, reacting with different components of cellular systems such as lipids, proteins and DNA.<xref rid="jctb5299-bib-0033" ref-type="ref">33</xref> Fundamentally, lipids seem to be the major targets for these species during an event of oxidative stress, and interestingly, the free radicals that are formed can directly react with the polyunsaturated fatty acids in the cell membrane, provoking lipid peroxidation. The latter reaction can change membrane properties and disrupt the membrane&#x02010;bound proteins.<xref rid="jctb5299-bib-0034" ref-type="ref">34</xref> Amplification to this reaction occurs when more radicals are generated and more polyunsaturated fatty acids are broken down into other highly reactive products such as aldehydes. These highly reactive products can cause severe damage to vital compounds such as proteins.<xref rid="jctb5299-bib-0035" ref-type="ref">35</xref>
+</p><p id="jctb5299-para-0030">The mechanisms of the action of CO<sub>2</sub> have been described in depth.<xref rid="jctb5299-bib-0005" ref-type="ref">5</xref> CO<sub>2</sub> is not a &#x02018;natural product&#x02019; of the glucose metabolism pathway of <italic>P. putida</italic>, however, it can be produced during the catabolising of aromatic compounds by the <italic>&#x003b2;&#x02010;Ketoadipate</italic> pathway.<xref rid="jctb5299-bib-0036" ref-type="ref">36</xref> All these factors work together to achieve the elevated log reduction observed in <italic>P. putida</italic> using CO<sub>2</sub> microbubbles. In contrast, other microorganisms such as <italic>Zymomonas mobilis</italic> (another example of a gram&#x02010;negative bacteria) are expected to show a high degree of adaptation to CO<sub>2</sub> as it is produced naturally during metabolism in both aerobic and anaerobic conditions.<xref rid="jctb5299-bib-0037" ref-type="ref">37</xref>, <xref rid="jctb5299-bib-0038" ref-type="ref">38</xref>, <xref rid="jctb5299-bib-0039" ref-type="ref">39</xref> Figure <xref rid="jctb5299-fig-0003" ref-type="fig">3</xref> shows the temperature profile during the inactivation experiments.</p><fig fig-type="Figure" xml:lang="en" id="jctb5299-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Temperature profile during CO<sub>2</sub> enriched microbubbles inactivation process. Error bars depict standard deviation.</p></caption><graphic id="nlm-graphic-5" xlink:href="JCTB-92-1961-g002"><alt-text>JCTB-5299-FIG-0003-c</alt-text></graphic></fig><p id="jctb5299-para-0031">Low temperature was used to increase the CO<sub>2</sub> solubility in order to enhance the inactivation activity. At 0&#x02009;&#x000b0;C, the CO<sub>2</sub> solubility is around 1.3&#x02009;mol&#x02009;L<sup>&#x02212;1</sup>, decreasing to <sub>&#x0223c;</sub>1&#x02009;mol&#x02009;L<sup>&#x02212;1</sup> at 10&#x02009;&#x000b0;C. Moreover, increasing the temperature to 20&#x02009;&#x000b0;C will decrease the CO<sub>2</sub> solubility to <sub>&#x0223c;</sub>0.7&#x02009;mol&#x02009;L<sup>&#x02212;1</sup>.<xref rid="jctb5299-bib-0040" ref-type="ref">40</xref> Figure <xref rid="jctb5299-fig-0003" ref-type="fig">3</xref> shows there was a gradual increase in temperature of the solution from 6&#x02009;&#x000b0;C to 12&#x02009;&#x000b0;C.</p><p id="jctb5299-para-0032">To enhance the inactivation activity of CO<sub>2</sub> microbubbles, organic solvents, are employed. These solvents are toxic to some microbial cells due to their tendency to partition preferentially in the cytoplasmic membranes, increasing the fluidity of the cell membrane, and ultimately causing an increase in the nonspecific permeabilization of the cytoplasmic membrane.<xref rid="jctb5299-bib-0041" ref-type="ref">41</xref>, <xref rid="jctb5299-bib-0042" ref-type="ref">42</xref> Moreover, the fatty acid composition in the cytoplasmic membrane of microbial cells can be changed significantly by these membrane&#x02010;active solvents.<xref rid="jctb5299-bib-0043" ref-type="ref">43</xref>, <xref rid="jctb5299-bib-0044" ref-type="ref">44</xref> Isomerisation is a mechanism employed by <italic>P. putida</italic> to adapt its cytoplasmic membrane to ethanol toxicity. In this mechanism, the <italic>Cis</italic>&#x02010;unsaturated fatty acids are isomerised to Trans&#x02010;unsaturated fatty acids, and the bacterial cells become much more robust to the ethanol stress.<xref rid="jctb5299-bib-0045" ref-type="ref">45</xref> Figure <xref rid="jctb5299-fig-0002" ref-type="fig">2</xref>(B) shows the survivor ratio of <italic>P. putida</italic> cells after treatment with CO<sub>2</sub> microbubbles combined with 2 % (v/v) ethanol for 90&#x02009;min at 100&#x02009;mL&#x02009;min<sup>&#x02212;1</sup> flow rate and <sub>&#x0223c;</sub>1&#x02009;bar.</p><p id="jctb5299-para-0033">Adding 2% ethanol enhanced the inactivation process, and caused &#x0223c;3&#x02010;log reduction in the microbial population after 90&#x02009;min. Interestingly, the time during which the number of microbial cells remains constant&#x02010;&#x02010;<italic>L valu</italic>e&#x02010;&#x02010; was<sub>&#x0223c;</sub>30&#x02009;min, <sub>&#x0223c;</sub>4 times longer than the previous experimental set while the <italic>D value</italic> was almost identical in both experiments. Enhancement of the inactivation activity can be attributed to mechanisms of action of both ethanol and CO<sub>2</sub> on the cytoplasmic membrane of <italic>Pseudomonas</italic> cells and the combined action of both elements. Both CO<sub>2</sub> and ethanol work mainly on the fatty acid composition of the membrane.</p><p id="jctb5299-para-0034">Changing the composition of the cytoplasmic membrane is not straightforward and a certain threshold needs to be reached before observing any changes in the membrane. The exact duration to reach this threshold has not been studied yet for both CO<sub>2</sub> and ethanol. However, previous studies on the changes in the fatty acids profile are helpful to predict the duration. For example, Mejia <italic>et al</italic>.,<xref rid="jctb5299-bib-0046" ref-type="ref">46</xref> reported changes in the fatty acids profile of <italic>Escherichia coli</italic> (gram&#x02010;negative bacterium) after exposure to heat shock stress for 30&#x02009;min. Another example is the study by Boylan <italic>et al</italic>.,<xref rid="jctb5299-bib-0047" ref-type="ref">47</xref> where <italic>Bacillus subtilis</italic> (gram&#x02010;positive bacterium) was exposed to environmental stresses such as salt stress for 15&#x02013;30&#x02009;min to accumulate <italic>&#x003b2;&#x02010;galactosidase</italic>.</p><p id="jctb5299-para-0035">During the first 30&#x02009;min, the level of the <italic>Pseudomonas</italic> population was almost constant before the number of bacterial cells gradually decreased with time until the CO<sub>2</sub> concentrations reached the equilibrium state.</p><p id="jctb5299-para-0036">In addition, it has been suggested that increasing the amount of ethanol used (the organic solvent) could intensify the inactivation process with CO<sub>2</sub> microbubbles. Therefore, the concentration of ethanol was increased to 5% (v/v) to test this hypothesis. Figure <xref rid="jctb5299-fig-0002" ref-type="fig">2</xref>(C) shows the survivor ratio of <italic>P. putida</italic> after treatment with CO<sub>2</sub> enriched microbubbles plus 5% ethanol. Interestingly, there was almost a 2.5 log reduction of <italic>Pseudomonas</italic> population after treatment. Further, it can be noticed that the time during which the cell number remained constant was much less than in the previous experiments, as well as the D&#x02010;value, which reached around 46.8&#x02009;min. This observation might not be expected but on the other hand, the <italic>L value</italic> was much lower than in the previous experiment. While decreasing the log reduction in this treatment might have resulted from the increase in bacterial tolerance to ethanol, the microbial exposure to a sub&#x02010;lethal level of ethanol might promote a cellular response to encounter this stress. For example, Vanbogelen <italic>et al</italic>.,<xref rid="jctb5299-bib-0048" ref-type="ref">48</xref> and Waston<xref rid="jctb5299-bib-0049" ref-type="ref">49</xref> reported induced expression of stress proteins as a result of exposure to sub&#x02010;lethal levels of ethanol and the same proteins were expressed as a result of heat shock. Therefore, there might be a cross&#x02010;protective response induced to face environmental stresses in the same manner. Indeed, this cross&#x02010;protective response was seen previously in <italic>Pseudomonas</italic> spp, on exposure to different aromatic compounds and heat. In all three cases, stress shock proteins were produced.<xref rid="jctb5299-bib-0050" ref-type="ref">50</xref>
+</p><p id="jctb5299-para-0037">The concentration of additive (ethanol) was increased to 10% (v/v) to verify the combined effects of ethanol and CO<sub>2</sub> and to enhance the whole inactivation process. It can be observed from Fig. <xref rid="jctb5299-fig-0002" ref-type="fig">2</xref>(D) that there was around 3.5 log reduction in the bacterial population after this treatment. In addition, the D&#x02010;value for this experimental set was 82.8&#x02009;min, while the L&#x02010;value was around 4.8&#x02009;min. Both of these values were higher than the previous experimental set, and consistent with the original hypothesis. Indeed, the magnitude of ethanol toxicity is associated with its concentration used.<xref rid="jctb5299-bib-0051" ref-type="ref">51</xref> Increasing the ethanol concentration to 10% can cause chemical stress to the bacterial cells, and this stress might be analogous to other stresses.<xref rid="jctb5299-bib-0052" ref-type="ref">52</xref> As mentioned above, <italic>P. putida</italic> can evolve adaptative mechanisms as a response to stresses.<xref rid="jctb5299-bib-0043" ref-type="ref">43</xref>, <xref rid="jctb5299-bib-0048" ref-type="ref">48</xref> Therefore, it was speculated that increasing the ethanol concentration above a certain threshold could exceed the ability of <italic>Pseudomonas</italic> cells to tolerate and respond to the elevated level of toxicity, causing serious injuries to the cytoplasmic membrane and eventually failure to keep the biological system balanced. Another important concept to be considered is chaotropicity. Ethanol is known as a chaotropic solute, resulting in water stresses in bacteria at concentrations similar to levels in the environment.<xref rid="jctb5299-bib-0053" ref-type="ref">53</xref> Hallsworth <italic>et al</italic>.<xref rid="jctb5299-bib-0053" ref-type="ref">53</xref> showed that ethanol did not affect cell turgor, but instead, perturbed macromolecule&#x02013;water interactions and thereby destabilized cellular macromolecules, and inhibited growth. This bacterium responded to ethanol chaotropicity by specifically up&#x02010;regulating the synthesis of proteins involved in stabilizing protein structure, in lipid metabolism, and in membrane composition.<xref rid="jctb5299-bib-0053" ref-type="ref">53</xref> However, destabilization of macromolecules in the biological system is an elastic process in comparison with the specific inactivation (such as inactivation with carbon dioxide). Macromolecules destabilization can be reversed up to a critical thermodynamic point by using kosmotropicity solutes that increase entropy and affect hydration of macromolecules, such as trehalose.<xref rid="jctb5299-bib-0053" ref-type="ref">53</xref> These solutes tend to order water, and strengthen electrostatic interactions within organic macromolecules.<xref rid="jctb5299-bib-0054" ref-type="ref">54</xref>, <xref rid="jctb5299-bib-0055" ref-type="ref">55</xref>, <xref rid="jctb5299-bib-0056" ref-type="ref">56</xref>
+</p></sec><sec id="jctb5299-sec-0012"><title>
+<styled-content style="fixed-case">CO<sub>2</sub></styled-content> concentrations during <styled-content style="fixed-case">CO<sub>2</sub></styled-content>&#x02010;enriched microbubbles sparging</title><p id="jctb5299-para-0038">The CO<sub>2</sub> concentration was estimated using Equation <xref rid="jctb5299-disp-0010" ref-type="disp-formula">(10)</xref>. Figure <xref rid="jctb5299-fig-0004" ref-type="fig">4</xref>(A), (B), (C) and (D) present CO<sub>2</sub> concentrations at different pHs for all experimental sets. From Fig. <xref rid="jctb5299-fig-0004" ref-type="fig">4</xref>, it can be noticed that the inactivation process was increased in conjunction with increase in CO<sub>2</sub> concentration. This observation can be explained by the fact that the elevated CO<sub>2</sub> concentration tends to accumulate in the phospholipid bilayers of cytoplasmic membrane, causing an increase in the penetrated CO<sub>2</sub>.<xref rid="jctb5299-bib-0021" ref-type="ref">21</xref>, <xref rid="jctb5299-bib-0057" ref-type="ref">57</xref> Also, increasing the dissolved concentration of CO<sub>2</sub> was accompanied with decreasing survivor ratio of <italic>Pseudomonas</italic> population as the inactivation efficiency depends on CO<sub>2</sub> concentration.<xref rid="jctb5299-bib-0058" ref-type="ref">58</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="jctb5299-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>CO<sub>2</sub> concentrations with different pHs observed during sparging. (A) CO<sub>2</sub> microbubbles. (B) CO<sub>2</sub> microbubbles plus 2% ethanol. (C) CO<sub>2</sub> microbubbles plus 5% ethanol. (D) CO<sub>2</sub> microbubbles plus 10% ethanol. Points are representative of triplicate results.</p></caption><graphic id="nlm-graphic-7" xlink:href="JCTB-92-1961-g001"><alt-text>JCTB-5299-FIG-0004-c</alt-text></graphic></fig></sec><sec id="jctb5299-sec-0013"><title>Morphological changes on <styled-content style="italic-in-any-context">Pseudomonas putida</styled-content> cells using <styled-content style="fixed-case">CO<sub>2</sub></styled-content> microbubbles with and without ethanol addition</title><p id="jctb5299-para-0039">The inactivated cells with CO<sub>2</sub>&#x02010;enriched microbubbles treatment were examined using microscopy to observe the morphological/numerical changes in the bacterial cells after treatment (Fig. <xref rid="jctb5299-fig-0005" ref-type="fig">5</xref>). There was a clear reduction in the number in comparison with the untreated cells. Further observation (Fig. <xref rid="jctb5299-fig-0006" ref-type="fig">6</xref>) revealed changes in the morphology such as shortening and shrinkage of the cells.</p><fig fig-type="Figure" xml:lang="en" id="jctb5299-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Numerical changes after treatment with CO<sub>2</sub> microbubbles on 1000&#x000d7;. (A) Bacterial smears before sparging CO<sub>2</sub>. (B) Bacterial smear after treating with CO<sub>2</sub>&#x02010;enriched microbubbles for 90&#x02009;min.</p></caption><graphic id="nlm-graphic-9" xlink:href="JCTB-92-1961-g003"><alt-text>JCTB-5299-FIG-0005-c</alt-text></graphic></fig><fig fig-type="Figure" xml:lang="en" id="jctb5299-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Morphological changes on (A) <styled-content style="italic-in-any-context">Pseudomonas</styled-content> cells before the inactivation process with CO<sub>2</sub> microbubble plus 2% ethanol. (B) <styled-content style="italic-in-any-context">Pseudomonas</styled-content> cells after the inactivation process with CO<sub>2</sub> microbubble plus 2% ethanol. (C) <styled-content style="italic-in-any-context">Pseudomonas</styled-content> cells before the inactivation process with CO<sub>2</sub> microbubble plus 5% ethanol. (D) <styled-content style="italic-in-any-context">Pseudomonas</styled-content> cells after the inactivation process with CO<sub>2</sub> microbubble plus 5% ethanol. (E) <styled-content style="italic-in-any-context">Pseudomonas</styled-content> cells before the inactivation process with CO<sub>2</sub> microbubble plus 10% ethanol. (D) <styled-content style="italic-in-any-context">Pseudomonas</styled-content> cells after the inactivation process with CO<sub>2</sub> microbubble plus 10% ethanol.</p></caption><graphic id="nlm-graphic-11" xlink:href="JCTB-92-1961-g004"><alt-text>JCTB-5299-FIG-0006-c</alt-text></graphic></fig><p id="jctb5299-para-0040">Much research has been done on using supercritical CO<sub>2</sub> for the inactivation of microorganisms. For example, it was hypothesized that application of supercritical conditions can facilitate CO<sub>2</sub> penetration into the cell membrane, consequently expanding the microbial cells and causing cell disruption.<xref rid="jctb5299-bib-0059" ref-type="ref">59</xref> Indeed, the concept behind using supercritical CO<sub>2</sub> was originally described by Fraser,<xref rid="jctb5299-bib-0060" ref-type="ref">60</xref> when bacterial cells were burst after injecting CO<sub>2</sub> under high pressure. Thereafter, this concept was used to recover some cellular constituents such as intracellular enzymes and proteins.<xref rid="jctb5299-bib-0061" ref-type="ref">61</xref> While many of the previous studies on inactivation with CO<sub>2</sub> were achieved under high pressure and elevated temperature (<sub>&#x0223c;</sub>73 bars and 31.1&#x02009;&#x000b0;C) to reach the supercritical state,<xref rid="jctb5299-bib-0062" ref-type="ref">62</xref> the current study was achieved under relatively low&#x02010;pressure CO<sub>2</sub> (<sub>&#x0223c;</sub>1&#x02009;bar) and low temperatures (6&#x02013;12&#x02009;&#x000b0;C). This suggests that high pressure and temperature are not the only factors affecting cell lysis by CO<sub>2</sub> application.</p><p id="jctb5299-para-0041">Figure <xref rid="jctb5299-fig-0006" ref-type="fig">6</xref> shows morphological changes to the <italic>Pseudomonas</italic> cells after treatment with CO<sub>2</sub> microbubbles plus ethanol as an additive. In Fig. <xref rid="jctb5299-fig-0006" ref-type="fig">6</xref>(B), it is obvious that the <italic>Pseudomonas</italic> cells were aggregated after the treatment with CO<sub>2</sub>&#x02010;enriched microbubbles plus 2% ethanol. Many conditions can provoke microbial flocculation such as substrate acquisition, slow growth or starvation, physical and chemical stress and aggregation to protect against predation.<xref rid="jctb5299-bib-0063" ref-type="ref">63</xref> Moreover, formation of microbial flocs can also help increase the metabolic activity of the stressed cells<xref rid="jctb5299-bib-0064" ref-type="ref">64</xref> and enhance the microbial resistance to toxic compounds such as biocidal compounds.<xref rid="jctb5299-bib-0065" ref-type="ref">65</xref>, <xref rid="jctb5299-bib-0066" ref-type="ref">66</xref>, <xref rid="jctb5299-bib-0067" ref-type="ref">67</xref> The changes in cell shapes can also be noticed in Fig. <xref rid="jctb5299-fig-0006" ref-type="fig">6</xref>(B) in comparison with the normal bacterial cells in Fig <xref rid="jctb5299-fig-0006" ref-type="fig">6</xref>(A) (the control), when <italic>Pseudomonas</italic> cells were observed to transition from rod cells to coccus cells. This transition might increase attachment of the bacterial cells, consequently leading to flocculation.<xref rid="jctb5299-bib-0068" ref-type="ref">68</xref> Occasionally, the size reduction is accompanied by an increase in population under various environmental stresses.<xref rid="jctb5299-bib-0068" ref-type="ref">68</xref>, <xref rid="jctb5299-bib-0069" ref-type="ref">69</xref>, <xref rid="jctb5299-bib-0070" ref-type="ref">70</xref>, <xref rid="jctb5299-bib-0071" ref-type="ref">71</xref>, <xref rid="jctb5299-bib-0072" ref-type="ref">72</xref>, <xref rid="jctb5299-bib-0073" ref-type="ref">73</xref> Interestingly, the decrease in cell size was not accompanied with an increase in the bacterial population in the current study, as shown in Fig. <xref rid="jctb5299-fig-0002" ref-type="fig">2</xref>(B). Changing the cells shape from rod to round shape increases the cell surface area to volume ratio; a useful metabolic response under starvation stress condition. Bacterial cells are known to adjust in order to effectively transport nutrients with minimum energy consumption.<xref rid="jctb5299-bib-0074" ref-type="ref">74</xref> However, alternating the <italic>Pseudomonas</italic> cells shape from rod to round shape in the current study is likely a consequence of changes due to the environmental stresses mentioned above.</p><p id="jctb5299-para-0042">Figure <xref rid="jctb5299-fig-0006" ref-type="fig">6</xref>(D) shows the morphological changes that occurred in the <italic>Pseudomonas</italic> cells as a result of the treatment with CO<sub>2</sub> enriched microbubbles plus 5% ethanol. It is apparent that the cells have lesions with loss of membrane integrity. Cell injury and death were previously observed, due to high pressure CO<sub>2</sub> application.<xref rid="jctb5299-bib-0075" ref-type="ref">75</xref> The current study, however, was conducted under low pressure (&#x0223c;1&#x02009;bar), and observing the same morphological changes on the bacterial cells is suggestive of an inactivation and subsequent cell lysis capability of CO<sub>2</sub> according to the mechanisms reviewed previously.<xref rid="jctb5299-bib-0005" ref-type="ref">5</xref> Using CO<sub>2</sub> under high pressure can enhance the solubility of CO<sub>2</sub> and consequently, accelerate cell injury and death.<xref rid="jctb5299-bib-0075" ref-type="ref">75</xref> These changes are irreversible.<xref rid="jctb5299-bib-0004" ref-type="ref">4</xref> Therefore, application of high pressure is a way to enhance the CO<sub>2</sub> inactivation activity but by no means the only factor responsible for inactivation.</p><p id="jctb5299-para-0043">The morphological changes during treatment with the CO<sub>2</sub>&#x02010;enriched microbubbles plus 10% ethanol are presented in Fig. <xref rid="jctb5299-fig-0006" ref-type="fig">6</xref>(E) and (F). Increasing the ethanol concentration can increase the membrane permeability of the bacterial cells, which is associated with chemical activities, inducing narcosis in biological systems.<xref rid="jctb5299-bib-0021" ref-type="ref">21</xref> This effect is followed by leakage of protons and some vital ions such as potassium ions from the cytoplasmic membrane of the bacterial cells.<xref rid="jctb5299-bib-0076" ref-type="ref">76</xref>, <xref rid="jctb5299-bib-0077" ref-type="ref">77</xref> Interaction of these compounds with the phospholipid bilayers of the cytoplasmic membrane could cause substantial changes in the membrane structure. For example, lipophilic compounds tend to accumulate in the hydrophobic part of the cytoplasmic membrane, disturbing the interaction between acyl chains of the phospholipid bilayers as well as changing the fluidity of the membrane. Eventually swelling of the phospholipid bilayers of the bacterial cells can occur, resulting in a ball&#x02010;like shape.<xref rid="jctb5299-bib-0078" ref-type="ref">78</xref>
+</p></sec></sec><sec id="jctb5299-sec-0014"><title>CONCLUSION</title><p id="jctb5299-para-0044">
+<italic>Pseudomonas Puitda</italic> KT2240 was used as a model for gram&#x02010;negative bacteria in the current study. Survivor ratio after each experiment was calculated after streaking the bacterial samples on nutrient agar plates. The initial log reduction with CO<sub>2</sub> microbubbles alone was around 2 Log, while best Log reductions were achieved with 10%, 2% and 5% ethanol, respectively. Using microbubble technology for CO<sub>2</sub> sparging caused both an oxidative stress and disturbance to the biological system of <italic>P. putida</italic> cells. Moreover, addition of ethanol amplified the activities of CO<sub>2</sub> microbubbles and decreased the survivor ratio of <italic>P. putida</italic>. Several morphological changes were observed after each treatment, and these changes ranged from changing the cell shape from rod to round, lesions appearing on the bacterial cells, severe injurious signs and cell death.</p></sec></body><back><ack id="jctb5299-sec-0015"><title>ACKNOWLEDGEMENTS</title><p id="jctb5299-para-0045">ARM would like to thank the Iraqi Ministry of Higher Education and Scientific Research for the doctoral Scholarship. Many thanks also to Dr Mark S Thomas, Department of Infection and Immunity, the University of Sheffield, for donating <italic>Pseudomonas putida</italic> KT2440 strain. WZ would like to thank the EPSRC for support under grants EP/I019790/1 (microbubbles dynamics), EP/K001329/1(CO<sub>2</sub> microbubbles), EP/N011511/1(<italic>in situ</italic> sterilisation using microbubbles during fermentation processes). JH would like to thank Plastok Ltd (UK) for microbubble aerator materials.</p></ack><ref-list content-type="cited-references" id="jctb5299-bibl-0001"><title>REFERENCES</title><ref id="jctb5299-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jctb5299-cit-0001">
+<string-name>
+<surname>Nair</surname>
+<given-names>P</given-names>
+</string-name>, <article-title>Currently practised sterilization methods&#x02010;some inadvertent consequences</article-title>. <source>J Biomater Appl</source>
+<volume>10</volume>:<fpage>121</fpage>&#x02013;<lpage>135</lpage> (<year>1995</year>).<pub-id pub-id-type="pmid">8618206</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jctb5299-cit-0002">
+<string-name>
+<surname>Dillow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dehghani</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hrkach</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Foster</surname>
+<given-names>NR</given-names>
+</string-name> and <string-name>
+<surname>Langer</surname>
+<given-names>R</given-names>
+</string-name>, <article-title>Bacterial inactivation by using near&#x02010;and supercritical carbon dioxide</article-title>. <source>Proc Nat Acad Sci</source>
+<volume>96</volume>:<fpage>10344</fpage>&#x02013;<lpage>10348</lpage> (<year>1999</year>).<pub-id pub-id-type="pmid">10468610</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jctb5299-cit-0003">
+<string-name>
+<surname>Premnath</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Jasty</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Merrill</surname>
+<given-names>E</given-names>
+</string-name>, <article-title>Gamma sterilization of UHMWPE articular implants: an analysis of the oxidation problem</article-title>. <source>Biomaterials</source>
+<volume>17</volume>:<fpage>1741</fpage>&#x02013;<lpage>1753</lpage> (<year>1996</year>).<pub-id pub-id-type="pmid">8879511</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jctb5299-cit-0004">
+<string-name>
+<surname>Hong</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Pyun</surname>
+<given-names>Y</given-names>
+</string-name>, <article-title>Inactivation kinetics of <italic>Lactobacillus plantarum</italic> by high pressure carbon dioxide</article-title>. <source>J Food Sci</source>
+<volume>64</volume>:<fpage>728</fpage>&#x02013;<lpage>733</lpage> (<year>1999</year>).</mixed-citation></ref><ref id="jctb5299-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jctb5299-cit-0005">
+<string-name>
+<surname>Garcia&#x02010;Gonzalez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Geeraerd</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Spilimbergo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Elst</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Van Ginneken</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Debevere</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>, <article-title>High pressure carbon dioxide inactivation of microorganisms in foods: the past, the present and the future</article-title>. <source>Int J food Micro</source>
+<volume>117</volume>:<fpage>1</fpage>&#x02013;<lpage>28</lpage> (<year>2007</year>).</mixed-citation></ref><ref id="jctb5299-bib-0006"><label>6</label><mixed-citation publication-type="book" id="jctb5299-cit-0006">
+<string-name>
+<surname>Slaughter</surname>
+<given-names>JC</given-names>
+</string-name>, <chapter-title>The effects of carbon dioxide on yeasts</chapter-title>, in <source>Biotechnology Applications in Beverage Production</source>
+<italic>,</italic> ed by <person-group person-group-type="editor"><name><surname>Cantarelli</surname><given-names>C</given-names></name></person-group> and <person-group person-group-type="editor"><name><surname>Lanzarini</surname><given-names>G.</given-names></name></person-group>
+<publisher-name>Elsevier Science Publishers</publisher-name>, <publisher-loc>Netherland</publisher-loc>, <fpage>49</fpage>&#x02013;<lpage>64</lpage> (<year>1989</year>).</mixed-citation></ref><ref id="jctb5299-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jctb5299-cit-0007">
+<string-name>
+<surname>Spilimbergo</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Bertucco</surname>
+<given-names>A</given-names>
+</string-name>, <article-title>Non&#x02010;thermal bacterial inactivation with dense CO<sub>2</sub>
+</article-title>. <source>Biotechnol Bioeng</source>
+<volume>84</volume>:<fpage>627</fpage>&#x02013;<lpage>638</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">14595775</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jctb5299-cit-0008">
+<string-name>
+<surname>Timmis</surname>
+<given-names>K</given-names>
+</string-name>, <article-title>
+<italic>Pseudomonas putida</italic>: a cosmopolitan opportunist par excellence</article-title>. <source>Environ Microbiol</source>
+<volume>4</volume>:<fpage>779</fpage>&#x02013;<lpage>781</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">12534460</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jctb5299-cit-0009">
+<string-name>
+<surname>Georgieva</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nikolova</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Evstatieva</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Licheva</surname>
+<given-names>T</given-names>
+</string-name> and <string-name>
+<surname>Savov</surname>
+<given-names>V</given-names>
+</string-name>, <article-title>Growth characteristics of <italic>Pseudomonas putida</italic> strains and effect of humic substances on cell density during batch cultivation</article-title>. <source>Bulgarian J Agricult Sci</source>
+<volume>20</volume>:<fpage>82</fpage>&#x02013;<lpage>86</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="jctb5299-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jctb5299-cit-0010">
+<string-name>
+<surname>Zimmerman</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Hewakandamby</surname>
+<given-names>BN</given-names>
+</string-name>, <string-name>
+<surname>Tesa&#x00159;</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Bandulasena</surname>
+<given-names>HCH</given-names>
+</string-name> and <string-name>
+<surname>Omotowa</surname>
+<given-names>OA</given-names>
+</string-name>, <article-title>On the design and simulation of an airlift loop bioreactor with microbubble generation by fluidic oscillation</article-title>. <source>Food Bioprod Process</source>
+<volume>87</volume>:<fpage>215</fpage>&#x02013;<lpage>227</lpage> (<year>2009</year>).</mixed-citation></ref><ref id="jctb5299-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jctb5299-cit-0011">
+<string-name>
+<surname>Li</surname>
+<given-names>P</given-names>
+</string-name> and <string-name>
+<surname>Tsuge</surname>
+<given-names>H</given-names>
+</string-name>, <article-title>Ozone transfer in a new gas&#x02010;induced contactor with microbubbles</article-title>. <source>J Chem Eng Japan</source>
+<volume>39</volume>:<fpage>1213</fpage>&#x02013;<lpage>1220</lpage> (<year>2006</year>).</mixed-citation></ref><ref id="jctb5299-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jctb5299-cit-0012">
+<string-name>
+<surname>Li</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Takahashi</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Chiba</surname>
+<given-names>K</given-names>
+</string-name>, <article-title>Enhanced free&#x02010;radical generation by shrinking microbubbles using a copper catalyst</article-title>. <source>Chemosphere</source>
+<volume>77</volume>:<fpage>1157</fpage>&#x02013;<lpage>1160</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19781738</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jctb5299-cit-0013">
+<string-name>
+<surname>Hoigne</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Bader</surname>
+<given-names>H</given-names>
+</string-name>, <article-title>Rate constants of reactions of ozone with organic and inorganic compounds in water</article-title>. <source>Water Res</source>
+<volume>17</volume>:<fpage>173</fpage>&#x02013;<lpage>183</lpage> (<year>1983</year>).</mixed-citation></ref><ref id="jctb5299-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jctb5299-cit-0014">
+<string-name>
+<surname>Von Gunten</surname>
+<given-names>U</given-names>
+</string-name>, <article-title>Ozonation of drinking water: Part I . Oxidation kinetics and product formation</article-title>. <source>Water Res</source>
+<volume>37</volume>:<fpage>1443</fpage>&#x02013;<lpage>1467</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">12600374</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jctb5299-cit-0015">
+<string-name>
+<surname>Yang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dabros</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Czarnecki</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Masliyah</surname>
+<given-names>JH</given-names>
+</string-name>, <article-title>Measurement of the Zeta potential of gas bubbles in aqueous solutions by microelectrophoresis method</article-title>. <source>J Colloid Interface Sci</source>
+<volume>243</volume>:<fpage>128</fpage>&#x02013;<lpage>135</lpage> (<year>2001</year>).</mixed-citation></ref><ref id="jctb5299-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jctb5299-cit-0016">
+<string-name>
+<surname>Takahashi</surname>
+<given-names>M</given-names>
+</string-name>, <article-title>&#x003b6; potential of microbubbles in aqueous solutions: electrical properties of the gas&#x02010;water interface</article-title>. <source>J Phys Chem</source>
+<volume>109</volume>:<fpage>21858</fpage>&#x02013;<lpage>21864</lpage> (<year>2005</year>).</mixed-citation></ref><ref id="jctb5299-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jctb5299-cit-0017">
+<string-name>
+<surname>Bononi</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Balatti</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Gaeta</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Tognon</surname>
+<given-names>M</given-names>
+</string-name>, <article-title>Gram&#x02010;negative bacterial lipopolysaccharide retention by a positively charged new&#x02010;generation filter</article-title>. <source>Appl Environ Microbiol</source>
+<volume>74</volume>:<fpage>6470</fpage>&#x02013;<lpage>6472</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18723658</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jctb5299-cit-0018">
+<string-name>
+<surname>Rochex</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lecouturier</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Pezron</surname>
+<given-names>I</given-names>
+</string-name> and <string-name>
+<surname>Lebeault</surname>
+<given-names>JM</given-names>
+</string-name>, <article-title>Adhesion of a <italic>Pseudomonas putida</italic> strain isolated from a paper machine to cellulose fibres</article-title>. <source>Appl Microbiol Biotechnol</source>
+<volume>65</volume>:<fpage>727</fpage>&#x02013;<lpage>733</lpage> (<year>2004</year>).<pub-id pub-id-type="pmid">15095025</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jctb5299-cit-0019">
+<string-name>
+<surname>Nikolajeva</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Griba</surname>
+<given-names>T</given-names>
+</string-name> and <string-name>
+<surname>Petri&#x00146;a</surname>
+<given-names>Z</given-names>
+</string-name>, <article-title>Factors influencing adhesion of <italic>Pseudomonas putida</italic> on porous clay ceramic granules</article-title>. <source>Environ Experiment Biol</source>
+<volume>10</volume>:<fpage>77</fpage>&#x02013;<lpage>80</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="jctb5299-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jctb5299-cit-0020">
+<string-name>
+<surname>Hwang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>C&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Ahn</surname>
+<given-names>I&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>
+<given-names>Y&#x02010;J</given-names>
+</string-name> and <string-name>
+<surname>Mhin</surname>
+<given-names>BJ</given-names>
+</string-name>, <article-title>Influence of naphthalene biodegradation on the adhesion of <italic>Pseudomonas putida</italic> NCIB 9816&#x02013;4 to a naphthalene&#x02010;contaminated soil</article-title>. <source>J Hazard Mater</source>
+<volume>172</volume>:<fpage>491</fpage>&#x02013;<lpage>493</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19656625</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jctb5299-cit-0021">
+<string-name>
+<surname>Isenschmid</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Marison</surname>
+<given-names>I</given-names>
+</string-name> and Stockar U Von, <article-title>The influence of pressure and temperature of compressed CO<sub>2</sub> on the survival of yeast cells</article-title>. <source>J Biotechnol</source>
+<volume>39</volume>:<fpage>229</fpage>&#x02013;<lpage>237</lpage> (<year>1995</year>).<pub-id pub-id-type="pmid">7766403</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0022"><label>22</label><mixed-citation publication-type="book" id="jctb5299-cit-0022">
+<string-name>
+<surname>Harley</surname>
+<given-names>JP</given-names>
+</string-name>, <source>Laboratory Exercises in Microbiology</source>, <edition>5th edn</edition>
+<publisher-name>McGraw&#x02010;Hill</publisher-name>, <publisher-loc>Boston, MA</publisher-loc>, <fpage>1</fpage>&#x02013;<lpage>12</lpage> (<year>2002</year>).</mixed-citation></ref><ref id="jctb5299-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jctb5299-cit-0023">
+<string-name>
+<surname>Al&#x02010;Mashhadani</surname>
+<given-names>MKH</given-names>
+</string-name>, <string-name>
+<surname>Bandulasena</surname>
+<given-names>HCH</given-names>
+</string-name> and <string-name>
+<surname>Zimmerman</surname>
+<given-names>WB</given-names>
+</string-name>, <article-title>CO<sub>2</sub> mass transfer induced through an airlift loop by a microbubble cloud generated by fluidic oscillation</article-title>. <source>Ind Eng Chem Res</source>
+<volume>51</volume>:<fpage>1864</fpage>&#x02013;<lpage>1877</lpage> (<year>2012</year>).</mixed-citation></ref><ref id="jctb5299-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jctb5299-cit-0024">
+<string-name>
+<surname>Chatterjee</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Magee</surname>
+<given-names>JL</given-names>
+</string-name> and <string-name>
+<surname>Dey</surname>
+<given-names>SK</given-names>
+</string-name>, <article-title>The role of homogeneous reactions in the radionlisys of water</article-title>. <source>Radiat Res</source>
+<volume>96</volume>:<fpage>1</fpage>&#x02013;<lpage>19</lpage> (<year>1983</year>).</mixed-citation></ref><ref id="jctb5299-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jctb5299-cit-0025">
+<string-name>
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name> and <string-name>
+<surname>Houk</surname>
+<given-names>KN</given-names>
+</string-name>, <article-title>Acid/base catalysis by pure water: the aldol reaction</article-title>. <source>J Org Chem</source> (<volume>70</volume>):<fpage>9712</fpage>&#x02013;<lpage>9716</lpage> (<year>2005</year>).<pub-id pub-id-type="pmid">16292798</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jctb5299-cit-0026">
+<string-name>
+<surname>Garrett</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Dixon</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Camaioni</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Chipman</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Kimmel</surname>
+<given-names>GA</given-names>
+</string-name>
+<italic>et al</italic>, <article-title>Role of water in electron&#x02010;initiated processes and radical chemistry: issues and scientific advances</article-title>. <source>Chem Rev</source>
+<volume>105</volume>:<fpage>355</fpage>&#x02013;<lpage>389</lpage> (<year>2005</year>).<pub-id pub-id-type="pmid">15720157</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0027"><label>27</label><mixed-citation publication-type="book" id="jctb5299-cit-0027">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <source>Geochemical Kinetics</source>. <publisher-name>Princeton University Press</publisher-name>, <publisher-loc>Princeton and Oxford</publisher-loc> (<year>2008</year>).</mixed-citation></ref><ref id="jctb5299-bib-0028"><label>28</label><mixed-citation publication-type="book" id="jctb5299-cit-0028">
+<string-name>
+<surname>Khalilitehrani</surname>
+<given-names>M</given-names>
+</string-name>, <source>An investigation on Modeling and Simulation of Chilled Ammonia Process using VOF Method</source>. <publisher-name>Master Thesis</publisher-name>, <publisher-loc>G&#x000f6;teborg, Sweden</publisher-loc> (<year>2011</year>).</mixed-citation></ref><ref id="jctb5299-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jctb5299-cit-0029">
+<string-name>
+<surname>Watanabe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Furukawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hirata</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Koyama</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ogihara</surname>, <given-names>H</given-names>
+</string-name> and <string-name>
+<surname>Yamasaki</surname>
+<given-names>M</given-names>
+</string-name>, <article-title>Inactivation of <italic>Geobacillus stearothermophilus</italic> spores by high&#x02010;pressure carbon dioxide treatment</article-title>. <source>Appl Environ Microbiol</source>
+<volume>69</volume>:<fpage>7124</fpage>&#x02013;<lpage>7129</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">14660357</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jctb5299-cit-0030">
+<string-name>
+<surname>Oul&#x000e9;</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tano</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bernier</surname>
+<given-names>A&#x02010;M</given-names>
+</string-name> and <string-name>
+<surname>Arul</surname>
+<given-names>J</given-names>
+</string-name>, <article-title>
+<italic>Escherichia coli</italic> inactivation mechanism by pressurized CO<sub>2</sub>
+</article-title>. <source>Can J Microbiol</source>
+<volume>52</volume>:<fpage>1208</fpage>&#x02013;<lpage>1217</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">17473890</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jctb5299-cit-0031">
+<string-name>
+<surname>Ragnar</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Eriksson</surname>
+<given-names>T</given-names>
+</string-name> and <string-name>
+<surname>Reitberger</surname>
+<given-names>T</given-names>
+</string-name>, <article-title>Radical formation in ozone reactions with lignin and carbohydrate model compounds</article-title>. <source>Holzforschung</source>
+<volume>53</volume>:<fpage>292</fpage>&#x02013;<lpage>298</lpage> (<year>1999</year>).</mixed-citation></ref><ref id="jctb5299-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jctb5299-cit-0032">
+<string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Park</surname>
+<given-names>W</given-names>
+</string-name>, <article-title>Oxidative stress response in <italic>Pseudomonas putida</italic>
+</article-title>. <source>Appl Microbiol Biotechnol</source>
+<volume>98</volume>:<fpage>6933</fpage>&#x02013;<lpage>6946</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24957251</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jctb5299-cit-0033">
+<string-name>
+<surname>Imlay</surname>
+<given-names>JA</given-names>
+</string-name>, <article-title>Pathways of oxidative damage</article-title>. <source>Annual Rev Microbiol</source>
+<volume>57</volume>:<fpage>395</fpage>&#x02013;<lpage>418</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">14527285</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jctb5299-cit-0034">
+<string-name>
+<surname>Cabiscol</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tamarit</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Ros</surname>
+<given-names>J</given-names>
+</string-name>, <article-title>Oxidative stress in bacteria and protein damage by reactive oxygen species</article-title>. <source>Int Microbiol</source>
+<volume>3</volume>:<fpage>3</fpage>&#x02013;<lpage>8</lpage> (<year>2000</year>).<pub-id pub-id-type="pmid">10963327</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jctb5299-cit-0035">
+<string-name>
+<surname>Sheu</surname>
+<given-names>KFR</given-names>
+</string-name> and <string-name>
+<surname>Blass</surname>
+<given-names>JP</given-names>
+</string-name>, <article-title>The <italic>&#x003b2;</italic>&#x02010;ketoglutarate dehydrogenase complex</article-title>. <source>Annals New York Academy Sci</source>
+<volume>893</volume>:<fpage>61</fpage>&#x02013;<lpage>78</lpage> (<year>1999</year>).</mixed-citation></ref><ref id="jctb5299-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jctb5299-cit-0036">
+<string-name>
+<surname>Ornston</surname>
+<given-names>LN</given-names>
+</string-name> and <string-name>
+<surname>Stanier</surname>
+<given-names>RY</given-names>
+</string-name>, <article-title>The conversion of catechol and protocatechuate to g&#x02010;ketoadipate by <italic>Pseudomonas putida</italic>
+</article-title>. <source>J Biol Chem</source>
+<volume>241</volume>:<fpage>3776</fpage>&#x02013;<lpage>3788</lpage> (<year>1966</year>).<pub-id pub-id-type="pmid">5916391</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jctb5299-cit-0037">
+<string-name>
+<surname>Nipkow</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sonnleitner</surname>
+<given-names>B</given-names>
+</string-name> and <string-name>
+<surname>Fiechter</surname>
+<given-names>A</given-names>
+</string-name>, <article-title>Effect of carbon dioxide on growth of <italic>Zymomonas mobilis</italic> in continuous culture</article-title>. <source>Microbiol Wiki</source>
+<volume>21</volume>:<fpage>287</fpage>&#x02013;<lpage>291</lpage> (<year>1985</year>).</mixed-citation></ref><ref id="jctb5299-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jctb5299-cit-0038">
+<string-name>
+<surname>Veeramallu</surname>
+<given-names>UK</given-names>
+</string-name> and <string-name>
+<surname>Agrawal</surname>
+<given-names>P</given-names>
+</string-name>, <article-title>The effect of CO 2 ventilation on kinetics and yields off cell&#x02010;mass and ethanol in the batch cultures of <italic>Zymomonas mobilis</italic>
+</article-title>. <source>Biotechnol Lett</source>
+<volume>8</volume>:<fpage>811</fpage>&#x02013;<lpage>816</lpage> (<year>1986</year>).</mixed-citation></ref><ref id="jctb5299-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jctb5299-cit-0039">
+<string-name>
+<surname>Conway</surname>
+<given-names>T</given-names>
+</string-name>, <article-title>The Entner&#x02010;Doudoroff pathway: history, physiology and molecular biology</article-title>. <source>FEMS Microbiol Rev</source>
+<volume>103</volume>:<fpage>4465</fpage>&#x02013;<lpage>4470</lpage> (<year>1992</year>).</mixed-citation></ref><ref id="jctb5299-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jctb5299-cit-0040">
+<string-name>
+<surname>Carroll</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Slupsky</surname>
+<given-names>J</given-names>
+</string-name> and <string-name>
+<surname>Mather</surname>
+<given-names>A</given-names>
+</string-name>, <article-title>The solubility of carbon dioxide in water at low pressure</article-title>. <source>J Phys Chem Ref Data</source>
+<volume>20</volume>:<fpage>1201</fpage>&#x02013;<lpage>1209</lpage> (<year>1991</year>).</mixed-citation></ref><ref id="jctb5299-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jctb5299-cit-0041">
+<string-name>
+<surname>Heipieper</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Keweloh</surname>
+<given-names>H</given-names>
+</string-name> and <string-name>
+<surname>Rehm</surname>
+<given-names>HJ</given-names>
+</string-name>, <article-title>Influence of phenols on growth and membrane&#x02010;permeability of free and immobilized <italic>Escherichia coli</italic>
+</article-title>. <source>Appl Environ Microbiol</source>
+<volume>57</volume>):<fpage>1213</fpage>&#x02013;<lpage>1217</lpage> (<year>1991</year>).<pub-id pub-id-type="pmid">2059043</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jctb5299-cit-0042">
+<string-name>
+<surname>Heipieper</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Sikkema</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Keweloh</surname>
+<given-names>H</given-names>
+</string-name> and <string-name>
+<surname>De Bont</surname>
+<given-names>JAM</given-names>
+</string-name>, <article-title>Mechanisms of resistance of whole cells to toxic organic solvents</article-title>. <source>Trends Biotechnol</source>
+<volume>12</volume>:<fpage>409</fpage>&#x02013;<lpage>415</lpage> (<year>1994</year>).</mixed-citation></ref><ref id="jctb5299-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jctb5299-cit-0043">
+<string-name>
+<surname>Ingram</surname>
+<given-names>LO</given-names>
+</string-name>, <article-title>Adaption of membrane lipids to alcohols</article-title>. <source>J Bacteriol</source>
+<volume>125</volume>:<fpage>670</fpage>&#x02013;<lpage>678</lpage> (<year>1976</year>).<pub-id pub-id-type="pmid">1107328</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jctb5299-cit-0044">
+<string-name>
+<surname>Ingram</surname>
+<given-names>LO</given-names>
+</string-name>, <article-title>Changes in lipid composition of <italic>Escherichia coli</italic> resulting from growth with organic solvents and with food changes in lipid composition of <italic>Escherichia coli</italic> resulting from growth with organic solvents and with food additives</article-title>. <source>Microbiology</source>
+<volume>33</volume>:<fpage>1233</fpage>&#x02013;<lpage>1236</lpage> (<year>1977</year>).</mixed-citation></ref><ref id="jctb5299-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jctb5299-cit-0045">
+<string-name>
+<surname>Heipieper</surname>
+<given-names>HJ</given-names>
+</string-name> and <string-name>
+<surname>Meulenbeld</surname>
+<given-names>G</given-names>
+</string-name>, <article-title>Effect of environmental factors on the trans / cis ratio of unsaturated fatty acids in <italic>Pseudomonas putida</italic> S12</article-title>. <source>Appl Environ Microbiol</source>
+<volume>62</volume>:<fpage>2773</fpage>&#x02013;<lpage>2777</lpage> (<year>1996</year>).<pub-id pub-id-type="pmid">16535373</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jctb5299-cit-0046">
+<string-name>
+<surname>Mejia</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name>
+<surname>Gomez&#x02010;Eichelmann</surname>
+<given-names>MC</given-names>
+</string-name> and <string-name>
+<surname>Fernandez</surname>
+<given-names>MS</given-names>
+</string-name>, <article-title>Fatty acid profile of <italic>Escherichia coli</italic> during the heat shock response</article-title>. <source>Biochem Molec Biol Int</source>
+<volume>47</volume>:<fpage>835</fpage>&#x02013;<lpage>844</lpage> (<year>1999</year>).<pub-id pub-id-type="pmid">10365254</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jctb5299-cit-0047">
+<string-name>
+<surname>Boylan</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Redfield</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Brody</surname>
+<given-names>MS</given-names>
+</string-name> and <string-name>
+<surname>Price</surname>
+<given-names>CW</given-names>
+</string-name>, <article-title>Stress&#x02010;induced activation of the sigma B transcription factor of <italic>Bacillus subtilis</italic>
+</article-title>. <source>J Bacteriol</source>
+<volume>175</volume>:<fpage>7931</fpage>&#x02013;<lpage>7937</lpage> (<year>1993</year>).<pub-id pub-id-type="pmid">8253681</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jctb5299-cit-0048">
+<string-name>
+<surname>Vanbogelen</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Kelley</surname>
+<given-names>PM</given-names>
+</string-name> and <string-name>
+<surname>Neidhardt</surname>
+<given-names>FC</given-names>
+</string-name>, <article-title>Differential induction of heat shock, SOS, and oxidation stress regulons and accumulation of nucleotides in <italic>Escherichia coli</italic>
+</article-title>. <source>J Bacteriol</source>
+<volume>169</volume>:<fpage>26</fpage>&#x02013;<lpage>32</lpage> (<year>1987</year>).<pub-id pub-id-type="pmid">3539918</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jctb5299-cit-0049">
+<string-name>
+<surname>Watson</surname>
+<given-names>K</given-names>
+</string-name>, <article-title>Microbial stress proteins</article-title>. <source>Adv Microbiol Physiol</source>
+<volume>31</volume>:<fpage>184</fpage>&#x02013;<lpage>223</lpage> (<year>1990</year>).</mixed-citation></ref><ref id="jctb5299-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jctb5299-cit-0050">
+<string-name>
+<surname>Park</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Oh</surname>
+<given-names>KH</given-names>
+</string-name> and <string-name>
+<surname>Kim</surname>
+<given-names>CK</given-names>
+</string-name>, <article-title>Adaptive and cross&#x02010;protective responses of <italic>Pseudomonas</italic> sp. DJ&#x02010;12 to several aromatics and other stress shocks</article-title>. <source>Current Microbiol</source>
+<volume>43</volume>:<fpage>176</fpage>&#x02013;<lpage>181</lpage> (<year>2001</year>).<pub-id pub-id-type="pmid">11400066</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jctb5299-cit-0051">
+<string-name>
+<surname>Mrozik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Piotrowska&#x02010;Seget</surname>
+<given-names>Z</given-names>
+</string-name> and <string-name>
+<surname>&#x00141;abuzek</surname>
+<given-names>S</given-names>
+</string-name>, <article-title>Cytoplasmatic bacterial membrane responses to environmental perturbations</article-title>. <source>Polish J Environ Studies</source>
+<volume>13</volume>:<fpage>487</fpage>&#x02013;<lpage>494</lpage>(<year>2004</year>).</mixed-citation></ref><ref id="jctb5299-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jctb5299-cit-0052">
+<string-name>
+<surname>Ingram</surname>
+<given-names>LO</given-names>
+</string-name>, <article-title>Microbial tolerance to alcohols: role of the cell membrane</article-title>. <source>Trends Biotechnol</source>
+<volume>4</volume>:<fpage>40</fpage>&#x02013;<lpage>44</lpage> (<year>1986</year>).</mixed-citation></ref><ref id="jctb5299-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jctb5299-cit-0053">
+<string-name>
+<surname>Hallsworth</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Heim</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Timmis</surname>
+<given-names>KN</given-names>
+</string-name>, <article-title>Chaotropic solutes cause water stress in <italic>Pseudomonas putida</italic>
+</article-title>. <source>Environ Microbiol</source>
+<volume>5</volume>:<fpage>1270</fpage>&#x02013;<lpage>1280</lpage> (<year>2003</year>).<pub-id pub-id-type="pmid">14641573</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jctb5299-cit-0054">
+<string-name>
+<surname>Mansure</surname>
+<given-names>JJC</given-names>
+</string-name>, <string-name>
+<surname>Panek</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Crowe</surname>
+<given-names>LM</given-names>
+</string-name> and <string-name>
+<surname>Crowe</surname>
+<given-names>JH</given-names>
+</string-name>, <article-title>Trehalose inhibits ethanol effects on intact yeast cells and liposomes</article-title>. <source>Biochimica Biophysica Acta &#x02010; Biomembranes</source>
+<volume>1191</volume>:<fpage>309</fpage>&#x02013;<lpage>316</lpage> (<year>1994</year>).</mixed-citation></ref><ref id="jctb5299-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jctb5299-cit-0055">
+<string-name>
+<surname>Shah</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>TP</given-names>
+</string-name> and <string-name>
+<surname>Mitra</surname>
+<given-names>AK</given-names>
+</string-name>, <article-title>Thermodynamic parameters associated with guanidine HCl&#x02010; and temperature&#x02010;induced unfolding of <italic>bFGF</italic>
+</article-title>. <source>Int J Pharmaceut</source>
+<volume>169</volume>:<fpage>1</fpage>&#x02013;<lpage>14</lpage> (<year>1998</year>).</mixed-citation></ref><ref id="jctb5299-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jctb5299-cit-0056">
+<string-name>
+<surname>Cray</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Stevenson</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ball</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bankar</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Eleutherio</surname>
+<given-names>ECA</given-names>
+</string-name>, <string-name>
+<surname>Ezej</surname>
+<given-names>TC</given-names>
+</string-name>
+<italic>et al</italic>, <article-title>Chaotropicity: a key factor in product tolerance of biofuel&#x02010;producing microorganisms</article-title>. <source>Current Opin Biotechnol</source>
+<volume>33</volume>:<fpage>228</fpage>&#x02013;<lpage>259</lpage> (<year>2015</year>).</mixed-citation></ref><ref id="jctb5299-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jctb5299-cit-0057">
+<string-name>
+<surname>Spilimbergo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Elvassore</surname>
+<given-names>N</given-names>
+</string-name> and <string-name>
+<surname>Bertucco</surname>
+<given-names>A</given-names>
+</string-name>, <article-title>Microbial inactivation by high&#x02010;pressure</article-title>. <source>J Supercrit Fluids</source>
+<volume>22</volume>:<fpage>55</fpage>&#x02013;<lpage>63</lpage> (<year>2002</year>).</mixed-citation></ref><ref id="jctb5299-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jctb5299-cit-0058">
+<string-name>
+<surname>Kobayashi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ikeura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Odake</surname>
+<given-names>S</given-names>
+</string-name> and <string-name>
+<surname>Hayata</surname>
+<given-names>Y</given-names>
+</string-name>, <article-title>Inactivation of <italic>Saccharomyces cerevisiae</italic> by equipment pressurizing at&#x02009;ambient temperature after generating CO<sub>2</sub> microbubbles at lower temperature and pressure</article-title>. <source>LWT &#x02010; Food Sci Technol</source>
+<volume>56</volume>:<fpage>543</fpage>&#x02013;<lpage>547</lpage> (<year>2014</year>).</mixed-citation></ref><ref id="jctb5299-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jctb5299-cit-0059">
+<string-name>
+<surname>Darani</surname>
+<given-names>K</given-names>
+</string-name> and <string-name>
+<surname>Mozafari</surname>
+<given-names>MR</given-names>
+</string-name>, <article-title>Supercritical fluids technology in bioprocess industries: a review</article-title>. <source>J Biochem Technol</source>
+<volume>2</volume>:<fpage>144</fpage>&#x02013;<lpage>152</lpage> (<year>2010</year>).</mixed-citation></ref><ref id="jctb5299-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jctb5299-cit-0060">
+<string-name>
+<surname>Fraser</surname>
+<given-names>D</given-names>
+</string-name>, <article-title>Bursting bacteria by release of gas pressure</article-title>. <source>Nature</source>
+<volume>167</volume>:<fpage>33</fpage>&#x02013;<lpage>34</lpage> (<year>1951</year>).<pub-id pub-id-type="pmid">14796728</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0061"><label>61</label><mixed-citation publication-type="miscellaneous" id="jctb5299-cit-0061">
+<string-name>
+<surname>Lin</surname>
+<given-names>H</given-names>
+</string-name> and <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <article-title>Method for recovery of intracellular material by disruption of microbial cells with carbon dioxide under pressure</article-title>. US patent 5306637, West Lafayette, Ind., Indiana (<year>1994</year>).</mixed-citation></ref><ref id="jctb5299-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jctb5299-cit-0062">
+<string-name>
+<surname>D&#x000ed;aaz&#x02010;Reinoso</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Moure</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Domi&#x000e4;nguez</surname>
+<given-names>H</given-names>
+</string-name> and <string-name>
+<surname>Parajo&#x000e4;</surname>
+<given-names>JC</given-names>
+</string-name>, <article-title>Supercritical CO<sub>2</sub> extraction and purification of compounds with antioxidant activity</article-title>. <source>J Agric Food Chem</source>
+<volume>54</volume>:<fpage>2441</fpage>&#x02013;<lpage>2469</lpage> (<year>2006</year>).<pub-id pub-id-type="pmid">16569029</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jctb5299-cit-0063">
+<string-name>
+<surname>Bossier</surname>
+<given-names>PA</given-names>
+</string-name> and <string-name>
+<surname>Verstraete</surname>
+<given-names>W</given-names>
+</string-name>, <article-title>Triggers for microbial aggregation in activated sludge?</article-title>
+<source>Appl Microbiol Biotechnol</source>
+<volume>45</volume>:<fpage>1</fpage>&#x02013;<lpage>6</lpage> (<year>1996</year>).</mixed-citation></ref><ref id="jctb5299-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jctb5299-cit-0064">
+<string-name>
+<surname>McFeters</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Egli</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wilberg</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Suozz</surname>
+<given-names>M</given-names>
+</string-name> and <string-name>
+<surname>Giger</surname>
+<given-names>W</given-names>
+</string-name>, <article-title>Activity and adaptation of nitrilotriacetate (NTA)&#x02010;degrading bacteria: field and laboratory studies</article-title>. <source>Water Res</source>
+<volume>24</volume>:<fpage>875</fpage>&#x02013;<lpage>881</lpage> (<year>1990</year>).<pub-id pub-id-type="pmid">11537560</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="jctb5299-cit-0065">
+<string-name>
+<surname>Costerton</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Cheng</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Greesy</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Ladd</surname>
+<given-names>TI</given-names>
+</string-name>, <string-name>
+<surname>Nickel</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Dasgupta</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et al</italic>, <article-title>Bacterial biofilms in nature and disease</article-title>. <source>Annu Rev Microbiol</source>
+<volume>41</volume>:<fpage>435</fpage>&#x02013;<lpage>464</lpage> (<year>1987</year>).<pub-id pub-id-type="pmid">3318676</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="jctb5299-cit-0066">
+<string-name>
+<surname>Giwercman</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Jensen</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Hoiby</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kharazmi</surname>
+<given-names>A</given-names>
+</string-name> and <string-name>
+<surname>Costerton</surname>
+<given-names>W</given-names>
+</string-name>, <article-title>Induction of beta&#x02010;lactamase production in <italic>Pseudomonas aeruginosa</italic> biofilm</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>35</volume>:<fpage>1008</fpage>&#x02013;<lpage>1010</lpage> (<year>1991</year>).<pub-id pub-id-type="pmid">1906694</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="jctb5299-cit-0067">
+<string-name>
+<surname>Anwar</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Strap</surname>
+<given-names>JL</given-names>
+</string-name> and <string-name>
+<surname>Costerton</surname>
+<given-names>JW</given-names>
+</string-name>, <article-title>Establishment of aging biofilms: possible mechanism of bacterial resistance to antimicrobial therapy</article-title>. <source>Antimicrob Agents Chemother</source>
+<volume>36</volume>:<fpage>1347</fpage>&#x02013;<lpage>1351</lpage> (<year>1992</year>).<pub-id pub-id-type="pmid">1510427</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="jctb5299-cit-0068">
+<string-name>
+<surname>Fakhruddin</surname>
+<given-names>ANM</given-names>
+</string-name> and <string-name>
+<surname>Quilty</surname>
+<given-names>B</given-names>
+</string-name>, <article-title>The response of <italic>Pseudomonas putida</italic> CP1 cells to nutritional, chemical and environmental stresses</article-title>. <source>World J Microbiol Biotechnol</source>
+<volume>22</volume>:<fpage>507</fpage>&#x02013;<lpage>514</lpage> (<year>2006</year>).</mixed-citation></ref><ref id="jctb5299-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="jctb5299-cit-0069">
+<string-name>
+<surname>Novitsky</surname>
+<given-names>JA</given-names>
+</string-name> and <string-name>
+<surname>Morita</surname>
+<given-names>RY</given-names>
+</string-name>, <article-title>Morphological characterization of small cells resulting from nutrient starvation in a psychrophilic marine <italic>Vibrio</italic>
+</article-title>. <source>Appl Environ Microbiol</source>
+<volume>32</volume>:<fpage>619</fpage>&#x02013;<lpage>622</lpage> (<year>1976</year>).</mixed-citation></ref><ref id="jctb5299-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="jctb5299-cit-0070">
+<string-name>
+<surname>Amy</surname>
+<given-names>PS</given-names>
+</string-name> and <string-name>
+<surname>Morita</surname>
+<given-names>RY</given-names>
+</string-name>, <article-title>Starvation&#x02010;survival patterns of sixteen freshly isolated open&#x02010;ocean bacteria</article-title>. <source>Appl Environ Microbiol</source>
+<volume>45</volume>:<fpage>1109</fpage>&#x02013;<lpage>1115</lpage> (<year>1983</year>).<pub-id pub-id-type="pmid">16346231</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="jctb5299-cit-0071">
+<string-name>
+<surname>Givskov</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Eberl</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Moller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Poulsen</surname>
+<given-names>LK</given-names>
+</string-name> and <string-name>
+<surname>Molin</surname>
+<given-names>S</given-names>
+</string-name>, <article-title>Responses to nutrient starvation in <italic>Pseudomonas&#x02010;Putida</italic> Kt2442&#x000a0;&#x02013;&#x000a0;analysis of general cross&#x02010;protection, cell&#x02010;shape and macromolecular content</article-title>. <source>J Bacteriol</source>
+<volume>176</volume>:<fpage>7</fpage>&#x02013;<lpage>14</lpage> (<year>1994</year>).<pub-id pub-id-type="pmid">8282712</pub-id></mixed-citation></ref><ref id="jctb5299-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="jctb5299-cit-0072">
+<string-name>
+<surname>Mueller</surname>
+<given-names>RF</given-names>
+</string-name>, <article-title>Bacterial transport and colonization in low nutrient environments</article-title>. <source>Water Res</source>
+<volume>30</volume>:<fpage>2681</fpage>&#x02013;<lpage>2690</lpage> (<year>1996</year>).</mixed-citation></ref><ref id="jctb5299-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="jctb5299-cit-0073">
+<string-name>
+<surname>Makarov</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Dorofeev</surname>
+<given-names>AG</given-names>
+</string-name> and <string-name>
+<surname>Panikov</surname>
+<given-names>NS</given-names>
+</string-name>, <article-title>Cell shape and size of starving microorganisms as determined by computer image analysis</article-title>. <source>Microbiology</source>
+<volume>67</volume>:<fpage>264</fpage>&#x02013;<lpage>273</lpage> (<year>1998</year>).</mixed-citation></ref><ref id="jctb5299-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="jctb5299-cit-0074">
+<string-name>
+<surname>Sanin</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Sanin</surname>
+<given-names>FD</given-names>
+</string-name> and <string-name>
+<surname>Bryers</surname>
+<given-names>JD</given-names>
+</string-name>, <article-title>Effect of starvation on the adhesive properties of xenobiotic&#x02010;degrading bacteria</article-title>. <source>Process Biochem</source>
+<volume>38</volume>:<fpage>909</fpage>&#x02013;<lpage>914</lpage> (<year>2003</year>).</mixed-citation></ref><ref id="jctb5299-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="jctb5299-cit-0075">
+<string-name>
+<surname>Hong</surname>
+<given-names>SI</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>WS</given-names>
+</string-name> and <string-name>
+<surname>Pyun</surname>
+<given-names>YR</given-names>
+</string-name>, <article-title>Inactivation of <italic>Lactobacillus</italic> sp. from Kimchi by high&#x02010;pressure carbon dioxide</article-title>. <source>Food Sci Technol</source>
+<volume>30</volume>:<fpage>681</fpage>&#x02013;<lpage>685</lpage> (<year>1997</year>).</mixed-citation></ref><ref id="jctb5299-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="jctb5299-cit-0076">
+<string-name>
+<surname>Le&#x000e3;o</surname>
+<given-names>C</given-names>
+</string-name> and <string-name>
+<surname>Van Uden</surname>
+<given-names>N</given-names>
+</string-name>, <article-title>Effects of ethanol and other alkanols on passive proton influx in the yeast <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source>Biochimica Biophysica Acta</source>
+<volume>774</volume>:<fpage>43</fpage>&#x02013;<lpage>48</lpage> (<year>1984</year>).</mixed-citation></ref><ref id="jctb5299-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="jctb5299-cit-0077">
+<string-name>
+<surname>Cartwright</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Jurosze</surname>
+<given-names>J&#x02010;R</given-names>
+</string-name>, <string-name>
+<surname>Beavan</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ruby</surname>
+<given-names>FMS</given-names>
+</string-name> and <string-name>
+<surname>De Moraisi</surname>
+<given-names>SMF</given-names>
+</string-name>, <article-title>Ethanol dissipates the proton&#x02010;motive force across the plasma membrane of <italic>Saccharomyces cerevisiae</italic>
+</article-title>. <source>Microbiology</source>
+<volume>132</volume>:<fpage>369</fpage>&#x02013;<lpage>377</lpage> (<year>1986</year>).</mixed-citation></ref><ref id="jctb5299-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="jctb5299-cit-0078">
+<string-name>
+<surname>Sikkema</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>de Bont</surname>
+<given-names>JA</given-names>
+</string-name> and <string-name>
+<surname>Poolman</surname>
+<given-names>B</given-names>
+</string-name>, <article-title>Mechanisms of membrane toxicity of hydrocarbons</article-title>. <source>Microbiol Rev</source>
+<volume>59</volume>:<fpage>201</fpage>&#x02013;<lpage>222</lpage> (<year>1995</year>).<pub-id pub-id-type="pmid">7603409</pub-id></mixed-citation></ref></ref-list></back></article>

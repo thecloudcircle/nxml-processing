@@ -1,0 +1,1422 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="other"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Struct Dyn</journal-id><journal-id journal-id-type="iso-abbrev">Struct Dyn</journal-id><journal-id journal-id-type="coden">SDTYAE</journal-id><journal-title-group><journal-title>Structural Dynamics</journal-title></journal-title-group><issn pub-type="epub">2329-7778</issn><publisher><publisher-name>American Crystallographic Association</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27376102</article-id><article-id pub-id-type="pmc">4902826</article-id><article-id pub-id-type="doi">10.1063/1.4953104</article-id><article-id pub-id-type="publisher-id">1.4953104</article-id><article-id pub-id-type="publisher-id">007603SDY</article-id><article-id pub-id-type="publisher-manuscript">SD-PP16-00024R</article-id><article-categories><subj-group subj-group-type="heading"><subject>Perspectives (Contributed)</subject></subj-group></article-categories><title-group><article-title>Time-resolved X-ray spectroscopies of chemical systems: New perspectives</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chergui</surname><given-names>Majed</given-names></name></contrib><aff><institution>Laboratoire de Spectroscopie Ultrarapide (LSU) and Lausanne Centre for Ultrafast Science (LACUS)</institution>, ISIC-FSB, Ecole Polytechnique F&#x000e9;d&#x000e9;rale de Lausanne, 1015 Lausanne, <country>Switzerland</country></aff></contrib-group><pub-date pub-type="epub"><day>31</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2016</year></pub-date><pub-date pub-type="pmc-release"><day>31</day><month>5</month><year>2016</year></pub-date><!--PMC Release delay is 0 months and 0 days and was based on the epub date.--><volume>3</volume><issue>3</issue><elocation-id seq="1">031001</elocation-id><history><date date-type="received"><day>18</day><month>4</month><year>2016</year></date><date date-type="accepted"><day>16</day><month>5</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 Author(s).</copyright-statement><copyright-year>2016</copyright-year><copyright-holder>Author(s)</copyright-holder><license license-type="ccc"><license-p>2329-7778/2016/3(3)/000000/12</license-p></license><license license-type="free"><license-p>All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The past 3&#x02013;5 years have witnessed a dramatic increase in the number of time-resolved X-ray spectroscopic studies, mainly driven by novel technical and methodological developments. The latter include (i) the high repetition rate optical pump/X-ray probe studies, which have greatly boosted the signal-to-noise ratio for picosecond (ps) X-ray absorption spectroscopy studies, while enabling ps X-ray emission spectroscopy (XES) at synchrotrons; (ii) the X-ray free electron lasers (XFELs) are a game changer and have allowed the first femtosecond (fs) XES and resonant inelastic X-ray scattering experiments to be carried out; (iii) XFELs are also opening the road to the development of non-linear X-ray methods. In this perspective, I will mainly focus on the most recent technical developments and briefly address some examples of scientific questions that have been addressed thanks to them. I will look at the novel opportunities in the horizon.</p></abstract><counts><page-count count="12"/></counts><custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta></front><body><sec id="s1"><title>INTRODUCTION</title><p>The field of time-resolved (picosecond and femtosecond) X-ray spectroscopies has witnessed an impressive growth over the past 10 years, thanks to the development of new methods and to the commissioning of new light sources. The field has been regularly reviewed in recent years,<xref rid="c1" ref-type="bibr"><sup>1&#x02013;8</sup></xref> covering various aspects of the technical and scientific issues tackled by X-ray spectroscopy. However, the past 3 years have been rich in new developments both at synchrotrons and at X-ray Free Electron Lasers (XFELs).</p><p>For synchrotrons, the most important development has been the implementation<xref rid="c9" ref-type="bibr"><sup>9</sup></xref> of the high repetition rate scheme for optical pump/X-ray probe studies at synchrotrons. This not only brought about a significant increase in signal to noise (S/N) ratio for ps X-ray absorption spectroscopy (XAS) experiments,<xref rid="c9" ref-type="bibr"><sup>9</sup></xref> compared to the previous generation of 1 kHz experiment,<xref rid="c10" ref-type="bibr"><sup>10&#x02013;16</sup></xref> but it also opened the door to ps X-ray emission studies, thanks to the sampling of weak emission signals.<xref rid="c17" ref-type="bibr"><sup>17&#x02013;19</sup></xref> Finally, it has also been extended to time resolved X-ray photoelectron spectroscopy (XPS) studies.<xref rid="c20" ref-type="bibr"><sup>20&#x02013;24</sup></xref></p><p>With the advent of XFELs, we have witnessed a significant improvement in time resolution (typical pulse widths of &#x0003c;100 fs), matched with a several orders of magnitude increase in a photon flux per pulse compared to synchrotrons, especially to the slicing scheme.<xref rid="c25" ref-type="bibr"><sup>25&#x02013;28</sup></xref> These two aspects make XFELs a game changer for time-resolved X-ray spectroscopies. Aside from enabling fs XAS to be carried out with reasonable data acquisition times,<xref rid="c29" ref-type="bibr"><sup>29</sup></xref> they have made it possible to perform fs photon-in/photon-out experiments such as X-ray emission (XES)<xref rid="c30" ref-type="bibr"><sup>30,31</sup></xref> and resonant inelastic X-ray scattering (RIXS)<xref rid="c32" ref-type="bibr"><sup>32,33</sup></xref> studies, especially on dilute systems. It is important to stress that these latter classes of fs experiments can only be carried out at XFELs, making these instruments unique. The first short wavelength FEL to be built was FLASH at DESY (Hamburg, Germany) in 2005, which provided vacuum ultraviolet (VUV) and soft X-ray radiation.<xref rid="c34" ref-type="bibr"><sup>34</sup></xref> The first hard X-ray free electron laser Linac Coherent Light Source (LCLS) in the USA (Stanford) was launched in 2009, followed by the X-ray Ultraviolet (XUV)-FEL FERMI in Italy (Trieste)<xref rid="c35" ref-type="bibr"><sup>35&#x02013;40</sup></xref> and the hard X&#x02013;ray FEL SACLA in Japan,<xref rid="c41" ref-type="bibr"><sup>41&#x02013;46</sup></xref> enabling many more studies to be carried on such instruments. In particular, the seeded FERMI XUV-FEL is the only true laser-like source and for that reason, it is blazing the trail to the implementation of non-linear X-ray optical techniques such as Four-wave mixing studies.<xref rid="c47" ref-type="bibr"><sup>47&#x02013;49</sup></xref> In the following, we will briefly review the technical developments of the past 3&#x02013;5 years and mention the new scientific problems that have been solved thanks to them. This will serve as a basis for discussing the new opportunities that are on the horizon both at synchrotrons and at XFELs.</p></sec><sec id="s2"><title>THE HIGH REPETITION RATE SCHEME</title><p>We previously reviewed the foregoing efforts aimed at exploiting nearly each X-ray pulses from synchrotrons, which usually run at MHz repetition rates, in order to increase the signal to noise ratio in time resolved X-ray experiments.<xref rid="c1" ref-type="bibr"><sup>1</sup></xref> After a number of earlier attempts that were not pursued,<xref rid="c20" ref-type="bibr"><sup>20,50</sup></xref> we implemented a high repetition rate scheme, with a specially designed data acquisition system at the Swiss Light Source (PSI Villigen), for studies of low concentration solution samples, especially proteins in physiological media. By using a ps high average power Nd:YLF laser (Duetto, TimeBandwidth Products) running at 520&#x02009;kHz, while the hybrid pulses are delivered at 1.04&#x02009;MHz at the Swiss Light Source (SLS), our group demonstrated an increase by a factor of &#x0223c;25 of the signal to noise ratio (S/N) per scan on a model spin cross-over (SCO) complex, [Fe(bpy)<sub>3</sub>]<sup>2+</sup> in an aqueous solution with, as a consequence, greatly reduced data acquisition times and the ability to decrease the concentration of probed species to the mMol range.<xref rid="c9" ref-type="bibr"><sup>9</sup></xref> This development was followed by similar ones at the APS, where a high-repetition rate XAS setup was implemented at the 7-ID-D beam line, using the same pump laser as at the SLS.<xref rid="c51" ref-type="bibr"><sup>51</sup></xref> At Elettra (Trieste, Italy), a high-repetition rate scheme was implemented at the BACH beamline, which covers the energy range of 46&#x02013;1600&#x02009;eV with a full polarization control (linear horizontal and vertical, and circular clockwise and counter-clockwise).<xref rid="c21" ref-type="bibr"><sup>21</sup></xref> The laser sources used are a Coherent RegA9000 Ti:Sa amplified system that can operate at repetition rates ranging from 200 to 250&#x02009;kHz with a pulse energy of 5 <italic>&#x003bc;</italic>J and 100 fs pulse duration, or a Coherent Mira HP, which can operate at repetition rates of 0.01&#x02013;5&#x02009;MHz or at 83.3&#x02009;MHz with a pulse energy of 25 nJ and a pulse duration of 100 fs at 800 or 400&#x02009;nm. More recently, Gessner and co-workers have also implemented such a scheme at the ALS (Berkeley) for ps photoemission studies.<xref rid="c23" ref-type="bibr"><sup>23,24</sup></xref></p><p>These capabilities have allowed a certain number of experiments to be performed either with the much improved S/N compared to the previous generation of 1&#x02009;kHz experiments,<xref rid="c52" ref-type="bibr"><sup>52,53</sup></xref> or importantly new experiments that could not be done before with the latter scheme.</p><sec id="s2A"><title>Picosecond XAS</title><p>A new series of measurements were performed on metal complexes such as rhenium,<xref rid="c54" ref-type="bibr"><sup>54</sup></xref> copper,<xref rid="c55" ref-type="bibr"><sup>55</sup></xref> and iron complexes<xref rid="c56" ref-type="bibr"><sup>56</sup></xref> in a solution, yielding clear signatures of the photoinduced electronic and structural changes. The technique was extended to the study of transition metal oxides, such as Titanium dioxide (TiO<sub>2</sub>) nanoparticles, both bare (under above band gap UV excitation) and sensitized by ruthenium dyes (under below band gap excitation).<xref rid="c57" ref-type="bibr"><sup>57</sup></xref> These latter experiment delivered a great insight into the nature of the Ti centred trapping sites where part of the electrons delivered to the conduction band (CB) end up. In particular, we could distinguish between the electron traps due to charge injection (at the outer surface) as opposed to those (deep inside the surface shell) transferred from the valence band by UV excitation (Figure <xref ref-type="fig" rid="f1">1</xref>). Ps XAS at high repetition rate studies have in the meantime been extended to other transition metal oxides, such as ZnO<xref rid="c58" ref-type="bibr"><sup>58</sup></xref> and WO<sub>3</sub>.<xref rid="c59" ref-type="bibr"><sup>59</sup></xref> Charge injection was also reported in the case of TiO<sub>2</sub> sensitized by gold nanoparticles, but the laser and synchrotron sources were used as continuous sources and differences were taken between laser-on and laser-off RIXS spectra.<xref rid="c60" ref-type="bibr"><sup>60</sup></xref></p><p>One of our main aims in implementing the high repetition rate was to perform studies on low concentration samples such as proteins in physiological media.<xref rid="c9" ref-type="bibr"><sup>9</sup></xref> This goal was reached in a recent study of the NO ligand recombination to Myoglobin by ps Fe K-edge absorption (Figure <xref ref-type="fig" rid="f2">2</xref>),<xref rid="c61" ref-type="bibr"><sup>61</sup></xref> where we clearly established that the long-time component (&#x0223c;200 ps) is due to diffusion of the NO ligand through the protein, during which the heme remains domed.</p></sec><sec id="s2B"><title>Picosecond XES</title><p>As already mentioned, the high repetition rate scheme has enabled ps XES experiments to be performed routinely. While a first experiment had been performed using a 1 KHz set-up,<xref rid="c17" ref-type="bibr"><sup>17</sup></xref> its S/N was very poor. At high repetition rates, the quality of signals improves significantly<xref rid="c18" ref-type="bibr"><sup>18,62,63</sup></xref> and the recent studies on Fe-complexes are opening very promising prospects, especially when it comes to detecting the weak valence-to-core emissions, which contain information about the chemical bond.<xref rid="c19" ref-type="bibr"><sup>19,64</sup></xref> The Ps-XES studies have also been successfully demonstrated on photoexcited transition metal oxides such as ZnO.<xref rid="c58" ref-type="bibr"><sup>58</sup></xref></p><p>Because XES uses a fixed incident X-ray energy, it can simultaneously be combined with X-ray scattering, so that in addition to spin and electronic structure, one can probe the structural evolution of the system under study. This was nicely demonstrated by Bressler <italic>et al</italic>. in the ps time domain<xref rid="c19" ref-type="bibr"><sup>19,62,63</sup></xref> and has been extended to the fs time domain, as discussed below.</p></sec></sec><sec id="s3"><title>X-RAY FREE ELECTRON LASERS</title><p>Until the advent of the XFEL, tuneable femtosecond X-ray pulses were only available at third-generation light source with a laser-electron slicing facility.<xref rid="c25" ref-type="bibr"><sup>25&#x02013;28,65</sup></xref> This scheme was successfully used in the hard X-ray range to probe the ultrafast SCO in Fe(II) polypyridine complexes,<xref rid="c66" ref-type="bibr"><sup>66</sup></xref> and the changes of the solvent shell upon a photoinduced transition from a hydrophilic to a hydrophobic solvation.<xref rid="c67" ref-type="bibr"><sup>67</sup></xref> Using the slicing scheme with a UV pump, the first fs XAS experiments on transition metal oxides were carried out, showing that the CB electrons are trapped within 300 fs, reducing the Ti<sup>4+</sup> ions to Ti<sup>3+</sup>.<xref rid="c68" ref-type="bibr"><sup>68</sup></xref> In the soft X-ray range, the slicing scheme was first used on materials probing the electronic rearrangements upon the photoinduced insulator-metal phase transition in VO<sub>2</sub>.<xref rid="c69" ref-type="bibr"><sup>69</sup></xref> Huse and co-workers implemented fs XAS of liquid solutions to investigate the SCO process in Fe(II)-polypyridine complexes at the Fe L-edges<xref rid="c70" ref-type="bibr"><sup>70</sup></xref> and the N K-edge.<xref rid="c71" ref-type="bibr"><sup>71</sup></xref></p><p>The hard X-ray FEL LCLS at SLAC (Stanford)<xref rid="c72" ref-type="bibr"><sup>72,73</sup></xref> generates 10<sup>12</sup> hard X-ray photons per pulse at a repetition rate of 120&#x02009;Hz, with a pulse duration &#x0003c;100 fs. Along with the SACLA facility (Japan),<xref rid="c74" ref-type="bibr"><sup>74</sup></xref> they have proved excellent sources for performing time-resolved X-ray experiments and single-shot structural studies.</p><p>Because of the inherent instability in both the photon energy, the pulse energy, and the pulse arrival time of these sources, which introduces a serious jitter, it was not straightforward to perform time-resolved XAS measurements<xref rid="c29" ref-type="bibr"><sup>29</sup></xref> with a resolution comparable to that of the slicing experiments, typically &#x0003c;200 fs.<xref rid="c66" ref-type="bibr"><sup>66</sup></xref> In the meantime, LCLS introduced a number of improvements, in terms of photon energy stability through a hard X-ray self-seeding<xref rid="c75" ref-type="bibr"><sup>75</sup></xref> to the timing jitter between the laser pump and X-ray probe pulses.<xref rid="c76" ref-type="bibr"><sup>76,77</sup></xref> The LCLS &#x0201c;timing tool,&#x0201d;<xref rid="c29" ref-type="bibr"><sup>29,78</sup></xref> which measures the timing jitter between the laser and the X-rays is such that the effective jitter is now &#x0223c;10 fs between optical and X-ray pulses, which is significantly shorter than the intrinsic uncorrected shot-to-shot time jitter (&#x0223c;300 fs). At SACLA, Katayama <italic>et al.</italic><xref rid="c79" ref-type="bibr"><sup>79</sup></xref> demonstrated the applicability of a beam branching scheme for photon diagnostics under a quasi non-invasive conditions. They used a transmission grating to generate multiple branches of X-ray beams. One of the two primary diffracted branches (+1st-order) was utilized for spectroscopy in a dispersive scheme, while the other (&#x02212;1st-order) was dedicated for arrival timing diagnostics between the XFEL and the optical laser pulses. The transmitted X-ray beam (0th-order) was guided to an experimental station. They measured the correlation between the arrival timings of the &#x02212;1st and 0th branches and found an error as small as 7.0 fs root-mean-square. These improvements notwithstanding, the main contribution to the overall time resolution in ultrafast X-ray spectroscopic measurements (typically &#x0223c;125 fs) at XFELs remain however the velocity mismatch of the optical and X-ray beams through the sample.<xref rid="c80" ref-type="bibr"><sup>80</sup></xref></p><p>The ability to now probe systems with a resolution of approximately 100 fs matched with the very high X-ray photon fluxes per pulse have led to an upsurge of several new experimental breakthroughs, which we briefly summarize here.</p><sec id="s3A"><title>Femtosecond XAS</title><p>We already mentioned the very first fs XAS experiment at an XFEL by Lemke <italic>et al.</italic><xref rid="c29" ref-type="bibr"><sup>29</sup></xref> on an aqueous solution of [Fe(bpy)<sub>3</sub>]<sup>2+</sup>. More recently, and thanks to the above improvements in time resolution, Lemke <italic>et al.</italic><xref rid="c81" ref-type="bibr"><sup>81</sup></xref> managed to resolve, for the first time, coherent wave packet oscillations induced by the impulsive spin cross-over transition, in agreement with the previous optical-only studies.<xref rid="c82" ref-type="bibr"><sup>82,83</sup></xref> This important achievement opens the door to similar highly insightful studies on a large class of molecular and biological systems. While the above two studies by Lemke <italic>et al</italic>. dealt with molecules in solution, fs XAS is meanwhile being extended to other classes of systems. In a recent study, Collet and co-workers reported fs XANES studies of a molecular crystals consisting of SCO molecules.<xref rid="c84" ref-type="bibr"><sup>84</sup></xref> In another study, Levantino <italic>et al</italic>.<xref rid="c80" ref-type="bibr"><sup>80</sup></xref> reported the first fs XAS experiment on a protein, Carboxymyoglobin (MbCO). However, they only recorded time traces using a fixed probe energy at the Fe K-edge, which makes the conclusions not straightforward. At SACLA, studies were performed on an Fe-complex, [Fe<sup>III</sup>(C<sub>2</sub>O<sub>4</sub>)<sub>3</sub>]<sup>3+</sup> in solution,<xref rid="c85" ref-type="bibr"><sup>85</sup></xref> delivering insight into the photoinduced electronic and structural changes in the system, while the photoinduced charge carrier dynamics was investigated in the case of WO<sub>3</sub> nanoparticles.<xref rid="c86" ref-type="bibr"><sup>86</sup></xref> These studies are widening the scope of systems one can investigate with fs XAS at XFELs. Finally, a dispersive XAS geometry<xref rid="c44" ref-type="bibr"><sup>44,87,88</sup></xref> has been proposed and tested as an alternative way to record fs XAS spectra in a single shot.</p></sec><sec id="s3B"><title>Femtosecond photon-in/photon-out experiments</title><p>This class of femtosecond X-ray experiments, which includes XES and RIXS, can only be carried out at XFELs, and no wonder that it is with these methods that some of the most significant progress have been made at XFELs in the past 3 years.</p><p>Nilsson and co-workers<xref rid="c89" ref-type="bibr"><sup>89,90</sup></xref> demonstrated ultrafast pump-probe x-ray fluorescence in the soft X-ray range at the LCLS. They used the X-ray pulses to probe the electronic structure of a transiently populated, weakly adsorbed state in CO desorption from Ru(0001). An optical laser pump pulse increased the phonon temperature of the substrate on a sub-picosecond time scale and rapidly populated the adsorbate transient state as an intermediate prior to desorption. The time evolution of the occupied and unoccupied valence electronic structure around the adsorbed CO molecule on Ru(0001) were followed in an element-specific way during the desorption process using oxygen resonant X-ray emission spectroscopy (RXES) and X-ray absorption spectroscopy (XAS), respectively (Figure <xref ref-type="fig" rid="f3">3</xref>). In particular, the CO molecules in the transient state had an electronic structure closer to the gas phase than to the chemisorbed state; however, the antibonding CO 2&#x003c0;* states were found to remain substantially be affected by the interaction with the surface. This first study was followed by a fs soft X-ray XAS experiment that investigated the formation of the CO<sub>2</sub> molecule staring from CO and O on Ru(0001).<xref rid="c91" ref-type="bibr"><sup>91</sup></xref></p><p>More recently, Zhang <italic>et al.</italic> reported the first fs XES investigation of the spin cross-over (SCO) dynamics in photoexcited [Fe(bpy)<sub>3</sub>]<sup>2+</sup>.<xref rid="c30" ref-type="bibr"><sup>30</sup></xref> The idea of the experiment is to exploit the high sensitivity of XES to the spin state of the metal atom.<xref rid="c18" ref-type="bibr"><sup>18,92&#x02013;94</sup></xref> The experiment was carried out with a resolution of &#x0003c;150 fs, which is not sufficient to fully resolve the SCO dynamics as recently shown in a laser-only pump-probe study at high time resolution (&#x0003c;50 fs).<xref rid="c83" ref-type="bibr"><sup>83</sup></xref> Nevertheless, the proof-of-principle of fs XES experiment is a very important achievement, which opens the way to entirely novel insights into photoinduced phenomena in chemical, biological systems and in materials. More recently, Canton <italic>et al</italic>.<xref rid="c31" ref-type="bibr"><sup>31</sup></xref> combined fs XES and X-ray scattering (XRS) in the hard X-ray range at the XFEL SACLA in Japan to characterize the non-equilibrated electron transfer (ET) dynamics in donor&#x02013;acceptor molecular assemblies that contain optically dark active sites. The bimetallic complex they studied consists of a light-harvesting, ruthenium (Ru)-based chromophore linked to an optically dark cobalt (Co) electron sink by a bridge that mediates the ultrafast ET. This prototypical dyad exemplifies the wide class of synthetic and natural photocatalysts for which the coupled electronic and structural dynamics are only partially understood beyond the decay of the Franck&#x02013;Condon state. They could thus nail down the dynamics of electron departure from the donor, the transit time via the bridge and the arrival to the acceptor, and finally, the formation time of the high spin state in the latter (Figure <xref ref-type="fig" rid="f4">4</xref>). The need for an observable such as XES is related to the fact that the Co-complex does not have known optical spectroscopic observables of its high spin state.</p><p>Very recently, Wernet and co-workers<xref rid="c32" ref-type="bibr"><sup>32,33</sup></xref> investigated the reaction dynamics of the transition-metal complex Fe(CO)<sub>5</sub> in a solution, using fs RIXS in the soft X-ray range. The found that the photo-induced removal of CO generates the Fe(CO)<sub>4</sub> species in a hitherto unreported excited singlet state that either converts to the triplet ground state or combines with a CO or solvent molecule to regenerate a penta-coordinated Fe species on a sub-picosecond timescale. This work stresses the relative importance of different spin channels in the photochemistry of Fe(CO)<sub>5</sub>. The advantage of using femtosecond X-ray spectroscopy is that it probes frontier-orbital interactions with atom specificity.</p></sec></sec><sec id="s4"><title>NEW PERSPECTIVES</title><p>The above short review of the literature of the last three years shows that the stage is set for new opportunities to come. As far as time-resolved studies at synchrotrons are concerned, needless to say, that time-resolved X-ray spectroscopies at storage rings will be in high demand for several reasons: (a) phenomena on the 100 ps to several hundreds of ns (depending on the synchrotron) time scale will not require an XFEL, nor would it be wise to use the latter for such studies, given the high demand on these single user machines. There are a host of phenomena in biology, chemistry, and materials science that do not require a high temporal resolution, and these will best be studied at synchrotrons; (b) for many experiments to be planned at XFELs, it is highly advantageous to perform synchrotron-based experiments that establish observables and the level of signal, to be extrapolated to XFEL experiments; (c) as already mentioned above, synchrotrons will not only be useful for XAS but also for photo-in/photon-out experiments, as well as scattering and diffraction that do not require a sub-100 ps time resolution.<xref rid="c63" ref-type="bibr"><sup>63</sup></xref></p><p>As far as XFELs are concerned as invoked above, femtosecond photon-in/photon-out experiments can only be carried out at such machines, making them unique in this respect. The recent publications of several such studies<xref rid="c30" ref-type="bibr"><sup>30,32,33,89,90</sup></xref> are very promising and we can anticipate more of these studies, not only for molecular systems, but also for more complex systems such proteins, nano-systems, and materials. For proteins, XES is already very much used in the static mode,<xref rid="c95" ref-type="bibr"><sup>95&#x02013;98</sup></xref> and extension to the time-resolved domain is only waiting for an opportunity. For materials, specifically single crystals, RIXS enables the Q-dependent study of collective excitations because a finite momentum can be transferred to the system from the X-ray photon.<xref rid="c99" ref-type="bibr"><sup>99,100</sup></xref> In a very recent work, Hill and co-workers reported the first fs magnetic RIXS after photo-doping the Mott insulator Sr<sub>2</sub>IrO<sub>4</sub> and directly determined its magnetization dynamics. Although relevant to condensed matter physics, such studies are also of interest to chemical photovoltaics and photocatalysis when it comes to transition metal oxides.</p><p>There are additional avenues which we find promising at XFELs and are briefly presented below.</p><sec id="s4A"><title>High energy resolution off-resonant spectroscopy (HEROS)</title><p>One of the issues in recording the XAS spectra at an XFEL is that of the fluctuations in intensity and photon energy because XFELs operate on the SASE (self-amplified spontaneous emission) mode. This calls for both incident pulse energy normalization as well as incident spectrum normalization. The incident x-ray spectrum has been measured at the Linac Coherent Light Source (LCLS) on a pulse-to-pulse basis, but the spectrometer used is not broadly tunable in energy, making it only effective over a narrow photon energy range.<xref rid="c101" ref-type="bibr"><sup>101</sup></xref> The second drawback to this approach is the narrow bandwidth of the XFEL, approximately 0.25%&#x02013;0.5%, restricting the range over which the XAS can be measured without requiring the incident photon energy to be scanned, something which is still non-trivial at the XFEL. However, recent experiments have demonstrated the feasibility of dispersive XAS spectroscopy in transmission mode at the SACLA XFEL (SPring-8, Japan).<xref rid="c44" ref-type="bibr"><sup>44,87</sup></xref></p><p>An alternative approach is the so-called High Energy Resolution Off-Resonant Spectroscopy (HEROS) method, which allows measurements of a scattered X-ray spectrum in a single acquisition that represents the unoccupied density of states. It is complementary to the ability of XES to probe the occupied density of states. HEROS can be used with a self-seeded XFEL beam to probe electronic states using single XFEL pulses. The idea of using off-resonant excitations is similar to pre-resonance Raman spectroscopy in the optical domain and likewise, it is described by the Kramers-Heisenberg relations.<xref rid="c102" ref-type="bibr"><sup>102</sup></xref> HEROS requires monochromatic photon energies for the incoming beam. One approach to generating this type of beam at an XFEL is the so-called &#x0201c;self-seeding&#x0201d; method,<xref rid="c103" ref-type="bibr"><sup>103</sup></xref> which allows the FEL to produce a narrow energy bandwidth beam with more stable beam characteristics than during normal SASE operation with a monochromator. Szlachetko <italic>et al</italic>.<xref rid="c104" ref-type="bibr"><sup>104</sup></xref> exploited this option at the LCLS and recorded the first HEROS spectrum using a single fs X-ray pulse. This offers a simple alternative to XAS and has the advantage that it can be combined with X-ray scattering experiments (Figure <xref ref-type="fig" rid="f5">5</xref>).</p></sec><sec id="s4B"><title>Ultrafast non-linear X-ray optics</title><p>The high fluxes and coherence properties of XFELs are also opening the field to new non-linear X-ray spectroscopies, similar to what happened following the birth of the laser decades ago. Here, we briefly present some of the newest developments.</p><p>Four-wave mixing (FWM) processes, based on the third-order nonlinear light&#x02013;matter interactions, can combine ultrafast time resolution with energy and wave vector selectivity, and enable the exploration of dynamics inaccessible by linear methods.<xref rid="c105" ref-type="bibr"><sup>105,106</sup></xref> The coherent and multi-wave nature of the FWM approach in the optical domain has been crucial in the development of advanced technologies. However, the use of optical wavelengths limits the spatial resolution and does not allow the probing of excitations with energy in the electron-volt range. Extension to shorter wavelengths&#x02014;that is, the extreme ultraviolet and soft-X-ray ranges&#x02014;would allow the spatial resolution to be improved and the excitation energy range to be expanded, as well as enabling elemental selectivity to be achieved by exploiting core resonances.<xref rid="c48" ref-type="bibr"><sup>48,49,107&#x02013;116</sup></xref> So far, FWM at such wavelengths has been prevented by the absence of coherent sources of sufficient brightness and of suitable experimental set-ups. This is now possible and in a recent paper, Bencivenga <italic>et al</italic>.<xref rid="c113" ref-type="bibr"><sup>113</sup></xref> demonstrated how transient gratings, generated by the interference of coherent extreme ultraviolet pulses delivered by the FERMI free-electron laser can be used to stimulate FWM processes at sub-optical wavelengths. Figure <xref ref-type="fig" rid="f6">6</xref> shows a sketch of the experiment: two extreme ultraviolet (EUV) FEL pulses (of a wavelength of 27.6&#x02009;nm and estimated time duration 60&#x02013;80 fs) are crossed at an angle 2&#x003b8; onto a vitreous SiO<sub>2</sub> sample with the surface oriented orthogonally to the bisector of the FEL beams. The interference of the two EUV pulses generates a transient grating with a spatial periodicity of 256.8&#x02009;nm, which is probed using an optical pulse of 392.8&#x02009;nm and 100 fs pulse width, coplanar with the FEL beams. The authors demonstrated the possibility of observing the time evolution of the FWM signal, which shows the dynamics of coherent excitations as molecular vibrations (Figure <xref ref-type="fig" rid="f7">7</xref>). This first non-linear EUV experiment opens the way for several new opportunities, such as two-colour EUV TG experiments with the two FEL pulses are resonant to core transitions of different atoms, or to an all-EUV TG experiment, where the probing pulse is also in the EUV and can be resonant with core-transitions of specific atoms. The next step is to achieve an all-EUV TG experiment, and the efforts are underway in this respect. This has the advantage of increasing the spatial resolution of the grating from <italic>&#x003bc;</italic>m's in the optical domain to a few tens of nm's in the EUV.</p><p>The above short account about the developments in time-resolved X-ray spectroscopies over the past 3&#x02013;4 years and the perspectives they offer is by no means exhaustive and several exciting possibilities are being explored at present, such as, e.g., (a) Adding a separate tuneable EUV source, in particular, a high harmonic generation (HHG) source,<xref rid="c117" ref-type="bibr"><sup>117</sup></xref> that would permit all-EUV non-linear optics experiments with a much enhanced degree of flexibility thanks to a larger choice of energies and phase matching conditions; (b) the idea of combining the high energy MeV electrons from the gun with X-ray pulses from the XFEL is another exciting option,<xref rid="c118" ref-type="bibr"><sup>118</sup></xref> particularly with the idea of using the X-ray as a pump to excite specific states of the system with atomic selectivity.</p></sec></sec><sec id="s5"><title>CONCLUSIONS</title><p>As already mentioned, synchrotrons will go on playing an essential role in time resolved X-ray spectroscopic studies, both in absorption or in emission. The extension of time resolved XAS to the soft X-ray range in the regions of the L-edges (600&#x02013;1000&#x02009;eV) of transition metals is important, because of their role in coordination chemistry, photocatalysis, and biology. In this respect, the recent development of the flat jet technology<xref rid="c119" ref-type="bibr"><sup>119</sup></xref> is an important step forward as it allows samples that are thinner (1.5&#x02013;4&#x02009;<italic>&#x003bc;</italic>m) than the penetration depth of the soft X-ray light.</p><p>The initial demonstrations of photo-in/photon-out experiments in the fs time domain at XFELs, along with the first implementations of ultrafast non-linear XUV experiments are promising great opportunities and let us envision the same evolution that has characterised optical lasers, e.g., new methods such as XUV multidimensional spectroscopies. It is also important to stress that these classes of experiment make the XFELs unique, as they can nowhere else be implemented. This is different to techniques, such as X-ray protein crystallography, whose practice is well proved and established at synchrotrons and keeps being improved.</p></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>I thank the Swiss National Science Foundation for support via the NCCR:MUST.</p></ack><ref-list content-type="numbered"><ref id="c1"><label>1.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. J.</given-names>
+<surname>Milne</surname>
+</string-name>, 
+<string-name>
+<given-names>T. J.</given-names>
+<surname>Penfold</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Coord. Chem. Rev.</source>
+<volume>277&#x02013;278</volume>, <fpage>44</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1016/j.ccr.2014.02.013</pub-id></mixed-citation></ref><ref id="c2"><label>2.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Faraday Discuss.</source>
+<volume>171</volume>, <fpage>11</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1039/C4FD00157E</pub-id><pub-id pub-id-type="pmid">25415411</pub-id></mixed-citation></ref><ref id="c3"><label>3.</label><mixed-citation publication-type="book">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, in <source>In-situ Materials Characterization</source>, edited by <person-group person-group-type="editor"><name name-style="western"><surname>Ziegler</surname><given-names>A.</given-names></name>, 
+<name name-style="western"><surname>Graafsma</surname><given-names>H.</given-names></name>, 
+<name name-style="western"><surname>Zhang</surname><given-names>X. F.</given-names></name>, and 
+<name name-style="western"><surname>Frenken</surname><given-names>J. W. M.</given-names></name></person-group> (
+<publisher-name>Springer</publisher-name>, 
+<publisher-loc>Berlin, Heidelberg</publisher-loc>, <year>2014</year>), Vol. 
+<volume>193</volume>, p. <fpage>1</fpage>.</mixed-citation></ref><ref id="c4"><label>4.</label><mixed-citation publication-type="book">
+<string-name>
+<given-names>J. A.</given-names>
+<surname>van Bokhoven</surname>
+</string-name> and 
+<string-name>
+<given-names>C.</given-names>
+<surname>Lamberti</surname>
+</string-name>, <source>X-Ray Absorption and X-Ray Emission Spectroscopy: Theory and Applications</source> (
+<publisher-name>Wiley</publisher-name>, <year>2016</year>).</mixed-citation></ref><ref id="c5"><label>5.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>W. K.</given-names>
+<surname>Zhang</surname>
+</string-name> and 
+<string-name>
+<given-names>K. J.</given-names>
+<surname>Gaffney</surname>
+</string-name>, <source>Acc. Chem. Res.</source>
+<volume>48</volume>, <fpage>1140</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1021/ar500407p</pub-id><pub-id pub-id-type="pmid">25789406</pub-id></mixed-citation></ref><ref id="c6"><label>6.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names>
+<surname>Hong</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Cho</surname>
+</string-name>, 
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Schoenlein</surname>
+</string-name>, 
+<string-name>
+<given-names>T. K.</given-names>
+<surname>Kim</surname>
+</string-name>, and 
+<string-name>
+<given-names>N.</given-names>
+<surname>Huse</surname>
+</string-name>, <source>Acc. Chem. Res.</source>
+<volume>48</volume>, <fpage>2957</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1021/acs.accounts.5b00154</pub-id><pub-id pub-id-type="pmid">26488127</pub-id></mixed-citation></ref><ref id="c7"><label>7.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>O.</given-names>
+<surname>Gessner</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names>
+<surname>G&#x000fc;hr</surname>
+</string-name>, <source>Acc. Chem. Res.</source>
+<volume>49</volume>, <fpage>138</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1021/acs.accounts.5b00361</pub-id><pub-id pub-id-type="pmid">26641490</pub-id></mixed-citation></ref><ref id="c8"><label>8.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names>
+<surname>Bostedt</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Rev. Mod. Phys.</source>
+<volume>88</volume>, <fpage>015007</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1103/RevModPhys.88.015007</pub-id></mixed-citation></ref><ref id="c9"><label>9.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>F. A.</given-names>
+<surname>Lima</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Rev. Sci. Instrum.</source>
+<volume>82</volume>, <fpage>063111</fpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1063/1.3600616</pub-id><pub-id pub-id-type="pmid">21721678</pub-id></mixed-citation></ref><ref id="c10"><label>10.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names>
+<surname>Bressler</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Chem. Rev.</source>
+<volume>104</volume>, <fpage>1781</fpage> (<year>2004</year>).<pub-id pub-id-type="doi">10.1021/cr0206667</pub-id><pub-id pub-id-type="pmid">15080712</pub-id></mixed-citation></ref><ref id="c11"><label>11.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names>
+<surname>Bressler</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Annu. Rev. Phys. Chem.</source>
+<volume>61</volume>, <fpage>263</fpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1146/annurev.physchem.012809.103353</pub-id><pub-id pub-id-type="pmid">20055677</pub-id></mixed-citation></ref><ref id="c12"><label>12.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L. X.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<volume>43</volume>, <fpage>2886</fpage> (<year>2004</year>).<pub-id pub-id-type="doi">10.1002/anie.200300596</pub-id></mixed-citation></ref><ref id="c13"><label>13.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L. X.</given-names>
+<surname>Chen</surname>
+</string-name>, <source>Annu. Rev. Phys. Chem.</source>
+<volume>56</volume>, <fpage>221</fpage> (<year>2005</year>).<pub-id pub-id-type="doi">10.1146/annurev.physchem.56.092503.141310</pub-id><pub-id pub-id-type="pmid">15796701</pub-id></mixed-citation></ref><ref id="c14"><label>14.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Acta Crystallogr., A</source>
+<volume>66</volume>, <fpage>229</fpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1107/S010876730904968X</pub-id><pub-id pub-id-type="pmid">20164646</pub-id></mixed-citation></ref><ref id="c15"><label>15.</label><mixed-citation publication-type="book">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, in <source>Comprehensive Biophysics</source>, edited by <person-group person-group-type="editor"><name name-style="western"><surname>Egelman</surname><given-names>E.</given-names></name></person-group> (
+<publisher-name>Academic Press</publisher-name>, <year>2012</year>), Vol. 
+<volume>1</volume>.</mixed-citation></ref><ref id="c16"><label>16.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names>
+<surname>Zewail</surname>
+</string-name>, <source>Chemphyschem</source>
+<volume>10</volume>, <fpage>28</fpage> (<year>2009</year>).<pub-id pub-id-type="doi">10.1002/cphc.200800667</pub-id><pub-id pub-id-type="pmid">19130540</pub-id></mixed-citation></ref><ref id="c17"><label>17.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>Vanko</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Glatzel</surname>
+</string-name>, 
+<string-name>
+<given-names>V. T.</given-names>
+<surname>Pham</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Abela</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>Grolimund</surname>
+</string-name>, 
+<string-name>
+<given-names>C. N.</given-names>
+<surname>Borca</surname>
+</string-name>, 
+<string-name>
+<given-names>S. L.</given-names>
+<surname>Johnson</surname>
+</string-name>, 
+<string-name>
+<given-names>C. J.</given-names>
+<surname>Milne</surname>
+</string-name>, and 
+<string-name>
+<given-names>C.</given-names>
+<surname>Bressler</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<volume>49</volume>, <fpage>5910</fpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1002/anie.201000844</pub-id></mixed-citation></ref><ref id="c18"><label>18.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>Vanko</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>J. Electron. Spectrosc. Relat. Phenom.</source>
+<volume>188</volume>, <fpage>166</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1016/j.elspec.2012.09.012</pub-id></mixed-citation></ref><ref id="c19"><label>19.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. M.</given-names>
+<surname>March</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>J. Phys. Chem. C</source>
+<volume>119</volume>, <fpage>14571</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1021/jp511838q</pub-id></mixed-citation></ref><ref id="c20"><label>20.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names>
+<surname>Giessel</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>Brocker</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Schmidt</surname>
+</string-name>, and 
+<string-name>
+<given-names>W.</given-names>
+<surname>Widdra</surname>
+</string-name>, <source>Rev. Sci. Instrum.</source>
+<volume>74</volume>, <fpage>4620</fpage> (<year>2003</year>).<pub-id pub-id-type="doi">10.1063/1.1614880</pub-id></mixed-citation></ref><ref id="c21"><label>21.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names>
+<surname>Stebel</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Malvestuto</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Capogrosso</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Sigalotti</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names>
+<surname>Ressel</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Bondino</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names>
+<surname>Magnano</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Cautero</surname>
+</string-name>, and 
+<string-name>
+<given-names>F.</given-names>
+<surname>Parmigiani</surname>
+</string-name>, <source>Rev. Sci. Instrum.</source>
+<volume>82</volume>, <fpage>123109</fpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1063/1.3669787</pub-id><pub-id pub-id-type="pmid">22225201</pub-id></mixed-citation></ref><ref id="c22"><label>22.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Neppl</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Faraday Discuss.</source>
+<volume>171</volume>, <fpage>219</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1039/C4FD00036F</pub-id><pub-id pub-id-type="pmid">25415599</pub-id></mixed-citation></ref><ref id="c23"><label>23.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names>
+<surname>Shavorskiy</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Rev. Sci. Instrum.</source>
+<volume>85</volume>, <fpage>093102</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1063/1.4894208</pub-id><pub-id pub-id-type="pmid">25273702</pub-id></mixed-citation></ref><ref id="c24"><label>24.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Neppl</surname>
+</string-name> and 
+<string-name>
+<given-names>O.</given-names>
+<surname>Gessner</surname>
+</string-name>, <source>J. Electron. Spectrosc. Relat. Phenom.</source>
+<volume>200</volume>, <fpage>64</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1016/j.elspec.2015.03.002</pub-id></mixed-citation></ref><ref id="c25"><label>25.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Schoenlein</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Chattopadhyay</surname>
+</string-name>, 
+<string-name>
+<given-names>H. H. W.</given-names>
+<surname>Chong</surname>
+</string-name>, 
+<string-name>
+<given-names>T. E.</given-names>
+<surname>Glover</surname>
+</string-name>, 
+<string-name>
+<given-names>P. A.</given-names>
+<surname>Heimann</surname>
+</string-name>, 
+<string-name>
+<given-names>W. P.</given-names>
+<surname>Leemans</surname>
+</string-name>, 
+<string-name>
+<given-names>C. V.</given-names>
+<surname>Shank</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Zholents</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Zolotorev</surname>
+</string-name>, <source>Appl. Phys. B-Lasers Opt.</source>
+<volume>71</volume>, <fpage>1</fpage> (<year>2000</year>).<pub-id pub-id-type="doi">10.1007/PL00021152</pub-id></mixed-citation></ref><ref id="c26"><label>26.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Schoenlein</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Chattopadhyay</surname>
+</string-name>, 
+<string-name>
+<given-names>H. H. W.</given-names>
+<surname>Chong</surname>
+</string-name>, 
+<string-name>
+<given-names>T. E.</given-names>
+<surname>Glover</surname>
+</string-name>, 
+<string-name>
+<given-names>P. A.</given-names>
+<surname>Heimann</surname>
+</string-name>, 
+<string-name>
+<given-names>C. V.</given-names>
+<surname>Shank</surname>
+</string-name>, 
+<string-name>
+<given-names>A. A.</given-names>
+<surname>Zholents</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. S.</given-names>
+<surname>Zolotorev</surname>
+</string-name>, <source>Science</source>
+<volume>287</volume>, <fpage>2237</fpage> (<year>2000</year>).<pub-id pub-id-type="doi">10.1126/science.287.5461.2237</pub-id><pub-id pub-id-type="pmid">10731140</pub-id></mixed-citation></ref><ref id="c27"><label>27.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names>
+<surname>Beaud</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Phys. Rev. Lett.</source>
+<volume>99</volume>, <fpage>174801</fpage> (<year>2007</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.99.174801</pub-id><pub-id pub-id-type="pmid">17995338</pub-id></mixed-citation></ref><ref id="c28"><label>28.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Khan</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names>
+<surname>Holldack</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Kachel</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Mitzner</surname>
+</string-name>, and 
+<string-name>
+<given-names>T.</given-names>
+<surname>Quast</surname>
+</string-name>, <source>Phys. Rev. Lett.</source>
+<volume>97</volume>, <fpage>074801</fpage> (<year>2006</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.97.074801</pub-id><pub-id pub-id-type="pmid">17026235</pub-id></mixed-citation></ref><ref id="c29"><label>29.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>H. T.</given-names>
+<surname>Lemke</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>J. Phys. Chem. A</source>
+<volume>117</volume>, <fpage>735</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1021/jp312559h</pub-id><pub-id pub-id-type="pmid">23281652</pub-id></mixed-citation></ref><ref id="c30"><label>30.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>W. K.</given-names>
+<surname>Zhang</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nature</source>
+<volume>509</volume>, <fpage>345</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1038/nature13252</pub-id><pub-id pub-id-type="pmid">24805234</pub-id></mixed-citation></ref><ref id="c31"><label>31.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. E.</given-names>
+<surname>Canton</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nat. Commun.</source>
+<volume>6</volume>, <fpage>6359</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1038/ncomms7359</pub-id><pub-id pub-id-type="pmid">25727920</pub-id></mixed-citation></ref><ref id="c32"><label>32.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names>
+<surname>Wernet</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nature</source>
+<volume>520</volume>, <fpage>78</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1038/nature14296</pub-id><pub-id pub-id-type="pmid">25832405</pub-id></mixed-citation></ref><ref id="c33"><label>33.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names>
+<surname>Kunnus</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Struct. Dyn.</source>
+<volume>3</volume>, <fpage>043204</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1063/1.4941602</pub-id><pub-id pub-id-type="pmid">26958587</pub-id></mixed-citation></ref><ref id="c34"><label>34.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>W.</given-names>
+<surname>Ackermann</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nat. Photonics</source>
+<volume>1</volume>, <fpage>336</fpage> (<year>2007</year>).<pub-id pub-id-type="doi">10.1038/nphoton.2007.76</pub-id></mixed-citation></ref><ref id="c35"><label>35.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.</given-names>
+<surname>Allaria</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names>
+<surname>Callegari</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>Cocco</surname>
+</string-name>, 
+<string-name>
+<given-names>W. M.</given-names>
+<surname>Fawley</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Kiskinova</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names>
+<surname>Masciovecchio</surname>
+</string-name>, and 
+<string-name>
+<given-names>F.</given-names>
+<surname>Parmigiani</surname>
+</string-name>, <source>New J. Phys.</source>
+<volume>12</volume>, <fpage>075002</fpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1088/1367-2630/12/7/075002</pub-id></mixed-citation></ref><ref id="c36"><label>36.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names>
+<surname>Hara</surname>
+</string-name>, <source>Nat. Photonics</source>
+<volume>7</volume>, <fpage>852</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1038/nphoton.2013.279</pub-id></mixed-citation></ref><ref id="c37"><label>37.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>De Ninno</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names>
+<surname>Mahieu</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names>
+<surname>Allaria</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names>
+<surname>Giannessi</surname>
+</string-name>, and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Spampinati</surname>
+</string-name>, <source>Phys. Rev. Lett.</source>
+<volume>110</volume>, <fpage>064801</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.110.064801</pub-id><pub-id pub-id-type="pmid">23432255</pub-id></mixed-citation></ref><ref id="c38"><label>38.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Zangrando</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Proc. SPIE</source>
+<volume>8504</volume>, <fpage>850404</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1117/12.929749</pub-id></mixed-citation></ref><ref id="c39"><label>39.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.</given-names>
+<surname>Allaria</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nat. Photonics</source>
+<volume>6</volume>, <fpage>699</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1038/nphoton.2012.233</pub-id></mixed-citation></ref><ref id="c40"><label>40.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Zangrando</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, &#x0201c;
+<article-title>Advances in X-ray free-electron lasers: Radiation schemes, X-ray optics, and instrumentation</article-title>,&#x0201d; <source>Proc. SPIE</source>
+<volume>8078</volume>, <fpage>80780I</fpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1117/12.886459</pub-id></mixed-citation></ref><ref id="c41"><label>41.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Kato</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Appl. Phys. Lett.</source>
+<volume>101</volume>, <fpage>023503</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1063/1.4733354</pub-id></mixed-citation></ref><ref id="c42"><label>42.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names>
+<surname>Ohashi</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nucl. Instrum. Methods Phys. Res., Sect. A</source>
+<volume>710</volume>, <fpage>139</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1016/j.nima.2012.10.094</pub-id></mixed-citation></ref><ref id="c43"><label>43.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names>
+<surname>Tono</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>New J. Phys.</source>
+<volume>15</volume>, <fpage>083035</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1088/1367-2630/15/8/083035</pub-id></mixed-citation></ref><ref id="c44"><label>44.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Obara</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Opt. Express</source>
+<volume>22</volume>, <fpage>1105</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1364/OE.22.001105</pub-id><pub-id pub-id-type="pmid">24515070</pub-id></mixed-citation></ref><ref id="c45"><label>45.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>P. N.</given-names>
+<surname>Juranic</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Opt. Express</source>
+<volume>22</volume>, <fpage>30004</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1364/OE.22.030004</pub-id><pub-id pub-id-type="pmid">25606930</pub-id></mixed-citation></ref><ref id="c46"><label>46.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Yabashi</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Tanaka</surname>
+</string-name>, and 
+<string-name>
+<given-names>T.</given-names>
+<surname>Ishikawa</surname>
+</string-name>, <source>J. Synchrotron Radiat.</source>
+<volume>22</volume>, <fpage>477</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1107/S1600577515004658</pub-id><pub-id pub-id-type="pmid">25931056</pub-id></mixed-citation></ref><ref id="c47"><label>47.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.</given-names>
+<surname>Allaria</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nat. Commun.</source>
+<volume>4</volume>, <fpage>2476</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1038/ncomms3476</pub-id><pub-id pub-id-type="pmid">24048228</pub-id></mixed-citation></ref><ref id="c48"><label>48.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names>
+<surname>Bencivenga</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>New J. Phys.</source>
+<volume>15</volume>, <fpage>123023</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1088/1367-2630/15/12/123023</pub-id></mixed-citation></ref><ref id="c49"><label>49.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names>
+<surname>Bencivenga</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Faraday Discuss.</source>
+<volume>171</volume>, <fpage>487</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1039/C4FD00100A</pub-id><pub-id pub-id-type="pmid">25415809</pub-id></mixed-citation></ref><ref id="c50"><label>50.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>E. A.</given-names>
+<surname>Stern</surname>
+</string-name> and 
+<string-name>
+<given-names>D.</given-names>
+<surname>Brewe</surname>
+</string-name>, <source>AIP Conf. Proc.</source>
+<volume>882</volume>, <fpage>24</fpage> (<year>2007</year>).<pub-id pub-id-type="doi">10.1063/1.2644424</pub-id></mixed-citation></ref><ref id="c51"><label>51.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. M.</given-names>
+<surname>March</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Rev. Sci. Instrum.</source>
+<volume>82</volume>, <fpage>073110</fpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1063/1.3615245</pub-id><pub-id pub-id-type="pmid">21806175</pub-id></mixed-citation></ref><ref id="c52"><label>52.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Saes</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Rev. Sci. Instrum.</source>
+<volume>75</volume>, <fpage>24</fpage> (<year>2004</year>).<pub-id pub-id-type="doi">10.1063/1.1633003</pub-id></mixed-citation></ref><ref id="c53"><label>53.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Saes</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names>
+<surname>Gawelda</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Kaiser</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Tarnovsky</surname>
+</string-name>, 
+<string-name>
+<given-names>Ch.</given-names>
+<surname>Bressler</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, 
+<string-name>
+<given-names>S. L.</given-names>
+<surname>Johnson</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names>
+<surname>Grolimund</surname>
+</string-name>, and 
+<string-name>
+<given-names>R.</given-names>
+<surname>Abela</surname>
+</string-name>, <source>Synchrotron Radiat. News</source>
+<volume>16</volume>, <fpage>12</fpage> (<year>2003</year>).<pub-id pub-id-type="doi">10.1080/08940880308603029</pub-id></mixed-citation></ref><ref id="c54"><label>54.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names>
+<surname>El Nahhas</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>J. Phys. Chem. A</source>
+<volume>117</volume>, <fpage>361</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1021/jp3106502</pub-id><pub-id pub-id-type="pmid">23249289</pub-id></mixed-citation></ref><ref id="c55"><label>55.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T. J.</given-names>
+<surname>Penfold</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>J. Phys. Chem. A</source>
+<volume>117</volume>, <fpage>4591</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1021/jp403751m</pub-id><pub-id pub-id-type="pmid">23617226</pub-id></mixed-citation></ref><ref id="c56"><label>56.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Reinhard</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Struct. Dyn.</source>
+<volume>1</volume>, <fpage>024901</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1063/1.4871751</pub-id><pub-id pub-id-type="pmid">26798775</pub-id></mixed-citation></ref><ref id="c57"><label>57.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. H.</given-names>
+<surname>Rittmann-Frank</surname>
+</string-name>, 
+<string-name>
+<given-names>C. J.</given-names>
+<surname>Milne</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Rittmann</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Reinhard</surname>
+</string-name>, 
+<string-name>
+<given-names>T. J.</given-names>
+<surname>Penfold</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<volume>53</volume>, <fpage>5858</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1002/anie.201310522</pub-id></mixed-citation></ref><ref id="c58"><label>58.</label><mixed-citation publication-type="confproc">
+<string-name>
+<given-names>C. J.</given-names>
+<surname>Milne</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, in <conf-name><italic>19th International Conference on Ultrafast Phenomena</italic></conf-name> (Optical Society of America, Okinawa, <year>2014</year>), p. <fpage>09.Wed.D.1</fpage>.</mixed-citation></ref><ref id="c59"><label>59.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Uemura</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Uehara</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names>
+<surname>Niwa</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Nozawa</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Sato</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Adachi</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names>
+<surname>Ohtani</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Takakusagi</surname>
+</string-name>, and 
+<string-name>
+<given-names>K.</given-names>
+<surname>Asakura</surname>
+</string-name>, <source>Chem. Lett.</source>
+<volume>43</volume>, <fpage>977</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1246/cl.140144</pub-id></mixed-citation></ref><ref id="c60"><label>60.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names>
+<surname>Amidani</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Naldoni</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Malvestuto</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Marelli</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Glatzel</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Dal Santo</surname>
+</string-name>, and 
+<string-name>
+<given-names>F.</given-names>
+<surname>Boscherini</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<volume>54</volume>, <fpage>5413</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1002/anie.201412030</pub-id></mixed-citation></ref><ref id="c61"><label>61.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Silatani</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Proc. Natl. Acad. Sci. U.S.A.</source>
+<volume>112</volume>, <fpage>12922</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1073/pnas.1424446112</pub-id><pub-id pub-id-type="pmid">26438842</pub-id></mixed-citation></ref><ref id="c62"><label>62.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names>
+<surname>Haldrup</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>J. Phys. Chem. A</source>
+<volume>116</volume>, <fpage>9878</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1021/jp306917x</pub-id><pub-id pub-id-type="pmid">22970732</pub-id></mixed-citation></ref><ref id="c63"><label>63.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names>
+<surname>Bressler</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Faraday Discuss.</source>
+<volume>171</volume>, <fpage>169</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1039/C4FD00097H</pub-id><pub-id pub-id-type="pmid">25415532</pub-id></mixed-citation></ref><ref id="c64"><label>64.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>Vanko</surname>
+</string-name>
+<etal><italic>et al.</italic></etal>, <source>J. Phys. Chem. C</source>
+<volume>119</volume>, <fpage>5888</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1021/acs.jpcc.5b00557</pub-id></mixed-citation></ref><ref id="c65"><label>65.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names>
+<surname>Holldack</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Khan</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>Mitzner</surname>
+</string-name>, and 
+<string-name>
+<given-names>T.</given-names>
+<surname>Quast</surname>
+</string-name>, <source>Phys. Rev. Lett.</source>
+<volume>96</volume>, <fpage>054801</fpage> (<year>2006</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.96.054801</pub-id><pub-id pub-id-type="pmid">16486938</pub-id></mixed-citation></ref><ref id="c66"><label>66.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names>
+<surname>Bressler</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Science</source>
+<volume>323</volume>, <fpage>489</fpage> (<year>2009</year>).<pub-id pub-id-type="doi">10.1126/science.1165733</pub-id><pub-id pub-id-type="pmid">19074309</pub-id></mixed-citation></ref><ref id="c67"><label>67.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. T.</given-names>
+<surname>Pham</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>J. Am. Chem. Soc.</source>
+<volume>133</volume>, <fpage>12740</fpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1021/ja203882y</pub-id><pub-id pub-id-type="pmid">21740023</pub-id></mixed-citation></ref><ref id="c68"><label>68.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>F. G.</given-names>
+<surname>Santomauro</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Sci. Rep-Uk</source>
+<volume>5</volume>, <fpage>14834</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1038/srep14834</pub-id></mixed-citation></ref><ref id="c69"><label>69.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names>
+<surname>Cavalleri</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Rini</surname>
+</string-name>, 
+<string-name>
+<given-names>H. H. W.</given-names>
+<surname>Chong</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Fourmaux</surname>
+</string-name>, 
+<string-name>
+<given-names>T. E.</given-names>
+<surname>Glover</surname>
+</string-name>, 
+<string-name>
+<given-names>P. A.</given-names>
+<surname>Heimann</surname>
+</string-name>, 
+<string-name>
+<given-names>J. C.</given-names>
+<surname>Kieffer</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Schoenlein</surname>
+</string-name>, <source>Phys. Rev. Lett.</source>
+<volume>95</volume>, <fpage>067405</fpage> (<year>2005</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.95.067405</pub-id><pub-id pub-id-type="pmid">16090991</pub-id></mixed-citation></ref><ref id="c70"><label>70.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>N.</given-names>
+<surname>Huse</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Cho</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names>
+<surname>Hong</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names>
+<surname>Jamula</surname>
+</string-name>, 
+<string-name>
+<given-names>F. M. F.</given-names>
+<surname>de Groot</surname>
+</string-name>, 
+<string-name>
+<given-names>T. K.</given-names>
+<surname>Kim</surname>
+</string-name>, 
+<string-name>
+<given-names>J. K.</given-names>
+<surname>McCusker</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Schoenlein</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<volume>2</volume>, <fpage>880</fpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1021/jz200168m</pub-id><pub-id pub-id-type="pmid">26295622</pub-id></mixed-citation></ref><ref id="c71"><label>71.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>B. E.</given-names>
+<surname>Van Kuiken</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Cho</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names>
+<surname>Hong</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Khalil</surname>
+</string-name>, 
+<string-name>
+<given-names>R. W.</given-names>
+<surname>Schoenlein</surname>
+</string-name>, 
+<string-name>
+<given-names>T. K.</given-names>
+<surname>Kim</surname>
+</string-name>, and 
+<string-name>
+<given-names>N.</given-names>
+<surname>Huse</surname>
+</string-name>, <source>J. Phys. Chem. Lett.</source>
+<volume>7</volume>, <fpage>465</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1021/acs.jpclett.5b02509</pub-id><pub-id pub-id-type="pmid">26727390</pub-id></mixed-citation></ref><ref id="c72"><label>72.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names>
+<surname>Emma</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nat. Photonics</source>
+<volume>4</volume>, <fpage>641</fpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1038/nphoton.2010.176</pub-id></mixed-citation></ref><ref id="c73"><label>73.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names>
+<surname>Pile</surname>
+</string-name> and 
+<string-name>
+<given-names>P.</given-names>
+<surname>Emma</surname>
+</string-name>, <source>Nat. Photonics</source>
+<volume>4</volume>, <fpage>802</fpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1038/nphoton.2010.276</pub-id></mixed-citation></ref><ref id="c74"><label>74.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names>
+<surname>Ishikawa</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nat. Photonics</source>
+<volume>6</volume>, <fpage>540</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1038/nphoton.2012.141</pub-id></mixed-citation></ref><ref id="c75"><label>75.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Amann</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nat. Photonics</source>
+<volume>6</volume>, <fpage>693</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1038/nphoton.2012.180</pub-id></mixed-citation></ref><ref id="c76"><label>76.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. R.</given-names>
+<surname>Bionta</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Opt. Express</source>
+<volume>19</volume>, <fpage>21855</fpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1364/OE.19.021855</pub-id><pub-id pub-id-type="pmid">22109037</pub-id></mixed-citation></ref><ref id="c77"><label>77.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>O.</given-names>
+<surname>Krupin</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Opt. Express</source>
+<volume>20</volume>, <fpage>11396</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1364/OE.20.011396</pub-id><pub-id pub-id-type="pmid">22565760</pub-id></mixed-citation></ref><ref id="c78"><label>78.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Harmand</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nat. Photonics</source>
+<volume>7</volume>, <fpage>215</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1038/nphoton.2013.11</pub-id></mixed-citation></ref><ref id="c79"><label>79.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names>
+<surname>Katayama</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Struct. Dyn.</source>
+<volume>3</volume>, <fpage>034301</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1063/1.4939655</pub-id><pub-id pub-id-type="pmid">26958586</pub-id></mixed-citation></ref><ref id="c80"><label>80.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Levantino</surname>
+</string-name>, 
+<string-name>
+<given-names>H. T.</given-names>
+<surname>Lemke</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Schir&#x000f2;</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Glownia</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Cupane</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Cammarata</surname>
+</string-name>, <source>Struct. Dyn.</source>
+<volume>2</volume>, <fpage>041713</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1063/1.4921907</pub-id><pub-id pub-id-type="pmid">26798812</pub-id></mixed-citation></ref><ref id="c81"><label>81.</label><mixed-citation publication-type="eprint">
+<string-name>
+<given-names>H. T.</given-names>
+<surname>Lemke</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, e-print <ext-link ext-link-type="uri" xlink:href="http://arxiv.org/abs/arXiv:1601.01244">arXiv:1601.01244</ext-link>.</mixed-citation></ref><ref id="c82"><label>82.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names>
+<surname>Consani</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Premont-Schwarz</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>ElNahhas</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names>
+<surname>Bressler</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>van Mourik</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Cannizzo</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source>
+<volume>48</volume>, <fpage>7184</fpage> (<year>2009</year>).<pub-id pub-id-type="doi">10.1002/anie.200902728</pub-id></mixed-citation></ref><ref id="c83"><label>83.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>Aubock</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Nat. Chem.</source>
+<volume>7</volume>, <fpage>629</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1038/nchem.2305</pub-id><pub-id pub-id-type="pmid">26201738</pub-id></mixed-citation></ref><ref id="c84"><label>84.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names>
+<surname>Marino</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Cammarata</surname>
+</string-name>, 
+<string-name>
+<given-names>S. F.</given-names>
+<surname>Matar</surname>
+</string-name>, 
+<string-name>
+<given-names>J.-F.</given-names>
+<surname>L&#x000e9;tard</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Chastanet</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chollet</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M.</given-names>
+<surname>Glownia</surname>
+</string-name>, 
+<string-name>
+<given-names>H. T.</given-names>
+<surname>Lemke</surname>
+</string-name>, and 
+<string-name>
+<given-names>E.</given-names>
+<surname>Collet</surname>
+</string-name>, <source>Struct. Dyn.</source>
+<volume>3</volume>, <fpage>023605</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1063/1.4936290</pub-id><pub-id pub-id-type="pmid">26798836</pub-id></mixed-citation></ref><ref id="c85"><label>85.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Ogi</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Struct. Dyn.</source>
+<volume>2</volume>, <fpage>034901</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1063/1.4918803</pub-id><pub-id pub-id-type="pmid">26798796</pub-id></mixed-citation></ref><ref id="c86"><label>86.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Uemura</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Angew. Chem. Int. Ed.</source>
+<volume>55</volume>, <fpage>1364</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1002/anie.201509252</pub-id></mixed-citation></ref><ref id="c87"><label>87.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names>
+<surname>Katayama</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Appl. Phys. Lett.</source>
+<volume>103</volume>, <fpage>131105</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1063/1.4821108</pub-id></mixed-citation></ref><ref id="c88"><label>88.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Gaudin</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Sci. Rep.</source>
+<volume>4</volume>, <fpage>4724</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1038/srep04724</pub-id><pub-id pub-id-type="pmid">24740172</pub-id></mixed-citation></ref><ref id="c89"><label>89.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Dell'Angela</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Science</source>
+<volume>339</volume>, <fpage>1302</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1126/science.1231711</pub-id><pub-id pub-id-type="pmid">23493709</pub-id></mixed-citation></ref><ref id="c90"><label>90.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Beye</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Phys. Rev. Lett.</source>
+<volume>110</volume>, <fpage>186101</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.110.186101</pub-id><pub-id pub-id-type="pmid">23683223</pub-id></mixed-citation></ref><ref id="c91"><label>91.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names>
+<surname>Ostrom</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Science</source>
+<volume>347</volume>, <fpage>978</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1126/science.1261747</pub-id><pub-id pub-id-type="pmid">25722407</pub-id></mixed-citation></ref><ref id="c92"><label>92.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>Vanko</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Neisius</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Molnar</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Renz</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Karpati</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names>
+<surname>Shukla</surname>
+</string-name>, and 
+<string-name>
+<given-names>F. M. F.</given-names>
+<surname>de Groot</surname>
+</string-name>, <source>J. Phys. Chem. B</source>
+<volume>110</volume>, <fpage>11647</fpage> (<year>2006</year>).<pub-id pub-id-type="doi">10.1021/jp0615961</pub-id><pub-id pub-id-type="pmid">16800459</pub-id></mixed-citation></ref><ref id="c93"><label>93.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names>
+<surname>Glatzel</surname>
+</string-name> and 
+<string-name>
+<given-names>U.</given-names>
+<surname>Bergmann</surname>
+</string-name>, <source>Coord. Chem. Rev.</source>
+<volume>249</volume>, <fpage>65</fpage> (<year>2005</year>).<pub-id pub-id-type="doi">10.1016/j.ccr.2004.04.011</pub-id></mixed-citation></ref><ref id="c94"><label>94.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>U.</given-names>
+<surname>Bergmann</surname>
+</string-name> and 
+<string-name>
+<given-names>P.</given-names>
+<surname>Glatzel</surname>
+</string-name>, <source>Photosynth. Res.</source>
+<volume>102</volume>, <fpage>255</fpage> (<year>2009</year>).<pub-id pub-id-type="doi">10.1007/s11120-009-9483-6</pub-id><pub-id pub-id-type="pmid">19705296</pub-id></mixed-citation></ref><ref id="c95"><label>95.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>N.</given-names>
+<surname>Lee</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names>
+<surname>Petrenko</surname>
+</string-name>, 
+<string-name>
+<given-names>U.</given-names>
+<surname>Bergmann</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Neese</surname>
+</string-name>, and 
+<string-name>
+<given-names>S.</given-names>
+<surname>DeBeer</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source>
+<volume>132</volume>, <fpage>9715</fpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1021/ja101281e</pub-id><pub-id pub-id-type="pmid">20578760</pub-id></mixed-citation></ref><ref id="c96"><label>96.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>V.</given-names>
+<surname>Krewald</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Inorg. Chem.</source>
+<volume>52</volume>, <fpage>12904</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1021/ic4008203</pub-id><pub-id pub-id-type="pmid">24161030</pub-id></mixed-citation></ref><ref id="c97"><label>97.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.</given-names>
+<surname>Lassalle-Kaiser</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Inorg. Chem.</source>
+<volume>52</volume>, <fpage>12915</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1021/ic400821g</pub-id><pub-id pub-id-type="pmid">24161081</pub-id></mixed-citation></ref><ref id="c98"><label>98.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Kern</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Science</source>
+<volume>340</volume>, <fpage>491</fpage> (<year>2013</year>).<pub-id pub-id-type="doi">10.1126/science.1234273</pub-id><pub-id pub-id-type="pmid">23413188</pub-id></mixed-citation></ref><ref id="c99"><label>99.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L. J. P.</given-names>
+<surname>Ament</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names>
+<surname>Ghiringhelli</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Moretti Sala</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names>
+<surname>Braicovich</surname>
+</string-name>, and 
+<string-name>
+<given-names>J.</given-names>
+<surname>van den Brink</surname>
+</string-name>, <source>Phys. Rev. Lett.</source>
+<volume>103</volume>, <fpage>117003</fpage> (<year>2009</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.103.117003</pub-id><pub-id pub-id-type="pmid">19792395</pub-id></mixed-citation></ref><ref id="c100"><label>100.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. W.</given-names>
+<surname>Haverkort</surname>
+</string-name>, <source>Phys. Rev. Lett.</source>
+<volume>105</volume>, <fpage>167404</fpage> (<year>2010</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.105.167404</pub-id><pub-id pub-id-type="pmid">21231013</pub-id></mixed-citation></ref><ref id="c101"><label>101.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>D. L.</given-names>
+<surname>Zhu</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Appl. Phys. Lett.</source>
+<volume>101</volume>, <fpage>034103</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1063/1.4736725</pub-id></mixed-citation></ref><ref id="c102"><label>102.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Tulkki</surname>
+</string-name> and 
+<string-name>
+<given-names>T.</given-names>
+<surname>Aberg</surname>
+</string-name>, <source>J. Phys. B-At. Mol. Opt.</source>
+<volume>15</volume>, <fpage>L435</fpage> (<year>1982</year>).<pub-id pub-id-type="doi">10.1088/0022-3700/15/13/004</pub-id></mixed-citation></ref><ref id="c103"><label>103.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names>
+<surname>Geloni</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Kocharyan</surname>
+</string-name>, and 
+<string-name>
+<given-names>E.</given-names>
+<surname>Saldin</surname>
+</string-name>, <source>J. Mod. Opt.</source>
+<volume>58</volume>, <fpage>1391</fpage> (<year>2011</year>).<pub-id pub-id-type="doi">10.1080/09500340.2011.586473</pub-id></mixed-citation></ref><ref id="c104"><label>104.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Szlachetko</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Struct. Dyn.</source>
+<volume>1</volume>, <fpage>021101</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1063/1.4868260</pub-id><pub-id pub-id-type="pmid">26798772</pub-id></mixed-citation></ref><ref id="c105"><label>105.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names>
+<surname>Dhar</surname>
+</string-name>, 
+<string-name>
+<given-names>J. A.</given-names>
+<surname>Rogers</surname>
+</string-name>, and 
+<string-name>
+<given-names>K. A.</given-names>
+<surname>Nelson</surname>
+</string-name>, <source>Chem. Rev.</source>
+<volume>94</volume>, <fpage>157</fpage> (<year>1994</year>).<pub-id pub-id-type="doi">10.1021/cr00025a006</pub-id></mixed-citation></ref><ref id="c106"><label>106.</label><mixed-citation publication-type="book">
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>Principles of Nonlinear Optical Spectroscopy</source> (
+<publisher-name>Oxford University Press</publisher-name>, 
+<publisher-loc>New York</publisher-loc>, <year>1995</year>).</mixed-citation></ref><ref id="c107"><label>107.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tanaka</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names>
+<surname>Chernyak</surname>
+</string-name>, and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>Phys. Rev. A</source>
+<volume>63</volume>, <fpage>063405</fpage> (<year>2001</year>).<pub-id pub-id-type="doi">10.1103/PhysRevA.63.063405</pub-id></mixed-citation></ref><ref id="c108"><label>108.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tanaka</surname>
+</string-name> and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>Phys. Rev. A</source>
+<volume>64</volume>, <fpage>032503</fpage> (<year>2001</year>).<pub-id pub-id-type="doi">10.1103/PhysRevA.64.032503</pub-id></mixed-citation></ref><ref id="c109"><label>109.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tanaka</surname>
+</string-name> and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>Phys. Rev. Lett.</source>
+<volume>89</volume>, <fpage>043001</fpage> (<year>2002</year>).<pub-id pub-id-type="doi">10.1103/PhysRevLett.89.043001</pub-id><pub-id pub-id-type="pmid">12144479</pub-id></mixed-citation></ref><ref id="c110"><label>110.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tanaka</surname>
+</string-name> and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<volume>116</volume>, <fpage>1877</fpage> (<year>2002</year>).<pub-id pub-id-type="doi">10.1063/1.1429950</pub-id></mixed-citation></ref><ref id="c111"><label>111.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tanaka</surname>
+</string-name> and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>Phys. Rev. A</source>
+<volume>67</volume>, <fpage>033818</fpage> (<year>2003</year>).<pub-id pub-id-type="doi">10.1103/PhysRevA.67.033818</pub-id></mixed-citation></ref><ref id="c112"><label>112.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names>
+<surname>Tanaka</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Volkov</surname>
+</string-name>, and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>J. Chem. Phys.</source>
+<volume>118</volume>, <fpage>3065</fpage> (<year>2003</year>).<pub-id pub-id-type="doi">10.1063/1.1533014</pub-id></mixed-citation></ref><ref id="c113"><label>113.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names>
+<surname>Bencivenga</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Nature</source>
+<volume>520</volume>, <fpage>205</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1038/nature14341</pub-id><pub-id pub-id-type="pmid">25855456</pub-id></mixed-citation></ref><ref id="c114"><label>114.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names>
+<surname>Healion</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, 
+<string-name>
+<given-names>J. D.</given-names>
+<surname>Biggs</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names>
+<surname>Hua</surname>
+</string-name>, and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>Struct. Dyn.</source>
+<volume>1</volume>, <fpage>014101</fpage> (<year>2014</year>).<pub-id pub-id-type="doi">10.1063/1.4833560</pub-id><pub-id pub-id-type="pmid">26913804</pub-id></mixed-citation></ref><ref id="c115"><label>115.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.</given-names>
+<surname>Principi</surname>
+</string-name>
+<etal><italic>et al</italic>.</etal>, <source>Struct. Dyn.</source>
+<volume>3</volume>, <fpage>023604</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1063/1.4935687</pub-id><pub-id pub-id-type="pmid">26798835</pub-id></mixed-citation></ref><ref id="c116"><label>116.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>W.</given-names>
+<surname>Hua</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names>
+<surname>Oesterling</surname>
+</string-name>, 
+<string-name>
+<given-names>J. D.</given-names>
+<surname>Biggs</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names>
+<surname>Zhang</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Ando</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names>
+<surname>de Vivie-Riedle</surname>
+</string-name>, 
+<string-name>
+<given-names>B. P.</given-names>
+<surname>Fingerhut</surname>
+</string-name>, and 
+<string-name>
+<given-names>S.</given-names>
+<surname>Mukamel</surname>
+</string-name>, <source>Struct. Dyn.</source>
+<volume>3</volume>, <fpage>023601</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1063/1.4933007</pub-id><pub-id pub-id-type="pmid">26798832</pub-id></mixed-citation></ref><ref id="c117"><label>117.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names>
+<surname>Ojeda</surname>
+</string-name>, 
+<string-name>
+<given-names>C. A.</given-names>
+<surname>Arrell</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names>
+<surname>Grilj</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>Frassetto</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names>
+<surname>Mewes</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names>
+<surname>Zhang</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names>
+<surname>van Mourik</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names>
+<surname>Poletto</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names>
+<surname>Chergui</surname>
+</string-name>, <source>Struct. Dyn.</source>
+<volume>3</volume>, <fpage>023602</fpage> (<year>2016</year>).<pub-id pub-id-type="doi">10.1063/1.4933008</pub-id><pub-id pub-id-type="pmid">26798833</pub-id></mixed-citation></ref><ref id="c118"><label>118.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names>
+<surname>Carbone</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Musumeci</surname>
+</string-name>, 
+<string-name>
+<given-names>O. J.</given-names>
+<surname>Luiten</surname>
+</string-name>, and 
+<string-name>
+<given-names>C.</given-names>
+<surname>Hebert</surname>
+</string-name>, <source>Chem. Phys.</source>
+<volume>392</volume>, <fpage>1</fpage> (<year>2012</year>).<pub-id pub-id-type="doi">10.1016/j.chemphys.2011.10.010</pub-id></mixed-citation></ref><ref id="c119"><label>119.</label><mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names>
+<surname>Ekimova</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names>
+<surname>Quevedo</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names>
+<surname>Faubel</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names>
+<surname>Wernet</surname>
+</string-name>, and 
+<string-name>
+<given-names>E. T. J.</given-names>
+<surname>Nibbering</surname>
+</string-name>, <source>Struct. Dyn.</source>
+<volume>2</volume>, <fpage>054301</fpage> (<year>2015</year>).<pub-id pub-id-type="doi">10.1063/1.4928715</pub-id><pub-id pub-id-type="pmid">26798824</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig fig-type="figure" id="f1" orientation="portrait" position="float"><label>FIG. 1.</label><caption><p>X-ray absorption spectra of colloidal solutions of anatase and amorphous TiO<sub>2</sub> NPs (pre-edge and near-edge regions). (a) Ti K-edge absorption spectra of bare anatase and amorphous TiO<sub>2</sub> NPs. The pre-edge peaks A<sub>1</sub>&#x02013;A<sub>3</sub> and B are due to dipole-forbidden 1s-3d transitions. (b) Transient X-ray absorption spectrum (XAS) of bare anatase TiO<sub>2</sub> NPs excited at 355&#x02009;nm at a time delay of 100 ps (black) together with the calculated difference spectrum (red dashed line). The latter is obtained by the amorphous steady-state spectrum shifted by &#x0223c;1&#x02009;eV minus the anatase spectrum. (c) Transient XAS of the N719 ruthenium dye-sensitized anatase TiO<sub>2</sub> NPs at a time delay of 100 ps (blue) after excitation at 532&#x02009;nm. The dashed red trace is the same as in (b). Reproduced with permission from Rittmann-Frank <italic>et al</italic>., Ang. Chem. Int. Ed. <bold>53</bold>, 5858 (2014). Copyright 2014 Wiley-VCH Verlag GmbH &#x00026; Co. KGaA, Weinheim.</p></caption><graphic xlink:href="SDTYAE-000003-031001_1-g001"/></fig><fig fig-type="figure" id="f2" orientation="portrait" position="float"><label>FIG. 2.</label><caption><p>(a) Steady-state Fe K-edge absorption spectra of MbNO and (unligated) deoxy-Mb. (b) Transient spectrum (excited minus unexcited sample X-ray absorption) recorded 70 ps after excitation of the sample at 532&#x02009;nm (o; with error bars). The difference of the deoxy-Mb minus MbNO (called the static difference spectrum) steady-state X-ray absorption spectra (a) is shown in red. The deviations around 7.135&#x02009;keV and 7.165&#x02009;keV between the two traces are due to the formation of a domed ligated heme. Reproduced with permission from Silatani <italic>et al</italic>., Proc. Natl. Acad. Sci. U.S.A. <bold>112</bold>, 12922 (2015). Copyright 2015 National Academy of Sciences.</p></caption><graphic xlink:href="SDTYAE-000003-031001_1-g002"/></fig><fig fig-type="figure" id="f3" orientation="portrait" position="float"><label>FIG. 3.</label><caption><p>Oxygen K-edge XES (left) and XAS (right) spectra (markers) of CO/Ru(0001) and the corresponding fits (solid lines) measured at two selected pump-probe delays. The peak deconvolution resulting from the fit of the spectra acquired at &#x00394;t&#x02009;=&#x02009;&#x02212;1 ps is shown with coloured lineshapes. The XAS data have been fitted with a Gaussian peak for the O1s&#x02192;2<inline-formula><mml:math id="M1"><mml:mrow><mml:mover accent="true"><mml:mi>&#x003c0;</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula>* resonance. The XES spectra have been fitted with three peaks of Voigt lineshape for the 1<inline-formula><mml:math id="M2"><mml:mrow><mml:mover accent="true"><mml:mi>&#x003c0;</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula>, 5<inline-formula><mml:math id="M3"><mml:mrow><mml:mover accent="true"><mml:mi>&#x003c3;</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula>, and 4<inline-formula><mml:math id="M4"><mml:mrow><mml:mover accent="true"><mml:mi>&#x003c3;</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> orbitals and an asymmetric Gaussian for the d<inline-formula><mml:math id="M5"><mml:mrow><mml:mover accent="true"><mml:mi>&#x003c0;</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula> states; the elastic peak is indicated in light blue around 534&#x02009;eV. The fit of the spectra at &#x00394;t&#x02009;=&#x02009;12 ps has been performed by varying only intensity and position of the previously determined components. (Top) The positions of the fitted components measured in previous resonant gas phase experiments are also indicated.<xref rid="c89" ref-type="bibr"><sup>89</sup></xref> (Middle) A schematic illustration of the excitation process from the O1s level to the unoccupied 2<inline-formula><mml:math id="M6"><mml:mrow><mml:mover accent="true"><mml:mi>&#x003c0;</mml:mi><mml:mo>&#x002dc;</mml:mo></mml:mover></mml:mrow></mml:math></inline-formula>* resonance in XAS and the core hole decay process from occupied molecular orbitals back to the O1s in XES. Reproduced with permission from Dell'Angela <italic>et al</italic>., Science <bold>339</bold>, 1302 (2013). Copyright 2013 American Association for the Advancement of Science.</p></caption><graphic xlink:href="SDTYAE-000003-031001_1-g003"/></fig><fig fig-type="figure" id="f4" orientation="portrait" position="float"><label>FIG. 4.</label><caption><p>Ultrafast X-ray emission spectroscopy (XES) of the bimetallic RuCo complex [(bpy)<sub>2</sub><sup>1</sup>Ru<sup>II</sup>(tpphz)<sup>1</sup>Co<sup>III</sup>(bpy)<sub>2</sub>]<sup>5+</sup> (bpy&#x02009;=&#x02009;bipyridine, tpphz&#x02009;=&#x02009;tetrapyridophenazine): (a) Transient Co K&#x003b1;1 at 2.5 (red) and 20 ps (blue) pump-probe delay. The shaded areas indicate the uncertainty level. The dashed black curve is the simulated reference for a <sup>1</sup>Co<sup>III</sup>(LS)-<sup>4</sup>Co<sup>II</sup>(HS) conversion, scaled to the 20 ps trace. (b) Kinetic trace at 6.93&#x02009;keV (red dots, with error bars) and single-exponential fit with a 1.9 ps lifetime, broadened by a 520&#x02009;&#x000b1;&#x02009;410 fs XFEL Instrument response function (blue line). Reproduced with permission from Canton <italic>et al</italic>., Nat. Commun. <bold>6</bold>, 6359 (2015). Copyright 2015 Macmillan Publishers Limited.</p></caption><graphic xlink:href="SDTYAE-000003-031001_1-g004"/></fig><fig fig-type="figure" id="f5" orientation="portrait" position="float"><label>FIG. 5.</label><caption><p>HEROS spectra of Cu metal for 2000 self-seeded shots (black curve). The error bars represent the standard deviation of the total counts. For comparison, we plot the calculated spectrum using the Kramers-Heisenberg relation and a Cu K-edge XAS spectrum recorded at a synchrotron facility shown in inset. The calculated curve represents the sum of two spectra relating to the final electronic states of 2p<sub>3/2</sub> and 2p<sub>1/2</sub>. Reproduced with permission from Struct. Dyn. <bold>1</bold>, 021101 (2014). Copyright 2014 AIP Publishing LLC.</p></caption><graphic xlink:href="SDTYAE-000003-031001_1-g005"/></fig><fig fig-type="figure" id="f6" orientation="portrait" position="float"><label>FIG. 6.</label><caption><p>Four wave mixing (FWM) experiments with EUV transient gratings. (a) Sketch of the FEL-based FWM experiment: 2 EUV pulses (27.6&#x02009;nm) and an optical pulse (392.8&#x02009;nm) are crossed at well-defined angles. The two FEL beams generate the EUV dynamic grating on the sample. The time evolution of the TG is probed by the scattering of the optical pulse. A CCD sensor is placed in the expected propagation direction of the FWM signal beam, which is determined by the phase matching conditions of the three pulses. Reproduced with permission from Bencivenga <italic>et al</italic>., Nature <bold>520</bold>, 205 (2015). Copyright 2015 Macmillan Publishers Limited.</p></caption><graphic xlink:href="SDTYAE-000003-031001_1-g006"/></fig><fig fig-type="figure" id="f7" orientation="portrait" position="float"><label>FIG. 7.</label><caption><p>Time evolution of the EUV FWM signal of a vitreous SiO<sub>2</sub> sample with the surface oriented orthogonally to the bisector of the FEL beams (Figure <xref ref-type="fig" rid="f4">4</xref>). (a) Black circles show the time dependence of the FWM signal, scaled to the intensity of the input beams. The blue and red lines are cross-correlation and the expected signal modulation (expanded for better visibility) due to acoustic modes, respectively. (b) Black circles connected by lines are the FWM signal after subtraction of the cross-correlation peak. The red line is the modulation due to oscillations of optical phonons at frequencies 1.15 THz and 4.1 THz. Reproduced with permission from Bencivenga <italic>et al</italic>., Nature <bold>520</bold>, 205 (2015). Copyright 2015 Macmillan Publishers Limited.</p></caption><graphic xlink:href="SDTYAE-000003-031001_1-g007"/></fig></floats-group></article>

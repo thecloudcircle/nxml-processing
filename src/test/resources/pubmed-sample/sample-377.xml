@@ -1,0 +1,517 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">17285143</article-id><article-id pub-id-type="pmc">1781342</article-id><article-id pub-id-type="publisher-id">06-PONE-RA-00337R1</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0000189</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Evolutionary Biology</subject><subject>Genetics and Genomics</subject><subject>Molecular Biology</subject></subj-group></article-categories><title-group><article-title>Insights into the Molecular Evolution of the PDZ/LIM Family and Identification of a Novel Conserved Protein Motif</article-title><alt-title alt-title-type="running-head">Analysis of the PDZ/LIM Family</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>te Velthuis</surname><given-names>Aartjan J.W.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Isogai</surname><given-names>Tadamoto</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Gerrits</surname><given-names>Lieke</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bagowski</surname><given-names>Christoph P.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="n101">
+<sup>&#x0002a;</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Integrative Zoology, Institute of Biology, Leiden University, Leiden, The Netherlands</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Molecular and Cellular Biology, Institute of Biology, Leiden University, Leiden, The Netherlands</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Copley</surname><given-names>Richard</given-names></name><role>Academic Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Wellcome Trust Centre for Human Genetics, United Kingdom</aff><author-notes><corresp id="n101">&#x0002a; To whom correspondence should be addressed. E-mail: <email>bagowski@rulbim.leidenuniv.nl</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: CB. Performed the experiments: CB At. Analyzed the data: CB At LG TI. Contributed reagents/materials/analysis tools: CB At. Wrote the paper: CB.</p></fn></author-notes><pub-date pub-type="collection"><year>2007</year></pub-date><pub-date pub-type="epub"><day>7</day><month>2</month><year>2007</year></pub-date><volume>2</volume><issue>2</issue><elocation-id>e189</elocation-id><history><date date-type="received"><day>10</day><month>11</month><year>2006</year></date><date date-type="accepted"><day>11</day><month>1</month><year>2007</year></date></history><permissions><copyright-statement>te Velthuis et al.</copyright-statement><copyright-year>2007</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><p>The PDZ and LIM domain-containing protein family is encoded by a diverse group of genes whose phylogeny has currently not been analyzed. In mammals, ten genes are found that encode both a PDZ- and one or several LIM-domains. These genes are: ALP, RIL, Elfin (CLP36), Mystique, Enigma (LMP-1), Enigma homologue (ENH), ZASP (Cypher, Oracle), LMO7 and the two LIM domain kinases (LIMK1 and LIMK2). As conventional alignment and phylogenetic procedures of full-length sequences fell short of elucidating the evolutionary history of these genes, we started to analyze the PDZ and LIM domain sequences themselves. Using information from most sequenced eukaryotic lineages, our phylogenetic analysis is based on full-length cDNA-, EST-derived- and genomic- PDZ and LIM domain sequences of over 25 species, ranging from yeast to humans. Plant and protozoan homologs were not found. Our phylogenetic analysis identifies a number of domain duplication and rearrangement events, and shows a single convergent event during evolution of the PDZ/LIM family. Further, we describe the separation of the ALP and Enigma subfamilies in lower vertebrates and identify a novel consensus motif, which we call &#x02018;ALP-like motif&#x02019; (AM). This motif is highly-conserved between ALP subfamily proteins of diverse organisms. We used here a combinatorial approach to define the relation of the PDZ and LIM domain encoding genes and to reconstruct their phylogeny. This analysis allowed us to classify the PDZ/LIM family and to suggest a meaningful model for the molecular evolution of the diverse gene architectures found in this multi-domain family.</p></abstract><counts><page-count count="11"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>The sequencing and annotation of an increasing number of genomes has led to a huge amount of protein sequence data. The goal of functional genomics is to determine the function of these proteins. For this purpose, it is essential to construct a comprehensive evolutionary classification of proteins and their families, which can be especially useful if members of the same protein family have similar or identical biochemical functions <xref rid="pone.0000189-Hergyi1" ref-type="bibr">[1]</xref>. The classification of protein families is based on homologous relationships and several methods are currently available for clustering proteins into families <xref rid="pone.0000189-Apic1" ref-type="bibr">[2]</xref>, <xref rid="pone.0000189-Copley1" ref-type="bibr">[3]</xref>. Most of those approaches rely on sequence similarity measures, such as those obtained with BLAST <xref rid="pone.0000189-Altschul1" ref-type="bibr">[4]</xref> or hidden Markov models <xref rid="pone.0000189-Eddy1" ref-type="bibr">[5]</xref>. Because many proteins contain multiple domains, many of these methods of protein clustering result in the establishment of incorrect families. This problem is complicated in metazoan proteomes, and the human proteome in particular, where multi-domain proteins are abundant.</p><p>Domains are the building blocks of all globular proteins and present one of the most useful levels at which protein function can be understood <xref rid="pone.0000189-Copley1" ref-type="bibr">[3]</xref>. There is a limited repertoire of types of domains <xref rid="pone.0000189-Chothia1" ref-type="bibr">[6]</xref>, <xref rid="pone.0000189-Yuri1" ref-type="bibr">[7]</xref> and the domains from this set are duplicated and recombined in different ways to form the respective proteomes of various genomes in life. Although the presence of a shared domain (or more than one shared domain) can be an indicator of similar functions <xref rid="pone.0000189-Hegyi1" ref-type="bibr">[8]</xref>, it does not necessarily imply it <xref rid="pone.0000189-Henikoff1" ref-type="bibr">[9]</xref>. The repertoire of different architectures present in the genomes has arisen by the duplication and recombination of the ancestral superfamily domains. Convergent evolution of gene architectures has been defined as more than one independent evolutionary event (recombination) leading to the same domain architecture <xref rid="pone.0000189-Gough1" ref-type="bibr">[10]</xref>.</p><p>PDZ and LIM domains are both interaction modules, present in proteins with diverse functions and assorted additional domains. Originally PDZ domains were recognized in the postsynaptic density protein PSD-95 <xref rid="pone.0000189-Cho1" ref-type="bibr">[11]</xref>, the septate junction protein Discs-large of <italic>Drosophila melanogaster</italic>
+<xref rid="pone.0000189-Woods1" ref-type="bibr">[12]</xref> and the epithelial tight junction protein ZO-1 <xref rid="pone.0000189-Itoh1" ref-type="bibr">[13]</xref>. PDZ domains play important roles in organizing cell signaling assemblies <xref rid="pone.0000189-Harris1" ref-type="bibr">[14]</xref> and are found in plants, yeast, bacteria and a variety of metazoans <xref rid="pone.0000189-Ponting1" ref-type="bibr">[15]</xref>, <xref rid="pone.0000189-Ponting2" ref-type="bibr">[16]</xref>. They recognize short C-terminal peptide motifs, internal sequences resembling a C-terminus and have further been shown to bind to phospholipids <xref rid="pone.0000189-Harris1" ref-type="bibr">[reviewed in 14]</xref>, <xref rid="pone.0000189-Jelen1" ref-type="bibr">[17]</xref>.</p><p>The predominance of PDZ domains in metazoans was proposed to indicate their co-evolution with multicellularity. Proportionately fewer PDZ domains are found in bacteria and yeast. However, a relatively low number of PDZ domains are found to be encoded in plant genomes. PDZ domains were found to be present in proteins from phylogenetically diverse groups of bacteria <xref rid="pone.0000189-Pallen1" ref-type="bibr">[18]</xref> and it was suggested that PDZ domains might have entered the bacterial and plant genomes by horizontal gene transfer. This hypothesis was based on the observation that human and bacterial htrA genes were significantly more similar to each other than either is to each of the yeast htra-like repeats <xref rid="pone.0000189-Ponting2" ref-type="bibr">[16]</xref>. Indeed, the yeast PDZ-like domains found in the four htrAs exhibit extremely low sequence homology to the metazoan consensus PDZ domains.</p><p>The LIM domain is a tandem zinc-finger structure that functions, like the PDZ, as a protein-protein interaction module <xref rid="pone.0000189-Bach1" ref-type="bibr">[19]</xref>&#x02013;<xref rid="pone.0000189-Kadrmas1" ref-type="bibr">[21]</xref>. LIM domains are found in proteins from a wide variety of eukaryotic organisms although fewer LIMs are found in yeast and plants compared to vertebrates for example <xref rid="pone.0000189-Bach1" ref-type="bibr">[19]</xref>, <xref rid="pone.0000189-Briere1" ref-type="bibr">[22]</xref> (this is similar to the PDZ domains). We have found only a single bacterial LIM domain from <italic>Chloroflexus aurantiacus</italic> in a database search (UniProt Q3E5J3). Dawid et al. <xref rid="pone.0000189-Dawid1" ref-type="bibr">[20]</xref> have classified LIM domains into five groups. More recently, Kadrmas and Beckerle described only four distinct LIM groups and showed that invertebrates, like <italic>Drosophila melanogaster</italic> and <italic>Caenorhabditis elegans</italic> express nearly the same complement of LIM protein groups but show decreased complexity within each of them <xref rid="pone.0000189-Kadrmas1" ref-type="bibr">[21]</xref>. Both the PDZ and the LIM domains in proteins are most frequently found in combination with other domains. Most multi-domain proteins are related from gene fusions, deletions and internal repetitions <xref rid="pone.0000189-Thornton1" ref-type="bibr">[23]</xref>. An investigation of these evolutionary events requires a method to find the domain architecture from which each protein originates. The techniques of molecular phylogenetics, developed to recover the nested hierarchy of taxa from character information in their gene and/or protein sequences, can reconstruct the evolutionary family history. However, the evolutionary diversification of protein families often leads to structural differences, which makes their phylogenetic characterization difficult. Differences in domain architecture among multi-domain proteins for example often have raised the question of whether these proteins are orthologous, even though they have clearly arisen, at least in part, from a common ancestor. Considering all these problems, it has been suggested that the concept of orthology is applicable only at the level of domains rather than at the level of proteins <xref rid="pone.0000189-Koonin1" ref-type="bibr">[24]</xref>, <xref rid="pone.0000189-Ponting3" ref-type="bibr">[25]</xref>, except for proteins with identical domain architectures. Recently, the LAP family, which contain genes with both LRR and PDZ domains, has been classified by phylogenetic analysis showing the feasibility of an approach using domain sequences to obtain phylogenetic data <xref rid="pone.0000189-Santoni1" ref-type="bibr">[26]</xref>.</p><p>The PDZ/LIM family is a good example of a multi domain protein family with diverse gene architectures. All family members have been shown to be able to associate with the actin cytoskeleton <xref rid="pone.0000189-Yang1" ref-type="bibr">[e.g. 27]</xref>, <xref rid="pone.0000189-Klaavuniemi1" ref-type="bibr">[28]</xref>&#x02013;<xref rid="pone.0000189-Nakagawa1" ref-type="bibr">[30]</xref>. The ALP and Enigma subfamily genes are together with LMO7 able to bind &#x003b1;-actinin via their PDZ domains <xref rid="pone.0000189-Ooshio1" ref-type="bibr">[e.g. 31]</xref>, <xref rid="pone.0000189-Andersen1" ref-type="bibr">[32]</xref>, <xref rid="pone.0000189-Zhou1" ref-type="bibr">[33]</xref>. Important biological roles have been described for muscle and heart development (ZASP <xref rid="pone.0000189-Zhou2" ref-type="bibr">[34]</xref>, <xref rid="pone.0000189-vanderMeer1" ref-type="bibr">[35]</xref>, ALP <xref rid="pone.0000189-Pashmforoush1" ref-type="bibr">[36]</xref>), bone morphogenesis (Enigma <xref rid="pone.0000189-Boden1" ref-type="bibr">[37]</xref>) and development of the nervous system and reproductive cells (LIM kinases <xref rid="pone.0000189-Takahashi1" ref-type="bibr">[38]</xref>&#x02013;<xref rid="pone.0000189-Takahashi3" ref-type="bibr">[41]</xref>). In addition, LMO7, Mystique, RIL and the LIM kinases have all been linked to carcinogenesis and metastasis <xref rid="pone.0000189-Kang1" ref-type="bibr">[42]</xref>&#x02013;<xref rid="pone.0000189-Suyama1" ref-type="bibr">[47]</xref>.</p><p>In order to characterize this family, we used a combinatorial approach, analyzing phylogenies of intronic sequences, of full length sequences and of sequence information for structural domains. Our results show that it is possible to derive a meaningful model for the molecular evolution of the PDZ/LIM family and characterize the phylogeny of its members.</p></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>Genomic structures and gene architectures of the PDZ/LIM family</title><p>An overview of the gene architectures for the ten human genes encoding the PDZ/LIM protein family is shown in <xref ref-type="fig" rid="pone-0000189-g001">figure 1A</xref>. All genes contain a single central- or N-terminal-positioned PDZ domain. Single or multiple LIM domains are positioned either N-terminal or C-terminal from the PDZ domain (<xref ref-type="fig" rid="pone-0000189-g001">Fig. 1B</xref>). Besides the PDZ and LIM domains, different motifs and domains can be found. Another protein interaction domain found in LMO7, is the Calponin homology (CH) domain <xref rid="pone.0000189-Lehman1" ref-type="bibr">[see for a review e.g. 48]</xref>. One catalytic domain, a tyrosine kinase domain is present in both LIMK1 and LIMK2. Furthermore, a ZASP-like motif (ZM motif) is found in <italic>ZASP, ALP</italic> and <italic>Elfin</italic>
+<xref rid="pone.0000189-Klaavuniemi2" ref-type="bibr">[49]</xref>. The ZM motif has been described to function in concert with the PDZ domain to localize ZASP to &#x003b1;-actinin, the major Z-disk cross linker in sarcomers <xref rid="pone.0000189-Klaavuniemi1" ref-type="bibr">[28]</xref>, <xref rid="pone.0000189-Klaavuniemi2" ref-type="bibr">[49]</xref>.</p><fig id="pone-0000189-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0000189.g001</object-id><label>Figure 1</label><caption><p>Exon structure, domain composition and the six basic forms of PDZ/LIM genes. (A) The exon composition of the human PDZ-LIM domain encoding genes in alphabetical order. Indicated are <italic>ALP</italic> (ENSG00000154553), <italic>ZASP</italic> (ENSG00000122367, Elfin (ENSG00000107438), ENIGMA (ENSG00000196923), <italic>Enigma-Homolog</italic> (ENH) (ENSG00000163110) <italic>LIMK1</italic> (ENSG00000106683, OTTHUMG00000023448), <italic>LIMK2</italic> (ENSG00000182541), <italic>LMO7</italic> (ENSG00000136153), <italic>Mystique</italic> (ENSG00000120913) and RIL (ENSG00000131435). Domains are color coded on the exons: LIM yellow, PDZ blue, CH red and ZM motif green, while transcription start sites are indicated after non coding regions (colored white) with a small arrow on top. (B) Presence of domain architectures for PDZ and LIM genes and their species distribution. Six basic gene structures can be found amongst the different taxons. The <italic>tungus gene</italic>, found in the two <italic>arthropod species investigated and the nematode homolog Eat-1 both</italic> encode one N-terminal PDZ and four C-terminal LIM domains. Eat-1 has been described earlier as the <italic>Caenorhabditis elegans</italic> ALP/Enigma gene <xref rid="pone.0000189-McKeown1" ref-type="bibr">[50]</xref>. Only a single <italic>LIMK</italic> gene was found per invertebrate species examined, and the <italic>LMO7</italic> homolog lacks the CH domain (<italic>CG31534</italic>). The LMO7 gene of <italic>Drosophila</italic> melanogaster lacks not only the CH domain but also the PDZ domain (not shown, see <xref ref-type="supplementary-material" rid="pone.0000189.s002">Supplemental table S1</xref>). As not all ALP and Enigma subfamily members share the ZM domain (ZASP and ALP contain 2 and Elfin one ZM motif) we have excluded the ZM motif from these groups and show only a ZM motif for eat-1/tungus in this figure.</p></caption><graphic xlink:href="pone.0000189.g001"/></fig><p>A close examination of the gene architecture of the PDZ and LIM domain encoding genes found in metazoan taxons reveals different combinations for the assembly of these functional domains (<xref ref-type="fig" rid="pone-0000189-g001">Fig. 1B</xref>). Four groups of combinations, representing LMO7, the ALP subfamily, the Enigma subfamily and the LIMKs respectively, are found in vertebrates. Both the number of combinations as well as the total number of genes found increases from the invertebrates to the vertebrates (see <xref ref-type="fig" rid="pone-0000189-g001">Fig. 1B</xref>). Only two different combinations can be found in C<italic>aenorhabditis elegans</italic>: <italic>eat-1</italic>, the previously described single gene &#x0201c;ALP/Enigma&#x0201d; homolog <xref rid="pone.0000189-McKeown1" ref-type="bibr">[50]</xref> and <italic>tag204</italic> (<underline>t</underline>emporarily <underline>a</underline>ssigned <underline>g</underline>ene 204), the<italic> Caenorhabditis elegans LMO7</italic> homolog. In <italic>Drosophila melanogaster,</italic> an <italic>eat-1</italic> homolog (<italic>tungus</italic>), a <italic>LMO7</italic> homolog (CG31534) and a <italic>LIMK1</italic> (AB042816) homolog is found. In contrast to both the <italic>Caenorhabditis elegans</italic> and the <italic>Drosophila melanogaster LMO7</italic> homologs, <italic>LMO7</italic> of <italic>Ciona intestinalis</italic> appears to have a CH domain. No combination of PDZ and LIM domain(s) was found for taxons in the <italic>Plantae</italic> or <italic>Fungi</italic> lineages with the BLAST algorithm <xref rid="pone.0000189-Altschul1" ref-type="bibr">[4]</xref> in the databases used (see <xref ref-type="sec" rid="s4">Material and Methods</xref>).</p></sec><sec id="s2b"><title>Evolution of the ALP/Enigma subfamilies</title><p>As an initial starting point to study the molecular evolution of the PDZ/LIM family, we performed the phylogenetic analysis of the ALP and Enigma subfamilies, using full length amino acid sequences for the different groups (see <xref ref-type="supplementary-material" rid="pone.0000189.s002">table S1</xref> and <xref ref-type="supplementary-material" rid="pone.0000189.s003">S2</xref> for accession numbers).</p><p>
+<xref ref-type="fig" rid="pone-0000189-g002">Figure 2A</xref> shows the rooted phylogenetic tree inferred for the Enigma subfamily using the <italic>Ciona intestinalis</italic> ZASP sequences as an outgroup. It shows a topology of the form (ZASP (Enigma, Enigma Homolog)). The ZASP homolog, with one PDZ and three LIM domains, was present in both urochordates and vertebrates (see Chordata in <xref ref-type="fig" rid="pone-0000189-g001">Fig. 1B</xref>). The phylogenetic tree in <xref ref-type="fig" rid="pone-0000189-g002">figure 2A</xref> clearly shows the split between urochordates and vertebrates.</p><fig id="pone-0000189-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0000189.g002</object-id><label>Figure 2</label><caption><p>Phylogenetic trees of the Enigma and ALP subfamilies, the LIM kinases and LMO7 using full length sequences. (A,B,D and E) and PDZ domain sequences (C). In all phylogenetic trees shown, are the percentages for Bayesian posterior probability (first number) and for Maximum Likelihoods (second number) indicated at the branches. In figure C only the major branches are labeled for better overview. The two letter abbreviations used refer to genus and species, with the first capital letter and the second non-capital letter, respectively. All abbreviations used are given in <xref ref-type="sec" rid="s4">material and methods</xref>. ENH is used for Enigma homolog (A) Shown is a phylogenic tree based on the full-length sequences of members of the Enigma subfamily. (B) Phylogenetic analysis for the ALP subfamily, based on full length sequences of selected homologs. (C) Evolutionary tree based on the PDZ domains of both ALP and Enigma subfamilies. (D) Phylogeny of the LIM domain kinases based on full length amino acid sequences. The root is placed on the <italic>Drosophila melanogaster</italic> homolog. The fruitfly homolog (which roots with the Uruchordate homolog found in <italic>Ciona intestinalis</italic>) gives rise to the common ancestor for the vertebrate LIM kinases. This ancestor then duplicates into LIMK1 and LIMK2, which are both present in all the vertebrate species investigated. (E) Evolutionary tree of LMO7 genes. The tree is rooted to the <italic>Caenorhabditis elegans</italic> sequence of tag-204, which has a similar structure to LMO7, albeit without the CH domain.</p></caption><graphic xlink:href="pone.0000189.g002"/></fig><p>The analysis of the ALP subfamily shows a topology of the form (ALP (RIL (Elfin, Mystique))) (<xref ref-type="fig" rid="pone-0000189-g002">Fig. 2B</xref> and <xref ref-type="supplementary-material" rid="pone.0000189.s001">Figure S1</xref>).</p><p>A combined phylogenetic analysis for the PDZ domain sequences of the two subfamilies is shown in <xref ref-type="fig" rid="pone-0000189-g002">figure 2C</xref>. The results here indicate that both the ALP subfamily and the Enigma subfamily evolved from a &#x0201c;one PDZ four LIM&#x0201d; ancestral gene like <italic>eat-1/tungus</italic> (tungus being the <italic>Drosophila melanogaster</italic> ortholog). The data suggest that loss of three LIM domains (LIM 2&#x02013;4) from the common 4 LIM domain-containing ancestral gene leads to the ALP subfamily; whereas loss of one LIM domain (LIM1) leads to the three LIM domain containing Enigma subfamily. To further investigate the separation between the ALP and Enigma groups, we have searched for PDZ/LIM genes in <italic>Ciona intestinalis</italic> (Urochordata), in Amphioxus (Euchordata) in hagfish (Hyperotreti), in the lamprey (Hyperoartia) and in sharks and rays (Chondrichthyes). The results of the phylogenetic analysis are shown in <xref ref-type="fig" rid="pone-0000189-g002">figure 2C</xref>.</p></sec><sec id="s2c"><title>Evolution of the LIM kinases and LMO-7</title><p>Similar to the limited approach, using full length sequences for only the subfamilies, we analyzed the LIM kinases and LMO7 (<xref ref-type="fig" rid="pone-0000189-g002">Fig. 2D and 2E</xref>, respectively). <xref ref-type="fig" rid="pone-0000189-g002">Figure 2D</xref> indicates a gene duplication event in the common ancestor for both LIM kinases, but also suggests that the separation leading to <italic>LIMK1</italic> and <italic>LIMK2</italic> did not occur before the chordates split from the other deuterostomes, since it appears that the ancestral LIM kinase gene duplicated after <italic>Ciona intestinalis</italic>. We further observed that the <italic>LIMK2</italic> homologs of both <italic>Xenopus laevis</italic> (Q8QHM0) and <italic>Xenopus tropicalis</italic> (ENSXETP00000009075) encode only one LIM domain (in contrast to the <italic>Xenopus LIMK 1</italic>, which contains two LIM domains), suggesting that the frogs lost a LIM (see <xref ref-type="supplementary-material" rid="pone.0000189.s002">table S1</xref>).</p></sec><sec id="s2d"><title>Identification of novel ZASP-like genes containing a PDZ domain and a ZM motif</title><p>A short zebrafish ZASP-like gene containing only the PDZ domain and a ZM-motif had been described in GenBank (NM_201505). We described earlier similar structured short splice forms of the zebrafish <italic>ZASP</italic> gene, which could point to important functional similarities. In this study, we have now identified short ZASP-like genes in several species (<italic>Caenorhabditis elegans, D. melanogaster, and Ciona intestinalis</italic>) but were not able to find another vertebrate homolog in addition to the zebrafish gene. In an analysis based on the PDZ domain sequences (<xref ref-type="fig" rid="pone-0000189-g002">Fig. 2C</xref>) all invertebrate <italic>ZASP-like</italic> homologs segregated close to <italic>eat</italic>-1 and <italic>tungus</italic> whereas the zebrafish <italic>ZASP-like</italic> gene is closely related to zebrafish <italic>ZASP</italic>, indicating that a partial duplication event (or a complete duplication followed by partial truncation) occurred twice during evolution (<xref ref-type="fig" rid="pone-0000189-g002">Fig. 2C</xref>) and generated the ZASP-like structure. The zebrafish also contains an extra gene that resembles the normal members of the ALP subfamily. We have previously shown via a basic phylogenetic analysis on the full length amino acid sequence that the <italic>alp-like</italic> gene, clusters very closely to the normal <italic>alp</italic> gene of zebrafish <xref rid="pone.0000189-teVelthuis1" ref-type="bibr">[51]</xref>. In contrast to <italic>alp, alp-like</italic> lacks one of the ZM-motifs and is only found in zebrafish not in any other species including other fishes (<xref ref-type="fig" rid="pone-0000189-g002">Fig. 2C</xref>).</p></sec><sec id="s2e"><title>Identification of a novel highly-conserved ALP-like motif (AM)</title><p>Examination of the multiple amino acid sequence alignments, between PDZ/LIM family proteins of different species revealed a novel motif, specific for the ALP subfamily members, which we denoted ALP-like motif (AM) (<xref ref-type="fig" rid="pone-0000189-g003">Fig. 3</xref>). The motif was not present in any known motif/structure databases. The primary 34 amino acid long sequence of the ALP-like motif contains a putative consensus PKC phosphorylation site and secondary structure prediction suggests two &#x003b1;-helices, one in the beginning and one at the end (<xref ref-type="fig" rid="pone-0000189-g003">Fig. 3</xref>). A closer look into the genomic structures of the <italic>ALP</italic> subfamily genes indicated that this domain was always encoded by the fifth exon. Together these findings suggest that the ALP-like motif must have evolved after the separation of the ALP and Enigma subfamilies.</p><fig id="pone-0000189-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0000189.g003</object-id><label>Figure 3</label><caption><p>Sequence alignments showing the conserved motifs. (A) Conserved amino acids constituting the Alp-like (AM) motif, which was only present in the ALP family genes and neither found neither in the Enigma subfamily nor in their mutual precursor <italic>eat-1/tungus.</italic> (B) Conserved amino acids constituting the ZASP-like (ZM) motif found in both ALP subfamily and Enigma subfamily genes.</p></caption><graphic xlink:href="pone.0000189.g003"/></fig><p>This is in contrast to the ZASP-like motif (ZM) which is found in both subfamilies as well as in the ancestral Eat-1 gene. In <xref ref-type="fig" rid="pone-0000189-g003">figure 3</xref> we show alignments for both motifs, however it is important to note that we have newly discovered the ALP-like motif and denoted it AM in analogy to the earlier denoted ZASP-like motif (ZM), but no structural or functional similarity is apparent between both motifs. Future studies are warranted to shed light on the function of the Alp-like motif (AM).</p></sec><sec id="s2f"><title>Evolution of the PDZ and LIM domains</title><p>The phylogenetic analysis of specific individual domains, or their combinations, obtained from multiple domain-containing proteins can give insights into the mechanisms of protein evolution. Any phylogenetic analysis on full length sequence alignments may fail as robust structural variations, which are often present among protein groups or families, can prevent such an approach. The PDZ/LIM family illustrates complex domain arrangements in a multi-domain protein family (<xref ref-type="fig" rid="pone-0000189-g001">Fig. 1A and 1B</xref>).</p><p>We analyzed full length cDNA-, EST-derived- and genomic- PDZ and LIM domain sequences from over 25 species, ranging from yeast to humans (see <xref ref-type="supplementary-material" rid="pone.0000189.s002">table S1</xref>). All results obtained were supported by high Bayesian and Maximum likelihood support values.</p><p>The initial dendogram derived from amino acid sequences of LIM domains (<xref ref-type="fig" rid="pone-0000189-g004">Fig. 4</xref>) illustrates the different clusters for the subfamilies and groups and individual LIM domains. The dendogram shows that three LIM domains of the Enigma subfamily individually cluster together (<xref ref-type="fig" rid="pone-0000189-g004">Fig. 4</xref>). It further demonstrates that all LIM domains found in the Protist <italic>Dictyostelium discoideum</italic> all cluster together (marked in red) to the exclusion of LIM domains in other species. Therefore, we used a <italic>Dictyostelium discoideum</italic> LIM domain as an outgroup for our phylogenetic analysis of the LIM domains.</p><fig id="pone-0000189-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0000189.g004</object-id><label>Figure 4</label><caption><p>Dendogram of a representative set of LIM domains. Sequence comparisons of LIM domains in a Dendogram, with different clusters color-coded. We included all non-redundant LIM domains found in <italic>Dictyostelium discoideum</italic> and all from <italic>C. elegans</italic> and added the closest homologs of PDZ/LIM family LIM domains from different species, which were identified via BLAST search. The Dictyostelium discoideum sequences are marked in red and cluster all together and not with any other of the LIM domain clusters.</p></caption><graphic xlink:href="pone.0000189.g004"/></fig><p>The evolutionary trees of the PDZ- and the LIM-domains, derived from this analysis are depicted in <xref ref-type="fig" rid="pone-0000189-g005">figure. 5A and 5B</xref>, respectively. Rooted evolutionary trees are shown (using yeast (<xref ref-type="fig" rid="pone-0000189-g005">Fig. 5A</xref>) and <italic>Dictyostelium discoideum</italic> (<xref ref-type="fig" rid="pone-0000189-g005">Fig. 5B</xref>) sequences as outgroups). For a better overview of the complete analysis, only ALP and ZASP are shown here as examples for the ALP- and Enigma-subfamilies.</p><fig id="pone-0000189-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0000189.g005</object-id><label>Figure 5</label><caption><p>Phylogenetic analysis of PDZ and LIM domains. (A) The evolutionary tree for the PDZ domains is shown. The percentages for Bayesian posterior probability (first number) and for Maximum Likelihoods (second number) are indicated at the branches. The tree is rooted using the PDZ domain of the yeast (<italic>S. cerevisiae</italic>) NAS2 protein as an outgroup. The percentage Bayesian posterior probability and percentage Maximum Likelihood are indicated at the branches (Bayesian/Likelihood). All species can be identified from the last two letters of the taxon labels. All species cluster according to their appearance in the tree of life (<ext-link ext-link-type="uri" xlink:href="http://www.tol.org">www.tol.org</ext-link>) with the exception of the LIMK1 for <italic>Xenopus tropicalis</italic> and <italic>Gallus gallus</italic>, which are in reverse order, this was already seen in the full length analysis of the LIM kinases for the frog and chicken homolog (<xref ref-type="fig" rid="pone-0000189-g002">Fig. 2D</xref>). (B) The phylogenetic analysis of the LIM domains is shown. The tree is rooted using the LIM domain of the yeast (<italic>S. cerevisiae</italic>) LRG1 protein as an outgroup. Percentage Bayesian posterior probability and percentage Maximum Likelihood are indicated at the branches (Bayesian/Likelihood). (C) Shown is the phylogenetic analysis of conserved intronic-sequences of LIM domains of tag204, eat-1, LMO7 and a <italic>Dictyostelium discoideum</italic> LIM domain as an outgroup.</p></caption><graphic xlink:href="pone.0000189.g005"/></fig><p>The phylogenetic tree for the different PDZ domains shows that the most ancestral PDZ domain found in the family is LMO-7, with tag-204 being closest to the root and in front of all later clades. In a BLAST search, we identified the PDZ of CASK as the best aligning sequence to the LIMK PDZ and included sequences for the <italic>Caenorhabditis elegans</italic> (Lin2) and <italic>Drosophila melanogaster</italic> (Camguk) CASK homologs in the analysis. The PDZ phylogeny shows that both CASK homologs also relate to the &#x0201c;LMO7 common ancestor&#x0201d; and further show that their PDZ domain is closely related to the PDZ domain of the LIM kinases (<xref ref-type="fig" rid="pone-0000189-g005">Fig. 5A</xref>). Other MAGUK PDZ domains also showed that they originated from a &#x0201c;LMO7 common ancestor&#x0201d; (data not shown).</p><p>This suggests that the common ancestor of the LIM kinases and Lin2 and CASK lost the C-terminal LIM domain. Consequently, the PDZ domain of the &#x0201c;LMO7 common ancestor&#x0201d; is of central importance for the molecular evolution of the PDZ/LIM family.</p><p>The analysis of the LIM domains shows an early split between the LMO7 group and the LIM domain 2 of the LIMKs on one hand and all other LIM domains on the other hand. A PDZ single LIM structured common ancestor (as also seen for the PDZ phylogeny) is suggested by these results. We further examined a conserved intronic-sequence we have discovered in the LIM domains of <italic>tag204</italic> and <italic>eat-1</italic> (<xref ref-type="fig" rid="pone-0000189-g005">Fig. 5C</xref>).</p><p>The most parsimonious explanation derived from both the analysis of the PDZ domain tree and from the LIM domain tree is summarized in our model for the molecular evolution of the PDZ/LIM family (<xref ref-type="fig" rid="pone-0000189-g006">Fig. 6</xref>). The LIM domains of the LIMKs are related to the other PDZ/LIM family members (as is the PDZ domain); however gene rearrangements were necessary to generate the gene architecture of the LIMKs. A convergent event in respect to the combination of PDZ and LIM domains is indicated by our analysis, signifying that the PDZ has combined with the LIMs more than once during evolution. A single <italic>LIMK</italic> gene was identified in <italic>Drosophila melanogaster</italic>. No <italic>LIMK</italic> gene was found in <italic>Caenorhabditis elegans</italic> and lower taxons and only two PDZ/LIM genes are present in <italic>Caenorhabditis elegans</italic>: <italic>tag20</italic>4 and <italic>eat-1</italic>. We performed a BLAST search for the LIM domains closest to the LIMK LIMs in <italic>Caenorhabditis elegans</italic> and found UNC-115 which was also found in <italic>Drosophila melanogaster</italic>. Interestingly, the first two LIM domains of UNC-115 from <italic>Caenorhabditis elegans</italic> and <italic>Drosophila melanogaster</italic> cluster with the LIM kinase LIM 1 and 2 domains, suggesting that the two LIM domains were first assembled and then met the PDZ (see <xref ref-type="supplementary-material" rid="pone.0000189.s004">table S3</xref> for sequence homologies). Taken together, our findings led us to propose a model which gives a plausible scenario for the molecular evolution of the PDZ/LIM genes and their diverse gene architecture (<xref ref-type="fig" rid="pone-0000189-g006">Fig. 6</xref>).</p><fig id="pone-0000189-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0000189.g006</object-id><label>Figure 6</label><caption><p>Evolutionary model for the PDZ and LIM encoding genes. The most parsimonious model derived from our phylogenetic analysis shows that the PDZ domain of all 10 different PDZ/LIM encoding genes share a common ancestor, with closest homology to LMO7. The combination of this PDZ domain with a LIM domain formed the common ancestor for both the LMO7 and the ALP/Enigma lineages. The single LIM domain in the ALP/Enigma lineage (closest to LIM2 in <italic>eat-1/tungus)</italic> then duplicated and gave rise to a PDZ two LIM domain structure. Subsequently the duplicated LIM (closest to LIM3 in <italic>eat-1/tungus)</italic>, duplicated twice and generated a PDZ four LIM structure similar to <italic>eat-1/tungus</italic>. From this gene structure, through gene duplication and subsequent domain loss (loosing either three LIM domains (LIM2&#x02013;4) or only 1 LIM domain (LIM1) for the ALP and Enigma subfamilies, respectively), the ALP/Enigma subfamilies evolved. The color code used for domains is PDZ (blue), LIM (yellow and green), CH (red), Kinase domain (black) and AM-motif (pink).</p></caption><graphic xlink:href="pone.0000189.g006"/></fig></sec><sec id="s2g"><title>Chromosomal location of ALP/Enigma subfamily genes</title><p>As previously mentioned <xref rid="pone.0000189-McKeown1" ref-type="bibr">[50]</xref>, the human ALP/Enigma genes cluster specifically in a way that an ALP-like gene pairs with an Enigma-like gene in inverse orientation, analogous to the even-skipped genes, which both (EVX1 and EVX2) are transcribed in an opposite orientation as compared to adjacent HOX genes <xref rid="pone.0000189-AFaiella1" ref-type="bibr">[52]</xref>. This intuitively suggests a form of genome duplication as a plausible mechanism for their evolution. To further investigate this we looked at the chromosomal location of the ALP/Enigma genes in different species. ALP/Enigma clusters are observed in four different species indicating that this clustering appears more than random (<xref ref-type="fig" rid="pone-0000189-g007">Fig. 7</xref>). However, several species (mouse, dog) do not show any clustering, making these results difficult to interpret in an evolutionary context.</p><fig id="pone-0000189-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0000189.g007</object-id><label>Figure 7</label><caption><p>Chromosomal locations of ALP and Enigma subfamily genes. Shown are four species were PDZ/LIM genes are co-localized on the same chromosome. Numbers indicated are distances in mega basepairs (bp). If genes were found on individual chromosomes they are not shown here. Further not shown are the results for <italic>Pan troglodytes</italic> and <italic>Macaca mulatta</italic> which show exactly the same chromosomal distribution as observed for the humans. Not shown is also the data for <italic>Rattus norwegicus</italic>, where LIMK1 was co localized with LMO7, but no other combination was found. No combinations whatsoever were found in Mus musculus and in Canis familaris. It must be noted that for some of the species investigated the genomes are not completely sequenced and/or fully assembled.</p></caption><graphic xlink:href="pone.0000189.g007"/></fig></sec></sec><sec id="s3"><title>Discussion</title><p>In this study, we have approached two fundamental problems in the study of molecular evolution. One is the &#x0201c;problem of comparison&#x0201d;, or how to compare very differently structured elements (many multi-domain proteins are only homologous along parts of their sequences); the other is the &#x0201c;problem of origin&#x0201d;, or how to determine which members in a complex family of proteins share a common ancestral gene. We have focused our analysis on the co-evolution of two conserved functional domains and have chosen to study the PDZ/LIM family for several reasons: the members of this family play important biological roles in development and for actin cytoskeleton organization, the entire family has never been analyzed before (and could not, in a conventional approach) and last, the diverse combinations of PDZ and LIM domains present in this family already suggested differences in their evolution.</p><p>We analyzed the phylogeny of the PDZ and the LIM domains separately, using a full length approach to analyze the individual subfamilies for a better resolution of later chains of events and looked at the distribution of PDZ/LIM genes in most sequenced eukaryotic lineages. The combined analysis and interpretation, and the merger of these results allowed us to classify the PDZ/LIM family and draw a plausible phylogenetic model.</p><p>According to our analysis, the PDZ/LIM gene family in mammals, as defined by a common ancestral gene, has 8 members, including <italic>LMO7</italic> and the 7 <italic>ALP/Enigma</italic> genes. This is supported by a comparison of a conserved intronic sequence situated in the LIM domains of the two <italic>Caenorhabditis elegans</italic> family members (<xref ref-type="fig" rid="pone-0000189-g005">Fig. 5C</xref>).</p><p>The PDZ and LIM domains of both the PDZ/LIM genes and the LIM Kinases have most likely evolved from the same ancestral domains. However, the fact that these domains have been combined twice during evolution is a convergent phenomenon. This convergent event, which we describe here for the domain combinations, might be of functional relevance. Indeed, all 10 PDZ/LIM genes have been shown to be able to associate with the actin cytoskeleton <xref rid="pone.0000189-Yang1" ref-type="bibr">[27]</xref>, <xref rid="pone.0000189-Klaavuniemi1" ref-type="bibr">[28]</xref>, <xref rid="pone.0000189-Ooshio1" ref-type="bibr">[31]</xref>. It is possible, that the combination of LIM and PDZ domains in a single functional module is necessary for specific interactions with both the actin cytoskeleton and other proteins. Thus, this could indicate a functional convergence for all 10 genes in organizing protein complexes associated with the actin cytoskeleton.</p><p>The <italic>Caenorhabditis elegans eat-1</italic> gene is related to the <italic>Drosophila melanogaster tungus</italic> gene and both share the same gene architecture, with one PDZ domain, a single ZM motif and four LIM domains. Both, PDZ domain and LIM domain phylogenies show that the ALP as well as the Enigma subfamily genes originate from eat-1/tungus like ancestor and separated late in evolution using the same PDZ encoding exons, but losing either the last three LIM encoding exons or the first, respectively (<xref ref-type="fig" rid="pone-0000189-g002">Fig. 2C</xref> and <xref ref-type="fig" rid="pone-0000189-g005">5B</xref>). Here the LIM domains of the genes in the ALP family all group together with the first LIM domain of <italic>eat-1</italic> (we named it LIM1 in the tree), while the three LIM domains of the Enigma family segregate together with the last three LIM domains encoded by <italic>eat-1</italic>. This was already postulated by McKeown and colleagues when they functionally described the <italic>eat-1</italic> gene <xref rid="pone.0000189-McKeown1" ref-type="bibr">[50]</xref> and we confirmed this here in our analysis with high support values. Looking at a smaller evolutionary window, we have evidence that the separation occurred between the Euchordata and the early vertebrata with a ZASP homolog found in amphioxus and lamprey, and RIL and Elfin homologs found in an early vertebrate, like the ray (Chondrichthyes) (<xref ref-type="fig" rid="pone-0000189-g002">Fig. 2C</xref>).</p><p>The basic model for the evolution of a multi-domain protein family and the original definition of this gene family (defined by a common ancestral gene) is suggested with high likelihood by our findings. Our phylogenetic interpretation of the evolution of the PDZ/LIM family shows that the LIMKs are the most distantly related genes, whereas all others, including LMO7, appear to have a common ancestral gene and thus constitute a classical gene family.</p></sec><sec id="s4"><title>Materials and Methods</title><sec id="s4a"><title>Creating a functional domain database</title><p>First a dataset of all functional domains of all PDZ and LIM domain encoding genes was established. For this purpose human protein sequences were BLASTed <xref rid="pone.0000189-Altschul1" ref-type="bibr">[4]</xref> against the genome and EST databases of Ensembl (<ext-link ext-link-type="uri" xlink:href="http://www.ensembl.org/index.html">http://www.ensembl.org/index.html</ext-link>), National Centre for Biotechnology Information (<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/">http://www.ncbi.nlm.nih.gov/</ext-link>) and the Joint Genome Institute (<ext-link ext-link-type="uri" xlink:href="http://www.jgi.doe.gov/">http://www.jgi.doe.gov/</ext-link>). Blast hits with high enough E-values were further investigated with the protein domain prediction program SMART <xref rid="pone.0000189-Letunic1" ref-type="bibr">[53]</xref>&#x02013;<xref rid="pone.0000189-Schultz2" ref-type="bibr">[55]</xref>. Homologs were searched for in the following species: <italic>Anopheles gambiae</italic>, <italic>Arabidopsis thaliana</italic>, <italic>Bos taurus</italic>, <italic>Danio rerio</italic> (Dr), <italic>Caenorhabditis elegans</italic> (Ce), <italic>Canis familiaris</italic>, <italic>Ciona intestinalis</italic> (Ci), <italic>Ciona savignyi</italic>, <italic>Drosophila melanogaster</italic> (Dm), <italic>Gallus gallus</italic> (Gg), <italic>Homo sapiens</italic> (Hs), <italic>Mus musculus</italic> (Mm), <italic>Pan troglodytes</italic>, <italic>Phytophtora sojae</italic>, <italic>Populus trichocarpa</italic>, <italic>Saccharomyses cerevisiae</italic> (Sc), <italic>Strongylocentrotus purpuratus</italic> (Sp), <italic>Takifugu rubripes</italic>, <italic>Tetraodon nigroviridis</italic>, <italic>Xenopus laevis</italic> and <italic>Xenopus tropicalis</italic> (Xt). In our phylogenetic analysis however, we have excluded several species (e.g. some of the mammals) as their inclusion did not add any significant value for inferring an evolutionary model.</p></sec><sec id="s4b"><title>Alignment and phylogenetic analysis</title><p>Alignments were performed using ClustalX <xref rid="pone.0000189-Thompson1" ref-type="bibr">[56]</xref> with default parameter values, and manually refined in GeneDoc where necessary. Reliably aligned regions in full length alignments were selected with Gblocks <xref rid="pone.0000189-Castresana1" ref-type="bibr">[57]</xref>. The minimum length for conserved blocks was set to five residues, while we decided to keep gap containing positions if the gap was present in 50&#x00025; of the sequences examined. It has to be noted here that even under less restricted conditions, Gblocks selected only the domains for analysis, which makes the number of characters used in the phylogenetic analysis in the same order of magnitude as our domain specific analysis. The edited alignments were used for phylogenetic analysis employing both Bayesian analysis and maximum likelihood (ML). Bayesian trees were generated with MrBayes <xref rid="pone.0000189-Huelsenbeck1" ref-type="bibr">[58]</xref>, with amino acid substitution set to mixed (hence reducing assumption prior to analysis). Rate variation across sites was modeled with a four rate gamma distribution and invariant sites, while the MCMC search itself was continued for 1.000.000 generations, sampled every 100 generations, and 2500 trees were discarded as burnin. For ML, alignments were bootstrapped 1,000 times with the program SEQBOOT from the PHYLIP package <xref rid="pone.0000189-Felsenstein1" ref-type="bibr">[59]</xref>. Subsequently, phylogenetic trees were generated with the ML algorithm implemented in PHYML <xref rid="pone.0000189-Guindon1" ref-type="bibr">[60]</xref>, whereas a consensus tree was calculated with Consense from the PHYLIP package <xref rid="pone.0000189-Felsenstein1" ref-type="bibr">[59]</xref>. Parameters for PHYML were set at Jones-Taylor-Thornton for amino acid substitution and gamma distribution with four classes for across-site rate variation. The alpha parameter of the gamma distribution was estimated by PHYML. At last, phylogenetic trees were visualized with either NJplot <xref rid="pone.0000189-Perriere1" ref-type="bibr">[61]</xref> or MEGA 3.1 <xref rid="pone.0000189-Kumar1" ref-type="bibr">[62]</xref>. In the tree figures shown, the topology support values are labeled on the Bayesian consensus tree in the order &#x00025; Bayesian posterior probability/ &#x00025; bootstrap ML to reduce and standardize the characters and figures used.</p></sec></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0000189.s001"><label>Figure S1</label><caption><p>Phylogeny by structures consisting of one PDZ and one LIM domain. Numbers indicate &#x00025; Bayesian posterior probability. Sequences used are specified in <xref ref-type="supplementary-material" rid="pone.0000189.s002">supplemental table S1</xref>, with the exception of the EAT splice form 1A (consisting of 1 PDZ and 1 LIM domain) for which the acc. number CAE52906 was used.</p><p>(0.68 MB TIF)</p></caption><media xlink:href="pone.0000189.s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0000189.s002"><label>Table S1</label><caption><p>DNA and amino acid sequences of protein interaction domains studied. All accession numbers used are listed.</p><p>(0.51 MB XLS)</p></caption><media xlink:href="pone.0000189.s002.xls"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0000189.s003"><label>Table S2</label><caption><p>List of PDZ and LIM sequences used in this study.</p><p>(0.09 MB DOC)</p></caption><media xlink:href="pone.0000189.s003.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0000189.s004"><label>Table S3</label><caption><p>Obtained BLAST results for assorted PDZ and LIM domains.</p><p>(0.06 MB DOC)</p></caption><media xlink:href="pone.0000189.s004.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>We would like to thank Martijn Stax and Olaf Bininda-Emonds for their initial help with the analysis, and Mike Richardson for encouraging remarks and critical reading of the manuscript.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>The research performed was not covered by current grants or sponsors.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0000189-Hergyi1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hergyi</surname><given-names>H</given-names></name><name><surname>Gerstein</surname><given-names>M</given-names></name></person-group>
+<year>1999</year>
+<article-title>The relationship between protein structure and function: a comprehensive survey with application to the yeast genome.</article-title>
+<source>Journal of Molecular Evolution</source>
+<volume>288</volume>
+<fpage>147</fpage>
+<lpage>164</lpage>
+</element-citation></ref><ref id="pone.0000189-Apic1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Apic</surname><given-names>G</given-names></name><name><surname>Gough</surname><given-names>J</given-names></name><name><surname>Teichmann</surname><given-names>SA</given-names></name></person-group>
+<year>2001</year>
+<article-title>An insight into domain combinations.</article-title>
+<source>Bioinformatics</source>
+<volume>17</volume>
+<fpage>S83</fpage>
+<lpage>89</lpage>
+<pub-id pub-id-type="pmid">11472996</pub-id></element-citation></ref><ref id="pone.0000189-Copley1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Copley</surname><given-names>RR</given-names></name><name><surname>Doerks</surname><given-names>T</given-names></name><name><surname>Letunic</surname><given-names>I</given-names></name><name><surname>Bork</surname><given-names>P</given-names></name></person-group>
+<year>2002</year>
+<article-title>Protein domain analysis in the era of complete genomes.</article-title>
+<source>FEBS Letters</source>
+<volume>513</volume>
+<fpage>129</fpage>
+<lpage>134</lpage>
+<pub-id pub-id-type="pmid">11911892</pub-id></element-citation></ref><ref id="pone.0000189-Altschul1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Altschul</surname><given-names>SF</given-names></name><name><surname>Madden</surname><given-names>TL</given-names></name><name><surname>Schaffer</surname><given-names>AA</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name><name><surname>Zhang</surname><given-names>Z</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.</article-title>
+<source>Nucl Acids Res</source>
+<volume>25</volume>
+<fpage>3389</fpage>
+<lpage>3402</lpage>
+<pub-id pub-id-type="pmid">9254694</pub-id></element-citation></ref><ref id="pone.0000189-Eddy1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eddy</surname><given-names>SR</given-names></name></person-group>
+<year>1996</year>
+<article-title>Hidden Markov models.</article-title>
+<source>Current Opinion in Structural Biology</source>
+<volume>6</volume>
+<fpage>361</fpage>
+<lpage>365</lpage>
+<pub-id pub-id-type="pmid">8804822</pub-id></element-citation></ref><ref id="pone.0000189-Chothia1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chothia</surname><given-names>C</given-names></name></person-group>
+<year>1992</year>
+<article-title>One thousand families for the molecular biologist.</article-title>
+<source>Nature</source>
+<volume>357</volume>
+<fpage>543</fpage>
+<lpage>544</lpage>
+<pub-id pub-id-type="pmid">1608464</pub-id></element-citation></ref><ref id="pone.0000189-Yuri1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yuri</surname><given-names>I</given-names></name></person-group>
+<collab>Wolf GKEVK</collab>
+<year>2002</year>
+<article-title>Scale-free networks in biology: new insights into the fundamentals of evolution?</article-title>
+<source>BioEssays</source>
+<volume>24</volume>
+<fpage>105</fpage>
+<lpage>109</lpage>
+<pub-id pub-id-type="pmid">11835273</pub-id></element-citation></ref><ref id="pone.0000189-Hegyi1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hegyi</surname><given-names>H</given-names></name><name><surname>Gerstein</surname><given-names>M</given-names></name></person-group>
+<year>1999</year>
+<article-title>The relationship between protein structure and function: a comprehensive survey with application to the yeast genome.</article-title>
+<source>Journal of Molecular Biology</source>
+<volume>288</volume>
+<fpage>147</fpage>
+<lpage>164</lpage>
+<pub-id pub-id-type="pmid">10329133</pub-id></element-citation></ref><ref id="pone.0000189-Henikoff1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Henikoff</surname><given-names>S</given-names></name><name><surname>Greene</surname><given-names>EA</given-names></name><name><surname>Pietrokovski</surname><given-names>S</given-names></name><name><surname>Bork</surname><given-names>P</given-names></name><name><surname>Attwood</surname><given-names>TK</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Gene Families: The Taxonomy of Protein Paralogs and Chimeras.</article-title>
+<source>Science</source>
+<volume>278</volume>
+<fpage>609</fpage>
+<lpage>614</lpage>
+<pub-id pub-id-type="pmid">9381171</pub-id></element-citation></ref><ref id="pone.0000189-Gough1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gough</surname><given-names>J</given-names></name></person-group>
+<year>2005</year>
+<article-title>Convergent evolution of domain architectures (is rare).</article-title>
+<source>Bioinformatics</source>
+<volume>21</volume>
+<fpage>1464</fpage>
+<lpage>1471</lpage>
+<pub-id pub-id-type="pmid">15585523</pub-id></element-citation></ref><ref id="pone.0000189-Cho1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cho</surname><given-names>K-O</given-names></name><name><surname>Hunt</surname><given-names>CA</given-names></name><name><surname>Kennedy</surname><given-names>MB</given-names></name></person-group>
+<year>1992</year>
+<article-title>The rat brain postsynaptic density fraction contains a homolog of the drosophila discs-large tumor suppressor protein.</article-title>
+<source>Neuron</source>
+<volume>9</volume>
+<fpage>929</fpage>
+<lpage>942</lpage>
+<pub-id pub-id-type="pmid">1419001</pub-id></element-citation></ref><ref id="pone.0000189-Woods1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woods</surname><given-names>DF</given-names></name><name><surname>Bryant</surname><given-names>PJ</given-names></name></person-group>
+<year>1991</year>
+<article-title>The discs-large tumor suppressor gene of Drosophila encodes a guanylate kinase homolog localized at septate junctions.</article-title>
+<source>Cell</source>
+<volume>66</volume>
+<fpage>451</fpage>
+<lpage>464</lpage>
+<pub-id pub-id-type="pmid">1651169</pub-id></element-citation></ref><ref id="pone.0000189-Itoh1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Itoh</surname><given-names>M</given-names></name><name><surname>Nagafuchi</surname><given-names>A</given-names></name><name><surname>Yonemura</surname><given-names>S</given-names></name><name><surname>Kitani-Yasuda</surname><given-names>T</given-names></name><name><surname>Tsukita</surname><given-names>S</given-names></name><etal/></person-group>
+<year>1993</year>
+<article-title>The 220-kD protein colocalizing with cadherins in non-epithelial cells is identical to ZO-1, a tight junction-associated protein in epithelial cells: cDNA cloning and immunoelectron microscopy.</article-title>
+<source>J Cell Biol</source>
+<volume>121</volume>
+<fpage>491</fpage>
+<lpage>502</lpage>
+<pub-id pub-id-type="pmid">8486731</pub-id></element-citation></ref><ref id="pone.0000189-Harris1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harris</surname><given-names>BZ</given-names></name><name><surname>Lim</surname><given-names>WA</given-names></name></person-group>
+<year>2001</year>
+<article-title>Mechanism and role of PDZ domains in signaling complex assembly.</article-title>
+<source>J Cell Sci</source>
+<volume>114</volume>
+<fpage>3219</fpage>
+<lpage>3231</lpage>
+<pub-id pub-id-type="pmid">11591811</pub-id></element-citation></ref><ref id="pone.0000189-Ponting1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ponting</surname><given-names>CP</given-names></name></person-group>
+<year>1997</year>
+<article-title>Evidence for PDZ domains in bacteria, yeast, and plants.</article-title>
+<source>Protein Sci</source>
+<volume>6</volume>
+<fpage>464</fpage>
+<lpage>468</lpage>
+<pub-id pub-id-type="pmid">9041651</pub-id></element-citation></ref><ref id="pone.0000189-Ponting2"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ponting</surname><given-names>CP</given-names></name><name><surname>Phillips</surname><given-names>C</given-names></name><name><surname>Davies</surname><given-names>KE</given-names></name><name><surname>Blake</surname><given-names>DJ</given-names></name></person-group>
+<year>1997</year>
+<article-title>PDZ domains: targeting signalling molecules to sub-membranous sites.</article-title>
+<source>Bioessays</source>
+<volume>19</volume>
+<fpage>469</fpage>
+<lpage>479</lpage>
+<pub-id pub-id-type="pmid">9204764</pub-id></element-citation></ref><ref id="pone.0000189-Jelen1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jelen</surname><given-names>F</given-names></name><name><surname>Oleksy</surname><given-names>A</given-names></name><name><surname>Smietana</surname><given-names>K</given-names></name><name><surname>Otlewski</surname><given-names>J</given-names></name></person-group>
+<year>2003</year>
+<article-title>PDZ domains - common players in the cell signaling.</article-title>
+<source>Acta Biochim Pol</source>
+<volume>50</volume>
+<fpage>985</fpage>
+<lpage>1017</lpage>
+<pub-id pub-id-type="pmid">14739991</pub-id></element-citation></ref><ref id="pone.0000189-Pallen1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pallen</surname><given-names>MJ</given-names></name><name><surname>Ponting</surname><given-names>CP</given-names></name></person-group>
+<year>1997</year>
+<article-title>PDZ domains in bacterial proteins.</article-title>
+<source>Molecular Microbiology</source>
+<volume>26</volume>
+<fpage>411</fpage>
+<lpage>413</lpage>
+<pub-id pub-id-type="pmid">9383164</pub-id></element-citation></ref><ref id="pone.0000189-Bach1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bach</surname><given-names>I</given-names></name></person-group>
+<year>2000</year>
+<article-title>The LIM domain: regulation by association.</article-title>
+<source>Mech Dev</source>
+<volume>91</volume>
+<fpage>5</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="pmid">10704826</pub-id></element-citation></ref><ref id="pone.0000189-Dawid1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dawid</surname><given-names>IB</given-names></name><name><surname>Breen</surname><given-names>JJ</given-names></name><name><surname>Toyama</surname><given-names>R</given-names></name></person-group>
+<year>1998</year>
+<article-title>LIM domains: multiple roles as adapters and functional modifiers in protein interactions.</article-title>
+<source>Trends in Genetics</source>
+<volume>14</volume>
+<fpage>156</fpage>
+<lpage>162</lpage>
+<pub-id pub-id-type="pmid">9594664</pub-id></element-citation></ref><ref id="pone.0000189-Kadrmas1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kadrmas</surname><given-names>JL</given-names></name><name><surname>Beckerle</surname><given-names>MC</given-names></name></person-group>
+<year>2004</year>
+<article-title>THE LIM DOMAIN: FROM THE CYTOSKELETON TO THE NUCLEUS.</article-title>
+<source>Nature Reviews Molecular Cell Biology</source>
+<volume>5</volume>
+<fpage>920</fpage>
+<lpage>931</lpage>
+<pub-id pub-id-type="pmid">15520811</pub-id></element-citation></ref><ref id="pone.0000189-Briere1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Briere</surname><given-names>C</given-names></name><name><surname>Bordel</surname><given-names>A-C</given-names></name><name><surname>Barthou</surname><given-names>H</given-names></name><name><surname>Jauneau</surname><given-names>A</given-names></name><name><surname>Steinmetz</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Is the LIM-domain Protein HaWLIM1 Associated with Cortical Microtubules in Sunflower Protoplasts?</article-title>
+<source>Plant Cell Physiol</source>
+<volume>44</volume>
+<fpage>1055</fpage>
+<lpage>1063</lpage>
+<pub-id pub-id-type="pmid">14581630</pub-id></element-citation></ref><ref id="pone.0000189-Thornton1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thornton</surname><given-names>JW</given-names></name><name><surname>DeSalle</surname><given-names>R</given-names></name></person-group>
+<year>2000</year>
+<article-title>Gene family evolution and homology: Genomics Meets Phylogenetics.</article-title>
+<source>Annual Review of Genomics and Human Genetics</source>
+<volume>1</volume>
+<fpage>41</fpage>
+<lpage>73</lpage>
+</element-citation></ref><ref id="pone.0000189-Koonin1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koonin</surname><given-names>EV</given-names></name><name><surname>Aravind</surname><given-names>L</given-names></name><name><surname>Kondrashov</surname><given-names>AS</given-names></name></person-group>
+<year>2000</year>
+<article-title>The Impact of Comparative Genomics on Our Understanding of Evolution.</article-title>
+<source>Cell</source>
+<volume>101</volume>
+<fpage>573</fpage>
+<lpage>576</lpage>
+<pub-id pub-id-type="pmid">10892642</pub-id></element-citation></ref><ref id="pone.0000189-Ponting3"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ponting</surname><given-names>CP</given-names></name><name><surname>Russell</surname><given-names>RR</given-names></name></person-group>
+<year>2002</year>
+<article-title>The natural history of protein domains.</article-title>
+<source>Annual Review of Biophysics and Biomolecular Structure</source>
+<volume>31</volume>
+<fpage>45</fpage>
+<lpage>71</lpage>
+</element-citation></ref><ref id="pone.0000189-Santoni1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Santoni</surname><given-names>M-J</given-names></name><name><surname>Pontarotti</surname><given-names>P</given-names></name><name><surname>Birnbaum</surname><given-names>D</given-names></name><name><surname>Borg</surname><given-names>J-P</given-names></name></person-group>
+<year>2002</year>
+<article-title>The LAP family: a phylogenetic point of view.</article-title>
+<source>Trends in Genetics</source>
+<volume>18</volume>
+<fpage>494</fpage>
+<lpage>497</lpage>
+<pub-id pub-id-type="pmid">12350333</pub-id></element-citation></ref><ref id="pone.0000189-Yang1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>N</given-names></name><name><surname>Higuchi</surname><given-names>O</given-names></name><name><surname>Ohashi</surname><given-names>K</given-names></name><name><surname>Nagata</surname><given-names>K</given-names></name><name><surname>Wada</surname><given-names>A</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>Cofilin phosphorylation by LIM-kinase 1 and its role in Rac-mediated actin reorganization.</article-title>
+<source>Nature</source>
+<volume>393</volume>
+<fpage>809</fpage>
+<lpage>812</lpage>
+<pub-id pub-id-type="pmid">9655398</pub-id></element-citation></ref><ref id="pone.0000189-Klaavuniemi1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klaavuniemi</surname><given-names>T</given-names></name><name><surname>Ylanne</surname><given-names>J</given-names></name></person-group>
+<year>2006</year>
+<article-title>Zasp/Cypher internal ZM-motif containing fragments are sufficient to co-localize with &#x003b1;-actinin&#x02014;Analysis of patient mutations.</article-title>
+<source>Experimental Cell Research</source>
+<volume>312</volume>
+<fpage>1299</fpage>
+<lpage>1311</lpage>
+<pub-id pub-id-type="pmid">16476425</pub-id></element-citation></ref><ref id="pone.0000189-Vallenius1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vallenius</surname><given-names>T</given-names></name><name><surname>Luukko</surname><given-names>K</given-names></name><name><surname>Makela</surname><given-names>TP</given-names></name></person-group>
+<year>2000</year>
+<article-title>CLP-36 PDZ-LIM Protein Associates with Nonmuscle alpha -Actinin-1 and alpha -Actinin-4.</article-title>
+<source>J Biol Chem</source>
+<volume>275</volume>
+<fpage>11100</fpage>
+<lpage>11105</lpage>
+<pub-id pub-id-type="pmid">10753915</pub-id></element-citation></ref><ref id="pone.0000189-Nakagawa1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakagawa</surname><given-names>N</given-names></name><name><surname>Hoshijima</surname><given-names>M</given-names></name><name><surname>Oyasu</surname><given-names>M</given-names></name><name><surname>Saito</surname><given-names>N</given-names></name><name><surname>Tanizawa</surname><given-names>K</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>ENH, Containing PDZ and LIM Domains, Heart/Skeletal Muscle-Specific Protein, Associates with Cytoskeletal Proteins through the PDZ Domain.</article-title>
+<source>Biochemical and Biophysical Research Communications</source>
+<volume>272</volume>
+<fpage>505</fpage>
+<pub-id pub-id-type="pmid">10833443</pub-id></element-citation></ref><ref id="pone.0000189-Ooshio1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ooshio</surname><given-names>T</given-names></name><name><surname>Irie</surname><given-names>K</given-names></name><name><surname>Morimoto</surname><given-names>K</given-names></name><name><surname>Fukuhara</surname><given-names>A</given-names></name><name><surname>Imai</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Involvement of LMO7 in the association of two cell-cell adhesion molecules, nectin and E-cadherin, through afadin and alpha-actinin in epithelial cells.</article-title>
+<source>Journal of Biological Chemistry</source>
+<volume>279</volume>
+<fpage>31365</fpage>
+<lpage>31373</lpage>
+<pub-id pub-id-type="pmid">15140894</pub-id></element-citation></ref><ref id="pone.0000189-Andersen1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andersen</surname><given-names>O</given-names></name><name><surname>Ostbye</surname><given-names>TK</given-names></name><name><surname>Gabestad</surname><given-names>I</given-names></name><name><surname>Nielsen</surname><given-names>C</given-names></name><name><surname>Bardal</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Molecular characterization of a PDZ-LIM protein in Atlantic salmon (Salmo salar): a fish ortholog of the alpha-actinin-associated LIM-protein (ALP).</article-title>
+<source>Journal of Muscle Research and Cell Motility</source>
+<volume>25</volume>
+<fpage>61</fpage>
+<pub-id pub-id-type="pmid">15160489</pub-id></element-citation></ref><ref id="pone.0000189-Zhou1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhou</surname><given-names>Q</given-names></name><name><surname>Ruiz-Lozano</surname><given-names>P</given-names></name><name><surname>Martone</surname><given-names>ME</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name></person-group>
+<year>1999</year>
+<article-title>Cypher, a striated muscle-restricted PDZ and LIM domain-containing protein, binds to alpha-actinin-2 and protein kinase C.</article-title>
+<source>Journal of Biological Chemistry</source>
+<volume>274</volume>
+<fpage>19807</fpage>
+<lpage>19813</lpage>
+<pub-id pub-id-type="pmid">10391924</pub-id></element-citation></ref><ref id="pone.0000189-Zhou2"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhou</surname><given-names>Q</given-names></name><name><surname>Chu</surname><given-names>P-H</given-names></name><name><surname>Huang</surname><given-names>C</given-names></name><name><surname>Cheng</surname><given-names>C-F</given-names></name><name><surname>Martone</surname><given-names>ME</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Ablation of Cypher, a PDZ-LIM domain Z-line protein, causes a severe form of congenital myopathy.</article-title>
+<source>J Cell Biol</source>
+<volume>155</volume>
+<fpage>605</fpage>
+<lpage>612</lpage>
+<pub-id pub-id-type="pmid">11696561</pub-id></element-citation></ref><ref id="pone.0000189-vanderMeer1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van der Meer</surname><given-names>DLM</given-names></name><name><surname>Marques</surname><given-names>IJ</given-names></name><name><surname>Leito</surname><given-names>JTD</given-names></name><name><surname>Besser</surname><given-names>J</given-names></name><name><surname>Bakkers</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Zebrafish cypher is important for somite formation and heart development.</article-title>
+<source>Developmental Biology</source>
+<volume>299</volume>
+<fpage>356</fpage>
+<lpage>372</lpage>
+<pub-id pub-id-type="pmid">16982050</pub-id></element-citation></ref><ref id="pone.0000189-Pashmforoush1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pashmforoush</surname><given-names>M</given-names></name><name><surname>Pomies</surname><given-names>P</given-names></name><name><surname>Peterson</surname><given-names>KL</given-names></name><name><surname>Kubalak</surname><given-names>S</given-names></name><name><surname>Ross</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Adult mice deficient in actinin-associated LIM-domain protein reveal a developmental pathway for right ventricular cardiomyopathy.</article-title>
+<source>Nat Med</source>
+<volume>7</volume>
+<fpage>591</fpage>
+<pub-id pub-id-type="pmid">11329061</pub-id></element-citation></ref><ref id="pone.0000189-Boden1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boden</surname><given-names>SD</given-names></name><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>Hair</surname><given-names>GA</given-names></name><name><surname>Helms</surname><given-names>JA</given-names></name><name><surname>Hu</surname><given-names>D</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>LMP-1, A LIM-Domain Protein, Mediates BMP-6 Effects on Bone Formation.</article-title>
+<source>Endocrinology</source>
+<volume>139</volume>
+<fpage>5125</fpage>
+<lpage>5134</lpage>
+<pub-id pub-id-type="pmid">9832452</pub-id></element-citation></ref><ref id="pone.0000189-Takahashi1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>T</given-names></name><name><surname>Aoki</surname><given-names>S</given-names></name><name><surname>Nakamura</surname><given-names>T</given-names></name><name><surname>Koshimizu</surname><given-names>U</given-names></name><name><surname>Matsumoto</surname><given-names>K</given-names></name><etal/></person-group>
+<year>1997</year>
+<article-title>Xenopus LIM motif-containing protein kinase, Xlimk1, is expressed in the developing head structure of the embryo.</article-title>
+<source>Developmental Dynamics</source>
+<volume>209</volume>
+<fpage>196</fpage>
+<lpage>205</lpage>
+<pub-id pub-id-type="pmid">9186054</pub-id></element-citation></ref><ref id="pone.0000189-Foletta1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Foletta</surname><given-names>VC</given-names></name><name><surname>Moussi</surname><given-names>N</given-names></name><name><surname>Sarmiere</surname><given-names>PD</given-names></name><name><surname>Bamburg</surname><given-names>JR</given-names></name><name><surname>Bernard</surname><given-names>O</given-names></name></person-group>
+<year>2004</year>
+<article-title>LIM kinase 1, a key regulator of actin dynamics, is widely expressed in embryonic and adult tissues.</article-title>
+<source>Experimental Cell Research</source>
+<volume>294</volume>
+<fpage>392</fpage>
+<lpage>405</lpage>
+<pub-id pub-id-type="pmid">15023529</pub-id></element-citation></ref><ref id="pone.0000189-Takahashi2"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>H</given-names></name><name><surname>Koshimizu</surname><given-names>U</given-names></name><name><surname>Miyazaki</surname><given-names>J-i</given-names></name><name><surname>Nakamura</surname><given-names>T</given-names></name></person-group>
+<year>2002</year>
+<article-title>Impaired Spermatogenic Ability of Testicular Germ Cells in Mice Deficient in the LIM-Kinase 2 Gene.</article-title>
+<source>Developmental Biology</source>
+<volume>241</volume>
+<fpage>259</fpage>
+<lpage>272</lpage>
+<pub-id pub-id-type="pmid">11784110</pub-id></element-citation></ref><ref id="pone.0000189-Takahashi3"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>T</given-names></name><name><surname>Koshimizu</surname><given-names>U</given-names></name><name><surname>Abe</surname><given-names>H</given-names></name><name><surname>Obinata</surname><given-names>T</given-names></name><name><surname>Nakamura</surname><given-names>T</given-names></name></person-group>
+<year>2001</year>
+<article-title>Functional involvement of Xenopus LIM kinases in progression of oocyte maturation.</article-title>
+<source>Developmental Biology</source>
+<volume>229</volume>
+<fpage>554</fpage>
+<lpage>567</lpage>
+<pub-id pub-id-type="pmid">11150247</pub-id></element-citation></ref><ref id="pone.0000189-Kang1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kang</surname><given-names>S</given-names></name><name><surname>Xu</surname><given-names>H</given-names></name><name><surname>Duan</surname><given-names>X</given-names></name><name><surname>Liu</surname><given-names>J-J</given-names></name><name><surname>He</surname><given-names>Z</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>PCD1, a Novel Gene Containing PDZ and LIM Domains, Is Overexpressed in Several Human Cancers.</article-title>
+<source>Cancer Res</source>
+<volume>60</volume>
+<fpage>5296</fpage>
+<lpage>5302</lpage>
+<pub-id pub-id-type="pmid">11016661</pub-id></element-citation></ref><ref id="pone.0000189-Loughran1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Loughran</surname><given-names>G</given-names></name><name><surname>Healy</surname><given-names>NC</given-names></name><name><surname>Kiely</surname><given-names>PA</given-names></name><name><surname>Huigsloot</surname><given-names>M</given-names></name><name><surname>Kedersha</surname><given-names>NL</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Mystique is a new insulin-like growth factor-I-regulated PDZ-LIM domain protein that promotes cell attachment and migration and suppresses Anchorage-independent growth.</article-title>
+<source>Mol Biol Cell</source>
+<volume>16</volume>
+<fpage>1811</fpage>
+<lpage>1822</lpage>
+<pub-id pub-id-type="pmid">15659642</pub-id></element-citation></ref><ref id="pone.0000189-Yoshioka1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yoshioka</surname><given-names>K</given-names></name><name><surname>Foletta</surname><given-names>V</given-names></name><name><surname>Bernard</surname><given-names>O</given-names></name><name><surname>Itoh</surname><given-names>K</given-names></name></person-group>
+<year>2003</year>
+<article-title>A role for LIM kinase in cancer invasion.</article-title>
+<source>PNAS</source>
+<volume>100</volume>
+<fpage>7247</fpage>
+<lpage>7252</lpage>
+<pub-id pub-id-type="pmid">12777619</pub-id></element-citation></ref><ref id="pone.0000189-Kiess1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kiess</surname><given-names>M</given-names></name><name><surname>Scharm</surname><given-names>B</given-names></name><name><surname>Aguzzi</surname><given-names>A</given-names></name><name><surname>Hajnal</surname><given-names>A</given-names></name><name><surname>Klemenz</surname><given-names>R</given-names></name><etal/></person-group>
+<year>1995</year>
+<article-title>Expression of ril, a novel LIM domain gene, is down-regulated in Hras-transformed cells and restored in phenotypic revertants.</article-title>
+<source>Oncogene</source>
+<volume>10</volume>
+<fpage>61</fpage>
+<lpage>68</lpage>
+<pub-id pub-id-type="pmid">7824279</pub-id></element-citation></ref><ref id="pone.0000189-BagheriYarmand1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bagheri-Yarmand</surname><given-names>R</given-names></name><name><surname>Mazumdar</surname><given-names>A</given-names></name><name><surname>Sahin</surname><given-names>AA</given-names></name><name><surname>Kumar</surname><given-names>R</given-names></name></person-group>
+<year>2006</year>
+<article-title>LIM kinase 1 increases tumor metastasis of human breast cancer cells via regulation of the urokinase-type plasminogen activator system.</article-title>
+<source>International Journal of Cancer</source>
+<volume>118</volume>
+<fpage>2703</fpage>
+<lpage>2710</lpage>
+<pub-id pub-id-type="pmid">16381000</pub-id></element-citation></ref><ref id="pone.0000189-Suyama1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suyama</surname><given-names>E</given-names></name><name><surname>Wadhwa</surname><given-names>R</given-names></name><name><surname>Kawasaki</surname><given-names>H</given-names></name><name><surname>Yaguchi</surname><given-names>T</given-names></name><name><surname>Kaul</surname><given-names>SC</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>LIM kinase-2 targeting as a possible anti-metastasis therapy.</article-title>
+<source>The Journal of Gene Medicine</source>
+<volume>6</volume>
+<fpage>357</fpage>
+<lpage>363</lpage>
+<pub-id pub-id-type="pmid">15026997</pub-id></element-citation></ref><ref id="pone.0000189-Lehman1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lehman</surname><given-names>W</given-names></name><name><surname>Craig</surname><given-names>R</given-names></name><name><surname>Kendrick-Jones</surname><given-names>J</given-names></name><name><surname>Sutherland-Smith</surname><given-names>A</given-names></name></person-group>
+<year>2004</year>
+<article-title>An open or closed case for the conformation of calponin homology domains on F-actin?</article-title>
+<source>Journal of Muscle Research and Cell Motility</source>
+<volume>25</volume>
+<fpage>351</fpage>
+<lpage>358</lpage>
+<pub-id pub-id-type="pmid">15548864</pub-id></element-citation></ref><ref id="pone.0000189-Klaavuniemi2"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klaavuniemi</surname><given-names>T</given-names></name><name><surname>Kelloniemi</surname><given-names>A</given-names></name><name><surname>Ylanne</surname><given-names>J</given-names></name></person-group>
+<year>2004</year>
+<article-title>The ZASP-like Motif in Actinin-associated LIM Protein Is Required for Interaction with the {alpha}-Actinin Rod and for Targeting to the Muscle Z-line.</article-title>
+<source>J Biol Chem</source>
+<volume>279</volume>
+<fpage>26402</fpage>
+<lpage>26410</lpage>
+<pub-id pub-id-type="pmid">15084604</pub-id></element-citation></ref><ref id="pone.0000189-McKeown1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McKeown</surname><given-names>CR</given-names></name><name><surname>Hand</surname><given-names>H-F</given-names></name><name><surname>Berckerle</surname><given-names>MC</given-names></name></person-group>
+<year>2006</year>
+<article-title>Molecular characterization of the <italic>Caenorhabditis</italic> elegans ALP/Enigma gene alp-1.</article-title>
+<source>Developmental Dynamics</source>
+<volume>235</volume>
+<fpage>530</fpage>
+<lpage>538</lpage>
+<pub-id pub-id-type="pmid">16278882</pub-id></element-citation></ref><ref id="pone.0000189-teVelthuis1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>te Velthuis</surname><given-names>AJW</given-names></name><name><surname>Ott</surname><given-names>EB</given-names></name><name><surname>Marques</surname><given-names>IJ</given-names></name><name><surname>Bagowski</surname><given-names>CP</given-names></name></person-group>
+<year>2007</year>
+<article-title>Gene expression patterns of the ALP family during zebrafish development.</article-title>
+<source>Gene Expression Patterns</source>
+<volume>7</volume>
+<fpage>297</fpage>
+<lpage>305</lpage>
+<pub-id pub-id-type="pmid">17045553</pub-id></element-citation></ref><ref id="pone.0000189-AFaiella1"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>A Faiella</surname><given-names>MDE</given-names></name><name><surname>Rambaldi</surname><given-names>M</given-names></name><name><surname>Acampora</surname><given-names>D</given-names></name><name><surname>Balsofiore</surname><given-names>S</given-names></name><name><surname>Stornaiuolo</surname><given-names>A</given-names></name><name><surname>Mallamaci</surname><given-names>A</given-names></name><name><surname>Migliaccio</surname><given-names>E</given-names></name><name><surname>Gulisano</surname><given-names>M</given-names></name><name><surname>Simeone</surname><given-names>A</given-names></name></person-group>
+<year>1991</year>
+<article-title>Isolation and mapping of EVX1, a human homeobox gene homologous to even-skipped, localized at the 5&#x02032; end of HOX1 locus on chromosome 7.</article-title>
+<source>Nucleic Acids Research</source>
+<volume>19</volume>
+<fpage>6541</fpage>
+<lpage>6545</lpage>
+<pub-id pub-id-type="pmid">1684419</pub-id></element-citation></ref><ref id="pone.0000189-Letunic1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Letunic</surname><given-names>I</given-names></name><name><surname>Copley</surname><given-names>RR</given-names></name><name><surname>Pils</surname><given-names>B</given-names></name><name><surname>Pinkert</surname><given-names>S</given-names></name><name><surname>Schultz</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>SMART 5: domains in the context of genomes and networks.</article-title>
+<source>Nucleic Acids Research</source>
+<volume>34</volume>
+<fpage>D257</fpage>
+<lpage>260</lpage>
+<pub-id pub-id-type="pmid">16381859</pub-id></element-citation></ref><ref id="pone.0000189-Schultz1"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schultz</surname><given-names>J</given-names></name><name><surname>Copley</surname><given-names>RR</given-names></name><name><surname>Doerks</surname><given-names>T</given-names></name><name><surname>Ponting</surname><given-names>CP</given-names></name><name><surname>Bork</surname><given-names>P</given-names></name></person-group>
+<year>2000</year>
+<article-title>SMART: a web-based tool for the study of genetically mobile domains.</article-title>
+<source>Nucleic Acids Research</source>
+<volume>28</volume>
+<fpage>231</fpage>
+<lpage>234</lpage>
+<pub-id pub-id-type="pmid">10592234</pub-id></element-citation></ref><ref id="pone.0000189-Schultz2"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schultz</surname><given-names>J</given-names></name><name><surname>Milpetz</surname><given-names>F</given-names></name><name><surname>Bork</surname><given-names>P</given-names></name><name><surname>Ponting</surname><given-names>CP</given-names></name></person-group>
+<year>1998</year>
+<article-title>SMART, a simple modular architecture research tool: identification of signaling domains.</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>95</volume>
+<fpage>5857</fpage>
+<lpage>5864</lpage>
+<pub-id pub-id-type="pmid">9600884</pub-id></element-citation></ref><ref id="pone.0000189-Thompson1"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thompson</surname><given-names>JD</given-names></name><name><surname>Gibson</surname><given-names>TJ</given-names></name><name><surname>Plewniak</surname><given-names>F</given-names></name><name><surname>Jeanmougin</surname><given-names>F</given-names></name><name><surname>Higgins</surname><given-names>DG</given-names></name></person-group>
+<year>1997</year>
+<article-title>The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools.</article-title>
+<source>Nucleic Acids Research</source>
+<volume>25</volume>
+<fpage>4876</fpage>
+<lpage>4882</lpage>
+<pub-id pub-id-type="pmid">9396791</pub-id></element-citation></ref><ref id="pone.0000189-Castresana1"><label>57</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Castresana</surname><given-names>J</given-names></name></person-group>
+<year>2000</year>
+<article-title>Selection of Conserved Blocks from Multiple Alignments for Their Use in Phylogenetic Analysis.</article-title>
+<source>Mol Biol Evol</source>
+<volume>17</volume>
+<fpage>540</fpage>
+<lpage>552</lpage>
+<pub-id pub-id-type="pmid">10742046</pub-id></element-citation></ref><ref id="pone.0000189-Huelsenbeck1"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huelsenbeck</surname><given-names>JP</given-names></name><name><surname>Ronquist</surname><given-names>F</given-names></name></person-group>
+<year>2001</year>
+<article-title>MRBAYES: Bayesian inference of phylogenetic trees.</article-title>
+<source>Bioinformatics</source>
+<volume>17</volume>
+<fpage>754</fpage>
+<lpage>755</lpage>
+<pub-id pub-id-type="pmid">11524383</pub-id></element-citation></ref><ref id="pone.0000189-Felsenstein1"><label>59</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Felsenstein</surname><given-names>J</given-names></name></person-group>
+<year>1989</year>
+<article-title>PHYLIP &#x02013; Phylogeny Inference Package (Version 3.2).</article-title>
+<source>Cladistics</source>
+<volume>5</volume>
+<fpage>164</fpage>
+<lpage>166</lpage>
+</element-citation></ref><ref id="pone.0000189-Guindon1"><label>60</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guindon</surname><given-names>Sp</given-names></name><name><surname>Gascuel</surname><given-names>O</given-names></name></person-group>
+<year>2003</year>
+<article-title>A Simple, Fast, and Accurate Algorithm to Estimate Large Phylogenies by Maximum Likelihood.</article-title>
+<source>Systematic Biology</source>
+<volume>52</volume>
+<fpage>696</fpage>
+<lpage>704</lpage>
+<pub-id pub-id-type="pmid">14530136</pub-id></element-citation></ref><ref id="pone.0000189-Perriere1"><label>61</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perriere</surname><given-names>G</given-names></name><name><surname>Gouy</surname><given-names>M</given-names></name></person-group>
+<year>1996</year>
+<article-title>WWW-query: An on-line retrieval system for biological sequence banks.</article-title>
+<source>Biochimie</source>
+<volume>78</volume>
+<fpage>364</fpage>
+<lpage>369</lpage>
+<pub-id pub-id-type="pmid">8905155</pub-id></element-citation></ref><ref id="pone.0000189-Kumar1"><label>62</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kumar</surname><given-names>S</given-names></name><name><surname>Tamura</surname><given-names>K</given-names></name><name><surname>Nei</surname><given-names>M</given-names></name></person-group>
+<year>2004</year>
+<article-title>MEGA3: Integrated Software for Molecular Evolutionary Genetics Analysis and Sequence Alignment.</article-title>
+<source>Briefings in Bioinformatics</source>
+<volume>5</volume>
+<fpage>150</fpage>
+<lpage>163</lpage>
+<pub-id pub-id-type="pmid">15260895</pub-id></element-citation></ref></ref-list></back></article>

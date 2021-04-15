@@ -1,0 +1,652 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cancer Med</journal-id><journal-id journal-id-type="iso-abbrev">Cancer Med</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7634</journal-id><journal-id journal-id-type="publisher-id">CAM4</journal-id><journal-title-group><journal-title>Cancer Medicine</journal-title></journal-title-group><issn pub-type="epub">2045-7634</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31782984</article-id><article-id pub-id-type="pmc">6970037</article-id><article-id pub-id-type="doi">10.1002/cam4.2710</article-id><article-id pub-id-type="publisher-id">CAM42710</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Clinical Cancer Research</subject><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></subj-group></article-categories><title-group><article-title>High pretreatment plasma Epstein&#x02010;Barr virus (EBV) DNA level is a poor prognostic marker in HIV&#x02010;associated, EBV&#x02010;negative diffuse large B&#x02010;cell lymphoma in Malawi</article-title><alt-title alt-title-type="left-running-head">MONTGOMERY et al.</alt-title></title-group><contrib-group><contrib id="cam42710-cr-0001" contrib-type="author" corresp="yes"><name><surname>Montgomery</surname><given-names>Nathan D.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1765-6623</contrib-id><xref ref-type="aff" rid="cam42710-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref><address><email>nathan.montgomery@unchealth.unc.edu</email></address></contrib><contrib id="cam42710-cr-0002" contrib-type="author"><name><surname>Randall</surname><given-names>Cara</given-names></name><xref ref-type="aff" rid="cam42710-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0003" contrib-type="author"><name><surname>Painschab</surname><given-names>Matthew</given-names></name><xref ref-type="aff" rid="cam42710-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="cam42710-cr-0004" contrib-type="author"><name><surname>Seguin</surname><given-names>Ryan</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0005" contrib-type="author"><name><surname>Kaimila</surname><given-names>Bongani</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0006" contrib-type="author"><name><surname>Kasonkanji</surname><given-names>Edwards</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0007" contrib-type="author"><name><surname>Zuze</surname><given-names>Takondwa</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0008" contrib-type="author"><name><surname>Krysiak</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0009" contrib-type="author"><name><surname>Sanders</surname><given-names>Marcia K.</given-names></name><xref ref-type="aff" rid="cam42710-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="cam42710-cr-0010" contrib-type="author"><name><surname>Elliott</surname><given-names>Avian</given-names></name><xref ref-type="aff" rid="cam42710-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="cam42710-cr-0011" contrib-type="author"><name><surname>Miller</surname><given-names>Melissa B.</given-names></name><xref ref-type="aff" rid="cam42710-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="cam42710-cr-0012" contrib-type="author"><name><surname>Kampani</surname><given-names>Coxcilly</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0013" contrib-type="author"><name><surname>Chimzimu</surname><given-names>Fred</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0014" contrib-type="author"><name><surname>Mulenga</surname><given-names>Maurice</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0015" contrib-type="author"><name><surname>Damania</surname><given-names>Blossom</given-names></name><xref ref-type="aff" rid="cam42710-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cam42710-cr-0016" contrib-type="author"><name><surname>Tomoka</surname><given-names>Tamiwe</given-names></name><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0017" contrib-type="author"><name><surname>Fedoriw</surname><given-names>Yuri</given-names></name><xref ref-type="aff" rid="cam42710-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="cam42710-cr-0018" contrib-type="author"><name><surname>Dittmer</surname><given-names>Dirk P.</given-names></name><xref ref-type="aff" rid="cam42710-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="cam42710-cr-0019" contrib-type="author"><name><surname>Gopal</surname><given-names>Satish</given-names></name><xref ref-type="aff" rid="cam42710-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="cam42710-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="cam42710-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Pathology &#x00026; Laboratory Medicine</named-content>
+<institution>University of North Carolina</institution>
+<city>Chapel Hill</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="cam42710-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Lineberger Comprehensive Cancer Center</named-content>
+<institution>University of North Carolina</institution>
+<city>Chapel Hill</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="cam42710-aff-0003">
+<label><sup>3</sup></label>
+<institution>UNC Project&#x02010;Malawi</institution>
+<city>Lilongwe</city>
+<country country="MW">Malawi</country>
+</aff><aff id="cam42710-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Medicine</named-content>
+<named-content content-type="organisation-division">Division of Hematology &#x00026; Oncology</named-content>
+<institution>University of North Carolina</institution>
+<city>Chapel Hill</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="cam42710-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Department of Microbiology &#x00026; Immunology</named-content>
+<institution>University of North Carolina</institution>
+<city>Chapel Hill</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><aff id="cam42710-aff-0006">
+<label><sup>6</sup></label>
+<institution>UNC Healthcare</institution>
+<city>Chapel Hill</city>
+<named-content content-type="country-part">NC</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Nathan D. Montgomery, Department of Pathology &#x00026; Laboratory Medicine, The University of North Carolina at Chapel Hill, CB#7525, Chapel Hill, NC 27599-7525, USA.<break/>
+Email: <email>nathan.montgomery@unchealth.unc.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>29</day><month>11</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2020</year></pub-date><volume>9</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/cam4.v9.2</issue-id><fpage>552</fpage><lpage>561</lpage><history><date date-type="received"><day>01</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>24</day><month>10</month><year>2019</year></date><date date-type="accepted"><day>30</day><month>10</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Cancer Medicine</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:CAM4-9-552.pdf"/><abstract id="cam42710-abs-0001"><title>Abstract</title><p>Plasma Epstein&#x02010;Barr virus (EBV) DNA measurement has established prognostic utility in EBV&#x02010;driven lymphomas, where it serves as a circulating tumor DNA marker. The value of plasma EBV measurement may be amplified in sub&#x02010;Saharan Africa (SSA), where advanced imaging and molecular technologies for risk stratification are not typically available. However, its utility in diffuse large B&#x02010;cell lymphoma (DLBCL) is less certain, given that only a subset of DLBCLs are EBV&#x02010;positive. To explore this possibility, we measured plasma EBV DNA at diagnosis in a cohort of patients with DLBCL in Malawi. High plasma EBV DNA at diagnosis (&#x02265;3.0 log<sub>10</sub> copies/mL) was associated with decreased overall survival (OS) (<italic>P</italic>&#x000a0;=&#x000a0;.048). When stratified by HIV status, the prognostic utility of baseline plasma EBV DNA level was restricted to HIV&#x02010;positive patients. Unexpectedly, most HIV&#x02010;positive patients with high plasma EBV DNA at diagnosis had EBV&#x02010;negative lymphomas, as confirmed by multiple methods. Even in these HIV&#x02010;positive patients with EBV&#x02010;negative DLBCL, high plasma EBV DNA remained associated with shorter OS (<italic>P</italic>&#x000a0;=&#x000a0;.014). These results suggest that EBV reactivation in nontumor cells is a poor prognostic finding even in HIV&#x02010;positive patients with convincingly EBV&#x02010;negative DLBCL, extending the potential utility of EBV measurement as a valuable and implementable prognostic marker in SSA.</p></abstract><abstract abstract-type="graphical" id="cam42710-abs-0002"><p>In a cohort of HIV&#x02010;positive patients with diffuse large B&#x02010;cell lymphoma (DLBCL) in Malawi, we demonstrate that high plasma Epstein&#x02010;Barr virus (EBV) DNA level at diagnosis (&#x02265;3.0 log<sub>10</sub> copies/mL) is associated with decreased overall survival. Notably, even in those HIV&#x02010;positive patients with EBV&#x02010;negative tumors, high plasma EBV DNA remained associated with shorter survival. These results suggest that EBV reactivation in nontumor cells is a poor prognostic finding in HIV&#x02010;positive patients with EBV&#x02010;negative DLBCL.<boxed-text position="anchor" content-type="graphic" id="cam42710-blkfxd-0001" orientation="portrait"><graphic xlink:href="CAM4-9-552-g003.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="cam42710-kwd-0001">diffuse large B&#x02010;cell lymphoma</kwd><kwd id="cam42710-kwd-0002">Epstein&#x02010;Barr virus</kwd><kwd id="cam42710-kwd-0003">HIV</kwd><kwd id="cam42710-kwd-0004">prognosis</kwd><kwd id="cam42710-kwd-0005">sub&#x02010;Saharan Africa</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>AIDS Malignancy Consortium</funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>Center for AIDS Research, University of North Carolina at Chapel Hill </institution><institution-id institution-id-type="open-funder-registry">10.13039/100011072</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0003"><funding-source><institution-wrap><institution>National Institutes of Health </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000002</institution-id></institution-wrap></funding-source><award-id>CA019014</award-id><award-id>CA190152</award-id><award-id>CA210285</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="10"/><word-count count="6752"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.7.5 mode:remove_FC converted:19.01.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="cam42710-cit-1001">
+<string-name>
+<surname>Montgomery</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Randall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Painschab</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>High pretreatment plasma Epstein&#x02010;Barr virus (EBV) DNA level is a poor prognostic marker in HIV&#x02010;associated, EBV&#x02010;negative diffuse large B&#x02010;cell lymphoma in Malawi</article-title>. <source xml:lang="en">Cancer Med</source>. <year>2020</year>;<volume>9</volume>:<fpage>552</fpage>&#x02013;<lpage>561</lpage>. <pub-id pub-id-type="doi">10.1002/cam4.2710</pub-id>
+</mixed-citation>
+</p></notes></front><body id="cam42710-body-0001"><sec id="cam42710-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Epstein&#x02010;Barr virus (EBV) is an oncogenic herpesvirus implicated in many lymphomas, as well as some solid tumors.<xref rid="cam42710-bib-0001" ref-type="ref">1</xref> For a subset of lymphomas, such as endemic forms of Burkitt lymphoma, EBV is present in the tumor cells of nearly all cases.<xref rid="cam42710-bib-0002" ref-type="ref">2</xref> However, for other lymphomas, such as diffuse large B&#x02010;cell lymphoma (DLBCL), both EBV&#x02010;negative and EBV&#x02010;positive forms of disease are recognized.<xref rid="cam42710-bib-0003" ref-type="ref">3</xref>, <xref rid="cam42710-bib-0004" ref-type="ref">4</xref> The likelihood that a patient's DLBCL will be EBV&#x02010;associated is primarily related to underlying immune status, with human immunodeficiency virus (HIV) infection, iatrogenic immunosuppression, and advanced age all increasing the likelihood of EBV positivity.<xref rid="cam42710-bib-0005" ref-type="ref">5</xref>
+</p><p>DLBCL is the most common subtype of lymphoma worldwide, and in sub&#x02010;Saharan Africa (SSA), the incidence of this and other aggressive B&#x02010;cell lymphomas is increasing, primarily due to HIV and population aging.<xref rid="cam42710-bib-0006" ref-type="ref">6</xref>, <xref rid="cam42710-bib-0007" ref-type="ref">7</xref>, <xref rid="cam42710-bib-0008" ref-type="ref">8</xref>, <xref rid="cam42710-bib-0009" ref-type="ref">9</xref> Prior studies have suggested EBV&#x02010;positivity in approximately 80%&#x02010;90% of cases of HIV&#x02010;associated DLBCL with immunoblastic cytology and approximately 30% of cases with centroblastic cytology.<xref rid="cam42710-bib-0005" ref-type="ref">5</xref>, <xref rid="cam42710-bib-0010" ref-type="ref">10</xref> By comparison, less than 10% of DLBCL arising in HIV&#x02010;negative individuals is associated with EBV.<xref rid="cam42710-bib-0005" ref-type="ref">5</xref>
+</p><p>Accurate risk stratification of DLBCL remains challenging in low&#x02010;income countries, as there is generally no access to positron emission tomography (PET) scans, cell&#x02010;of&#x02010;origin subtyping assays, or prognostically informative cytogenetic or immunophenotypic studies. While often under&#x02010;appreciated, risk stratification is critically important in these settings. Intensive chemotherapy is often associated with treatment&#x02010;related morbidity and mortality due to poor supportive care, conferring substantial risks to patients that may be more pronounced than in high&#x02010;income countries.</p><p>Plasma EBV measurement is a clinically valuable and highly implementable biomarker for many EBV&#x02010;associated malignancies.<xref rid="cam42710-bib-0011" ref-type="ref">11</xref>, <xref rid="cam42710-bib-0012" ref-type="ref">12</xref>, <xref rid="cam42710-bib-0013" ref-type="ref">13</xref> We and others have suggested that plasma EBV measurement may be particularly informative in SSA and other low&#x02010;income settings, where EBV&#x02010;associated lymphomas are common.<xref rid="cam42710-bib-0014" ref-type="ref">14</xref>, <xref rid="cam42710-bib-0015" ref-type="ref">15</xref>, <xref rid="cam42710-bib-0016" ref-type="ref">16</xref> This hypothesis has generally been confirmed for lymphomas that are invariably EBV&#x02010;positive, like endemic Burkitt lymphoma and HIV&#x02010;associated classic Hodgkin lymphoma.<xref rid="cam42710-bib-0014" ref-type="ref">14</xref>, <xref rid="cam42710-bib-0015" ref-type="ref">15</xref>, <xref rid="cam42710-bib-0017" ref-type="ref">17</xref>, <xref rid="cam42710-bib-0018" ref-type="ref">18</xref> In such cases, plasma EBV functions as a sensitive circulating tumor DNA (ctDNA) marker, with both prognostic and monitoring utility. Conversely, the value of plasma EBV measurement for DLBCL, which is EBV&#x02010;associated in a minority of cases, is less clear. We therefore sought to correlate pretreatment plasma EBV level with survival in a cohort of patients with DLBCL in Malawi.</p></sec><sec sec-type="methods" id="cam42710-sec-0002"><label>2</label><title>METHODS</title><sec id="cam42710-sec-0003"><label>2.1</label><title>Study participants</title><p>All patients included in this study were enrolled in the Kamuzu Central Hospital (KCH) Lymphoma Study. Details of this study have been described previously<xref rid="cam42710-bib-0019" ref-type="ref">19</xref>, <xref rid="cam42710-bib-0020" ref-type="ref">20</xref>; but briefly, the KCH Lymphoma Study is an ongoing prospective observational cohort based at a national teaching hospital in Lilongwe, Malawi. KCH is one of two referral centers for cancer care in Malawi, with a catchment area of approximately 9&#x000a0;million people.</p><p>For this analysis, all patients were adults (&#x02265;18&#x000a0;years) diagnosed with DLBCL between June 1, 2013 and May 31, 2016. All DLBCL diagnoses were confirmed by tissue biopsy, supported by manual immunohistochemistry (IHC) and a weekly clinicopathologic teleconference attended by pathologists and oncologists in the United States and Malawi.<xref rid="cam42710-bib-0020" ref-type="ref">20</xref> Subsequently, tissue blocks were sent to the University of North Carolina (UNC) at Chapel Hill for diagnostic confirmation and additional ancillary studies, as described previously and below.<xref rid="cam42710-bib-0020" ref-type="ref">20</xref> In addition to a confirmed diagnosis of DLBCL, the only other inclusion criterion for this study was availability of a pretreatment plasma EBV level (see below).</p><p>First&#x02010;line chemotherapy for patients with DLBCL in this cohort was CHOP (cyclophosphamide, doxorubicin, vincristine, prednisone), along with concurrent antiretroviral therapy in HIV&#x02010;positive patients. All participants were followed until death, or administrative censoring on November 1, 2018, with none lost to follow&#x02010;up.</p></sec><sec id="cam42710-sec-0004"><label>2.2</label><title>Plasma EBV measurement</title><p>Plasma EBV measurements were performed in the UNC Vironomics Core Facility, as previously described.<xref rid="cam42710-bib-0014" ref-type="ref">14</xref> Briefly, anti&#x02010;coagulated plasma was collected prior to initiation of cytotoxic chemotherapy and then stored at &#x02212;80&#x000b0;C, prior to shipment to UNC. Quantitative plasma EBV measurement was performed using a quantitative real&#x02010;time polymerase chain reaction (qPCR) assay with primer pairs designed to amplify a conserved region of the EBV <italic>EBNA3C</italic> gene, corresponding to positions 88933&#x02010;89033 of the EBVI reference genome and positions 89374&#x02010;89836 of the EBVII reference genome. The linear detection range for this assay is 2.0&#x02010;8.0 log<sub>10</sub> copies/mL, with values &#x0003c;2.0 log<sub>10</sub> copies/mL reported as &#x0201c;not detected&#x0201d;.</p></sec><sec id="cam42710-sec-0005"><label>2.3</label><title>Tumor EBV staining</title><p>EBV staining was performed on tissue blocks in the UNC Translational Pathology laboratory by three methods: EBER ISH (Novocastra EBER Probe; Leica Biosystems), LMP1 IHC (Abcam), and EBNA1 IHC (Novus USA). All stains were performed on a Leica Bond Max instrument, according to the manufacturer's instructions, with chromogenic detection via Leica Bond Polymer AP Red Detection Kit for ISH and Leica Bond Intense R Detection Kit supplemented with Novocastra Novolink Polymer Detection System for IHC. Tumors were considered stain positive if at least 50% of the neoplastic cells were stained. Importantly, however, only a single negative case had between 1% and 50% positive cells (patient 25 in Table <xref rid="cam42710-tbl-0003" ref-type="table">3</xref>). In all cases, results were compared to appropriate controls, including confirmation of adequate RNA preservation for interpretation of negative EBER ISH (Epstein&#x02010;Barr encoded RNA in situ hybridization) stains.</p></sec><sec id="cam42710-sec-0006"><label>2.4</label><title>Tumor EBV polymerase chain reaction</title><p>DNA was extracted on a Maxwell&#x000ae; 16 MDx instrument (Promega) using 5&#x000a0;&#x000d7;&#x000a0;10&#x000a0;&#x003bc;m scrolls prepared from the diagnostic formalin&#x02010;fixed, paraffin embedded tissue block. Then, EBV was detected by a qPCR assay targeting the BamH1W segment of EBV, as previously described.<xref rid="cam42710-bib-0021" ref-type="ref">21</xref> Cases were considered positive if the fluorescence signal crossed the critical threshold in fewer than 40 cycles.</p></sec><sec id="cam42710-sec-0007"><label>2.5</label><title>Statistical analysis</title><p>Patient clinical characteristics were compared by Mann&#x02010;Whitney U&#x02010;Test (for continuous data) or by Fisher Exact Test (categorical data). Survival curves were compared and hazard ratios were calculated by log rank test. All statistical analyses were performed using GraphPad Prism 8.</p></sec><sec id="cam42710-sec-0008"><label>2.6</label><title>Informed consent and IRB approval</title><p>Informed consent was obtained in English or Chichewa, the two national languages in Malawi. This study was approved by the UNC Institutional Review Board and the Malawi National Health Sciences Research Committee and is registered with <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">http://clinicaltrials.gov</ext-link> under NCT02835911.</p></sec></sec><sec sec-type="results" id="cam42710-sec-0009"><label>3</label><title>RESULTS</title><sec id="cam42710-sec-0010"><label>3.1</label><title>Patients</title><p>A pretreatment plasma EBV measurement was available in 44 patients diagnosed with DLBCL during the study period, including 25 HIV&#x02010;positive and 19 HIV&#x02010;negative individuals. Clinical characteristics of these patients, stratified by HIV status, are shown in Table <xref rid="cam42710-tbl-0001" ref-type="table">1</xref>. As in previous descriptions of this cohort,<xref rid="cam42710-bib-0019" ref-type="ref">19</xref>, <xref rid="cam42710-bib-0022" ref-type="ref">22</xref> HIV&#x02010;positive patients were younger than their HIV&#x02010;negative counterparts (45.4 vs 56.2&#x000a0;years, <italic>P</italic>&#x000a0;=&#x000a0;.03), with similar male predominance in both groups (19:6 vs 12:7, <italic>P&#x000a0;=&#x000a0;</italic>.51).</p><table-wrap id="cam42710-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Clinical characteristics and pretreatment plasma EBV DNA level of all DLBCL patients</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">All patients (n&#x000a0;=&#x000a0;44)</th><th align="left" valign="top" rowspan="1" colspan="1">HIV pot (n&#x000a0;=&#x000a0;25)</th><th align="left" valign="top" rowspan="1" colspan="1">HIV neg (n&#x000a0;=&#x000a0;19)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, median years (range)</td><td align="left" rowspan="1" colspan="1">47.1 (23.2&#x02010;77.4)</td><td align="left" rowspan="1" colspan="1">45.4 (24.1&#x02010;63.2)</td><td align="left" rowspan="1" colspan="1">56.2 (23.2 &#x02010;77.4)</td><td align="char" char="." rowspan="1" colspan="1">.03</td></tr><tr><td align="left" rowspan="1" colspan="1">Male:female</td><td align="left" rowspan="1" colspan="1">31:13</td><td align="left" rowspan="1" colspan="1">19:6</td><td align="left" rowspan="1" colspan="1">12:7</td><td align="char" char="." rowspan="1" colspan="1">.51</td></tr><tr><td align="left" rowspan="1" colspan="1">EBV log<sub>10</sub> copies/mL at diagnosis, median (range)</td><td align="left" rowspan="1" colspan="1">2.81 (&#x0003c;2.0&#x02010;7.11)</td><td align="left" rowspan="1" colspan="1">2.81 (&#x0003c;2.0&#x02010;6.36)</td><td align="left" rowspan="1" colspan="1">&#x0003c;2.0 (&#x0003c;2.0&#x02010;7.11)</td><td align="char" char="." rowspan="1" colspan="1">.22</td></tr><tr><td align="left" rowspan="1" colspan="1">Patients with plasma EBV at diagnosis below LOD, n (%)</td><td align="left" rowspan="1" colspan="1">22 (50)</td><td align="left" rowspan="1" colspan="1">10 (40)</td><td align="left" rowspan="1" colspan="1">12 (63)</td><td align="char" char="." rowspan="1" colspan="1">.22</td></tr><tr><td align="left" rowspan="1" colspan="1">Patients with EBV log<sub>10</sub>&#x000a0;&#x0003e;&#x000a0;3.0 copies/mL at diagnosis (%)</td><td align="left" rowspan="1" colspan="1">16 (36)</td><td align="left" rowspan="1" colspan="1">10 (40)</td><td align="left" rowspan="1" colspan="1">6 (32)</td><td align="char" char="." rowspan="1" colspan="1">.75</td></tr><tr><td align="left" rowspan="1" colspan="1">Tumor EBV positive by EBER in situ hybridization/total (%)</td><td align="left" rowspan="1" colspan="1">5/42 (11)<xref ref-type="fn" rid="cam42710-note-0002">*</xref>
+</td><td align="left" rowspan="1" colspan="1">2/23 (9)<xref ref-type="fn" rid="cam42710-note-0002">*</xref>
+</td><td align="left" rowspan="1" colspan="1">3/19 (19)</td><td align="char" char="." rowspan="1" colspan="1">.64</td></tr></tbody></table><table-wrap-foot id="cam42710-ntgp-0001"><fn id="cam42710-note-0001"><p>Abbreviations: EBER, EBV encoded RNA; EBV, Epstein&#x02010;Barr virus; LOD, limit of detection.</p></fn><fn id="cam42710-note-0002"><label>*</label><p>EBER ISH results were uninterpretable in two HIV&#x02010;positive lymphomas due to failed RNA preservation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam42710-sec-0011"><label>3.2</label><title>Pretreatment plasma EBV measurements and survival</title><p>Pretreatment plasma EBV DNA level was also similar between HIV&#x02010;positive and HIV&#x02010;negative patients (median 2.81 log<sub>10</sub> copies/mL vs&#x000a0;&#x0003c;&#x000a0;2.0, <italic>P</italic>&#x000a0;=&#x000a0;.22, Table <xref rid="cam42710-tbl-0001" ref-type="table">1</xref>). In addition, a similar proportion of HIV&#x02010;positive and HIV&#x02010;negative patients had negative pretreatment plasma EBV DNA studies, falling below the assay's validated limit of detection of 2.0 log<sub>10</sub> copies/mL (10/25 vs 12/19, <italic>P</italic>&#x000a0;=&#x000a0;.22, Table <xref rid="cam42710-tbl-0001" ref-type="table">1</xref>). Amongst those patients with a positive plasma EBV result, the median pretreatment plasma EBV DNA level was similar in HIV&#x02010;positive and HIV&#x02010;negative patients (3.91 vs 3.94, <italic>P</italic>&#x000a0;=&#x000a0;.70, data not shown). Finally, there was also no difference in the fraction of HIV&#x02010;positive vs HIV&#x02010;negative patients with a &#x0201c;high&#x0201d; pretreatment plasma EBV DNA level, defined here as &#x02265;3.0 log<sub>10</sub> copies/mL (10/25 vs 6/19, <italic>P</italic>&#x000a0;=&#x000a0;.75). This &#x0201c;high&#x0201d; threshold was chosen to define a cutpoint robustly above the limit of detection and above the level typically seen in cancer patients with non&#x02010;EBV&#x02010;associated tumors.<xref rid="cam42710-bib-0023" ref-type="ref">23</xref>
+</p><p>Next, we sought to determine whether pretreatment EBV DNA level was correlated with outcomes in Malawian patients with DLBCL. First, we evaluated all study participants, irrespective of HIV status. In the full cohort, high pretreatment plasma EBV DNA was correlated with a significant decrease in overall survival (OS) (<italic>P</italic>&#x000a0;=&#x000a0;.048 and hazard ratio&#x000a0;=&#x000a0;2.1, 95% CI&#x000a0;=&#x000a0;0.9&#x02010;4.8) (Figure <xref rid="cam42710-fig-0001" ref-type="fig">1</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="cam42710-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Pretreatment plasma EBV DNA level and overall survival in patients with DLBCL in Malawi. A, All patients with DLBCL; B, HIV&#x02010;negative patients with DLBCL; C, HIV&#x02010;positive patients with DLBCL; and D, HIV&#x02010;positive patients with tumors that are EBV negative by EBER ISH, LMP1 IHC, EBNA1 IHC, and tissue PCR (&#x0201c;quadruple negative.&#x0201d;). For all plots, patients were stratified by pretreatment plasma EBV DNA levels: &#x0003c;3.0 log<sub>10</sub> copies/ mL (blue) or &#x02265;3.0 log<sub>10</sub> copies/mL (red). <italic>P</italic> values and hazard ratios with 95% confidence intervals, as determined by log rank test, are shown</p></caption><graphic id="nlm-graphic-3" xlink:href="CAM4-9-552-g001"/></fig><p>In order to determine whether the survival disadvantage of a high pretreatment plasma EBV level might be related to HIV status, HIV&#x02010;negative and HIV&#x02010;positive patients were analyzed separately. Whereas there was no correlation between pretreatment plasma EBV DNA level and survival in HIV&#x02010;negative patients (Figure <xref rid="cam42710-fig-0001" ref-type="fig">1</xref>B, <italic>P</italic>&#x000a0;=&#x000a0;.67), high pretreatment plasma EBV DNA was associated with markedly shorter OS in HIV&#x02010;positive patients (Figure <xref rid="cam42710-fig-0001" ref-type="fig">1</xref>C, <italic>P</italic>&#x000a0;=&#x000a0;.005, hazard ratio&#x000a0;=&#x000a0;3.8, 95% CI&#x000a0;=&#x000a0;1.1&#x02010;12.5). Emphasizing the relationship between pretreatment plasma EBV level and survival in HIV&#x02010;positive patients, the median OS for patients with high pretreatment plasma EBV DNA was just 16&#x000a0;days, compared to 1534&#x000a0;days for patients with low pretreatment plasma EBV DNA (Table <xref rid="cam42710-tbl-0002" ref-type="table">2</xref>, <italic>P</italic>&#x000a0;=&#x000a0;.005). In addition, all HIV&#x02010;positive patients who died in the first 100&#x000a0;days after diagnosis had a pretreatment plasma EBV level &#x02265;3.0 log<sub>10</sub> copies/mL (Table <xref rid="cam42710-tbl-0002" ref-type="table">2</xref>, <italic>P</italic>&#x000a0;=&#x000a0;.0002), despite having similar CD4 counts at DLBCL diagnosis (198&#x000a0;&#x000b1;&#x000a0;178&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/L in patients dying in &#x0003c;100&#x000a0;days vs 173&#x000a0;&#x000b1;&#x000a0;154&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/L in patients living&#x000a0;&#x0003e;&#x000a0;100&#x000a0;days, <italic>P</italic>&#x000a0;=&#x000a0;.83).</p><table-wrap id="cam42710-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Clinical characteristics of HIV&#x02010;positive patients with DLBCL stratified by pretreatment plasma EBV DNA level</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">&#x000a0;</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">All HIV&#x02010;positive DLBCL</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">HIV&#x02010;positive patients with tumor EBV quadruple negative DLBCL</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">n</th><th align="left" valign="top" rowspan="1" colspan="1">EBV log<sub>10</sub>&#x000a0;&#x0003c;&#x000a0;3.0 copies/mL (n&#x000a0;=&#x000a0;15)</th><th align="left" valign="top" rowspan="1" colspan="1">EBV log<sub>10</sub>&#x000a0;&#x0003e;&#x000a0;3.0 copies/mL (n&#x000a0;=&#x000a0;10)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value</th><th align="left" valign="top" rowspan="1" colspan="1">n</th><th align="left" valign="top" rowspan="1" colspan="1">EBV log<sub>10</sub>&#x000a0;&#x0003c;&#x000a0;3.0 copies/mL (n&#x000a0;=&#x000a0;8)</th><th align="left" valign="top" rowspan="1" colspan="1">EBV log<sub>10</sub>&#x000a0;&#x0003e;&#x000a0;3.0 copies/mL (n&#x000a0;=&#x000a0;7)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Median survival (days)</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">1534</td><td align="left" rowspan="1" colspan="1">16</td><td align="char" char="." rowspan="1" colspan="1">.005</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">1391</td><td align="left" rowspan="1" colspan="1">15</td><td align="char" char="." rowspan="1" colspan="1">.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Death within 100&#x000a0;d, n (%)</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">7 (70)</td><td align="char" char="." rowspan="1" colspan="1">.0002</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">5 (33)</td><td align="char" char="." rowspan="1" colspan="1">.007</td></tr><tr><td align="left" rowspan="1" colspan="1">Age median years, (range)</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">47.2 (30.3&#x02010;63.2)</td><td align="left" rowspan="1" colspan="1">44.5 (24.1&#x02010;53.6)</td><td align="char" char="." rowspan="1" colspan="1">.16</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">49.3 (30.3&#x02010;60.1)</td><td align="left" rowspan="1" colspan="1">44.6 (32.8&#x02010;49.9)</td><td align="char" char="." rowspan="1" colspan="1">.09</td></tr><tr><td align="left" rowspan="1" colspan="1">M:F</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">11:4</td><td align="left" rowspan="1" colspan="1">8:2</td><td align="char" char="." rowspan="1" colspan="1">1.0</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">6:2</td><td align="left" rowspan="1" colspan="1">5:2</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">ECOG PS<italic>&#x000a0;&#x0003e;&#x000a0;</italic>2, n (%)</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">1 (7)</td><td align="left" rowspan="1" colspan="1">7 (70)</td><td align="char" char="." rowspan="1" colspan="1">.002</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">1 (13)</td><td align="left" rowspan="1" colspan="1">5 (71)</td><td align="char" char="." rowspan="1" colspan="1">.04</td></tr><tr><td align="left" rowspan="1" colspan="1">Ann Arbor stage IV, n (%)</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">4 (27)</td><td align="left" rowspan="1" colspan="1">7 (70)</td><td align="char" char="." rowspan="1" colspan="1">.049</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">2 (25)</td><td align="left" rowspan="1" colspan="1">4 (57)</td><td align="char" char="." rowspan="1" colspan="1">.31</td></tr><tr><td align="left" rowspan="1" colspan="1">IPI&#x000a0;&#x0003e;&#x000a0;3, n (%)</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">2 (14)</td><td align="left" rowspan="1" colspan="1">5 (50)</td><td align="char" char="." rowspan="1" colspan="1">.09</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">1 (13)</td><td align="left" rowspan="1" colspan="1">2 (29)</td><td align="char" char="." rowspan="1" colspan="1">.57</td></tr><tr><td align="left" rowspan="1" colspan="1">Age adjusted IPI&#x000a0;&#x0003e;&#x000a0;3, n (%)</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">1 (7)</td><td align="left" rowspan="1" colspan="1">4 (40)</td><td align="char" char="." rowspan="1" colspan="1">.12</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">1 (13)</td><td align="left" rowspan="1" colspan="1">2 (29)</td><td align="char" char="." rowspan="1" colspan="1">.57</td></tr><tr><td align="left" rowspan="1" colspan="1">Lactate dehydrogenase ratio (Patient:ULN), mean&#x000a0;&#x000b1;&#x000a0;SD</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">2.0&#x000a0;&#x000b1;&#x000a0;1.5</td><td align="left" rowspan="1" colspan="1">4.8&#x000a0;&#x000b1;&#x000a0;4.4</td><td align="char" char="." rowspan="1" colspan="1">.02</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">2.5&#x000a0;&#x000b1;&#x000a0;2.1</td><td align="left" rowspan="1" colspan="1">5.1&#x000a0;&#x000b1;&#x000a0;5.2</td><td align="char" char="." rowspan="1" colspan="1">.18</td></tr><tr><td align="left" rowspan="1" colspan="1">Lactate dehydrogenase level greater than ULN, n (%)</td><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">12 (86)</td><td align="left" rowspan="1" colspan="1">9 (90)</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">7 (88)</td><td align="left" rowspan="1" colspan="1">6 (86)</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Time since HIV diagnosis, years, mean&#x000a0;&#x000b1;&#x000a0;SD</td><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">3.0&#x000a0;&#x000b1;&#x000a0;4.6</td><td align="left" rowspan="1" colspan="1">2.8&#x000a0;&#x000b1;&#x000a0;3.4</td><td align="char" char="." rowspan="1" colspan="1">.79</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">2.5&#x000a0;&#x000b1;&#x000a0;3.4</td><td align="left" rowspan="1" colspan="1">1.3&#x000a0;&#x000b1;&#x000a0;2.4</td><td align="char" char="." rowspan="1" colspan="1">.82</td></tr><tr><td align="left" rowspan="1" colspan="1">CD4 count, cells&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/L, mean&#x000a0;&#x000b1;&#x000a0;SD</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">197&#x000a0;&#x000b1;&#x000a0;158</td><td align="left" rowspan="1" colspan="1">155&#x000a0;&#x000b1;&#x000a0;161</td><td align="char" char="." rowspan="1" colspan="1">.20</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">177&#x000a0;&#x000b1;&#x000a0;110</td><td align="left" rowspan="1" colspan="1">189&#x000a0;&#x000b1;&#x000a0;184</td><td align="char" char="." rowspan="1" colspan="1">.54</td></tr><tr><td align="left" rowspan="1" colspan="1">HIV viral load at diagnosis, log<sub>10</sub> copies/&#x000b5;L, mean&#x000a0;&#x000b1;&#x000a0;SD</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">2.4&#x000a0;&#x000b1;&#x000a0;2.4</td><td align="left" rowspan="1" colspan="1">2.5&#x000a0;&#x000b1;&#x000a0;2.4</td><td align="char" char="." rowspan="1" colspan="1">.90</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">1.8&#x000a0;&#x000b1;&#x000a0;1.7</td><td align="left" rowspan="1" colspan="1">2.1&#x000a0;&#x000b1;&#x000a0;2.1</td><td align="char" char="." rowspan="1" colspan="1">.89</td></tr><tr><td align="left" rowspan="1" colspan="1">ART naive (&#x0003c;3&#x000a0;mo) at diagnosis, n (%)</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">7 (47)</td><td align="left" rowspan="1" colspan="1">5 (50)</td><td align="char" char="." rowspan="1" colspan="1">1.0</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">3 (38)</td><td align="left" rowspan="1" colspan="1">5 (71)</td><td align="char" char="." rowspan="1" colspan="1">.31</td></tr><tr><td align="left" rowspan="1" colspan="1">White blood cell count, 10<sup>9</sup>/L, mean&#x000a0;&#x000b1;&#x000a0;SD</td><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">5.5&#x000a0;&#x000b1;&#x000a0;15</td><td align="left" rowspan="1" colspan="1">6.5&#x000a0;&#x000b1;&#x000a0;2.6</td><td align="char" char="." rowspan="1" colspan="1">.29</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">6 0&#x000a0;&#x000b1;&#x000a0;1.2</td><td align="left" rowspan="1" colspan="1">7.5&#x000a0;&#x000b1;&#x000a0;2.5</td><td align="char" char="." rowspan="1" colspan="1">.14</td></tr></tbody></table><table-wrap-foot id="cam42710-ntgp-0002"><fn id="cam42710-note-0003"><p>Abbreviations: ART, antiretroviral therapy; DLBCL, diffuse large B&#x02010;cell lymphoma; EBV, Epstein&#x02010;Barr virus; ECOG, Eastern Cooperative Oncology Group (ECOG); HIV, human immunodeficiency virus; IPI, International Prognostic Index; SD, standard deviations; ULN, upper limit of normal</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>HIV&#x02010;positive patients with high pretreatment plasma EBV were also more likely to have Eastern Cooperative Oncology Group (ECOG) performance status &#x02265;2 and Ann Arbor Stage IV disease (Table <xref rid="cam42710-tbl-0002" ref-type="table">2</xref>, <italic>P</italic>&#x000a0;=&#x000a0;.002 and <italic>P</italic>&#x000a0;=&#x000a0;.049 respectively). In addition, the ratio of patient lactate dehydrogenase (LDH) to the laboratory's upper limit of normal was higher in HIV&#x02010;positive patients with a high pretreatment EBV level, though there was no difference in the fraction of patients with an elevated LDH between HIV&#x02010;positive and HIV&#x02010;negative groups (Table <xref rid="cam42710-tbl-0002" ref-type="table">2</xref>, <italic>P</italic>&#x000a0;=&#x000a0;.02 and <italic>P</italic>&#x000a0;=&#x000a0;1.0, respectively). Both international prognostic index score and age&#x02010;adjusted international prognostic index score tended to be higher in HIV&#x02010;positive patients with a high pretreatment EBV level, though these differences were not statistically significant (<italic>P</italic>&#x000a0;=&#x000a0;.09 and 0.12, respectively). Finally, there were no differences in mean age, gender, time since HIV diagnosis, CD4 count, HIV viral load, peripheral white blood cell count, antiretroviral therapy (ART) status if HIV&#x02010;positive, or treatment&#x02010;related mortality between patients with a high or low pretreatment plasma EBV level (Table <xref rid="cam42710-tbl-0002" ref-type="table">2</xref>).</p></sec><sec id="cam42710-sec-0012"><label>3.3</label><title>Correlation between tumor EBER ISH and plasma EBV detection</title><p>To determine whether the high plasma EBV detected in some patients correlated with EBV status in the tumor, we evaluated tumor EBV status by EBER ISH. Interpretable EBER ISH results were available on 42/44 patients. Images of representative lymphomas from patients in this cohort are shown in Figure <xref rid="cam42710-fig-0002" ref-type="fig">2</xref>. A similar proportion of DLBCLs were EBER ISH positive in HIV&#x02010;positive (2/23, 9%) and HIV&#x02010;negative (3/19, 16%) patients, with 4/5 positive cases occurring in individuals 54&#x000a0;years of age or older, including all 3 HIV&#x02010;negative cases (Table <xref rid="cam42710-tbl-0001" ref-type="table">1</xref>, data not shown). Amongst HIV positive cases, there were too few EBER&#x02010;positive DLBCLs to make meaningful clinical comparisons between EBER&#x02010;positive (n&#x000a0;=&#x000a0;2) and EBER&#x02010;negative cases (n&#x000a0;=&#x000a0;21). However, there was no obvious difference in mean CD4 count between these groups (105&#x000a0;&#x000b1;&#x000a0;78&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/L in EBER&#x02010;positive DLBCL vs 179&#x000a0;&#x000b1;&#x000a0;154&#x000a0;&#x000d7;&#x000a0;10<sup>9</sup>/L in EBER&#x02010;negative DLBCL).</p><fig fig-type="Figure" xml:lang="en" id="cam42710-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Morphologic findings and EBER stains in representative DLBCL from HIV&#x02010;positive patients in Malawi. Representative hematoxylin &#x00026; eosin stained sections (A,C,E) and EBER in situ hybridization results (B,D,F) of DLBCL from HIV&#x02010;positive patients in Malawi. (A,B) Tumor EBER&#x02010;positive; (C,D) tumor EBER&#x02010;negative with undetectable plasma EBV; (E,F) tumor EBER&#x02010;negative with plasma EBV &#x0003e;3.0 log<sub>10</sub> copies/mL</p></caption><graphic id="nlm-graphic-5" xlink:href="CAM4-9-552-g002"/></fig><p>Notably, tumor EBER&#x02010;positive cases in the cohort (n&#x000a0;=&#x000a0;5) were substantially less numerous than cases with a high pretreatment plasma EBV DNA level (n&#x000a0;=&#x000a0;16). While 3 of 5 EBER&#x02010;positive cases had a pretreatment plasma EBV DNA level&#x000a0;&#x02265;&#x000a0;3.0 log<sub>10</sub> copies/mL, high pretreatment plasma EBV DNA was also detected in 12/37 tumor EBER&#x02010;negative DLBCLs, raising the possibility that plasma EBV DNA may not be tumor&#x02010;derived in many DLBCL cases.</p><p>To assess other potential sources of plasma EBV DNA in patients with tumor EBER&#x02010;negative DLBCL, we also evaluated EBER staining in background, non&#x02010;neoplastic lymphocytes. Rare non&#x02010;neoplastic EBER&#x02010;positive lymphocytes were identified in 6 tumor EBV&#x02010;negative DLBCLs, in each case representing &#x0003c;1% of all lymph node cells. Cases with non&#x02010;neoplastic EBER&#x02010;positive lymphocytes were no more likely than cases without non&#x02010;neoplastic EBER&#x02010;positive lymphocytes to have a plasma EBV DNA level above the assay's validated limit of detection or &#x02265;3.0 log<sub>10</sub> copies/mL (<italic>P</italic>&#x000a0;=&#x000a0;.64 and .66, respectively).</p></sec><sec id="cam42710-sec-0013"><label>3.4</label><title>Evaluation of tumor EBV status by orthogonal methods</title><p>The existence of rigorous pathology protocols in the KCH Pathology Laboratory, along with confirmation of RNA preservation in 42/44 cases, decreases the likelihood of false negative EBER ISH staining in this cohort. To independently confirm EBV status in the DLBCL, we used two IHC stains, LMP1 (latent membrane protein 1) and EBNA1 (Epstein&#x02010;Barr nuclear antigen 1). LMP1 and EBNA1 are co&#x02010;expressed with EBER in EBV's type II and III latency programs, which are typically observed in DLBCL.<xref rid="cam42710-bib-0024" ref-type="ref">24</xref>, <xref rid="cam42710-bib-0025" ref-type="ref">25</xref> As such, these stains provided an orthogonal method of EBV detection. Insufficient tissue remained for testing in 5 cases, leaving 20 cases of HIV&#x02010;positive DLBCL for evaluation, 18 of which had an interpretable EBER stain for comparison. LMP1/EBNA1 results in tumor cells were concordant with EBER ISH in 17/18 cases (95%). The lone discordant case (patient 9) exhibited positive EBER staining but was negative for LMP1/EBNA1.</p><p>To further exclude falsely negative EBV detection in HIV&#x02010;associated DLBCL cases in our cohort, we next attempted to evaluate EBV status by real&#x02010;time qPCR performed on FFPE tissue scrolls (Table <xref rid="cam42710-tbl-0003" ref-type="table">3</xref>). Tissue EBV qPCR was concordant with EBER ISH results in 18/18 cases and with LMP1/EBNA1 IHC in 18/20 cases. Both cases with discordant qPCR and LMP1/EBNA1 staining results were qPCR positive and stain negative. One of these cases ( patient 9) was also EBER ISH positive, as mentioned above. In the other, EBER ISH results were uninterpretable due to failed RNA preservation (patient 5).</p><table-wrap id="cam42710-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Tumor EBV status evaluated by multiple methods</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Patient number</th><th align="left" valign="top" rowspan="1" colspan="1">Pretreatment plasma EBV &#x02265;3.0</th><th align="left" valign="top" rowspan="1" colspan="1">EBER ISH</th><th align="left" valign="top" rowspan="1" colspan="1">LMP1 IHC</th><th align="left" valign="top" rowspan="1" colspan="1">EBNA1 IHC</th><th align="left" valign="top" rowspan="1" colspan="1">Tissue EBV PCR</th><th align="left" valign="top" rowspan="1" colspan="1">Tumor EBV quadruple negative</th><th align="left" valign="top" rowspan="1" colspan="1">LYM</th><th align="left" valign="top" rowspan="1" colspan="1">ISH/IHC concordant</th><th align="left" valign="top" rowspan="1" colspan="1">EBER/PCR concordant</th><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="char" char="." rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">34</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">Uninterpretable</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">NO</td><td align="char" char="." rowspan="1" colspan="1">44</td><td align="left" rowspan="1" colspan="1">Unint.</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">Equivocal</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="char" char="." rowspan="1" colspan="1">116</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="char" char="." rowspan="1" colspan="1">127</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">9</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">NO</td><td align="char" char="." rowspan="1" colspan="1">243</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">302</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">4</td></tr><tr><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="char" char="." rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">145</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">5</td></tr><tr><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">159</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">6</td></tr><tr><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">256</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">7</td></tr><tr><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">NO</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="char" char="." rowspan="1" colspan="1">81</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">QNS</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">16</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">8</td></tr><tr><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">192</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">Equivocal</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">204</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">9</td></tr><tr><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">318</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">10</td></tr><tr><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">153</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">11</td></tr><tr><td align="left" rowspan="1" colspan="1">21</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">202</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">12</td></tr><tr><td align="left" rowspan="1" colspan="1">22</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">154</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">13</td></tr><tr><td align="left" rowspan="1" colspan="1">23</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">Uninterpretable</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">NO</td><td align="char" char="." rowspan="1" colspan="1">121</td><td align="left" rowspan="1" colspan="1">Unint.</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">24</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">POS</td><td align="left" rowspan="1" colspan="1">NO</td><td align="char" char="." rowspan="1" colspan="1">313</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" rowspan="1" colspan="1">25</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">NEG (&#x0003c;10%)</td><td align="left" rowspan="1" colspan="1">NEG (&#x0003c;10%)</td><td align="left" rowspan="1" colspan="1">NEG (&#x0003c; 10%)</td><td align="left" rowspan="1" colspan="1">NEG</td><td align="left" rowspan="1" colspan="1">NO<xref ref-type="fn" rid="cam42710-note-0006">a</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">282</td><td align="left" rowspan="1" colspan="1">YES</td><td align="left" rowspan="1" colspan="1">YES</td><td align="char" char="." rowspan="1" colspan="1">14</td></tr></tbody></table><table-wrap-foot id="cam42710-ntgp-0003"><title>Note</title><fn id="cam42710-note-0004"><p>&#x0201c;Uninterpretable&#x0201d; indicates that RNA was inadequately preserved for interpretation of EBER stain.</p></fn><fn id="cam42710-note-0005"><p>Abbreviations: EBER, Epstein&#x02010;Barr encoded RNA; EBNA1, Epstein&#x02010;Barr nuclear antigen 1; EBV, Epstein&#x02010;Barr virus; IHC, immunohistochemistry; ISH, in situ hybridization; LMP1, latent membrane protein 1; NEG, negative; PCR, polymerase chain reaction; POS, positive; QNS, quantity not sufficient for testing.</p></fn><fn id="cam42710-note-0006"><label>a</label><p>Denotes that the case was classified as not &#x0201c;tumor EBV quadruple negative&#x0201d; due to the small percentage of tumor cells (&#x0003c;10%) positive by EBER, LMP1, and EBNA1 stains.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="cam42710-sec-0014"><label>3.5</label><title>Pretreatment plasma EBV and survival in HIV&#x02010;positive, tumor EBV negative cases</title><p>15 of 25 (60%) cases of HIV&#x02010;associated DLBCL in this cohort were negative by all four tissue&#x02010;based methods used to detect EBV in this study (EBER ISH, LMP1 IHC, EBNA1 IHC, Tissue PCR). We refer to these cases as &#x0201c;tumor EBV&#x02010;quadruple&#x02010;negative&#x0201d; in order to highlight that there is no evidence to indicate that EBV is present in the neoplastic cells in these lymphomas (Table <xref rid="cam42710-tbl-0003" ref-type="table">3</xref>). Nevertheless, 7 of 15 (47%) tumor EBV&#x02010;quadruple&#x02010;negative lymphomas were from patients with a high pretreatment plasma EBV DNA level, favoring the conclusion that plasma EBV is not tumor&#x02010;derived in these individuals. Notably, even in these tumor EBV quadruple negative cases, a high pretreatment plasma EBV DNA level remained associated with shorter OS (Figure <xref rid="cam42710-fig-0001" ref-type="fig">1</xref>D) (<italic>P</italic>&#x000a0;=&#x000a0;.014, hazard ratio&#x000a0;=&#x000a0;4.1 with 95%CI 1.0&#x02010;16.4). In general, clinical features were similar in tumor EBV&#x02010;quadruple&#x02010;negative patients compared to the full HIV&#x02010;positive cohort (Table <xref rid="cam42710-tbl-0002" ref-type="table">2</xref>).</p></sec></sec><sec sec-type="discussion" id="cam42710-sec-0015"><label>4</label><title>DISCUSSION</title><p>Plasma EBV has been studied intensely for its clinical utility as a predictive or prognostic biomarker in EBV&#x02010;driven lymphoma.<xref rid="cam42710-bib-0026" ref-type="ref">26</xref>, <xref rid="cam42710-bib-0027" ref-type="ref">27</xref> In SSA, this biomarker has been most extensively evaluated in endemic Burkitt lymphoma and classic Hodgkin lymphoma, both of which are EBV positive in most cases.<xref rid="cam42710-bib-0014" ref-type="ref">14</xref>, <xref rid="cam42710-bib-0015" ref-type="ref">15</xref>, <xref rid="cam42710-bib-0017" ref-type="ref">17</xref>, <xref rid="cam42710-bib-0018" ref-type="ref">18</xref> Plasma EBV is also a promising lymphoma marker in HIV&#x02010;positive patients,<xref rid="cam42710-bib-0028" ref-type="ref">28</xref> though its utility has been primarily explored in patients with EBV&#x02010;positive tumors.</p><p>We sought to explore the prognostic utility of plasma EBV in DLBCL in Malawi. This question is of particular relevance for low&#x02010;income countries, which have a high incidence of DLBCL, but do not have advanced capabilities like PET scans, that are routinely used for DLBCL risk stratification in high&#x02010;income countries. Measuring plasma viral loads is readily implementable in low&#x02010;resource settings, especially given that existing laboratory capacity has been developed to support HIV RNA monitoring in public sector ART programs. Although high pretreatment plasma EBV DNA has been reported in patients with EBER&#x02010;negative DLBCL,<xref rid="cam42710-bib-0029" ref-type="ref">29</xref>, <xref rid="cam42710-bib-0030" ref-type="ref">30</xref> these earlier studies excluded HIV&#x02010;positive patients. Here, we extend those observations to HIV&#x02010;infected individuals in Malawi and further show that a high pretreatment plasma EBV DNA level is associated with poor overall survival in HIV&#x02010;positive, tumor EBV&#x02010;negative patients.</p><p>More than 90% of the world's population is estimated to be infected with EBV,<xref rid="cam42710-bib-0031" ref-type="ref">31</xref>, <xref rid="cam42710-bib-0032" ref-type="ref">32</xref>, <xref rid="cam42710-bib-0033" ref-type="ref">33</xref>, <xref rid="cam42710-bib-0034" ref-type="ref">34</xref> and once infected, EBV persists as a latent infection for the remainder of an individual's lifetime.<xref rid="cam42710-bib-0035" ref-type="ref">35</xref> Latently infected cells are rare in normal individuals, representing fewer than 1 in 10,000 peripheral blood leukocytes.<xref rid="cam42710-bib-0036" ref-type="ref">36</xref> As a result, EBV DNA is typically undetectable or present only at a very low level in the plasma of normal adults.<xref rid="cam42710-bib-0027" ref-type="ref">27</xref>, <xref rid="cam42710-bib-0037" ref-type="ref">37</xref>, <xref rid="cam42710-bib-0038" ref-type="ref">38</xref> In patients with EBV&#x02010;driven malignancies, particularly in the post&#x02010;transplant setting, plasma EBV may rise as a ctDNA marker.<xref rid="cam42710-bib-0039" ref-type="ref">39</xref>, <xref rid="cam42710-bib-0040" ref-type="ref">40</xref>, <xref rid="cam42710-bib-0041" ref-type="ref">41</xref>, <xref rid="cam42710-bib-0042" ref-type="ref">42</xref> In contrast, detection of high&#x000a0;plasma&#x000a0;EBV among patients in our cohort with EBV tumor&#x02010;negative DLBCL strongly suggests that the virus is derived from non&#x02010;tumor cells.</p><p>However, from this small study, it is not possible to determine underlying mechanisms for poor outcomes in patients with a high pretreatment plasma EBV DNA level. Our findings are reminiscent of cytomegalovirus (CMV) reactivation being associated with worse outcomes in critically ill patients.<xref rid="cam42710-bib-0043" ref-type="ref">43</xref>, <xref rid="cam42710-bib-0044" ref-type="ref">44</xref> Analogously, EBV reactivation in nontumor cells of HIV&#x02010;positive patients with DLBCL could reflect underlying illness or immune dysfunction not reflected in standard CD4 count assessment. This interpretation is supported by the observation that HIV&#x02010;positive patients with high pretreatment plasma EBV DNA levels were more likely to have an ECOG performance status &#x02265;2, with a similar trend persisting in tumor EBV&#x02010;quadruple&#x02010;negative DLBCL. It is also possible that EBV reactivation in nontumor cells directly contributes to worse outcomes for these patients, perhaps by redirecting an already impaired immune response in HIV&#x02010;infected patients. Finally, although we have evaluated tumor EBV status by multiple, independent methods, it is possible that some quadruple&#x02010;negative cases are EBV&#x02010;driven, despite negative ISH, IHC, and PCR studies.</p><p>To our knowledge, there are no prior studies exploring the prognostic significance of plasma EBV levels in HIV&#x02010;positive patients with tumor EBV&#x02010;negative DLBCL. However, there have been two prior publications showing that high plasma EBV DNA is associated with inferior outcomes in tumor EBV&#x02010;negative DLBCL in HIV&#x02010;negative patients.<xref rid="cam42710-bib-0029" ref-type="ref">29</xref>, <xref rid="cam42710-bib-0030" ref-type="ref">30</xref> In our cohort, we did not observe differences in OS related to plasma EBV measurement in HIV&#x02010;negative patients, although interpretation may be limited by the relatively small number of HIV&#x02010;negative individuals in our cohort. Interestingly, a recent study demonstrated that the presence of EBV&#x02010;positive, non&#x02010;neoplastic bystander cells are associated with increased IPI score and decreased OS in patients with tumor EBV&#x02010;negative DLBCL, though HIV status was not reported.<xref rid="cam42710-bib-0045" ref-type="ref">45</xref> Additionally, studies from The Cancer Genome Atlas found the tumor immune microenvironment was altered significantly by EBV&#x02010;positive bystander cell infiltration in HIV&#x02010;negative solid tumors,<xref rid="cam42710-bib-0046" ref-type="ref">46</xref> suggesting that EBV reactivation in nontumor cells may influence tumor biology.</p><p>The primary limitation of the current study is the relatively small sample size, particularly for tumor EBV&#x02010;quadruple&#x02010;negative cases. Given these small numbers, multivariate analyses were not possible. Of note, we recently validated a real&#x02010;time plasma EBV DNA assay in Malawi and hope to further replicate these initial observations in a larger cohort of patients.</p><p>Accurate risk stratification of DLBCL is challenging in SSA and other low&#x02010;income countries, where there is often no capacity for cytogenetic or immunophenotypic characterization, sequencing studies, or cell&#x02010;of&#x02010;origin classification. The development of blood&#x02010; and plasma&#x02010;based molecular diagnostic tests hold promise in this setting, particularly as up&#x02010;front capital equipment costs decline. Many centers in SSA have already developed infrastructure for PCR&#x02010;based viral load assays, demonstrating that these technologies are highly implementable in low&#x02010;resource settings. Our experience with EBV measurement in Malawi suggests that this virus may also be an attractive target for blood&#x02010;based molecular assay development in SSA to improve outcomes across diverse lymphoma subtypes. Intriguingly, this single highly implementable biomarker might help identify patients with EBV&#x02010;positive lymphomas at highest risk for lymphoma relapse or progression as suggested by our previous work,<xref rid="cam42710-bib-0010" ref-type="ref">10</xref>, <xref rid="cam42710-bib-0011" ref-type="ref">11</xref> as well as patients with EBV&#x02010;negative DLBCL at highest risk for early death, as suggested by these new analyses.</p></sec></body><back><ack id="cam42710-sec-0018"><title>ACKNOWLEDGMENTS</title><p>This work was supported by PHS funding CA210285, CA019014, CA190152. SG and DPD are supported by the AIDS Malignancy Consortium, and NDM is supported by the UNC Center for AIDS Research. BD is a Lymphoma and Leukemia Society Fellow.</p></ack><sec sec-type="data-availability" id="cam42710-sec-0017"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author upon reasonable request.</p></sec><ref-list content-type="cited-references" id="cam42710-bibl-0001"><title>REFERENCES</title><ref id="cam42710-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="cam42710-cit-0001">
+<string-name>
+<surname>Shannon&#x02010;Lowe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Rickinson</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>
+<given-names>AI</given-names>
+</string-name>. <article-title>Epstein&#x02010;Barr virus&#x02010;associated lymphomas</article-title>. <source xml:lang="en">Philos Trans R Soc B: Biol Sci</source>. <year>2017</year>;<volume>372</volume>(<issue>1732</issue>):<elocation-id>20160271</elocation-id>.</mixed-citation></ref><ref id="cam42710-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="cam42710-cit-0002">
+<string-name>
+<surname>Shiramizu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Barriga</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Neequaye</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Patterns of chromosomal breakpoint locations in Burkitt's lymphoma: relevance to geography and Epstein&#x02010;Barr virus association</article-title>. <source xml:lang="en">Blood</source>. <year>1991</year>;<volume>77</volume>(<issue>7</issue>):<fpage>1516</fpage>&#x02010;<lpage>1526</lpage>.<pub-id pub-id-type="pmid">1849033</pub-id></mixed-citation></ref><ref id="cam42710-bib-0003"><label>3</label><mixed-citation publication-type="book" id="cam42710-cit-0003">
+<string-name>
+<surname>Swerdlow</surname>
+<given-names>SHCE</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>NL</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>ES</given-names>
+</string-name>, et al. eds. <source xml:lang="en">WHO Classification of Tumours of Haematopoietic and Lymphoid Tissues</source>. Revised, <edition designator="4">4th ed</edition>
+<publisher-loc>Lyon</publisher-loc>: <publisher-name>IARC</publisher-name>; <year>2017</year>; No. 2.</mixed-citation></ref><ref id="cam42710-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="cam42710-cit-0004">
+<string-name>
+<surname>Menon</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Pittaluga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>ES</given-names>
+</string-name>. <article-title>The histological and biological spectrum of diffuse large B&#x02010;cell lymphoma in the World Health Organization classification</article-title>. <source xml:lang="en">Cancer J</source>. <year>2012</year>;<volume>18</volume>(<issue>5</issue>):<fpage>411</fpage>&#x02010;<lpage>420</lpage>.<pub-id pub-id-type="pmid">23006945</pub-id></mixed-citation></ref><ref id="cam42710-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="cam42710-cit-0005">
+<string-name>
+<surname>Linke&#x02010;Serinsoz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Fend</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Quintanilla&#x02010;Martinez</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Human immunodeficiency virus (HIV) and Epstein&#x02010;Barr virus (EBV) related lymphomas, pathology view point</article-title>. <source xml:lang="en">Semin Diagn Pathol</source>. <year>2017</year>;<volume>34</volume>(<issue>4</issue>):<fpage>352</fpage>&#x02010;<lpage>363</lpage>.<pub-id pub-id-type="pmid">28506687</pub-id></mixed-citation></ref><ref id="cam42710-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="cam42710-cit-0006">
+<article-title>A clinical evaluation of the International Lymphoma Study Group classification of non&#x02010;Hodgkin's lymphoma. The Non&#x02010;Hodgkin's Lymphoma Classification Project</article-title>. <source xml:lang="en">Blood</source>. <year>1997</year>;<volume>89</volume>(<issue>11</issue>):<fpage>3909</fpage>&#x02010;<lpage>3918</lpage>.<pub-id pub-id-type="pmid">9166827</pub-id></mixed-citation></ref><ref id="cam42710-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="cam42710-cit-0007">
+<string-name>
+<surname>Naresh</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Raphael</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ayers</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Lymphomas in sub&#x02010;Saharan Africa&#x02013;what can we learn and how can we help in improving diagnosis, managing patients and fostering translational research?</article-title>
+<source xml:lang="en">Br J Haematol</source>. <year>2011</year>;<volume>154</volume>(<issue>6</issue>):<fpage>696</fpage>&#x02010;<lpage>703</lpage>.<pub-id pub-id-type="pmid">21707579</pub-id></mixed-citation></ref><ref id="cam42710-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="cam42710-cit-0008">
+<string-name>
+<surname>Parkin</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Nambooze</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wabwire&#x02010;Mangen</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Wabinga</surname>
+<given-names>HR</given-names>
+</string-name>. <article-title>Changing cancer incidence in Kampala, Uganda, 1991&#x02013;2006</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2010</year>;<volume>126</volume>(<issue>5</issue>):<fpage>1187</fpage>&#x02010;<lpage>1195</lpage>.<pub-id pub-id-type="pmid">19688826</pub-id></mixed-citation></ref><ref id="cam42710-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="cam42710-cit-0009">
+<string-name>
+<surname>Chokunonga</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Borok</surname>
+<given-names>MZ</given-names>
+</string-name>, <string-name>
+<surname>Chirenje</surname>
+<given-names>ZM</given-names>
+</string-name>, <string-name>
+<surname>Nyakabau</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Parkin</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Trends in the incidence of cancer in the black population of Harare, Zimbabwe 1991&#x02013;2010</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2013</year>;<volume>133</volume>(<issue>3</issue>):<fpage>721</fpage>&#x02010;<lpage>729</lpage>.<pub-id pub-id-type="pmid">23364833</pub-id></mixed-citation></ref><ref id="cam42710-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="cam42710-cit-0010">
+<string-name>
+<surname>Cesarman</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Pathology of lymphoma in HIV</article-title>. <source xml:lang="en">Curr Opin Oncol</source>. <year>2013</year>;<volume>25</volume>(<issue>5</issue>):<fpage>487</fpage>&#x02010;<lpage>494</lpage>.<pub-id pub-id-type="pmid">23942293</pub-id></mixed-citation></ref><ref id="cam42710-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="cam42710-cit-0011">
+<string-name>
+<surname>Kanakry</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gellert</surname>
+<given-names>LL</given-names>
+</string-name>, et al. <article-title>Plasma Epstein&#x02010;Barr virus DNA predicts outcome in advanced Hodgkin lymphoma: correlative analysis from a large North American cooperative group trial</article-title>. <source xml:lang="en">Blood</source>. <year>2013</year>;<volume>121</volume>(<issue>18</issue>):<fpage>3547</fpage>&#x02010;<lpage>3553</lpage>.<pub-id pub-id-type="pmid">23386127</pub-id></mixed-citation></ref><ref id="cam42710-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="cam42710-cit-0012">
+<string-name>
+<surname>Welch</surname>
+<given-names>JJG</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Higman</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Epstein&#x02010;Barr virus DNA in serum as an early prognostic marker in children and adolescents with Hodgkin lymphoma</article-title>. <source xml:lang="en">Blood Adv</source>. <year>2017</year>;<volume>1</volume>(<issue>11</issue>):<fpage>681</fpage>&#x02010;<lpage>684</lpage>.<pub-id pub-id-type="pmid">29296710</pub-id></mixed-citation></ref><ref id="cam42710-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="cam42710-cit-0013">
+<string-name>
+<surname>Leung</surname>
+<given-names>S&#x02010;F</given-names>
+</string-name>, <string-name>
+<surname>Zee</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>BB</given-names>
+</string-name>, et al. <article-title>Plasma Epstein&#x02010;Barr viral deoxyribonucleic acid quantitation complements tumor&#x02010;node&#x02010;metastasis staging prognostication in nasopharyngeal carcinoma</article-title>. <source xml:lang="en">J Clin Oncol</source>. <year>2006</year>;<volume>24</volume>(<issue>34</issue>):<fpage>5414</fpage>&#x02010;<lpage>5418</lpage>.<pub-id pub-id-type="pmid">17135642</pub-id></mixed-citation></ref><ref id="cam42710-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="cam42710-cit-0014">
+<string-name>
+<surname>Westmoreland</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Montgomery</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Stanley</surname>
+<given-names>CC</given-names>
+</string-name>, et al. <article-title>Plasma Epstein&#x02010;Barr virus DNA for pediatric Burkitt lymphoma diagnosis, prognosis and response assessment in Malawi</article-title>. <source xml:lang="en">Int J Cancer</source>. <year>2017</year>;<volume>140</volume>(<issue>11</issue>):<fpage>2509</fpage>&#x02010;<lpage>2516</lpage>.<pub-id pub-id-type="pmid">28268254</pub-id></mixed-citation></ref><ref id="cam42710-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="cam42710-cit-0015">
+<string-name>
+<surname>Westmoreland</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Stanley</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Montgomery</surname>
+<given-names>ND</given-names>
+</string-name>, et al. <article-title>Hodgkin lymphoma, HIV, and Epstein&#x02010;Barr virus in Malawi: longitudinal results from the Kamuzu Central Hospital Lymphoma study</article-title>. <source xml:lang="en">Pediatr Blood Cancer</source>. <year>2017</year>;<volume>64</volume>(<issue>5</issue>):<elocation-id>e26302</elocation-id>.</mixed-citation></ref><ref id="cam42710-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="cam42710-cit-0016">
+<string-name>
+<surname>Gulley</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>
+<given-names>DR</given-names>
+</string-name>. <article-title>Molecular oncology testing in resource&#x02010;limited settings</article-title>. <source xml:lang="en">J Mol Diagn</source>. <year>2014</year>;<volume>16</volume>(<issue>6</issue>):<fpage>601</fpage>&#x02010;<lpage>611</lpage>.<pub-id pub-id-type="pmid">25242061</pub-id></mixed-citation></ref><ref id="cam42710-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="cam42710-cit-0017">
+<string-name>
+<surname>Kabyemera</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Masalu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Rambau</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Relationship between non&#x02010;Hodgkin's lymphoma and blood levels of Epstein&#x02010;Barr virus in children in north&#x02010;western Tanzania: a case control study</article-title>. <source xml:lang="en">BMC Pediatr</source>. <year>2013</year>;<volume>13</volume>:<fpage>4</fpage>.<pub-id pub-id-type="pmid">23294539</pub-id></mixed-citation></ref><ref id="cam42710-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="cam42710-cit-0018">
+<string-name>
+<surname>Orem</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sandin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mbidde</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mangen</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Middeldorp</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Weiderpass</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Epstein&#x02010;Barr virus viral load and serology in childhood non&#x02010;Hodgkin's lymphoma and chronic inflammatory conditions in Uganda: implications for disease risk and characteristics</article-title>. <source xml:lang="en">J Med Virol</source>. <year>2014</year>;<volume>86</volume>(<issue>10</issue>):<fpage>1796</fpage>&#x02010;<lpage>1803</lpage>.<pub-id pub-id-type="pmid">24889739</pub-id></mixed-citation></ref><ref id="cam42710-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="cam42710-cit-0019">
+<string-name>
+<surname>Gopal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fedoriw</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kaimila</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>CHOP chemotherapy for aggressive non&#x02010;hodgkin lymphoma with and without HIV in the antiretroviral therapy era in Malawi</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2016</year>;<volume>11</volume>(<issue>3</issue>):<elocation-id>e0150445</elocation-id>.<pub-id pub-id-type="pmid">26934054</pub-id></mixed-citation></ref><ref id="cam42710-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="cam42710-cit-0020">
+<string-name>
+<surname>Montgomery</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Liomba</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Kampani</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Accurate real&#x02010;time diagnosis of lymphoproliferative disorders in Malawi through clinicopathologic teleconferences: a model for pathology services in sub&#x02010;Saharan Africa</article-title>. <source xml:lang="en">Am J Clin Pathol</source>. <year>2016</year>;<volume>146</volume>(<issue>4</issue>):<fpage>423</fpage>&#x02010;<lpage>430</lpage>.<pub-id pub-id-type="pmid">27594430</pub-id></mixed-citation></ref><ref id="cam42710-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="cam42710-cit-0021">
+<string-name>
+<surname>Ryan</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Glaser</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Schichman</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Raab&#x02010;Traub</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Gulley</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Epstein&#x02010;Barr virus quantitation by real&#x02010;time PCR targeting multiple gene segments: a novel approach to screen for the virus in paraffin&#x02010;embedded tissue and plasma</article-title>. <source xml:lang="en">J Mol Diag</source>. <year>2004</year>;<volume>6</volume>(<issue>4</issue>):<fpage>378</fpage>&#x02010;<lpage>385</lpage>.</mixed-citation></ref><ref id="cam42710-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="cam42710-cit-0022">
+<string-name>
+<surname>Painschab</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Kasonkanji</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zuze</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Mature outcomes and prognostic indices in diffuse large B&#x02010;cell lymphoma in Malawi: a prospective cohort</article-title>. <source xml:lang="en">Br J Haematol</source>. <year>2018</year>;<volume>184</volume>(<issue>3</issue>):<fpage>364</fpage>&#x02010;<lpage>372</lpage>.<pub-id pub-id-type="pmid">30450671</pub-id></mixed-citation></ref><ref id="cam42710-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="cam42710-cit-0023">
+<string-name>
+<surname>Kanakry</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Hegde</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>
+<given-names>CM</given-names>
+</string-name>, et al. <article-title>The clinical significance of EBV DNA in the plasma and peripheral blood mononuclear cells of patients with or without EBV diseases</article-title>. <source xml:lang="en">Blood</source>. <year>2016</year>;<volume>127</volume>(<issue>16</issue>):<fpage>2007</fpage>&#x02010;<lpage>2017</lpage>.<pub-id pub-id-type="pmid">26744460</pub-id></mixed-citation></ref><ref id="cam42710-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="cam42710-cit-0024">
+<string-name>
+<surname>Nguyen&#x02010;Van</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Keane</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Epstein&#x02010;Barr virus&#x02010;positive diffuse large B&#x02010;cell lymphoma of the elderly expresses EBNA3A with conserved CD8 T&#x02010;cell epitopes</article-title>. <source xml:lang="en">Am J Blood Res</source>. <year>2011</year>;<volume>1</volume>(<issue>2</issue>):<fpage>146</fpage>&#x02010;<lpage>159</lpage>.<pub-id pub-id-type="pmid">22432076</pub-id></mixed-citation></ref><ref id="cam42710-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="cam42710-cit-0025">
+<string-name>
+<surname>Liu</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Asano</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Tatematsu</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Plasmablastic lymphoma of the elderly: a clinicopathological comparison with age&#x02010;related Epstein&#x02010;Barr virus&#x02010;associated B cell lymphoproliferative disorder</article-title>. <source xml:lang="en">Histopathology</source>. <year>2012</year>;<volume>61</volume>(<issue>6</issue>):<fpage>1183</fpage>&#x02010;<lpage>1197</lpage>.<pub-id pub-id-type="pmid">22958176</pub-id></mixed-citation></ref><ref id="cam42710-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="cam42710-cit-0026">
+<string-name>
+<surname>Kimura</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kwong</surname>
+<given-names>YL</given-names>
+</string-name>. <article-title>EBV viral loads in diagnosis, monitoring, and response assessment</article-title>. <source xml:lang="en">Front Oncol</source>. <year>2019</year>;<volume>9</volume>:<fpage>62</fpage>.<pub-id pub-id-type="pmid">30809508</pub-id></mixed-citation></ref><ref id="cam42710-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="cam42710-cit-0027">
+<string-name>
+<surname>Kanakry</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ambinder</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The biology and clinical utility of EBV monitoring in blood</article-title>. <source xml:lang="en">Curr Top Microbiol Immunol</source>. <year>2015</year>;<volume>391</volume>:<fpage>475</fpage>&#x02010;<lpage>499</lpage>.<pub-id pub-id-type="pmid">26428386</pub-id></mixed-citation></ref><ref id="cam42710-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="cam42710-cit-0028">
+<string-name>
+<surname>Muncunill</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Baptista</surname>
+<given-names>M&#x02010;J</given-names>
+</string-name>, <string-name>
+<surname>Hernandez&#x02010;Rodr&#x000ed;guez</surname>
+<given-names>&#x000c1;</given-names>
+</string-name>, et al. <article-title>Plasma Epstein&#x02010;Barr virus load as an early biomarker and prognostic factor of human immunodeficiency virus&#x02010;related lymphomas</article-title>. <source xml:lang="en">Clin Infect Dis</source>. <year>2019</year>;<volume>68</volume>(<issue>5</issue>):<fpage>834</fpage>&#x02010;<lpage>843</lpage>.<pub-id pub-id-type="pmid">29982484</pub-id></mixed-citation></ref><ref id="cam42710-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="cam42710-cit-0029">
+<string-name>
+<surname>Okamoto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yanada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Miura</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Prognostic significance of Epstein&#x02010;Barr virus DNA detection in pretreatment serum in diffuse large B&#x02010;cell lymphoma</article-title>. <source xml:lang="en">Cancer Sci</source>. <year>2015</year>;<volume>106</volume>(<issue>11</issue>):<fpage>1576</fpage>&#x02010;<lpage>1581</lpage>.<pub-id pub-id-type="pmid">26353084</pub-id></mixed-citation></ref><ref id="cam42710-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="cam42710-cit-0030">
+<string-name>
+<surname>Okamoto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Yanada</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Inaguma</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>The prognostic significance of EBV DNA load and EBER status in diagnostic specimens from diffuse large B&#x02010;cell lymphoma patients</article-title>. <source xml:lang="en">Hematol Oncol</source>. <year>2017</year>;<volume>35</volume>(<issue>1</issue>):<fpage>87</fpage>&#x02010;<lpage>93</lpage>.<pub-id pub-id-type="pmid">26177728</pub-id></mixed-citation></ref><ref id="cam42710-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="cam42710-cit-0031">
+<string-name>
+<surname>Cohen</surname>
+<given-names>JI</given-names>
+</string-name>. <article-title>Epstein&#x02010;Barr virus infection</article-title>. <source xml:lang="en">New Engl J Med</source>. <year>2000</year>;<volume>343</volume>(<issue>7</issue>):<fpage>481</fpage>&#x02010;<lpage>492</lpage>.<pub-id pub-id-type="pmid">10944566</pub-id></mixed-citation></ref><ref id="cam42710-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="cam42710-cit-0032">
+<string-name>
+<surname>Hesse</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ibsen</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Krabbe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Uldall</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Prevalence of antibodies to Epstein&#x02010;Barr virus (EBV) in childhood and adolescence in Denmark</article-title>. <source xml:lang="en">Scand J Infect Dis</source>. <year>1983</year>;<volume>15</volume>(<issue>4</issue>):<fpage>335</fpage>&#x02010;<lpage>338</lpage>.<pub-id pub-id-type="pmid">6318303</pub-id></mixed-citation></ref><ref id="cam42710-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="cam42710-cit-0033">
+<string-name>
+<surname>Lai</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Mackay&#x02010;Scollay</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Alpers</surname>
+<given-names>MP</given-names>
+</string-name>. <article-title>Epidemiological studies of Epstein&#x02010;Barr herpesvirus infection in Western Australia</article-title>. <source xml:lang="en">J Hygiene</source>. <year>1975</year>;<volume>74</volume>(<issue>3</issue>):<fpage>329</fpage>&#x02010;<lpage>337</lpage>.<pub-id pub-id-type="pmid">168249</pub-id></mixed-citation></ref><ref id="cam42710-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="cam42710-cit-0034">
+<string-name>
+<surname>Sumaya</surname>
+<given-names>CV</given-names>
+</string-name>, <string-name>
+<surname>Henle</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Henle</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>LeBlanc</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Seroepidemiologic study of Epstein&#x02010;Barr virus infections in a rural community</article-title>. <source xml:lang="en">J Infect Dis</source>. <year>1975</year>;<volume>131</volume>(<issue>4</issue>):<fpage>403</fpage>&#x02010;<lpage>408</lpage>.<pub-id pub-id-type="pmid">163869</pub-id></mixed-citation></ref><ref id="cam42710-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="cam42710-cit-0035">
+<string-name>
+<surname>Young</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Rickinson</surname>
+<given-names>AB</given-names>
+</string-name>. <article-title>Epstein&#x02010;Barr virus: 40 years on</article-title>. <source xml:lang="en">Nat Rev Cancer</source>. <year>2004</year>;<volume>4</volume>(<issue>10</issue>):<fpage>757</fpage>&#x02010;<lpage>768</lpage>.<pub-id pub-id-type="pmid">15510157</pub-id></mixed-citation></ref><ref id="cam42710-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="cam42710-cit-0036">
+<string-name>
+<surname>Miyashita</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lam</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Crawford</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Thorley&#x02010;Lawson</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>A novel form of Epstein&#x02010;Barr virus latency in normal B cells in vivo</article-title>. <source xml:lang="en">Cell</source>. <year>1995</year>;<volume>80</volume>(<issue>4</issue>):<fpage>593</fpage>&#x02010;<lpage>601</lpage>.<pub-id pub-id-type="pmid">7532548</pub-id></mixed-citation></ref><ref id="cam42710-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="cam42710-cit-0037">
+<string-name>
+<surname>Pajand</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Pourakbari</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Mahjob</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Aghamohammadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mamishi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mamishi</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Detection of Epstein&#x02010;Barr virus DNA in plasma and lymph node biopsy samples of pediatric and adult patients with Hodgkin lymphoma</article-title>. <source xml:lang="en">Pediatr Hematol Oncol</source>. <year>2011</year>;<volume>28</volume>(<issue>1</issue>):<fpage>10</fpage>&#x02010;<lpage>15</lpage>.<pub-id pub-id-type="pmid">21083364</pub-id></mixed-citation></ref><ref id="cam42710-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="cam42710-cit-0038">
+<string-name>
+<surname>Wagner</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Fischer</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jabs</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Holbe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pethig</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bucsky</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Longitudinal analysis of Epstein&#x02010;Barr viral load in plasma and peripheral blood mononuclear cells of transplanted patients by real&#x02010;time polymerase chain reaction</article-title>. <source xml:lang="en">Transplantation</source>. <year>2002</year>;<volume>74</volume>(<issue>5</issue>):<fpage>656</fpage>&#x02010;<lpage>664</lpage>.<pub-id pub-id-type="pmid">12352882</pub-id></mixed-citation></ref><ref id="cam42710-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="cam42710-cit-0039">
+<string-name>
+<surname>Au</surname>
+<given-names>WY</given-names>
+</string-name>, <string-name>
+<surname>Pang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Choy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chim</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Kwong</surname>
+<given-names>YL</given-names>
+</string-name>. <article-title>Quantification of circulating Epstein&#x02010;Barr virus (EBV) DNA in the diagnosis and monitoring of natural killer cell and EBV&#x02010;positive lymphomas in immunocompetent patients</article-title>. <source xml:lang="en">Blood</source>. <year>2004</year>;<volume>104</volume>(<issue>1</issue>):<fpage>243</fpage>&#x02010;<lpage>249</lpage>.<pub-id pub-id-type="pmid">15031209</pub-id></mixed-citation></ref><ref id="cam42710-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="cam42710-cit-0040">
+<string-name>
+<surname>Meerbach</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wutzler</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hafer</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zintl</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gruhn</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Monitoring of Epstein&#x02010;Barr virus load after hematopoietic stem cell transplantation for early intervention in post&#x02010;transplant lymphoproliferative disease</article-title>. <source xml:lang="en">J Med Virol</source>. <year>2008</year>;<volume>80</volume>(<issue>3</issue>):<fpage>441</fpage>&#x02010;<lpage>454</lpage>.<pub-id pub-id-type="pmid">18205222</pub-id></mixed-citation></ref><ref id="cam42710-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="cam42710-cit-0041">
+<string-name>
+<surname>Lin</surname>
+<given-names>J&#x02010;C</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>KY</given-names>
+</string-name>, et al. <article-title>Quantification of plasma Epstein&#x02010;Barr virus DNA in patients with advanced nasopharyngeal carcinoma</article-title>. <source xml:lang="en">New Engl J Med</source>. <year>2004</year>;<volume>350</volume>(<issue>24</issue>):<fpage>2461</fpage>&#x02010;<lpage>2470</lpage>.<pub-id pub-id-type="pmid">15190138</pub-id></mixed-citation></ref><ref id="cam42710-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="cam42710-cit-0042">
+<string-name>
+<surname>Rooney</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Loftin</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Holladay</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Brenner</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Krance</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Heslop</surname>
+<given-names>HE</given-names>
+</string-name>. <article-title>Early identification of Epstein&#x02010;Barr virus&#x02010;associated post&#x02010;transplantation lymphoproliferative disease</article-title>. <source xml:lang="en">Br J Haematol</source>. <year>1995</year>;<volume>89</volume>(<issue>1</issue>):<fpage>98</fpage>&#x02010;<lpage>103</lpage>.<pub-id pub-id-type="pmid">7833284</pub-id></mixed-citation></ref><ref id="cam42710-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="cam42710-cit-0043">
+<string-name>
+<surname>Domart</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Trouillet</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Fagon</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Chastre</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Brun&#x02010;Vezinet</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gibert</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Incidence and morbidity of cytomegaloviral infection in patients with mediastinitis following cardiac surgery</article-title>. <source xml:lang="en">Chest</source>. <year>1990</year>;<volume>97</volume>(<issue>1</issue>):<fpage>18</fpage>&#x02010;<lpage>22</lpage>.<pub-id pub-id-type="pmid">2153065</pub-id></mixed-citation></ref><ref id="cam42710-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="cam42710-cit-0044">
+<string-name>
+<surname>Limaye</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Kirby</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Rubenfeld</surname>
+<given-names>GD</given-names>
+</string-name>, et al. <article-title>Cytomegalovirus reactivation in critically ill immunocompetent patients</article-title>. <source xml:lang="en">JAMA</source>. <year>2008</year>;<volume>300</volume>(<issue>4</issue>):<fpage>413</fpage>&#x02010;<lpage>422</lpage>.<pub-id pub-id-type="pmid">18647984</pub-id></mixed-citation></ref><ref id="cam42710-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="cam42710-cit-0045">
+<string-name>
+<surname>Ohashi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Okamoto</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Reappraisal of Epstein&#x02010;Barr virus (EBV) in diffuse large B&#x02010;cell lymphoma (DLBCL): comparative analysis between EBV&#x02010;positive and EBV&#x02010;negative DLBCL with EBV&#x02010;positive bystander cells</article-title>. <source xml:lang="en">Histopathology</source>. <year>2017</year>;<volume>71</volume>(<issue>1</issue>):<fpage>89</fpage>&#x02010;<lpage>97</lpage>.<pub-id pub-id-type="pmid">28231401</pub-id></mixed-citation></ref><ref id="cam42710-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="cam42710-cit-0046">
+<string-name>
+<surname>Selitsky</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Marron</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Mose</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Dittmer</surname>
+<given-names>DP</given-names>
+</string-name>. <article-title>Epstein&#x02010;Barr virus&#x02010;positive cancers show altered B&#x02010;cell clonality</article-title>. <source xml:lang="en">mSystems</source>. <year>2018</year>;<volume>3</volume>(<issue>5</issue>):<elocation-id>e00081&#x02010;18</elocation-id>.<pub-id pub-id-type="pmid">30271878</pub-id></mixed-citation></ref></ref-list></back></article>

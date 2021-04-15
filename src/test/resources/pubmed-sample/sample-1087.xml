@@ -1,0 +1,486 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Health Expect</journal-id><journal-id journal-id-type="iso-abbrev">Health Expect</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1369-7625</journal-id><journal-id journal-id-type="publisher-id">HEX</journal-id><journal-title-group><journal-title>Health Expectations : An International Journal of Public Participation in Health Care and Health Policy</journal-title></journal-title-group><issn pub-type="ppub">1369-6513</issn><issn pub-type="epub">1369-7625</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32167653</article-id><article-id pub-id-type="pmc">7321744</article-id><article-id pub-id-type="doi">10.1111/hex.13045</article-id><article-id pub-id-type="publisher-id">HEX13045</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research Papers</subject></subj-group></article-categories><title-group><article-title>The association between patients' preferred treatment after the use of a patient decision aid and their choice of eventual treatment</article-title><alt-title alt-title-type="left-running-head">LATENSTEIN et al.</alt-title></title-group><contrib-group><contrib id="hex13045-cr-0001" contrib-type="author" corresp="yes"><name><surname>Latenstein</surname><given-names>Carmen S. S.</given-names></name><degrees>BSc</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4491-5555</contrib-id><xref ref-type="aff" rid="hex13045-aff-0001">
+<sup>1</sup>
+</xref><address><email>carmen.latenstein@radboudumc.nl</email></address></contrib><contrib id="hex13045-cr-0002" contrib-type="author"><name><surname>Thunnissen</surname><given-names>Floris M.</given-names></name><degrees>BSc</degrees><xref ref-type="aff" rid="hex13045-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="hex13045-cr-0003" contrib-type="author"><name><surname>Thomeer</surname><given-names>Bastiaan J. M.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="hex13045-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="hex13045-cr-0004" contrib-type="author"><name><surname>van Wely</surname><given-names>Bob J.</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="hex13045-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="hex13045-cr-0005" contrib-type="author"><name><surname>Meinders</surname><given-names>Marjan J.</given-names></name><degrees>MSc, PhD</degrees><xref ref-type="aff" rid="hex13045-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hex13045-cr-0006" contrib-type="author"><name><surname>Elwyn</surname><given-names>Glyn</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="hex13045-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="hex13045-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="hex13045-cr-0007" contrib-type="author" corresp="yes"><name><surname>de Reuver</surname><given-names>Philip R.</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="hex13045-aff-0001">
+<sup>1</sup>
+</xref><address><email>philip.dereuver@radboudumc.nl</email></address></contrib></contrib-group><aff id="hex13045-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Radboud University Medical Center</institution>
+<city>Nijmegen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="hex13045-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Surgery</named-content>
+<institution>Bernhoven</institution>
+<city>Uden</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="hex13045-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Scientific Institute for Quality of Healthcare (IQ Healthcare)</named-content>
+<institution>Radboud University Medical Center</institution>
+<city>Nijmegen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="hex13045-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">The Dartmouth Institute for Health Policy and Clinical Practice</named-content>
+<institution>Dartmouth College</institution>
+<city>Hanover</city>
+<named-content content-type="country-part">NH</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Carmen S. S. Latenstein and Philip R. de Reuver, Department of Surgery, Radboud University Medical Center, 6500 HB Nijmegen, The Netherlands.<break/>
+Emails: <email>carmen.latenstein@radboudumc.nl</email>; <email>philip.dereuver@radboudumc.nl</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>3</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2020</year></pub-date><volume>23</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/hex.v23.3</issue-id><fpage>651</fpage><lpage>658</lpage><history><date date-type="received"><day>14</day><month>10</month><year>2019</year></date><date date-type="rev-recd"><day>02</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>11</day><month>2</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors <italic>Health Expectations</italic> published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:HEX-23-651.pdf"/><abstract id="hex13045-abs-0001"><title>Abstract</title><sec id="hex13045-sec-0001"><title>Objective</title><p>To investigate the association between patients' preferred treatment and eventual treatment. Second, to compare patients with surgical treatment to watchful waiting in order to identify predictive factors for surgery.</p></sec><sec id="hex13045-sec-0002"><title>Methods</title><p>A single&#x02010;centre retrospective study was performed between December 2015 and August 2018. Patients (&#x02265;18&#x000a0;years) who used a patient decision aid (PDA) for gallstones or inguinal hernia were included. After their first surgical consultation, patients received access to an online PDA. The patients' preferred treatment after the PDA was compared with their choice of eventual treatment. Multivariable regression analyses were performed for predictive factors for surgery.</p></sec><sec id="hex13045-sec-0003"><title>Results</title><p>In total, 567 patients with gallstones and 585 patients with an inguinal hernia were included. Of the patients with gallstones, 121 (21%) preferred watchful waiting, 367 (65%) preferred surgery, and 79 (14%) were not sure. The patients' preferred treatment was performed in 85.9%. Frequent pain attacks (OR 2.1, 95% CI 1.1&#x02010;3.9, <italic>P</italic>&#x000a0;=&#x000a0;.020) and preference for surgery (OR 4.4, 95% CI 1.9&#x02010;10.1, <italic>P</italic>&#x000a0;=&#x000a0;.001) independently predicted surgery. Of the patients with an inguinal hernia, 77 (13.2%) preferred watchful waiting, 452 (78.8%) preferred surgery, and 56 (9.6%) were not sure. The patients' preferred treatment was performed in 86.0%. The preference for surgery (OR 5.2, 95% CI 2.5&#x02010;10.6, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001) independently predicted surgery and worry about complications predicted avoidance of surgery (OR 0.5, 95% CI 0.2&#x02010;1.0, <italic>P</italic>&#x000a0;=&#x000a0;.037).</p></sec><sec id="hex13045-sec-0004"><title>Conclusion</title><p>This study, reflecting current clinical care, shows that patients' preferred treatment after using a PDA matches their eventual treatment choice in 86% of patients with gallstones or an inguinal hernia. In these patients, symptoms and patients' preference for surgery independently predicts eventual choice of surgery.</p></sec></abstract><kwd-group><kwd id="hex13045-kwd-0001">general surgery</kwd><kwd id="hex13045-kwd-0002">patient decision aid</kwd><kwd id="hex13045-kwd-0003">patients' preference</kwd><kwd id="hex13045-kwd-0004">shared decision making</kwd></kwd-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="8"/><word-count count="6153"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.4 mode:remove_FC converted:28.06.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="hex13045-cit-1001">
+<string-name>
+<surname>Latenstein</surname>
+<given-names>CSS</given-names>
+</string-name>, <string-name>
+<surname>Thunnissen</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Thomeer</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>The association between patients' preferred treatment after the use of a patient decision aid and their choice of eventual treatment</article-title>. <source xml:lang="en">Health Expect</source>. <year>2020</year>;<volume>23</volume>:<fpage>651</fpage>&#x02013;<lpage>658</lpage>. <pub-id pub-id-type="doi">10.1111/hex.13045</pub-id>
+</mixed-citation>
+</p></notes></front><body id="hex13045-body-0001"><sec id="hex13045-sec-0005"><label>1</label><title>INTRODUCTION</title><p>An increasing number of patients want to be involved when a decision needs to be made between treatment options, commonly called shared decision making (SDM).<xref rid="hex13045-bib-0001" ref-type="ref">1</xref> As time is a limiting factor for SDM in the consulting room, SDM is frequently facilitated by (online) patient decision aids (PDAs). PDAs present comparative information about advantages and disadvantages of available options and evaluate personal values and preferences of the patient.<xref rid="hex13045-bib-0002" ref-type="ref">2</xref>, <xref rid="hex13045-bib-0003" ref-type="ref">3</xref>, <xref rid="hex13045-bib-0004" ref-type="ref">4</xref>
+</p><p>PDAs are proven to be effective in improving knowledge, reducing decisional conflict and, moreover, changing patients' preferred treatment.<xref rid="hex13045-bib-0005" ref-type="ref">5</xref> Our group recently showed that PDAs reduce operation rates in patients with gallstones or an inguinal hernia.<xref rid="hex13045-bib-0006" ref-type="ref">6</xref> This change may be caused by the impact of the PDA on patients' preferences and cause a decision shift.<xref rid="hex13045-bib-0007" ref-type="ref">7</xref> Patients' preference on treatment is influenced by several factors. First, the preference is influenced by the patients' symptoms and their concern about the course of the condition. Second, the physician's advice is important in development of patients' preferred treatment.<xref rid="hex13045-bib-0008" ref-type="ref">8</xref>, <xref rid="hex13045-bib-0009" ref-type="ref">9</xref>, <xref rid="hex13045-bib-0010" ref-type="ref">10</xref> Third, treatment options, risks associated with each option and expectations of results can influence patients' preference.<xref rid="hex13045-bib-0007" ref-type="ref">7</xref>, <xref rid="hex13045-bib-0011" ref-type="ref">11</xref>, <xref rid="hex13045-bib-0012" ref-type="ref">12</xref> A PDA additionally informs a patient on treatment options and associated risks, but also explores patients' values to determine what is most important for the individual patient. Current PDAs consist of a personal value clarification exercise, which helps patients to identify their own values and find the treatment option most consistent with their preference. However, it is unknown which personal values are important in the preference for surgery.<xref rid="hex13045-bib-0013" ref-type="ref">13</xref> Knowledge concerning factors influencing patients' preferences and treatment decisions are important to improve SDM.<xref rid="hex13045-bib-0014" ref-type="ref">14</xref>
+</p><p>Gallbladder surgery and hernia repair are both, to a degree, considered to be examples of preference&#x02010;sensitive care.<xref rid="hex13045-bib-0015" ref-type="ref">15</xref> International guidelines support watchful waiting in selected patients if symptoms are mild and the condition does not show signs of potential complications.<xref rid="hex13045-bib-0016" ref-type="ref">16</xref>, <xref rid="hex13045-bib-0017" ref-type="ref">17</xref>, <xref rid="hex13045-bib-0018" ref-type="ref">18</xref> Cholecystitis or biliary pancreatitis are potential complications of gallstones, while in case of an inguinal hernia, a complicated course may result in a bowel incarceration. Nevertheless, a non&#x02010;operative treatment is important to consider, especially since it is known that cholecystectomy is a sub&#x02010;optimal solution to treat pain in patients with gallstones and abdominal symptoms and the long&#x02010;term outcomes of hernia repair are variable.<xref rid="hex13045-bib-0019" ref-type="ref">19</xref>, <xref rid="hex13045-bib-0020" ref-type="ref">20</xref>, <xref rid="hex13045-bib-0021" ref-type="ref">21</xref> These variations in outcomes make it essential that patients are invited to participate in treatment decisions based on information about potential complications, surgical morbidity or the outcome after conservative management.</p><p>Current research mostly focuses on the patients' preferences, but information about the association between preferences and their choice of eventual treatment is not yet reported.<xref rid="hex13045-bib-0007" ref-type="ref">7</xref> Therefore, the aim of this study was to investigate the association between the preferred treatment option after PDA usage and the eventual choice of treatment. Secondly, we identified clinical factors and patient values that predicted a decision to have surgery.</p></sec><sec sec-type="methods" id="hex13045-sec-0006"><label>2</label><title>METHODS</title><sec id="hex13045-sec-0007"><label>2.1</label><title>Study design and study population</title><p>A single&#x02010;centre retrospective study was performed in a community hospital in the Netherlands. Patients were eligible for participation in the study if they were &#x02265;18&#x000a0;years of age and used a PDA between December 2015 and August 2018. All patients with an emergency indication for surgery were excluded.</p><p>PDAs for patients with gallstones or an inguinal hernia were integrated into the standard workflow at the surgical outpatient clinic in December 2015. Physicians were trained in SDM to support the implementation of PDAs. This training covered the use of the PDA with a patient. Moreover, a workgroup was formed, consisting of at least a medical doctor, a project manager (from the hospital), a nurse of the outpatient clinic and a department manager of the outpatient clinic. Objectives for the use of the PDAs were set, as well as the care process for patients. Workshops were organized to inspire about SDM, to explain how the PDAs work and to train communication skills to empower patients to participate in the decision&#x02010;making process, assess patients' preferences and health values.</p><p>In the Netherlands, patients are referred to the surgical outpatient clinic by their general practitioner after the diagnosis of symptomatic gallstones or after the diagnosis of an inguinal hernia, based on ultrasound imaging in the local hospital if applicable.<xref rid="hex13045-bib-0016" ref-type="ref">16</xref> During the first consultation in the outpatient clinic, the surgeon takes the history, performs physical examination and counsels patients. The condition and choices in treatment, including conservative treatment are explained. The risks of treatments are discussed after which, a PDA is introduced. A new appointment is made after 1&#x02010;2&#x000a0;weeks ensuring careful decision making and informed consent. During the second appointment, the results of the PDA are discussed with the patient and treatment choice is made using a SDM approach (Figure <xref rid="hex13045-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="hex13045-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Flow chart of surgical consultations, decision aid and inclusion of patients. Flow chart of surgical consultations and the timing of the online decision aid and measurement of patients' preferred treatment. This flow chart also shows the inclusion of patients. 615 patients with gallstones used the decision aid and eventually 567 patients were included. Between December 2015 and August 2018 626 patients with an inguinal hernia used the decision aid and eventually 585 patients were included</p></caption><graphic id="nlm-graphic-1" xlink:href="HEX-23-651-g001"/></fig><p>The local medical ethical committee and the boards of directors approved the study protocol (registration number 2018&#x02010;4587). This research was performed in accordance with the ethical standards of the updated Helsinki Declaration of 2013. The results are presented according to the Strengthening the Reporting of Observational studies in Epidemiology (STROBE) guidelines.<xref rid="hex13045-bib-0022" ref-type="ref">22</xref>
+</p></sec><sec id="hex13045-sec-0008"><label>2.2</label><title>Patient decision aids</title><p>The online PDAs (<ext-link ext-link-type="uri" xlink:href="https://www.decisionaid.info">https://www.decisionaid.info</ext-link>) were developed by patients and physicians according to the International Patient Decision Aids Standards (IPDAS) (<ext-link ext-link-type="uri" xlink:href="http://ipdas.ohri.ca/">http://ipdas.ohri.ca/</ext-link>). Surgery and watchful waiting are compared in five steps (Supplementary file <xref rid="hex13045-sup-0001" ref-type="supplementary-material">S1</xref> and <xref rid="hex13045-sup-0002" ref-type="supplementary-material">S2</xref>). Detailed information about the five steps of the PDAs have been described elsewhere.<xref rid="hex13045-bib-0006" ref-type="ref">6</xref>
+</p></sec><sec id="hex13045-sec-0009"><label>2.3</label><title>Outcome and data collection</title><p>To obtain information about the association between preference and eventual choice of treatment after PDAs, we compared the patients' preferred treatment after PDA and their eventual choice of treatment. The outcome of this study is the percentage of patients in which the patients' preferred treatment matched their eventual choice of treatment. Secondary outcomes were as follows: certainty about their preferred treatment and predictive factors (patient characteristics, patients' preference, disease burden and personal values) for surgery.</p><p>Data about patients' preferred treatment, certainty about their preference, disease burden and personal values were derived from the PDA. Questions about disease burden and personal values were presented as two statements on each side of a slider (ranging from &#x02212;5 to 5). For every statement, the left side represented watchful waiting and the right side represented surgery. Patients moved the triangle to the side they agreed most with. Patients with gallstones specified their disease burden and personal values about <italic>frequency of pain attacks, complaints</italic> and <italic>concerns about surgery</italic>. Patients with an inguinal hernia specified their disease burden and personal values about <italic>discomfort, concerns about surgery, bowel incarceration</italic> and <italic>surgical complications</italic>. The patients were asked to point out their preferred treatment choice, on a slider ranging from &#x02212;5 (watchful waiting) to 5 (surgery). Last, patients indicated how certain they were with their preferred option on a slider, ranging from 0 to 10. Age, sex and their eventual choice of treatment were derived from the hospital register in January 2018.</p></sec><sec id="hex13045-sec-0010"><label>2.4</label><title>Statistical analysis</title><p>Patients who had not completed the PDA, whose data about their eventual choice of treatment were not available from the hospital register, and patients who had completed multiple PDAs for the same condition were excluded from the analysis. The data of patients with gallstones and inguinal hernia were analysed and presented separately.</p><p>The patients' preferred treatment, originally scored on an eleven&#x02010;point scale from &#x02212;5 to 5, was first transformed into a categorical scale. Scores of &#x02212;5 to &#x02212;2 represented the preference watchful waiting; &#x02212;1 to 1 represented not sure and 2 to 5 represented surgery. The sensitivity of this transformation was tested by also applying an alternative transformation: &#x02212;5 to &#x02212;3 represented watchful waiting; &#x02212;2 to 2 represented not sure/intermediate; and 3 to 5 represented surgery (no differences with main outcome, data not shown). The value clarification exercise also consisted of 11&#x02010;point scales from &#x02212;5 to 5; these were transformed with the same cut&#x02010;off scores.</p><p>Categorical data (sex, patients' preferred treatment, their eventual choice of treatment, disease burden, and personal values from the value clarification exercise) were summarized by frequencies and proportions. Continuous data (age, certainty) were presented as mean&#x000a0;&#x000b1;&#x000a0;standard deviation (SD) when normally distributed and median with range or interquartile range (IQR) when non&#x02010;normally distributed. To investigate the association between patients' preferred treatment and their eventual choice of treatment, a bar chart with both variables was presented.</p><p>Patients were compared based on their eventual choice of treatment (watchful waiting and surgical) by age, sex, disease burden, personal values and their preferred treatment. Comparison of these variables was done using chi&#x02010;squared test for dichotomous data, Student's <italic>t</italic> test for normally distributed continuous data and the Mann&#x02010;Whitney <italic>U</italic> test for skewed continuous data. Testing for normality of data distributions was based on the Shapiro&#x02010;Wilks test.</p><p>To identify predictive factors for performing surgery, first univariate logistic regression analyses were performed with their eventual choice of treatment (watchful waiting/surgery) as dependent variable and patients' preferred treatment (watchful waiting, not sure and surgery), age, sex, disease burden and personal values, as independent variables. These were all included in the multivariable model. The outcomes of the univariable and multivariable analyses were presented as an odds ratio (OR) and 95% confidence interval (CI).</p><p>Associations with a <italic>P</italic>&#x02010;value &#x0003c;.05 were considered statistically significant. All missing values were considered to be at random and were excluded from analyses. Analyses were performed using SPSS statistics version 25.0 (IBM).</p></sec></sec><sec sec-type="results" id="hex13045-sec-0011"><label>3</label><title>RESULTS</title><sec id="hex13045-sec-0012"><label>3.1</label><title>Patients</title><p>Between December 2015 and August 2018, 1075 patients were referred to the surgical outpatient clinic with symptomatic gallstones and 1219 patients with an inguinal hernia. PDAs were used by 615 patients (74.5%) with gallstones and 626 patients (76.1%) with an inguinal hernia. In addition, 89 patients (7.2%) were excluded from analyses, because patients had not finished the PDA, no data were available about eventual choice of treatment, or patients had completed multiple PDAs (Figure <xref rid="hex13045-fig-0001" ref-type="fig">1</xref>).</p><p>In total, 567 patients with gallstones (median age 52&#x000a0;years IQR 41&#x02010;63, 30.0% male) and 585 patients with an inguinal hernia (median age 60&#x000a0;years, IQR 49.5&#x02010;70.5, 92.1% male) were eligible for analysis. Baseline characteristics are described in Table <xref rid="hex13045-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="hex13045-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics and treatment of included patients</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">Gallstones (n&#x000a0;=&#x000a0;567)</th><th align="left" valign="top" rowspan="1" colspan="1">Inguinal hernia (n&#x000a0;=&#x000a0;585)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (median, IQR) years</td><td align="char" char="(" rowspan="1" colspan="1">52 (41&#x02010;63)</td><td align="char" char="(" rowspan="1" colspan="1">60 (49.5&#x02010;70.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex (M:F, %M)</td><td align="char" char="(" rowspan="1" colspan="1">170:396 (30.0)</td><td align="char" char="(" rowspan="1" colspan="1">539:46 (92.1)</td></tr><tr><td align="left" colspan="3" rowspan="1">Patients' treatment preference</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Watchful waiting (n, %)</td><td align="char" char="(" rowspan="1" colspan="1">121 (21.3)</td><td align="char" char="(" rowspan="1" colspan="1">77 (13.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not sure (n, %)</td><td align="char" char="(" rowspan="1" colspan="1">79 (13.9)</td><td align="char" char="(" rowspan="1" colspan="1">56 (9.6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surgery (n, %)</td><td align="char" char="(" rowspan="1" colspan="1">367 (64.7)</td><td align="char" char="(" rowspan="1" colspan="1">452 (78.8)</td></tr><tr><td align="left" colspan="3" rowspan="1">Eventual choice of treatment</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Watchful waiting (n, %)</td><td align="char" char="(" rowspan="1" colspan="1">172 (30.3)</td><td align="char" char="(" rowspan="1" colspan="1">147 (25.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surgery (n, %)</td><td align="char" char="(" rowspan="1" colspan="1">395 (69.7)</td><td align="char" char="(" rowspan="1" colspan="1">438 (74.9)</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="hex13045-sec-0013"><label>3.2</label><title>Patients' preferred vs eventual choice of treatment</title><p>The patients' preferred treatment was their eventual choice of treatment in 85.9% of patients with gallstones. In patients with an inguinal hernia, the patients' preferred treatment was their eventual choice of treatment in 86.0%. In both groups, 14% of patients were not treated according to their preference reported in the DA.</p><p>Of the patients with gallstones, 121 (21.3%) preferred watchful waiting at the end of the DA, 79 (13.9%) were not sure, and 367 (64.7%) preferred surgery (Table <xref rid="hex13045-tbl-0001" ref-type="table">1</xref>). In total, 395 patients (69.7%) underwent a gallbladder removal. Figure <xref rid="hex13045-fig-0002" ref-type="fig">2A</xref> shows the association between the patients' preferred treatment at the end of the PDA and their eventual choice of treatment.</p><fig fig-type="Figure" xml:lang="en" id="hex13045-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>A, Gallstones&#x02014;Eventual choice of treatment in patients with the preference watchful waiting, not sure and surgery. B, Inguinal hernia&#x02014;Eventual choice of treatment in patients with the preference watchful waiting, not sure and surgery. Patients are divided by their preferred treatment. On the <italic>y</italic>&#x02010;axis, the percentage of eventually chosen surgeries is shown. The grey parts of the columns represent surgery, and the white parts represent watchful waiting</p></caption><graphic id="nlm-graphic-3" xlink:href="HEX-23-651-g002"/></fig><p>Of the patients with an inguinal hernia, 77 (13.2%) preferred watchful waiting, 56 of patients (9.6%) were not sure, and 452 (78.8%) preferred surgery. In total, 147 patients (25.1%) were treated conservatively and 438 patients (74.9%) had surgery. Figure <xref rid="hex13045-fig-0002" ref-type="fig">2B</xref> shows the association between the patients' preferred treatment at the end of the PDA and their eventual choice of treatment.</p></sec><sec id="hex13045-sec-0014"><label>3.3</label><title>Certainty about preferred treatment</title><p>For both conditions, patients who preferred surgery were more certain about their preference compared to patients who preferred watchful waiting. In patients with gallstones, median scores were 9.0 (IQR 8.0&#x02010;10.0) and 7.0 (IQR 5.5&#x02010;8.5), respectively, for the preference surgery and watchful waiting (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001). In patients with an inguinal hernia, median scores were 9.0 (IQR 8.0&#x02010;10.0) and 8.0 (IQR 7.0&#x02010;9.0), respectively, for surgery and watchful waiting (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001).</p></sec><sec id="hex13045-sec-0015"><label>3.4</label><title>Predictive factors for surgery</title><p>In Tables <xref rid="hex13045-tbl-0002" ref-type="table">2</xref> and <xref rid="hex13045-tbl-0003" ref-type="table">3</xref>, patients with a surgery were compared with patients who underwent a watchful waiting strategy. Patients with gallstones who underwent surgery were younger compared to patients who waited (50.1&#x000a0;&#x000b1;&#x000a0;15.1 vs 55.6&#x000a0;&#x000b1;&#x000a0;14.9, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001). Surgical patients were characterized by reporting more pain attacks, major complaints and less concern about surgery compared to patients with a watchful waiting policy (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001 for each comparison). In multivariable analyses, only frequent pain attacks (OR 2.1, 95% CI 1.1&#x02010;3.9, <italic>P</italic>&#x000a0;=&#x000a0;.020) and preference for surgery (OR 4.4, 95% CI 1.9&#x02010;10.1, <italic>P</italic>&#x000a0;=&#x000a0;.001) were independently predictive factors for surgery.</p><table-wrap id="hex13045-tbl-0002" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 2</label><caption><p>Characteristics, disease burden, personal values and treatment preference of patients with gallstones with watchful waiting (n&#x000a0;=&#x000a0;172) and surgery (n&#x000a0;=&#x000a0;395)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">Watchful waiting (n&#x000a0;=&#x000a0;172)</th><th align="left" valign="top" rowspan="1" colspan="1">Surgery (n&#x000a0;=&#x000a0;395)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th><th align="left" valign="top" rowspan="1" colspan="1">Univariable Odds Ratio (95% CI)</th><th align="left" valign="top" rowspan="1" colspan="1">Multivariable Odds Ratio (95% CI)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex, male</td><td align="char" char="(" rowspan="1" colspan="1">47 (27.3)</td><td align="char" char="(" rowspan="1" colspan="1">123 (31.1)</td><td align="char" char="." rowspan="1" colspan="1">.353</td><td align="char" char="(" rowspan="1" colspan="1">1.207 (0.811&#x02010;1.796)</td><td align="char" char="(" rowspan="1" colspan="1">1.425 (0.844&#x02010;2.406)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (median, IQR) years<xref ref-type="fn" rid="hex13045-note-0002">
+<sup>a</sup>
+</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1">56.0 (45.5&#x02010;66.5)</td><td align="char" char="(" rowspan="1" colspan="1">50.0 (38&#x02010;62)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.967 (0.964&#x02010;0.988)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.992 (0.976&#x02010;1.008)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pain attacks</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Infrequent pain attacks</td><td align="char" char="(" rowspan="1" colspan="1">74 (43.0)</td><td align="char" char="(" rowspan="1" colspan="1">42 (10.6)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.467 (0.268&#x02010;0.816)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">1.394 (0.656&#x02010;2.960)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intermediate</td><td align="char" char="(" rowspan="1" colspan="1">42 (24.4)</td><td align="char" char="(" rowspan="1" colspan="1">51 (12.9)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Frequent pain attacks</td><td align="char" char="(" rowspan="1" colspan="1">56 (32.6)</td><td align="char" char="(" rowspan="1" colspan="1">302 (76.6)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>4.441 (2.699&#x02010;7.308)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>2.118 (1.135&#x02010;3.952)</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Complaints</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Minor complaints</td><td align="char" char="(" rowspan="1" colspan="1">99 (57.6)</td><td align="char" char="(" rowspan="1" colspan="1">39 (9.9)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.210 (0.114&#x02010;0.386)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.565 (0.247&#x02010;1.295)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intermediate</td><td align="char" char="(" rowspan="1" colspan="1">25 (14.5)</td><td align="char" char="(" rowspan="1" colspan="1">47 (11.9)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Major complaints</td><td align="char" char="(" rowspan="1" colspan="1">48 (27.9)</td><td align="char" char="(" rowspan="1" colspan="1">309 (78.2)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>3.424 (1.931&#x02010;6.071)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.903 (0.377&#x02010;2.164)</td></tr><tr><td align="left" rowspan="1" colspan="1">Worry about surgery</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Worried</td><td align="char" char="(" rowspan="1" colspan="1">83 (48.2)</td><td align="char" char="(" rowspan="1" colspan="1">76 (19.2)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.364 (0.214&#x02010;0.619)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.561 (0.284&#x02010;1.105)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intermediate</td><td align="char" char="(" rowspan="1" colspan="1">29 (16.9)</td><td align="char" char="(" rowspan="1" colspan="1">73 (18.5)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not worried</td><td align="char" char="(" rowspan="1" colspan="1">60 (34.9)</td><td align="char" char="(" rowspan="1" colspan="1">246 (62.3)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">1.629 (0.974&#x02010;2.725)</td><td align="char" char="(" rowspan="1" colspan="1">0.814 (0.421&#x02010;1.575)</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment preference</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Watchful waiting</td><td align="char" char="(" rowspan="1" colspan="1">94 (54.7)</td><td align="char" char="(" rowspan="1" colspan="1">27 (6.8)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.240 (0.130&#x02010;0.445)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.339 (0.163&#x02010;0.707)</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not sure</td><td align="char" char="(" rowspan="1" colspan="1">36 (22.7)</td><td align="char" char="(" rowspan="1" colspan="1">43 (10.9)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surgery</td><td align="char" char="(" rowspan="1" colspan="1">42 (24.4)</td><td align="char" char="(" rowspan="1" colspan="1">325 (82.3)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>6.647 (3.749&#x02010;11.20)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>4.148 (1.791&#x02010;9.604)</bold>
+</td></tr></tbody></table><table-wrap-foot id="hex13045-ntgp-0001"><title>Note</title><fn id="hex13045-note-0001"><p>Univariable and multivariable scores in bold have a <italic>P</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;.05.</p></fn><fn id="hex13045-note-0002"><label><sup>a</sup></label><p>Analysed with Mann&#x02010;Whitney <italic>U</italic> test.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="hex13045-tbl-0003" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 3</label><caption><p>Patient characteristics, disease burden, personal values and treatment preference of patients an inguinal hernia with watchful waiting (n&#x000a0;=&#x000a0;147) and surgery (n&#x000a0;=&#x000a0;438)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="left" valign="top" rowspan="1" colspan="1">Watchful waiting (n&#x000a0;=&#x000a0;147)</th><th align="left" valign="top" rowspan="1" colspan="1">Surgery (n&#x000a0;=&#x000a0;438)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th><th align="left" valign="top" rowspan="1" colspan="1">Univariable</th><th align="left" valign="top" rowspan="1" colspan="1">Multivariable</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex, male (n, %)</td><td align="char" char="(" rowspan="1" colspan="1">131 (89.1)</td><td align="char" char="(" rowspan="1" colspan="1">408 (93.2)</td><td align="char" char="." rowspan="1" colspan="1">.116</td><td align="char" char="(" rowspan="1" colspan="1">1.661 (0.878&#x02010;3.143)</td><td align="char" char="(" rowspan="1" colspan="1">1.515 (0.657&#x02010;3.492)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (median, IQR) years<xref ref-type="fn" rid="hex13045-note-0004">
+<sup>a</sup>
+</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1">63.0 (53&#x02010;73)</td><td align="char" char="(" rowspan="1" colspan="1">58.0 (48&#x02010;68)</td><td align="char" char="." rowspan="1" colspan="1">.002</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.978 (0.965&#x02010;0.992)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.991 (0.975&#x02010;1.008)</td></tr><tr><td align="left" rowspan="1" colspan="1">Discomfort</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Little discomfort</td><td align="char" char="(" rowspan="1" colspan="1">83 (56.5)</td><td align="char" char="(" rowspan="1" colspan="1">64 (14.6)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.274 (0.512&#x02010;0.491)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.671 (0.320&#x02010;1.408)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intermediate</td><td align="char" char="(" rowspan="1" colspan="1">22 (15.0)</td><td align="char" char="(" rowspan="1" colspan="1">62 (14.1)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Much discomfort</td><td align="char" char="(" rowspan="1" colspan="1">42 (28.6)</td><td align="char" char="(" rowspan="1" colspan="1">312 (71.2)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>2.636 (1.471&#x02010;4.724)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">1.879 (0.967&#x02010;3.651)</td></tr><tr><td align="left" rowspan="1" colspan="1">Worry about surgery</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Worried</td><td align="char" char="(" rowspan="1" colspan="1">34 (23.1)</td><td align="char" char="(" rowspan="1" colspan="1">37 (8.4)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">0.544 (0.293&#x02010;1.009)</td><td align="char" char="(" rowspan="1" colspan="1">0.691 (0.300&#x02010;1.595)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intermediate</td><td align="char" char="(" rowspan="1" colspan="1">35 (23.8)</td><td align="char" char="(" rowspan="1" colspan="1">70 (16.0)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not worried</td><td align="char" char="(" rowspan="1" colspan="1">78 (53.1)</td><td align="char" char="(" rowspan="1" colspan="1">331 (75.6)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>2.122 (1.320&#x02010;3.411)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">1.167 (0.591&#x02010;2.305)</td></tr><tr><td align="left" rowspan="1" colspan="1">Worry about incarceration</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not worried</td><td align="char" char="(" rowspan="1" colspan="1">63 (42.8)</td><td align="char" char="(" rowspan="1" colspan="1">73 (16.7)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.338 (0.205&#x02010;0.555)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.691 (0.347&#x02010;1.375)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intermediate</td><td align="char" char="(" rowspan="1" colspan="1">37 (25.2)</td><td align="char" char="(" rowspan="1" colspan="1">127 (29.0)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Worried</td><td align="char" char="(" rowspan="1" colspan="1">47 (32.0)</td><td align="char" char="(" rowspan="1" colspan="1">238 (54.3)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">1.475 (0.911&#x02010;2.388)</td><td align="char" char="(" rowspan="1" colspan="1">0.770 (0.413&#x02010;1.435)</td></tr><tr><td align="left" rowspan="1" colspan="1">Worry about complications of surgery</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Worried</td><td align="char" char="(" rowspan="1" colspan="1">42 (28.6)</td><td align="char" char="(" rowspan="1" colspan="1">40 (9.1)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.306 (0.173&#x02010;0.542)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.467 (0.223&#x02010;0.975)</bold>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intermediate</td><td align="char" char="(" rowspan="1" colspan="1">37 (25.2)</td><td align="char" char="(" rowspan="1" colspan="1">115 (26.3)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not worried</td><td align="char" char="(" rowspan="1" colspan="1">68 (46.3)</td><td align="char" char="(" rowspan="1" colspan="1">283 (64.6)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">1.339 (0.848&#x02010;2.111)</td><td align="char" char="(" rowspan="1" colspan="1">0.936 (0.501&#x02010;1.748)</td></tr><tr><td align="left" rowspan="1" colspan="1">Treatment preference</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c;.001</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Watchful waiting</td><td align="char" char="(" rowspan="1" colspan="1">60 (40.8)</td><td align="char" char="(" rowspan="1" colspan="1">17 (3.9)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>0.327 (0.154&#x02010;0.694)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.589 (0.243&#x02010;1.428)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not sure</td><td align="char" char="(" rowspan="1" colspan="1">30 (20.4)</td><td align="char" char="(" rowspan="1" colspan="1">26 (5.9)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="." rowspan="1" colspan="1">1</td><td align="char" char="." rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Surgery</td><td align="char" char="(" rowspan="1" colspan="1">57 (38.8)</td><td align="char" char="(" rowspan="1" colspan="1">395 (90.2)</td><td align="char" char="." rowspan="1" colspan="1">&#x000a0;</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>7.996 (4.414&#x02010;14.48)</bold>
+</td><td align="char" char="(" rowspan="1" colspan="1">
+<bold>5.158 (2.508&#x02010;10.61)</bold>
+</td></tr></tbody></table><table-wrap-foot id="hex13045-ntgp-0002"><title>Note</title><fn id="hex13045-note-0003"><p>Univariable and multivariable scores in bold have a <italic>P</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;.05.</p></fn><fn id="hex13045-note-0004"><label><sup>a</sup></label><p>Analysed with Mann&#x02010;Whitney <italic>U</italic> test</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>In patients with an inguinal hernia, similar outcomes were found. Surgically treated patients were younger compared to patients who waited (56.8&#x000a0;&#x000b1;&#x000a0;14.4 vs 61.1&#x000a0;&#x000b1;&#x000a0;14.4, <italic>P</italic>&#x000a0;=&#x000a0;.002). Surgical patients were characterized by more discomfort, less concern about surgery, less concern about risks of surgery and more concern about bowel incarceration, compared to patients with watchful waiting (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001 for all comparisons). In multivariable analyses, the preference for surgery (OR 5.2, 95% CI 2.5&#x02010;10.6, <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.001) independently predicted surgery and worry about complications of surgery was negatively associated with surgery (OR 0.5, 95% CI 0.2&#x02010;1.0, <italic>P</italic>&#x000a0;=&#x000a0;.037).</p></sec></sec><sec sec-type="discussion" id="hex13045-sec-0016"><label>4</label><title>DISCUSSION</title><p>The present study, reflecting real&#x02010;life clinical decision making, shows that general surgical patients' preference for either watchful waiting or surgery after a PDA is highly associated with their eventual choice of treatment. Patients who prefer surgery seem to be more certain about their preference compared to patients who prefer watchful waiting. In patients with gallstones, &#x02018;frequent pain attacks' is an independent predictive factor for surgical treatment. In both patient groups, with gallstones or inguinal hernia, the patients' preference for surgery is an independent predictive factor for surgical treatment. In patients with an inguinal hernia, &#x02018;worry about complications of surgery' is associated with avoidance of surgery. Fourteen percentage of patients are not treated according to their preference reported in the DA.</p><p>The majority of patients with gallstones or inguinal hernia prefer surgery after using a PDA. It could well be that patients' preference for surgery contributes to the nationwide operation rates in the Netherlands above 70% for both conditions.<xref rid="hex13045-bib-0019" ref-type="ref">19</xref> Despite the finding that watchful waiting is a good alternative in selected patients with symptomatic gallstones or an inguinal hernia,<xref rid="hex13045-bib-0016" ref-type="ref">16</xref>, <xref rid="hex13045-bib-0023" ref-type="ref">23</xref>, <xref rid="hex13045-bib-0024" ref-type="ref">24</xref> it looks like most patients prefer a quick and definitive solution for their symptoms.<xref rid="hex13045-bib-0025" ref-type="ref">25</xref>, <xref rid="hex13045-bib-0026" ref-type="ref">26</xref>, <xref rid="hex13045-bib-0027" ref-type="ref">27</xref>, <xref rid="hex13045-bib-0028" ref-type="ref">28</xref> That is in line with our finding that the majority of surgical patients report that they are very certain about their preference. This might be explained by the patients' anticipation on a surgical treatment after their general practitioner explained the potential cause of their symptoms and an ultrasound confirmed the diagnosis of gallstones or an inguinal hernia. SDM is in case of preference&#x02010;sensitive care even more important; counselling patients and create awareness of potential disadvantages of surgery is mandatory.</p><p>The way PDAs should be provided and integrated into the workflow is debated. Different PDA formats are available (booklet, audio, online), interactive or not, and PDAs can be provided at different locations or time points (at general practitioner, before surgical consultation, after first surgical consultation).<xref rid="hex13045-bib-0029" ref-type="ref">29</xref> In the present study, the online link to the PDAs was provided after the first consultation with the patients' surgeon. During the second consultation, the eventual choice of treatment was chosen. Alternatively, the PDA could be provided by the general practitioner, before referral to the surgeon. Implementation of PDAs and SDM earlier in the clinical pathway leads to the following advantages; improved patient knowledge, patients who are more clear about their values, reduced decisional conflict and potential; fewer referrals, reduced diagnostics and less invasive treatments.<xref rid="hex13045-bib-0005" ref-type="ref">5</xref>, <xref rid="hex13045-bib-0030" ref-type="ref">30</xref> Moreover, general practitioners are probably more aware of the patients' values due to a long&#x02010;lasting relationship and considerations and can alter expectations in a timely fashion.<xref rid="hex13045-bib-0031" ref-type="ref">31</xref>
+</p><p>The discrepancy between patients' initially preferred treatment and different eventual choice of treatment is of interest. This study shows a discrepancy in 14% of patients with gallstones or inguinal hernia. This could reflect the surgeons' opinion who advised a different treatment, patients could have shifted their preference after usage of the PDA for example in conversation with family or friends, or the condition could have presented with signs of a potential complicated course (eg cholecystitis or bowel incarceration). It is of interest that patients who initially preferred watchful waiting less often received their preferred treatment compared to patients preferring surgery (77.8% vs 87.9%). Due to the retrospective aspect of this study, we were unable to analyse the potential causes of this phenomenon further.</p><p>This is the first study that shows the association between patients' preferred treatment, expressed after using a PDA, and their eventual choice of treatment. Strengthening the study is the real&#x02010;life study design, which shows daily clinical practice compared to controlled condition within randomized controlled trials. However, this study also comes with limitations. The major limitation of this study is missing information about the consultation with the general practitioner and the first surgical consultation. Available data are obtained from the PDAs, which were provided to patients after these two consultations. Therefore, we cannot assess the exact impact of the PDA on the patients' preferences, as we do not know their initial preferences. Secondly, due to the lack of a control group, we are not able to compare outcomes between patients with and without our intervention.</p><p>As this study only included patients with gallstones or an inguinal hernia who used a PDA, it remains unclear what happens with preferences of patients who consult their surgeon but do not use PDAs. It could be hypothesized that the discrepancy between the initial patients' preference and their eventual choice of treatment could be greater, because the increase in knowledge concerning treatment options and risks is missing. Finally, our research only assessed patient preferences in surgical candidates and the impact of PDAs in patients with non&#x02010;surgical conditions is of also of interest.</p><p>To overcome the methodological limitations of the present study, we started a prospective assessment (Dutch Trial Register NTR7501). As a result of longitudinal data collection, the influence of disease status, patients' values, preference shifts will clarify more clearly the discrepancy between patients' preferred treatment and their eventual choice of treatment.</p><p>To date, surgeons are mainly focused on potentially complicated course of a condition (eg cholecystitis and bowel incarceration) or surgical complications (eg bile duct injury or persistent pain), while patients are more focused on long&#x02010;term outcomes and working disability.<xref rid="hex13045-bib-0016" ref-type="ref">16</xref>, <xref rid="hex13045-bib-0023" ref-type="ref">23</xref>, <xref rid="hex13045-bib-0024" ref-type="ref">24</xref>, <xref rid="hex13045-bib-0032" ref-type="ref">32</xref> To improve SDM in clinical practice, physicians should be aware of this discrepancy.<xref rid="hex13045-bib-0033" ref-type="ref">33</xref> Furthermore, as our data show differences between surgically treated and non&#x02010;surgically treated patient, age and personal values, personalized patient DAs are the next step in improving SDM. The benefits and risks pointed out in the PDA, the option grid and the value clarification exercises should all be related to the characteristics of patients. Then, patients' preference can be better explored, and satisfaction of patients may increase.</p><p>In conclusion, patients reported preferred treatment after the use of a PDA is highly predictive for the eventual choice of treatment in patients with gallstones or an inguinal hernia. Fourteen percentage of patients with symptomatic gallstones or an inguinal hernia do not undergo preferred treatment. In patients with gallstones, their physical complaints are more predictive for a surgical intervention than their worry about surgery related complications.</p></sec><sec sec-type="COI-statement" id="hex13045-sec-0017"><title>CONFLICT OF INTERESTS</title><p>All authors have completed the ICMJE uniform disclosure form at and declare the following: this research did not receive any specific grant from funding agencies in the public, commercial, or not&#x02010;for&#x02010;profit sectors. Glyn Elwyn has edited and published books that provide royalties on sales by the publishers: the books include <italic>Shared Decision Making</italic> (Oxford University Press) and <italic>Groups</italic> (Radcliffe Press). He has in the past provided consultancy for organizations, including the following: 1) Emmi Solutions LLC who developed patient decision support tools; 2) National Quality Forum on the certification of decision support tools; 3) Washington State Health Department on the certification of decision support tools; 4) SciMentum LLC, Amsterdam (workshops for shared decision making). He is the Founder and Director of &#x00026;think LLC which owns the registered trademark for Option Grids&#x02122; patient decision aids. Founder and Director of SHARPNETWORK LLC, a provider of training for shared decision making. He provides advice in the domain of shared decision making and patient decision aids to: (a) Access Community Health Network, Chicago (Federally Qualified Medical Centers); (b) EBSCO Health Option Grids&#x02122; patient decision aids; (c) Bind Insurance; (d) PatientWisdom Inc; (e) abridge AI Inc Glyn Elwyn's academic interests are focused on shared decision making and coproduction. He owns copyright in measures of shared decision making and care integration, namely collaboRATE, integRATE, consideRATE, coopeRATE, toleRATE, Observer OPTION&#x02010;5 and Observer OPTION&#x02010;12. No other relationships or activities have influenced the submitted work.</p></sec><sec id="hex13045-sec-0018"><title>AUTHOR CONTRIBUTIONS</title><p>Latenstein and Thunnissen conceived and designed the study; acquired, analysed and interpreted data; and drafted the manuscript. Thomeer and van Wely acquired data and critically revised the article for important intellectual content. Meinders, Elwyn and de Reuver interpreted data and critically revised the article for important intellectual content. All authors gave final approval of the version to be published and agreed to be accountable for all aspects of the work.</p></sec><sec id="hex13045-sec-0019"><title>ETHICAL APPROVAL</title><p>The study was approved by the appropriate institution and/or national research ethics committee (registration number 2018&#x02010;4587).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="hex13045-sup-0001"><caption><p>FileS1</p></caption><media xlink:href="HEX-23-651-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="hex13045-sup-0002"><caption><p>FileS2</p></caption><media xlink:href="HEX-23-651-s002.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><sec sec-type="data-availability" id="hex13045-sec-0021"><title>DATA AVAILABILITY STATEMENT</title><p>The data that support the findings of this study are available from the corresponding author after reasonable request.</p></sec><ref-list content-type="cited-references" id="hex13045-bibl-0001"><title>REFERENCES</title><ref id="hex13045-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hex13045-cit-0001">
+<string-name>
+<surname>Uldry</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schafer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Saadi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rousson</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Demartines</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Patients' preferences on information and involvement in decision making for gastrointestinal surgery</article-title>. <source xml:lang="en">World J Surg</source>. <year>2013</year>;<volume>37</volume>(<issue>9</issue>):<fpage>2162</fpage>&#x02010;<lpage>2171</lpage>.<pub-id pub-id-type="pmid">23674253</pub-id></mixed-citation></ref><ref id="hex13045-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hex13045-cit-0002">
+<string-name>
+<surname>Kravitz</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Melnikow</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Engaging patients in medical decision making</article-title>. <source xml:lang="en">BMJ</source>. <year>2001</year>;<volume>323</volume>(<issue>7313</issue>):<fpage>584</fpage>&#x02010;<lpage>585</lpage>.<pub-id pub-id-type="pmid">11557690</pub-id></mixed-citation></ref><ref id="hex13045-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hex13045-cit-0003">
+<string-name>
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Frosch</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Shared decision making: a model for clinical practice</article-title>. <source xml:lang="en">J Gen Intern Med</source>. <year>2012</year>;<volume>27</volume>(<issue>10</issue>):<fpage>1361</fpage>&#x02010;<lpage>1367</lpage>.<pub-id pub-id-type="pmid">22618581</pub-id></mixed-citation></ref><ref id="hex13045-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hex13045-cit-0004">
+<string-name>
+<surname>Stiggelbout</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Pieterse</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>De Haes</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Shared decision making: concepts, evidence, and practice</article-title>. <source xml:lang="en">Patient Educ Couns</source>. <year>2015</year>;<volume>98</volume>(<issue>10</issue>):<fpage>1172</fpage>&#x02010;<lpage>1179</lpage>.<pub-id pub-id-type="pmid">26215573</pub-id></mixed-citation></ref><ref id="hex13045-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hex13045-cit-0005">
+<string-name>
+<surname>Stacey</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>L&#x000e9;gar&#x000e9;</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Decision aids for people facing health treatment or screening decisions</article-title>. <source xml:lang="en">Cochrane Database Syst Rev</source>. <year>2017</year>;<volume>4</volume>:<fpage>CD001431</fpage>.<pub-id pub-id-type="pmid">28402085</pub-id></mixed-citation></ref><ref id="hex13045-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hex13045-cit-0006">
+<string-name>
+<surname>Latenstein</surname>
+<given-names>CSS</given-names>
+</string-name>, <string-name>
+<surname>van Wely</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Klerkx</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Meinders</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Thomeer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>de Reuver</surname>
+<given-names>PR</given-names>
+</string-name>. <article-title>Reduced elective operation rates and high patient satisfaction after the implementation of decision aids in patients with gallstones or an inguinal hernia</article-title>. <source xml:lang="en">World J Surg</source>. <year>2019</year>;<volume>43</volume>(<issue>9</issue>):<fpage>2149</fpage>&#x02010;<lpage>2156</lpage>.<pub-id pub-id-type="pmid">31011818</pub-id></mixed-citation></ref><ref id="hex13045-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hex13045-cit-0007">
+<string-name>
+<surname>Scalia</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Kremer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Faber</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Online, interactive option grid patient decision aids and their effect on user preferences</article-title>. <source xml:lang="en">Med Decis Making</source>. <year>2018</year>;<volume>38</volume>(<issue>1</issue>):<fpage>56</fpage>&#x02010;<lpage>68</lpage>.<pub-id pub-id-type="pmid">29078054</pub-id></mixed-citation></ref><ref id="hex13045-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hex13045-cit-0008">
+<string-name>
+<surname>Mendel</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Traut&#x02010;Mattausch</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Do physicians' recommendations pull patients away from their preferred treatment options?</article-title>
+<source xml:lang="en">Health Expect</source>. <year>2012</year>;<volume>15</volume>(<issue>1</issue>):<fpage>23</fpage>&#x02010;<lpage>31</lpage>.<pub-id pub-id-type="pmid">21323824</pub-id></mixed-citation></ref><ref id="hex13045-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hex13045-cit-0009">
+<string-name>
+<surname>Gurmankin</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Baron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hershey</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Ubel</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>The role of physicians' recommendations in medical treatment decisions</article-title>. <source xml:lang="en">Med Decis Making</source>. <year>2002</year>;<volume>22</volume>(<issue>3</issue>):<fpage>262</fpage>&#x02010;<lpage>271</lpage>.<pub-id pub-id-type="pmid">12058783</pub-id></mixed-citation></ref><ref id="hex13045-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hex13045-cit-0010">
+<string-name>
+<surname>Hamann</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kissling</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Mendel</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Does it matter whether physicians' recommendations are given early or late in the decision&#x02010;making process? An experimental study among patients with schizophrenia</article-title>. <source xml:lang="en">BMJ Open</source>. <year>2016</year>;<volume>6</volume>(<issue>9</issue>):<elocation-id>e011282</elocation-id>.</mixed-citation></ref><ref id="hex13045-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hex13045-cit-0011">
+<string-name>
+<surname>Scalia</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Elwyn</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kremer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Faber</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Assessing preference shift and effects on patient knowledge and decisional conflict: cross&#x02010;sectional study of an interactive prostate&#x02010;specific antigen test patient decision aid</article-title>. <source xml:lang="en">JMIR Cancer</source>. <year>2018</year>;<volume>4</volume>(<issue>2</issue>):<elocation-id>e11102</elocation-id>.<pub-id pub-id-type="pmid">30463840</pub-id></mixed-citation></ref><ref id="hex13045-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hex13045-cit-0012">
+<string-name>
+<surname>Fagerlin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pignone</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Abhyankar</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Clarifying values: an updated review</article-title>. <source xml:lang="en">BMC Med Inform Decis Mak</source>. <year>2013</year>;<volume>13</volume>(<issue>Suppl 2</issue>):<fpage>S8</fpage>.</mixed-citation></ref><ref id="hex13045-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hex13045-cit-0013">
+<string-name>
+<surname>Feldman&#x02010;Stewart</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tong</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Siemens</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The impact of explicit values clarification exercises in a patient decision aid emerges after the decision is actually made: evidence from a randomized controlled trial</article-title>. <source xml:lang="en">Med Decis Making</source>. <year>2012</year>;<volume>32</volume>(<issue>4</issue>):<fpage>616</fpage>&#x02010;<lpage>626</lpage>.<pub-id pub-id-type="pmid">22287534</pub-id></mixed-citation></ref><ref id="hex13045-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hex13045-cit-0014">
+<string-name>
+<surname>Cook</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Rosser</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Kaney</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Salmon</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Factors influencing surgeons' decisions in elective cosmetic surgery consultations</article-title>. <source xml:lang="en">Med Decis Making</source>. <year>2007</year>;<volume>27</volume>(<issue>3</issue>):<fpage>311</fpage>&#x02010;<lpage>320</lpage>.<pub-id pub-id-type="pmid">17545500</pub-id></mixed-citation></ref><ref id="hex13045-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="hex13045-cit-0015">
+<string-name>
+<surname>Birkmeyer</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Reames</surname>
+<given-names>BN</given-names>
+</string-name>, <string-name>
+<surname>McCulloch</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Carr</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Wennberg</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Understanding of regional variation in the use of surgery</article-title>. <source xml:lang="en">Lancet</source>. <year>2013</year>;<volume>382</volume>(<issue>9898</issue>):<fpage>1121</fpage>&#x02010;<lpage>1129</lpage>.<pub-id pub-id-type="pmid">24075052</pub-id></mixed-citation></ref><ref id="hex13045-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="hex13045-cit-0016">
+<collab collab-type="authors">HerniaSurge</collab>
+<collab collab-type="authors"> Group</collab>
+. <article-title>International guidelines for groin hernia management</article-title>. <source xml:lang="en">Hernia</source>. <year>2018</year>;<volume>22</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02010;<lpage>165</lpage>.</mixed-citation></ref><ref id="hex13045-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hex13045-cit-0017">
+<string-name>
+<surname>Agresta</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Campanile</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name>
+<surname>Vettoretto</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Laparoscopic cholecystectomy: consensus conference&#x02010;based guidelines</article-title>. <source xml:lang="en">Langenbecks Arch Surg</source>. <year>2015</year>;<volume>400</volume>(<issue>4</issue>):<fpage>429</fpage>&#x02010;<lpage>453</lpage>.<pub-id pub-id-type="pmid">25850631</pub-id></mixed-citation></ref><ref id="hex13045-bib-0018"><label>18</label><mixed-citation publication-type="miscellaneous" id="hex13045-cit-0018">
+<collab collab-type="authors">Commission Guideline Gallstones and Dutch Federation for Surgery</collab>
+. <article-title>Gallstones (Dutch: Gallstones)</article-title>. Published 2007. <ext-link ext-link-type="uri" xlink:href="http://www.med-info.nl/Richtlijnen/Gastro-intestinale%20aandoeningen/Galstenen.pdf">http://www.med-info.nl/Richtlijnen/Gastro-intestinale%20aandoeningen/Galstenen.pdf</ext-link>. Accessed January 2020.</mixed-citation></ref><ref id="hex13045-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="hex13045-cit-0019">
+<string-name>
+<surname>van Dijk</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Wennmacker</surname>
+<given-names>SZ</given-names>
+</string-name>, <string-name>
+<surname>de Reuver</surname>
+<given-names>PR</given-names>
+</string-name>, et al. <article-title>Restrictive strategy versus usual care for cholecystectomy in patients with gallstones and abdominal pain (SECURE): a multicentre, randomised, parallel&#x02010;arm, non&#x02010;inferiority trial</article-title>. <source xml:lang="en">Lancet</source>. <year>2019</year>;<volume>393</volume>(<issue>10188</issue>):<fpage>2322</fpage>&#x02010;<lpage>2330</lpage>.<pub-id pub-id-type="pmid">31036336</pub-id></mixed-citation></ref><ref id="hex13045-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="hex13045-cit-0020">
+<string-name>
+<surname>Bay&#x02010;Nielsen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nilsson</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nordin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kehlet</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Chronic pain after open mesh and sutured repair of indirect inguinal hernia in young males</article-title>. <source xml:lang="en">Br J Surg</source>. <year>2004</year>;<volume>91</volume>(<issue>10</issue>):<fpage>1372</fpage>&#x02010;<lpage>1376</lpage>.<pub-id pub-id-type="pmid">15376186</pub-id></mixed-citation></ref><ref id="hex13045-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="hex13045-cit-0021">
+<string-name>
+<surname>Schmedt</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Sauerland</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bittner</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Comparison of endoscopic procedures vs Lichtenstein and other open mesh techniques for inguinal hernia repair: a meta&#x02010;analysis of randomized controlled trials</article-title>. <source xml:lang="en">Surg Endosc</source>. <year>2005</year>;<volume>19</volume>(<issue>2</issue>):<fpage>188</fpage>&#x02010;<lpage>199</lpage>.<pub-id pub-id-type="pmid">15578250</pub-id></mixed-citation></ref><ref id="hex13045-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hex13045-cit-0022">
+<string-name>
+<surname>Vandenbroucke</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>von Elm</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, et al. <article-title>Strengthening the Reporting of Observational Studies in Epidemiology (STROBE): explanation and elaboration</article-title>. <source xml:lang="en">Int J Surg</source>. <year>2014</year>;<volume>12</volume>(<issue>12</issue>):<fpage>1500</fpage>&#x02010;<lpage>1524</lpage>.<pub-id pub-id-type="pmid">25046751</pub-id></mixed-citation></ref><ref id="hex13045-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hex13045-cit-0023">
+<string-name>
+<surname>Fitzgibbons</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Giobbie&#x02010;Hurder</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>JO</given-names>
+</string-name>, et al. <article-title>Watchful waiting vs repair of inguinal hernia in minimally symptomatic men: a randomized clinical trial</article-title>. <source xml:lang="en">JAMA</source>. <year>2006</year>;<volume>295</volume>(<issue>3</issue>):<fpage>285</fpage>&#x02010;<lpage>292</lpage>.<pub-id pub-id-type="pmid">16418463</pub-id></mixed-citation></ref><ref id="hex13045-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hex13045-cit-0024">
+<string-name>
+<surname>Vernon</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Baranova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Younossi</surname>
+<given-names>ZM</given-names>
+</string-name>. <article-title>Systematic review: the epidemiology and natural history of non&#x02010;alcoholic fatty liver disease and non&#x02010;alcoholic steatohepatitis in adults</article-title>. <source xml:lang="en">Aliment Pharmacol Ther</source>. <year>2011</year>;<volume>34</volume>(<issue>3</issue>):<fpage>274</fpage>&#x02010;<lpage>285</lpage>.<pub-id pub-id-type="pmid">21623852</pub-id></mixed-citation></ref><ref id="hex13045-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hex13045-cit-0025">
+<string-name>
+<surname>de Goede</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wijsmuller</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>van Ramshorst</surname>
+<given-names>GH</given-names>
+</string-name>, et al. <article-title>Watchful waiting versus surgery of mildly symptomatic or asymptomatic inguinal hernia in men aged 50 years and older: a randomized controlled trial</article-title>. <source xml:lang="en">Ann Surg</source>. <year>2018</year>;<volume>267</volume>(<issue>1</issue>):<fpage>42</fpage>&#x02010;<lpage>49</lpage>.<pub-id pub-id-type="pmid">28350567</pub-id></mixed-citation></ref><ref id="hex13045-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="hex13045-cit-0026">
+<string-name>
+<surname>Vetrhus</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Soreide</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Eide</surname>
+<given-names>GE</given-names>
+</string-name>, <string-name>
+<surname>Solhaug</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Nesvik</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Sondenaa</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Pain and quality of life in patients with symptomatic, non&#x02010;complicated gallbladder stones: results of a randomized controlled trial</article-title>. <source xml:lang="en">Scand J Gastroenterol</source>. <year>2004</year>;<volume>39</volume>(<issue>3</issue>):<fpage>270</fpage>&#x02010;<lpage>276</lpage>.<pub-id pub-id-type="pmid">15074398</pub-id></mixed-citation></ref><ref id="hex13045-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hex13045-cit-0027">
+<string-name>
+<surname>Oliver</surname>
+<given-names>MN</given-names>
+</string-name>. <article-title>Watchful waiting is reasonable for gallstone symptoms</article-title>. <source xml:lang="en">J Fam Pract</source>. <year>2003</year>;<volume>52</volume>(<issue>1</issue>):<fpage>18</fpage>&#x02010;<lpage>20</lpage>.<pub-id pub-id-type="pmid">12540304</pub-id></mixed-citation></ref><ref id="hex13045-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hex13045-cit-0028">
+<string-name>
+<surname>McSherry</surname>
+<given-names>CK</given-names>
+</string-name>, <string-name>
+<surname>Ferstenberg</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Calhoun</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name>
+<surname>Lahman</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Virshup</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The natural history of diagnosed gallstone disease in symptomatic and asymptomatic patients</article-title>. <source xml:lang="en">Ann Surg</source>. <year>1985</year>;<volume>202</volume>(<issue>1</issue>):<fpage>59</fpage>&#x02010;<lpage>63</lpage>.<pub-id pub-id-type="pmid">4015212</pub-id></mixed-citation></ref><ref id="hex13045-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="hex13045-cit-0029">
+<string-name>
+<surname>Scalia</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Durand</surname>
+<given-names>M&#x02010;A</given-names>
+</string-name>, <string-name>
+<surname>Berkowitz</surname>
+<given-names>JL</given-names>
+</string-name>, et al. <article-title>The impact and utility of encounter patient decision aids: systematic review, meta&#x02010;analysis and narrative synthesis</article-title>. <source xml:lang="en">Patient Educ Couns</source>. <year>2019</year>;<volume>102</volume>(<issue>5</issue>):<fpage>817</fpage>&#x02010;<lpage>841</lpage>.<pub-id pub-id-type="pmid">30612829</pub-id></mixed-citation></ref><ref id="hex13045-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hex13045-cit-0030">
+<string-name>
+<surname>Holmes&#x02010;Rovner</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Valade</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Orlowski</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Draus</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nabozny&#x02010;Valerio</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Keiser</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Implementing shared decision&#x02010;making in routine practice: barriers and opportunities</article-title>. <source xml:lang="en">Health Expect</source>. <year>2000</year>;<volume>3</volume>(<issue>3</issue>):<fpage>182</fpage>&#x02010;<lpage>191</lpage>.<pub-id pub-id-type="pmid">11281928</pub-id></mixed-citation></ref><ref id="hex13045-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="hex13045-cit-0031">
+<string-name>
+<surname>Bhavnani</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Patient factors in the implementation of decision aids in general practice: a qualitative study</article-title>. <source xml:lang="en">Health Expect</source>. <year>2010</year>;<volume>13</volume>(<issue>1</issue>):<fpage>45</fpage>&#x02010;<lpage>54</lpage>.<pub-id pub-id-type="pmid">19811545</pub-id></mixed-citation></ref><ref id="hex13045-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hex13045-cit-0032">
+<string-name>
+<surname>Hanson</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Crosby</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Basson</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Patient preferences for surgery or antibiotics for the treatment of acute appendicitis</article-title>. <source xml:lang="en">JAMA Surg</source>. <year>2018</year>;<volume>153</volume>(<issue>5</issue>):<fpage>471</fpage>&#x02010;<lpage>478</lpage>.<pub-id pub-id-type="pmid">29322168</pub-id></mixed-citation></ref><ref id="hex13045-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="hex13045-cit-0033">
+<string-name>
+<surname>Say</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The importance of patient preferences in treatment decisions&#x02013;challenges for doctors</article-title>. <source xml:lang="en">BMJ</source>. <year>2003</year>;<volume>327</volume>(<issue>7414</issue>):<fpage>542</fpage>&#x02010;<lpage>545</lpage>.<pub-id pub-id-type="pmid">12958116</pub-id></mixed-citation></ref></ref-list></back></article>

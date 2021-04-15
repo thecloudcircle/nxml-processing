@@ -1,0 +1,387 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Pers Med</journal-id><journal-id journal-id-type="iso-abbrev">J Pers Med</journal-id><journal-id journal-id-type="publisher-id">jpm</journal-id><journal-title-group><journal-title>Journal of Personalized Medicine</journal-title></journal-title-group><issn pub-type="epub">2075-4426</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25562407</article-id><article-id pub-id-type="pmc">4251384</article-id><article-id pub-id-type="doi">10.3390/jpm3010001</article-id><article-id pub-id-type="publisher-id">jpm-03-00001</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Structured Decision-Making: Using Personalized Medicine to Improve the Value of Cancer Care</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Hirsch</surname><given-names>Bradford R.</given-names></name><xref ref-type="aff" rid="af1-jpm-03-00001">1</xref><xref ref-type="aff" rid="af2-jpm-03-00001">2</xref></contrib><contrib contrib-type="author"><name><surname>Abernethy</surname><given-names>Amy P.</given-names></name><xref ref-type="aff" rid="af1-jpm-03-00001">1</xref><xref ref-type="aff" rid="af2-jpm-03-00001">2</xref><xref rid="c1-jpm-03-00001" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-jpm-03-00001"><label>1</label>Center for Learning Health Care, Duke Clinical Research Institute, PO Box 17969, Durham, NC 27715, USA; E-Mail: <email>Bradford.hirsch@duke.edu</email></aff><aff id="af2-jpm-03-00001"><label>2</label>Division of Medical Oncology, Department of Medicine, Duke University Medical Center Box 3436, Durham, NC 27710, USA</aff><author-notes><corresp id="c1-jpm-03-00001"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>amy.abernethy@duke.edu</email>; Tel.: +1-919-668-0647; Fax: +1-919-684-5325.</corresp></author-notes><pub-date pub-type="epub"><day>27</day><month>12</month><year>2012</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2013</year></pub-date><volume>3</volume><issue>1</issue><fpage>1</fpage><lpage>13</lpage><history><date date-type="received"><day>22</day><month>11</month><year>2012</year></date><date date-type="rev-recd"><day>19</day><month>12</month><year>2012</year></date><date date-type="accepted"><day>19</day><month>12</month><year>2012</year></date></history><permissions><copyright-statement>&#x000a9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2013</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>Cancer care is often inconsistently delivered with inadequate incorporation of patient values and objective evidence into decision-making. Utilization of time limited trials of care with predefined decision points that are based on iteratively updated best evidence, tools that inform providers about a patient&#x02019;s experience and values, and known information about a patient&#x02019;s disease will allow superior matched care to be delivered. Personalized medicine does not merely refer to the incorporation of genetic information into clinical care, it involves utilization of the wide array of data points relevant to care, many of which are readily available at the bedside today. By pushing uptake of personalized matching available today, clinicians can better address the triple aim of improved health, lowers costs, and enhanced patient experience, and we can prepare the health care landscape for the iterative inclusion of progressively more sophisticated information as newer tests and information become available to support the personalized medicine paradigm. </p></abstract><kwd-group><kwd>personalized medicine</kwd><kwd>oncology</kwd><kwd>comparative effectiveness research</kwd><kwd>cancer</kwd><kwd>structured decision-making</kwd><kwd>time limited trials</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>The delivery of medical care is undergoing fundamental change. In no area is this more apparent than in cancer. For decades, the treatment armamentarium available to oncologists remained limited despite substantial progress in other areas. More recently, this paradigm has shifted, with many of the drugs that are newly approved by the United States Food and Drug Administration being used to treat cancer [<xref rid="B1-jpm-03-00001" ref-type="bibr">1</xref>]. As an example, five new therapies have been approved to treat prostate cancer over the past five years, many compared only to placebo prior to approval. As such, there is little comparative data about their relative efficacy and the appropriate treatment sequence. Accumulating insights regarding the genomic underpinnings of disease and the relative efficacy of treatments in different patient populations holds great promise to tailor anti-cancer interventions to those most likely to benefit, but fulfillment of this potential remains elusive [<xref rid="B2-jpm-03-00001" ref-type="bibr">2</xref>,<xref rid="B3-jpm-03-00001" ref-type="bibr">3</xref>,<xref rid="B4-jpm-03-00001" ref-type="bibr">4</xref>]. Within this backdrop, it is evident that the value of the care that patients receive can be better defined and optimized if early progress on a few fronts continues to gain momentum. </p><p>Understanding the value of treatments relies first on the generation of more robust data about the care being delivered. New data infrastructure is being developed that will enable change under the American Recovery and Reinvestment Act (ARRA) of 2009 and the Patient Protection and Affordable Care Act (PPACA) of 2010. Meaningful Use requirements included in ARRA are fueling the uptake of electronic health records (EHRs) across the country, which provide more robust data than legacy systems [<xref rid="B5-jpm-03-00001" ref-type="bibr">5</xref>]. PPACA has led to a new focus on patient centered care and comparative effectiveness research through the Patient Centered Outcomes Research Institute (PCORI) [<xref rid="B6-jpm-03-00001" ref-type="bibr">6</xref>]. Biorepositories are being embraced that allow for the storage and analysis of tissue samples in order to understand the role of genetics and epigenetics within oncology and other diseases [<xref rid="B7-jpm-03-00001" ref-type="bibr">7</xref>]. Federated data systems like the Mini-Sentinel Network are being built that allow large-scale aggregation of data [<xref rid="B8-jpm-03-00001" ref-type="bibr">8</xref>]. The list of evolving opportunities is long and critically important, as data is the key substrate if we hope to make progress.</p><p>To date, gains in care efficiency and personalization from these movements remain limited, but it is still too early to judge their ultimate impact. It is often stated that health care has one of the lowest productivity gains from technology of any industry because of a lack of uptake of new tools and that it can take 17 years for new findings to enter routine clinical practice [<xref rid="B9-jpm-03-00001" ref-type="bibr">9</xref>,<xref rid="B10-jpm-03-00001" ref-type="bibr">10</xref>]. Driving forces behind this failure include misaligned incentives, a lack of shared understanding between the clinical community and the data scientists, deficiencies in infrastructure (both in care delivery and information technology), and reservations among the clinical community about the role of technology in the health care. A national focus on data, data sharing, biomarkers (of all types), and the integration of technology will start to break down the walls and catalyze progress towards personalized medicine, but it is critical that the clinical and research communities help to guide change instead of leaving it in the hands of industry and policy experts. </p><p>Perspective is important when defining the value of personalized medicine. Patients define health care value in terms of quality of the patient-physician relationship and alignment of care with personal goals [<xref rid="B11-jpm-03-00001" ref-type="bibr">11</xref>]. Oncologists and third party payers often focus on objective definitions of effectiveness and efficiency in specific clinical scenarios (e.g., impact of targeted treatment for BRAF V600E mutated melanoma on overall survival). Perhaps, within the personalized medicine community, we are so focused on biomarker driven care that we have missed the opportunity to define the near-term value statement for personalizing care within the context of patient-defined value and patient-centered care. One way to make progress is to demonstrate what has value and what does not by using accessible language and concepts with personal meaning. Outcomes such as progression free survival or time to event are abstract concepts, whereas more patient-centric outcomes like quality of life, ability to walk or run, and symptoms such as pain are more easily understood. </p><p>The role of biomarkers is often focused upon as the heart of personalized medicine. Over the past decade, many new discoveries have been made about the inherent genetic heterogeneity within previously defined groups such as those with lung or colorectal cancer [<xref rid="B12-jpm-03-00001" ref-type="bibr">12</xref>]. More recently, even treatments such as aspirin have found increasingly targeted populations such as its use with PIK3CA-mutated colorectal cancer [<xref rid="B13-jpm-03-00001" ref-type="bibr">13</xref>]. There are innumerable reviews of the role of various biomarkers such as KRAS in colorectal cancer [<xref rid="B14-jpm-03-00001" ref-type="bibr">14</xref>] or BRAF in melanoma [<xref rid="B15-jpm-03-00001" ref-type="bibr">15</xref>]. The purpose of this discussion is not to focus on these issues, but instead to show how genomics can be one of many factors integrated into the new model of care delivery in order to improve understanding and outcomes. Instead of waiting for new genomic discoveries, we are working to build the systems that will integrate them quickly into practice and drive new discoveries. </p><p>In this manuscript, we will highlight our experience with personalized medicine in the research and clinical contexts. We will describe how the collection of patient reported information such as patient reported outcomes (PROs) has facilitated the inclusion of the patient voice in care and allowed for personalization in real-time in a manner easily understood by patients and the health care team. We will show how informatics-enabled registries that combine PROs and data from sources such as EHRs and biorepositories allow for the integration of the patient experience and biological factors in order to inform multivariate prediction models and to generate automated, tailored interventions and education. Finally, we highlight how new data can be used to enhance care through time-limited trials (TLTs) that facilitate communication between patients and clinicians. The basic framework that connects the different pieces is shown in <xref ref-type="fig" rid="jpm-03-00001-f001">Figure 1</xref>. Ultimately, new data approaches should be embraced and coordinated in order to better understand the impact of care on a patient&#x02019;s experience and outcomes, providing new insights into value from both a patient-defined and ultimately societally-defined perspective. The pathways we describe highlight demonstration models of how the largely untold stories of personalized medicine are already moving the field forward using a unique approach that, on the surface, looks exceptionally different from biomarker driven prescription of anti-neoplastic therapies, but, in reality, uses the same principles of matching health care intervention to patient need based upon progressively more tailored real-time data. </p><fig id="jpm-03-00001-f001" position="float"><label>Figure 1</label><caption><p>The Requirements for Personalized Medicine.</p></caption><graphic xlink:href="jpm-03-00001-g001"/></fig></sec><sec><title>2. Data Generation</title><p>New data sources are a critical piece of the puzzle. Without them, personalization will remain elusive. As examples, we will highlight how our work with PRO data collection systems and informatics-enabled registries has supported personalization. </p><sec><title>2.1. Patient Reported Outcomes</title><p>PROs represent the collection of data on a patient&#x02019;s health status directly from the patient, bypassing the traditional approach of interpretation and documentation by a clinician. Ample evidence shows that collection of PROs avoids misinterpretation by physicians and provides more robust data to be used across clinical care, research, and business operations [<xref rid="B16-jpm-03-00001" ref-type="bibr">16</xref>,<xref rid="B17-jpm-03-00001" ref-type="bibr">17</xref>,<xref rid="B18-jpm-03-00001" ref-type="bibr">18</xref>]. Over the past decade, the Duke Center for Learning Health Care (CLHC) has been one of a handful of organizations to develop a robust PRO capture system, referred to as the electronic patient reported outcomes (ePRO) system [<xref rid="B19-jpm-03-00001" ref-type="bibr">19</xref>,<xref rid="B20-jpm-03-00001" ref-type="bibr">20</xref>,<xref rid="B21-jpm-03-00001" ref-type="bibr">21</xref>]. Our most commonly used PRO instrument is the Patient Care Monitor v2.0 (PCM), because it simultaneously facilitates a clinical review of systems, patient reporting of day-to-day concerns, and research data collection. The PCM consists of 86 questions for women and 80 for men. It has been shown to take an average of 11 min to complete and is both feasible and reliable [<xref rid="B20-jpm-03-00001" ref-type="bibr">20</xref>,<xref rid="B22-jpm-03-00001" ref-type="bibr">22</xref>,<xref rid="B23-jpm-03-00001" ref-type="bibr">23</xref>,<xref rid="B24-jpm-03-00001" ref-type="bibr">24</xref>]. We have designed the ePRO platform to be accessible from any internet-enabled device, whether in the clinic (usually by tablet device) or outside the clinic (e.g., tablet, laptop, desktop, smartphone).</p><p>The ePRO system has been used at more than 30 academic and community oncology sites in the United States. Drivers of uptake of the ePRO system include financial justifications from improvements in clinical efficiency, a desire for greater patient engagement, and the need for new quality reporting and research capabilities. We have already seen the impact at sites using ePRO. For instance, the prevalence of sexual distress among our cancer patients was fully appreciated for the first time following implementation of the ePRO system at the Duke Cancer Institute. More than 30% of patients with breast, lung and gastrointestinal cancer were found to have moderate to severe sexual distress [<xref rid="B25-jpm-03-00001" ref-type="bibr">25</xref>,<xref rid="B26-jpm-03-00001" ref-type="bibr">26</xref>,<xref rid="B27-jpm-03-00001" ref-type="bibr">27</xref>]. As a result of these findings, new educational and clinical care processes have been put in place and a randomized controlled trial opened to help understand how to address the issue. In another example, cancer pain treatments are being matched to people who need them in real time. Reports generated by the ePRO system highlight patients with pain as they present to the clinic; characteristics of the pain and its severity are documented, and the type and intensity of intervention is matched to the problem. On subsequent clinical encounters, the impact of the treatment choice is monitored using the ePRO system and therapies can then be further adjusted, using iterative cycles of assessment, targeted intervention, and review. </p><p>Many believe that implementation of such a system rests purely on the hardware and software tools involved. In our experience, these are among the easiest hurdles to overcome. One can relatively easily develop a software interface that allows patients to fill out clinical surveys. Much more challenging is the development of valid and reliable survey tools, the process redesign required in clinics to align the use of information systems within the clinical care being delivered, and the requirement for analytic capabilities that convert the raw data into actionable information that clinicians can utilize in real time. These stumbling blocks frequently relegate real-time PRO data collection and use to an &#x0201c;untold story&#x0201d; of personalized medicine, but, when surmounted, result in a clinical care delivery system that is highly patient-centric and directly fosters personalization of care.</p></sec><sec><title>2.2. Informatics Enabled-Registries</title><p>A registry is a collection of patient records assimilating longitudinal information that characterizes and monitors people included in the cohort [<xref rid="B28-jpm-03-00001" ref-type="bibr">28</xref>]. Typically registries have pre-specified criteria for patient inclusion, such as all people with a specific disease (e.g., stage IV cancer), exposed to a specific intervention (e.g., spine surgery), or receiving similar health care (e.g., accountable care organization). Outcomes are tracked over time, such as cancer-related survival, change in tumor burden, toxicity of anti-neoplastic therapies, symptoms, quality of life, and health resource utilization. In the case of biospecimens, the primary purpose of a registry can be to provide clinical annotation to document the phenotype that aligns with specific biology; or, the primary purpose of the registry can be focused on the clinical cohort and the biospecimen data can be just one data type among the overall dataset.</p><p>Informatics-enabled registries draw from many data sources to automatically aggregate and harmonize data in a centralized data warehouse, allowing far more robust queries and insights than would be possible from any single source. Architecturally, the warehouse can be a single organized database (albeit usually portioned into smaller units called &#x0201c;datamarts&#x0201d;), a loosely laced group of databases accessed when needed to create a virtual warehouse (also known as a &#x0201c;federated&#x0201d; model), or a combination of these models [<xref rid="B28-jpm-03-00001" ref-type="bibr">28</xref>,<xref rid="B29-jpm-03-00001" ref-type="bibr">29</xref>]. As an example at Duke, strides have been made to aggregate data across the EHR, tumor registry, billing, ePRO and clinical trials systems in order to design a database that can provide deeper insights into critical questions [<xref rid="B30-jpm-03-00001" ref-type="bibr">30</xref>]. These registries, once formed, augment all of the systems that they draw from. For instance, the Duke data warehouse acts as clinical annotation system for our biorepository, ensuring that the biological specimens are annotated with continuously aggregating data. Without the registry to bridge the two systems, it would take an overwhelming amount of work to match and analyze clinical data with biological data derived from the biospecimen. Importantly, the pool of data in the electronic data warehouse is continuously aggregating in line with the longitudinal evolution of day-to-day health care that naturally occurs. For example, a patient with newly diagnosed colon cancer might interact with the health care system and have data collected during his annual checkup, appointment with a gastroenterologist, screening colonoscopy, pathology&#x02019;s review of the biopsy, appointment with an oncologist, and chemotherapy treatment visits. All of the health care data collected during each of these events is tracked in the registry and provides a longitudinal clinical picture that is matched to the cancer tissue samples that were collected. Data can be analyzed at any level of aggregation&#x02014;institutional, across a network of sites, regional or national, depending upon whether adequate data dictionaries are available and information can flow from one system to the next. </p><p>In order to accomplish this, we have needed to work through a series of complex challenges such as concerns about data quality and the derivation of key variables. As this type of data aggregation represents a new and evolving territory, basic data quality concerns have required the development of systematic solutions. For instance, there is substantial variation in the likelihood that certain data fields are collected. If only the final result of an analysis is reported (<italic>i.e</italic>., 40% of patients are positive for a given mutation) then the nuances of the data are often unknown; in this example, only a small subset of patients may have had the mutation analyzed because known predictors of presence or absence of the mutation make routine biomarker testing unnecessary, thereby skewing the results. As another example of the challenges encountered with large-scale clinical data aggregation, data drawn from an ever-growing number of systems may result in conflicts among the data elements replicated across systems; for example, patient race may be recorded four different ways in eleven different medical data systems and the correct value must be defined. This arises for a number of reasons, including varying definitions of fields between sources and inaccuracies of input entry. Using models to predict the reliability of different sources, an algorithm can be developed to resolve such conflicts, choose the most likely appropriate answer, and add a &#x0201c;tag&#x0201d; to the data element (also known as metadata) indicating the likelihood that the data point is indeed correct. Another interesting and critical issue is the complex challenge of defining and populating critical variables that aren&#x02019;t readily accessible within systems today, such as tumor response. While many data elements are critical to comparative effectiveness research, they are not always codified and are often buried in radiology reports and clinical notes. Electronic methods to harvest the data, such as prediction algorithms and natural language processing, may or may not be accurate and must be validated. Attempts to add more codified fields and to harness the growing computational power of networks to start sifting through the growing amount of data will help address the gap over time. Meanwhile, clinical chart review and completion of supplementary case report forms can serve as a backup method when needed.</p><p>As these complexities are resolved, informatics-enabled registries have great potential to provide critical data needed to support the practice of personalized medicine and personalized health care discoveries. Clinicians interacting with the registry can derive honed understanding of a patient&#x02019;s risk and likelihood of response. Meanwhile data aggregating in the registry can support the transition of research from a linear to an iterative process. New biological discoveries can be tested in a succession of closely-linked clinical trials from phase I to phase III, put into practice if the findings are promising, and monitored for impact in the general population. Aggregating data from the general health care population then feeds the discovery engine for further innovation. In this way, informatics-enabled registries help to support the concept of learning health care. Collaborative high level stakeholder meetings, such as the Learning Health Summit by the Kaiser Family Foundation [<xref rid="B31-jpm-03-00001" ref-type="bibr">31</xref>], Digital Learning Collaborative of the Institutes of Medicine (IOM) [<xref rid="B32-jpm-03-00001" ref-type="bibr">32</xref>], and the IOM&#x02019;s National Cancer Policy Forum are helping to shape a national data and infrastructure roadmap to move the field forward [<xref rid="B33-jpm-03-00001" ref-type="bibr">33</xref>,<xref rid="B34-jpm-03-00001" ref-type="bibr">34</xref>,<xref rid="B35-jpm-03-00001" ref-type="bibr">35</xref>].</p></sec></sec><sec><title>3. Application</title><p>Once data are available, they can be used to support personalized medicine and tailored care while simultaneously augmenting our understanding of the quality, efficacy, and value of the care being delivered. Key features include data use and reuse, integration of the patient voice, and real-time decision-support.</p><sec><title>3.1. Structured Support</title><p>Data collected in real-time can be used to support multiple actions directly intended to tailor care for the individual patient based upon patient-level data. For instance, we are developing the capability to deliver targeted education and structured interventions through the use of the ePRO system. Patients can access the system across settings, whether in the clinic waiting room or at home. Tailored education and interventions can then be provided, based on a variety of inputs including the patient&#x02019;s diagnosis, clinical findings, and PROs. If a patient documents a concerning progression of pain or meets a predefined threshold for troublesome insomnia, a tailored video is delivered which provides personalized education regarding the symptom, self-management solutions, and directions to additional resources. Education received is documented in aggregating databases in order to meet clinical documentation and billing requirements. Activities occurring during what would previously have been down time for the patient (e.g., sitting in the clinic waiting room), enable increased insights for the patient and allow the provider to spend more time focusing on higher-level issues. We hypothesize that improved patient education can improve outcomes and this is currently being studied. </p><p>Similarly, systems are being developed in which PRO responses, coupled with additional data points, prompt automated interventions from clinical staff. Instead of waiting for a patient&#x02019;s pain to progress to the point of an unplanned clinic visit or hospitalization, interventions will be proactively triggered. This might consist of a call from a clinician or a visit from a hospice nurse. In another solution being tested, PRO responses are triggering behavioral medicine interventions delivered via video-conferencing on mobile devices to the patients who are most likely to derive benefit (e.g., people with pain scores &#x0003e;3 and positive sense of self efficacy).</p></sec><sec><title>3.2. Clinical Decision Support</title><p>Clinical decision support (CDS) refers to the analysis and presentation of aggregated data to provide guidance to clinicians to tailor care for the individual patient. Numerous studies have outlined the benefits of clinical checklists [<xref rid="B36-jpm-03-00001" ref-type="bibr">36</xref>,<xref rid="B37-jpm-03-00001" ref-type="bibr">37</xref>,<xref rid="B38-jpm-03-00001" ref-type="bibr">38</xref>]. CDS is a logical extension of this approach, meant to help provide reminders and guidance about the latest and most evidence-based care patterns. A key feature is the matching of patient-level data to current best evidence and practices, which can accelerate diffusion of new evidence [<xref rid="B9-jpm-03-00001" ref-type="bibr">9</xref>]. A common concern of randomized clinical trials is their limited applicability to routine clinical practice settings [<xref rid="B39-jpm-03-00001" ref-type="bibr">39</xref>]. CDS, driven by real time clinical findings, can fundamentally change this paradigm. </p><p>There are innumerable types of CDS systems in development. Let us provide an example of their use to support care pathways and personalized medicine today. Individual patient data can be used to make personalized cancer treatment recommendations such as advising vemurafenib for a person with metastatic melanoma and a BRAF V600E mutation. Now imagine a panel of patients all of whom have melanoma with the BRAF V600E mutation and who receive vemurafenib; their data are aggregating in the informatics-enabled registry. Perhaps a cluster of patients in the panel is noted to develop peripheral neuropathy. A multivariable prediction model is derived using the registry data including information on the sites of disease involvement, lab variations, and genomic markers to identify people at risk of developing the peripheral neuropathy. A cluster of early symptoms serves as an early warning. By inputting a person&#x02019;s personal characteristics into the multivariable model, a risk score for development of peripheral neuropathy is generated. When the telltale symptom cluster starts to develop in a person at high risk, the vemurafenib is stopped; if the person is low risk, other reasons for the symptom cluster might be sought before dose adjustments to the vemurafenib are made. The ability to use aggregating registries to generate continuously updating prediction models that allow continual refinement of the evidence being used to drive care is an exciting opportunity. While pilot projects must be very carefully controlled to prevent unnecessary risks to patients, we believe that combining these insights with data about the patient&#x02019;s personal preferences will help us to determine what to do in the context of patient defined goals and values.</p><p>Initial systematic reviews have shown the ability of CDS to improve practice patterns but have not yet shown an impact on outcomes [<xref rid="B40-jpm-03-00001" ref-type="bibr">40</xref>,<xref rid="B41-jpm-03-00001" ref-type="bibr">41</xref>]. This may be largely due to limitations of the available CDS systems studied. CDS is an inevitable part of the future of medical care, so it is in the best interest of clinicians to be involved early and actively in the development process to ensure that, instead of complicating and confining practices, CDS systems provide benefit.</p></sec></sec><sec><title>4. Time Limited Trials</title><p>Another near-term application of the data is through its use in Time Limited Trials (TLTs). TLTs have been gaining recent momentum in which patients and clinicians use a structured process to agree on a management approach [<xref rid="B42-jpm-03-00001" ref-type="bibr">42</xref>,<xref rid="B43-jpm-03-00001" ref-type="bibr">43</xref>]. As described in a recent manuscript in the <italic>Journal of the American Medical Association</italic>, &#x0201c;a TLT is an agreement between clinicians and a patient/family to use certain medical therapies over a defined period to see if the patient improves or deteriorates according to agreed upon outcomes&#x0201d; [<xref rid="B43-jpm-03-00001" ref-type="bibr">43</xref>]. Far too often in oncology, as in other areas of medicine, we choose to continue therapies in an open ended fashion, with no clearly established decision points or acknowledgment about a lack of efficacy. TLTs are an attempt to deal with this divide, and are a critical part of personalization of care at the bedside.</p><p>At the outset of therapy, both parties discuss their goals from care. What are the patient&#x02019;s/ caregiver&#x02019;s primary values and how can this knowledge be used to direct care? Tools like the ePRO system can help to gather the necessary information to both define goals and document the ongoing balance of risks and benefits. The ePRO system provides an objective tool with which to assess the outcomes that are decided upon such as changes in pain control or functional status. Paired with data from the patient record about trends in lab values (supplied through the informatics-enabled registry), robust systems can be developed to support TLTs and better define the course of care. For instance, a patient with advanced prostate cancer may decide to start docetaxol therapy and agree to a trial of three months. Severe toxicity over that time may prematurely end therapy; agreement at the outset as to his health care goals helps to guide decisions. If a patient&#x02019;s primary concern is the balance between loss of functional status and the need to shrink the disease, there is a likely a tradeoff he is willing to make. If at the end of the three months, functional status has declined significantly and tumor response is limited as defined by the PSA test and radiographic changes, a discussion of alternative therapies would be appropriate, as previously agreed. Alignment of goals and outcomes empowers the patient. While there is nothing set in stone about the agreement that is reached, it allows patients to be active participants, and leverages the use of data sources to truly support care. Instead of subjectively following functional status, it can now be collected as a data point, explicitly incorporated into the decision-making algorithm and approach to care, and monitored over time.</p></sec><sec><title>5. Conclusions</title><p>The &#x0201c;untold stories about personalized medicine&#x0201d; are exciting. They are about progress on the ground in areas like the collection of PROs, aggregation of data across various sources, and the use of novel data analyses in the provision of care and generation of new evidence. There is angst about the effect of new information technology systems on efficiency and autonomy. The time available in the clinic room is limited. The use of technology to restructure care, improve efficiency, and match the right intervention to the right patient at the right time is critical. This is in direct opposition to the initial introduction of technology into clinics to date, in which it merely replicated the paper chart and negatively impacted clinical flow [<xref rid="B44-jpm-03-00001" ref-type="bibr">44</xref>]. But, if done wisely, potential gains to patients and the system through personalization of care far outweigh the drawbacks. Instead of interrupting the clinical flow, discrete data collection systems will allow clinicians to focus on higher-order issues and support personalization of care.</p><p>Adoption of the PDSA (plan-do-study-act) cycle framework is an important component of this process. As problems are identified, solutions are chosen that must then be applied, tested and updated in an iterative fashion. Each new analysis is planned within routine clinical care, data is efficiently gathered about the outcomes of the care being delivered, results are studied and then acted on through CDS, guideline updates, and other real-time mechanisms. In this process, the care of patients is continuously updated with the best available evidence. While not a new idea, the PDSA cycle has not been routinely applied, largely due to the lack of an available infrastructure [<xref rid="B45-jpm-03-00001" ref-type="bibr">45</xref>]. Instead of always relying on the results of robust trials that can take hundreds of millions of dollars and many years to conduct, insights can now be generated quickly within new data systems and iteratively tested as part of a learning health system [<xref rid="B46-jpm-03-00001" ref-type="bibr">46</xref>,<xref rid="B47-jpm-03-00001" ref-type="bibr">47</xref>,<xref rid="B48-jpm-03-00001" ref-type="bibr">48</xref>]. There are a number of alternative names for PDSA cycles, such as a process recently described in <italic>Annals of Internal Medicine</italic> as design-implement-evaluate-adjust [<xref rid="B49-jpm-03-00001" ref-type="bibr">49</xref>], but all have the same principles. It is time that those providing medical care embrace the ability of technology to move the field forward. </p><p>The new approaches we have discussed end in the discussion of value. Value is variably defined depending on the stakeholder. For oncology patients, the value equation may include aspects of care such as the patient experience, response rate to treatments, symptoms, and quality of life. For payers, value may be defined by the balance of cost, utilization of resources, and impact on symptoms/ survival. Many have discussed the notion of value and it remains difficult to define. The greatest potential of the new approaches outlined in the manuscript is in their ability to objectively begin to characterize value on a large scale and enable a far more informed debate about how to optimize and prioritize care. </p></sec></body><back><notes><title>Conflict of Interest</title><p>Bradford R. Hirsch has research funding from Academy Health, the Robert Wood Johnson Foundation, and the Center for Medical Technology Policy. Bradford R. Hirsch holds equity in Eagle Hospital Physicians and Pioneer Surgical. </p><p>Amy P. Abernethy has research funding from the US National Institutes of Health, US Agency for Healthcare Research and Quality, Robert Wood Johnson Foundation, Biovex, DARA, Helsinn, MiCo and Pfizer; these funds are all distributed to Duke University Medical Center to support research including salary support for Amy P. Abernethy. In the last 2 years she has had nominal consulting agreements with or received honoraria from (&#x0003c;$5,000 annually) Novartis and Pfizer. Consulting with Bristol Meyers Squibb is pending in 2012, for role as Co-Chair of a Scientific Advisory Committee. In 2013, Amy P. Abernethy will have paid leadership roles with American Academy of Hospice &#x00026; Palliative Medicine (President-Elect) and Pillars4Life (Medical Director). She has corporate leadership responsibility in Advoset (an education company that has a contract with Novartis) and Orange Leaf Associates LLC (an IT development company). </p></notes><ref-list><title>References and Notes</title><ref id="B1-jpm-03-00001"><label>1.</label><element-citation publication-type="webpage">
+<article-title>FDA Approved Drugs by Therapeutic Area</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="http://www.centerwatch.com/drug-information/fda-approvals/drug-areas.aspx?AreaID=12">http://www.centerwatch.com/drug-information/fda-approvals/drug-areas.aspx?AreaID=12</ext-link></comment><date-in-citation>(accessed on 12 August 2012)</date-in-citation>
+</element-citation></ref><ref id="B2-jpm-03-00001"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arteaga</surname><given-names>C.L.</given-names></name><name><surname>Baselga</surname><given-names>J.</given-names></name></person-group>
+<article-title>Impact of genomics on personalized cancer medicine</article-title>
+<source>Clin. Cancer Res.</source>
+<year>2012</year>
+<volume>18</volume>
+<fpage>612</fpage>
+<lpage>618</lpage>
+<pub-id pub-id-type="doi">10.1158/1078-0432.CCR-11-2019</pub-id>
+<pub-id pub-id-type="pmid">22298893</pub-id></element-citation></ref><ref id="B3-jpm-03-00001"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Collins</surname><given-names>F.</given-names></name></person-group>
+<article-title>Has the revolution arrived?</article-title>
+<source>Nature</source>
+<year>2010</year>
+<volume>464</volume>
+<fpage>674</fpage>
+<lpage>675</lpage>
+<pub-id pub-id-type="pmid">20360716</pub-id></element-citation></ref><ref id="B4-jpm-03-00001"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rosenfeld</surname><given-names>J.A.</given-names></name><name><surname>Mason</surname><given-names>C.E.</given-names></name><name><surname>Smith</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Limitations of the human reference genome for personalized genomics</article-title>
+<source>PLoS One</source>
+<year>2012</year>
+<volume>7</volume>
+<fpage>e40294</fpage>
+<pub-id pub-id-type="pmid">22811759</pub-id></element-citation></ref><ref id="B5-jpm-03-00001"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blumenthal</surname><given-names>D.</given-names></name><name><surname>Tavenner</surname><given-names>M.</given-names></name></person-group>
+<article-title>The &#x0201c;meaningful use&#x0201d; regulation for electronic health records</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2010</year>
+<volume>363</volume>
+<fpage>501</fpage>
+<lpage>504</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMp1006114</pub-id>
+<pub-id pub-id-type="pmid">20647183</pub-id></element-citation></ref><ref id="B6-jpm-03-00001"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Selby</surname><given-names>J.V.</given-names></name><name><surname>Beal</surname><given-names>A.C.</given-names></name><name><surname>Frank</surname><given-names>L.</given-names></name></person-group>
+<article-title>The Patient-Centered Outcomes Research Institute (PCORI) national priorities for research and initial research agenda</article-title>
+<source>JAMA</source>
+<year>2012</year>
+<volume>307</volume>
+<fpage>1583</fpage>
+<lpage>1584</lpage>
+<pub-id pub-id-type="pmid">22511682</pub-id></element-citation></ref><ref id="B7-jpm-03-00001"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elliott</surname><given-names>P.</given-names></name><name><surname>Peakman</surname><given-names>T.C.</given-names></name></person-group>
+<article-title>The UK Biobank sample handling and storage protocol for the collection, processing and archiving of human blood and urine</article-title>
+<source>Int J. Epidemiol.</source>
+<year>2008</year>
+<volume>37</volume>
+<fpage>234</fpage>
+<lpage>244</lpage>
+<pub-id pub-id-type="doi">10.1093/ije/dym276</pub-id>
+<pub-id pub-id-type="pmid">18381398</pub-id></element-citation></ref><ref id="B8-jpm-03-00001"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Behrman</surname><given-names>R.E.</given-names></name><name><surname>Benner</surname><given-names>J.S.</given-names></name><name><surname>Brown</surname><given-names>J.S.</given-names></name><name><surname>McClellan</surname><given-names>M.</given-names></name><name><surname>Woodcock</surname><given-names>J.</given-names></name><name><surname>Platt</surname><given-names>R.</given-names></name></person-group>
+<article-title>Developing the Sentinel System&#x02014;A national resource for evidence development</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2011</year>
+<volume>364</volume>
+<fpage>498</fpage>
+<lpage>499</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMp1014427</pub-id>
+<pub-id pub-id-type="pmid">21226658</pub-id></element-citation></ref><ref id="B9-jpm-03-00001"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balas</surname><given-names>E.</given-names></name><name><surname>Boren</surname><given-names>S.</given-names></name></person-group>
+<article-title>Managing clinical knowledge for health care improvement</article-title>
+<source>Yearb. Med. Inform.</source>
+<year>2000</year>
+<volume>9</volume>
+<fpage>65</fpage>
+<lpage>70</lpage>
+</element-citation></ref><ref id="B10-jpm-03-00001"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blumenthal</surname><given-names>D.</given-names></name></person-group>
+<article-title>Stimulating the adoption of health information technology</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2009</year>
+<volume>360</volume>
+<fpage>1744</fpage>
+<lpage>1479</lpage>
+</element-citation></ref><ref id="B11-jpm-03-00001"><label>11.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Institute of Medicine</collab></person-group>
+<source>Value in Health Care: Accounting for Cost, Quality, Safety, Outcomes, and Innovation: Workshop Summary</source>
+<publisher-name>The National Academies Press</publisher-name>
+<publisher-loc>Washington, D.C., USA</publisher-loc>
+<year>2010</year>
+</element-citation></ref><ref id="B12-jpm-03-00001"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ogino</surname><given-names>S.</given-names></name><name><surname>Fuchs</surname><given-names>C.S.</given-names></name><name><surname>Giovannucci</surname><given-names>E.</given-names></name></person-group>
+<article-title>How many molecular subtypes? Implications of the unique tumor principle in personalized medicine</article-title>
+<source>Expert Rev. Mol. Diagn.</source>
+<year>2012</year>
+<volume>12</volume>
+<fpage>621</fpage>
+<lpage>628</lpage>
+<pub-id pub-id-type="doi">10.1586/erm.12.46</pub-id>
+<pub-id pub-id-type="pmid">22845482</pub-id></element-citation></ref><ref id="B13-jpm-03-00001"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liao</surname><given-names>X.</given-names></name><name><surname>Lochhead</surname><given-names>P.</given-names></name><name><surname>Nishihara</surname><given-names>R.</given-names></name><name><surname>Morikawa</surname><given-names>T.</given-names></name><name><surname>Kuchiba</surname><given-names>A.</given-names></name><name><surname>Yamauchi</surname><given-names>M.</given-names></name><name><surname>Imamura</surname><given-names>Y.</given-names></name><name><surname>Qian</surname><given-names>Z.R.</given-names></name><name><surname>Baba</surname><given-names>Y.</given-names></name><name><surname>Shima</surname><given-names>K.</given-names></name><etal/></person-group>
+<article-title>Aspirin use, tumor PIK3CA mutation, and colorectal-cancer survival</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2012</year>
+<volume>367</volume>
+<fpage>1596</fpage>
+<lpage>1606</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMoa1207756</pub-id>
+<pub-id pub-id-type="pmid">23094721</pub-id></element-citation></ref><ref id="B14-jpm-03-00001"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Febbo</surname><given-names>P.G.</given-names></name><name><surname>Ladanyi</surname><given-names>M.</given-names></name><name><surname>Aldape</surname><given-names>K.D.</given-names></name><name><surname>De Marzo</surname><given-names>A.M.</given-names></name><name><surname>Hammond</surname><given-names>M.E.</given-names></name><name><surname>Hayes</surname><given-names>D.F.</given-names></name><name><surname>Iafrate</surname><given-names>A.J.</given-names></name><name><surname>Kelley</surname><given-names>R.K.</given-names></name><name><surname>Marcucci</surname><given-names>G.</given-names></name><name><surname>Ogino</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>NCCN Task Force report: Evaluating the clinical utility of tumor markers in oncology</article-title>
+<source>J. Natl. Compr. Canc. Netw.</source>
+<year>2011</year>
+<volume>9</volume>
+<fpage>S1</fpage>
+<lpage>S32</lpage>
+</element-citation></ref><ref id="B15-jpm-03-00001"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Roock</surname><given-names>W.</given-names></name><name><surname>De Vriendt</surname><given-names>V.</given-names></name><name><surname>Normanno</surname><given-names>N.</given-names></name><name><surname>Ciardiello</surname><given-names>F.</given-names></name><name><surname>Tejpar</surname><given-names>S.</given-names></name></person-group>
+<article-title>KRAS, BRAF, PIK3CA, and PTEN mutations: Implications for targeted therapies in metastatic colorectal cancer</article-title>
+<source>Lancet Oncol.</source>
+<year>2011</year>
+<volume>12</volume>
+<fpage>594</fpage>
+<lpage>603</lpage>
+<pub-id pub-id-type="pmid">21163703</pub-id></element-citation></ref><ref id="B16-jpm-03-00001"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basch</surname><given-names>E.</given-names></name><name><surname>Jia</surname><given-names>X.</given-names></name><name><surname>Heller</surname><given-names>G.</given-names></name><name><surname>Barz</surname><given-names>A.</given-names></name><name><surname>Sit</surname><given-names>L.</given-names></name><name><surname>Fruscione</surname><given-names>M.</given-names></name><name><surname>Appawu</surname><given-names>M.</given-names></name><name><surname>Iasonos</surname><given-names>A.</given-names></name><name><surname>Atkinson</surname><given-names>T.</given-names></name><name><surname>Goldfarb</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Adverse symptom event reporting by patients <italic>vs.</italic> clinicians: Relationships with clinical outcomes</article-title>
+<source>J. Natl. Cancer Inst.</source>
+<year>2009</year>
+<volume>101</volume>
+<fpage>1624</fpage>
+<lpage>1632</lpage>
+<pub-id pub-id-type="doi">10.1093/jnci/djp386</pub-id>
+<pub-id pub-id-type="pmid">19920223</pub-id></element-citation></ref><ref id="B17-jpm-03-00001"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cleeland</surname><given-names>C.S.</given-names></name><name><surname>Sloan</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Assessing the Symptoms of Cancer Using Patient-Reported Outcomes (ASCPRO): Searching for standards</article-title>
+<source>J. Pain Symptom Manage.</source>
+<year>2010</year>
+<volume>39</volume>
+<fpage>1077</fpage>
+<lpage>1085</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpainsymman.2009.05.025</pub-id>
+<pub-id pub-id-type="pmid">20538189</pub-id></element-citation></ref><ref id="B18-jpm-03-00001"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pakhomov</surname><given-names>S.V.</given-names></name><name><surname>Jacobsen</surname><given-names>S.J.</given-names></name><name><surname>Chute</surname><given-names>C.G.</given-names></name><name><surname>Roger</surname><given-names>V.L.</given-names></name></person-group>
+<article-title>Agreement between patient-reported symptoms and their documentation in the medical record</article-title>
+<source>Am. J. Manag. Care</source>
+<year>2008</year>
+<volume>14</volume>
+<fpage>530</fpage>
+<lpage>539</lpage>
+<pub-id pub-id-type="pmid">18690769</pub-id></element-citation></ref><ref id="B19-jpm-03-00001"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abernethy</surname><given-names>A.P.</given-names></name><name><surname>Ahmad</surname><given-names>A.</given-names></name><name><surname>Zafar</surname><given-names>S.Y.</given-names></name><name><surname>Wheeler</surname><given-names>J.L.</given-names></name><name><surname>Reese</surname><given-names>J.B.</given-names></name><name><surname>Lyerly</surname><given-names>H.K.</given-names></name></person-group>
+<article-title>Electronic patient-reported data capture as a foundation of rapid learning cancer care</article-title>
+<source>Med. Care</source>
+<year>2010</year>
+<volume>48</volume>
+<fpage>S32</fpage>
+<lpage>S38</lpage>
+<pub-id pub-id-type="doi">10.1097/MLR.0b013e3181db53a4</pub-id>
+<pub-id pub-id-type="pmid">20473201</pub-id></element-citation></ref><ref id="B20-jpm-03-00001"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abernethy</surname><given-names>A.P.</given-names></name><name><surname>Herndon</surname><given-names>J.E.</given-names><suffix>2nd.</suffix></name><name><surname>Wheeler</surname><given-names>J.L.</given-names></name><name><surname>Day</surname><given-names>J.M.</given-names></name><name><surname>Hood</surname><given-names>L.</given-names></name><name><surname>Patwardhan</surname><given-names>M.</given-names></name><name><surname>Shaw</surname><given-names>H.</given-names></name><name><surname>Lyerly</surname><given-names>H.K.</given-names></name></person-group>
+<article-title>Feasibility and acceptability to patients of a longitudinal system for evaluating cancer-related symptoms and quality of life: Pilot study of an e/Tablet data-collection system in academic oncology</article-title>
+<source>J. Pain Symptom Manage.</source>
+<year>2009</year>
+<volume>37</volume>
+<fpage>1027</fpage>
+<lpage>1038</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpainsymman.2008.07.011</pub-id>
+<pub-id pub-id-type="pmid">19394793</pub-id></element-citation></ref><ref id="B21-jpm-03-00001"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abernethy</surname><given-names>A.P.</given-names></name><name><surname>Herndon</surname><given-names>J.</given-names><suffix>2nd.</suffix></name><name><surname>Wheeler</surname><given-names>J.L.</given-names></name><name><surname>Patwardhan</surname><given-names>M.</given-names></name><name><surname>Shaw</surname><given-names>H.S.</given-names></name><name><surname>Lyerly</surname><given-names>H.K.</given-names></name><name><surname>Weinfurt</surname><given-names>K.</given-names></name></person-group>
+<article-title>Improving health care efficiency and quality using tablet personal computers to collect research-quality, patient-reported data</article-title>
+<source>Health Serv. Res.</source>
+<year>2008</year>
+<volume>43</volume>
+<fpage>1975</fpage>
+<lpage>1991</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1475-6773.2008.00887.x</pub-id>
+<pub-id pub-id-type="pmid">18761678</pub-id></element-citation></ref><ref id="B22-jpm-03-00001"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suh</surname><given-names>S.Y.</given-names></name><name><surname>Leblanc</surname><given-names>T.W.</given-names></name><name><surname>Shelby</surname><given-names>R.A.</given-names></name><name><surname>Samsa</surname><given-names>G.P.</given-names></name><name><surname>Abernethy</surname><given-names>A.P.</given-names></name></person-group>
+<article-title>Longitudinal patient-reported performance status assessment in the cancer clinic is feasible and prognostic</article-title>
+<source>J. Oncol. Pract.</source>
+<year>2011</year>
+<volume>7</volume>
+<fpage>374</fpage>
+<lpage>381</lpage>
+<pub-id pub-id-type="doi">10.1200/JOP.2011.000434</pub-id>
+<pub-id pub-id-type="pmid">22379420</pub-id></element-citation></ref><ref id="B23-jpm-03-00001"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abernethy</surname><given-names>A.P.</given-names></name><name><surname>Zafar</surname><given-names>S.Y.</given-names></name><name><surname>Uronis</surname><given-names>H.</given-names></name><name><surname>Wheeler</surname><given-names>J.L.</given-names></name><name><surname>Coan</surname><given-names>A.</given-names></name><name><surname>Rowe</surname><given-names>K.</given-names></name><name><surname>Shelby</surname><given-names>R.A.</given-names></name><name><surname>Fowler</surname><given-names>R.</given-names></name><name><surname>Herndon</surname><given-names>J.E.</given-names><suffix>2nd.</suffix></name></person-group>
+<article-title>Validation of the Patient Care Monitor (Version 2.0): A review of system assessment instrument for cancer patients</article-title>
+<source>J. Pain Symptom Manage.</source>
+<year>2010</year>
+<volume>40</volume>
+<fpage>545</fpage>
+<lpage>558</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpainsymman.2010.01.017</pub-id>
+<pub-id pub-id-type="pmid">20579839</pub-id></element-citation></ref><ref id="B24-jpm-03-00001"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abernethy</surname><given-names>A.P.</given-names></name><name><surname>Herndon</surname><given-names>J.E.</given-names><suffix>2nd.</suffix></name><name><surname>Coan</surname><given-names>A.</given-names></name><name><surname>Staley</surname><given-names>T.</given-names></name><name><surname>Wheeler</surname><given-names>J.L.</given-names></name><name><surname>Rowe</surname><given-names>K.</given-names></name><name><surname>Smith</surname><given-names>S.K.</given-names></name><name><surname>Shaw</surname><given-names>H.</given-names></name><name><surname>Lyerly</surname><given-names>H.K.</given-names></name></person-group>
+<article-title>Phase 2 pilot study of Pathfinders: A psychosocial intervention for cancer patients</article-title>
+<source>Support. Care Cancer</source>
+<year>2010</year>
+<volume>18</volume>
+<fpage>893</fpage>
+<lpage>898</lpage>
+<pub-id pub-id-type="pmid">20143102</pub-id></element-citation></ref><ref id="B25-jpm-03-00001"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dupont</surname><given-names>A.</given-names></name><name><surname>Wheeler</surname><given-names>J.</given-names></name><name><surname>Herndon</surname><given-names>J.E.</given-names><suffix>2nd.</suffix></name><name><surname>Coan</surname><given-names>A.</given-names></name><name><surname>Zafar</surname><given-names>S.Y.</given-names></name><name><surname>Hood</surname><given-names>L.</given-names></name><name><surname>Patwardhan</surname><given-names>M.</given-names></name><name><surname>Shaw</surname><given-names>H.S.</given-names></name><name><surname>Lyerly</surname><given-names>H.K.</given-names></name><name><surname>Abernethy</surname><given-names>A.P.</given-names></name></person-group>
+<article-title>Use of tablet personal computers for sensitive patient-reported information</article-title>
+<source>J. Support. Oncol.</source>
+<year>2009</year>
+<volume>7</volume>
+<fpage>91</fpage>
+<lpage>97</lpage>
+<pub-id pub-id-type="pmid">19507456</pub-id></element-citation></ref><ref id="B26-jpm-03-00001"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reese</surname><given-names>J.B.</given-names></name><name><surname>Keefe</surname><given-names>F.J.</given-names></name><name><surname>Somers</surname><given-names>T.J.</given-names></name><name><surname>Abernethy</surname><given-names>A.P.</given-names></name></person-group>
+<article-title>Coping with sexual concerns after cancer: The use of flexible coping</article-title>
+<source>Support. Care Cancer</source>
+<year>2010</year>
+<volume>18</volume>
+<fpage>785</fpage>
+<lpage>800</lpage>
+<pub-id pub-id-type="doi">10.1007/s00520-010-0819-8</pub-id>
+<pub-id pub-id-type="pmid">20165890</pub-id></element-citation></ref><ref id="B27-jpm-03-00001"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reese</surname><given-names>J.B.</given-names></name><name><surname>Shelby</surname><given-names>R.A.</given-names></name><name><surname>Keefe</surname><given-names>F.J.</given-names></name><name><surname>Porter</surname><given-names>L.S.</given-names></name><name><surname>Abernethy</surname><given-names>A.P.</given-names></name></person-group>
+<article-title>Sexual concerns in cancer patients: A comparison of GI and breast cancer patients</article-title>
+<source>Support. Care Cancer</source>
+<year>2010</year>
+<volume>18</volume>
+<fpage>1179</fpage>
+<lpage>1189</lpage>
+<pub-id pub-id-type="doi">10.1007/s00520-009-0738-8</pub-id>
+<pub-id pub-id-type="pmid">19777269</pub-id></element-citation></ref><ref id="B28-jpm-03-00001"><label>28.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Gliklich</surname><given-names>R.E.</given-names></name><name><surname>Dreyer</surname><given-names>N.A.E.</given-names></name></person-group>
+<source>Registries for Evaluating Patient Outcomes: A User&#x02019;s Guide, 2nd ed., (Prepared by Outcome DEcIDE Center [Outcome Sciences, Inc. d/b/a Outcome] under Contract No. HHSA29020050035I TO3.)</source>
+<publisher-name>Agency for Healthcare Research and Quality</publisher-name>
+<publisher-loc>Rockville, MD, USA</publisher-loc>
+<month>9</month>
+<year>2010</year>
+</element-citation></ref><ref id="B29-jpm-03-00001"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maro</surname><given-names>J.C.</given-names></name><name><surname>Platt</surname><given-names>R.</given-names></name><name><surname>Holmes</surname><given-names>J.H.</given-names></name><name><surname>Strom</surname><given-names>B.L.</given-names></name><name><surname>Hennessy</surname><given-names>S.</given-names></name><name><surname>Lazarus</surname><given-names>R.S.</given-names></name><name><surname>Brown</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Design of a national distributed health data network</article-title>
+<source>Ann. Intern. Med.</source>
+<year>2009</year>
+<volume>151</volume>
+<fpage>341</fpage>
+<lpage>344</lpage>
+<pub-id pub-id-type="pmid">19638403</pub-id></element-citation></ref><ref id="B30-jpm-03-00001"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Horvath</surname><given-names>M.M.</given-names></name><name><surname>Winfield</surname><given-names>S.</given-names></name><name><surname>Evans</surname><given-names>S.</given-names></name><name><surname>Slopek</surname><given-names>S.</given-names></name><name><surname>Shang</surname><given-names>H.</given-names></name><name><surname>Ferranti</surname><given-names>J.</given-names></name></person-group>
+<article-title>The DEDUCE Guided Query tool: Providing simplified access to clinical data for research and quality improvement</article-title>
+<source>J. Biomed. Inform.</source>
+<year>2011</year>
+<volume>44</volume>
+<fpage>266</fpage>
+<lpage>279</lpage>
+<pub-id pub-id-type="pmid">21130181</pub-id></element-citation></ref><ref id="B31-jpm-03-00001"><label>31.</label><element-citation publication-type="webpage">
+<article-title>Kanter Health Learning Health System Summit</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="http://kanterhealth.org/featured/2012-summit/">http://kanterhealth.org/featured/2012-summit/</ext-link></comment><date-in-citation>(accessed on 12 August 2012)</date-in-citation>
+</element-citation></ref><ref id="B32-jpm-03-00001"><label>32.</label><element-citation publication-type="webpage">
+<article-title>Institute of Medicine Digital Learning Collaborative: Advancing the Digital Infrastructure for the Learning Health System</article-title>
+<comment>Available online:<ext-link ext-link-type="uri" xlink:href="http://www.iom.edu/Activities/Quality/VSRT/~/media/Files/ActivityFiles/Quality/VSRT/CoreDocuments/DigitalLearningCollaborative.pdf">http://www.iom.edu/Activities/Quality/VSRT/~/ media/Files/Activity Files/Quality/VSRT/Core Documents/Digital Learning Collaborative.pdf</ext-link></comment><date-in-citation>(accessed on 12 August 2012)</date-in-citation>
+</element-citation></ref><ref id="B33-jpm-03-00001"><label>33.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Institute of Medicine</collab></person-group>
+<source>Achieving Data Liquidity in the Cancer Community: Proposal for a coAlition of Stakeholders</source>
+<publisher-name>The National Academies Press</publisher-name>
+<publisher-loc>Washington, D.C., USA</publisher-loc>
+<year>2012</year>
+</element-citation></ref><ref id="B34-jpm-03-00001"><label>34.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Institute of Medicine</collab></person-group>
+<source>Informatics Needs and Challenges in Cancer Research: Workshop Summary</source>
+<publisher-name>The National Academies Press</publisher-name>
+<publisher-loc>Washington, D.C., USA</publisher-loc>
+<year>2012</year>
+</element-citation></ref><ref id="B35-jpm-03-00001"><label>35.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Institute of Medicine</collab></person-group>
+<source>The Learning Healthcare System: Workshop Summary (IOM Roundtable on Evidence-Based Medicine)</source>
+<publisher-name>The National Academies Press</publisher-name>
+<publisher-loc>Washington, D.C., USA</publisher-loc>
+<year>2007</year>
+</element-citation></ref><ref id="B36-jpm-03-00001"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hales</surname><given-names>B.M.</given-names></name><name><surname>Pronovost</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>The checklist&#x02014;A tool for error management and performance improvement</article-title>
+<source>J. Crit. Care</source>
+<year>2006</year>
+<volume>21</volume>
+<fpage>231</fpage>
+<lpage>235</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jcrc.2006.06.002</pub-id>
+<pub-id pub-id-type="pmid">16990087</pub-id></element-citation></ref><ref id="B37-jpm-03-00001"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pronovost</surname><given-names>P.J.</given-names></name><name><surname>Needham</surname><given-names>D.</given-names></name><name><surname>Berenholtz</surname><given-names>S.</given-names></name><name><surname>Sinopoli</surname><given-names>D.</given-names></name><name><surname>Chu</surname><given-names>H.</given-names></name><name><surname>Cosgrove</surname><given-names>S.</given-names></name><name><surname>Sexton</surname><given-names>B.</given-names></name><name><surname>Hyzy</surname><given-names>R.</given-names></name><name><surname>Welsh</surname><given-names>R.</given-names></name><name><surname>Roth</surname><given-names>G.</given-names></name><etal/></person-group>
+<article-title>An intervention to decrease catheter-related bloodstream infections in the ICU</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2006</year>
+<volume>355</volume>
+<fpage>2725</fpage>
+<lpage>2732</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMoa061115</pub-id>
+<pub-id pub-id-type="pmid">17192537</pub-id></element-citation></ref><ref id="B38-jpm-03-00001"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sawyer</surname><given-names>M.</given-names></name><name><surname>Weeks</surname><given-names>K.</given-names></name><name><surname>Goeschel</surname><given-names>C.A.</given-names></name><name><surname>Thompson</surname><given-names>D.A.</given-names></name><name><surname>Berenholtz</surname><given-names>S.M.</given-names></name><name><surname>Marsteller</surname><given-names>J.A.</given-names></name><name><surname>Lubomski</surname><given-names>L.H.</given-names></name><name><surname>Cosgrove</surname><given-names>S.E.</given-names></name><name><surname>Winters</surname><given-names>B.D.</given-names></name><name><surname>Murphy</surname><given-names>D.J.</given-names></name><etal/></person-group>
+<article-title>Using evidence, rigorous measurement, and collaboration to eliminate central catheter-associated bloodstream infections</article-title>
+<source>Crit. Care Med.</source>
+<year>2010</year>
+<volume>38</volume>
+<fpage>S292</fpage>
+<lpage>S298</lpage>
+<pub-id pub-id-type="pmid">20647786</pub-id></element-citation></ref><ref id="B39-jpm-03-00001"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dreyer</surname><given-names>N.A.</given-names></name><name><surname>Tunis</surname><given-names>S.R.</given-names></name><name><surname>Berger</surname><given-names>M.J.</given-names></name><name><surname>Ollendorf</surname><given-names>D.</given-names></name><name><surname>Mattox</surname><given-names>P.</given-names></name><name><surname>Gliklich</surname><given-names>R.</given-names></name></person-group>
+<article-title>Why observational studies should be among the tools used in comparative effectiveness research</article-title>
+<source>Health Aff.</source>
+<year>2010</year>
+<volume>29</volume>
+<fpage>1818</fpage>
+<lpage>1825</lpage>
+<pub-id pub-id-type="doi">10.1377/hlthaff.2010.0666</pub-id>
+</element-citation></ref><ref id="B40-jpm-03-00001"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawamoto</surname><given-names>K.</given-names></name><name><surname>Houlihan</surname><given-names>C.A.</given-names></name><name><surname>Balas</surname><given-names>E.A.</given-names></name><name><surname>Lobach</surname><given-names>D.F.</given-names></name></person-group>
+<article-title>Improving clinical practice using clinical decision support systems: A systematic review of trials to identify features critical to success</article-title>
+<source>BMJ</source>
+<year>2005</year>
+<pub-id pub-id-type="doi">10.1136/bmj.38398.500764.8F</pub-id>
+</element-citation></ref><ref id="B41-jpm-03-00001"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wolfstadt</surname><given-names>J.I.</given-names></name><name><surname>Gurwitz</surname><given-names>J.H.</given-names></name><name><surname>Field</surname><given-names>T.S.</given-names></name><name><surname>Lee</surname><given-names>M.A.</given-names></name><name><surname>Kalkar</surname><given-names>S.</given-names></name><name><surname>Wu</surname><given-names>W.</given-names></name><name><surname>Rochon</surname><given-names>P.A.</given-names></name></person-group>
+<article-title>The effect of computerized physician order entry with clinical decision support on the rates of adverse drug events: A systematic review</article-title>
+<source>J. Gen. Intern. Med.</source>
+<year>2008</year>
+<volume>23</volume>
+<fpage>451</fpage>
+<lpage>458</lpage>
+<pub-id pub-id-type="doi">10.1007/s11606-008-0504-5</pub-id>
+<pub-id pub-id-type="pmid">18373144</pub-id></element-citation></ref><ref id="B42-jpm-03-00001"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abernethy</surname><given-names>A.P.</given-names></name><name><surname>Currow</surname><given-names>D.</given-names></name></person-group>
+<article-title>Time-Limited Trials (letter to editor)</article-title>
+<source>JAMA</source>
+<year>2012</year>
+<volume>307</volume>
+<fpage>33</fpage>
+<lpage>34</lpage>
+<pub-id pub-id-type="pmid">22215158</pub-id></element-citation></ref><ref id="B43-jpm-03-00001"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quill</surname><given-names>T.E.</given-names></name><name><surname>Holloway</surname><given-names>R.</given-names></name></person-group>
+<article-title>Time-limited trials near the end of life</article-title>
+<source>JAMA</source>
+<year>2012</year>
+<volume>306</volume>
+<fpage>1483</fpage>
+<lpage>1484</lpage>
+<pub-id pub-id-type="pmid">21972312</pub-id></element-citation></ref><ref id="B44-jpm-03-00001"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Poissant</surname><given-names>L.</given-names></name><name><surname>Pereira</surname><given-names>J.</given-names></name><name><surname>Tamblyn</surname><given-names>R.</given-names></name><name><surname>Kawasumi</surname><given-names>Y.</given-names></name></person-group>
+<article-title>The impact of electronic health records on time efficiency of physicians and nurses: A systematic review</article-title>
+<source>J. Am. Med. Inform. Assoc.</source>
+<year>2005</year>
+<volume>12</volume>
+<fpage>505</fpage>
+<lpage>516</lpage>
+<pub-id pub-id-type="doi">10.1197/jamia.M1700</pub-id>
+<pub-id pub-id-type="pmid">15905487</pub-id></element-citation></ref><ref id="B45-jpm-03-00001"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cleghorn</surname><given-names>G.D.</given-names></name><name><surname>Headrick</surname><given-names>L.A.</given-names></name></person-group>
+<article-title>The PDSA cycle at the core of learning in health professions education</article-title>
+<source>Jt. Comm. J. Qual. Improv.</source>
+<year>1996</year>
+<volume>22</volume>
+<fpage>206</fpage>
+<lpage>212</lpage>
+<pub-id pub-id-type="pmid">8664953</pub-id></element-citation></ref><ref id="B46-jpm-03-00001"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Friedman</surname><given-names>C.P.</given-names></name><name><surname>Wong</surname><given-names>A.K.</given-names></name><name><surname>Blumenthal</surname><given-names>D.</given-names></name></person-group>
+<article-title>Achieving a nationwide learning health system</article-title>
+<source>Sci. Transl. Med.</source>
+<year>2010</year>
+<volume>2</volume>
+<pub-id pub-id-type="doi">10.1126/scitranslmed.3001456</pub-id>
+</element-citation></ref><ref id="B47-jpm-03-00001"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miriovsky</surname><given-names>B.J.</given-names></name><name><surname>Shulman</surname><given-names>L.L.</given-names></name><name><surname>Abernethy</surname><given-names>A.P.</given-names></name></person-group>
+<article-title>Importance of Health Information Technology, Electronic Health Records, and Continuously Aggregating Data to Comparative Effectiveness Research and Learning Health Care</article-title>
+<source>J. Clin. Oncol.</source>
+<year>2012</year>
+<volume>30</volume>
+<fpage>4243</fpage>
+<lpage>4248</lpage>
+<pub-id pub-id-type="doi">10.1200/JCO.2012.42.8011</pub-id>
+<pub-id pub-id-type="pmid">23071233</pub-id></element-citation></ref><ref id="B48-jpm-03-00001"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abernethy</surname><given-names>A.P.</given-names></name><name><surname>Etheredge</surname><given-names>L.M.</given-names></name><name><surname>Ganz</surname><given-names>P.A.</given-names></name><name><surname>Wallace</surname><given-names>P.</given-names></name><name><surname>German</surname><given-names>R.R.</given-names></name><name><surname>Neti</surname><given-names>C.</given-names></name><name><surname>Bach</surname><given-names>P.B.</given-names></name><name><surname>Murphy</surname><given-names>S.B.</given-names></name></person-group>
+<article-title>Rapid-learning system for cancer care</article-title>
+<source>J. Clin. Oncol.</source>
+<year>2010</year>
+<volume>28</volume>
+<fpage>4268</fpage>
+<lpage>4274</lpage>
+<pub-id pub-id-type="pmid">20585094</pub-id></element-citation></ref><ref id="B49-jpm-03-00001"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greene</surname><given-names>S.M.</given-names></name><name><surname>Reid</surname><given-names>R.J.</given-names></name><name><surname>Larson</surname><given-names>E.B.</given-names></name></person-group>
+<article-title>Implementing the learning health system: From concept to action</article-title>
+<source>Ann. Intern. Med.</source>
+<year>2012</year>
+<volume>157</volume>
+<fpage>207</fpage>
+<lpage>210</lpage>
+<pub-id pub-id-type="pmid">22868839</pub-id></element-citation></ref></ref-list></back></article>

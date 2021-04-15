@@ -1,0 +1,658 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Aging (Albany NY)</journal-id><journal-id journal-id-type="publisher-id">ImpactJ</journal-id><journal-title-group><journal-title>Aging</journal-title></journal-title-group><issn pub-type="epub">1945-4589</issn><publisher><publisher-name>Impact Journals LLC</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">20157552</article-id><article-id pub-id-type="pmc">2806046</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Human insulin/IGF-1 and familial longevity at middle age</article-title><alt-title alt-title-type="running-head">Insulin/IGF-1 and familial longevity</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Rozing</surname><given-names>Maarten P.</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Westendorp</surname><given-names>Rudi G.J.</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref><xref ref-type="aff" rid="A2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>Fr&#x000f6;lich</surname><given-names>Marijke</given-names></name><xref ref-type="aff" rid="A3"><sup>3</sup></xref></contrib><contrib contrib-type="author"><name><surname>de Craen</surname><given-names>Anton J.M.</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Beekman</surname><given-names>Marian</given-names></name><xref ref-type="aff" rid="A4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Heijmans</surname><given-names>Bastiaan T.</given-names></name><xref ref-type="aff" rid="A4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>Mooijaart</surname><given-names>Simon P.</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Blauw</surname><given-names>Gerard-Jan</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Slagboom</surname><given-names>P. Eline</given-names></name><xref ref-type="aff" rid="A4"><sup>4</sup></xref></contrib><contrib contrib-type="author"><name><surname>van Heemst</surname><given-names>Diana</given-names></name><xref ref-type="aff" rid="A1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Group</surname><given-names>on behalf of the Leiden Longevity Study (LLS)</given-names></name></contrib></contrib-group><aff id="A1"><sup>1</sup> Department of Gerontology and Geriatrics, Leiden University Medical Center, 2300 RC, Leiden, the Netherlands
+            </aff><aff id="A2"><sup>2</sup> Netherlands Consortium for Healthy Ageing (NCHA) 
+            </aff><aff id="A3"><sup>3</sup> Department of Clinical Chemistry, Leiden University Medical Center, 2300 RC, Leiden, the Netherlands
+            </aff><aff id="A4"><sup>4</sup> Department of Molecular Epidemiology, Leiden University Medical Center, 2300 RC Leiden, The Netherlands
+            </aff><author-notes><corresp id="cor1"><bold>Correspondence: </bold>Diana van
+                        Heemst, PhD, Department of Gerontology and Geriatrics, Leiden University
+                        Medical Center, PO Box 9600, 2300 RC, Leiden, the Netherlands  <email>D.van_Heemst@lumc.nl</email></corresp></author-notes><pub-date pub-type="collection"><month>8</month><year>2009</year></pub-date><pub-date pub-type="epub"><day>24</day><month>7</month><year>2009</year></pub-date><volume>1</volume><issue>8</issue><fpage>714</fpage><lpage>722</lpage><history><date date-type="received"><day>20</day><month>5</month><year>2009</year></date><date date-type="accepted"><day>22</day><month>7</month><year>2009</year></date></history><permissions><copyright-statement>Copyright: &#x000a9;2009 Rozing et al.</copyright-statement><copyright-year>2009</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>
+                        Recently,
+                        we have shown that compared to controls, long-lived familial nonagenarians
+                        (mean age: 93.4 years) from the Leiden Longevity Study displayed a lower
+                        mortality rate, and their middle-aged offspring displayed a lower
+                        prevalence of cardio-metabolic diseases, including diabetes mellitus. The
+                        evolutionarily conserved insulin/IGF-1 signaling (IIS) pathway has been
+                        implicated in longevity in model organisms, but its relevance for human
+                        longevity has generated much controversy. Here, we show that compared to
+                        their partners, the offspring of familial nonagenarians displayed similar
+                        non-fasted serum levels of IGF-1, IGFBP3 and insulin but lower non-fasted
+                        serum levels of glucose, indicating that familial longevity is associated
+                        with differences in insulin sensitivity.
+                </p></abstract><kwd-group><kwd>familial longevity</kwd><kwd>height</kwd><kwd>glucose handling</kwd><kwd>IGF-1</kwd><kwd>IGFBP3</kwd></kwd-group></article-meta></front><body><sec id="s1" sec-type="intro"><title>Introduction</title><p>In Western societies, life expectancy has
+                        increased dramatically over the last century, but striking inter-individual
+                        differences in life expectancy remain [<xref ref-type="bibr" rid="R1">1</xref>]. Ample
+                        evidence has shown that healthy longevity is determined by a mix of genetic,
+                        environmental and chance elements. Because the odds of exceptional longevity
+                        runs in families, we designed the Leiden Longevity Study [<xref ref-type="bibr" rid="R2">2</xref>]. Recently,
+                        we have shown that the nonagenarian siblings included in the Leiden Longevity
+                        Study displayed a 41% lower risk of mortality compared to sporadic nonagenarians
+                        [<xref ref-type="bibr" rid="R3">3</xref>]. Moreover, compared
+                        to their partners, the offspring of nonagenarian
+                        siblings displayed a significantly lower prevalence of myocardial infarction,  hypertension and diabetes mellitus [<xref ref-type="bibr" rid="R3">3</xref>]. The
+                        differences in clinical phenotype observed after selection for familial
+                        longevity are in line with the lower prevalence of cardio-metabolic disease
+                        previously detected when offspring from sporadic centenarians were compared to
+                        offspring of parents who had died at average age [<xref ref-type="bibr" rid="R4">4</xref>] and when
+                        offspring from sporadic centenarians were compared to their partners [<xref ref-type="bibr" rid="R5">5</xref>]. Moreover,
+                        the observed lower mortality rate at high ages and better preservation of health
+                        at middle age indicates that resilience against disease and death may have
+                        similar underlying biological mechanisms that are influenced by genetic or
+                        familial factors.
+                    
+            </p><p>Of the genetically determined pathways that have been
+                        implicated in longevity in a variety of different model organisms,  the evolutionarily conserved insulin/IGF-1 signaling (IIS) pathway clearly stands out in current
+                        literature (reviewed in [<xref ref-type="bibr" rid="R6">6</xref>]). Mutations
+                        in IIS components were first found to affect reproduction, metabolism, stress
+                        response and life span in <italic>C. elegans</italic> (reviewed in [<xref ref-type="bibr" rid="R7">7</xref>]). The link
+                        between reduced IIS signaling and longevity was subsequently also observed in <italic>D.
+                                melanogaster</italic>. Mutants in the <italic>D</italic>. <italic>melanogaster</italic> insulin receptor<italic>InR </italic>[<xref ref-type="bibr" rid="R8">8</xref>] and
+                        in the insulin receptor substrate <italic>CHICO </italic>[<xref ref-type="bibr" rid="R9">9</xref>] are both
+                        long-lived. Strikingly however, in both cases the long-lived phenotype was only
+                        observed for females. In addition to being long-lived, these <italic>D. melanogaster</italic>
+                        females are small, obese and infertile. In mice, selective disruption of the
+                        insulin receptor in the adipose tissue leads to a reduction in fat mass and
+                        extended longevity [<xref ref-type="bibr" rid="R10">10</xref>]. Increases
+                        in lifespan were also reported in mice with deletion of insulin receptor
+                        substrate 1 (IRS1) in whole body [<xref ref-type="bibr" rid="R11">11</xref>] or IRS2
+                        only in the brain [<xref ref-type="bibr" rid="R12">12</xref>]. Moreover,
+                        dwarf mice exhibiting GH deficiency
+                            or resistance, including <italic>Prop1<sup>df/d</sup></italic>[<xref ref-type="bibr" rid="R13">13</xref>], <italic>Pit1<sup>dw/dw</sup></italic>[<xref ref-type="bibr" rid="R14">14</xref>], <italic>GHRHR<sup>lit/lit</sup></italic>[<xref ref-type="bibr" rid="R14">14</xref>] and <italic>GHR<sup>-/-</sup></italic>[<xref ref-type="bibr" rid="R15">15</xref>] all display
+                        hypoinsulinemia and enhanced insulin sensitivity along with extended longevity.
+                        In mice heterozygous for <italic>igf1r </italic>deletion (<italic>Igf1r<sup>+/-</sup></italic>[<xref ref-type="bibr" rid="R16">16</xref>]) or
+                        containing a hypomorphic <italic>igf1r</italic> mutation (Midi mice [<xref ref-type="bibr" rid="R11">11</xref>]), only
+                        females, but not males, exhibited the long-lived phenotype.
+                    
+            </p><p>Based on the similarities among the
+                        insulin/IGF-1 pathways in animals and humans, the possibility that
+                        modifications in the insulin/IGF-I signaling system could also extend lifespan
+                        in humans has been suggested. However, separating the roles of insulin and
+                        IGF-1 in mammals and their relevance for human healthy longevity has been
+                        difficult and generated much controversy. In humans, relatively low IGF-I
+                        levels have been associated with an increased risk of developing cardiovascular
+                        disease and diabetes, while relatively high IGF-I levels have been associated
+                        with an increased risk of developing cancer [<xref ref-type="bibr" rid="R17">17</xref>]. Moreover,
+                        in humans, an age-related decline in IGF-1 levels occurs [<xref ref-type="bibr" rid="R18">18</xref>], and at old
+                        age, low IGF-1 levels are associated with frailty [<xref ref-type="bibr" rid="R19">19</xref>], poor
+                        nutrition and cognitive decline [<xref ref-type="bibr" rid="R20">20</xref>] and an
+                        increased risk of death [<xref ref-type="bibr" rid="R21">21</xref>]. On the
+                        other hand, genetic variation in genes associated with down-regulation of the IIS
+                        pathway has been associated with human longevity in several instances,
+                        although, when moving up the evolutionary ladder, together with an increase in
+                        genome complexity, effect sizes became smaller [<xref ref-type="bibr" rid="R22">22</xref>]. Two
+                        studies have shown evidence for a role for genetic variation in the IIS pathway
+                        in body height as well as human longevity. First, earlier we found an association
+                        between genetic variation associated with
+                        reduced IIS pathway activity and shorter stature as well as improved old age
+                        survival in sporadic female octogenarians [<xref ref-type="bibr" rid="R23">23</xref>]. Second,
+                        offspring of sporadic female centenarians were shown to be smaller and display
+                        higher IGF-1 levels, indicative of IGF-1 insensitivity, while rare IGF-1R
+                        mutations associated with IGF-1 insensitivity were found enriched in
+                        centenarians [<xref ref-type="bibr" rid="R24">24</xref>]. Here, to
+                        investigate whether these results could be generalized to familial longevity,
+                        we have compared key anthropometric
+                        measures as well as serum parameters related to insulin/IGF-1 signaling in a
+                        group of middle-aged offspring of nonagenarian siblings and a control group of
+                        their partners of the Leiden Longevity Study.
+                    
+            </p></sec><sec id="s2" sec-type="results"><title>Results</title><sec id="s2_1"><title>Metabolic characteristics of offspring compared to
+                            partners
+                        </title><p>Table <xref ref-type="table" rid="T1">1</xref> depicts the demographic and metabolic
+                                characteristics of the groups from the Leiden Longevity Study that were used
+                                for the present study. The group of offspring proportionately contained less
+                                diabetics than the group of partners (p = 0.001). After exclusion of diabetics,
+                                the group of offspring had lower non-fasted serum levels of glucose (p = 0.002)
+                                than the group of partners.  In addition, the group of offspring had a slightly
+                                more favorable lipid profile as compared to the group of partners.
+                            
+                </p></sec><sec id="s2_2"><title>IGF-1/IGFBP3 and non-fasted glucose
+                        </title><p>Next we assessed whether the lower glucose levels
+                            observed among the group of offspring relative to thegroup of partners could be driven by
+                            differences in IGF-1 axis parameters.  Therefore we determined the association
+                            between serum IGF-1 / IGFBP3 molar ratios and non-fasted serum glucose levels.
+                            Higher ratios of IGF-1/ IGFBP3 were associated with lower serum glucose levels.
+                            One standard deviation increase in IGF-1/IGFBP3 ratio was associated with a
+                            decrease of 0.10 mmol/L serum glucose (SE: 0.05) among the group of partners (p
+                            = 0.05). The difference between partners and offspring in the change of glucose
+                            levels per standard deviation IGF-1/IGFBP3 ratio was not significant: 0.02 (SE:
+                            0.06) nmol/L per year (p for interaction&#x000a0;=&#x000a0;0.70).
+                        
+                </p></sec><sec id="s2_3"><title>Measures of the IGF-1 axis in offspring compared to
+                            partners
+                        </title><p>Table <xref ref-type="table" rid="T2">2</xref> shows the comparison between the groups of offspring
+                                and partners for various IGF-1 axis parameters for males and females
+                                separately. In order to detect the effect of possible genetic differences in
+                                IGF-1 signaling between offspring and partners, we also determined
+                                anthropometrical characteristics in subjects of both study groups
+                                (Table&#x000a0;2). With regard to serum IGF-1 axis parameters, no differences were
+                                observed between the group of offspring and the group of partners in both
+                                sexes. Likewise, the study groups showed no differences in terms of
+                                sex-specific body stature, i.e. height, weight and body mass index.
+                            
+                </p><p>Next, we determined whether the
+                            distribution of serum IGF-1 axis parameters and anthropometrical parameters were different between offspring and partners.  Figure <xref ref-type="fig" rid="F1">1</xref> displays the cumulative distributions of IGF-1, IGFBP3
+                            and height among partners and offspring for both sexes separately. No
+                            differences in height were observed between offspring and partners in the tails
+                            of the IGF-1 and IGFBP3 distribution curves. Taken together, the cumulative
+                            distribution curves do not suggest enrichment of high or low IGF-1 axis
+                            parameters nor large or short statures among the groups of offspring versus
+                            partners.
+                        
+                </p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Comparison of demographics and serum parameters between offspring and partners for males and females combined.</title><p>
+                                    *Age is presented as median with interquartile range. Serum parameters are presented as mean values with 95% confidence intervals.  Mean values, 95% confidence intervals and p-values were calculated using a linear regression model, adjusted for age and sex. LDL denotes low-density lipoprotein and HDL high-density lipoprotein.
+                                    **Data are presented as geometric means with 95% confidence intervals.
+                                    &#x02020; Mean values, standard error of the mean and p-value for Total cholesterol, LDL cholesterol, HDL cholesterol, , Triglycerides and Free Fatty Acids were adjusted for lipid lowering agents (fibrates, niacin, bile acid sequestrants, 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitors).
+                                
+                        </p></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                      Offspring
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      Partners
+                                                
+                                </td><td colspan="2" rowspan="1">
+                                                      p-value
+                                                
+                                </td></tr></thead><tbody><tr><td rowspan="1" colspan="1"><bold>Demographics</bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td colspan="2" rowspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         Participants - n
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1171
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      542
+                                                
+                                </td><td colspan="2" rowspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         Diabetics - n (%)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      46 (3.9)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      42 (7.7)
+                                                
+                                </td><td colspan="2" rowspan="1"><bold>0.001</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                         Females - n (%)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      633 (54.1)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      302 (55.7)
+                                                
+                                </td><td colspan="2" rowspan="1">
+                                                      0.57
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                         Age  (year)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      59.2 (55.0 - 64.1)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      58.8 (54.3 - 63.7)
+                                                
+                                </td><td colspan="2" rowspan="1">
+                                                      0.15
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td colspan="2" rowspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Serum
+                                                              parameters (non-diabetics)
+                                                        </bold></td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td colspan="2" rowspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         Participants - n
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1125
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      500
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         Glucose  (mmol/L)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      5.69 (5.62 - 5.76)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      5.87 (5.76 - 5.97)
+                                                
+                                </td><td rowspan="1" colspan="1"><bold>0.002</bold></td></tr><tr><td rowspan="1" colspan="1">
+                                                         Insulin  (mU/L )**
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      14.4 (13.6 - 15.4)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      15.4 (14.0 -16.8)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.21
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         Total cholesterol  (mmol/L)&#x02020;
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      5.56 (5.47 - 5.65)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      5.62 (5.52 - 5.72)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.40
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                         LDL cholesterol (mmol/L)&#x02020;
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      3.32 (3.24 - 3.39)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      3.37 (3.29 - 3.45)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.33
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                         HDL cholesterol  (mmol/L)&#x02020;
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.46 (1.42 - 1.49)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.43 (1.39 - 1.47)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.24
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                         Triglycerides (mmol/L) **,&#x02020;
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.50 (1.44 - 1.55)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      1.57 (1.50 - 1.65)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.09
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                         Free fatty acids (mmol/L) **,&#x02020;
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.27 (0.26 - 0.28)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.27 (0.26 - 0.29)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.38
+                                                
+                                </td></tr><tr><td colspan="5" rowspan="1"/></tr></tbody></table></table-wrap><fig id="F1" orientation="portrait" position="float"><label>Figure 1.</label><caption><title>Cumulative distribution curves of serum IGF-1 levels, serum IGFBP3 levels and height.</title><p>
+                                            Cumulative distribution curves of IGF-1 levels for offspring and partners
+                                            among females (<bold>A</bold>) and males (<bold>B</bold>); Cumulative distribution
+                                            curves of IGFBP3 levels for offspring and partners among females (<bold>C</bold>)
+                                            and males (<bold>D</bold>); Cumulative distribution curves of height for
+                                            offspring and partners among females (<bold>E</bold>) and males (<bold>F</bold>). Black
+                                            lines represent offspring, gray lines represent partners.
+                                    
+                        </p></caption><graphic xlink:href="aging-01-714-g001"/></fig><p>IGF-1 levels have been
+                            consistently reported to progressively decline with age. To determine whether
+                            this observation applied to the groups that were used in the present study, we
+                            assessed the association between serum IGF-1 levels and serum IGFBP3 levels
+                            with age. Figure <xref ref-type="fig" rid="F2">2</xref> displays the sex-specific serum IGF-1 and IGFBP3 levels for
+                            different age categories among offspring and partners.  Serum IGF-1 levels
+                            declined with age in both female partners
+                            (-0.14 (SE: 0.04) nmol peryear increase; p&#x0003c;0.001) and male partners (-0.16
+                            (SE: 0.05) nmol/L per year increase; p
+                            =0.001). The difference in annual change in serum IGF-1 levels between partners
+                            and offspring was not significant: 0.01 (SE: 0.05) nmol/L per year (p for
+                            interaction= 0.79) for females and 0.01 nmol/L (SE: 0.06) per year (p for
+                            interaction=0.83) for males. Similarly, no differences between partners and
+                            offspring were observed in terms of annual change in serum IGFBP3 levels: 0.01
+                            mg/L (SE: 0.01) (p for interaction = 0.47) for females and 0.02 mg/L (SE: 0.01)
+                            (p for interaction =0.10) for males.
+                        
+                </p><table-wrap id="T2" orientation="portrait" position="float"><label>Table 2.</label><caption><title>Comparison of anthropometrics and IGF-1 axis parameters between offspring and partners for females and males separately.</title><p>
+                                   Data are presented as means with 95% confidence intervals. All analyses were adjusted for age.
+                                   *Diabetic subjects were excluded from analyses.
+                               
+                        </p></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+                                                      Offspring*
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      Partners*
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      p-value
+                                                
+                                </td></tr></thead><tbody><tr><td rowspan="1" colspan="1"><bold>Females (n)</bold></td><td rowspan="1" colspan="1">
+                                                      610
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      286
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         IGF-1 axis serum parameters
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                           IGF-1  (nmol/L)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      17.1 (16.7 - 17.5)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      17.1 (16.5 - 17.7)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.99
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                           IFGBP3 (mg/L)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.44 (4.36 - 4.53)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.47 (4.36 - 4.57)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.72
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                           IGF-1/ IGFBP3 (molar ratio)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.11 (0.11 - 0.11))
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.11 (0.11 - 0.11)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.60
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         Anthropometrics
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                           Height (m)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      166.8 (166.2 - 167.3)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      166.9 (166.1 - 167.7)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.79
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                           Weight (kg)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      69.2 (68.2 - 70.3)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      70.2 (68.9 - 71.6)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.25
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                           Body Mass Index (kg/m<sup>2</sup>)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      24.9 (24.5 - 25.3)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      25.2 (24.8 - 25.7)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.25
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"><bold>Males (n)</bold></td><td rowspan="1" colspan="1">
+                                                      515
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      214
+                                                
+                                </td><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         IGF-1 axis serum parameters
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                           IGF-1  (nmol/L)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      17.5 (17.0 - 17.9)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      17.3 (16.6 - 18.0)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.75
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                           IGFBP3 (mg/L)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.22 (4.13 - 4.30)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      4.20    (4.08 - 4.32)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.85
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                           IGF-1/ IGFBP3 (molar ratio)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.12 (0.12 - 0.12)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.12 (0.12 - 0.12)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.82
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                         Anthropometrics
+                                                
+                                </td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+                                                           Height (m)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      178.7 (178.1 - 179. 4)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      179.1 (178.2 - 180.0)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.44
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                           Weight (kg)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      82.0 (80.9 - 83.0)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      82.4 (80.8 - 84.1)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.61
+                                                
+                                </td></tr><tr><td rowspan="1" colspan="1">
+                                                           Body Mass Index (kg/m<sup>2</sup>)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      25.6 (25.4 - 25.9)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      25.7 (25.2 - 26.1)
+                                                
+                                </td><td rowspan="1" colspan="1">
+                                                      0.96
+                                                
+                                </td></tr></tbody></table></table-wrap></sec></sec><sec id="s3" sec-type="discussion"><title>Discussion</title><p>The main findings of this study are
+                        twofold. First, consistent with the lower prevalence of diabetes observed
+                        earlier, non-fasted serum glucose levels were lower in the offspring of
+                        familial nonagenarians when compared to their partners. Second, we did not
+                        observe differences in non-fasted serum levels of IGF-1, IGFBP3 or in height
+                        between the groups of offspring and partners, nor in the rate of the decline of
+                        levels of IGF-1 or IGFBP3 over chronological age. Taken together,  these data indicate that familial longevity is associated with differences in glucose handling, which
+                        are not explained by major differences in IGF-1 and/or IGFBP3 levels.
+                    
+            </p><p>The link between reduced IIS activity and longevity is
+                        evolutionarily conserved from worms to rodents, with effects on longevity often
+                        being stronger in the female sex. However, separating the roles of insulin and
+                        IGF-1 in mammals has been very difficult and generated much controversy.
+                        Because the actions of GH, insulin and IGF-1 are largely interwoven, genetic
+                        modification of the GH/IGF-1 axis in mammals also entails differences in the
+                        regulation of glucose metabolism. Interestingly, the hallmark phenotype of all
+                        long-lived mouse models containing mutations that induce GH/IGF-1 deficiency or
+                        resistance, is their enhanced insulin sensitivity [<xref ref-type="bibr" rid="R6">6</xref>]. Previously,
+                        we observed a lower prevalence of diabetes in the offspring group [<xref ref-type="bibr" rid="R3">3</xref>]. Here, we
+                        show that after exclusion of all diabetics, lower non-fasted glucose levels
+                        were observed in the group of offspring of familial nonagenarians as compared
+                        to the partners. The lower non-fasted glucose levels in offspring compared to
+                        partners are suggestive of a better glucose handling and/or higher insulin
+                        sensitivity in familial longevity, which is in line with the hallmark phenotype
+                        observed in the many long-lived mammalian IIS mutants. Other data also support
+                        a link between preserved insulin sensitivity and human longevity. While insulin
+                        sensitivity generally declines with age in humans [<xref ref-type="bibr" rid="R25">25</xref>], sporadic
+                        long-lived centenarians have been shown to exhibit an exquisite insulin
+                        sensitivity, comparable to that of young adults [<xref ref-type="bibr" rid="R26">26</xref>].
+                    
+            </p><fig id="F2" orientation="portrait" position="float"><label>Figure 2.</label><caption><p>Association
+                                        between age categories and serum IGF-1 levels for offspring and partners
+                                        among females (<bold>A</bold>) and males (<bold>B</bold>) and association between age
+                                        categories and serum IGFBP3 levels for offspring and partners among females
+                                        (<bold>C</bold>) and males (<bold>D</bold>). Dark bars represent offspring, light bars
+                                        represent partners. Number of participants per age category for females
+                                        (offspring/ partners): category &#x0003c;55: 156/110; category 55-60: 194/83; category
+                                        60-65: 146/66; category &#x0003e;65: 114/27.  Number of participants per age
+                                        category for males (offspring/ partners): category &#x0003c;55: 133/42; category
+                                        55-60: 140/49; category 60-65: 140/57; category &#x0003e;65: 102/66.
+                                
+                    </p></caption><graphic xlink:href="aging-01-714-g002"/></fig><p>The preserved insulin sensitivity observed in
+                        centenarians, co-occurred with relatively high levels of IGF-1/IGFBP3, which
+                        has lead to the suggestion of causal link between the preserved insulin
+                        sensitivity and levels of IGF-I/IGFBP3 [<xref ref-type="bibr" rid="R27">27</xref>]. In rats,
+                        IGF-1 and IGFBP3 were shown to have opposing (centrally mediated) effects on glucose metabolism, with IGF-1 acting as an insulin
+                        sensitizer, and IGFBP3 as an insulin inhibitor [<xref ref-type="bibr" rid="R28">28</xref>]. Similarly, in humans, IGF-1
+                        administration was found to increase glucose uptake and inhibit hepatic glucose
+                        production in healthy subjects [<xref ref-type="bibr" rid="R29">29</xref>], and low serum IGF-1 levels were
+                        found associated with glucose intolerance [<xref ref-type="bibr" rid="R30">30</xref>]. In line with these findings, we
+                        also observed a negative association between IGF-1/IGFBP3 levels and non-fasted
+                        glucose levels in both our study groups, but neither this association nor the
+                        mean levels of IGF-1 and IGFBP3 were different between the offspring and
+                        partner groups. Our observation of improved glucose handling in the absence of
+                        major differences in IGF-1/IGFBP3 levels resembles  the Effects observed upon caloric restriction in humans.
+                        In contrast to model organisms, in humans, IGF-1 levels were not found to be
+                        decreased upon caloric restriction, while insulin sensitivity was increased
+                        upon caloric restriction in humans as in model organisms [<xref ref-type="bibr" rid="R31">31</xref>]. The lack
+                        of differences in BMI, as well as preliminary data on food intake, indicate
+                        however that the observed difference in glucose handling between the groups of offspring
+                        and partners can not be explained by a lower caloric intake in the offspring
+                        group.
+                    
+            </p><p>The observation of improved
+                        glucose handling in the absence of major differences in IGF-1/IGFBP3 in
+                        familial longevity does not rule out the possibility that genetic variations
+                        affecting IGF-1/IGFBP3 levels do contribute to human longevity. Recently, it
+                        was shown that centenarians exhibited a relative enrichment for rare genetic
+                        variants in the IGF-1 receptor which resulted in high levels of IGF-1/IGFBP3
+                        coexisting with low levels of IGF-1 signaling [<xref ref-type="bibr" rid="R24">24</xref>]. Also,
+                        earlier we and others showed that common genetic variations affecting IGF-1
+                        signaling might contribute to differences in mortality in the population at
+                        large [<xref ref-type="bibr" rid="R23">23</xref>,<xref ref-type="bibr" rid="R32">32</xref>], but
+                        the phenotypic effects associated with such variants (smaller stature,
+                        differences in serum levels of IGF-1 and/or IGFBP3) do not form a distinctive
+                        part of the hallmark phenotype of preserved glucose handling which we found
+                        associated with familial longevity.
+                    
+            </p></sec><sec id="s4" sec-type="methods"><title>Methods</title><p>
+                <underline>Leiden
+                </underline>
+                <underline> Longevity Study.
+                </underline> In the Leiden Longevity Study, 420 families were recruited consisting
+                        of long-lived Caucasian siblings together with their offspring and the partners
+                        thereof [<xref ref-type="bibr" rid="R2">2</xref>,<xref ref-type="bibr" rid="R23">23</xref>].
+                        Families were recruited if at least two long-lived siblings were alive and
+                        fulfilled the age-criterion of 89 years or older for males and 91 year or older
+                        for females. There were no selection criteria
+                        on health or demographic characteristics. For 2465 of the offspring and their
+                        partners, non-fasted serum samples taken at baseline were available for the
+                        determination of endocrine and metabolic parameters. Between November 2006 and
+                        May 2008, for 2235 of the offspring and their partners, information on medical
+                        history was obtained from the participants' general practitioner (response:
+                        91%). For 2255 of the offspring and their partners, information on the use of
+                        medication was obtained from the participants' pharmacy (response: 92%). For
+                        2184 of the offspring and partners a general questionnaire containing information
+                        on lifestyle and self-reported height and weight was obtained (response: 89%).
+                        For the present study, for a total of 1713 of the offspring and their partners,
+                        serum as well as information on medical history on diabetes and information on
+                        medication use and the general questionnaire were available (inclusion: 70%).
+                        After exclusion of subjects with diabetes in medical history (n=87) and/or
+                        non-fasted glucose lower than 11 mmol/L (n=1) and/or use of glucose lowering
+                        medication (n=37), a sample of 1625 subjects was available for the current
+                        study. The Medical Ethical Committee of the Leiden University Medical Centre
+                        approved the study and informed consent was obtained from all subjects.
+                    
+            </p><p>
+                <underline>Biochemical analysis
+                </underline>. All serum measurements were performed with fully automated equipment.
+                        For insulin&#x02011;like growth factor-1 (IGF-1), insulin-like growth factor
+                        binding protein 3 (IGFBP3) and insulin, the Immulite 2500 from DPC (Los Angeles, CA, USA) was applied. CVs for these measurements were all below 8%. For
+                        glucose, total cholesterol, HDL-cholesterol, triglycerides, free fatty acids
+                        (FFA) the Hitachi Modular or the Cobas Integra 800, both from Roche, Almere,
+                        the Netherlands were applied. CVs of these measurements were all below 5 %.
+                    
+            </p><p>
+                <underline>Medication use
+                </underline><italic>.</italic> Lipid lowering agents were
+                        defined as fibrates, niacin, bile acid sequestrants, 3-hydroxy-3-methylglutaryl-coenzyme
+                        Areductase inhibitors (ATC code C10).
+                    
+            </p><p>
+                <underline>Calculations and statistical analysis.
+                </underline> For estimation of the level of LDL cholesterol the
+                        Friedewald formula was applied (LDL cholesterol [mmol/l] = total cholesterol -
+                        HDL cholesterol - [triglycerides/2.2]), whereby participants with a
+                        triglyceride concentration higher than 443 mg/dl (5 mmol/l) were excluded. For
+                        molar comparisons between IGF-1 and IGFBP3, the following molecular masses were
+                        used in the calculation: IGF-1: 7.5 kDa and IGFBP3: 28.5 kDa.
+                    
+            </p><p>Distributions of continuous variables were examined
+                        for normality and logarithmically transformed, when appropriate and used in all
+                        calculations. Geometric means (with 95% confidence intervals (CI)) are reported
+                        for transformed variables (insulin, triglycerides and free fatty acids). All
+                        differences in mean serum levels and anthropometrics between the groups of
+                        offspring and partners were assessed with the use of linear regression,
+                        adjusted for sex, age and correlation of sibling data using robust standard
+                        errors in STATA. The relation between IGF-1/IGFBP3 molar ratio (expressed in
+                        Z-scores and restricted to values within 3 standard deviations (SDs) from the
+                        mean) and glucose was assessed with the use of a linear mixed model, adjusted
+                        for sex, age and correlation of sibling data in SPSS. The cumulative
+                        distributions of IGF-1, IGFBP3 and height were calculated in SPSS. The change
+                        in levels of IGF-1, IGFBP3 over chronological age as a continuous variable was
+                        assessed with the use of a linear mixed model, adjusted for age and correlation
+                        of sibling data in SPSS. The Statistical Package for the Social Sciences (SPSS)
+                        program for Windows, version 14.0, and STATA version 10.0 were used for data
+                        analysis, and plots were drawn in Excel.
+                    
+            </p></sec></body><back><ack><p>The LLS was funded by the Innovation Oriented research
+                        Program on Genomics (SenterNovem; IGE01014 and IGE5007), the Centre for Medical
+                        Systems Biology (CMSB), the Netherlands Genomics Initiative/Netherlands
+                        Organization for scientific research (NGI/NWO; 05040202 and 050-060-810 (NCHA))
+                        and the EU funded Network of Excellence Lifespan (FP6 036894). Rudi G.J.
+                        Westendorp is supported by an unrestricted grant from the Netherlands Genomics
+                        Initiative (NCHA 050-060-810). We thank all participants of the Leiden
+                        Longevity Study for their consistent cooperation, as well all participating
+                        general practitioners and pharmacists, the secretary staff (Meriam H van der
+                        Star, Ellen H Bemer-Oorschot) and research nurses (Corrie J Groenendijk), data
+                        managers (Karin H Herbschleb) for their expert contribution.
+                    
+            </p></ack><ref-list><title>References</title><ref id="R1"><label>1</label><element-citation publication-type="journal"><name><surname>Oeppen</surname><given-names>J</given-names></name><name><surname>Vaupel</surname><given-names>JW</given-names></name><article-title>Demography. Broken limits to life expectancy</article-title><source>Science</source><year>2002</year><volume>296</volume><fpage>1029</fpage><lpage>1031</lpage><pub-id pub-id-type="pmid">12004104</pub-id></element-citation></ref><ref id="R2"><label>2</label><element-citation publication-type="journal"><name><surname>Schoenmaker</surname><given-names>M</given-names></name><name><surname>de Craen</surname><given-names>AJ</given-names></name><name><surname>de Meijer</surname><given-names>PH</given-names></name><name><surname>Beekman</surname><given-names>M</given-names></name><name><surname>Blauw</surname><given-names>GJ</given-names></name><name><surname>Slagboom</surname><given-names>PE</given-names></name><name><surname>Westendorp</surname><given-names>RG</given-names></name><article-title>Evidence of genetic enrichment for exceptional survival using a family approach: the Leiden Longevity Study</article-title><source>Eur J Hum Genet</source><year>2006</year><volume>14</volume><fpage>79</fpage><lpage>84</lpage><pub-id pub-id-type="pmid">16251894</pub-id></element-citation></ref><ref id="R3"><label>3</label><element-citation publication-type="journal"><name><surname>Westendorp</surname><given-names>RGJ</given-names></name><name><surname>van</surname><given-names>Heemst D</given-names></name><name><surname>Rozing</surname><given-names>MP</given-names></name><name><surname>Frohlich</surname><given-names>M</given-names></name><name><surname>de Craen</surname><given-names>AJM</given-names></name><name><surname>Beekman</surname><given-names>M</given-names></name><name><surname>Heijmans</surname><given-names>BT</given-names></name><name><surname>Mooijaart</surname><given-names>SP</given-names></name><name><surname>Blauw</surname><given-names>GJ</given-names></name><name><surname>Slagboom</surname><given-names>PE</given-names></name><article-title>Nonagenarian siblings and their offspring display lower risk of mortality and morbidity than sporadic nonagenarians: The Leiden Longevity Study</article-title><source>J Am Geriatr Soc</source><year>2009</year><comment>In press
+                    </comment></element-citation></ref><ref id="R4"><label>4</label><element-citation publication-type="journal"><name><surname>Terry</surname><given-names>DF</given-names></name><name><surname>Wilcox</surname><given-names>M</given-names></name><name><surname>McCormick</surname><given-names>MA</given-names></name><name><surname>Lawler</surname><given-names>E</given-names></name><name><surname>Perls</surname><given-names>TT</given-names></name><article-title>Cardiovascular advantages among the offspring of centenarians</article-title><source>J Gerontol A Biol Sci Med Sci</source><year>2003</year><volume>58</volume><fpage>M425</fpage><lpage>M431</lpage><pub-id pub-id-type="pmid">12730251</pub-id></element-citation></ref><ref id="R5"><label>5</label><element-citation publication-type="journal"><name><surname>Atzmon</surname><given-names>G</given-names></name><name><surname>Schechter</surname><given-names>C</given-names></name><name><surname>Greiner</surname><given-names>W</given-names></name><name><surname>Davidson</surname><given-names>D</given-names></name><name><surname>Rennert</surname><given-names>G</given-names></name><name><surname>Barzilai</surname><given-names>N</given-names></name><article-title>Clinical phenotype of families with longevity</article-title><source>J Am Geriatr Soc</source><year>2004</year><volume>52</volume><fpage>274</fpage><lpage>277</lpage><pub-id pub-id-type="pmid">14728640</pub-id></element-citation></ref><ref id="R6"><label>6</label><element-citation publication-type="journal"><name><surname>Bartke</surname><given-names>A</given-names></name><article-title>Impact of reduced insulin-like growth factor-1/insulin signaling on aging in mammals: novel findings</article-title><source>Aging Cell</source><year>2008</year><volume>7</volume><fpage>285</fpage><lpage>290</lpage><pub-id pub-id-type="pmid">18346217</pub-id></element-citation></ref><ref id="R7"><label>7</label><element-citation publication-type="journal"><name><surname>Kenyon</surname><given-names>C</given-names></name><article-title>A conserved regulatory system for aging</article-title><source>Cell</source><year>2001</year><volume>105</volume><fpage>165</fpage><lpage>168</lpage><pub-id pub-id-type="pmid">11336665</pub-id></element-citation></ref><ref id="R8"><label>8</label><element-citation publication-type="journal"><name><surname>Tatar</surname><given-names>M</given-names></name><name><surname>Kopelman</surname><given-names>A</given-names></name><name><surname>Epstein</surname><given-names>D</given-names></name><name><surname>Tu</surname><given-names>MP</given-names></name><name><surname>Yin</surname><given-names>CM</given-names></name><name><surname>Garofalo</surname><given-names>RS</given-names></name><article-title>A mutant Drosophila insulin receptor homolog that extends life-span and impairs neuroendocrine function</article-title><source>Science</source><year>2001</year><volume>292</volume><fpage>107</fpage><lpage>110</lpage><pub-id pub-id-type="pmid">11292875</pub-id></element-citation></ref><ref id="R9"><label>9</label><element-citation publication-type="journal"><name><surname>Clancy</surname><given-names>DJ</given-names></name><name><surname>Gems</surname><given-names>D</given-names></name><name><surname>Harshman</surname><given-names>LG</given-names></name><name><surname>Oldham</surname><given-names>S</given-names></name><name><surname>Stocker</surname><given-names>H</given-names></name><name><surname>Hafen</surname><given-names>E</given-names></name><name><surname>Leevers</surname><given-names>SJ</given-names></name><name><surname>Partridge</surname><given-names>L</given-names></name><article-title>Extension of life-span by loss of CHICO, a Drosophila insulin receptor substrate protein</article-title><source>Science</source><year>2001</year><volume>292</volume><fpage>104</fpage><lpage>106</lpage><pub-id pub-id-type="pmid">11292874</pub-id></element-citation></ref><ref id="R10"><label>10</label><element-citation publication-type="journal"><name><surname>Bluher</surname><given-names>M</given-names></name><name><surname>Kahn</surname><given-names>BB</given-names></name><name><surname>Kahn</surname><given-names>CR</given-names></name><article-title>Extended longevity in mice lacking the insulin receptor in adipose tissue</article-title><source>Science</source><year>2003</year><volume>299</volume><fpage>572</fpage><lpage>574</lpage><pub-id pub-id-type="pmid">12543978</pub-id></element-citation></ref><ref id="R11"><label>11</label><element-citation publication-type="journal"><name><surname>Selman</surname><given-names>C</given-names></name><name><surname>Lingard</surname><given-names>S</given-names></name><name><surname>Choudhury</surname><given-names>AI</given-names></name><name><surname>Batterham</surname><given-names>RL</given-names></name><name><surname>Claret</surname><given-names>M</given-names></name><name><surname>Clements</surname><given-names>M</given-names></name><name><surname>Ramadani</surname><given-names>F</given-names></name><name><surname>Okkenhaug</surname><given-names>K</given-names></name><name><surname>Schuster</surname><given-names>E</given-names></name><name><surname>Blanc</surname><given-names>E</given-names></name><name><surname>Piper</surname><given-names>MD</given-names></name><name><surname>Al-Qassab</surname><given-names>H</given-names></name><name><surname>Speakman</surname><given-names>JR</given-names></name><article-title>Evidence for lifespan extension and delayed age-related biomarkers in insulin receptor substrate 1 null mice</article-title><source>FASEB J</source><year>2008</year><volume>22</volume><fpage>807</fpage><lpage>818</lpage><pub-id pub-id-type="pmid">17928362</pub-id></element-citation></ref><ref id="R12"><label>12</label><element-citation publication-type="journal"><name><surname>Taguchi</surname><given-names>A</given-names></name><name><surname>Wartschow</surname><given-names>LM</given-names></name><name><surname>White</surname><given-names>MF</given-names></name><article-title>Brain IRS2 signaling coordinates life span and nutrient homeostasis</article-title><source>Science</source><year>2007</year><volume>317</volume><fpage>369</fpage><lpage>372</lpage><pub-id pub-id-type="pmid">17641201</pub-id></element-citation></ref><ref id="R13"><label>13</label><element-citation publication-type="journal"><name><surname>Brown-Borg</surname><given-names>HM</given-names></name><name><surname>Borg</surname><given-names>KE</given-names></name><name><surname>Meliska</surname><given-names>CJ</given-names></name><name><surname>Bartke</surname><given-names>A</given-names></name><article-title>Dwarf mice and the ageing process</article-title><source>Nature</source><year>1996</year><volume>384</volume><fpage>33</fpage><pub-id pub-id-type="pmid">8900272</pub-id></element-citation></ref><ref id="R14"><label>14</label><element-citation publication-type="journal"><name><surname>Flurkey</surname><given-names>K</given-names></name><name><surname>Papaconstantinou</surname><given-names>J</given-names></name><name><surname>Miller</surname><given-names>RA</given-names></name><name><surname>Harrison</surname><given-names>DE</given-names></name><article-title>Lifespan extension and delayed immune and collagen aging in mutant mice with defects in growth hormone production</article-title><source>Proc Natl Acad Sci U S A</source><year>2001</year><volume>98</volume><fpage>6736</fpage><lpage>6741</lpage><pub-id pub-id-type="pmid">11371619</pub-id></element-citation></ref><ref id="R15"><label>15</label><element-citation publication-type="journal"><name><surname>Chandrashekar</surname><given-names>V</given-names></name><name><surname>Bartke</surname><given-names>A</given-names></name><name><surname>Coschigano</surname><given-names>KT</given-names></name><name><surname>Kopchick</surname><given-names>JJ</given-names></name><article-title>Pituitary and testicular function in growth hormone receptor gene knockout mice</article-title><source>Endocrinology</source><year>1999</year><volume>140</volume><fpage>1082</fpage><lpage>1088</lpage><pub-id pub-id-type="pmid">10067829</pub-id></element-citation></ref><ref id="R16"><label>16</label><element-citation publication-type="journal"><name><surname>Holzenberger</surname><given-names>M</given-names></name><name><surname>Dupont</surname><given-names>J</given-names></name><name><surname>Ducos</surname><given-names>B</given-names></name><name><surname>Leneuve</surname><given-names>P</given-names></name><name><surname>Geloen</surname><given-names>A</given-names></name><name><surname>Even</surname><given-names>PC</given-names></name><name><surname>Cervera</surname><given-names>P</given-names></name><name><surname>Le</surname><given-names>BY</given-names></name><article-title>IGF-1 receptor regulates lifespan and resistance to oxidative stress in mice</article-title><source>Nature</source><year>2003</year><volume>421</volume><fpage>182</fpage><lpage>187</lpage><pub-id pub-id-type="pmid">12483226</pub-id></element-citation></ref><ref id="R17"><label>17</label><element-citation publication-type="journal"><name><surname>Juul</surname><given-names>A</given-names></name><article-title>Serum levels of insulin-like growth factor I and its binding proteins in health and disease</article-title><source>Growth Horm IGF Res</source><year>2003</year><volume>13</volume><fpage>113</fpage><lpage>170</lpage><pub-id pub-id-type="pmid">12914749</pub-id></element-citation></ref><ref id="R18"><label>18</label><element-citation publication-type="journal"><name><surname>Iranmanesh</surname><given-names>A</given-names></name><name><surname>Lizarralde</surname><given-names>G</given-names></name><name><surname>Veldhuis</surname><given-names>JD</given-names></name><article-title>Age and relative adiposity are specific negative determinants of the frequency and amplitude of growth hormone (GH) secretory bursts and the half-life of endogenous GH in healthy men</article-title><source>J Clin Endocrinol Metab</source><year>1991</year><volume>73</volume><fpage>1081</fpage><lpage>1088</lpage><pub-id pub-id-type="pmid">1939523</pub-id></element-citation></ref><ref id="R19"><label>19</label><element-citation publication-type="journal"><name><surname>Lamberts</surname><given-names>SW</given-names></name><name><surname>van den Beld</surname><given-names>AW</given-names></name><name><surname>van der Lely</surname><given-names>AJ</given-names></name><article-title>The endocrinology of aging</article-title><source>Science</source><year>1997</year><volume>278</volume><fpage>419</fpage><lpage>424</lpage><pub-id pub-id-type="pmid">9334293</pub-id></element-citation></ref><ref id="R20"><label>20</label><element-citation publication-type="journal"><name><surname>Arai</surname><given-names>Y</given-names></name><name><surname>Hirose</surname><given-names>N</given-names></name><name><surname>Yamamura</surname><given-names>K</given-names></name><name><surname>Shimizu</surname><given-names>K</given-names></name><name><surname>Takayama</surname><given-names>M</given-names></name><name><surname>Ebihara</surname><given-names>Y</given-names></name><name><surname>Osono</surname><given-names>Y</given-names></name><article-title>Serum insulin-like growth factor-1 in centenarians: implications of IGF-1 as a rapid turnover protein</article-title><source>J Gerontol A Biol Sci Med Sci</source><year>2001</year><volume>56</volume><fpage>M79</fpage><lpage>M82</lpage><pub-id pub-id-type="pmid">11213280</pub-id></element-citation></ref><ref id="R21"><label>21</label><element-citation publication-type="journal"><name><surname>Cappola</surname><given-names>AR</given-names></name><name><surname>Xue</surname><given-names>QL</given-names></name><name><surname>Ferrucci</surname><given-names>L</given-names></name><name><surname>Guralnik</surname><given-names>JM</given-names></name><name><surname>Volpato</surname><given-names>S</given-names></name><name><surname>Fried</surname><given-names>LP</given-names></name><article-title>Insulin-like growth factor I and interleukin-6 contribute synergistically to disability and mortality in older women</article-title><source>J Clin Endocrinol Metab</source><year>2003</year><volume>88</volume><fpage>2019</fpage><lpage>2025</lpage><pub-id pub-id-type="pmid">12727948</pub-id></element-citation></ref><ref id="R22"><label>22</label><element-citation publication-type="journal"><name><surname>Kuningas</surname><given-names>M</given-names></name><name><surname>Mooijaart</surname><given-names>SP</given-names></name><name><surname>van</surname><given-names>HD</given-names></name><name><surname>Zwaan</surname><given-names>BJ</given-names></name><name><surname>Slagboom</surname><given-names>PE</given-names></name><name><surname>Westendorp</surname><given-names>RG</given-names></name><article-title>Genes encoding longevity: from model organisms to humans</article-title><source>Aging Cell</source><year>2008</year><volume>7</volume><fpage>270</fpage><lpage>280</lpage><pub-id pub-id-type="pmid">18208581</pub-id></element-citation></ref><ref id="R23"><label>23</label><element-citation publication-type="journal"><name><surname>van</surname><given-names>Heemst D</given-names></name><name><surname>Beekman</surname><given-names>M</given-names></name><name><surname>Mooijaart</surname><given-names>SP</given-names></name><name><surname>Heijmans</surname><given-names>BT</given-names></name><name><surname>Brandt</surname><given-names>BW</given-names></name><name><surname>Zwaan</surname><given-names>BJ</given-names></name><name><surname>Slagboom</surname><given-names>PE</given-names></name><name><surname>Westendorp</surname><given-names>RG</given-names></name><article-title>Reduced insulin/IGF-1 signalling and human longevity</article-title><source>Aging Cell</source><year>2005</year><volume>4</volume><fpage>79</fpage><lpage>85</lpage><pub-id pub-id-type="pmid">15771611</pub-id></element-citation></ref><ref id="R24"><label>24</label><element-citation publication-type="journal"><name><surname>Suh</surname><given-names>Y</given-names></name><name><surname>Atzmon</surname><given-names>G</given-names></name><name><surname>Cho</surname><given-names>MO</given-names></name><name><surname>Hwang</surname><given-names>D</given-names></name><name><surname>Liu</surname><given-names>B</given-names></name><name><surname>Leahy</surname><given-names>DJ</given-names></name><name><surname>Barzilai</surname><given-names>N</given-names></name><name><surname>Cohen</surname><given-names>P</given-names></name><article-title>Functionally significant insulin-like growth factor I receptor mutations in centenarians</article-title><source>Proc Natl Acad Sci U S A</source><year>2008</year><volume>105</volume><fpage>3438</fpage><lpage>3442</lpage><pub-id pub-id-type="pmid">18316725</pub-id></element-citation></ref><ref id="R25"><label>25</label><element-citation publication-type="journal"><name><surname>Ferrannini</surname><given-names>E</given-names></name><name><surname>Vichi</surname><given-names>S</given-names></name><name><surname>Beck-Nielsen</surname><given-names>H</given-names></name><name><surname>Laakso</surname><given-names>M</given-names></name><name><surname>Paolisso</surname><given-names>G</given-names></name><name><surname>Smith</surname><given-names>U</given-names></name><article-title>Insulin action and age. European Group for the Study of Insulin Resistance (EGIR)</article-title><source>Diabetes</source><year>1996</year><volume>45</volume><fpage>947</fpage><lpage>953</lpage><pub-id pub-id-type="pmid">8666147</pub-id></element-citation></ref><ref id="R26"><label>26</label><element-citation publication-type="journal"><name><surname>Paolisso</surname><given-names>G</given-names></name><name><surname>Gambardella</surname><given-names>A</given-names></name><name><surname>Ammendola</surname><given-names>S</given-names></name><name><surname>D'Amore</surname><given-names>A</given-names></name><name><surname>Balbi</surname><given-names>V</given-names></name><name><surname>Varricchio</surname><given-names>M</given-names></name><name><surname>D'Onofrio</surname><given-names>F</given-names></name><article-title>Glucose tolerance and insulin action in healty centenarians</article-title><source>Am J Physiol</source><year>1996</year><volume>270</volume><fpage>E890</fpage><lpage>E894</lpage><pub-id pub-id-type="pmid">8967479</pub-id></element-citation></ref><ref id="R27"><label>27</label><element-citation publication-type="journal"><name><surname>Paolisso</surname><given-names>G</given-names></name><name><surname>Ammendola</surname><given-names>S</given-names></name><name><surname>Del</surname><given-names>BA</given-names></name><name><surname>Gambardella</surname><given-names>A</given-names></name><name><surname>Riondino</surname><given-names>M</given-names></name><name><surname>Tagliamonte</surname><given-names>MR</given-names></name><name><surname>Rizzo</surname><given-names>MR</given-names></name><name><surname>Carella</surname><given-names>C</given-names></name><name><surname>Varricchio</surname><given-names>M</given-names></name><article-title>Serum levels of insulin-like growth factor-I (IGF-I) and IGF-binding protein-3 in healthy centenarians: relationship with plasma leptin and lipid concentrations, insulin action, and cognitive function</article-title><source>J Clin Endocrinol Metab</source><year>1997</year><volume>82</volume><fpage>2204</fpage><lpage>2209</lpage><pub-id pub-id-type="pmid">9215295</pub-id></element-citation></ref><ref id="R28"><label>28</label><element-citation publication-type="journal"><name><surname>Muzumdar</surname><given-names>RH</given-names></name><name><surname>Ma</surname><given-names>X</given-names></name><name><surname>Fishman</surname><given-names>S</given-names></name><name><surname>Yang</surname><given-names>X</given-names></name><name><surname>Atzmon</surname><given-names>G</given-names></name><name><surname>Vuguin</surname><given-names>P</given-names></name><name><surname>Einstein</surname><given-names>FH</given-names></name><name><surname>Hwang</surname><given-names>D</given-names></name><name><surname>Cohen</surname><given-names>P</given-names></name><name><surname>Barzilai</surname><given-names>N</given-names></name><article-title>Central and opposing effects of IGF-I and IGF-binding protein-3 on systemic insulin action</article-title><source>Diabetes</source><year>2006</year><volume>55</volume><fpage>2788</fpage><lpage>2796</lpage><pub-id pub-id-type="pmid">17003344</pub-id></element-citation></ref><ref id="R29"><label>29</label><element-citation publication-type="journal"><name><surname>Sherwin</surname><given-names>RS</given-names></name><name><surname>Borg</surname><given-names>WP</given-names></name><name><surname>Boulware</surname><given-names>SD</given-names></name><article-title>Metabolic effects of insulin-like growth factor I in normal humans</article-title><source>Horm Res</source><year>1994</year><volume>41 Suppl 2</volume><fpage>97</fpage><lpage>101</lpage><pub-id pub-id-type="pmid">8088711</pub-id></element-citation></ref><ref id="R30"><label>30</label><element-citation publication-type="journal"><name><surname>Sandhu</surname><given-names>MS</given-names></name><name><surname>Heald</surname><given-names>AH</given-names></name><name><surname>Gibson</surname><given-names>JM</given-names></name><name><surname>Cruickshank</surname><given-names>JK</given-names></name><name><surname>Dunger</surname><given-names>DB</given-names></name><name><surname>Wareham</surname><given-names>NJ</given-names></name><article-title>Circulating concentrations of insulin-like growth factor-I and development of glucose intolerance: a prospective observational study</article-title><source>Lancet</source><year>2002</year><volume>359</volume><fpage>1740</fpage><lpage>1745</lpage><pub-id pub-id-type="pmid">12049864</pub-id></element-citation></ref><ref id="R31"><label>31</label><element-citation publication-type="journal"><name><surname>Redman</surname><given-names>LM</given-names></name><name><surname>Martin</surname><given-names>CK</given-names></name><name><surname>Williamson</surname><given-names>DA</given-names></name><name><surname>Ravussin</surname><given-names>E</given-names></name><article-title>Effect of caloric restriction in non-obese humans on physiological, psychological and behavioral outcomes</article-title><source>Physiol Behav</source><year>2008</year><volume>94</volume><fpage>643</fpage><lpage>648</lpage><pub-id pub-id-type="pmid">18502453</pub-id></element-citation></ref><ref id="R32"><label>32</label><element-citation publication-type="journal"><name><surname>Bonafe</surname><given-names>M</given-names></name><name><surname>Barbieri</surname><given-names>M</given-names></name><name><surname>Marchegiani</surname><given-names>F</given-names></name><name><surname>Olivieri</surname><given-names>F</given-names></name><name><surname>Ragno</surname><given-names>E</given-names></name><name><surname>Giampieri</surname><given-names>C</given-names></name><name><surname>Mugianesi</surname><given-names>E</given-names></name><name><surname>Centurelli</surname><given-names>M</given-names></name><name><surname>Franceschi</surname><given-names>C</given-names></name><name><surname>Paolisso</surname><given-names>G</given-names></name><article-title>Polymorphic variants of insulin-like growth factor I (IGF-I) receptor and phosphoinositide 3-kinase genes affect IGF-I plasma levels and human longevity: cues for an evolutionarily conserved mechanism of life span control</article-title><source>J Clin Endocrinol Metab</source><year>2003</year><volume>88</volume><fpage>3299</fpage><lpage>3304</lpage><pub-id pub-id-type="pmid">12843179</pub-id></element-citation></ref></ref-list><fn-group><fn fn-type="conflict"><p>The authors of this manuscript have no conflict of
+                            interests to declare.
+                        
+                </p></fn></fn-group></back></article>

@@ -1,0 +1,395 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">20062810</article-id><article-id pub-id-type="pmc">2799531</article-id><article-id pub-id-type="publisher-id">09-PONE-RA-10633R1</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0008643</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Biotechnology</subject><subject>Biotechnology/Bioengineering</subject><subject>Cell Biology/Neuronal and Glial Cell Biology</subject><subject>Neuroscience/Neurobiology of Disease and Regeneration</subject><subject>Neurological Disorders/Alzheimer Disease</subject><subject>Neurological Disorders/Neuropharmacology</subject><subject>Pharmacology/Drug Development</subject></subj-group></article-categories><title-group><article-title>A New Target for Amyloid Beta Toxicity Validated by Standard and High-Throughput Electrophysiology</article-title><alt-title alt-title-type="running-head">New Target for AB Toxicity</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Varghese</surname><given-names>Kucku</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Molnar</surname><given-names>Peter</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Das</surname><given-names>Mainak</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bhargava</surname><given-names>Neelima</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lambert</surname><given-names>Stephen</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Kindy</surname><given-names>Mark S.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Hickman</surname><given-names>James J.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>NanoScience Technology Center, University of Central Florida, Orlando, Florida, United States of America</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Neuroscience, Medical University of South Carolina, Charleston, South Carolina, United States of America</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>College of Medicine, University of Central Florida, Orlando, Florida, United States of America</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Khoury</surname><given-names>Joseph El</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Massachusetts General Hospital and Harvard Medical School, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>jhickman@mail.ucf.edu</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: KV MK JJH. Performed the experiments: KV. Analyzed the data: KV PM SL. Contributed reagents/materials/analysis tools: MD NB MK. Wrote the paper: KV JJH.</p></fn></author-notes><pub-date pub-type="collection"><year>2010</year></pub-date><pub-date pub-type="epub"><day>8</day><month>1</month><year>2010</year></pub-date><volume>5</volume><issue>1</issue><elocation-id>e8643</elocation-id><history><date date-type="received"><day>26</day><month>5</month><year>2009</year></date><date date-type="accepted"><day>28</day><month>10</month><year>2009</year></date></history><permissions><copyright-statement>Varghese et al.</copyright-statement><copyright-year>2010</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>Soluble oligomers of amyloid beta (A&#x003b2;) are considered to be one of the major contributing factors to the development of Alzheimer's disease. Most therapeutic development studies have focused on toxicity directly at the synapse.</p></sec><sec><title>Methodology/Principal Findings</title><p>Patch clamp studies detailed here have demonstrated that soluble A&#x003b2; can also cause functional toxicity, namely it inhibits spontaneous firing of hippocampal neurons without significant cell death at low concentrations. This toxicity will eventually lead to the loss of the synapse as well, but may precede this loss by a considerable amount of time. In a key technological advance we have reproduced these results utilizing a fast and simple method based on extracellular electrophysiological recording of the temporal electrical activity of cultured hippocampal neurons using multielectrode arrays (MEAs) at low concentrations of A&#x003b2; (1&#x02013;42). We have also shown that this functional deficit can be reversed through use of curcumin, an inhibitor of A&#x003b2; oligomerization, using both analysis methods.</p></sec><sec><title>Conclusions/Significance</title><p>The MEA recording method utilized here is non-invasive, thus long term chronic measurements are possible and it does not require precise positioning of electrodes, thus it is ideal for functional screens. Even more significantly, we believe we have now identified a new target for drug development for AD based on functional toxicity of hippocampal neurons that could treat neurodegenerative diseases prior to the development of mild cognitive impairment.</p></sec></abstract><counts><page-count count="8"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>We have demonstrated that high-throughput electrophysiology techniques can be used to measure Amyloid beta (A&#x003b2;) toxicity in neurons and that the effects of this toxicity can be reversed by a drug application. In addition, we believe we have identified a new target for drug development for Alzheimer's Disease (AD) that focuses on loss of electrical functionality of the cell that may precede synapse degradation by a considerable period of time. These results support the emerging view that functional impairment of neurons may be more important for the development of AD symptoms than the actual cell death which occurs at later stages of the disease <xref rid="pone.0008643-Klein1" ref-type="bibr">[1]</xref>, <xref rid="pone.0008643-Lambert1" ref-type="bibr">[2]</xref>.</p><p>AD is the most common cause of dementia in the elderly <xref rid="pone.0008643-StGeorgeHyslop1" ref-type="bibr">[3]</xref>. The hallmarks of this disease consist of senile plaques composed of A&#x003b2;, neurofibrillary tangles and extensive neuronal degeneration <xref rid="pone.0008643-Townsend1" ref-type="bibr">[4]</xref>. A&#x003b2; is a 39&#x02013;43 amino acid peptide derived from the cleavage of a larger protein, Amyloid Precursor Protein (APP), and is toxic to neurons <italic>in vivo</italic> and <italic>in vitro</italic>
+<xref rid="pone.0008643-Yankner1" ref-type="bibr">[5]</xref>. The amyloid cascade hypothesis implicates A&#x003b2; as having a crucial role in the pathogenesis of AD <xref rid="pone.0008643-Hardy1" ref-type="bibr">[6]</xref> and as a result is an important therapeutic target. Recent results have implicated soluble aggregates of A&#x003b2; for many of the toxic effects of A&#x003b2; described in AD <xref rid="pone.0008643-Shankar1" ref-type="bibr">[7]</xref>.</p><p>Although it is well known that one of the early hallmarks of AD is marked synaptic degeneration, its cause is only marginally understood <xref rid="pone.0008643-Knobloch1" ref-type="bibr">[8]</xref>, <xref rid="pone.0008643-Lacor1" ref-type="bibr">[9]</xref>. According to the leading theory, soluble oligomers of A&#x003b2; have a direct &#x0201c;synaptotoxic&#x0201d; effect at nanomolar concentrations <xref rid="pone.0008643-Lacor2" ref-type="bibr">[10]</xref>, <xref rid="pone.0008643-Walsh1" ref-type="bibr">[11]</xref>. Other authors have emphasized the success of Memantine, an NMDA antagonist, in moderate and severe cases of AD, and claim that excitotoxicity could play a role in synaptic degeneration <xref rid="pone.0008643-Francis1" ref-type="bibr">[12]</xref>&#x02013;<xref rid="pone.0008643-Waataja1" ref-type="bibr">[14]</xref>. Our hypothesis is based on the observation that A&#x003b2; decreases spontaneous activity of neurons at low concentrations and that this has a deleterious effect on cell functionality without significant cell death. According to established theories, this decreased activity would lead to the automatic elimination of synapses with low activity, but at a later time <xref rid="pone.0008643-Hua1" ref-type="bibr">[15]</xref>, <xref rid="pone.0008643-Nimmrich1" ref-type="bibr">[16]</xref>.</p><p>It has also been shown that A&#x003b2; toxicity can be reversed to varying degrees using anti-amyloidogenic compounds (AACs) such as curcumin <xref rid="pone.0008643-Hamaguchi1" ref-type="bibr">[17]</xref>. Curcumin has been shown to have anti-oxidant and anti-inflammatory properties <xref rid="pone.0008643-Zhao1" ref-type="bibr">[18]</xref> and reduce amyloid plaque burden in transgenic APPsw mice <xref rid="pone.0008643-Lim1" ref-type="bibr">[19]</xref>. More recently, curcumin has been shown to reduce the number of aggregates from monomeric A&#x003b2; as well as promote disassembly of preformed A&#x003b2; aggregates, in addition to inhibiting A&#x003b2; oligomer formation and A&#x003b2; toxicity at significantly lower concentrations than Ibuprofen <xref rid="pone.0008643-Yang1" ref-type="bibr">[20]</xref>.</p><p>Most <italic>in vitro</italic> functional electrophysiological studies on the effects of A&#x003b2; on neurons have been carried out using the patch clamp method <xref rid="pone.0008643-Lambert1" ref-type="bibr">[2]</xref>, <xref rid="pone.0008643-Gureviciene1" ref-type="bibr">[21]</xref>, <xref rid="pone.0008643-Jhamandas1" ref-type="bibr">[22]</xref>. Although the use of this technique enables the acquisition of detailed information concerning A&#x003b2; effects at the ion channel level, it is very low throughput and complicated relative to extracellular electrophysiological techniques. A recent technological advance for non-invasive chronic monitoring of neuronal and cardiac cell electrical activity is the use of multielectrode array (MEA) recordings of action potentials <xref rid="pone.0008643-Egert1" ref-type="bibr">[23]</xref>&#x02013;<xref rid="pone.0008643-Nam1" ref-type="bibr">[27]</xref>. In contrast to the more common intracellular electrophysiological techniques which usually enable only short term (&#x0003c;a few hours) monitoring of the activity of cells, MEAs are ideal for investigating long-term/chronic drug effects and also does not limit the number of cells that can be recorded from, at a single instance <xref rid="pone.0008643-Jung1" ref-type="bibr">[24]</xref>, <xref rid="pone.0008643-Offenhausser1" ref-type="bibr">[26]</xref>, <xref rid="pone.0008643-Hofmann1" ref-type="bibr">[28]</xref>&#x02013;<xref rid="pone.0008643-Gross1" ref-type="bibr">[30]</xref>. Moreover, because MEAs do not require precise positioning of electrodes, they can be used in high-throughput pharmaceutical screens <xref rid="pone.0008643-Meyer1" ref-type="bibr">[31]</xref>. The most common applications of MEAs include physiological or pharmacological studies in brain slices and in dissociated cell cultures of electrogenic cells including hippocampal neurons <xref rid="pone.0008643-Chang1" ref-type="bibr">[32]</xref>, <xref rid="pone.0008643-Golan1" ref-type="bibr">[33]</xref>, spinal cord neurons <xref rid="pone.0008643-Gross2" ref-type="bibr">[34]</xref> and cardiac myocytes <xref rid="pone.0008643-Jung1" ref-type="bibr">[24]</xref>, <xref rid="pone.0008643-Natarajan1" ref-type="bibr">[25]</xref>, among others. Recent developments in the pharmacological applications of MEA technology <xref rid="pone.0008643-Meyer1" ref-type="bibr">[31]</xref> have shown that introduction of high-throughput functional <italic>in vitro</italic> electrophysiological assays in drug development could have significant benefits compared to the traditional <italic>in vivo</italic> or <italic>ex vivo</italic> assays. For example, electrophysiologically active <italic>in vitr</italic>o neuronal networks have been maintained on microelectrode arrays for over 9 months <xref rid="pone.0008643-Gross2" ref-type="bibr">[34]</xref>. More recently, neurons on MEAs have been used to study various drug effects including antidepressants <xref rid="pone.0008643-Gramowski1" ref-type="bibr">[35]</xref>, ACHe inhibitors <xref rid="pone.0008643-Keefer1" ref-type="bibr">[36]</xref> and Zn toxicity <xref rid="pone.0008643-Parviz1" ref-type="bibr">[37]</xref>.</p><p>In this study we have developed a high-throughput <italic>in vitro</italic> method for the assessment of A&#x003b2; effects on spontaneous activity of cultured neurons which can be adapted for high-throughput pharmaceutical screening. This assertion is supported by the emerging view that functional impairment of neurons might be more important for the development of AD symptoms than the actual cell death which occurs at later stages of the disease <xref rid="pone.0008643-Klein1" ref-type="bibr">[1]</xref>, <xref rid="pone.0008643-Lambert1" ref-type="bibr">[2]</xref>. The results obtained with MEAs correlate well with those obtained using patch clamp electrophysiology wherein A&#x003b2; at low concentrations had a deleterious effect on cell functionality without significant cell death. We have also shown that this effect can be reversed to varying degrees using an anti-amyloidogenic compound. The MEA recording method utilized here is non-invasive, thus long term chronic measurements are possible and it does not require precise positioning of electrodes, thus it is ideal for functional screens. Even more significantly, we believe we have now identified a new target for drug development for AD based on functional toxicity of hippocampal neurons.</p></sec><sec id="s2"><title>Results</title><p>Embryonic rat neurons were plated at a density of 100 cells/mm<sup>2</sup> on DETA coated coverslips for patch clamp electrophysiology and at 200 cells/mm<sup>2</sup> on DETA coated microelectrode arrays in serum free medium. Patch clamp electrophysiology was performed after 10 days in culture as electrical function of the neurons had stabilized at this point. Sporadic firing could also be detected after 10 days using the MEAs. Starting on day 12 we were able to obtain stable, reliable recordings from the MEAs over a period of two to three days with an average firing frequency of 2.5&#x000b1;0.6 Hz (mean&#x000b1;SEM). This enabled the study of the time course of the action of low concentrations of A&#x003b2; on the neurons. Transferring the MEAs from the incubator to the recording head stage and subsequent media changes did not significantly affect the cells. No significant changes in the baseline recordings from control MEAs were observed as a result of transferring the MEAs from the incubator to the recording headstage or media changes.</p><sec id="s2a"><title>Application of A&#x003b2; Abolished Spontaneous Spiking Activity</title><p>The presence of A&#x003b2; oligomers was verified using immunoblots as shown in <xref ref-type="fig" rid="pone-0008643-g001">Figure 1</xref>. Patch clamp experiments performed 24 h post-A&#x003b2; exposure revealed striking changes in the neuronal function upon exposure to 100 nM A&#x003b2;. The most significant effect was observed on spontaneous firing, namely no spontaneous action potentials were recorded in the 30 exposed cells that were studied at the 24 h time point (<xref ref-type="fig" rid="pone-0008643-g002">Figure <italic>2A</italic>
+</xref>). Exogenous application of A&#x003b2; to the cells for 24 h caused an increase in the amplitude of the outward (K<sup>&#x0002b;</sup>) currents as well as a depolarization in the resting membrane potential, (Figure <italic>B,C</italic>). Given the small differences in cell survival compared to the control, even after 7 days (<xref ref-type="fig" rid="pone-0008643-g002">Figure <italic>2D</italic>
+</xref>), we concluded that loss of electrophysiological function is the major response to A&#x003b2; treatment at this concentration. To confirm this finding a MTT assay (3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyl tetrazolium bromide) was performed on the amyloid treated cells and this supported the results obtained with the live dead assay.</p><fig id="pone-0008643-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0008643.g001</object-id><label>Figure 1</label><caption><title>Immunoblot of A&#x003b2; oligomers.</title><p>From left to right: Lane 1 is the monomer. Lane 2 indicates the apparent inhibition of A&#x003b2; oligomerization in the presence of Curcumin. Lane 3 indicates A&#x003b2; oligomers.</p></caption><graphic xlink:href="pone.0008643.g001"/></fig><fig id="pone-0008643-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0008643.g002</object-id><label>Figure 2</label><caption><title>Effect of 24 h exposure to 100 nM A&#x003b2; on cell functionality measured using whole cell patch clamp electrophysiology.</title><p>Changes after exposure to A&#x003b2; for 24 hr. in spontaneous firing frequency; &#x0002a;&#x0002a;&#x0002a;: p&#x0200a;=&#x0200a;0.00007 (A), K<sup>&#x0002b;</sup> ion channel currents; &#x0002a;&#x0002a;: p&#x0200a;=&#x0200a;0.008 (B), and membrane potential; &#x0002a;: p&#x0200a;=&#x0200a;0.035 (C). Cell survival after administration of 100 nM A&#x003b2; at 24 hours and 7 days; &#x0002a;: p&#x0200a;=&#x0200a;0.04 (D). Data is presented as mean&#x000b1;SEM; N&#x0200a;=&#x0200a;30 utilizing a two-sample Student's t-test.</p></caption><graphic xlink:href="pone.0008643.g002"/></fig><p>As a result of the significant effect of A&#x003b2; on the firing frequency of the hippocampal neurons, it was decided to use this parameter as a possible new target for implementation in high throughput screens utilizing MEAs. The effect of various concentrations of A&#x003b2; on the firing frequency of the neurons on the MEAs that were studied is shown in <xref ref-type="fig" rid="pone-0008643-g003">Figures 3</xref> and <xref ref-type="fig" rid="pone-0008643-g004">4</xref>. At all measured concentrations, A&#x003b2; completely abolishes spontaneous spiking activity whereas application of the vehicle control had no effect (<xref ref-type="fig" rid="pone-0008643-g003">Figure 3A</xref>). The concentration dependence of A&#x003b2; action was quantified by measuring the time required for complete blockade of spiking activity as the dependent parameter in contrast to a more traditional concentration/inhibition relationship. When the cells were exposed to 20 &#x000b5;M A&#x003b2;, the highest concentration tested, spiking activity of the cells stopped after about 150 min. At the lowest concentration (50 nM) the cells stopped firing after about 11 h. As seen in <xref ref-type="fig" rid="pone-0008643-g003">Figure <italic>3B</italic>
+</xref>, the time for cessation of spike activity reached a plateau at around 10 &#x000b5;M at the higher end of the concentration range. Blockade of spontaneous activity was preceded by a significant increase in firing frequency at all measured concentrations. At high concentrations of A&#x003b2;, high cell death was observed as seen in <xref ref-type="fig" rid="pone-0008643-g004">Figure 4</xref>. <xref ref-type="fig" rid="pone-0008643-g005">Figure 5</xref> shows the time course effect of 20 &#x000b5;M A&#x003b2; on spontaneous firing frequency of the embryonic hippocampal neurons. These results were in accordance with those obtained using whole cell patch clamp electrophysiology as indicated in <xref ref-type="fig" rid="pone-0008643-g001">Figure 1</xref>.</p><fig id="pone-0008643-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0008643.g003</object-id><label>Figure 3</label><caption><title>Time course of the effect of A&#x003b2; on spontaneous activity of cultured embryonic rat hippocampal cells at various concentrations.</title><p>Concentrations of 100 nM and 5 &#x000b5;M A&#x003b2; caused a complete cessation of firing activity with different time delays (N&#x0200a;=&#x0200a;5) (A). Composite logarithmic graph of the time taken for cells to stop firing at the various A&#x003b2; concentrations tested (B).</p></caption><graphic xlink:href="pone.0008643.g003"/></fig><fig id="pone-0008643-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0008643.g004</object-id><label>Figure 4</label><caption><title>A&#x003b2; induced cytotoxicity in hippocampal cells on MEAs.</title><p>Cell survival before A&#x003b2; treatment (A) after treatment with 100 nM A&#x003b2; (B) and 20 uM A&#x003b2; (C). Green denotes live cells; Red denotes dead cells. Scale bar: 30 &#x000b5;m. Percentage of live cells after treatment with various concentrations of A&#x003b2; (D). &#x0002a; p&#x0003c;0.5, &#x0002a;&#x0002a;p&#x0003c;0.01, &#x0002a;&#x0002a;&#x0002a;p&#x0003c;0.001.</p></caption><graphic xlink:href="pone.0008643.g004"/></fig><fig id="pone-0008643-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0008643.g005</object-id><label>Figure 5</label><caption><title>Time course of the application of 20 uM A&#x003b2; on spontaneous activity of cultured embryonic rat hippocampal cells on MEAs.</title><p>Spontaneous firing observed before administration of 20 uM A&#x003b2; (A). Spontaneous firing observed 45 minutes after administration of 20 uM A&#x003b2; (B), 90 minutes after administration of 20 uM A&#x003b2; (C) and 150 minutes after administration of 20 uM A&#x003b2; (D).</p></caption><graphic xlink:href="pone.0008643.g005"/></fig></sec><sec id="s2b"><title>Partial Functional Activity Could Be Recovered by Administration of Curcumin</title><p>In our patch clamp experiments we determined that low doses of curcumin (as previously published) were more successful in ameliorating A&#x003b2; toxicity when coadministered with A&#x003b2; as opposed to administration after 24 h exposure to A&#x003b2; (<xref ref-type="fig" rid="pone-0008643-g006">Figure 6</xref>).</p><fig id="pone-0008643-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0008643.g006</object-id><label>Figure 6</label><caption><title>Reversal of the effect of A&#x003b2; by curcumin, measured using whole cell patch clamp electrophysiogy.</title><p>Curcumin was coadminstered with A&#x003b2; or sequentially applied after A&#x003b2; exposure. The values in <xref ref-type="fig" rid="pone-0008643-g001">Figure 1</xref> were used for baseline comparison. 100&#x00025; implies complete reversal of A&#x003b2; effect and 0&#x00025; implies no reversal. Effect on firing frequency; &#x0002a;&#x0002a;&#x0002a;: p&#x0200a;=&#x0200a;0.0007 (A). Effect on potassium currents; &#x0002a;&#x0002a;: p&#x0200a;=&#x0200a;0.005 (B). Effect on membrane potential; &#x0002a;&#x0002a;&#x0002a;: p&#x0200a;=&#x0200a;0.0009, &#x0002a;&#x0002a;: p&#x0200a;=&#x0200a;0.009 (C). Curcumin treated groups were compared with A&#x003b2;-only groups using a two-sample Student's t-test. Data is presented as mean&#x000b1;SEM.</p></caption><graphic xlink:href="pone.0008643.g006"/></fig><p>Thus, having demonstrated that A&#x003b2; functional toxicity could be reproduced using multielectrode arrays, a screening assay was then demonstrated by measuring the recovery of the lost functionality using the anti-amyloidogenic compound curcumin. Based on the control methodology in <xref ref-type="fig" rid="pone-0008643-g006">Figure 6</xref>, two modes of curcumin application were used. Curcumin was coadministered with A&#x003b2; to the cells on the MEAs for a 24 hour period. In the second set of experiments curcumin was applied sequentially after the cells were exposed to A&#x003b2; for 24 hrs. We observed that functional recovery as recorded by the MEAs was similar to the patch-clamp experiments. As seen in <xref ref-type="fig" rid="pone-0008643-g007">Figure 7A</xref>, when curcumin was coadministered with A&#x003b2;, the cells were able to maintain 54.9&#x000b1;0.7&#x00025; (mean&#x000b1;SEM) of their baseline firing activity, as opposed to a complete loss of functionality when treated with A&#x003b2; alone. The decline in firing frequency was more gradual and the drop in firing frequency reached a plateau about 18 hrs after curcumin and A&#x003b2; were coadministered. Administration of curcumin after the cells were exposed to A&#x003b2; for 24 hrs resulted in a gradual recovery of firing frequency to 29.9&#x000b1;0.7&#x00025; (mean&#x000b1;SEM) of the baseline (<xref ref-type="fig" rid="pone-0008643-g007">Figure 7B</xref>). In this paradigm, recovery of spontaneous firing was observed around 10 hrs after curcumin was applied post A&#x003b2; exposure. The recovery of spontaneous firing frequency obtained with curcumin treatment was comparable to results obtained with patch clamp electrophysiology using similar experimental paradigms, as shown in <xref ref-type="fig" rid="pone-0008643-g006">Figure 6</xref>.</p><fig id="pone-0008643-g007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0008643.g007</object-id><label>Figure 7</label><caption><title>Reversal of the effect of A&#x003b2; on firing frequency by curcumin applied together with A&#x003b2; or after A&#x003b2; exposure.</title><p>Time course of the effect of curcumin on spontaneous firing frequency of embryonic hippocampal neurons when coadministered with A&#x003b2; (N&#x0200a;=&#x0200a;5) (A). Time course of curcumin effect on spontaneous firing frequency of embryonic hippocampal neurons when administered after cells were exposed to A&#x003b2; for 24 h (N&#x0200a;=&#x0200a;5) (B). 100&#x00025; implies baseline values before exposure to A&#x003b2;.</p></caption><graphic xlink:href="pone.0008643.g007"/></fig></sec></sec><sec id="s3"><title>Discussion</title><p>Our initial results using whole-cell patch clamp electrophysiology demonstrated that A&#x003b2; affects electrical functionality earlier and at lower concentrations than which affect the survival of the cells. It is possible this effect could also precede synapse degradation or that it may be its upstream cause. Previous results had hinted at this idea, for example Chen and coworkers reported that various low concentrations of A&#x003b2; inhibited long-term potentiation (LTP) in hippocampal slices <xref rid="pone.0008643-Lambert1" ref-type="bibr">[2]</xref>, <xref rid="pone.0008643-Chen1" ref-type="bibr">[38]</xref>, <xref rid="pone.0008643-Wang1" ref-type="bibr">[39]</xref>. Based on these results, Ahuja et al. used MEA technology to measure A&#x003b2; effect on LTP in organotypic hippocampal cultures <xref rid="pone.0008643-Ahuja1" ref-type="bibr">[40]</xref>. The importance of these investigations is highlighted by the significant need in the pharmaceutical industry for an <italic>in vitro</italic> model of the early stages of Alzheimer disease and the functional effects of A&#x003b2; on neurons observed in the study might be considered as an <italic>in vitro</italic> AD model.</p><p>We then utilized this result to create a high-throughput screening method for antagonists of this functional toxicity caused by A&#x003b2;. The MEAs made it possible to screen a significantly higher number of cells for A&#x003b2; and drug effects in a much shorter amount of time than patch-clamp electrophysiology would have required. Development of this method could have a high impact on drug development in Alzheimer's disease (AD). The molecular target of A&#x003b2; toxicity is not well known, thus this functional screen could result in novel effective compounds or therapeutic targets. We have shown that multielectrode arrays (MEAs) can be used to reliably detect functional effects of low doses of A&#x003b2; (100 nM) as well as screen for the rescue effect of curcumin. When applied to hippocampal neurons cultured on MEAs A&#x003b2; had a pronounced effect on the spontaneous firing of the cells, even at concentrations in the nanomolar range. Treatment with A&#x003b2; stopped spontaneous activity completely and the time for cessation was concentration dependent. The A&#x003b2; oligomerization inhibitor, curcumin, was able to partially reverse the loss of spontaneous activity. In accordance with our earlier patch clamp experiments, curcumin was more effective in inhibiting the effect of A&#x003b2; when it was coadministered with it as opposed to the experiments in which it was applied 24 hrs after A&#x003b2; exposure.</p><p>Interestingly, after A&#x003b2; exposure, there was a slight but consistent increase in firing frequency just before the decline of spontaneous activity. The initial increase in firing frequency we observed at all tested A&#x003b2; concentrations could be due to an earlier reported direct depolarizing effect of A&#x003b2; on the membrane potential or to the reputed ability of A&#x003b2; to enhance glutamate-mediated excitotoxicity <xref rid="pone.0008643-Lipton1" ref-type="bibr">[41]</xref>, <xref rid="pone.0008643-Mattson1" ref-type="bibr">[42]</xref> by its action on NMDA receptors and consequently, through an increased influx of Ca<sup>2&#x0002b;</sup>.</p><p>In comparison to slice preparation, our method, measurement of the effect of A&#x003b2; on spontaneous activity of cultured neurons, is significantly simpler and more applicable in high-throughput screen methodology. Another benefit of this MEA AD model, compared to our patch-clamp experiments, was that we were able to follow the time course of the action of curcumin on the A&#x003b2; modified activity of the same population of cells. When A&#x003b2; and curcumin were applied together, curcumin reduced the deleterious effect of A&#x003b2; without a significant change in the time course of A&#x003b2; action (<xref ref-type="fig" rid="pone-0008643-g005">Figure <italic>5</italic>A</xref>). When A&#x003b2; and curcumin were applied sequentially, curcumin reversed the effect of A&#x003b2; and helped the cells to partially recover their spontaneous firing activity (<xref ref-type="fig" rid="pone-0008643-g005">Figure <italic>5</italic>A</xref>). Curcumin was more effective when administered together with A&#x003b2;; the cells were able to retain about 55&#x00025; of their firing capability compared to untreated controls when coadministered as opposed to only 30&#x00025; when sequentially administered. It has been shown that curcumin was able to inhibit A&#x003b2; oligomer formation and reduce amyloid toxicity <italic>in vitro</italic>
+<xref rid="pone.0008643-Yang1" ref-type="bibr">[20]</xref>. In the presence of curcumin, reduced aggregation from monomeric A&#x003b2; and improved disassembly of preformed A&#x003b2; aggregates was observed <xref rid="pone.0008643-Yang1" ref-type="bibr">[20]</xref>. Curcumin's ability to disassemble pre-formed A&#x003b2; aggregates could account for its protective effect against A&#x003b2; toxicity in the co-administration experiments, but the mechanism involved in the reversal of A&#x003b2; toxicity in the post-administration experiments needs further clarification.</p><p>In conclusion, this study demonstrated that it is possible to develop a high-throughput screen for the measurements of drug effects on functional toxicity of low concentrations of A&#x003b2; and this model might be considered as an <italic>in vitro</italic> functional model of the development of Alzheimer's disease. This screen method, based on MEA technology, which enables the screening of a large number of cells, and the study of pathogen and drug effects on the same population of cells over an extended period of time, could find important applications in pharmaceutical drug development and could lead to novel drug candidates or therapies for AD. Moreover, based on similar principles, MEA technology can be potentially extended to study in vitro models of other neurodegenerative diseases as well.</p></sec><sec sec-type="materials|methods" id="s4"><title>Materials and Methods</title><sec id="s4a"><title>Microelectrode Arrays</title><p>The MEAs and accompanying accessories, including the temperature controller, stimulator, amplifier and MC_Rack V 3.5.8 data acquisition software were obtained from ALA Scientific (Westbury, New York) and Multichannel Systems (Reutlingen, Germany). The MEAs comprised of a glass base that acted as a substrate, gold connector contacts and electrodes composed of titanium nitride. Rings were made of Sylgard184 (Dow Corning) (1 part curing base and 10 parts elastomer base, cured at 60&#x000b0;C for 45 minutes) using glass molds and were attached onto the MEAs after surface modification.</p><p>Recordings were obtained from 12&#x02013;16 D. old cultures. Cultures were kept in the incubator between recording sessions.</p></sec><sec id="s4b"><title>Surface Modification</title><p>
+<italic>N</italic>-1(3-[trimethoxysilyl]propyl)-diethylenetriamine (DETA) was used to modify the MEAs to enhance cell attachment since the use of synthetic substrates such as DETA, allows for reproducible and precise quantification of the culture substrate properties <xref rid="pone.0008643-Schaffner1" ref-type="bibr">[43]</xref>. Glass coverslips (18 mm diameter, Number 1; VWR) were cleaned in two steps. First, they were soaked in 50/50&#x00025; HCl (37&#x00025;) (VWR)/methanol (Sigma), followed by H<sub>2</sub>SO<sub>4</sub> (98&#x00025;) (VWR) treatment. Next, they were rinsed in double distilled water. The coverslips were then boiled in deionized water, rinsed with acetone, and oven dried. The MEAs were initially cleaned overnight in 2&#x00025; Tergazyme (Sigma) detergent solution. They were then rinsed in distilled water and plasma cleaned in a plasma cleaner (Harrick Plasma) for 30 mins. The <italic>N</italic>-1(3-[trimethoxysilyl]propyl)-diethylenetriamine (DETA) (United Chemical Technologies) surface assembled monolayer (SAM) film was formed by the reaction of the cleaned surfaces with a 0.1&#x00025; (v/v) mixture of the organosilane in toluene. The DETA/toluene solution containing the MEAs was heated to 70&#x000b0;C, rinsed with toluene, reheated to 70&#x000b0;C, and then oven dried. Surfaces were characterized using contact angle measurement and X-ray photoelectron spectroscopy (XPS) as described previously <xref rid="pone.0008643-Das1" ref-type="bibr">[44]</xref>.</p></sec><sec id="s4c"><title>Cell Culture</title><p>All applied procedures were approved by the Institutional Animal Care and Use Committee of UCF. The protocol was modified from previously published work concerning embryonic rat hippocampal cultures <xref rid="pone.0008643-Schaffner1" ref-type="bibr">[43]</xref>, <xref rid="pone.0008643-Brewer1" ref-type="bibr">[45]</xref>. Pregnant rats, 18 days in gestation, obtained from Charles River were euthanized with carbon dioxide and the fetuses were collected in ice cold Hibernate E (BrainBits)/B27/Glutamax&#x02122;/Antibiotic-Antimycotic (Invitrogen) (dissecting medium). Each fetus was decapitated and the whole brain was transferred to fresh ice cold dissecting medium. After isolation, the hippocampi were collected in a fresh tube of dissecting medium. Hippocampal neurons were obtained by triturating the tissue using a Pasteur pipette. In order to remove any debris from damaged cells the 1 ml cell suspension was layered over a 4 ml step gradient (Optipep diluted 0.505: 0.495 (v/v) with the dissecting medium and then made to 15&#x00025;, 20&#x00025;, 25&#x00025; and 35&#x00025; (v/v) in the dissecting medium) followed by centrifugation for 15 min at 800 g and 4&#x000b0;C. After centrifugation, one strong band of cells was obtained. This band of cells was resuspended in culture medium (Neurobasal/B27/Glutamax&#x02122;/Antibiotic-Antimycotic) and plated at a density of 100 cells/mm<sup>2</sup> on DETA coated coverslips for patch clamp electrophysiology and at 200 cells/mm<sup>2</sup> on the MEAs.</p></sec><sec id="s4d"><title>A&#x003b2; (1&#x02013;42) and Curcumin Administration and Electrophysiology</title><p>Different concentrations of A&#x003b2; (1&#x02013;42) (Bachem) aggregates were prepared according to the protocol by Klein <xref rid="pone.0008643-Klein1" ref-type="bibr">[1]</xref> in Neurobasal medium without phenol red, and quantified using Immunoblots. Curcumin (Cayman Chemicals) was prepared and the concentration chosen according to previously published protocols <xref rid="pone.0008643-Yang1" ref-type="bibr">[20]</xref>.</p><p>For patch clamp electrophysiology experiments, A&#x003b2; was administered to the cells on day 10 <italic>in vitro</italic> and recordings were performed after 24 hrs to obtain baseline values for control cells and A&#x003b2; treated cells. In coadministration experiments, a mixture of 100 nM A&#x003b2; and 1 &#x000b5;M curcumin was administered for 24 hrs after which patch clamp electrophysiology recordings were performed. In sequential administration, cells were initially exposed to freshly aggregated A&#x003b2; alone, followed by replacement of the A&#x003b2; solution with curcumin for 24 hrs patch clamp recordings were performed 24 hrs after curcumin treatment. Whole-cell patch clamp recordings were performed at room temperature in a recording chamber on the stage of a Zeiss Axioscope 2 FS Plus upright microscope as described in <xref rid="pone.0008643-Das1" ref-type="bibr">[44]</xref>.</p><p>In all experiments with MEAs A&#x003b2; was administered to the cells on day 16 <italic>in vitro</italic>. We chose experimental paradigms similar to those used for patch clamp electrophysiology, to study the potential therapeutic effects of curcumin. In coadministration experiments, cells were exposed to a mixture of 100 nM A&#x003b2; and 1 &#x000b5;M Curcumin for 24 hrs, and recordings were performed. In the second paradigm, cells were initially exposed to freshly aggregated A&#x003b2; alone, followed by replacement of the A&#x003b2; solution with curcumin for 24 hrs. Extracellular recordings were obtained before the administration of A&#x003b2;, immediately after A&#x003b2; administration, 24 h after A&#x003b2; administration, before curcumin administration and 24 hrs after curcumin administration.</p></sec><sec id="s4e"><title>Cytotoxixity Assays</title><p>Using the LIVE/DEAD&#x02122; viability/cytotoxicity kit (Molecular Probes), and the MTT based <italic>in vitro</italic> toxicology assay kit (Sigma), cell survival was measured as per the instructions that accompanied the kits.</p></sec><sec id="s4f"><title>Data Analysis and Statistical Methods</title><p>Frequency values for all data points on MEAs were averaged over 5 MEAs. For patch clamp electrophysiology, a sample size of N&#x0200a;=&#x0200a;30 was used. Changes in parameters induced by all externally applied chemicals were quantified as a percentage of baseline values. Statistical significance was calculated used students t test.</p></sec></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This work was funded by the Department of Energy grant number DE-FG-02-04ER46171 and National Institutes of Health grant number 5R01EB005459 for funding support. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0008643-Klein1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klein</surname><given-names>WL</given-names></name></person-group>
+<year>2002</year>
+<article-title>A beta toxicity in Alzheimer's disease: globular oligomers (ADDLs) as new vaccine and drug targets.</article-title>
+<source>Neurochemistry International</source>
+<volume>41(5)</volume>
+<fpage>345</fpage>
+<lpage>352</lpage>
+<pub-id pub-id-type="pmid">12176077</pub-id></element-citation></ref><ref id="pone.0008643-Lambert1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lambert</surname><given-names>MP</given-names></name><name><surname>Barlow</surname><given-names>AK</given-names></name><name><surname>Chromy</surname><given-names>BA</given-names></name><name><surname>Edwards</surname><given-names>C</given-names></name><name><surname>Freed</surname><given-names>R</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>Diffusible, nonfibrillar ligands derived from A beta(1&#x02013;42) are potent central nervous system neurotoxins.</article-title>
+<source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>95(11)</volume>
+<fpage>6448</fpage>
+<lpage>6453</lpage>
+<pub-id pub-id-type="pmid">9600986</pub-id></element-citation></ref><ref id="pone.0008643-StGeorgeHyslop1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>St George-Hyslop</surname><given-names>PH</given-names></name><name><surname>Petit</surname><given-names>A</given-names></name></person-group>
+<year>2005</year>
+<article-title>Molecular biology and genetics of Alzheimer's disease.</article-title>
+<source>Comptes Rendus Biologies</source>
+<volume>328(2)</volume>
+<fpage>119</fpage>
+<lpage>130</lpage>
+<pub-id pub-id-type="pmid">15770998</pub-id></element-citation></ref><ref id="pone.0008643-Townsend1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Townsend</surname><given-names>KP</given-names></name><name><surname>Pratico</surname><given-names>D</given-names></name></person-group>
+<year>2005</year>
+<article-title>Novel therapeutic opportunities for Alzheimer's disease: focus on nonsteroidal anti-inflammatory drugs.</article-title>
+<source>Faseb Journal</source>
+<volume>19(12)</volume>
+<fpage>1592</fpage>
+<lpage>1601</lpage>
+<pub-id pub-id-type="pmid">16195368</pub-id></element-citation></ref><ref id="pone.0008643-Yankner1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yankner</surname><given-names>BA</given-names></name></person-group>
+<year>1996</year>
+<article-title>Mechanisms of neuronal degeneration in Alzheimer's disease.</article-title>
+<source>Neuron</source>
+<volume>16(5)</volume>
+<fpage>921</fpage>
+<lpage>932</lpage>
+<pub-id pub-id-type="pmid">8630250</pub-id></element-citation></ref><ref id="pone.0008643-Hardy1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hardy</surname><given-names>J</given-names></name><name><surname>Selkoe</surname><given-names>DJ</given-names></name></person-group>
+<year>2002</year>
+<article-title>Medicine - The amyloid hypothesis of Alzheimer's disease: Progress and problems on the road to therapeutics.</article-title>
+<source>Science</source>
+<volume>297(5580)</volume>
+<fpage>353</fpage>
+<lpage>356</lpage>
+<pub-id pub-id-type="pmid">12130773</pub-id></element-citation></ref><ref id="pone.0008643-Shankar1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shankar</surname><given-names>GM</given-names></name><name><surname>Li</surname><given-names>S</given-names></name><name><surname>Mehta</surname><given-names>TH</given-names></name><name><surname>Garcia-Munoz</surname><given-names>A</given-names></name><name><surname>Shepardson</surname><given-names>NE</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Amyloid-[beta] protein dimers isolated directly from Alzheimer's brains impair synaptic plasticity and memory Nature Medicine</article-title>
+<volume>14(8)</volume>
+<fpage>837</fpage>
+<lpage>842</lpage>
+</element-citation></ref><ref id="pone.0008643-Knobloch1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Knobloch</surname><given-names>M</given-names></name><name><surname>Mansuy</surname><given-names>IM</given-names></name></person-group>
+<year>2008</year>
+<article-title>Dendritic spine loss and synaptic alterations in Alzheimer's disease.</article-title>
+<source>Molecular Neurobiology</source>
+<volume>37(1)</volume>
+<fpage>73</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="pmid">18438727</pub-id></element-citation></ref><ref id="pone.0008643-Lacor1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lacor</surname><given-names>PN</given-names></name></person-group>
+<year>2007</year>
+<article-title>Advances on the understanding of the origins of synaptic pathology in AD.</article-title>
+<source>Current Genomics</source>
+<volume>8(8)</volume>
+<fpage>486</fpage>
+<lpage>508</lpage>
+<pub-id pub-id-type="pmid">19415125</pub-id></element-citation></ref><ref id="pone.0008643-Lacor2"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lacor</surname><given-names>PN</given-names></name><name><surname>Buniel</surname><given-names>MC</given-names></name><name><surname>Furlow</surname><given-names>PW</given-names></name><name><surname>Clemente</surname><given-names>AS</given-names></name><name><surname>Velasco</surname><given-names>PT</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Neurobiology of Disease A&#x003b2; Oligomer-Induced Aberrations in Synapse Composition, Shape, and Density Provide a Molecular Basis for Loss of Connectivity in Alzheimer's Disease.</article-title>
+<source>Journal of Neuroscience Methods</source>
+<volume>27(4)</volume>
+<fpage>796</fpage>
+<lpage>807</lpage>
+</element-citation></ref><ref id="pone.0008643-Walsh1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walsh</surname><given-names>DM</given-names></name><name><surname>Selkoe</surname><given-names>DJ</given-names></name></person-group>
+<year>2007</year>
+<article-title>A&#x003b2; Oligomers &#x02013; a decade of discovery Journal of Neurochemistry</article-title>
+<volume>101</volume>
+<fpage>1172</fpage>
+<lpage>1184</lpage>
+</element-citation></ref><ref id="pone.0008643-Francis1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Francis</surname><given-names>PT</given-names></name></person-group>
+<year>2008</year>
+<article-title>Glutamatergic approaches to the treatment of cognitive and behavioural symptoms of Alzheimer's disease.</article-title>
+<source>Neurodegenerative Diseases</source>
+<volume>5(3&#x02013;4)</volume>
+<fpage>241</fpage>
+<lpage>243</lpage>
+<pub-id pub-id-type="pmid">18322401</pub-id></element-citation></ref><ref id="pone.0008643-Koike1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koike</surname><given-names>T</given-names></name><name><surname>Yang</surname><given-names>Y</given-names></name><name><surname>Suzuki</surname><given-names>K</given-names></name><name><surname>Zheng</surname><given-names>X</given-names></name></person-group>
+<year>2008</year>
+<article-title>Axon &#x00026; dendrite degeneration: its mechanisms and protective experimental paradigms.</article-title>
+<source>Neurochem Internat</source>
+<volume>52(4&#x02013;5)</volume>
+<fpage>751</fpage>
+<lpage>760</lpage>
+</element-citation></ref><ref id="pone.0008643-Waataja1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Waataja</surname><given-names>JJ</given-names></name><name><surname>Kim</surname><given-names>HJ</given-names></name><name><surname>Roloff</surname><given-names>AM</given-names></name><name><surname>Thayer</surname><given-names>SA</given-names></name></person-group>
+<year>2008</year>
+<article-title>Excitotoxic loss of post-synaptic sites is distinct temporally and mechanistically from neuronal death ournal of Neurochemistry</article-title>
+<volume>104(2)</volume>
+<fpage>364</fpage>
+<lpage>375</lpage>
+</element-citation></ref><ref id="pone.0008643-Hua1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hua</surname><given-names>JY</given-names></name><name><surname>Smith</surname><given-names>SJ</given-names></name></person-group>
+<year>2004</year>
+<article-title>Neural activity and the dynamics of central nervous system development.</article-title>
+<source>Nature Neuroscience</source>
+<volume>7</volume>
+<fpage>327</fpage>
+<lpage>332</lpage>
+<pub-id pub-id-type="pmid">15048120</pub-id></element-citation></ref><ref id="pone.0008643-Nimmrich1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nimmrich</surname><given-names>V</given-names></name><name><surname>Grimm</surname><given-names>C</given-names></name><name><surname>Draguhn</surname><given-names>A</given-names></name><name><surname>Barghorn</surname><given-names>S</given-names></name><name><surname>Lehmann</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Amyloid &#x003b2; oligomers (A &#x003b2; (1&#x02013;42) globulomer) suppress spontaneous synaptic activity by inhibition of P/Q-type calcium currents Journal of Neuroscience Methods</article-title>
+<volume>28(4)</volume>
+<fpage>788</fpage>
+<lpage>797</lpage>
+</element-citation></ref><ref id="pone.0008643-Hamaguchi1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hamaguchi</surname><given-names>T</given-names></name><name><surname>Ono</surname><given-names>K</given-names></name><name><surname>Yamada</surname><given-names>M</given-names></name></person-group>
+<year>2006</year>
+<article-title>Anti-amyloidogenic therapies: strategies for prevention and treatment of Alzheimer's disease.</article-title>
+<source>Cellular and Molecular Life Sciences</source>
+<volume>63(13)</volume>
+<fpage>1538</fpage>
+<lpage>1552</lpage>
+<pub-id pub-id-type="pmid">16804637</pub-id></element-citation></ref><ref id="pone.0008643-Zhao1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhao</surname><given-names>BL</given-names></name><name><surname>Li</surname><given-names>XJ</given-names></name><name><surname>He</surname><given-names>RG</given-names></name><name><surname>Cheng</surname><given-names>SJ</given-names></name><name><surname>Xin</surname><given-names>WJ</given-names></name></person-group>
+<year>1989</year>
+<article-title>Scavenging Effect of Extracts of Green Tea and Natural Antioxidants on Active Oxygen Radicals.</article-title>
+<source>Cell Biophysics</source>
+<volume>14(2)</volume>
+<fpage>175</fpage>
+<lpage>185</lpage>
+<pub-id pub-id-type="pmid">2472207</pub-id></element-citation></ref><ref id="pone.0008643-Lim1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lim</surname><given-names>GP</given-names></name><name><surname>Chu</surname><given-names>T</given-names></name><name><surname>Yang</surname><given-names>FS</given-names></name><name><surname>Beech</surname><given-names>W</given-names></name><name><surname>Frautschy</surname><given-names>SA</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>The curry spice curcumin reduces oxidative damage and amyloid pathology in an Alzheimer transgenic mouse.</article-title>
+<source>Journal of Neuroscience</source>
+<volume>21(21)</volume>
+<fpage>8370</fpage>
+<lpage>8377</lpage>
+<pub-id pub-id-type="pmid">11606625</pub-id></element-citation></ref><ref id="pone.0008643-Yang1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>FS</given-names></name><name><surname>Lim</surname><given-names>GP</given-names></name><name><surname>Begum</surname><given-names>AN</given-names></name><name><surname>Ubeda</surname><given-names>OJ</given-names></name><name><surname>Simmons</surname><given-names>MR</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Curcumin inhibits formation of amyloid beta oligomers and fibrils, binds plaques, and reduces amyloid in vivo.</article-title>
+<source>Journal of Biological Chemistry</source>
+<volume>280(7)</volume>
+<fpage>5892</fpage>
+<lpage>5901</lpage>
+<pub-id pub-id-type="pmid">15590663</pub-id></element-citation></ref><ref id="pone.0008643-Gureviciene1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gureviciene</surname><given-names>I</given-names></name><name><surname>Ikonen</surname><given-names>S</given-names></name><name><surname>Gureviclus</surname><given-names>K</given-names></name><name><surname>Sarkaki</surname><given-names>A</given-names></name><name><surname>van Groen</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Normal induction but accelerated decay of LTP in APP&#x0002b;PS1 transgenic mice.</article-title>
+<source>Neurobiology of Disease</source>
+<volume>15(2)</volume>
+<fpage>188</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="pmid">15006688</pub-id></element-citation></ref><ref id="pone.0008643-Jhamandas1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jhamandas</surname><given-names>JH</given-names></name><name><surname>Cho</surname><given-names>C</given-names></name><name><surname>Jassar</surname><given-names>B</given-names></name><name><surname>Harris</surname><given-names>K</given-names></name><name><surname>MacTavish</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Cellular mechanisms for amyloid beta-protein activation of rat cholinergic basal forebrain neurons.</article-title>
+<source>Journal of Neurophysiology</source>
+<volume>86(3)</volume>
+<fpage>1312</fpage>
+<lpage>1320</lpage>
+<pub-id pub-id-type="pmid">11535679</pub-id></element-citation></ref><ref id="pone.0008643-Egert1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Egert</surname><given-names>U</given-names></name><name><surname>Schlosshauer</surname><given-names>B</given-names></name><name><surname>Fennrich</surname><given-names>S</given-names></name><name><surname>Nisch</surname><given-names>W</given-names></name><name><surname>Fejtl</surname><given-names>M</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>A novel organotypic long-term culture of the rat hippocampus on substrate-integrated multielectrode arrays.</article-title>
+<source>Brain Research Protocols</source>
+<volume>2(4)</volume>
+<fpage>229</fpage>
+<lpage>242</lpage>
+<pub-id pub-id-type="pmid">9630647</pub-id></element-citation></ref><ref id="pone.0008643-Jung1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jung</surname><given-names>DR</given-names></name><name><surname>Cuttino</surname><given-names>DS</given-names></name><name><surname>Pancrazio</surname><given-names>JJ</given-names></name><name><surname>Manos</surname><given-names>P</given-names></name><name><surname>Cluster</surname><given-names>T</given-names></name><etal/></person-group>
+<year>1998</year>
+<article-title>Cell-based sensor microelectrode array characterized by imaging x-ray photoelectron spectroscopy, scanning electron microscopy, impedance measurements, and extracellular recordings.</article-title>
+<source>Journal of Vacuum Science &#x00026; Technology a-Vacuum Surfaces and Films</source>
+<volume>16(3)</volume>
+<fpage>1183</fpage>
+<lpage>1188</lpage>
+</element-citation></ref><ref id="pone.0008643-Natarajan1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Natarajan</surname><given-names>A</given-names></name><name><surname>Molnar</surname><given-names>P</given-names></name><name><surname>Sieverdes</surname><given-names>K</given-names></name><name><surname>Jamshidi</surname><given-names>A</given-names></name><name><surname>Hickman</surname><given-names>JJ</given-names></name></person-group>
+<year>2006</year>
+<article-title>Microelectrode array recordings of cardiac action potentials as a high throughput method to evaluate pesticide toxicity.</article-title>
+<source>Toxicology in Vitro</source>
+<volume>20(3)</volume>
+<fpage>375</fpage>
+<lpage>381</lpage>
+<pub-id pub-id-type="pmid">16198528</pub-id></element-citation></ref><ref id="pone.0008643-Offenhausser1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Offenhausser</surname><given-names>A</given-names></name><name><surname>Sprossler</surname><given-names>C</given-names></name><name><surname>Matsuzawa</surname><given-names>M</given-names></name><name><surname>Knoll</surname><given-names>W</given-names></name></person-group>
+<year>1997</year>
+<article-title>Field-effect transistor array for monitoring electrical activity from mammalian neurons in culture.</article-title>
+<source>Biosensors &#x00026; Bioelectronics</source>
+<volume>12(8)</volume>
+<fpage>819</fpage>
+<lpage>826</lpage>
+<pub-id pub-id-type="pmid">9421889</pub-id></element-citation></ref><ref id="pone.0008643-Nam1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nam</surname><given-names>Y</given-names></name><name><surname>Wheeler</surname><given-names>BC</given-names></name><name><surname>Heuschkel</surname><given-names>MO</given-names></name></person-group>
+<year>2006</year>
+<article-title>Neural recording adn stimulation of dissociated hippocampal cultures using microfabricated three-dimensional tip electrode array.</article-title>
+<source>Journal of Neuroscience Methods</source>
+<volume>155(2)</volume>
+<fpage>296</fpage>
+<lpage>299</lpage>
+<pub-id pub-id-type="pmid">16494949</pub-id></element-citation></ref><ref id="pone.0008643-Hofmann1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hofmann</surname><given-names>F</given-names></name><name><surname>Bading</surname><given-names>H</given-names></name></person-group>
+<year>2006</year>
+<article-title>Long term recordings with microelectrode arrays: Studies of transcription-dependent neuronal plasticity and axonal regeneration.</article-title>
+<source>Journal of Physiology-Paris</source>
+<volume>99(2&#x02013;3)</volume>
+<fpage>125</fpage>
+<lpage>132</lpage>
+</element-citation></ref><ref id="pone.0008643-Thomas1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thomas</surname><given-names>CA</given-names></name><name><surname>Springer</surname><given-names>PA</given-names></name><name><surname>Okun</surname><given-names>LM</given-names></name><name><surname>Berwaldn</surname><given-names>Y</given-names></name><name><surname>Loeb</surname><given-names>GE</given-names></name></person-group>
+<year>1972</year>
+<article-title>Miniature Microelectrode Array to Monitor Bioelectric Activity of Cultured Cells.</article-title>
+<source>Experimental Cell Research</source>
+<volume>74(1)</volume>
+<fpage>61</fpage>
+<lpage>&#x00026;</lpage>
+<pub-id pub-id-type="pmid">4672477</pub-id></element-citation></ref><ref id="pone.0008643-Gross1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gross</surname><given-names>GW</given-names></name><name><surname>Gramowski</surname><given-names>A</given-names></name><name><surname>Schiffmann</surname><given-names>D</given-names></name></person-group>
+<year>1997</year>
+<article-title>Neural network cultures on multielectrode chips: Self-organization of electrically active networks and their uses in neurotoxicology and neuropharmacology.</article-title>
+<source>European Journal of Cell Biology</source>
+<volume>74</volume>
+<fpage>36</fpage>
+<lpage>36</lpage>
+</element-citation></ref><ref id="pone.0008643-Meyer1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meyer</surname><given-names>T</given-names></name><name><surname>Boven</surname><given-names>KH</given-names></name><name><surname>Gunther</surname><given-names>E</given-names></name><name><surname>Fejtl</surname><given-names>M</given-names></name></person-group>
+<year>2004</year>
+<article-title>Micro-electrode arrays in cardiac safety pharmacology - A novel tool to study QT interval prolongation.</article-title>
+<source>Drug Safety</source>
+<volume>27(11)</volume>
+<fpage>763</fpage>
+<lpage>772</lpage>
+<pub-id pub-id-type="pmid">15350150</pub-id></element-citation></ref><ref id="pone.0008643-Chang1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chang</surname><given-names>JC</given-names></name><name><surname>Brewer</surname><given-names>GJ</given-names></name><name><surname>Wheeler</surname><given-names>BC</given-names></name></person-group>
+<year>2001</year>
+<article-title>Modulation of neural network activity by patterning.</article-title>
+<source>Biosensors &#x00026; Bioelectronics</source>
+<volume>16(7&#x02013;8)</volume>
+<fpage>527</fpage>
+<lpage>533</lpage>
+<pub-id pub-id-type="pmid">11544046</pub-id></element-citation></ref><ref id="pone.0008643-Golan1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Golan</surname><given-names>H</given-names></name><name><surname>Mikenberg</surname><given-names>K</given-names></name><name><surname>Greenberger</surname><given-names>V</given-names></name><name><surname>Segal</surname><given-names>M</given-names></name></person-group>
+<year>2000</year>
+<article-title>GABA withdrawal modifies network activity in cultured hippocampal neurons.</article-title>
+<source>Neural Plasticity</source>
+<volume>7(1&#x02013;2)</volume>
+<fpage>31</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="pmid">10709212</pub-id></element-citation></ref><ref id="pone.0008643-Gross2"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gross</surname><given-names>GW</given-names></name><name><surname>Rhoades</surname><given-names>BK</given-names></name><name><surname>Azzazy</surname><given-names>HME</given-names></name><name><surname>Wu</surname><given-names>MC</given-names></name></person-group>
+<year>1995</year>
+<article-title>The Use of Neuronal Networks on Multielectrode Arrays as Biosensors.</article-title>
+<source>Biosensors &#x00026; Bioelectronics</source>
+<volume>10(6&#x02013;7)</volume>
+<fpage>553</fpage>
+<lpage>567</lpage>
+<pub-id pub-id-type="pmid">7612207</pub-id></element-citation></ref><ref id="pone.0008643-Gramowski1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gramowski</surname><given-names>A</given-names></name><name><surname>Jugelt</surname><given-names>K</given-names></name><name><surname>Stuwe</surname><given-names>S</given-names></name><name><surname>Schulze</surname><given-names>R</given-names></name><name><surname>McGregor</surname><given-names>GP</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Functional screening of traditional antidepressants with primary cortical neuronal networks grown on multielectrode neurochips.</article-title>
+<source>European Journal of Neuroscience</source>
+<volume>24(2)</volume>
+<fpage>455</fpage>
+<lpage>465</lpage>
+<pub-id pub-id-type="pmid">16903853</pub-id></element-citation></ref><ref id="pone.0008643-Keefer1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Keefer</surname><given-names>EW</given-names></name><name><surname>Norton</surname><given-names>SJ</given-names></name><name><surname>Boyle</surname><given-names>NAJ</given-names></name><name><surname>Talesa</surname><given-names>V</given-names></name><name><surname>Gross</surname><given-names>GW</given-names></name></person-group>
+<year>2001</year>
+<article-title>Acute toxicity screening of novel AChE inhibitors using neuronal networks on microelectrode arrays.</article-title>
+<source>Neurotoxicology</source>
+<volume>22(1)</volume>
+<fpage>3</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="pmid">11307849</pub-id></element-citation></ref><ref id="pone.0008643-Parviz1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parviz</surname><given-names>M</given-names></name><name><surname>Gross</surname><given-names>GW</given-names></name></person-group>
+<year>2007</year>
+<article-title>Quantification of zinc toxicity using neuronal networks on microelectrode arrays.</article-title>
+<source>Neurotoxicology</source>
+<volume>28(3)</volume>
+<fpage>520</fpage>
+<lpage>531</lpage>
+<pub-id pub-id-type="pmid">17239951</pub-id></element-citation></ref><ref id="pone.0008643-Chen1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>QS</given-names></name><name><surname>Kagan</surname><given-names>BL</given-names></name><name><surname>Hirakura</surname><given-names>Y</given-names></name><name><surname>Xie</surname><given-names>CW</given-names></name></person-group>
+<year>2000</year>
+<article-title>Impairment of hippocampal long-term potentiation by Alzheimer amyloid beta-peptides.</article-title>
+<source>Journal of Neuroscience Research</source>
+<volume>60(1)</volume>
+<fpage>65</fpage>
+<lpage>72</lpage>
+<pub-id pub-id-type="pmid">10723069</pub-id></element-citation></ref><ref id="pone.0008643-Wang1"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>HW</given-names></name><name><surname>Pasternak</surname><given-names>JF</given-names></name><name><surname>Kuo</surname><given-names>H</given-names></name><name><surname>Ristic</surname><given-names>H</given-names></name><name><surname>Lambert</surname><given-names>MP</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Soluble oligomers of beta amyloid (1&#x02013;42) inhibit long-term potentiation but not long-term depression in rat dentate gyrus.</article-title>
+<source>Brain Research</source>
+<volume>924(2)</volume>
+<fpage>133</fpage>
+<lpage>140</lpage>
+<pub-id pub-id-type="pmid">11750898</pub-id></element-citation></ref><ref id="pone.0008643-Ahuja1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ahuja</surname><given-names>TK</given-names></name><name><surname>Mielke</surname><given-names>JG</given-names></name><name><surname>Comas</surname><given-names>T</given-names></name><name><surname>Chakravarthy</surname><given-names>B</given-names></name><name><surname>Mealing</surname><given-names>GAR</given-names></name></person-group>
+<year>2007</year>
+<article-title>Hippocampal slice cultures integrated with multi-electrode arrays: A model for study of long-term drug effects on synaptic activity.</article-title>
+<source>Drug Development Research</source>
+<volume>68(2)</volume>
+<fpage>84</fpage>
+<lpage>93</lpage>
+</element-citation></ref><ref id="pone.0008643-Lipton1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lipton</surname><given-names>SA</given-names></name></person-group>
+<year>2006</year>
+<article-title>Paradigm shift in neuroprotection by NMDA receptor blockade: Memantine and beyond.</article-title>
+<source>Nature Reviews Drug Discovery</source>
+<volume>5(2)</volume>
+<fpage>160</fpage>
+<lpage>170</lpage>
+<pub-id pub-id-type="pmid">16424917</pub-id></element-citation></ref><ref id="pone.0008643-Mattson1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mattson</surname><given-names>MP</given-names></name><name><surname>Cheng</surname><given-names>B</given-names></name><name><surname>Davis</surname><given-names>D</given-names></name><name><surname>Bryant</surname><given-names>K</given-names></name><name><surname>Lieberburg</surname><given-names>I</given-names></name><etal/></person-group>
+<year>1992</year>
+<article-title>Beta-Amyloid Peptides Destabilize Calcium Homeostasis and Render Human Cortical-Neurons Vulnerable to Excitotoxicity.</article-title>
+<source>Journal of Neuroscience</source>
+<volume>12(2)</volume>
+<fpage>376</fpage>
+<lpage>389</lpage>
+<pub-id pub-id-type="pmid">1346802</pub-id></element-citation></ref><ref id="pone.0008643-Schaffner1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schaffner</surname><given-names>AE</given-names></name><name><surname>Barker</surname><given-names>JL</given-names></name><name><surname>Stenger</surname><given-names>DA</given-names></name><name><surname>Hickman</surname><given-names>JJ</given-names></name></person-group>
+<year>1995</year>
+<article-title>Investigation of the factors necessary for growth of hippocampal neurons in a defined system.</article-title>
+<source>Journal of Neuroscience Methods</source>
+<volume>62(1&#x02013;2)</volume>
+<fpage>111</fpage>
+<lpage>119</lpage>
+<pub-id pub-id-type="pmid">8750092</pub-id></element-citation></ref><ref id="pone.0008643-Das1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Das</surname><given-names>M</given-names></name><name><surname>Molnar</surname><given-names>P</given-names></name><name><surname>Devaraj</surname><given-names>H</given-names></name><name><surname>Poeta</surname><given-names>M</given-names></name><name><surname>Hickman</surname><given-names>JJ</given-names></name></person-group>
+<year>2003</year>
+<article-title>Electrophysiological and morphological characterization of rat embryonic motoneurons in a defined system.</article-title>
+<source>Biotechnology Progress</source>
+<volume>19(6)</volume>
+<fpage>1756</fpage>
+<lpage>1761</lpage>
+<pub-id pub-id-type="pmid">14656152</pub-id></element-citation></ref><ref id="pone.0008643-Brewer1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brewer</surname><given-names>GJ</given-names></name><name><surname>Torricelli</surname><given-names>JR</given-names></name><name><surname>Evege</surname><given-names>EK</given-names></name><name><surname>Price</surname><given-names>PJ</given-names></name></person-group>
+<year>1993</year>
+<article-title>Optimized Survival of Hippocampal-Neurons in B27-Supplemented Neurobasal(Tm), a New Serum-Free Medium Combination.</article-title>
+<source>Journal of Neuroscience Research</source>
+<volume>35(5)</volume>
+<fpage>567</fpage>
+<lpage>576</lpage>
+<pub-id pub-id-type="pmid">8377226</pub-id></element-citation></ref></ref-list></back></article>

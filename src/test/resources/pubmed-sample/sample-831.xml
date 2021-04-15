@@ -1,0 +1,1232 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Mol Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Mol. Microbiol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2958</journal-id><journal-id journal-id-type="publisher-id">MMI</journal-id><journal-title-group><journal-title>Molecular Microbiology</journal-title></journal-title-group><issn pub-type="ppub">0950-382X</issn><issn pub-type="epub">1365-2958</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28906055</article-id><article-id pub-id-type="pmc">5698767</article-id><article-id pub-id-type="doi">10.1111/mmi.13838</article-id><article-id pub-id-type="publisher-id">MMI13838</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>The role of genomic location and flanking 3&#x02032;UTR in the generation of functional levels of variant surface glycoprotein in <italic>Trypanosoma brucei</italic>
+</article-title><alt-title alt-title-type="right-running-head">Genomic features facilitating high VSG expression</alt-title><alt-title alt-title-type="left-running-head">S. Ridewood <italic>et al.</italic></alt-title></title-group><contrib-group><contrib id="mmi13838-cr-0001" contrib-type="author"><name><surname>Ridewood</surname><given-names>Sophie</given-names></name><xref ref-type="aff" rid="mmi13838-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="mmi13838-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mmi13838-cr-0002" contrib-type="author"><name><surname>Ooi</surname><given-names>Cher&#x02010;Pheng</given-names></name><xref ref-type="aff" rid="mmi13838-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="author-notes" rid="mmi13838-note-0001">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="mmi13838-cr-0003" contrib-type="author"><name><surname>Hall</surname><given-names>Belinda</given-names></name><xref ref-type="aff" rid="mmi13838-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mmi13838-cr-0004" contrib-type="author"><name><surname>Trenaman</surname><given-names>Anna</given-names></name><xref ref-type="aff" rid="mmi13838-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mmi13838-cr-0005" contrib-type="author"><name><surname>Wand</surname><given-names>Nadina Vasileva</given-names></name><xref ref-type="aff" rid="mmi13838-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mmi13838-cr-0006" contrib-type="author"><name><surname>Sioutas</surname><given-names>Georgios</given-names></name><xref ref-type="aff" rid="mmi13838-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mmi13838-cr-0007" contrib-type="author"><name><surname>Scherwitzl</surname><given-names>Iris</given-names></name><xref ref-type="aff" rid="mmi13838-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="mmi13838-cr-0008" contrib-type="author" corresp="yes"><name><surname>Rudenko</surname><given-names>Gloria</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1884-4933</contrib-id><address><email>gloria.rudenko@imperial.ac.uk</email></address><xref ref-type="aff" rid="mmi13838-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="mmi13838-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Life Sciences, Sir Alexander Fleming Building</named-content>
+<institution>Imperial College London</institution>
+<named-content content-type="city">South Kensington</named-content>
+<named-content content-type="post-code">London SW7 2AZ</named-content>
+<country country="GB">UK</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>For correspondence. E&#x02010;mail <email>gloria.rudenko@imperial.ac.uk</email>; Tel. +44 207 594 8137; Fax +44 207 584 2056.</corresp><fn id="mmi13838-note-0001"><label>&#x02020;</label><p>These authors have made an equal contribution.</p></fn></author-notes><pub-date pub-type="epub"><day>11</day><month>10</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2017</year></pub-date><volume>106</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/mmi.2017.106.issue-4</issue-id><fpage>614</fpage><lpage>634</lpage><history><date date-type="accepted"><day>12</day><month>9</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Molecular Microbiology</italic> Published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:MMI-106-614.pdf"/><abstract><title>Summary</title><p>
+<italic>Trypanosoma brucei</italic> faces relentless immune attack in the mammalian bloodstream, where it is protected by an essential coat of Variant Surface Glycoprotein (VSG) comprising &#x0223c;10% total protein. The active <italic>VSG</italic> gene is in a Pol I&#x02010;transcribed telomeric expression site (ES). We investigated factors mediating these extremely high levels of VSG expression by inserting ectopic <italic>VSG117</italic> into VSG221 expressing <italic>T. brucei</italic>. Mutational analysis of the ectopic <italic>VSG</italic> 3&#x02032;UTR demonstrated the essentiality of a conserved 16&#x02010;mer for mRNA stability. Expressing ectopic <italic>VSG117</italic> from different genomic locations showed that functional VSG levels could be produced from a gene 60 kb upstream of its normal telomeric location. High, but very heterogeneous levels of VSG117 were obtained from the Pol I&#x02010;transcribed rDNA. Blocking VSG synthesis normally triggers a precise precytokinesis cell&#x02010;cycle checkpoint. VSG117 expression from the rDNA was not adequate for functional complementation, and the stalled cells arrested prior to cytokinesis. However, VSG levels were not consistently low enough to trigger a characteristic &#x02018;VSG synthesis block&#x02019; cell&#x02010;cycle checkpoint, as some cells reinitiated S phase. This demonstrates the essentiality of a Pol I&#x02010;transcribed ES, as well as conserved <italic>VSG</italic> 3&#x02032;UTR 16&#x02010;mer sequences for the generation of functional levels of VSG expression in bloodstream form <italic>T. brucei</italic>.</p></abstract><funding-group><award-group><funding-source>Wellcome Trust</funding-source></award-group></funding-group><counts><fig-count count="9"/><table-count count="0"/><page-count count="21"/><word-count count="12944"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>mmi13838</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.6 mode:remove_FC converted:22.11.2017</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="mmi13838-sec-0001"><title>Introduction</title><p>The African trypanosome <italic>Trypanosoma brucei</italic> is a paradigm for monoallelic control and antigenic variation. <italic>T. brucei</italic> is the causative agent of Human African Trypanosomiasis and &#x02018;nagana&#x02019; in livestock, which are transmitted by tsetse flies. Although case numbers for trypanosomiasis have been falling, 70 million people are still estimated to be at potential risk of infection (Franco <italic>et al</italic>., <xref rid="mmi13838-bib-0026" ref-type="ref">2014</xref>). In addition to the human mortality, livestock diseases caused by <italic>T. brucei</italic> and related trypanosomatids cause enormous economic losses. It has been estimated that eliminating these would result in a net benefit to African countries of nearly $2.5 billion over a 20 year period (Shaw <italic>et al</italic>., <xref rid="mmi13838-bib-0069" ref-type="ref">2014</xref>). <italic>T. brucei</italic> thrives in the bloodstream of the mammalian host, despite being exposed to continuous attack by components of the immune system including complement and antibodies (Rudenko, <xref rid="mmi13838-bib-0062" ref-type="ref">2011</xref>; Mugnier <italic>et al</italic>., <xref rid="mmi13838-bib-0056" ref-type="ref">2016</xref>). A chronic infection is maintained through a highly sophisticated strategy of antigenic variation, based on the monoallelic expression of Variant Surface Glycoprotein (VSG) (Glover <italic>et al</italic>., <xref rid="mmi13838-bib-0029" ref-type="ref">2013b</xref>; Gunzl <italic>et al</italic>., <xref rid="mmi13838-bib-0036" ref-type="ref">2015</xref>; Duraisingh and Horn, <xref rid="mmi13838-bib-0022" ref-type="ref">2016</xref>).</p><p>Individual parasites are coated with a VSG coat composed of a dense layer of 10 million rod&#x02010;like VSG molecules attached to the <italic>T. brucei</italic> cell surface via a glycosylphosphatidylinositol (GPI) anchor (Cross, <xref rid="mmi13838-bib-0016" ref-type="ref">1975</xref>; Schwede and Carrington, <xref rid="mmi13838-bib-0066" ref-type="ref">2010</xref>; Schwede <italic>et al</italic>., <xref rid="mmi13838-bib-0067" ref-type="ref">2015</xref>). VSG is the most abundant protein in bloodstream form <italic>T. brucei</italic> making up about 10% of the total protein (Wang <italic>et al</italic>., <xref rid="mmi13838-bib-0080" ref-type="ref">2003</xref>), and is essential even <italic>in vitro</italic>. Blocking VSG synthesis triggers a cell&#x02010;cycle checkpoint resulting in cells stalled pre&#x02010;cytokinesis which do not undergo re&#x02010;initiation of S&#x02010;phase (Sheader <italic>et al</italic>., <xref rid="mmi13838-bib-0071" ref-type="ref">2005</xref>; Smith <italic>et al</italic>., <xref rid="mmi13838-bib-0075" ref-type="ref">2009</xref>).</p><p>The gene for the active VSG is located in one of about fifteen extensive (40&#x02013;60 kb) telomeric <italic>VSG</italic> expression site (ES) transcription units containing large families of polymorphic expression site associated genes as well as the telomeric <italic>VSG</italic> (Becker <italic>et al</italic>., <xref rid="mmi13838-bib-0007" ref-type="ref">2004</xref>; Hertz&#x02010;Fowler <italic>et al</italic>., <xref rid="mmi13838-bib-0039" ref-type="ref">2008</xref>). ESs are controlled in a strictly mono&#x02010;allelic fashion (Chaves <italic>et al</italic>., <xref rid="mmi13838-bib-0014" ref-type="ref">1999</xref>; Glover <italic>et al</italic>., <xref rid="mmi13838-bib-0030" ref-type="ref">2016</xref>). Although the GPI&#x02010;anchored VSG protein is highly immunogenic, stochastic VSG switch events occur in the population, leading to the expression of new and immunologically distinct variants. VSG switching can involve a transcriptional switch to another ES (Alsford <italic>et al</italic>., <xref rid="mmi13838-bib-0004" ref-type="ref">2012</xref>). Alternatively, movement of silent <italic>VSG</italic>s (or segments of <italic>VSGs</italic>) into the active ES through DNA rearrangements allows the trypanosome to switch between different VSGs or create new &#x02018;mosaic&#x02019; variants (Hall <italic>et al</italic>., <xref rid="mmi13838-bib-0037" ref-type="ref">2013</xref>; McCulloch <italic>et al</italic>., <xref rid="mmi13838-bib-0053" ref-type="ref">2015</xref>). As <italic>T. brucei</italic> has an extensive wardrobe of thousands of <italic>VSG</italic> genes and pseudogenes, a chronic infection can be mounted which can last for years (Marcello and Barry, <xref rid="mmi13838-bib-0052" ref-type="ref">2007</xref>; Cross <italic>et al</italic>., <xref rid="mmi13838-bib-0017" ref-type="ref">2014</xref>; Mugnier <italic>et al</italic>., <xref rid="mmi13838-bib-0055" ref-type="ref">2015</xref>).</p><p>Unusually, <italic>VSG</italic> ESs are transcribed by RNA polymerase I (Pol I), which exclusively transcribes ribosomal DNA (rDNA) in other eukaryotes (Gunzl <italic>et al</italic>., <xref rid="mmi13838-bib-0035" ref-type="ref">2003</xref>). The active ES is located in a non&#x02010;nucleolar location known as the Expression Site Body (ESB) (Navarro and Gull, <xref rid="mmi13838-bib-0060" ref-type="ref">2001</xref>). The ESB is formed around a transcriptionally active ES (Kerry <italic>et al</italic>., <xref rid="mmi13838-bib-0046" ref-type="ref">2017</xref>), and presumably contains the transcription and RNA processing machinery necessary for the production of very high levels of <italic>VSG</italic> transcript. <italic>T. brucei</italic> is the only eukaryote known to be capable of utilising Pol I to transcribe protein coding genes, including those encoded in ESs as well as procyclin (major surface protein of procyclic <italic>T. brucei</italic>) (Roditi <italic>et al</italic>., <xref rid="mmi13838-bib-0061" ref-type="ref">1998</xref>; Gunzl <italic>et al</italic>., <xref rid="mmi13838-bib-0035" ref-type="ref">2003</xref>). This unusual ability is presumably possible because trans&#x02010;splicing adds a capped Pol II&#x02010;derived spliced leader RNA to the Pol I&#x02010;derived transcript which would otherwise be uncapped, and, therefore, untranslatable (Bruderer <italic>et al</italic>., <xref rid="mmi13838-bib-0013" ref-type="ref">2003</xref>).</p><p>All other protein coding genes in <italic>T. brucei</italic> are present in extensive polycistronic arrays which are constitutively transcribed by Pol II (Kolev <italic>et al</italic>., <xref rid="mmi13838-bib-0047" ref-type="ref">2010</xref>). There is no evidence for regulated Pol II transcription, and Pol II promoter elements appear to be simple G&#x02010;stretches, which are functionally defined predominantly at the epigenetic level (Siegel <italic>et al</italic>., <xref rid="mmi13838-bib-0072" ref-type="ref">2009</xref>; Wright <italic>et al</italic>., <xref rid="mmi13838-bib-0082" ref-type="ref">2010</xref>). High levels of gene expression in <italic>T. brucei</italic> can be a consequence of gene amplification, with some particularly abundant proteins encoded by large gene families (Berriman <italic>et al</italic>., <xref rid="mmi13838-bib-0010" ref-type="ref">2005</xref>). However, RNA levels are predominantly modulated post&#x02010;transcriptionally through RNA stability elements, allowing life&#x02010;cycle specific expression of constitutively transcribed genes (Kramer, <xref rid="mmi13838-bib-0048" ref-type="ref">2012</xref>; Clayton, <xref rid="mmi13838-bib-0015" ref-type="ref">2014</xref>).</p><p>For antigenic variation to work effectively, there needs to be mono&#x02010;allelic expression of a single surface antigen type, and the major variant needs to be continuously switched during a chronic infection. The trypanosome is, therefore, restricted to express the vast amount of VSG it requires from a single copy gene. We asked which features allow the trypanosome to generate such high levels of VSG expression from a single gene, and tested the functionality of ectopic <italic>VSG</italic> located in different genomic locations, and flanked downstream by different 3&#x02032; untranslated regions (UTRs). We demonstrate the essentiality of a conserved 16&#x02010;mer sequence within the <italic>VSG</italic> 3&#x02032;UTR for conferring functional levels of <italic>VSG</italic> mRNA stability (Berberof <italic>et al</italic>., <xref rid="mmi13838-bib-0008" ref-type="ref">1995</xref>). In addition, we show that high levels of VSG are only expressed from Pol I&#x02010; transcribed loci, although functional levels of VSG expression were only obtained from the Pol I&#x02010;transcribed ES. The exact location of the <italic>VSG</italic> gene within the ES transcription unit was not critical. In contrast, the level of VSG expression from the Pol I&#x02010;transcribed rDNA loci was heterogeneous, and did not adequately complement the cell when endogenous <italic>VSG</italic> transcript was knocked&#x02010;down using RNAi. These results highlight key features essential for generating functional levels of VSG expression in bloodstream form <italic>T. brucei</italic>, enabling it to be such an effective pathogen.</p></sec><sec id="mmi13838-sec-0002"><title>Results</title><sec id="mmi13838-sec-0003"><title>Functional levels of VSG can be expressed 60 kb upstream of the ES telomere</title><p>VSG is the most abundant protein in bloodstream form <italic>T. brucei</italic>, and a relatively minor reduction in its expression level is detrimental even <italic>in vitro</italic> in the absence of an immune system (Sheader <italic>et al</italic>., <xref rid="mmi13838-bib-0071" ref-type="ref">2005</xref>). The active <italic>VSG</italic> is expressed from an extensive (40&#x02013;60 kb) telomeric bloodstream form ES, where it is invariably located adjacent to the telomere repeats (Berriman <italic>et al</italic>., <xref rid="mmi13838-bib-0009" ref-type="ref">2002</xref>; Becker <italic>et al</italic>., <xref rid="mmi13838-bib-0007" ref-type="ref">2004</xref>; Hertz&#x02010;Fowler <italic>et al</italic>., <xref rid="mmi13838-bib-0039" ref-type="ref">2008</xref>). We first investigated the role of genomic location in facilitating these very high levels of VSG expression, and determined if functional levels could be expressed from a <italic>VSG</italic> located immediately downstream of the active ES promoter, rather than at its normal telomeric location 60 kb downstream.</p><p>We inserted a construct containing ectopic <italic>VSG117</italic> immediately downstream of the active <italic>VSG221</italic> ES promoter in the <italic>T. brucei</italic> 427 &#x02018;single&#x02010;marker&#x02019; cell line (SM221) (Fig. <xref rid="mmi13838-fig-0001" ref-type="fig">1</xref>A) (Wirtz <italic>et al</italic>., <xref rid="mmi13838-bib-0081" ref-type="ref">1999</xref>; Smith <italic>et al</italic>., <xref rid="mmi13838-bib-0075" ref-type="ref">2009</xref>). The resulting <italic>T. brucei</italic> SM221/117 cell line expressed high levels of ectopic VSG117 in a background of endogenous VSG221. This resulted in a reduction in VSG221 to approximately 50% wild type levels. Although the relative ratios of expression of VSG117 and VSG221 were variable, the levels appeared inversely correlated with each other (Fig. <xref rid="mmi13838-fig-0001" ref-type="fig">1</xref>B). This pattern of an approximately inverse correlation between the amount of ectopic <italic>VSG117</italic> and endogenous <italic>VSG221</italic> mRNA within the cell was repeatedly observed throughout this study using a broad range of different cell lines (Supporting Information Fig. S1).</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Functional levels of VSG expression from a gene inserted 60 kb upstream of the ES telomere.</p><p>A. Schematic showing the generation of the <italic>T. brucei</italic> SM221/117 &#x02018;double&#x02010;expresser&#x02019; cell line and the subsequent deletion of telomeric <italic>VSG221</italic> to generate SM&#x00394;221/117. <italic>T. brucei</italic> SM221 expresses VSG221 from the active <italic>VSG221</italic> ES, where the ES promoter is indicated with a flag, relevant ES associated genes with open boxes, simple sequence repeats with hatched boxes, telomere repeats with horizontal arrows, and ES transcription with an arrow. A construct containing <italic>VSG117</italic> (red box) and a puromycin resistance gene (purple box) was integrated immediately downstream of the <italic>VSG221</italic> ES promoter, generating SM221/117. The <italic>VSG221</italic> gene (green box) was subsequently deleted and replaced with a blasticidin resistance gene (blue box), generating SM&#x00394;221/117.</p><p>B. Western blot analysis of VSG221 and VSG117 expression in the <italic>T. brucei</italic> SM221/117 or SM&#x00394;221/117 cell lines, where two clones (c1 and c2) were analysed for each. The VSGVO2 expressing cell line <italic>T. brucei</italic> HNI(VO2+) and the VSG221 expressing cell line <italic>T. brucei</italic> BF(221+) are included as controls, and BiP protein served as a loading control.</p><p>C. Cumulative growth curve of the parental <italic>T. brucei</italic> SM221 cell line, one clone of <italic>T. brucei</italic> SM221/117 (c2), and two clones of <italic>T. brucei</italic> SM&#x00394;221/117 (c1 and c2). The mean of three replicates is shown with standard deviation indicated with error bars.</p></caption><graphic id="nlm-graphic-3" xlink:href="MMI-106-614-g001"/></fig><p>The growth rate of <italic>T. brucei</italic> &#x02018;double&#x02010;expressers&#x02019; expressing two <italic>VSG</italic>s from the same ES was the same as that of <italic>T. brucei</italic> expressing only <italic>VSG221</italic> (Fig. <xref rid="mmi13838-fig-0001" ref-type="fig">1</xref>C) (Munoz&#x02010;Jordan <italic>et al</italic>., <xref rid="mmi13838-bib-0057" ref-type="ref">1996</xref>; Smith <italic>et al</italic>., <xref rid="mmi13838-bib-0075" ref-type="ref">2009</xref>). Blocking VSG synthesis with RNAi leads to an abrupt cell&#x02010;cycle arrest, which can be rescued by expression of a second ectopic <italic>VSG</italic> from within the active ES (Smith <italic>et al</italic>., <xref rid="mmi13838-bib-0075" ref-type="ref">2009</xref>). However, as RNAi does not result in complete removal of all targeted mRNA, we asked in a more rigorous fashion if bloodstream form <italic>T. brucei</italic> could be made fully reliant on a <italic>VSG</italic> expressed from immediately behind the ES promoter more than 60 kb upstream of its normal location.</p><p>We, therefore, deleted the telomeric <italic>VSG221</italic> in these &#x02018;double&#x02010;expresser&#x02019; <italic>T. brucei</italic> and replaced it with a blasticidin resistance gene (Fig. <xref rid="mmi13838-fig-0001" ref-type="fig">1</xref>A). The resulting &#x02018;single&#x02010;expresser&#x02019; <italic>T. brucei</italic> SM&#x00394;221/117 cell line only expressed VSG117 (Fig. <xref rid="mmi13838-fig-0001" ref-type="fig">1</xref>B), at levels which were increased compared with &#x02018;double&#x02010;expresser&#x02019; cells. This indicates that a fixed maximal amount of VSG can be stably expressed, which is also essential for trypanosome survival. The VSG117 &#x02018;single&#x02010;expresser&#x02019; cell lines grew slightly slower than either the single or double&#x02010;expresser parental lines (Fig. <xref rid="mmi13838-fig-0001" ref-type="fig">1</xref>C). However, this could be a consequence of slightly less optimal levels of VSG117 expression, possibly due to suboptimal RNA processing signals around the ectopic <italic>VSG117</italic>. As ectopic expression of <italic>VSG117</italic> could rescue the cell from a precytokinesis arrest, this demonstrates that the invariably telomeric location of <italic>VSG</italic> within the bloodstream form ES is not essential for adequate levels of expression.</p></sec><sec id="mmi13838-sec-0004"><title>High levels of expression of ectopic VSG117 from Pol l transcribed loci</title><p>We next expressed ectopic <italic>VSG117</italic> from other genomic locations, including a tagged Pol I rDNA spacer, a Pol II&#x02010;transcribed &#x003b1;&#x02010;&#x003b2; tubulin locus, or upstream of a silent Pol I procyclin transcription unit (Fig. <xref rid="mmi13838-fig-0002" ref-type="fig">2</xref>A), where constructs integrating in the rDNA spacer or upstream of the procyclin genes were transcribed by an ectopic rDNA promoter. Levels of ectopically expressed VSG117 were quantified using LiCor analysis (Fig. <xref rid="mmi13838-fig-0002" ref-type="fig">2</xref>B). As seen previously, expression of ectopic <italic>VSG117</italic> in a background of endogenous <italic>VSG221</italic> appeared to result in a reduction in VSG117 levels compared with VSG117 &#x02018;single&#x02010;expresser&#x02019; <italic>T. brucei</italic>. High levels of VSG117 were expressed from either the Pol I&#x02010;transcribed ES or rDNA (at respectively 34.3&#x02009;&#x000b1;&#x02009;17.9% or 62.4&#x02009;&#x000b1;&#x02009;8.4% levels of the VSG117 &#x02018;single&#x02010;expresser&#x02019; <italic>T. brucei</italic> SM&#x00394;221/117). In contrast, very low levels of VSG117 expression were obtained from the Pol II &#x003b1;&#x02010;&#x003b2; tubulin transcription unit (2.9&#x02009;&#x000b1;&#x02009;0.7%), and negligible amounts (&#x0003c; 1%) were obtained upstream of the inactive procyclin loci.</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>High levels of VSG expression can only be obtained from Pol I transcription units.</p><p>A. Schematic showing the integration of constructs containing <italic>VSG117</italic> (red box) and a hygromycin resistance gene (violet box) into different genomic loci in <italic>T. brucei</italic> expressing VSG221. These include immediately downstream of the <italic>VSG221</italic> ES promoter (white flag), within a tagged rDNA spacer (18S and 28S rRNA genes indicated with black boxes), within the Pol II&#x02010;transcribed &#x003b1;&#x003b2; tubulin array (genes indicated with grey boxes) or upstream of the silent procyclin transcription units (hypothetical protein indicated with HyP, procyclin promoter with a grey flag, and EP1 and EP2 procyclin genes with grey boxes). Constructs integrating into the rDNA spacer or upstream of the procyclin genes contain an ectopic rDNA promoter (black flag) directing transcription. Transcription is indicated with arrows.</p><p>B. Levels of VSG117 expressed from ectopic loci assayed using LiCor analysis. VSG221 is expressed from the active <italic>VSG221</italic> ES in all cell lines except for SM&#x00394;221/117. Quantification is shown below, with data presented as arbitrary units normalised to BiP. Results are from three biological replicates, with standard deviation indicated with error bars</p></caption><graphic id="nlm-graphic-5" xlink:href="MMI-106-614-g002"/></fig><p>We next determined the role of the <italic>VSG</italic> 3&#x02032; flanking regions for VSG expression, and compared levels of expression of ectopic <italic>VSG117</italic> flanked downstream by 3&#x02032; sequences from either <italic>VSG221</italic> or &#x003b1;&#x02010;tubulin (Fig. <xref rid="mmi13838-fig-0003" ref-type="fig">3</xref>). High levels of VSG117 expression could only be obtained if the <italic>VSG</italic> gene was flanked downstream by a <italic>VSG</italic> 3&#x02032; sequence. Replacing these 3&#x02032; flanking sequences with those from tubulin resulted in a 4&#x02013;12&#x02010;fold reduction in <italic>VSG117</italic> transcript levels (Fig. <xref rid="mmi13838-fig-0003" ref-type="fig">3</xref>A). Negligible amounts of ectopic <italic>VSG117</italic> were expressed from either the &#x003b1;&#x003b2;&#x02010;tubulin array or upstream of the procyclin transcription unit irrespective of the 3&#x02032; flanking region. These results were also reflected at the protein level (Fig. <xref rid="mmi13838-fig-0003" ref-type="fig">3</xref>B). The higher levels of VSG117 expression obtained from a <italic>VSG117</italic> gene flanked with <italic>VSG</italic> 3&#x02032; sequences was a consequence of a stabilising effect of these sequences on the <italic>VSG</italic> transcript. <italic>VSG</italic> mRNA undergoes biphasic RNA decay, characterised by initial slow decay followed by a faster reduction in transcript levels (Hoek <italic>et al</italic>., <xref rid="mmi13838-bib-0040" ref-type="ref">2002</xref>; Clayton, <xref rid="mmi13838-bib-0015" ref-type="ref">2014</xref>). This appears to be a general feature for <italic>T. brucei</italic> mRNAs that have long half&#x02010;lives (Fadda <italic>et al</italic>., <xref rid="mmi13838-bib-0025" ref-type="ref">2014</xref>). <italic>VSG117</italic> transcript with <italic>VSG</italic> 3&#x02032; sequences had a mRNA half&#x02010;life of 88.7&#x02009;&#x000b1;&#x02009;22.4 min, compared with 29.7&#x02009;&#x000b1;&#x02009;11.4 min if these 3&#x02032; sequences were replaced with those from tubulin (Supporting Information Fig. S2). Our estimate of a <italic>VSG</italic> mRNA half&#x02010;life of between 85 and 99 min is comparable with the value of 84&#x02013;90 min previously determined using Northern blotting (Hoek <italic>et al</italic>., <xref rid="mmi13838-bib-0040" ref-type="ref">2002</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The <italic>VSG</italic> 3&#x02032;UTR is essential for high levels of expression of <italic>VSG</italic> mRNA.</p><p>A. Quantification of mRNA levels expressed from ectopic <italic>VSG117</italic> or endogenous <italic>VSG221</italic> using qPCR in the cells lines shown in Fig. <xref rid="mmi13838-fig-0002" ref-type="fig">2</xref>A. Ectopic <italic>VSG117</italic> was expressed from immediately behind the <italic>VSG221</italic> ES promoter, in the rDNA spacer, the tubulin array or upstream of the procyclin loci. <italic>VSG117</italic> was flanked downstream by either a <italic>VSG221</italic> (VSG 3&#x02032;) or tubulin (Tub 3&#x02032;) UTR. The VSG221 or VSG117 single expressers (SM221pur or SM&#x00394;221/117 respectively) are shown as controls. <italic>VSG</italic> transcript levels were normalised to actin. There was significant downregulation of endogenous <italic>VSG221</italic> transcript in cells expressing high levels of <italic>VSG117</italic> from either the <italic>VSG221</italic> ES or the rDNA spacer (* <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05). The results are from three biological replicates with the standard deviation indicated with error bars.</p><p>B. Western blot analysis of VSG117 expressed ectopically from the <italic>VSG221</italic> ES, the rDNA locus, tubulin locus (tub) or upstream of the procyclin loci (Pro). <italic>VSG117</italic> was flanked downstream with a <italic>VSG221</italic> or a tubulin 3&#x02032;UTR. The VSG221 or VSG117 single expressers (SM221 or SM&#x00394;221/117 respectively) are included for comparison. The blot was probed for VSG117 or VSG221 with BiP used as a loading control.</p></caption><graphic id="nlm-graphic-7" xlink:href="MMI-106-614-g003"/></fig><p>We next sought to determine if the adjacent regions downstream of the <italic>VSG</italic> had an effect on the increased RNA stability, and found that the observed stabilising effect on the <italic>VSG</italic> mRNA transcript was due to the <italic>VSG</italic> 3&#x02032;UTR rather than the adjacent 3&#x02032; flanking regions. We analysed trypanosomes expressing ectopic <italic>VSG117</italic> flanked with chimeric <italic>VSG</italic> and &#x003b1;&#x02010;tubulin 3&#x02032; downstream sequences (Supporting Information Figs S3 and S4). High levels of expression of ectopic <italic>VSG117</italic> were only obtained if <italic>VSG117</italic> was flanked with a <italic>VSG</italic> 3&#x02032;UTR, even if the regions downstream of the polyadenylation site were switched for those downstream of an &#x003b1;&#x02010;tubulin polyadenylation site (Supporting Information Figs S3 and S4). <italic>T. brucei</italic> genes tend to show variability in the polyadenylation sites used (Siegel <italic>et al</italic>., <xref rid="mmi13838-bib-0073" ref-type="ref">2010</xref>). Using Rapid Amplification of 3&#x02032; Ends (3&#x02032;RACE) (Scotto&#x02010;Lavino <italic>et al</italic>., <xref rid="mmi13838-bib-0068" ref-type="ref">2006</xref>) we found that the preferred <italic>VSG</italic> polyadenylation site did not change in these chimeric 3&#x02032; sequences, although there was an increase in use of alternative <italic>VSG</italic> polyadenylation sites (Supporting Information Fig. S4 and Table S1). This demonstrates that the <italic>VSG</italic> 3&#x02032;UTR was the main factor in facilitating high levels of expression of ectopic <italic>VSG117</italic>, and that this was a consequence of a transcript stabilising effect of the <italic>VSG</italic> 3&#x02032;UTR (Berberof <italic>et al</italic>., <xref rid="mmi13838-bib-0008" ref-type="ref">1995</xref>).</p><p>As shown earlier, expression of a higher level of an ectopic <italic>VSG117</italic> resulted in a compensatory decrease in levels of expression of the endogenous <italic>VSG221</italic>, which was seen at both the RNA and protein level (Fig. <xref rid="mmi13838-fig-0003" ref-type="fig">3</xref>) (Supporting Information Fig. S1). Decrease in endogenous <italic>VSG221</italic> transcript was significant and highly repeatable (* <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05). It has been previously documented that expression of an ectopic <italic>VSG</italic> from a tetracycline inducible T7 promoter leads to transcriptional attenuation of the active ES telomere (Batram <italic>et al</italic>., <xref rid="mmi13838-bib-0006" ref-type="ref">2014</xref>). However, this attenuation is unstable, and disappears within days. We did not find evidence for significant transcriptional attenuation of the <italic>VSG221</italic> ES telomere when an ectopic <italic>VSG117</italic> was expressed from a location either immediately proximal to the active <italic>VSG221</italic> ES promoter, or from the rDNA spacer.</p><p>The <italic>VSG221</italic> ES telomere contains unique sequences including a single copy <italic>VSG</italic> pseudogene (pseudo 1.10100, and the <italic>VSG221</italic> co&#x02010;transposed region (CTR) (Fig. <xref rid="mmi13838-fig-0004" ref-type="fig">4</xref>A) (Davies <italic>et al</italic>., <xref rid="mmi13838-bib-0019" ref-type="ref">1997</xref>). Unstable transcripts are generated from these sequences. We saw a significant reduction in <italic>VSG221</italic> transcript when ectopic <italic>VSG117</italic> was expressed from either the ES or the rDNA spacer (Fig. <xref rid="mmi13838-fig-0004" ref-type="fig">4</xref>B) (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05). Quantification of the low abundance transcripts from the <italic>VSG</italic> pseudogene or the CTR gave a higher degree of variability than quantification of <italic>VSG221</italic> mRNA. However, we did not find evidence for a statistically significant reduction in their abundance in the presence of expression of ectopic <italic>VSG117</italic> (Fig. <xref rid="mmi13838-fig-0004" ref-type="fig">4</xref>B). This absence of significant transcriptional attenuation argues that the inverse correlation in the amounts of VSG117 and VSG221 that we observe (Supporting Information Fig. S1) is operating at the level of mRNA stability, and could be the consequence of a limiting, and transcript stabilising <italic>VSG</italic> 3&#x02032;UTR binding protein.</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Expression of ectopic <italic>VSG117</italic> leads to significant reduction in levels of <italic>VSG221</italic> mRNA but no significant attenuation of transcription at the active <italic>VSG221</italic> telomere.</p><p>A. Schematic of the <italic>VSG221</italic> ES telomere indicating the relative positions of a single copy <italic>VSG</italic> pseudogene (&#x003c8;), 70 bp repeats, the <italic>VSG221</italic> co&#x02010;transposed region (CTR) and <italic>VSG221</italic>. The ES promoter is indicated with a flag and telomere repeats with horizontal arrows. The schematic is not to scale.</p><p>B. Quantification of RNA transcript levels corresponding to the <italic>VSG</italic> pseudogene, CTR or <italic>VSG221</italic> in cells where ectopic <italic>VSG117</italic> with a <italic>VSG221</italic> 3&#x02032;UTR was inserted into the active <italic>VSG221</italic> ES or an rDNA spacer using qPCR. Transcript levels were normalised against actin, and data are presented as arbitrary units (2<sup>&#x02013;&#x00394;Ct</sup>). The &#x02018;single&#x02010;expresser&#x02019; SM221pur (221+) and SM&#x00394;221/117 (117+) cell lines, as well as the HNI(VO2) cell line (V02+) with an active <italic>VSGV02</italic> ES are included as controls. As expected, there was significant reduction in levels of <italic>VSG221</italic> transcript on expression of ectopic <italic>VSG117</italic> (* <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05, one way ANOVA and Tukey <italic>post hoc</italic>). However, there was no significant reduction in the level of other precursor RNAs derived from the <italic>VSG221</italic> ES telomere. Results were derived from three biological replicate experiments with standard deviation indicated with error bars.</p></caption><graphic id="nlm-graphic-9" xlink:href="MMI-106-614-g004"/></fig></sec><sec id="mmi13838-sec-0005"><title>A highly conserved 16&#x02010;mer in the VSG 3&#x02032; UTR is essential for mRNA stability</title><p>Alignment of the <italic>VSG</italic> 3&#x02032; UTR in 31 <italic>VSG</italic> cDNA sequences identified highly conserved 9&#x02010;mer and 16&#x02010;mer sequences (Fig. <xref rid="mmi13838-fig-0005" ref-type="fig">5</xref>A, Supporting Information Fig. S5) (Borst and Cross, <xref rid="mmi13838-bib-0012" ref-type="ref">1982</xref>; Berberof <italic>et al</italic>., <xref rid="mmi13838-bib-0008" ref-type="ref">1995</xref>; Hutchinson <italic>et al</italic>., <xref rid="mmi13838-bib-0043" ref-type="ref">2007</xref>). We determined the predicted secondary structure of these <italic>VSG</italic> 3&#x02032;UTRs using RNAfold (ViennaRNA Package 2.0) (Gruber <italic>et al</italic>., <xref rid="mmi13838-bib-0031" ref-type="ref">2008</xref>), and found that most <italic>VSG</italic> 3&#x02032; UTR sequences form a hairpin with the 9&#x02010;mer located in the loop (Fig. <xref rid="mmi13838-fig-0005" ref-type="fig">5</xref>B). We, therefore, used mutational analysis to test the functional role of these different <italic>VSG</italic> 3&#x02032;UTR sequences and hypothetical RNA folding structures. We expressed ectopic <italic>VSG117</italic> flanked downstream with a <italic>VSG117</italic> 3&#x02032;UTR with scrambled 9&#x02010;mer and/or 16&#x02010;mer sequences (Fig. <xref rid="mmi13838-fig-0005" ref-type="fig">5</xref>C). In addition, we created mutations where we abolished the predicted stem&#x02010;loop structure or recreated it using different sequences. Last, we mutated conserved sequences at the 3&#x02032; end of the <italic>VSG</italic> open reading frame (Fig. <xref rid="mmi13838-fig-0005" ref-type="fig">5</xref>C) (Supporting Information Table S2).</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Mutational analysis of highly conserved features of the <italic>VSG</italic> 3&#x02032; UTR.</p><p>A. Schematic of the <italic>VSG117</italic> gene with untranslated regions (UTR) and open reading frame (ORF) indicated. Sequence of the <italic>VSG117</italic> 3&#x02032; UTR is shown with relevant sequences indicated with boxes including the GPI anchor addition sequence (GPI add.), the stop codon, and sequences that are highly conserved in functional <italic>VSG</italic> transcripts: the 9&#x02010;mer and the 16&#x02010;mer. In addition, a highly conserved sequence at the 3&#x02032; end of the <italic>VSG</italic> ORF is shown which encodes a Leu&#x02010;Leu dipeptide which is part of the GPI anchor addition signal.</p><p>B. Predicted RNA secondary structure of the <italic>VSG117</italic> or <italic>VSG221</italic> 3&#x02032; UTR as determined using RNAfold (ViennaRNA Package 2.0). The positions of relevant features in the predicted RNA structures are highlighted with black lines. The colours of the dots indicate the probability of RNA nucleotides being unpaired from unlikely (blue&#x02009;=&#x02009;0) to highly likely (red&#x02009;=&#x02009;1).</p><p>C. Overview of six <italic>VSG117</italic> 3&#x02032; UTR mutations generated to probe the essentiality of specific highly conserved sequences, as well as predicted <italic>VSG</italic> UTR secondary structure. Mutations 1&#x02013;3 scrambled the sequences of the conserved 9&#x02010;mer and/or 16&#x02010;mer. Mutations 4 and 5 either abolished the stem&#x02010;loop structure, or maintained its structure but changed its sequence. Mutation 6 mutated a conserved sequence within the <italic>VSG117</italic> ORF without disrupting the GPI anchor addition sequence. The sequences of the <italic>VSG</italic> 3&#x02032; UTR mutations analysed are in the Supporting Information.</p></caption><graphic id="nlm-graphic-11" xlink:href="MMI-106-614-g005"/></fig><p>Constructs containing an ectopic <italic>VSG117</italic> flanked downstream with these mutant 3&#x02032;UTR sequences were integrated within an active <italic>VSG221</italic> ES in <italic>T. brucei</italic> 221VB1.1 (Sheader <italic>et al</italic>., <xref rid="mmi13838-bib-0071" ref-type="ref">2005</xref>) (Fig. <xref rid="mmi13838-fig-0006" ref-type="fig">6</xref>A). Endogenous <italic>VSG221</italic> was subsequently knocked down using tetracycline inducible RNAi to assess the functionality of the ectopic copies of <italic>VSG117</italic>. In most of the cell lines generated, relatively equal amounts of <italic>VSG117</italic> and <italic>VSG221</italic> transcript were expressed. However, <italic>VSG</italic> 3&#x02032;UTR mutations 2 and 3 significantly affected levels of expression of ectopic <italic>VSG117</italic> (**<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01), and mRNA levels were reduced to 14&#x02013;16% or 18&#x02013;20% of wild type respectively (Fig. <xref rid="mmi13838-fig-0006" ref-type="fig">6</xref>B). The levels of VSG117 protein were also reduced in a comparable fashion (Fig. <xref rid="mmi13838-fig-0006" ref-type="fig">6</xref>C). These levels of VSG117 expression were not high enough for functional complementation, and cells arrested when endogenous <italic>VSG221</italic> transcript was knocked down with RNAi (Fig. <xref rid="mmi13838-fig-0006" ref-type="fig">6</xref>D). In some cases, trypanosomes eventually escaped the <italic>VSG</italic> RNAi induced cell cycle arrest (Fig. <xref rid="mmi13838-fig-0006" ref-type="fig">6</xref>D mut 2), as has been observed previously (Aitcheson <italic>et al</italic>., <xref rid="mmi13838-bib-0001" ref-type="ref">2005</xref>; Sheader <italic>et al</italic>., <xref rid="mmi13838-bib-0071" ref-type="ref">2005</xref>). This appears to be a consequence of a negative selection pressure selecting for cells which have escaped the <italic>VSG221</italic> RNAi, either through switching away from <italic>VSG221</italic> or through mutation of a component of the tetracycline inducible RNAi machinery. In contrast, no growth reduction was seen in <italic>T. brucei</italic> expressing <italic>VSG117</italic> flanked by either a wild type <italic>VSG</italic> 3&#x02032;UTR (navy dotted lines) or other mutant <italic>VSG</italic> 3&#x02032;UTRs (Supporting Information Fig. S6). Thus, the conserved 16&#x02010;mer sequence which was shared between <italic>VSG</italic> 3&#x02032;UTR mutations 2 and 3, is essential for functional levels of VSG expression.</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>The conserved 16&#x02010;mer sequence within the <italic>VSG</italic> 3&#x02032;UTR is essential for high levels of VSG expression.</p><p>A. Schematic of the cell line used for the <italic>VSG</italic> 3&#x02032;UTR studies. Constructs containing <italic>VSG117</italic> flanked downstream by either wild type (WT) or mutant <italic>VSG117</italic> 3&#x02032; UTRs were inserted into the active <italic>VSG221</italic> expression site (ES) of the bloodstream form <italic>T. brucei</italic> 221VB1.1 cell line. The selectable marker was a puromycin (Pur) resistance gene. <italic>VSG221</italic> RNAi can be induced in this cell line, which allows one to establish if ectopic <italic>VSG117</italic> can compensate for lack of <italic>VSG221</italic> transcript. Promoters are indicated with flags and transcription with arrows.</p><p>B. Levels of <italic>VSG117</italic> and <italic>VSG221</italic> transcript as determined using qPCR. RNA was isolated from cell lines expressing ectopic <italic>VSG117</italic> flanked downstream by either a wild type <italic>VSG117</italic> UTR, or a <italic>VSG117</italic> UTR with mutations in conserved features. The <italic>VSG</italic> 3&#x02032;UTR mutant numbers (1&#x02013;6) are described in Fig. <xref rid="mmi13838-fig-0005" ref-type="fig">5</xref>C. RNA from the SM221pur (221+) or SM&#x00394;221/117 (117+) &#x02018;single&#x02010;expresser&#x02019; strains is analysed as a control. Values normalised against actin are shown in arbitrary units (2<sup>&#x02010;&#x00394;Ct</sup>), with the amount of <italic>VSG221</italic> (red bars) or <italic>VSG117</italic> (green bars) transcript shown as the mean of three independent experiments with the standard deviation indicated with error bars. The only significant reduction in <italic>VSG117</italic> transcript compared with wild type (WT) was in mutants m2 and m3 containing scrambled 16&#x02010;mer sequences (** <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01).</p><p>C. Western blot analysis of VSG levels in <italic>T. brucei</italic> expressing ectopic <italic>VSG117</italic> with either a wild type (WT) or mutant <italic>VSG117</italic> 3&#x02032; UTRs (m1&#x02013;m6). Protein lysates were isolated from the cell lines analysed in panel B. Protein from two clones of each mutant are shown in comparison with &#x02018;single&#x02010;expresser&#x02019; cell lines SM221pur (VSG221+) or SM&#x00394;221/117 (VSG117+). VSG117 or VSG221 were probed for, with BiP serving as a loading control.</p><p>D. The conserved 16&#x02010;mer present in the <italic>VSG</italic> 3&#x02032;UTR is required for functional levels of VSG expression. Growth curves were performed in VSG221 expressing <italic>T. brucei</italic> cell lines expressing ectopic <italic>VSG117</italic> with either a wild type (WT) or a mutated <italic>VSG</italic> 3&#x02032;UTR (Mutant 2 or Mutant 3). <italic>VSG221</italic> RNAi was induced in the presence (+) or absence (&#x02010;) of tetracycline. Two clones are shown for each mutant (c1 and c2). Results are the mean of three independent experiments with standard deviation indicated with error bars.</p></caption><graphic id="nlm-graphic-13" xlink:href="MMI-106-614-g006"/></fig><p>We next determined if the conserved 16&#x02010;mer in the <italic>VSG</italic> 3&#x02032;UTR plays a role in transcript stability. This was indeed the case, and scrambling the 16&#x02010;mer resulted in a striking reduction in <italic>VSG117</italic> transcript half&#x02010;life from 113.9&#x02009;&#x000b1;&#x02009;6.0 min to 20.3&#x02009;&#x000b1;&#x02009;10.8 min (Fig. <xref rid="mmi13838-fig-0007" ref-type="fig">7</xref>). In contrast, the half&#x02010;life of <italic>VSG221</italic> transcript expressed from the endogenous <italic>VSG221</italic> gene was 40&#x02013;60 min. This value for the <italic>VSG221</italic> mRNA half&#x02010;life was significantly lower than the 85&#x02013;99 min observed earlier, which also corresponds with previously published data (Supporting Information Fig. S2) (Hoek <italic>et al</italic>., <xref rid="mmi13838-bib-0040" ref-type="ref">2002</xref>). This apparent decrease in <italic>VSG221</italic> mRNA half&#x02010;life is presumably due to the presence of a <italic>VSG221</italic> RNAi construct in these cells, which is absent in the cells used for the data presented in Supporting Information Fig. S1. Even in the absence of tetracycline, leaky <italic>VSG221</italic> RNAi presumably degrades <italic>VSG221</italic> mRNA transcript enough to result in an apparent decrease of the <italic>VSG221</italic> half&#x02010;life. In support of this explanation, the measured half&#x02010;life of <italic>VSG117</italic> mRNA (which would not be affected by <italic>VSG221</italic> RNAi) does not differ drastically between these two different types of cell lines.</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Mutation of a conserved 16&#x02010;mer sequence within the <italic>VSG</italic> 3&#x02032; UTR results in a drastic reduction in <italic>VSG</italic> transcript half&#x02010;life.</p><p>A. Sequence of a relevant segment of the <italic>VSG117</italic> 3&#x02032; UTR with the conserved 9&#x02010;mer and 16&#x02010;mer sequences highlighted with boxes. The wild type (WT) 16&#x02010;mer sequence is shown, as well as the scrambled version present in Mutant 2 (mut 2). Relevant nucleotide numbers are shown in relation to the start of the 3&#x02032; UTR.</p><p>B. Decrease in <italic>VSG</italic> RNA half&#x02010;life when the conserved 16&#x02010;mer in the <italic>VSG117</italic> 3&#x02032;UTR is scrambled. RNA was isolated from cell lines expressing <italic>VSG117</italic> with a wild type (WT) <italic>VSG</italic> 3&#x02032;UTR (<italic>T. brucei</italic> SM221/117&#x02009;+&#x02009;WT 3&#x02032;UTR) or a <italic>VSG</italic> 3&#x02032; UTR with a scrambled 16&#x02010;mer (<italic>T. brucei</italic> SM221/117&#x02009;+&#x02009;mut2 3&#x02032;UTR). Cells were incubated with sinefungin to block trans&#x02010;splicing and actinomycin D to inhibit transcription, and total RNA was harvested at different time points. Transcript levels were determined by qPCR. Results are presented as a ratio of transcript levels obtained from single&#x02010;expresser cell lines expressing either only <italic>VSG117</italic> or <italic>VSG221</italic>. The mean of three independent experiments is shown with the standard deviation indicated with error bars.</p><p>C. The half&#x02010;life in minutes (min) of <italic>VSG117</italic> (red bars) or <italic>VSG221</italic> (green bars) transcript in cell lines where ectopic <italic>VSG117</italic> has either a wild type (WT) or mutant 2 (mut2) 3&#x02032;UTR. Results are the mean of three independent experiments with the standard deviation indicated with error bars.</p></caption><graphic id="nlm-graphic-15" xlink:href="MMI-106-614-g007"/></fig><p>Alterations in the polyadenylation site used would affect the length of the 3&#x02032;UTR, which could potentially impact on mRNA stability (Elkon <italic>et al</italic>., <xref rid="mmi13838-bib-0024" ref-type="ref">2013</xref>). However, using 3&#x02032;RACE we did not find a change in the preferred polyadenylation site used for the mRNA of ectopic <italic>VSG117</italic> (Supporting Information Table S3). It is, therefore, possible that an RNA binding protein targeting the conserved 16&#x02010;mer in the <italic>VSG</italic> 3&#x02032;UTR stabilises the <italic>VSG</italic> transcript, although it cannot be excluded that RNA binding proteins binding elsewhere in the transcript are also involved (Clayton, <xref rid="mmi13838-bib-0015" ref-type="ref">2014</xref>).</p></sec><sec id="mmi13838-sec-0006"><title>Expression of ectopic VSG117 from the rDNA locus is heterogeneous and does not provide functional levels of expression</title><p>Analysis of <italic>T. brucei</italic> expressing ectopic <italic>VSG117</italic> from the active <italic>VSG221</italic> ES showed that both VSG117 as well as VSG221 (encoded by the endogenous <italic>VSG221</italic> gene) were present at the cell surface, and similar homogeneous levels were observed on individual cells (Fig. <xref rid="mmi13838-fig-0008" ref-type="fig">8</xref>). However, in contrast when <italic>VSG117</italic> was expressed from the rDNA spacer, very heterogeneous levels of VSG117 expression were observed in the population. This variability is presumably a consequence of stochastic changes in the activation state of the rDNA transcription unit.</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0008" orientation="portrait" position="float"><label>Figure 8</label><caption><p>Heterogeneous levels of expression of ectopic <italic>VSG117</italic> expressed from an rDNA spacer compared with an ES.</p><p>Immunofluorescence analysis was performed on <italic>T. brucei</italic> expressing an ectopic copy of <italic>VSG117</italic> from within the active <italic>VSG221</italic> ES, the rDNA spacer, the tubulin array or upstream of a procyclin locus. The flanking 3&#x02032;UTR was from <italic>VSG221</italic> or tubulin. Panels show <italic>T. brucei</italic> visualised with differential interference contrast (DIC), or reacted with a rabbit polyclonal antibody specific for VSG221 or a mouse monoclonal against VSG117. The scale bar indicates 10 &#x000b5;M.</p></caption><graphic id="nlm-graphic-17" xlink:href="MMI-106-614-g008"/></fig><p>We, therefore, compared the relative levels of <italic>VSG117</italic> expressed from either the Pol I&#x02010; transcribed ES or the rDNA. If <italic>VSG117</italic> was expressed from the active <italic>VSG221</italic> ES in &#x02018;double&#x02010;expresser&#x02019; <italic>T. brucei</italic>, <italic>VSG117</italic> transcript levels were approximately 40.4&#x02009;&#x000b1;&#x02009;9.1% those of a &#x02018;single&#x02010;expresser&#x02019; (Supporting Information Fig. S7A). Similarly, at the population level transcript levels from a gene inserted in the rDNA spacer were approximately 31.4&#x02009;&#x000b1;&#x02009;5.6% of a &#x02018;single&#x02010;expresser&#x02019;. Similarly at the protein level, VSG117 expressed from the active ES was 54.1&#x02009;&#x000b1;&#x02009;6.1% &#x02018;single&#x02010;expresser&#x02019; levels, while there was marginally reduced expression from the rDNA spacer (41.9&#x02009;&#x000b1;&#x02009;17.3% levels of a VSG117 &#x02018;single&#x02010;expresser&#x02019;) (Supporting Information Figs S6B and S6C). Both the SM221/117 and 221rD117 cell lines include <italic>VSG221</italic> RNAi constructs. However, in the absence of tetracycline, we do not think that leaky expression from these constructs significantly impacts on our measurements. The expression of ectopic <italic>VSG117</italic> appears to increase after knock&#x02010;down of <italic>VSG221</italic> in the SM221/117 cells, but not in the 221rD117 cell&#x02010;line. However, this is presumably a consequence of the SM221/117 (but not 221rD117) cells continuing to proliferate, and thereby skewing the population towards VSG117 expressers.</p></sec><sec id="mmi13838-sec-0007"><title>A precise cell cycle arrest is not triggered in cells stalled by the expression of ectopic VSG from the rDNA spacer</title><p>We next asked if VSG117 expressed from the rDNA spacer could functionally complement the cell if VSG221 synthesis was knocked down using RNAi (Fig. <xref rid="mmi13838-fig-0009" ref-type="fig">9</xref>A). In the presence of <italic>VSG221</italic> RNAi all <italic>T. brucei</italic> clones investigated stalled abruptly, indicating that expression of ectopic <italic>VSG117</italic> from the rDNA spacer was not adequate for survival (Fig. <xref rid="mmi13838-fig-0009" ref-type="fig">9</xref>B). We next performed cell cycle analysis on cells that had stalled after <italic>VSG221</italic> synthesis was blocked in the presence of expression of ectopic <italic>VSG117</italic> from the rDNA (Fig. <xref rid="mmi13838-fig-0009" ref-type="fig">9</xref>C). Cells in G1 have one kinetoplast (K) and one nucleus (N). As they enter S phase, first the kinetoplast divides (2K1N), and then mitosis occurs generating (2K2N) cells. In the parental <italic>T. brucei</italic> SM221 221RNAi cell line, there was an expected accumulation of 2K2N cells after the induction of <italic>VSG221</italic> RNAi from 7.3&#x02009;&#x000b1;&#x02009;2.1% to 57.7&#x02009;&#x000b1;&#x02009;2.6% (Sheader <italic>et al</italic>., <xref rid="mmi13838-bib-0071" ref-type="ref">2005</xref>). If <italic>VSG221</italic> RNAi was induced in the presence of ectopic <italic>VSG117</italic> expressed from the rDNA spacer, an increase in 2K2N cells was also observed (9.9&#x02009;&#x000b1;&#x02009;2.3% to 34.7&#x02009;&#x000b1;&#x02009;7.3%). However, strikingly, there was also an increase in multi&#x02010;nucleated cells (&#x02018;others&#x02019;) (0.3&#x02009;&#x000b1;&#x02009;0.6% to 29.2&#x02009;&#x000b1;&#x02009;3.4%) (*<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05) (Fig. <xref rid="mmi13838-fig-0009" ref-type="fig">9</xref>D). Most of these multi&#x02010;nucleated cells had four nuclei (66.9&#x02009;&#x000b1;&#x02009;6.1%) (*<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05) indicating that they had stalled prior to cytokinesis, but had re&#x02010;entered S&#x02010;phase. Therefore, although VSG expression levels from the rDNA were not consistently at high enough levels to allow cytokinesis, they were also not consistently low enough to trigger the precise &#x02018;VSG synthesis block&#x02019; cell&#x02010;cycle checkpoint. There were relatively few cells with more than four nuclei. Possibly the concurrent (and previously documented) global translation arrest prevented cells from reinitiating S phase more than once (Smith <italic>et al</italic>., <xref rid="mmi13838-bib-0075" ref-type="ref">2009</xref>).</p><fig fig-type="Figure" xml:lang="en" id="mmi13838-fig-0009" orientation="portrait" position="float"><label>Figure 9</label><caption><p>VSG expressed from the rDNA spacer does not functionally complement the cell and results in cells arresting precytokinesis without triggering a characteristic &#x02018;VSG synthesis block&#x02019; cell&#x02010;cycle checkpoint.</p><p>A. Schematic of the <italic>T. brucei</italic> 221rD117 221RNAi cell line. Transcription of the active <italic>VSG221</italic> ES is selected for using a puromycin resistance gene (purple box). A construct containing <italic>VSG117</italic> (red box) and a hygromycin resistance gene (blue box) is integrated in a tagged rDNA spacer. <italic>VSG221</italic> RNAi was induced using a tetracycline inducible RNAi stem&#x02010;loop construct inserted in the rDNA (indicated with black boxes). The ES promoter is indicated with a white flag, the rDNA promoter with black flags, the tetracycline inducible promoter with an arrow, and the tetracycline inducible rDNA promoter indicated with an asterisk.</p><p>B. Growth curves in the presence (+) or absence (&#x02010;) of tetracycline induced <italic>VSG221</italic> RNAi. The SL221 cell line that does not contain ectopic <italic>VSG117</italic>. Four <italic>T. brucei</italic> 221 rD117 221 RNAi clones expressing ectopic <italic>VSG117</italic> from the rDNA are compared (rD c1&#x02010;c4). The cell density over time was monitored. Results are from three biological replicates with the standard deviation indicated with error bars.</p><p>C. Cell karyotype was determined using microscopy with cells where the DNA was stained with DAPI. The numbers of kinetoplasts (K) or nuclei (N) were determined with the expanded section detailing the karyotype of cells described as &#x02018;others&#x02019;. The number of cells described as &#x02018;others&#x02019; was significantly increased (*<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05, unpaired <italic>t</italic> test) when <italic>VSG221</italic> RNAi was induced in cells where ectopic <italic>VSG117</italic> was expressed from the rDNA spacer (221rD117 221RNAi) compared to when there is no ectopic <italic>VSG</italic> expressed. Standard deviation from three biological replicates is indicated with error bars (<italic>n</italic> &#x0223c; 200 was counted for each time point in all biological replicates).</p><p>D. Within the karyotype category of &#x02018;others&#x02019;, there was a significant predominance of cells with 4 nuclei, indicating that they had undergone an additional round of re&#x02010;initiation of S phase (*<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05, ANOVA followed by Tukey <italic>post hoc</italic>).</p></caption><graphic id="nlm-graphic-19" xlink:href="MMI-106-614-g009"/></fig></sec></sec><sec id="mmi13838-sec-0008"><title>Discussion</title><p>Extraordinarily high levels of VSG are expressed from a single active <italic>VSG</italic> gene in bloodstream form <italic>T. brucei</italic>. Here we investigate the role of different genomic features facilitating this. We show that functional levels of VSG could be expressed from an ectopic <italic>VSG</italic> gene located more than 60 kb upstream of its normal telomeric location within the active ES. A <italic>VSG</italic> 3&#x02032;UTR was key for high VSG expression levels, and a conserved 16&#x02010;mer sequence was essential for stabilising the <italic>VSG</italic> transcript. High levels of VSG expression were only obtained from Pol I&#x02010;transcribed loci including the ES and the rDNA. However, these two different Pol I transcription units were not comparable. Expression of ectopic <italic>VSG</italic> from the rDNA spacer was highly heterogeneous at the population level, presumably as a consequence of variability in the activation state of the ectopic rDNA promoter and surrounding rDNA transcription units. VSG expressed from the rDNA spacer did not functionally complement the cell. The cells arrested prior to cytokinesis, as was also observed after blocking VSG synthesis. However, many cells re&#x02010;entered S&#x02010;phase, indicating that VSG levels were not consistently low enough to trigger the precise &#x02018;VSG synthesis block&#x02019; cell cycle checkpoint in all cells.</p><p>There is approximately 700&#x02010;fold more <italic>VSG</italic> mRNA than <italic>ESAG1</italic> mRNA generated in bloodstream form <italic>T. brucei</italic>, even though these two different genes are transcribed from the same polycistronic ES transcription unit (Cully <italic>et al</italic>., <xref rid="mmi13838-bib-0018" ref-type="ref">1985</xref>). The <italic>VSG</italic> 3&#x02032;UTR has previously been shown to play a role in stabilising transcript from a CAT reporter gene three&#x02010;fold compared to CAT without a flanking 3&#x02032;UTR in bloodstream form <italic>T. brucei</italic> (Berberof <italic>et al</italic>., <xref rid="mmi13838-bib-0008" ref-type="ref">1995</xref>). These experiments also showed that introducing a <italic>VSG</italic> 3&#x02032;UTR downstream of the CAT reporter gene resulted in its developmental regulation. Here, we also show that the <italic>VSG</italic> 3&#x02032;UTR is essential for the production of functional levels of <italic>VSG</italic> transcript, and show essentiality of the conserved <italic>VSG</italic> 3&#x02032;UTR 16&#x02010;mer sequence, which when scrambled resulted in a dramatic reduction in <italic>VSG</italic> transcript half&#x02010;life from 113.9&#x02009;&#x000b1;&#x02009;6.0 to 20.3&#x02009;&#x000b1;&#x02009;10.8 min.</p><p>Transcriptomic analyses comparing mRNA stability at a whole genome level have shown that the median half&#x02010;life of mRNA transcripts in bloodstream <italic>T. brucei</italic> is 13 min (Manful <italic>et al</italic>., <xref rid="mmi13838-bib-0051" ref-type="ref">2011</xref>; Clayton, <xref rid="mmi13838-bib-0015" ref-type="ref">2014</xref>; Fadda <italic>et al</italic>., <xref rid="mmi13838-bib-0025" ref-type="ref">2014</xref>). The <italic>VSG</italic> transcript has an unusually long half&#x02010;life. It is possible that this is due to a protein binding the conserved 16&#x02010;mer in the <italic>VSG</italic> 3&#x02032;UTR. On disruption of this putative interaction, <italic>VSG</italic> transcript stability was reduced down to a level which is average for mRNA in bloodstream form <italic>T. brucei</italic>. This hypothetical 16&#x02010;mer binding factor could act directly to protect the mRNA transcript from degradation by physically blocking association with a nuclease. Alternatively these 16&#x02010;mer sequences, or a protein binding them could promote translation. There is evidence that translation is a major factor in preventing mRNA decay in <italic>T. brucei</italic>, and inhibition of translation with different inhibitors including cycloheximide and puromycin significantly reduces the half&#x02010;life of <italic>VSG</italic> mRNA (Ehlers <italic>et al</italic>., <xref rid="mmi13838-bib-0023" ref-type="ref">1987</xref>; Delhi <italic>et al</italic>., <xref rid="mmi13838-bib-0021" ref-type="ref">2011</xref>). Using <italic>in vitro</italic> methods, we have not yet been successful in identifying a hypothetical RNA binding protein.</p><p>Mutation of the conserved 9&#x02010;mer sequence did not have an observable effect on transcript functionality. However, the <italic>VSG</italic> 3&#x02032;UTR is not only important for transcript stability, but also plays a role in DNA recombination. During a chronic infection, new <italic>VSG</italic> variants are frequently copied into the active ES via gene conversion (Vink <italic>et al</italic>., <xref rid="mmi13838-bib-0079" ref-type="ref">2012</xref>; McCulloch <italic>et al</italic>., <xref rid="mmi13838-bib-0053" ref-type="ref">2015</xref>). Upstream homology is provided by characteristic 70 bp repeats, and downstream homology by conserved regions in the <italic>VSG</italic> 3&#x02032;UTR (Hovel&#x02010;Miner <italic>et al</italic>., <xref rid="mmi13838-bib-0041" ref-type="ref">2016</xref>). In addition to affecting transcript stability, these 3&#x02032;UTR sequences including the conserved 9&#x02010;mer could, therefore, play an additional role in facilitating gene conversions.</p><p>We show that functional VSG levels could be obtained from an ES promoter proximal <italic>VSG</italic> gene located 60 kb upstream of its normal location at the chromosome end. However, in wild&#x02010;type <italic>T. brucei</italic> the active <italic>VSG</italic> is invariably the last gene within the ES, and adjacent to the telomere repeats. One explanation for this highly conserved genomic architecture of the ES, is that the telomere proximal location of <italic>VSG</italic> could facilitate <italic>VSG</italic> silencing in inactive ESs. There is a low level of leaky transcription from &#x02018;inactive&#x02019; ES promoters, which attenuates within the ES (Vanhamme <italic>et al</italic>., <xref rid="mmi13838-bib-0077" ref-type="ref">2000</xref>; Kassem <italic>et al</italic>., <xref rid="mmi13838-bib-0044" ref-type="ref">2014</xref>). The chromatin protein TbRAP1 mediates a repressive silencing gradient operating on inactive ESs, which is stronger immediately near the telomere end, compared with 60 kb upstream (Yang <italic>et al</italic>., <xref rid="mmi13838-bib-0083" ref-type="ref">2009</xref>; Nanavaty <italic>et al</italic>., <xref rid="mmi13838-bib-0058" ref-type="ref">2017</xref>). Efficient suppression of transcription of <italic>VSG</italic>s located in silent ESs is essential for the mono&#x02010;allelic expression of the active <italic>VSG</italic> (Duraisingh and Horn, <xref rid="mmi13838-bib-0022" ref-type="ref">2016</xref>). The region immediately proximal to the telomere repeats within the inactive ES could, therefore, be the most transcriptionally silent location within the ES to locate <italic>VSG</italic>.</p><p>In addition, the invariably telomeric location of the active <italic>VSG</italic> would facilitate the DNA rearrangements mediating <italic>VSG</italic> switching. DNA recombination reactions at telomeres mediate the generation of sequence diversity within polymorphic gene families involved in phenotypic or antigenic variation which are frequently telomeric (Keely <italic>et al</italic>., <xref rid="mmi13838-bib-0045" ref-type="ref">2005</xref>; Scherf <italic>et al</italic>., <xref rid="mmi13838-bib-0065" ref-type="ref">2008</xref>; de Las Penas <italic>et al</italic>., <xref rid="mmi13838-bib-0020" ref-type="ref">2015</xref>; Lue and Yu, <xref rid="mmi13838-bib-0050" ref-type="ref">2017</xref>). In <italic>T. brucei</italic> this is also the case, and the telomeric <italic>VSG</italic> can be switched either through telomere exchange or through gene conversions (Li, <xref rid="mmi13838-bib-0049" ref-type="ref">2015</xref>; McCulloch <italic>et al</italic>., <xref rid="mmi13838-bib-0053" ref-type="ref">2015</xref>). Subtelomeres in <italic>T. brucei</italic> are particularly fragile regions of the genome, and are susceptible to DNA strand breaks facilitating <italic>VSG</italic> switching (Glover <italic>et al</italic>., <xref rid="mmi13838-bib-0028" ref-type="ref">2013a</xref>; Nanavaty <italic>et al</italic>., <xref rid="mmi13838-bib-0058" ref-type="ref">2017</xref>). An important reason that <italic>VSGs</italic> are invariably located at the ends of the ES transcription units, is presumably because this is the most recombinogenic place for them to be (Hovel&#x02010;Miner <italic>et al</italic>., <xref rid="mmi13838-bib-0042" ref-type="ref">2012</xref>).</p><p>High levels of ectopic <italic>VSG</italic> could only be expressed from Pol I transcription units including the ES and the rDNA, compared with the low levels obtained from the Pol II&#x02010; transcribed &#x003b1;&#x003b2;&#x02010;tubulin transcription unit. Pol I transcription units are unique in being transcribed at an extremely high rate, facilitated by both high rates of RNA polymerase initiation, and density of polymerase loading on the DNA template (French <italic>et al</italic>., <xref rid="mmi13838-bib-0027" ref-type="ref">2003</xref>; Viktorovskaya and Schneider, <xref rid="mmi13838-bib-0078" ref-type="ref">2015</xref>). In <italic>T. brucei</italic> this is also the case, and it has been estimated that a marker inserted in a Pol I transcription unit is transcribed at a 10&#x02010;fold higher rate than one inserted in a Pol II transcription unit (Biebinger <italic>et al</italic>., <xref rid="mmi13838-bib-0011" ref-type="ref">1996</xref>). Pol I&#x02010;derived transcripts are uncapped, and, therefore, untranslateable (Grummt and Skinner, <xref rid="mmi13838-bib-0033" ref-type="ref">1985</xref>). However, as <italic>T. brucei</italic> adds a capped Pol II&#x02010;derived spliced leader RNA to the 5&#x02032; ends of its mRNAs through trans&#x02010;splicing, it can use Pol I to direct expression of protein coding genes (Gunzl, <xref rid="mmi13838-bib-0034" ref-type="ref">2010</xref>). <italic>T. brucei</italic>, therefore, appears to have recruited its strongest (Pol I) promoter to direct transcription of <italic>VSG</italic>.</p><p>In our experiments, expression of ectopic <italic>VSG117</italic> from a variety of genomic locations appeared to lead to a decrease in levels of the endogenous <italic>VSG221</italic> transcript, with the relative levels of the two <italic>VSGs</italic> approximately inversely correlated with each other. In previous experiments by Batram <italic>et al</italic>, expression of a second ectopic <italic>VSG</italic> from a tetracycline inducible T7 promoter resulted in down&#x02010;regulation of the endogenous telomeric <italic>VSG</italic> through chromatin mediated silencing of the active ES telomere (Batram <italic>et al</italic>., <xref rid="mmi13838-bib-0006" ref-type="ref">2014</xref>). In contrast, we did not see a statistically significant decrease in transcription of the active <italic>VSG221</italic> ES telomere after expression of ectopic <italic>VSG117</italic> from either the ES or the rDNA spacer.</p><p>The discrepancy of our results with those of Batram <italic>et al</italic> is presumably a consequence of exactly how the ectopic <italic>VSG</italic> is expressed. Batram <italic>et al</italic>. investigate a transient phenomenon which occurs within an 8 h period, as the induction of the T7 promoter rapidly directs large amounts of transcription of the ectopic <italic>VSG</italic>. This resulted in the generation of stumpy forms, possibly as a consequence of a stress response (Batram <italic>et al</italic>., <xref rid="mmi13838-bib-0006" ref-type="ref">2014</xref>; Zimmermann <italic>et al</italic>., <xref rid="mmi13838-bib-0084" ref-type="ref">2017</xref>). It has been shown that as <italic>T. brucei</italic> differentiates to the stumpy form, transcription of the active <italic>VSG</italic> is silenced through transcription attenuation progressing upwards along the ES from the chromosome end (Amiguet&#x02010;Vercher <italic>et al</italic>., <xref rid="mmi13838-bib-0005" ref-type="ref">2004</xref>). It is, therefore, possible that the transcriptional attenuation of the active ES observed by Batram <italic>et al</italic>. is a result of the cell becoming &#x02018;stumpy&#x02010;like&#x02019;, rather than a direct consequence of expression of the ectopic <italic>VSG</italic> as such. In this inducible system, expression of the ectopic <italic>VSG</italic> is silenced within a number of days through an unknown mechanism, and expression of the endogenous <italic>VSG</italic> returns to normal. In contrast in our experiments, we investigated stable transformants which have adjusted to the expression of a second ectopic <italic>VSG</italic>. As the amount of endogenous <italic>VSG221</italic> transcript was consistently in approximately inverse proportion to the amount of ectopic <italic>VSG</italic> expressed, our results are best explained by the presence of a factor binding the <italic>VSG</italic> 3&#x02032;UTR. If this protein is not in excess, it would restrict the total amount of <italic>VSG</italic> transcript which can be stably expressed in the cell.</p><p>Although <italic>VSG</italic> ESs and rDNA transcription units are both transcribed by Pol I, they show very different properties. Expression of ectopic <italic>VSG117</italic> located within the active ES resulted in homogeneous expression of VSG117. In contrast, expression of ectopic <italic>VSG117</italic> from a specific tagged rDNA promoter within the Pol I&#x02010;transcribed rDNA spacer resulted in highly heterogeneous VSG117 expression at the population level. It has been shown earlier that not all rDNA loci in <italic>T. brucei</italic> are equivalent, and that varying levels of expression can be generated from constructs integrated into different rDNA spacers (Alsford <italic>et al</italic>., <xref rid="mmi13838-bib-0003" ref-type="ref">2005</xref>). To eliminate complications due to this putative position effect, we have performed all of our analyses using a single tagged rDNA locus. In addition to possible position effects, it has earlier been shown that ectopic expression of proteins from an rDNA promoter was reduced at high cell culture densities in bloodstream form <italic>T. brucei</italic> (Ali and Field, <xref rid="mmi13838-bib-0002" ref-type="ref">2013</xref>). To eliminate this complication, we have performed all of our experiments using mid&#x02010;logarithmic stage parasites at approximately equivalent cell densities.</p><p>Our data showing heterogeneous levels of expression from a single tagged rDNA locus is, therefore, presumably due to alternating activation states of the <italic>T. brucei</italic> rDNA promoter. It has been shown that rDNA transcription units in <italic>Saccharomyces cerevisiae</italic> and mammalian cells exist in different fluctuating activation states. Within an individual cell, typically about half of the rDNA transcription units are transcriptionally active, while the other half are silenced at the level of chromatin (McStay and Grummt, <xref rid="mmi13838-bib-0054" ref-type="ref">2008</xref>; Grummt and Langst, <xref rid="mmi13838-bib-0032" ref-type="ref">2013</xref>; Hamperl <italic>et al</italic>., <xref rid="mmi13838-bib-0038" ref-type="ref">2013</xref>). This is presumably also the case in <italic>T. brucei</italic>. This very different transcriptional behaviour between the ES and rDNA highlights key differences in these Pol I transcription units.</p><p>The inability of <italic>VSG</italic> expressed from an rDNA promoter to functionally complement the cell is presumably due to fluctuating levels of activity of the rDNA promoter. However, these stalled cells did not universally trigger a &#x02018;VSG synthesis block&#x02019; cell cycle checkpoint (Sheader <italic>et al</italic>., <xref rid="mmi13838-bib-0071" ref-type="ref">2005</xref>). Although there was a large accumulation of post&#x02010;mitotic 2K2N cells there was also a significant increase in multi&#x02010;nucleated cells, indicating that they had reinitiated S&#x02010;phase. This argues that the &#x02018;VSG synthesis block&#x02019; checkpoint is a stress response, which is the consequence of consistent depletion of VSG in all cells. The pulsating levels of VSG expressed from the rDNA promoter possibly allowed more cells to proceed through G1 (1K1N) to a precytokinesis stage (2K2N), after which some cells then reinitiate S&#x02010;phase. It will be interesting to determine exactly how much continuous depletion of VSG is required to trigger this unique cell&#x02010;cycle checkpoint, and how VSG levels are likely being sensed.</p><p>In summary, we identify key features required for the expression of functional levels of VSG in bloodstream form <italic>T. brucei</italic>. Not only must the active <italic>VSG</italic> be located within a Pol I&#x02010;transcribed ES, but it needs to be flanked by a <italic>VSG</italic> 3&#x02032;UTR with a conserved 16&#x02010;mer sequence. Our experiments also highlight critical differences between the ES and rDNA Pol I transcription units. Although very high levels of expression can be generated from rDNA promoters, these levels fluctuate, and are not sufficient to generate functional levels of VSG expression. These results highlight the molecular adaptations that the bloodstream form trypanosome has adopted to ensure that 10% of its protein can be produced from a single Pol I&#x02010;transcribed <italic>VSG</italic> gene. They also highlight the essentiality of close to normal levels of VSG expression for the viability of bloodstream form <italic>T. brucei</italic>, allowing it to be an effective pathogen of the mammalian bloodstream.</p></sec><sec id="mmi13838-sec-0009"><title>Experimental procedures</title><sec id="mmi13838-sec-0010"><title>Trypanosome strains and culturing</title><p>Bloodstream form <italic>Trypanosoma brucei brucei</italic> 427 was used for all experiments and was cultured in HMI&#x02010;9 medium with 15% foetal calf serum. All cell lines used in this study are detailed in Supporting Information Table S4. Many are based on the <italic>T. brucei</italic> &#x02018;single marker&#x02019; SM cell line (Wirtz <italic>et al</italic>., <xref rid="mmi13838-bib-0081" ref-type="ref">1999</xref>) or a derivative with a puromycin resistance gene (pur) incorporated immediately behind the promoter of the active <italic>VSG221</italic> ES (SM221) (Narayanan <italic>et al</italic>., <xref rid="mmi13838-bib-0059" ref-type="ref">2011</xref>; Stanne <italic>et al</italic>., <xref rid="mmi13838-bib-0076" ref-type="ref">2011</xref>) where it is called S16.221. The presence of a selectable marker in the active <italic>VSG</italic> ES prevents switching to another <italic>VSG</italic> ES. The <italic>T. brucei</italic> cell line expressing both VSG117 and VSG221 has an ectopic copy of <italic>VSG117</italic> inserted immediately behind the promoter of the active <italic>VSG221</italic> ES. Here <italic>VSG117</italic> has an &#x003b1;&#x02010;tubulin splice site and a <italic>VSG221</italic> downstream region containing the <italic>VSG221</italic> 3&#x02032;UTR and polyadenylation signal (Smith <italic>et al</italic>., <xref rid="mmi13838-bib-0075" ref-type="ref">2009</xref>). To generate a cell line dependent on VSG117 expressed from the <italic>VSG221</italic> ES, the subtelomeric <italic>VSG221</italic> gene in <italic>T. brucei</italic> SM221/117 was exchanged with a blasticidin resistance gene using the pBSVSG221KOblast construct to generate <italic>T. brucei</italic> SM&#x00394;221/117. Otherwise, all other constructs integrated in the <italic>VSG221</italic> ES in this study were targeted 216 bp downstream of the transcription start site.</p><p>To study the effect of <italic>VSG117</italic> expression from different <italic>T. brucei</italic> genomic loci, constructs containing a hygromycin resistance gene and <italic>VSG117</italic> were integrated into different genomic regions in the <italic>T. brucei</italic> SM221pur cell line. In these constructs, <italic>VSG117</italic> was flanked upstream by aldolase RNA processing sequences, and downstream by either the <italic>VSG221</italic> downstream region (containing the 3&#x02032;UTR and polyadenylation signal) or the intergenic region downstream of an &#x003b1;&#x02010;tubulin gene. These ectopic copies of <italic>VSG117</italic> were targeted to the active <italic>VSG221</italic> ES (<italic>T. brucei</italic> SM221/117VSG3&#x02032;UTR and SM221/117Tub3&#x02032;UTR), the &#x003b1;&#x02010;&#x003b2; tubulin array (SM221/tub117VSG3&#x02032;UTR and SM221/tub117Tub3&#x02032;UTR), and upstream of the PARP B1 procyclin locus (SM221/pro117VSG3&#x02032;UTR and SM221/pro117Tub3&#x02032;UTR) (Rudenko <italic>et al</italic>., <xref rid="mmi13838-bib-0063" ref-type="ref">1990</xref>). To integrate <italic>VSG117</italic> into a specific rDNA spacer, a &#x02018;landing&#x02010;pad&#x02019; construct (prDNATargrProeGFPBSD) containing <italic>eGFP</italic> and a blasticidin resistance gene was first used to create the <italic>T. brucei</italic> SM221/rDNAeGFP cell line. Subsequently, this cell line was used to integrate <italic>VSG117</italic> into this marked rDNA spacer using the same rDNA targeting sequence and part of the blasticidin gene for homology (SM221/rDNA117VSG3&#x02032;UTR and SM221/rDNA117Tub3&#x02032;UTR). In constructs used to integrate <italic>VSG117</italic> into either the procyclin locus or the rDNA spacer, an rDNA promoter in the construct directed transcription of the drug resistance gene and <italic>VSG117</italic>.</p><p>A construct containing <italic>VSG117</italic> with downstream chimeric 3&#x02032; sequences was integrated into the active <italic>VSG221</italic> ES of the <italic>T. brucei</italic> SM221pur cell line (SM221/117 VSG&#x02010;Tub3&#x02032;and SM221/117 Tub&#x02010;VSG3&#x02032;). In VSG&#x02010;Tub, the chimeric 3&#x02032; sequences are composed of the <italic>VSG221</italic> 3&#x02032;UTR (76 bp) flanked by sequences immediately downstream of the &#x003b1;&#x02010;tubulin 3&#x02032;UTR (187 bp). In Tub&#x02010;VSG the &#x003b1;&#x02010;tubulin 3&#x02032;UTR (92 bp) is flanked by <italic>VSG221</italic> sequences immediately downstream of the <italic>VSG221</italic> 3&#x02032;UTR (538 bp).</p><p>Six <italic>VSG117</italic> 3&#x02032;UTR mutants were generated to analyse the <italic>VSG</italic> 3&#x02032;UTR in more detail. Details of the mutations are in shown in Fig. <xref rid="mmi13838-fig-0005" ref-type="fig">5</xref> and Supporting Information Table S2. Constructs contained a puromycin resistance gene and a <italic>VSG117</italic> gene preceded by an &#x003b1;&#x02010;&#x003b2; tubulin intergenic region and flanked downstream by a <italic>VSG117</italic> 3&#x02032;UTR which was either wild type or mutant. These were integrated into <italic>T. brucei</italic> 221VB1.1 (Sheader <italic>et al</italic>., <xref rid="mmi13838-bib-0071" ref-type="ref">2005</xref>), thereby replacing the blasticidin resistance cassette present in the <italic>VSG221</italic> ES. This cell line contains a <italic>VSG221</italic> RNAi construct with opposing tetracycline inducible T7 promoters. The <italic>T. brucei</italic> SM221/117 221RNAi cell line is referred to as <italic>T. brucei</italic> 221VP117 in (Smith <italic>et al</italic>., <xref rid="mmi13838-bib-0075" ref-type="ref">2009</xref>). <italic>T. brucei</italic> 221rD117 221RNAi is <italic>T. brucei</italic> SM221/rDNA117VSG3&#x02032;UTR with a stem&#x02010;loop <italic>VSG221</italic> RNAi construct generated from pLEW100v5xPEX11 (Silverman <italic>et al</italic>., <xref rid="mmi13838-bib-0074" ref-type="ref">2011</xref>). The <italic>T. brucei</italic> SL221 cell line is <italic>T. brucei</italic> SM221pur transfected with this stem&#x02010;loop <italic>VSG221</italic> RNAi construct. The VSGV02 expressing cell line <italic>T. brucei</italic> HNI(V02)(Rudenko <italic>et al</italic>., <xref rid="mmi13838-bib-0064" ref-type="ref">1998</xref>) was also used in Western blot and qPCR analyses.</p></sec><sec id="mmi13838-sec-0011"><title>DNA constructs</title><p>The DNA constructs used in this study are detailed in Supporting Information Table S4. Primers used for cloning are shown in Supporting Information Table S5. Additional sequences and cloning details are available on request. The construct pBSVSG221KOblast contains a blasticidin resistance gene between <italic>VSG221</italic> upstream (706 bp) and downstream (602 bp) sequences which provided RNA processing signals and served as targeting fragments. Sequences which were used to target constructs immediately downstream of the <italic>VSG221</italic> ES promoter can be found in (Sheader <italic>et al</italic>., <xref rid="mmi13838-bib-0070" ref-type="ref">2004</xref>). In constructs where ectopic <italic>VSG117</italic> was integrated into different genomic locations, the hygromycin gene is flanked upstream by a tubulin splice acceptor sequence and downstream by an aldolase intergenic region containing polyadenylation sequences and a 5&#x02032; splice acceptor site. The <italic>VSG117</italic> gene was flanked downstream by <italic>VSG221</italic> 3&#x02032; sequences including a 3&#x02032;UTR and polyadenylation sequences. In addition, analogous constructs had <italic>VSG117</italic> flanked with the 3&#x02032; downstream region from &#x003b1;&#x02010;tubulin. These ectopic copies of <italic>VSG117</italic> were inserted into various genomic loci. These include immediately downstream of the <italic>VSG221</italic> ES promoter, within a specific rDNA spacer, within the constitutively transcribed tubulin array (&#x003b1; and &#x003b2; tubulin genes indicated with grey boxes) or upstream of the silent procyclin transcription units. To integrate <italic>VSG117</italic> into a tagged rDNA spacer selected for high expression, the same rDNA upstream targeting was used as in prDNA Targ rPro eGFP BSD.</p><p>To generate the VSG&#x02010;Tub chimeric 3&#x02032; sequences, the <italic>VSG221</italic> 3&#x02032;UTR and &#x003b1;&#x02010;tubulin downstream sequences were amplified from the p221_117&#x02009;+&#x02009;VSG3&#x02032;UTR and p221_117&#x02009;+&#x02009;Tub3&#x02032;UTR constructs respectively using a long primer which covers the join between the 3&#x02032;UTR and the downstream sequences. Subsequently these PCR products were used as the template in a third PCR reaction with a primer annealing to the start of the <italic>VSG</italic> 3&#x02032;UTR and a primer annealing to the end of the &#x003b1;&#x02010;tubulin downstream sequence. A similar process was followed to produce the Tub&#x02010;VSG chimeric 3&#x02032;sequences. To generate the <italic>VSG</italic> 3&#x02032;UTR mutant constructs, a plasmid containing <italic>VSG117</italic> flanked downstream by the <italic>VSG221</italic> 3&#x02032;UTR and downstream sequences was digested with PstI and XbaI to exchange part of the <italic>VSG117</italic> ORF and the <italic>VSG221</italic> 3&#x02032;UTR with 277 bp of synthesised DNA (either wild type or mutant)(GenScript). The <italic>VSG117</italic> UTR was flanked downstream with <italic>VSG221</italic> polyadenylation sequences, as <italic>VSG117</italic> polyadenylation sequences are not available in our <italic>T. brucei</italic> cell line. The entire <italic>VSG117</italic> ORF with <italic>VSG117</italic> 3&#x02032;UTR and <italic>VSG221</italic> downstream sequences was then cloned into p221purVSG117UTR (Smith <italic>et al</italic>., <xref rid="mmi13838-bib-0075" ref-type="ref">2009</xref>) to create the 3&#x02032;UTR mutant series of constructs. The stem loop RNAi construct targeting <italic>VSG221</italic> was generated from pLEWv5xPEX11 (Silverman <italic>et al</italic>., <xref rid="mmi13838-bib-0074" ref-type="ref">2011</xref>).</p></sec><sec id="mmi13838-sec-0012"><title>Western blot analysis</title><p>For chemiluminescent experiments, cells were washed once at 4&#x000b0;C, and lysed in protein lysis buffer (50 mM Hepes pH 7.5, 10% glycerol, 1% Triton X&#x02010;100, 1.5 mM MgCl<sub>2</sub>, 1 mM EGTA, a protease inhibitor tablet (Roche), and incubated at 4&#x000b0;C for 20 minutes on a rotating wheel. Prior to SDS&#x02010;PAGE, the protein lysates were combined with 4x protein loading buffer and boiled for 5&#x02013;10 minutes. Protein lysates were electrophoresed on a 10% resolving gel and transferred onto a Hybond&#x02010;P membrane (GE Healthcare). The membrane was probed with rabbit polyclonal antibodies against VSG221, VSG117 or BiP. Protein was visualised using anti&#x02010;rabbit ECL peroxidase (GE Healthcare) and Super Signal West Pico chemiluminescent substrate (Thermo Scientific).</p><p>In the Li&#x02010;Cor Western blotting experiments cells were lysed in 50 mM HEPES (pH 7.5); 1 mM EGTA; 1.5 mM MgCl<sub>2</sub>; 10% (v/v) glycerol, 1% (v/v) Triton X&#x02010;100 with a cocktail of protease inhibitors (2 ug/ml of leupeptin, chymostatin, pepstatin and antipain). Protein lysate was suspended in loading buffer, and boiled at 100&#x000b0;C for 10 min before loading. The equivalent of 2 &#x000d7; 10<sup>4</sup> cells per well was electrophoresed and transferred onto Hybond&#x02010;P membrane. Blots were probed in Odyssey Blocking buffer (Li&#x02010;Cor) and washed with 0.1% PBS&#x02010;Tween between probes. Blots were probed with the rabbit primary antibodies (from Jay Bangs): anti&#x02010;VSG221, anti&#x02010;VSG117 and anti&#x02010;BiP and the mouse KMX&#x02010;1 antibody (from Keith Gull). Secondary antibodies used were: IRDye 680LT anti&#x02010;rabbit IgG (H&#x02009;+&#x02009;L) and IRDye 800CW anti&#x02010;mouse IgG (H&#x02009;+&#x02009;L) (both from Li&#x02010;Cor). Protein bands were visualised and quantified using the Odyssey&#x000ae; Infrared Imaging System.</p></sec><sec id="mmi13838-sec-0013"><title>Immunofluorescence microscopy</title><p>For immunofluorescence microscopy experiments, cells were washed twice in cold PSG buffer and fixed with 2% paraformaldehyde at room temperature for 15 min. Cells were washed twice in PBS buffer and allowed to settle on ColorFrost Plus microscopy slides (Shandon) for 30 min in a humidity chamber. The slides were then washed with PBS buffer and probed simultaneously with either rabbit polyclonal anti&#x02010;VSG221 or mouse monoclonal anti&#x02010;VSG117 (both kind gifts from Jay Bangs) followed by AlexaFluor 488 conjugated goat anti&#x02010;rabbit (Invitrogen) and Dylight 594 conjugated goat anti&#x02010;mouse (Thermo). All probing steps were carried out for 45 min in a humidity chamber and followed by a wash with PBS buffer. The slides were subsequently mounted in Vectashield with DAPI (Vector Laboratories). Cells were imaged with an M1 Imager fluorescence microscope (Zeiss) using an AxioCam MRm camera. Post&#x02010;acquisition analyses were carried out with ImageJ (National Institutes of Health, Bethesda, MD, USA).</p></sec><sec id="mmi13838-sec-0014"><title>RNA analysis</title><p>Total RNA was isolated using a Qiagen RNeasy Mini Kit (Qiagen) and genomic DNA was removed using TurboDNAse (Ambion), and DNase removed using DNAse Inactivation Reagent (Ambion) according to the manufacturer's instructions. Synthesis of cDNA was carried out with 100 ng RNA per sample using an Omniscript RT kit (Qiagen). qPCR reactions were performed using Brilliant II SYBR low ROX master mix (Agilent) with relevant primers (Supporting Information Table S6) using an Applied Biosystems 7500 real time PCR machine. qPCR reactions were performed with 1 &#x000b5;l cDNA diluted ten&#x02010;fold with the exception of the mRNA decay assays where the cDNA was diluted 100&#x02010;fold. Relative quantification of mRNA was performed with each sample normalised to levels of actin transcript. Unless stated otherwise, qPCR data are presented as arbitrary units (2<sup>&#x02010;&#x00394;Ct</sup>). Primers used for qPCR to detect <italic>VSG221</italic> transcript amplify a region of the <italic>VSG221</italic> gene located at 1058&#x02013;1184 bp, and downstream of the region used for <italic>VSG221</italic> RNAi (106&#x02013;910 bp). Predicted RNA secondary structure was determined using RNAfold (University of Vienna) (ViennaRNA Package 2.0) (Gruber <italic>et al</italic>., <xref rid="mmi13838-bib-0031" ref-type="ref">2008</xref>).</p></sec><sec id="mmi13838-sec-0015"><title>RNA stability and polyadenylation site analysis</title><p>For the mRNA stability assays, bloodstream form <italic>T. brucei</italic> was grown to midlog phase (1 &#x000d7; 10<sup>6</sup> cells ml<sup>&#x02212;1</sup>). Cells were incubated with Sinefungin (Millipore) at 5 &#x000b5;g ml<sup>&#x02212;1</sup> for 5 min at 37&#x000b0;C to inhibit trans&#x02010;splicing and Actinomycin D (10 &#x000b5;g ml<sup>&#x02212;1</sup>) was added to block transcription. Cells were harvested at various time points, RNA was isolated and cDNA generated and quantified as detailed above. For the mRNA stability experiments, <italic>VSG</italic> mRNA was quantified in comparison with 28S&#x003b2; rRNA rather than actin. Mean values were calculated with data from three independent experiments. Primer sequences used for qPCR are shown in Supporting Information Table S6.</p><p>Analysis of RNA polyadenylation sites was carried out using 3&#x02032; RACE (Rapid amplification of cDNA ends) based on methods described in (Scotto&#x02010;Lavino <italic>et al</italic>., <xref rid="mmi13838-bib-0068" ref-type="ref">2006</xref>) with minor variations. Briefly RNA (1 &#x000b5;g) was incubated at 80&#x000b0;C for 3 min, then placed on ice. cDNA was generated using Omniscript (Qiagen) and the Q<sub>T</sub> primer (50 ng) in a 20 &#x000b5;l reaction mix. Samples were incubated for 5 min at room temperature, 42&#x000b0;C for 1 h, 50&#x000b0;C for 10 min, then 70&#x000b0;C for 15 min. At the end of the reaction 1 ml TE buffer was added. PCR was performed as described in (Scotto&#x02010;Lavino <italic>et al</italic>., <xref rid="mmi13838-bib-0068" ref-type="ref">2006</xref>) using the Q<sub>0</sub> RACE primer and the <italic>VSG117</italic> specific RACE primer for the first round and the Q<sub>1</sub> RACE primer paired with <italic>VSG117</italic> primer 2 for the second. PCR products were cloned into pCR&#x02122;4Blunt&#x02010;TOPO&#x000ae; and sequenced. The sequences of all RACE primers are in Supporting Information Table S6.</p></sec><sec id="mmi13838-sec-0016"><title>Statistical analyses</title><p>Statistical analyses of transcript and precursor transcript levels using qPCR were carried out using GraphPad Prism 5.0. One&#x02010;way ANOVA was carried out for each experimental set to determine overall significance of difference followed by Tukey <italic>post hoc</italic>. Significance of difference for Li&#x02010;Cor Western blots was carried out using pairwise <italic>t</italic> tests. For all data analyses, differences were considered significant with <italic>P</italic>&#x02009;&#x02264;&#x02009;0.05.</p></sec></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>Supporting Figures and Tables</p></caption><media xlink:href="MMI-106-614-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="mmi13838-sec-0017"><title>Acknowledgements</title><p>We thank Johannes Petrus Maree, Louise Kerry, Carys Davies, James Budzak and Caroline Peters for discussions and comments on the manuscript. We thank Mani Shankar Narayanan and Andrew Voak for assistance with making DNA constructs, and Prof. Jay Bangs (SUNY Buffalo, NY) for anti&#x02010;VSG and BiP antibodies and DNA constructs. We are grateful to Prof. Mark Carrington (University of Cambridge, UK) for providing an extensive set of <italic>VSG</italic> cDNA sequences. G.R. is a Wellcome Senior Fellow in the Basic Biomedical Sciences. This research was funded by the Wellcome Trust.</p></ack><ref-list content-type="cited-references"><title>References</title><ref id="mmi13838-bib-0001"><mixed-citation publication-type="journal" id="mmi13838-cit-0001">
+<string-name>
+<surname>Aitcheson</surname>, <given-names>N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Talbot</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Shapiro</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hughes</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Adkin</surname>, <given-names>C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Butt</surname>, <given-names>T.</given-names>
+</string-name>, <italic>et al</italic> (<year>2005</year>) <article-title>VSG switching in Trypanosoma brucei: antigenic variation analysed using RNAi in the absence of immune selection</article-title>. <source>Mol Microbiol</source>
+<volume>57</volume>: <fpage>1608</fpage>&#x02013;<lpage>1622</lpage>.
+<pub-id pub-id-type="pmid">16135228</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0002"><mixed-citation publication-type="journal" id="mmi13838-cit-0002">
+<string-name>
+<surname>Ali</surname>, <given-names>M.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Field</surname>, <given-names>M.C.</given-names>
+</string-name> (<year>2013</year>) <article-title>Cell density&#x02010;dependent ectopic expression in bloodstream form Trypanosoma brucei</article-title>. <source>Exp Parasitol</source>
+<volume>134</volume>: <fpage>249</fpage>&#x02013;<lpage>255</lpage>.
+<pub-id pub-id-type="pmid">23538029</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0003"><mixed-citation publication-type="journal" id="mmi13838-cit-0003">
+<string-name>
+<surname>Alsford</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kawahara</surname>, <given-names>T.</given-names>
+</string-name>, 
+<string-name>
+<surname>Glover</surname>, <given-names>L.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Horn</surname>, <given-names>D.</given-names>
+</string-name> (<year>2005</year>) <article-title>Tagging a T. brucei RRNA locus improves stable transfection efficiency and circumvents inducible expression position effects</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>144</volume>: <fpage>142</fpage>&#x02013;<lpage>148</lpage>.
+<pub-id pub-id-type="pmid">16182389</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0004"><mixed-citation publication-type="journal" id="mmi13838-cit-0004">
+<string-name>
+<surname>Alsford</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>duBois</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Horn</surname>, <given-names>D.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Field</surname>, <given-names>M.C.</given-names>
+</string-name> (<year>2012</year>) <article-title>Epigenetic mechanisms, nuclear architecture and the control of gene expression in trypanosomes</article-title>. <source>Expert Rev Mol Med</source>
+<volume>14</volume>: <fpage>e13</fpage>.
+<pub-id pub-id-type="pmid">22640744</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0005"><mixed-citation publication-type="journal" id="mmi13838-cit-0005">
+<string-name>
+<surname>Amiguet&#x02010;Vercher</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Perez&#x02010;Morga</surname>, <given-names>D.</given-names>
+</string-name>, 
+<string-name>
+<surname>Pays</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Poelvoorde</surname>, <given-names>P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Van Xong</surname>, <given-names>H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Tebabi</surname>, <given-names>P.</given-names>
+</string-name>, <italic>et al</italic> (<year>2004</year>) <article-title>Loss of the mono&#x02010;allelic control of the VSG expression sites during the development of Trypanosoma brucei in the bloodstream</article-title>. <source>Mol Microbiol</source>
+<volume>51</volume>: <fpage>1577</fpage>&#x02013;<lpage>1588</lpage>.
+<pub-id pub-id-type="pmid">15009886</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0006"><mixed-citation publication-type="journal" id="mmi13838-cit-0006">
+<string-name>
+<surname>Batram</surname>, <given-names>C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Jones</surname>, <given-names>N.G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Janzen</surname>, <given-names>C.J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Markert</surname>, <given-names>S.M.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Engstler</surname>, <given-names>M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Expression site attenuation mechanistically links antigenic variation and development in Trypanosoma brucei</article-title>. <source>Elife</source>
+<volume>3</volume>: <fpage>e02324</fpage>.
+<pub-id pub-id-type="pmid">24844706</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0007"><mixed-citation publication-type="journal" id="mmi13838-cit-0007">
+<string-name>
+<surname>Becker</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Aitcheson</surname>, <given-names>N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Byles</surname>, <given-names>E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Wickstead</surname>, <given-names>B.</given-names>
+</string-name>, 
+<string-name>
+<surname>Louis</surname>, <given-names>E.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>) <article-title>Isolation of the repertoire of VSG expression site containing telomeres of Trypanosoma brucei 427 using transformation&#x02010;associated recombination in yeast</article-title>. <source>Genome Res</source>
+<volume>14</volume>: <fpage>2319</fpage>&#x02013;<lpage>2329</lpage>.
+<pub-id pub-id-type="pmid">15520294</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0008"><mixed-citation publication-type="journal" id="mmi13838-cit-0008">
+<string-name>
+<surname>Berberof</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Vanhamme</surname>, <given-names>L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Tebabi</surname>, <given-names>P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Pays</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Jefferies</surname>, <given-names>D.</given-names>
+</string-name>, 
+<string-name>
+<surname>Welburn</surname>, <given-names>S.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Pays</surname>, <given-names>E.</given-names>
+</string-name> (<year>1995</year>) <article-title>The 3&#x02032;&#x02010;terminal region of the mRNAs for VSG and procyclin can confer stage specificity to gene expression in Trypanosoma brucei</article-title>. <source>EMBO J</source>
+<volume>14</volume>: <fpage>2925</fpage>&#x02013;<lpage>2934</lpage>.
+<pub-id pub-id-type="pmid">7796818</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0009"><mixed-citation publication-type="journal" id="mmi13838-cit-0009">
+<string-name>
+<surname>Berriman</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hall</surname>, <given-names>N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Sheader</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Bringaud</surname>, <given-names>F.</given-names>
+</string-name>, 
+<string-name>
+<surname>Tiwari</surname>, <given-names>B.</given-names>
+</string-name>, 
+<string-name>
+<surname>Isobe</surname>, <given-names>T.</given-names>
+</string-name>, <italic>et al</italic> (<year>2002</year>) <article-title>The architecture of variant surface glycoprotein gene expression sites in Trypanosoma brucei</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>122</volume>: <fpage>131</fpage>&#x02013;<lpage>140</lpage>.
+<pub-id pub-id-type="pmid">12106867</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0010"><mixed-citation publication-type="journal" id="mmi13838-cit-0010">
+<string-name>
+<surname>Berriman</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Ghedin</surname>, <given-names>E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hertz&#x02010;Fowler</surname>, <given-names>C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Blandin</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Renauld</surname>, <given-names>H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Bartholomeu</surname>, <given-names>D.C.</given-names>
+</string-name>, <italic>et al</italic> (<year>2005</year>) <article-title>The genome of the African trypanosome Trypanosoma brucei</article-title>. <source>Science</source>
+<volume>309</volume>: <fpage>416</fpage>&#x02013;<lpage>422</lpage>.
+<pub-id pub-id-type="pmid">16020726</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0011"><mixed-citation publication-type="journal" id="mmi13838-cit-0011">
+<string-name>
+<surname>Biebinger</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Rettenmaier</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Flaspohler</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hartmann</surname>, <given-names>C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Pena&#x02010;Diaz</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Wirtz</surname>, <given-names>L.E.</given-names>
+</string-name>, <italic>et al</italic> (<year>1996</year>) <article-title>The PARP promoter of Trypanosoma brucei is developmentally regulated in a chromosomal context</article-title>. <source>Nucleic Acids Res</source>
+<volume>24</volume>: <fpage>1202</fpage>&#x02013;<lpage>1211</lpage>.
+<pub-id pub-id-type="pmid">8614620</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0012"><mixed-citation publication-type="journal" id="mmi13838-cit-0012">
+<string-name>
+<surname>Borst</surname>, <given-names>P.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>1982</year>) <article-title>Molecular basis for trypanosome antigenic variation</article-title>. <source>Cell</source>
+<volume>29</volume>: <fpage>291</fpage>&#x02013;<lpage>303</lpage>.
+<pub-id pub-id-type="pmid">6811137</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0013"><mixed-citation publication-type="journal" id="mmi13838-cit-0013">
+<string-name>
+<surname>Bruderer</surname>, <given-names>T.</given-names>
+</string-name>, 
+<string-name>
+<surname>Tu</surname>, <given-names>L.C.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Lee</surname>, <given-names>M.G.</given-names>
+</string-name> (<year>2003</year>) <article-title>The 5&#x02032; end structure of transcripts derived from the rRNA gene and the RNA polymerase I transcribed protein coding genes in Trypanosoma brucei</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>129</volume>: <fpage>69</fpage>&#x02013;<lpage>77</lpage>.
+<pub-id pub-id-type="pmid">12798508</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0014"><mixed-citation publication-type="journal" id="mmi13838-cit-0014">
+<string-name>
+<surname>Chaves</surname>, <given-names>I.</given-names>
+</string-name>, 
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Dirks&#x02010;Mulder</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cross</surname>, <given-names>M.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Borst</surname>, <given-names>P.</given-names>
+</string-name> (<year>1999</year>) <article-title>Control of variant surface glycoprotein gene&#x02010;expression sites in Trypanosoma brucei</article-title>. <source>EMBO J</source>
+<volume>18</volume>: <fpage>4846</fpage>&#x02013;<lpage>4855</lpage>.
+<pub-id pub-id-type="pmid">10469662</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0015"><mixed-citation publication-type="journal" id="mmi13838-cit-0015">
+<string-name>
+<surname>Clayton</surname>, <given-names>C.E.</given-names>
+</string-name> (<year>2014</year>) <article-title>Networks of gene expression regulation in Trypanosoma brucei</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>195</volume>: <fpage>96</fpage>&#x02013;<lpage>106</lpage>.
+<pub-id pub-id-type="pmid">24995711</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0016"><mixed-citation publication-type="journal" id="mmi13838-cit-0016">
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>1975</year>) <article-title>Identification, purification and properties of clone&#x02010;specific glycoprotein antigens constituting the surface coat of Trypanosoma brucei</article-title>. <source>Parasitology</source>
+<volume>71</volume>: <fpage>393</fpage>&#x02013;<lpage>417</lpage>.
+<pub-id pub-id-type="pmid">645</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0017"><mixed-citation publication-type="journal" id="mmi13838-cit-0017">
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kim</surname>, <given-names>H.S.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Wickstead</surname>, <given-names>B.</given-names>
+</string-name> (<year>2014</year>) <article-title>Capturing the variant surface glycoprotein repertoire (the VSGnome) of Trypanosoma brucei Lister 427</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>195</volume>: <fpage>59</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="pmid">24992042</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0018"><mixed-citation publication-type="journal" id="mmi13838-cit-0018">
+<string-name>
+<surname>Cully</surname>, <given-names>D.F.</given-names>
+</string-name>, 
+<string-name>
+<surname>Ip</surname>, <given-names>H.S.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>1985</year>) <article-title>Coordinate transcription of variant surface glycoprotein genes and an expression site associated gene family in Trypanosoma brucei</article-title>. <source>Cell</source>
+<volume>42</volume>: <fpage>173</fpage>&#x02013;<lpage>182</lpage>.
+<pub-id pub-id-type="pmid">2861910</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0019"><mixed-citation publication-type="journal" id="mmi13838-cit-0019">
+<string-name>
+<surname>Davies</surname>, <given-names>K.P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Carruthers</surname>, <given-names>V.B.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>1997</year>) <article-title>Manipulation of the vsg co&#x02010;transposed region increases expression&#x02010;site switching in Trypanosoma brucei</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>86</volume>: <fpage>163</fpage>&#x02013;<lpage>177</lpage>.
+<pub-id pub-id-type="pmid">9200123</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0020"><mixed-citation publication-type="journal" id="mmi13838-cit-0020">
+<string-name>
+<surname>de Las Penas</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Juarez&#x02010;Cepeda</surname>
+</string-name>, 
+<string-name>
+<surname>Lopez&#x02010;Fuentes</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Briones&#x02010;Martin&#x02010;Del&#x02010;Campo</surname>, <given-names>E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Gutierrez&#x02010;Escobedo</surname>, <given-names>M.G.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Castano</surname>, <given-names>I.</given-names>
+</string-name> (<year>2015</year>) <article-title>Local and regional chromatin silencing in Candida glabrata: consequences for adhesion and the response to stress</article-title>. <source>FEMS Yeast Res</source>
+<volume>15</volume>: <fpage>fov056</fpage>.
+<pub-id pub-id-type="pmid">26122277</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0021"><mixed-citation publication-type="journal" id="mmi13838-cit-0021">
+<string-name>
+<surname>Delhi</surname>, <given-names>P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Queiroz</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Inchaustegui</surname>, <given-names>D.</given-names>
+</string-name>, 
+<string-name>
+<surname>Carrington</surname>, <given-names>M.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Clayton</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>) <article-title>Is there a classical nonsense&#x02010;mediated decay pathway in trypanosomes?</article-title>
+<source>PLoS One</source>
+<volume>6</volume>: <fpage>e25112</fpage>.
+<pub-id pub-id-type="pmid">21957477</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0022"><mixed-citation publication-type="journal" id="mmi13838-cit-0022">
+<string-name>
+<surname>Duraisingh</surname>, <given-names>M.T.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Horn</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>) <article-title>Epigenetic regulation of virulence gene expression in parasitic protozoa</article-title>. <source>Cell Host Microbe</source>
+<volume>19</volume>: <fpage>629</fpage>&#x02013;<lpage>640</lpage>.
+<pub-id pub-id-type="pmid">27173931</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0023"><mixed-citation publication-type="journal" id="mmi13838-cit-0023">
+<string-name>
+<surname>Ehlers</surname>, <given-names>B.</given-names>
+</string-name>, 
+<string-name>
+<surname>Czichos</surname>, <given-names>J.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Overath</surname>, <given-names>P.</given-names>
+</string-name> (<year>1987</year>) <article-title>Repression and reactivation of the variant surface glycoprotein gene in Trypanosoma brucei</article-title>. <source>FEBS Lett</source>
+<volume>225</volume>: <fpage>53</fpage>&#x02013;<lpage>58</lpage>.
+<pub-id pub-id-type="pmid">3691806</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0024"><mixed-citation publication-type="journal" id="mmi13838-cit-0024">
+<string-name>
+<surname>Elkon</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Ugalde</surname>, <given-names>A.P.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Agami</surname>, <given-names>R.</given-names>
+</string-name> (<year>2013</year>) <article-title>Alternative cleavage and polyadenylation: extent, regulation and function</article-title>. <source>Nat Rev Genet</source>
+<volume>14</volume>: <fpage>496</fpage>&#x02013;<lpage>506</lpage>.
+<pub-id pub-id-type="pmid">23774734</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0025"><mixed-citation publication-type="journal" id="mmi13838-cit-0025">
+<string-name>
+<surname>Fadda</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Ryten</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Droll</surname>, <given-names>D.</given-names>
+</string-name>, 
+<string-name>
+<surname>Rojas</surname>, <given-names>F.</given-names>
+</string-name>, 
+<string-name>
+<surname>Farber</surname>, <given-names>V.</given-names>
+</string-name>, 
+<string-name>
+<surname>Haanstra</surname>, <given-names>J.R.</given-names>
+</string-name>, <italic>et al</italic> (<year>2014</year>) <article-title>Transcriptome&#x02010;wide analysis of trypanosome mRNA decay reveals complex degradation kinetics and suggests a role for co&#x02010;transcriptional degradation in determining mRNA levels</article-title>. <source>Mol Microbiol</source>
+<volume>94</volume>: <fpage>307</fpage>&#x02013;<lpage>326</lpage>.
+<pub-id pub-id-type="pmid">25145465</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0026"><mixed-citation publication-type="journal" id="mmi13838-cit-0026">
+<string-name>
+<surname>Franco</surname>, <given-names>J.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Simarro</surname>, <given-names>P.P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Diarra</surname>, <given-names>A.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Jannin</surname>, <given-names>J.G.</given-names>
+</string-name> (<year>2014</year>) <article-title>Epidemiology of human African trypanosomiasis</article-title>. <source>Clin Epidemiol</source>
+<volume>6</volume>: <fpage>257</fpage>&#x02013;<lpage>275</lpage>.
+<pub-id pub-id-type="pmid">25125985</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0027"><mixed-citation publication-type="journal" id="mmi13838-cit-0027">
+<string-name>
+<surname>French</surname>, <given-names>S.L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Osheim</surname>, <given-names>Y.N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cioci</surname>, <given-names>F.</given-names>
+</string-name>, 
+<string-name>
+<surname>Nomura</surname>, <given-names>M.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Beyer</surname>, <given-names>A.L.</given-names>
+</string-name> (<year>2003</year>) <article-title>In exponentially growing Saccharomyces cerevisiae cells, rRNA synthesis is determined by the summed RNA polymerase I loading rate rather than by the number of active genes</article-title>. <source>Mol Cell Biol</source>
+<volume>23</volume>: <fpage>1558</fpage>&#x02013;<lpage>1568</lpage>.
+<pub-id pub-id-type="pmid">12588976</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0028"><mixed-citation publication-type="journal" id="mmi13838-cit-0028">
+<string-name>
+<surname>Glover</surname>, <given-names>L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Alsford</surname>, <given-names>S.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Horn</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013a</year>) <article-title>DNA break site at fragile subtelomeres determines probability and mechanism of antigenic variation in African trypanosomes</article-title>. <source>PLoS Pathog</source>
+<volume>9</volume>: <fpage>e1003260</fpage>.
+<pub-id pub-id-type="pmid">23555264</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0029"><mixed-citation publication-type="journal" id="mmi13838-cit-0029">
+<string-name>
+<surname>Glover</surname>, <given-names>L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hutchinson</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Alsford</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>McCulloch</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Field</surname>, <given-names>M.C.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Horn</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013b</year>) <article-title>Antigenic variation in African trypanosomes: the importance of chromosomal and nuclear context in VSG expression control</article-title>. <source>Cell Microbiol</source>
+<volume>15</volume>: <fpage>1984</fpage>&#x02013;<lpage>1993</lpage>.
+<pub-id pub-id-type="pmid">24047558</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0030"><mixed-citation publication-type="journal" id="mmi13838-cit-0030">
+<string-name>
+<surname>Glover</surname>, <given-names>L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hutchinson</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Alsford</surname>, <given-names>S.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Horn</surname>, <given-names>D.</given-names>
+</string-name> (<year>2016</year>) <article-title>VEX1 controls the allelic exclusion required for antigenic variation in trypanosomes</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>113</volume>: <fpage>7225</fpage>&#x02013;<lpage>7230</lpage>.
+<pub-id pub-id-type="pmid">27226299</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0031"><mixed-citation publication-type="journal" id="mmi13838-cit-0031">
+<string-name>
+<surname>Gruber</surname>, <given-names>A.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Lorenz</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Bernhart</surname>, <given-names>S.H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Neubock</surname>, <given-names>R.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Hofacker</surname>, <given-names>I.L.</given-names>
+</string-name> (<year>2008</year>) <article-title>The Vienna RNA websuite</article-title>. <source>Nucleic Acids Res</source>
+<volume>36</volume>: <fpage>W70</fpage>&#x02013;<lpage>W74</lpage>.
+<pub-id pub-id-type="pmid">18424795</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0032"><mixed-citation publication-type="journal" id="mmi13838-cit-0032">
+<string-name>
+<surname>Grummt</surname>, <given-names>I.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Langst</surname>, <given-names>G.</given-names>
+</string-name> (<year>2013</year>) <article-title>Epigenetic control of RNA polymerase I transcription in mammalian cells</article-title>. <source>Biochim Biophys Acta</source>
+<volume>1829</volume>: <fpage>393</fpage>&#x02013;<lpage>404</lpage>.
+<pub-id pub-id-type="pmid">23063748</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0033"><mixed-citation publication-type="journal" id="mmi13838-cit-0033">
+<string-name>
+<surname>Grummt</surname>, <given-names>I.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Skinner</surname>, <given-names>J.A.</given-names>
+</string-name> (<year>1985</year>) <article-title>Efficient transcription of a protein&#x02010;coding gene from the RNA polymerase I promoter in transfected cells</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>82</volume>: <fpage>722</fpage>&#x02013;<lpage>726</lpage>.
+<pub-id pub-id-type="pmid">3856225</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0034"><mixed-citation publication-type="journal" id="mmi13838-cit-0034">
+<string-name>
+<surname>Gunzl</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>) <article-title>The pre&#x02010;mRNA splicing machinery of trypanosomes: complex or simplified?</article-title>
+<source>Eukaryot Cell</source>
+<volume>9</volume>: <fpage>1159</fpage>&#x02013;<lpage>1170</lpage>.
+<pub-id pub-id-type="pmid">20581293</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0035"><mixed-citation publication-type="journal" id="mmi13838-cit-0035">
+<string-name>
+<surname>Gunzl</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Bruderer</surname>, <given-names>T.</given-names>
+</string-name>, 
+<string-name>
+<surname>Laufer</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Schimanski</surname>, <given-names>B.</given-names>
+</string-name>, 
+<string-name>
+<surname>Tu</surname>, <given-names>L.C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Chung</surname>, <given-names>H.M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>, <given-names>P.T.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Lee</surname>, <given-names>M.G.</given-names>
+</string-name> (<year>2003</year>) <article-title>RNA polymerase I transcribes procyclin genes and variant surface glycoprotein gene expression sites in Trypanosoma brucei</article-title>. <source>Eukaryot Cell</source>
+<volume>2</volume>: <fpage>542</fpage>&#x02013;<lpage>551</lpage>.
+<pub-id pub-id-type="pmid">12796299</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0036"><mixed-citation publication-type="journal" id="mmi13838-cit-0036">
+<string-name>
+<surname>Gunzl</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kirkham</surname>, <given-names>J.K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Nguyen</surname>, <given-names>T.N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Badjatia</surname>, <given-names>N.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Park</surname>, <given-names>S.H.</given-names>
+</string-name> (<year>2015</year>) <article-title>Mono&#x02010;allelic VSG expression by RNA polymerase I in Trypanosoma brucei: expression site control from both ends?</article-title>
+<source>Gene</source>
+<volume>556</volume>: <fpage>68</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="pmid">25261847</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0037"><mixed-citation publication-type="journal" id="mmi13838-cit-0037">
+<string-name>
+<surname>Hall</surname>, <given-names>J.P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Barry</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>2013</year>) <article-title>Mosaic VSGs and the scale of Trypanosoma brucei antigenic variation</article-title>. <source>PLoS Pathog</source>
+<volume>9</volume>: <fpage>e1003502</fpage>.
+<pub-id pub-id-type="pmid">23853603</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0038"><mixed-citation publication-type="journal" id="mmi13838-cit-0038">
+<string-name>
+<surname>Hamperl</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Wittner</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Babl</surname>, <given-names>V.</given-names>
+</string-name>, 
+<string-name>
+<surname>Perez&#x02010;Fernandez</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Tschochner</surname>, <given-names>H.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Griesenbeck</surname>, <given-names>J.</given-names>
+</string-name> (<year>2013</year>) <article-title>Chromatin states at ribosomal DNA loci</article-title>. <source>Biochim Biophys Acta</source>
+<volume>1829</volume>: <fpage>405</fpage>&#x02013;<lpage>417</lpage>.
+<pub-id pub-id-type="pmid">23291532</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0039"><mixed-citation publication-type="journal" id="mmi13838-cit-0039">
+<string-name>
+<surname>Hertz&#x02010;Fowler</surname>, <given-names>C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Figueiredo</surname>, <given-names>L.M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Quail</surname>, <given-names>M.A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Becker</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Jackson</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Bason</surname>, <given-names>N.</given-names>
+</string-name>, <italic>et al</italic> (<year>2008</year>) <article-title>Telomeric expression sites are highly conserved in Trypanosoma brucei</article-title>. <source>PLoS One</source>
+<volume>3</volume>: <fpage>e3527</fpage>.
+<pub-id pub-id-type="pmid">18953401</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0040"><mixed-citation publication-type="journal" id="mmi13838-cit-0040">
+<string-name>
+<surname>Hoek</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Zanders</surname>, <given-names>T.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>2002</year>) <article-title>Trypanosoma brucei expression&#x02010;site&#x02010;associated&#x02010;gene&#x02010;8 protein interacts with a Pumilio family protein</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>120</volume>: <fpage>269</fpage>&#x02013;<lpage>283</lpage>.
+<pub-id pub-id-type="pmid">11897132</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0041"><mixed-citation publication-type="journal" id="mmi13838-cit-0041">
+<string-name>
+<surname>Hovel&#x02010;Miner</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Mugnier</surname>, <given-names>M.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Goldwater</surname>, <given-names>B.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Papavasiliou</surname>, <given-names>F.N.</given-names>
+</string-name> (<year>2016</year>) <article-title>A conserved DNA repeat promotes selection of a diverse repertoire of Trypanosoma brucei surface antigens from the genomic archive</article-title>. <source>PLoS Genet</source>
+<volume>12</volume>: <fpage>e1005994</fpage>.
+<pub-id pub-id-type="pmid">27149665</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0042"><mixed-citation publication-type="journal" id="mmi13838-cit-0042">
+<string-name>
+<surname>Hovel&#x02010;Miner</surname>, <given-names>G.A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Boothroyd</surname>, <given-names>C.E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Mugnier</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Dreesen</surname>, <given-names>O.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Papavasiliou</surname>, <given-names>F.N.</given-names>
+</string-name> (<year>2012</year>) <article-title>Telomere length affects the frequency and mechanism of antigenic variation in Trypanosoma brucei</article-title>. <source>PLoS Pathog</source>
+<volume>8</volume>: <fpage>e1002900</fpage>.
+<pub-id pub-id-type="pmid">22952449</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0043"><mixed-citation publication-type="journal" id="mmi13838-cit-0043">
+<string-name>
+<surname>Hutchinson</surname>, <given-names>O.C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Picozzi</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Jones</surname>, <given-names>N.G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Mott</surname>, <given-names>H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Sharma</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Welburn</surname>, <given-names>S.C.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Carrington</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>) <article-title>Variant Surface Glycoprotein gene repertoires in Trypanosoma brucei have diverged to become strain&#x02010;specific</article-title>. <source>BMC Genomics</source>
+<volume>8</volume>: <fpage>234</fpage>.
+<pub-id pub-id-type="pmid">17629915</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0044"><mixed-citation publication-type="journal" id="mmi13838-cit-0044">
+<string-name>
+<surname>Kassem</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Pays</surname>, <given-names>E.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Vanhamme</surname>, <given-names>L.</given-names>
+</string-name> (<year>2014</year>) <article-title>Transcription is initiated on silent variant surface glycoprotein expression sites despite monoallelic expression in Trypanosoma brucei</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>111</volume>: <fpage>8943</fpage>&#x02013;<lpage>8948</lpage>.
+<pub-id pub-id-type="pmid">24889641</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0045"><mixed-citation publication-type="journal" id="mmi13838-cit-0045">
+<string-name>
+<surname>Keely</surname>, <given-names>S.P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Renauld</surname>, <given-names>H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Wakefield</surname>, <given-names>A.E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cushion</surname>, <given-names>M.T.</given-names>
+</string-name>, 
+<string-name>
+<surname>Smulian</surname>, <given-names>A.G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Fosker</surname>, <given-names>N.</given-names>
+</string-name>, <italic>et al</italic> (<year>2005</year>) <article-title>Gene arrays at Pneumocystis carinii telomeres</article-title>. <source>Genetics</source>
+<volume>170</volume>: <fpage>1589</fpage>&#x02013;<lpage>1600</lpage>.
+<pub-id pub-id-type="pmid">15965256</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0046"><mixed-citation publication-type="journal" id="mmi13838-cit-0046">
+<string-name>
+<surname>Kerry</surname>, <given-names>L.E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Pegg</surname>, <given-names>E.E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cameron</surname>, <given-names>D.P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Budzak</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Poortinga</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hannan</surname>, <given-names>K.M.</given-names>
+</string-name>, <italic>et al</italic> (<year>2017</year>) <article-title>Selective inhibition of RNA polymerase I transcription as a potential approach to treat African trypanosomiasis</article-title>. <source>PLoS Neglected Tropical Dis</source>
+<volume>11</volume>: <fpage>e0005432</fpage>.
+</mixed-citation></ref><ref id="mmi13838-bib-0047"><mixed-citation publication-type="journal" id="mmi13838-cit-0047">
+<string-name>
+<surname>Kolev</surname>, <given-names>N.G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Franklin</surname>, <given-names>J.B.</given-names>
+</string-name>, 
+<string-name>
+<surname>Carmi</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Shi</surname>, <given-names>H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Michaeli</surname>, <given-names>S.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Tschudi</surname>, <given-names>C.</given-names>
+</string-name> (<year>2010</year>) <article-title>The transcriptome of the human pathogen Trypanosoma brucei at single&#x02010;nucleotide resolution</article-title>. <source>PLoS Pathog</source>
+<volume>6</volume>: <fpage>e1001090</fpage>.
+<pub-id pub-id-type="pmid">20838601</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0048"><mixed-citation publication-type="journal" id="mmi13838-cit-0048">
+<string-name>
+<surname>Kramer</surname>, <given-names>S.</given-names>
+</string-name> (<year>2012</year>) <article-title>Developmental regulation of gene expression in the absence of transcriptional control: the case of kinetoplastids</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>181</volume>: <fpage>61</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="pmid">22019385</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0049"><mixed-citation publication-type="journal" id="mmi13838-cit-0049">
+<string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name> (<year>2015</year>) <article-title>DNA double&#x02010;strand breaks and telomeres play important roles in Trypanosoma brucei antigenic variation</article-title>. <source>Eukaryot Cell</source>
+<volume>14</volume>: <fpage>196</fpage>&#x02013;<lpage>205</lpage>.
+<pub-id pub-id-type="pmid">25576484</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0050"><mixed-citation publication-type="journal" id="mmi13838-cit-0050">
+<string-name>
+<surname>Lue</surname>, <given-names>N.F.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Yu</surname>, <given-names>E.Y.</given-names>
+</string-name> (<year>2017</year>) <article-title>Telomere recombination pathways: tales of several unhappy marriages</article-title>. <source>Curr Genet</source>
+<volume>63</volume>: <fpage>401</fpage>&#x02013;<lpage>409</lpage>.
+<pub-id pub-id-type="pmid">27666406</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0051"><mixed-citation publication-type="journal" id="mmi13838-cit-0051">
+<string-name>
+<surname>Manful</surname>, <given-names>T.</given-names>
+</string-name>, 
+<string-name>
+<surname>Fadda</surname>, <given-names>A.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Clayton</surname>, <given-names>C.</given-names>
+</string-name> (<year>2011</year>) <article-title>The role of the 5&#x02032;&#x02010;3&#x02032; exoribonuclease XRNA in transcriptome&#x02010;wide mRNA degradation</article-title>. <source>RNA</source>
+<volume>17</volume>: <fpage>2039</fpage>&#x02013;<lpage>2047</lpage>.
+<pub-id pub-id-type="pmid">21947264</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0052"><mixed-citation publication-type="journal" id="mmi13838-cit-0052">
+<string-name>
+<surname>Marcello</surname>, <given-names>L.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Barry</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>2007</year>) <article-title>Analysis of the VSG gene silent archive in Trypanosoma brucei reveals that mosaic gene expression is prominent in antigenic variation and is favored by archive substructure</article-title>. <source>Genome Res</source>
+<volume>17</volume>: <fpage>1344</fpage>&#x02013;<lpage>1352</lpage>.
+<pub-id pub-id-type="pmid">17652423</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0053"><mixed-citation publication-type="journal" id="mmi13838-cit-0053">
+<string-name>
+<surname>McCulloch</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Morrison</surname>, <given-names>L.J.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Hall</surname>, <given-names>J.P.</given-names>
+</string-name> (<year>2015</year>) <article-title>DNA recombination strategies during antigenic variation in the African trypanosome</article-title>. <source>Microbiol Spectr</source>
+<volume>3</volume>: MDNA3&#x02013;0016&#x02010;2014.
+</mixed-citation></ref><ref id="mmi13838-bib-0054"><mixed-citation publication-type="journal" id="mmi13838-cit-0054">
+<string-name>
+<surname>McStay</surname>, <given-names>B.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Grummt</surname>, <given-names>I.</given-names>
+</string-name> (<year>2008</year>) <article-title>The epigenetics of rRNA genes: from molecular to chromosome biology</article-title>. <source>Annu Rev Cell Dev Biol</source>
+<volume>24</volume>: <fpage>131</fpage>&#x02013;<lpage>157</lpage>.
+<pub-id pub-id-type="pmid">18616426</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0055"><mixed-citation publication-type="journal" id="mmi13838-cit-0055">
+<string-name>
+<surname>Mugnier</surname>, <given-names>M.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Papavasiliou</surname>, <given-names>F.N.</given-names>
+</string-name> (<year>2015</year>) <article-title>The in vivo dynamics of antigenic variation in Trypanosoma brucei</article-title>. <source>Science</source>
+<volume>347</volume>: <fpage>1470</fpage>&#x02013;<lpage>1473</lpage>.
+<pub-id pub-id-type="pmid">25814582</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0056"><mixed-citation publication-type="journal" id="mmi13838-cit-0056">
+<string-name>
+<surname>Mugnier</surname>, <given-names>M.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Stebbins</surname>, <given-names>C.E.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Papavasiliou</surname>, <given-names>F.N.</given-names>
+</string-name> (<year>2016</year>) <article-title>Masters of disguise: antigenic variation and the VSG coat in Trypanosoma brucei</article-title>. <source>PLoS Pathog</source>
+<volume>12</volume>: <fpage>e1005784</fpage>.
+<pub-id pub-id-type="pmid">27583379</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0057"><mixed-citation publication-type="journal" id="mmi13838-cit-0057">
+<string-name>
+<surname>Munoz&#x02010;Jordan</surname>, <given-names>J.L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Davies</surname>, <given-names>K.P.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>1996</year>) <article-title>Stable expression of mosaic coats of variant surface glycoproteins in Trypanosoma brucei</article-title>. <source>Science</source>
+<volume>272</volume>: <fpage>1795</fpage>&#x02013;<lpage>1797</lpage>.
+<pub-id pub-id-type="pmid">8650579</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0058"><mixed-citation publication-type="journal" id="mmi13838-cit-0058">
+<string-name>
+<surname>Nanavaty</surname>, <given-names>V.</given-names>
+</string-name>, 
+<string-name>
+<surname>Sandhu</surname>, <given-names>R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Jehi</surname>, <given-names>S.E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Pandya</surname>, <given-names>U.M.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name> (<year>2017</year>) <article-title>Trypanosoma brucei RAP1 maintains telomere and subtelomere integrity by suppressing TERRA and telomeric RNA:DNA hybrids</article-title>. <source>Nucleic Acids Res</source>
+<volume>45</volume>: <fpage>5785</fpage>&#x02013;<lpage>5796</lpage>.
+<pub-id pub-id-type="pmid">28334836</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0059"><mixed-citation publication-type="journal" id="mmi13838-cit-0059">
+<string-name>
+<surname>Narayanan</surname>, <given-names>M.S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kushwaha</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Ersfeld</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Fullbrook</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Stanne</surname>, <given-names>T.M.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>) <article-title>NLP is a novel transcription regulator involved in VSG expression site control in Trypanosoma brucei</article-title>. <source>Nucleic Acids Res</source>
+<volume>39</volume>: <fpage>2018</fpage>&#x02013;<lpage>2031</lpage>.
+<pub-id pub-id-type="pmid">21076155</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0060"><mixed-citation publication-type="journal" id="mmi13838-cit-0060">
+<string-name>
+<surname>Navarro</surname>, <given-names>M.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Gull</surname>, <given-names>K.</given-names>
+</string-name> (<year>2001</year>) <article-title>A pol I transcriptional body associated with VSG mono&#x02010;allelic expression in Trypanosoma brucei</article-title>. <source>Nature</source>
+<volume>414</volume>: <fpage>759</fpage>&#x02013;<lpage>763</lpage>.
+<pub-id pub-id-type="pmid">11742402</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0061"><mixed-citation publication-type="journal" id="mmi13838-cit-0061">
+<string-name>
+<surname>Roditi</surname>, <given-names>I.</given-names>
+</string-name>, 
+<string-name>
+<surname>Furger</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Ruepp</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Schurch</surname>, <given-names>N.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Butikofer</surname>, <given-names>P.</given-names>
+</string-name> (<year>1998</year>) <article-title>Unravelling the procyclin coat of Trypanosoma brucei</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>91</volume>: <fpage>117</fpage>&#x02013;<lpage>130</lpage>.
+<pub-id pub-id-type="pmid">9574930</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0062"><mixed-citation publication-type="journal" id="mmi13838-cit-0062">
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>) <article-title>African trypanosomes: the genome and adaptations for immune evasion</article-title>. <source>Essays Biochem</source>
+<volume>51</volume>: <fpage>47</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="pmid">22023441</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0063"><mixed-citation publication-type="journal" id="mmi13838-cit-0063">
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Le Blancq</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Smith</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>, <given-names>M.G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Rattray</surname>, <given-names>A.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Van der Ploeg</surname>, <given-names>L.H.</given-names>
+</string-name> (<year>1990</year>) <article-title>Procyclic acidic repetitive protein (PARP) genes located in an unusually small alpha&#x02010;amanitin&#x02010;resistant transcription unit: PARP promoter activity assayed by transient DNA transfection of Trypanosoma brucei</article-title>. <source>Mol Cell Biol</source>
+<volume>10</volume>: <fpage>3492</fpage>&#x02013;<lpage>3504</lpage>.
+<pub-id pub-id-type="pmid">1694012</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0064"><mixed-citation publication-type="journal" id="mmi13838-cit-0064">
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Chaves</surname>, <given-names>I.</given-names>
+</string-name>, 
+<string-name>
+<surname>Dirks&#x02010;Mulder</surname>, <given-names>A.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Borst</surname>, <given-names>P.</given-names>
+</string-name> (<year>1998</year>) <article-title>Selection for activation of a new variant surface glycoprotein gene expression site in <italic>Trypanosoma brucei</italic> can result in deletion of the old one</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>95</volume>: <fpage>97</fpage>&#x02013;<lpage>109</lpage>.
+<pub-id pub-id-type="pmid">9763292</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0065"><mixed-citation publication-type="journal" id="mmi13838-cit-0065">
+<string-name>
+<surname>Scherf</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Lopez&#x02010;Rubio</surname>, <given-names>J.J.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Riviere</surname>, <given-names>L.</given-names>
+</string-name> (<year>2008</year>) <article-title>Antigenic variation in Plasmodium falciparum</article-title>. <source>Annu Rev Microbiol</source>
+<volume>62</volume>: <fpage>445</fpage>&#x02013;<lpage>470</lpage>.
+<pub-id pub-id-type="pmid">18785843</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0066"><mixed-citation publication-type="journal" id="mmi13838-cit-0066">
+<string-name>
+<surname>Schwede</surname>, <given-names>A.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Carrington</surname>, <given-names>M.</given-names>
+</string-name> (<year>2010</year>) <article-title>Bloodstream form Trypanosome plasma membrane proteins: antigenic variation and invariant antigens</article-title>. <source>Parasitology</source>
+<volume>137</volume>: <fpage>2029</fpage>&#x02013;<lpage>2039</lpage>.
+<pub-id pub-id-type="pmid">20109254</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0067"><mixed-citation publication-type="journal" id="mmi13838-cit-0067">
+<string-name>
+<surname>Schwede</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Macleod</surname>, <given-names>O.J.</given-names>
+</string-name>, 
+<string-name>
+<surname>MacGregor</surname>, <given-names>P.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Carrington</surname>, <given-names>M.</given-names>
+</string-name> (<year>2015</year>) <article-title>How does the VSG coat of bloodstream form African Trypanosomes interact with external proteins?</article-title>
+<source>PLoS Pathog</source>
+<volume>11</volume>: <fpage>e1005259</fpage>.
+<pub-id pub-id-type="pmid">26719972</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0068"><mixed-citation publication-type="journal" id="mmi13838-cit-0068">
+<string-name>
+<surname>Scotto&#x02010;Lavino</surname>, <given-names>E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Du</surname>, <given-names>G.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Frohman</surname>, <given-names>M.A.</given-names>
+</string-name> (<year>2006</year>) <article-title>3&#x02032; end cDNA amplification using classic RACE</article-title>. <source>Nat Protoc</source>
+<volume>1</volume>: <fpage>2742</fpage>&#x02013;<lpage>2745</lpage>.
+<pub-id pub-id-type="pmid">17406530</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0069"><mixed-citation publication-type="journal" id="mmi13838-cit-0069">
+<string-name>
+<surname>Shaw</surname>, <given-names>A.P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Cecchi</surname>, <given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<surname>Wint</surname>, <given-names>G.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Mattioli</surname>, <given-names>R.C.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Robinson</surname>, <given-names>T.P.</given-names>
+</string-name> (<year>2014</year>) <article-title>Mapping the economic benefits to livestock keepers from intervening against bovine trypanosomosis in Eastern Africa</article-title>. <source>Prev Vet Med</source>
+<volume>113</volume>: <fpage>197</fpage>&#x02013;<lpage>210</lpage>.
+<pub-id pub-id-type="pmid">24275205</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0070"><mixed-citation publication-type="journal" id="mmi13838-cit-0070">
+<string-name>
+<surname>Sheader</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Te Vruchte</surname>, <given-names>D.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name> (<year>2004</year>) <article-title>Bloodstream form&#x02010;specific up&#x02010;regulation of silent vsg expression sites and procyclin in Trypanosoma brucei after inhibition of DNA synthesis or DNA damage</article-title>. <source>J Biol Chem</source>
+<volume>279</volume>: <fpage>13363</fpage>&#x02013;<lpage>13374</lpage>.
+<pub-id pub-id-type="pmid">14726511</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0071"><mixed-citation publication-type="journal" id="mmi13838-cit-0071">
+<string-name>
+<surname>Sheader</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Vaughan</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Minchin</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hughes</surname>, <given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Gull</surname>, <given-names>K.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name> (<year>2005</year>) <article-title>Variant surface glycoprotein RNA interference triggers a precytokinesis cell cycle arrest in African trypanosomes</article-title>. <source>Proc Natl Acad Sci USA</source>
+<volume>102</volume>: <fpage>8716</fpage>&#x02013;<lpage>8721</lpage>.
+<pub-id pub-id-type="pmid">15937117</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0072"><mixed-citation publication-type="journal" id="mmi13838-cit-0072">
+<string-name>
+<surname>Siegel</surname>, <given-names>T.N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hekstra</surname>, <given-names>D.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kemp</surname>, <given-names>L.E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Figueiredo</surname>, <given-names>L.M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Lowell</surname>, <given-names>J.E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Fenyo</surname>, <given-names>D.</given-names>
+</string-name>, <italic>et al</italic> (<year>2009</year>) <article-title>Four histone variants mark the boundaries of polycistronic transcription units in Trypanosoma brucei</article-title>. <source>Genes Dev</source>
+<volume>23</volume>: <fpage>1063</fpage>&#x02013;<lpage>1076</lpage>.
+<pub-id pub-id-type="pmid">19369410</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0073"><mixed-citation publication-type="journal" id="mmi13838-cit-0073">
+<string-name>
+<surname>Siegel</surname>, <given-names>T.N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hekstra</surname>, <given-names>D.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>, <given-names>X.</given-names>
+</string-name>, 
+<string-name>
+<surname>Dewell</surname>, <given-names>S.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Genome&#x02010;wide analysis of mRNA abundance in two life&#x02010;cycle stages of Trypanosoma brucei and identification of splicing and polyadenylation sites</article-title>. <source>Nucleic Acids Res</source>
+<volume>38</volume>: <fpage>4946</fpage>&#x02013;<lpage>4957</lpage>.
+<pub-id pub-id-type="pmid">20385579</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0074"><mixed-citation publication-type="journal" id="mmi13838-cit-0074">
+<string-name>
+<surname>Silverman</surname>, <given-names>J.S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Schwartz</surname>, <given-names>K.J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Hajduk</surname>, <given-names>S.L.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Bangs</surname>, <given-names>J.D.</given-names>
+</string-name> (<year>2011</year>) <article-title>Late endosomal Rab7 regulates lysosomal trafficking of endocytic but not biosynthetic cargo in Trypanosoma brucei</article-title>. <source>Mol Microbiol</source>
+<volume>82</volume>: <fpage>664</fpage>&#x02013;<lpage>678</lpage>.
+<pub-id pub-id-type="pmid">21923766</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0075"><mixed-citation publication-type="journal" id="mmi13838-cit-0075">
+<string-name>
+<surname>Smith</surname>, <given-names>T.K.</given-names>
+</string-name>, 
+<string-name>
+<surname>Vasileva</surname>, <given-names>N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Gluenz</surname>, <given-names>E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Terry</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Portman</surname>, <given-names>N.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kramer</surname>, <given-names>S.</given-names>
+</string-name>, <italic>et al</italic> (<year>2009</year>) <article-title>Blocking variant surface glycoprotein synthesis in Trypanosoma brucei triggers a general arrest in translation initiation</article-title>. <source>PLoS One</source>
+<volume>4</volume>: <fpage>e7532</fpage>.
+<pub-id pub-id-type="pmid">19855834</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0076"><mixed-citation publication-type="journal" id="mmi13838-cit-0076">
+<string-name>
+<surname>Stanne</surname>, <given-names>T.M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kushwaha</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Wand</surname>, <given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Taylor</surname>, <given-names>J.E.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name> (<year>2011</year>) <article-title>TbISWI regulates multiple polymerase I (Pol I)&#x02010;transcribed loci and is present at Pol II transcription boundaries in Trypanosoma brucei</article-title>. <source>Eukaryot Cell</source>
+<volume>10</volume>: <fpage>964</fpage>&#x02013;<lpage>976</lpage>.
+<pub-id pub-id-type="pmid">21571922</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0077"><mixed-citation publication-type="journal" id="mmi13838-cit-0077">
+<string-name>
+<surname>Vanhamme</surname>, <given-names>L.</given-names>
+</string-name>, 
+<string-name>
+<surname>Poelvoorde</surname>, <given-names>P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Pays</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Tebabi</surname>, <given-names>P.</given-names>
+</string-name>, 
+<string-name>
+<surname>Van Xong</surname>, <given-names>H.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Pays</surname>, <given-names>E.</given-names>
+</string-name> (<year>2000</year>) <article-title>Differential RNA elongation controls the variant surface glycoprotein gene expression sites of Trypanosoma brucei</article-title>. <source>Mol Microbiol</source>
+<volume>36</volume>: <fpage>328</fpage>&#x02013;<lpage>340</lpage>.
+<pub-id pub-id-type="pmid">10792720</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0078"><mixed-citation publication-type="journal" id="mmi13838-cit-0078">
+<string-name>
+<surname>Viktorovskaya</surname>, <given-names>O.V.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Schneider</surname>, <given-names>D.A.</given-names>
+</string-name> (<year>2015</year>) <article-title>Functional divergence of eukaryotic RNA polymerases: unique properties of RNA polymerase I suit its cellular role</article-title>. <source>Gene</source>
+<volume>556</volume>: <fpage>19</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="pmid">25445273</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0079"><mixed-citation publication-type="journal" id="mmi13838-cit-0079">
+<string-name>
+<surname>Vink</surname>, <given-names>C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Rudenko</surname>, <given-names>G.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Seifert</surname>, <given-names>H.S.</given-names>
+</string-name> (<year>2012</year>) <article-title>Microbial antigenic variation mediated by homologous DNA recombination</article-title>. <source>FEMS Microbiol Rev</source>
+<volume>36</volume>: <fpage>917</fpage>&#x02013;<lpage>948</lpage>.
+<pub-id pub-id-type="pmid">22212019</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0080"><mixed-citation publication-type="journal" id="mmi13838-cit-0080">
+<string-name>
+<surname>Wang</surname>, <given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Bohme</surname>, <given-names>U.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>2003</year>) <article-title>Structural features affecting variant surface glycoprotein expression in Trypanosoma brucei</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>128</volume>: <fpage>135</fpage>&#x02013;<lpage>145</lpage>.
+<pub-id pub-id-type="pmid">12742580</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0081"><mixed-citation publication-type="journal" id="mmi13838-cit-0081">
+<string-name>
+<surname>Wirtz</surname>, <given-names>E.</given-names>
+</string-name>, 
+<string-name>
+<surname>Leal</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Ochatt</surname>, <given-names>C.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>1999</year>) <article-title>A tightly regulated inducible expression system for conditional gene knock&#x02010;outs and dominant&#x02010;negative genetics in Trypanosoma brucei</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>99</volume>: <fpage>89</fpage>&#x02013;<lpage>101</lpage>.
+<pub-id pub-id-type="pmid">10215027</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0082"><mixed-citation publication-type="journal" id="mmi13838-cit-0082">
+<string-name>
+<surname>Wright</surname>, <given-names>J.R.</given-names>
+</string-name>, 
+<string-name>
+<surname>Siegel</surname>, <given-names>T.N.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Cross</surname>, <given-names>G.A.</given-names>
+</string-name> (<year>2010</year>) <article-title>Histone H3 trimethylated at lysine 4 is enriched at probable transcription start sites in Trypanosoma brucei</article-title>. <source>Mol Biochem Parasitol</source>
+<volume>172</volume>: <fpage>141</fpage>&#x02013;<lpage>144</lpage>.
+<pub-id pub-id-type="pmid">20347883</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0083"><mixed-citation publication-type="journal" id="mmi13838-cit-0083">
+<string-name>
+<surname>Yang</surname>, <given-names>X.</given-names>
+</string-name>, 
+<string-name>
+<surname>Figueiredo</surname>, <given-names>L.M.</given-names>
+</string-name>, 
+<string-name>
+<surname>Espinal</surname>, <given-names>A.</given-names>
+</string-name>, 
+<string-name>
+<surname>Okubo</surname>, <given-names>E.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Li</surname>, <given-names>B.</given-names>
+</string-name> (<year>2009</year>) <article-title>RAP1 is essential for silencing telomeric variant surface glycoprotein genes in Trypanosoma brucei</article-title>. <source>Cell</source>
+<volume>137</volume>: <fpage>99</fpage>&#x02013;<lpage>109</lpage>.
+<pub-id pub-id-type="pmid">19345190</pub-id></mixed-citation></ref><ref id="mmi13838-bib-0084"><mixed-citation publication-type="journal" id="mmi13838-cit-0084">
+<string-name>
+<surname>Zimmermann</surname>, <given-names>H.</given-names>
+</string-name>, 
+<string-name>
+<surname>Subota</surname>, <given-names>I.</given-names>
+</string-name>, 
+<string-name>
+<surname>Batram</surname>, <given-names>C.</given-names>
+</string-name>, 
+<string-name>
+<surname>Kramer</surname>, <given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<surname>Janzen</surname>, <given-names>C.J.</given-names>
+</string-name>, 
+<string-name>
+<surname>Jones</surname>, <given-names>N.G.</given-names>
+</string-name>, and 
+<string-name>
+<surname>Engstler</surname>, <given-names>M.</given-names>
+</string-name> (<year>2017</year>) <article-title>A quorum sensing&#x02010;independent path to stumpy development in Trypanosoma brucei</article-title>. <source>PLoS Pathog</source>
+<volume>13</volume>: <fpage>e1006324</fpage>.
+<pub-id pub-id-type="pmid">28394929</pub-id></mixed-citation></ref></ref-list></back></article>

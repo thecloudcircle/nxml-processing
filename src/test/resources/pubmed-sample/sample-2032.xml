@@ -1,0 +1,365 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Cell J</journal-id><journal-id journal-id-type="iso-abbrev">Cell J</journal-id><journal-id journal-id-type="publisher-id">Royan Institute</journal-id><journal-title-group><journal-title>Cell Journal (Yakhteh)</journal-title></journal-title-group><issn pub-type="ppub">2228-5806</issn><issn pub-type="epub">2228-5814</issn><publisher><publisher-name>Royan Institute</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">24611148</article-id><article-id pub-id-type="pmc">4204190</article-id><article-id pub-id-type="other">Cell-J-16-235</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject><subj-group><subject>Stem Cells</subject><subject>Cellular and Molecular Biology</subject></subj-group></subj-group></article-categories><title-group><article-title>A Comparative Study of Osteogenic Differentiation Human
+Induced Pluripotent Stem Cells and Adipose Tissue
+Derived Mesenchymal Stem Cells</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ardeshirylajimi</surname><given-names>Abdolreza</given-names></name><degrees>Ph.D</degrees><xref ref-type="aff" rid="A1">1</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Soleimani</surname><given-names>Masoud</given-names></name><degrees>Ph.D</degrees><xref ref-type="aff" rid="A2">2</xref></contrib><contrib contrib-type="author"><name><surname>Hosseinkhani</surname><given-names>Saman</given-names></name><degrees>Ph.D</degrees><xref ref-type="aff" rid="A3">3</xref></contrib><contrib contrib-type="author"><name><surname>Parivar</surname><given-names>Kazem</given-names></name><degrees>Ph.D</degrees><xref ref-type="aff" rid="A1">1</xref></contrib><contrib contrib-type="author"><name><surname>Yaghmaei</surname><given-names>Parichehr</given-names></name><degrees>Ph.D</degrees><xref ref-type="aff" rid="A1">1</xref></contrib><aff id="A1"><label>1</label>Department of Biology, Science and Research Branch, Islamic Azad University, Tehran, Iran</aff><aff id="A2"><label>2</label>Department of Hematology, Faculty of Medical Science, Tarbiat Modares University, Tehran, Iran</aff><aff id="A3"><label>3</label>Department of Biochemistry, Faculty of Biological Sciences, Tarbiat Modares University, Tehran, Iran</aff></contrib-group><author-notes><corresp id="cor1"><label>*Corresponding Address:</label><addr-line>Department of Biology</addr-line><addr-line>Science and Research Branch</addr-line><institution>Islamic Azad University</institution><addr-line>Tehran</addr-line><country>Iran</country>
+Email:<email>r.ardeshiry.62@gmail.com</email></corresp></author-notes><pub-date pub-type="ppub"><season>Autumn</season><year>2014</year></pub-date><pub-date pub-type="epub"><day>4</day><month>10</month><year>2014</year></pub-date><volume>16</volume><issue>3</issue><fpage>235</fpage><lpage>244</lpage><history><date date-type="received"><day>10</day><month>6</month><year>2013</year></date><date date-type="accepted"><day>1</day><month>9</month><year>2013</year></date></history><permissions><copyright-statement>Any use, distribution, reproduction or abstract of this publication in any medium, with the exception of commercial purposes, is permitted provided the original work is properly cited</copyright-statement><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><license-p>This is an open-access article distributed under the terms of the
+Creative Commons Attribution License, which permits unrestricted use,
+distribution, and reproduction in any medium, provided the original work is properly cited.
+</license-p></license></permissions><abstract><sec><title>Objective</title><p>Human induced pluripotent stem cells (iPSCs) have been shown to have
+promising capacity for stem cell therapy and tissue engineering applications. Therefore,
+it is essential to compare the ability of these cells with the commonly used mesenchymal
+stem cells (MSC) for bone tissue engineering <italic>in vitro</italic>.
+</p></sec><sec><title>Materials and Methods</title><p>In this experimental study, the biological behavior and osteo-
+genic capacity of the iPSCs were compared with MSCs isolated from human adipose tissue (AT-MSCs) using 3-(4,5-di-methylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT)
+assay, Alizarin red staining, alkaline phosphatase (ALP) activity measurements, calcium
+content assay and common osteogenic-related genes. Data were reported as the mean &#x000b1;
+SD. One-way analysis of variance (ANOVA) was used to compare the results. A p value of
+less than 0.05 was considered statistically significant.
+</p></sec><sec><title>Results</title><p>There was a significant difference between the rate of proliferation of the two
+types of stem cells; iPSCs showed increased proliferation compared to AT-MSCs. During osteogenic differentiation, ALP activity and mineralization were demonstrated to be
+significantly higher in iPSCs. Although AT-MSCs expressed higher levels of Runx2, iPSCs
+expressed higher levels of osteonection and osteocalcin during differentiation.</p></sec><sec><title>Conclusion</title><p>iPSCs showed a higher capacity for osteogenic differentiation and hold promising potential for bone tissue engineering and cell therapy applications.</p></sec></abstract><kwd-group><kwd>Osteogenic</kwd><kwd>Tissue Engineering</kwd><kwd>Mesenchymal Stem Cells</kwd><kwd>Flow Cytometry</kwd><kwd>Gene
+Expression</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>Citation</meta-name><meta-value>Ardeshirylajimi AR, Soleimani M, Hosseinkhani S, Parivar K, Yaghmaei P. A comparative study of
+osteogenic differentiation human induced pluripotent stem cells and adipose tissue derived mesenchymal stem cells.
+Cell J. 2014; 16(3): 235-244.</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Since, bone turnover is a long and complicated
+process, it is essential to treat bone defects to improve
+regeneration and reconstruction (<xref rid="B1" ref-type="bibr">1</xref>). Bone
+tissue engineering is a new and promising treatment
+for bone injuries caused by infections, tumors,
+trauma and abnormal skeletal developments
+(<xref rid="B2" ref-type="bibr">2</xref>-<xref rid="B4" ref-type="bibr">4</xref>). Stem cells are noted for their potential for
+self-renewal and differentiation into various lineages
+with specific functions. In particular, their
+potential to give rise to mature and functional osteoblast-
+like cells <italic>in vitro</italic> and <italic>in vivo</italic> has attracted
+many scientists interested in their application as
+the live part of bone implants (<xref rid="B5" ref-type="bibr">5</xref>-<xref rid="B7" ref-type="bibr">7</xref>).</p><p>Mesenchymal stem cells (MSCs) are a commonly
+used source in regenerative medicine and tissue
+engineering. They have unusual and useful properties
+such as: the potential for intense regeneration,
+immunosuppressive features, and a high level of plasticity. There are different sources for deriving
+MSCs, like bone marrow and adipose tissue. For
+many years, bone marrow derived MSCs (BMMSCs)
+were the unique source of autologous stem
+cells for tissue engineering, but nowadays it has
+been suggested that they be replaced by adipose
+tissue derived MSCs (AT-MSCs) (<xref rid="B8" ref-type="bibr">8</xref>-<xref rid="B10" ref-type="bibr">10</xref>). The main
+reason is the increased simplicity of harvesting fat
+compared to bone marrow aspiration. In addition,
+the yield of stem cells from adipose tissue is higher
+than that from bone marrow (<xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B12" ref-type="bibr">12</xref>). It has been
+shown that the typical MSC yield for bone marrow
+is between 1 in 50,000 and 1 in 1 million in
+a skeletally mature adult and for adipose tissue is
+between 1 in 30 and 1 in 1,000 (<xref rid="B11" ref-type="bibr">11</xref>, <xref rid="B12" ref-type="bibr">12</xref>). Other reasons
+are the low level of cell morbidity during the
+extraction process and the simple equipment and
+conditions required for the isolation and growth of
+AT-MSCs (<xref rid="B13" ref-type="bibr">13</xref>, <xref rid="B14" ref-type="bibr">14</xref>).</p><p>Recently, Takahashi et al. generated induced
+pluripotent stem cells (iPSCs) via the transduction
+of murine and human fibroblasts using only
+four transcription factors; Oct4, Sox2, c-Myc,
+and Klf4 (<xref rid="B15" ref-type="bibr">15</xref>, <xref rid="B16" ref-type="bibr">16</xref>). These cells were very similar
+to embryonic stem cells (ESCs) in characteristics
+such as morphology, gene expression, proliferation,
+epigenetic status of pluripotent cellspecific
+genes and telomerase activity. Today,
+advances in iPSC research have modified the
+prospect for tissue engineering and regenerative
+medicine. Several studies have reported the
+potential application of iPSCs in the treatment
+of various diseases (<xref rid="B17" ref-type="bibr">17</xref>, <xref rid="B18" ref-type="bibr">18</xref>).</p><p>Many studies have compared the proliferation
+and differentiation characteristics of human ATMSCs
+with those of BM-MSCs (<xref rid="B19" ref-type="bibr">19</xref>-<xref rid="B21" ref-type="bibr">21</xref>), and a
+few studies have compared human MSCs with
+unrestricted somatic stem cells (USSC) isolated
+from umbilical cord blood (<xref rid="B22" ref-type="bibr">22</xref>). There have
+been many reports on the potential of AT-MSCs
+(<xref rid="B23" ref-type="bibr">23</xref>) and recently, we ourselves demonstrated
+the high proliferation and osteogenic differentiation
+potential of human iPSCs (<xref rid="B24" ref-type="bibr">24</xref>). However,
+as yet, there are no analyses which compare the
+osteogenic differentiation potential of human
+iPSCs with AT-MSCs. Therefore, in the present
+study, AT-MSCs were isolated, characterized
+and compared with human iPSCs based on their
+biological behavior and their capacity for differentiation
+into osteoblastic lineage.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Cell culture</title><sec><title>Isolation and expansion of adipose tissue derived mesenchymal
+stem cells</title><p>In this experimental study, for isolation of ATMSCs,
+adipose tissue samples were collected
+during liposuction operations from five donors
+(mean age 40 &#x000b1; 5, Erfan Hospital, Tehran, Iran)
+after informed consent according to guidelines of
+the Medical Ethics Committee, Ministry of Health
+I. R. Iran. These samples were then were treated
+with 0.2% collagenase II under intermittent shaking
+at 37&#x002da;C for 30 minutes. After centrifugation
+(1200 RPM for 15 minutes), the supernatant was
+discarded and the cell pellet was treated with RBC
+lysis buffer (Dako, Glostrup, Denmark) at room
+temperature (RT) for 5 minutes. Samples were
+then centrifuged at 1200 RPM for 5 minutes and
+the cell pellet was resuspended in a 75 cm<sup>2</sup> culture
+flask (Nunk) in Dulbecco&#x02019;s Modified Eagle&#x02019;s
+Medium (DMEM, Invitrogen Co., Carlsbad, CA,
+USA) with 10% Fetal Bovine Serum (FBS, Invitrogen
+Co., Carlsbad, CA, USA) and incubated
+in 95% air and 5% CO<sub>2</sub> at 37&#x002da;C. After reaching
+confluence (about 80-85%) over ten days the cells
+were detached using trypsin (2 minutes in 37&#x002da;C,
+5% CO<sub>2</sub>) and replated.</p></sec><sec><title>Expansion of induced pluripotent stem cells</title><p>Human Fibroblast iPSC lines were obtained
+from the cell bank (Stem Cells Technology Research
+Center (Tehran, Iran) (<xref rid="B20" ref-type="bibr">20</xref>). These cells
+were expanded according to the protocol reported
+in a recent study (<xref rid="B24" ref-type="bibr">24</xref>). In brief, the cells
+were maintained on feeder layers of SNL76/7
+cells treated with mitomycin-C (Invitrogen Co.,
+Carlsbad, CA, USA). Human iPSC medium
+consisted of DMEM/F12 culture medium supplemented
+with 15% knockout serum replacement
+(KSR) (Invitrogen Co., Carlsbad, CA,
+USA), 0.1 mmol/L nonessential amino acids, 1
+mmol/L L-glutamine (all from Invitrogen Co.,
+Carlsbad, CA, USA), 0.1 mmol/L b-mercaptoethanol
+(Sigma, Munich, Germany), penicillin/
+streptomycin (Sigma, Munich, Germany) and 4
+ng/mL of human fibroblast growth factor 2 (Invitrogen
+Co., Carlsbad, CA, USA), and about
+60% of the medium was replaced every day.
+Every four to five days human iPSC colonies were detached with 0.1% Collagenase IV, and
+replated onto inactivated SNL76/7 for expansion.</p></sec><sec><title>MTT assay</title><p>
+AT-MSCs at passage 2 (P2) and human iPSCs
+were seeded with an initial cell density of 5000
+cells/well in 24-well tissue culture polystyrene
+(TCPS) plates and were cultured for five days.
+The proliferation of these cells was evaluated
+via MTT assay. Thus on each day, 50 &#x003bc;L of
+MTT solution (5 mg/mL in DMEM) was added
+to each well (n=4), to evaluate the conversion of
+MTT to formazan crystals by the mitochondrial
+dehydrogenases of the living cells. The plate
+was incubated at 37&#x002da;C, 5% CO<sub>2</sub>. After 3.5 hour
+incubation the supernatant was removed to examine
+the dissolution of the dark-blue intracellular
+formazan, and 250 &#x003bc;L dimethyl sulfoxide
+(DMSO) as an appropriate solvent was added.
+The optical density was read at a wavelength of
+570 nm in a micro-plate reader (ELx-800, BIOTEK
+instruments, Winooski, VT, USA).</p><p>For osteo-lineage differentiation, the cells
+were cultured in osteogenesis medium containing
+basal medium (DMEM + FBS 10%) supplemented
+with 10 nM dexamethasone, 0.2
+mM ascorbic acid 2-phosphate, and 10 mM
+&#x003b2;-glycerophosphate (all from sigma, Munich,
+Germany). The medium was changed every 2
+days. Finally, at day 21 of culture in inductive
+medium the cells were stained with alizarin red
+S to assess mineralization.</p></sec><sec><title>Flow cytometry</title><p>After two weeks of culture, the expression of
+surface markers was evaluated using monoclonal
+antibodies including Fluorescent isothiocyanate
+(FITC)-conjugated mouse anti-human
+CD45 (leukocyte common antigen), Phycoerythrin
+(PE)-conjugated CD105 (Endoglin or
+SH2) CD34, and CD90. The cells were detached
+with trypsin/EDTA and incubated with the specific
+antibodies or isotype control antibodies
+(FITC-or PE-labeled antibodies were included
+in each experiment) in 100 &#x003bc;L of 3% bovine serum
+albumin in PBS for 1 hour at 4&#x002da;C. The cells
+were then fixed with 1% paraformaldehyde and
+analyzed with a Coulter Epics-XL flow cytometer
+(Beckman Coulter, Fullerton, CA, USA)
+and Win MDI 2.8 software (Scripps Institute,
+La Jolla, CA, USA).</p></sec><sec><title>Alkaline phosphatase activity and calcium content assay</title><p>ALP activity measurement was performed by
+total protein extraction of cells using 200 &#x003bc;L
+radio immune precipitation assay (RIPA) lysis
+buffer. Then, the lysate was centrifuged at 15000
+g at 4&#x002da;C for 15 minutes, after the collection of
+supernatant, ALP activity was measured using
+an ALP assay kit (Parsazmun, Tehran, Iran) according
+to the manufacturer&#x02019;s protocol. Activity
+of the enzyme (IU/L) was normalized against
+total protein (mg). Mineralization, as a late
+marker in the osteogenic differentiation of stem
+cells, was also quantified. During osteogenic
+differentiation, the amount of calcium minerals
+deposited on stem cells was measured using
+the cresolphthalein complexone method with a
+calcium content assay kit (Parsazmun, Tehran,
+Iran). Calcium extraction was performed by 0.6
+N HCL (Merck, Darmstadt, Germany). After
+the addition of the reagent to calcium solutions,
+optical density (OD) was measured at 570 nm.
+Calcium content was obtained from the standard
+curve of OD versus a serial dilution of calcium
+concentrations.</p></sec><sec><title>Real-time reverse transcriptase-polymerase chain reaction (RT-PCR)</title><p>The difference between the mRNA levels of
+important bone-related genes in stem cells was
+analyzed using real-time RT-PCR. Total RNA was
+extracted and random hexamer primed cDNA synthesis
+was carried out using Revert Aid first strand
+cDNA synthesis kit (Fermentas, Burlington, Canada).
+The cDNAs were used for 40 cycle PCR in a
+Rotor-gene Q real-time analyzer (Corbett, Sydney,
+Australia). Real-time RT-PCR was performed using
+Maxima&#x02122; SYBR Green/ROX qPCR Master
+Mix (Fermentas) followed by melting curve analysis
+to confirm PCR specificity. Each reaction was
+repeated twice and threshold cycle average was
+used for data analysis by Rotor-gene Q software
+(Corbett, Sydney, Australia). Genes and related
+specific primers are illustrated in table 1. Relative
+expression was quantified using &#x00394;&#x00394;Ct method.
+Target genes were normalized against HPRT and
+calibrated to iPSCs.</p><table-wrap id="T1" orientation="portrait" position="float"><label>Table 1</label><caption><p> Primers used in real-time RT-PCR</p></caption><table frame="hsides" rules="groups"><tbody><tr><th colspan="3" rowspan="1"><hr/></th></tr><tr><th align="left" rowspan="1" colspan="1">Gene</th><th align="left" rowspan="1" colspan="1">Primer sequence </th><th align="left" rowspan="1" colspan="1">Product length (base pairs)</th></tr><tr><th colspan="3" rowspan="1"><hr/></th></tr><tr><td align="left" rowspan="1" colspan="1"><bold>HPRT1</bold></td><td rowspan="1" colspan="1">CCTGGCGTCGTGATTAGTG&#x0000d;TCAGTCCTGTCCATAATTAGTCC</td><td rowspan="1" colspan="1">125</td></tr><tr><td align="left" rowspan="1" colspan="1"><bold>Runx2</bold></td><td rowspan="1" colspan="1">GCCTTCAAGGTGGTAGCCC&#x0000d;CGTTACCCGCCATGACAGTA</td><td rowspan="1" colspan="1">67</td></tr><tr><td align="left" rowspan="1" colspan="1"><bold>Osteonectin</bold></td><td rowspan="1" colspan="1">AGGTATCTGTGGGAGCTAATC&#x0000d;ATTGCTGCACACCTTCTC</td><td rowspan="1" colspan="1">121</td></tr><tr><td align="left" rowspan="1" colspan="1"><bold>Osteocalcin</bold></td><td rowspan="1" colspan="1">GCAAAGGTGCAGCCTTTGTG&#x0000d;GGCTCCCAGCCATTGATACAG</td><td rowspan="1" colspan="1">224</td></tr><tr><td align="left" rowspan="1" colspan="1"><bold>Oct-4</bold></td><td rowspan="1" colspan="1">GTTCTATTTG GGAAGGTATTC&#x0000d;CAGCTTACACATGTTCTTGAA</td><td rowspan="1" colspan="1">83</td></tr><tr><td align="left" rowspan="1" colspan="1"><bold>Sox-2</bold></td><td rowspan="1" colspan="1">GGACTGAGAGAAAGAAGAGGAG&#x0000d;GAAAATCAGGCGAAGAATAAT</td><td rowspan="1" colspan="1">196</td></tr><tr><td align="left" rowspan="1" colspan="1"><bold>Nanog</bold></td><td rowspan="1" colspan="1">GCTAAGGACAACATTGATAGAAG&#x0000d;CTTCATCACCAATTCGTACTTG</td><td rowspan="1" colspan="1">128</td></tr><tr><th colspan="3" rowspan="1"><hr/></th></tr></tbody></table><table-wrap-foot><fn><p>HPRT1; Hypoxanthine phosphoribosyltransferase 1, Runx2; Runt-related transcription factor 2, Oct4; Octamer-binding transcription
+factor 4 and Sox2; SRY (sex determining region Y)-box 2.</p></fn></table-wrap-foot></table-wrap></sec><sec><title>Statistical analysis</title><p>All experiments were conducted at least for
+three times. Data were reported as the mean &#x000b1;
+SD. One-way analysis of variance (ANOVA)
+was used to compare the results. A p value of
+less than 0.05 was considered statistically significant.
+All statistical analyses were conducted
+with SPSS software, version 11.0 (SPSS, Chicago,
+IL, USA).</p></sec></sec></sec><sec sec-type="results"><title>Results</title><sec><title>Characterization of adipose tissue derived mesenchymal
+stem cells</title><p>
+Isolated stem cells from adipose tissue were
+characterized based on their surface markers.
+AT-MSCs were negative for CD45 and CD34
+and were positive for CD90 and CD105 (<xref ref-type="fig" rid="F1">Fig 1</xref>).
+iPSCs were also characterized using RT-PCR
+for pluripotency genes and teratoma formation
+capability (<xref ref-type="fig" rid="F2">Fig 2</xref>). Morphology of human iPSC
+colonies seeded on SNL76/7 feeder layers were
+similar to human ES morphology (<xref ref-type="fig" rid="F3">Fig 3A</xref>) and
+AT-MSCs also showed fibroblast-like and spindle-
+shaped morphology when cultured at lowdensity
+(<xref ref-type="fig" rid="F3">Fig 3B</xref>). In osteogenic medium (<xref ref-type="fig" rid="F3">Fig 3C-D</xref>), the biomineralization and secreted extracellular
+matrix were clearly observed on both
+types of stem cell and were visualized by Alizarin
+red staining (<xref ref-type="fig" rid="F3">Fig 3E-F</xref>). Calcium depositions
+in the two types of stem cell represented a
+uniform pattern. However, different amounts of
+mineralization were observed in various fields
+of AT-MSCs and iPSCs monolayer. The proliferation
+rate of stem cells was also significantly
+different (<xref ref-type="fig" rid="F4">Fig 4</xref>). According to the results, a
+higher rate of proliferation was observed in iPSCs
+compared to AT-MSCs.</p><fig id="F1" orientation="portrait" position="float"><label>Fig 1</label><caption><p>Flow cytometry analysis of AT-MSCs.</p></caption><graphic xlink:href="Cell-J-16-235-g01"/></fig><fig id="F2" orientation="portrait" position="float"><label>Fig 2</label><caption><p>Pluripotency of induced pluripotent stem cells established using the expression of Oct-4, Sox-2 and Nanog(A) and the
+explanted teratoma (B).</p></caption><graphic xlink:href="Cell-J-16-235-g02"/></fig><fig id="F3" orientation="portrait" position="float"><label>Fig 3</label><caption><p>The morphology of stem cells under basal medium [iPSCs (A) and AT-MSCs (B)]; after 21 days culture in osteogenic
+induction medium [iPSCs (C) and AT-MSCs (D)]; and alizarin red staining of stem cells after 21 days culture in osteogenic
+induction medium [iPSCs (E) and AT-MSCs (F)], scale bars (100 &#x003bc;m).</p></caption><graphic xlink:href="Cell-J-16-235-g03"/></fig><fig id="F4" orientation="portrait" position="float"><label>Fig 4</label><caption><p>Proliferation of induced pluripotent stem cells (iPSCs)
+and adipose tissue derived mesenchymal stem cells (AT-MSCs)
+on tissue culture polystyrene (TCPS) over a 5 day culture period
+(asterisk shows significant difference, p&#x0003c;0.05).</p></caption><graphic xlink:href="Cell-J-16-235-g04"/></fig></sec><sec><title>Alkaline phosphatase activity and mineralization
+of stem cells</title><p>ALP activity, as a marker of osteogenesis in
+stem cells, was measured during induction of
+osteogenesis (<xref ref-type="fig" rid="F5">Fig 5</xref>). ALP activity in all stem
+cells showed a similar pattern during osteogenic
+differentiation. AT-MSCs showed significantly
+higher ALP activity than iPSCs at two time
+points (14 and 21 days). Furthermore, higher
+ALP activity was measured in iPSCs compared
+to AT-MSCs on day 7, however, the difference
+was not significant (<xref ref-type="fig" rid="F6">Fig 6</xref>). The calcium content
+of both stem cells displayed a similar pattern,
+including a peak during osteogenic differentiation.
+iPSCs demonstrated a higher level of
+calcium deposition than AT-MSCs at all time
+points, with a peak on day 14. Furthermore,
+significantly higher calcium deposition was
+observed in iPSCs compared to AT-MSCs at all
+time points.</p><fig id="F5" orientation="portrait" position="float"><label>Fig 5</label><caption><p>ALP activity of stem cells during osteogenic differentiation [asterisk shows significant difference between adipose tissue derived
+mesenchymal stem cells (AT-MSCs) and induced pluripotent stem cells (iPSCs) on each day, p&#x0003c;0.05].</p></caption><graphic xlink:href="Cell-J-16-235-g05"/></fig><fig id="F6" orientation="portrait" position="float"><label>Fig 6</label><caption><p>Calcium content of stem cells during osteogenic differentiation [asterisk shows significant difference between AT-MSsC and
+iPSCs on each day at p&#x0003c;0.05].</p></caption><graphic xlink:href="Cell-J-16-235-g06"/></fig></sec><sec><title>Gene expression analysis</title><p>The relative expression of three important
+bone-related genes was investigated during osteogenic
+differentiation of the two stem cells
+(<xref ref-type="fig" rid="F7">Fig 7</xref>). A decreasing trend in the expression of
+Runt-related transcription factor 2 (Runx2) was
+observed in iPSCs and AT-MSCs during osteogenic
+differentiation. This gene was expressed
+at a higher level on days 7 and 14 in iPSCs compared
+to AT-MSCs. The highest amount of osteonectin
+was observed in iPSCs and AT-MSCs
+on day 7. In both types of stem cell, osteonectin
+expression was down-regulated on days 14 and
+21. In both types of stem cell, the expression of
+osteocalcin increased similarly during culture.
+The expression of osteocalcin during osteogenic
+differentiation increased significantly in
+iPSCs compared to AT-MSCs.</p><fig id="F7" orientation="portrait" position="float"><label>Fig 7</label><caption><p>Relative expression of Osteocalcin, Runx2 and Osteonectin in stem cells on days 7, 14 and 21 during osteogenic differentiation
+(asterisk shows significant difference between two groups on each day at p&#x0003c;0.05).</p></caption><graphic xlink:href="Cell-J-16-235-g07"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>Currently the use of stem cells to promote bone
+healing is being progressed and developed because
+of the unique characteristics of these cells, such as
+extensive proliferation, differentiation and growth
+factor secretion at the site of osseous defects (<xref rid="B25" ref-type="bibr">25</xref>-
+<xref rid="B27" ref-type="bibr">27</xref>). Several studies have shown that CD90 (thymocyte
+differentiation antigen 1) and CD105 (known
+as endoglin) are surface markers that must be expressed
+on the surface of the so-called MSCs (<xref rid="B28" ref-type="bibr">28</xref>).
+These cells also must lack expression of CD45 and
+CD34 which showed their non-hematopoietic origin
+(<xref rid="B29" ref-type="bibr">29</xref>-<xref rid="B31" ref-type="bibr">31</xref>). Flow cytometric data confirmed that
+the isolated cells from adipose tissue are mesenchymal.
+In the present study, both stem cell types
+showed similar patterns of ALP activity during
+differentiation into osteoblasts. ALP has a critical
+role in osteogenesis due to its role in the cleavage
+of calcium phosphate groups and enhancment of
+mineralization of the calcium phosphate cements
+which are a hallmark of the final osteogenic differentiation
+of stem cells <italic>in vitro</italic> (<xref rid="B32" ref-type="bibr">32</xref>-<xref rid="B34" ref-type="bibr">34</xref>). Our ALP
+activity data showed that iPSCs have superior osteogenic
+capacity compared with AT-MSCs at all
+time points. In addition, mineralization data confirmed
+the patterns of ALP activity in both stem
+cells. Matrix mineralization is a result of continuous
+mineral deposition due to ALP activity, crystal
+nucleation and precipitation during osteogenic
+differentiation (<xref rid="B35" ref-type="bibr">35</xref>). The significant difference observed
+between the level of mineralization in iPSC
+compared to AT-MSCs suggests that the movement
+of iPSCs toward osteogenic lineage is faster
+and higher yield. It seems that this effect could be
+a result of the high proliferation rate of iPSCs, as
+findings from several studies have demonstrated
+that one of the most important items in osteogenic
+differentiation is confluency of stem cells (<xref rid="B36" ref-type="bibr">36</xref>, <xref rid="B37" ref-type="bibr">37</xref>).
+Alizarin red staining showed no significant difference
+between the two stem cell types. This result
+can be explained by the heterogeneous initial cell
+seeding and differential rate of cell attachment.</p><p>In this study, three important bone-related genes
+were selected and their expression was evaluated
+for better comparison and understanding of the osteogenic
+differentiation behavior of iPSCs and ATMSCs.
+Runx2 is an early osteogenic differentiation
+gene marker. Up-regulation and significantly
+higher levels of Runx2 were observed on days 7
+and 14 in AT-MSCs compared to iPSCs. The superior
+mineralization of iPSCs can be explained by
+up-regulation of the osteonectin gene due to the
+important role of osteonectin expression in initial
+crystal growth on stem cells during osteogenic
+differentiation. This can also explain the higher
+expression of osteocalcin in iPSCs compared to
+AT-MSCs. Both stem cell types showed a similar
+pattern of expression of osteocalcin, but higher expression
+of this gene was observed in iPSCs compared
+to AT-MSCs. Therefore, high expression of
+osteocalcin and down-regulation of Runx2 and osteonectin
+as critical osteogenic genes in both types
+of stem cell can be a good predictor of their capacity
+for differentiation into osteogenic lineage.
+In addition, iPSCs showed better results than ATMSCs
+in relation to osteogenic gene expression,
+which confirmed the higher osteogenic differentiation
+potential in iPSCs compared to AT-MSCs.</p></sec><sec sec-type="conclusions"><title>Conclusion</title><p>Taking all the results together, iPSCs showed
+a superior capacity for osteogenic differentiation
+than AT-MSCs. Although the capacity for osteogenic
+differentiation is an important factor when
+selecting the cell source for bone cell-based therapies,
+the rate of proliferation and senescence-associated
+characteristics should also be considered in
+the isolation, expansion and selection process.</p></sec></body><back><ack><p>This study was supported by a grant from the Stem
+Cell Technology Research Center, Tehran, Iran. The
+authors would like to thank to Dr. Amir Atashi, Dr.
+Ehsan Arefian, Dr. Ehsan Seyedjafari and Dr. Ladan
+Langroudi for their contributions to this work. There
+is no conflict of interest in this article.</p></ack><ref-list><ref id="B1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dimitriou</surname><given-names>R</given-names></name><name><surname>Jones</surname><given-names>E</given-names></name><name><surname>McGonagle</surname><given-names>D</given-names></name><name><surname>Giannoudis</surname><given-names>PV</given-names></name></person-group><article-title>Bone regeneration: current concepts and future directions</article-title><source>BMC Med</source><year>2011</year><volume>9</volume><issue>1</issue><fpage>66</fpage><lpage>66</lpage><pub-id pub-id-type="pmid">21627784</pub-id></element-citation></ref><ref id="B2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Djouad</surname><given-names>F</given-names></name><name><surname>Gu&#x000e9;rit</surname><given-names>D</given-names></name><name><surname>Marie</surname><given-names>M</given-names></name><name><surname>Toupet</surname><given-names>K</given-names></name><name><surname>Jorgensen</surname><given-names>C</given-names></name><name><surname>Noel</surname><given-names>D</given-names></name></person-group><article-title>Mesenchymal stem cells: new insights into bone regenerative applications</article-title><source>J Biomater Tissue Eng</source><year>2012</year><volume>2</volume><issue>1</issue><fpage>14</fpage><lpage>28</lpage></element-citation></ref><ref id="B3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>H</given-names></name><name><surname>Li</surname><given-names>Y</given-names></name><name><surname>Zuo</surname><given-names>Y</given-names></name><name><surname>Li</surname><given-names>J</given-names></name><name><surname>Ma</surname><given-names>S</given-names></name><name><surname>Cheng</surname><given-names>L</given-names></name></person-group><article-title>Biocompatibility and osteogenesis of biomimetic nano-hydroxyapatite/ polyamide composite scaffolds for bone tissue engineering</article-title><source>Biomaterials</source><year>2007</year><volume>28</volume><issue>22</issue><fpage>3338</fpage><lpage>3348</lpage><pub-id pub-id-type="pmid">17481726</pub-id></element-citation></ref><ref id="B4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yoshimoto</surname><given-names>H</given-names></name><name><surname>Shin</surname><given-names>Y</given-names></name><name><surname>Terai</surname><given-names>H</given-names></name><name><surname>Vacanti</surname><given-names>JP</given-names></name></person-group><article-title>A biodegradable nanofiber scaffold by electrospinning and its potential for bone tissue engineering</article-title><source>Biomaterials</source><year>2003</year><volume>24</volume><issue>12</issue><fpage>2077</fpage><lpage>2082</lpage><pub-id pub-id-type="pmid">12628828</pub-id></element-citation></ref><ref id="B5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moore</surname><given-names>KA</given-names></name><name><surname>Lemischka</surname><given-names>IR</given-names></name></person-group><article-title>Stem cells and their niches</article-title><source>Science</source><year>2006</year><volume>311</volume><issue>5769</issue><fpage>1880</fpage><lpage>1885</lpage><pub-id pub-id-type="pmid">16574858</pub-id></element-citation></ref><ref id="B6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bianco</surname><given-names>P</given-names></name><name><surname>Robey</surname><given-names>PG</given-names></name></person-group><article-title>Stem cells in tissue engineering</article-title><source>Nature</source><year>2001</year><volume>414</volume><issue>6859</issue><fpage>118</fpage><lpage>121</lpage><pub-id pub-id-type="pmid">11689957</pub-id></element-citation></ref><ref id="B7"><label>7</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Young</surname><given-names>HE</given-names></name></person-group><chapter-title>Stem cells and tissue engineering</chapter-title><person-group person-group-type="editor"><name><surname>Huard</surname><given-names>J</given-names></name><name><surname>Fu</surname><given-names>FH</given-names></name></person-group><source>Gene therapy and tissue engineering in Orthopaedic and Sports Medicine</source><publisher-loc>Boston</publisher-loc><publisher-name>Birkh&#x000e4;user</publisher-name><year>2000</year><fpage>143</fpage><lpage>173</lpage></element-citation></ref><ref id="B8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Caplan</surname><given-names>AI</given-names></name></person-group><article-title>Adult mesenchymal stem cells for tissue engineering versus regenerative medicine</article-title><source>J Cell Physiol</source><year>2007</year><volume>213</volume><issue>2</issue><fpage>341</fpage><lpage>347</lpage><pub-id pub-id-type="pmid">17620285</pub-id></element-citation></ref><ref id="B9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marion</surname><given-names>NW</given-names></name><name><surname>Mao</surname><given-names>JJ</given-names></name></person-group><article-title>Mesenchymal stem cells and tissue engineering</article-title><source>Methods Enzymol</source><year>2006</year><volume>420</volume><fpage>339</fpage><lpage>361</lpage><pub-id pub-id-type="pmid">17161705</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ding</surname><given-names>DC</given-names></name><name><surname>Shyu</surname><given-names>WC</given-names></name><name><surname>Lin</surname><given-names>SZ</given-names></name></person-group><article-title>Mesenchymal stem cells</article-title><source>Cell Transplantation</source><year>2011</year><volume>20</volume><issue>1</issue><fpage>5</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">21396235</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mitchell</surname><given-names>JB</given-names></name><name><surname>McIntosh</surname><given-names>K</given-names></name><name><surname>Zvonic</surname><given-names>S</given-names></name><name><surname>Garrett</surname><given-names>S</given-names></name><name><surname>Floyd</surname><given-names>ZE</given-names></name><name><surname>Kloster</surname><given-names>A</given-names></name><etal/></person-group><article-title>Immunophenotype of human adipose-derived cells: temporal changes in stromal-associated and stem cell-associated markers</article-title><source>Stem Cells</source><year>2006</year><volume>24</volume><issue>2</issue><fpage>376</fpage><lpage>385</lpage><pub-id pub-id-type="pmid">16322640</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fraser</surname><given-names>JK</given-names></name><name><surname>Schreiber</surname><given-names>R</given-names></name><name><surname>Strem</surname><given-names>B</given-names></name><name><surname>Zhu</surname><given-names>M</given-names></name><name><surname>Alfonso</surname><given-names>Z</given-names></name><name><surname>Wulur</surname><given-names>I</given-names></name><etal/></person-group><article-title>Plasticity of human adipose stem cells toward endothelial cells and cardiomyocytes</article-title><source>Nat Clin Pract Cardiovasc Med</source><year>2006</year><volume>3</volume><issue>Suppl 1</issue><fpage>S33</fpage><lpage>S37</lpage><pub-id pub-id-type="pmid">16501628</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zuk</surname><given-names>PA</given-names></name><name><surname>Zhu</surname><given-names>M</given-names></name><name><surname>Mizuno</surname><given-names>H</given-names></name><name><surname>Huang</surname><given-names>J</given-names></name><name><surname>Futrell</surname><given-names>JW</given-names></name><name><surname>Katz</surname><given-names>AJ</given-names></name><etal/></person-group><article-title>Multilineage cells from human adipose tissue: implications for cell-based therapies</article-title><source>Tissue Eng</source><year>2001</year><volume>7</volume><issue>2</issue><fpage>211</fpage><lpage>228</lpage><pub-id pub-id-type="pmid">11304456</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fraser</surname><given-names>JK</given-names></name><name><surname>Zhu</surname><given-names>M</given-names></name><name><surname>Wulur</surname><given-names>I</given-names></name><name><surname>Alfonso</surname><given-names>Z</given-names></name></person-group><article-title>Adipose-derived stem cells</article-title><source>Methods Mol Biol</source><year>2008</year><volume>449</volume><fpage>59</fpage><lpage>67</lpage><pub-id pub-id-type="pmid">18370083</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>K</given-names></name><name><surname>Yamanaka</surname><given-names>S</given-names></name></person-group><article-title>Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors</article-title><source>Cell</source><year>2006</year><volume>126</volume><issue>4</issue><fpage>663</fpage><lpage>676</lpage><pub-id pub-id-type="pmid">16904174</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>K</given-names></name><name><surname>Tanabe</surname><given-names>K</given-names></name><name><surname>Ohnuki</surname><given-names>M</given-names></name><name><surname>Narita</surname><given-names>M</given-names></name><name><surname>Ichisaka</surname><given-names>T</given-names></name><name><surname>Tomoda</surname><given-names>K</given-names></name><etal/></person-group><article-title>Induction of pluripotent stem cells from adult human fibroblasts by defined factors</article-title><source>Cell</source><year>2007</year><volume>131</volume><issue>5</issue><fpage>861</fpage><lpage>872</lpage><pub-id pub-id-type="pmid">18035408</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jung</surname><given-names>Y</given-names></name><name><surname>Bauer</surname><given-names>G</given-names></name><name><surname>Nolta</surname><given-names>JA</given-names></name></person-group><article-title>Concise review: induced pluripotent stem cell-derived mesenchymal stem cells: progress toward safe clinical products</article-title><source>Stem Cells</source><year>2012</year><volume>30</volume><issue>1</issue><fpage>42</fpage><lpage>47</lpage><pub-id pub-id-type="pmid">21898694</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Galach</surname><given-names>M</given-names></name><name><surname>Utikal</surname><given-names>J</given-names></name></person-group><article-title>From skin to the treatment of diseases- the possibilities of iPS cell research in dermatology</article-title><source>Exp Dermatol</source><year>2011</year><volume>20</volume><issue>6</issue><fpage>523</fpage><lpage>528</lpage><pub-id pub-id-type="pmid">21585557</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hass</surname><given-names>R</given-names></name><name><surname>Kasper</surname><given-names>C</given-names></name><name><surname>Bohm</surname><given-names>S</given-names></name><name><surname>Jacobs</surname><given-names>R</given-names></name></person-group><article-title>Different populations and sources of human mesenchymal stem cells (MSC): a comparison of adult and neonatal tissue-derived MSC</article-title><source>Cell Commun Signal</source><year>2011</year><volume>9</volume><fpage>12</fpage><lpage>12</lpage><pub-id pub-id-type="pmid">21569606</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wagner</surname><given-names>W</given-names></name><name><surname>Wein</surname><given-names>F</given-names></name><name><surname>Seckinger</surname><given-names>A</given-names></name><name><surname>Frankhauser</surname><given-names>M</given-names></name><name><surname>Wirkner</surname><given-names>U</given-names></name><name><surname>Krause</surname><given-names>U</given-names></name><etal/></person-group><article-title>Comparative characteristics of mesenchymal stem cells from human bone marrow, adipose tissue, and umbilical cord blood</article-title><source>Exp Hematol</source><year>2005</year><volume>33</volume><issue>11</issue><fpage>1402</fpage><lpage>1416</lpage><pub-id pub-id-type="pmid">16263424</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vidal</surname><given-names>MA</given-names></name><name><surname>Robinson</surname><given-names>SO</given-names></name><name><surname>Lopez</surname><given-names>MJ</given-names></name><name><surname>Paulsen</surname><given-names>DB</given-names></name><name><surname>Borkhsenious</surname><given-names>O</given-names></name><name><surname>Johnson</surname><given-names>JR</given-names></name><etal/></person-group><article-title>Comparison of chondrogenic potential in equine mesenchymal stromal cells derived from adipose tissue and bone marrow</article-title><source>Vet Surg</source><year>2008</year><volume>37</volume><issue>8</issue><fpage>713</fpage><lpage>724</lpage><pub-id pub-id-type="pmid">19121166</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zaminy</surname><given-names>A</given-names></name><name><surname>Kashani</surname><given-names>IR</given-names></name><name><surname>Barbarestani</surname><given-names>M</given-names></name><name><surname>Hedayatpour</surname><given-names>A</given-names></name><name><surname>Mahmoudi</surname><given-names>R</given-names></name><name><surname>Vardasbi</surname><given-names>S</given-names></name><etal/></person-group><article-title>Effects of melatonin on the proliferative and differentiative of rat adipoe-derived stem cells</article-title><source>Indian J Plast Surg</source><year>2008</year><volume>41</volume><issue>1</issue><fpage>8</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">19753194</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Miyazaki</surname><given-names>M</given-names></name><name><surname>Zuk</surname><given-names>PA</given-names></name><name><surname>Zou</surname><given-names>J</given-names></name><name><surname>Yoon</surname><given-names>SH</given-names></name><name><surname>Wei</surname><given-names>F</given-names></name><name><surname>Morishita</surname><given-names>Y</given-names></name><etal/></person-group><article-title>Comparison of human mesenchymal stem cells derived from adipose tissue and bone marrow for ex vivo gene therapy in rat spinal fusion model</article-title><source>Spine (Phila Pa 1976)</source><year>2008</year><volume>33</volume><issue>8</issue><fpage>863</fpage><lpage>869</lpage><pub-id pub-id-type="pmid">18404105</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ardeshirylajimi</surname><given-names>A</given-names></name><name><surname>Hosseinkhani</surname><given-names>S</given-names></name><name><surname>Parivar</surname><given-names>K</given-names></name><name><surname>Yaghmaie</surname><given-names>P</given-names></name><name><surname>Soleimani</surname><given-names>M</given-names></name></person-group><article-title>Nanofiber-based polyethersulfone scaffold and efficient differentiation of human induced pluripotent stem cells into osteoblastic lineage</article-title><source>Mol Biol Rep</source><year>2013</year><volume>40</volume><issue>7</issue><fpage>4287</fpage><lpage>4294</lpage><pub-id pub-id-type="pmid">23657591</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>No&#x000eb;l</surname><given-names>D</given-names></name><name><surname>Djouad</surname><given-names>F</given-names></name><name><surname>Jorgense</surname><given-names>C</given-names></name></person-group><article-title>Regenerative medicine through mesenchymal stem cells for bone and cartilage repair</article-title><source>Curr Opin Investig Drugs</source><year>2002</year><volume>3</volume><issue>7</issue><fpage>1000</fpage><lpage>1004</lpage></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Yamada</surname><given-names>Y</given-names></name><name><surname>Ueda</surname><given-names>M</given-names></name><name><surname>Naiki</surname><given-names>T</given-names></name><name><surname>Takahashi</surname><given-names>M</given-names></name><name><surname>Hata</surname><given-names>K</given-names></name><name><surname>Nagasaka</surname><given-names>T</given-names></name></person-group><article-title>Autogenous injectable bone for regeneration with mesenchymal stem cells and platelet-rich plasma: tissueengineered bone regeneration</article-title><source>Tissue Eng</source><year>2004</year><volume>10</volume><issue>5- 6</issue><fpage>955</fpage><lpage>964</lpage><pub-id pub-id-type="pmid">15265313</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Moutsatsos</surname><given-names>IK</given-names></name><name><surname>Turgeman</surname><given-names>G</given-names></name><name><surname>Zhou</surname><given-names>S</given-names></name><name><surname>Kurkalli</surname><given-names>BG</given-names></name><name><surname>Pelled</surname><given-names>G</given-names></name><name><surname>Tzur</surname><given-names>L</given-names></name><etal/></person-group><article-title>Exogenously regulated stem cell-mediated gene therapy for bone regeneration</article-title><source>Mol Ther</source><year>2001</year><volume>3</volume><issue>4</issue><fpage>449</fpage><lpage>461</lpage><pub-id pub-id-type="pmid">11319905</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>KD</given-names></name><name><surname>Kuo</surname><given-names>TKC</given-names></name><name><surname>Whang-Peng</surname><given-names>J</given-names></name><name><surname>Chung</surname><given-names>YF</given-names></name><name><surname>Lin</surname><given-names>CT</given-names></name><name><surname>Chou</surname><given-names>SH</given-names></name><etal/></person-group><article-title>In vitro hepatic differentiation of human mesenchymal stem cells</article-title><source>Hepatology</source><year>2004</year><volume>40</volume><issue>6</issue><fpage>1275</fpage><lpage>1284</lpage><pub-id pub-id-type="pmid">15562440</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Misumi</surname><given-names>Y</given-names></name><name><surname>Ogata</surname><given-names>S</given-names></name><name><surname>Ohkubo</surname><given-names>K</given-names></name><name><surname>Hirose</surname><given-names>S</given-names></name><name><surname>Ikehara</surname><given-names>Y</given-names></name></person-group><article-title>Primary structure of human placental 5'-nucleotidase and identification of the glycolipid anchor in the mature form</article-title><source>Eur J Biochem</source><year>1990</year><volume>191</volume><issue>3</issue><fpage>563</fpage><lpage>569</lpage><pub-id pub-id-type="pmid">2129526</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dominici</surname><given-names>M</given-names></name><name><surname>Le Blanc</surname><given-names>K</given-names></name><name><surname>Mueller</surname><given-names>I</given-names></name><name><surname>Slaper-Cortenbach</surname><given-names>I</given-names></name><name><surname>Marini</surname><given-names>F</given-names></name><name><surname>Krause</surname><given-names>D</given-names></name><etal/></person-group><article-title>Minimal criteria for defining multipotent mesenchymal stromal cells.The International Society for Cellular Therapy position statement</article-title><source>Cytotherapy</source><year>2006</year><volume>8</volume><issue>4</issue><fpage>315</fpage><lpage>317</lpage><pub-id pub-id-type="pmid">16923606</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Penninger</surname><given-names>JM</given-names></name><name><surname>Irie-Sasaki</surname><given-names>J</given-names></name><name><surname>Sasaki</surname><given-names>T</given-names></name><name><surname>Oliveira-dos-Santos</surname><given-names>AJ</given-names></name></person-group><article-title>CD45: new jobs for an old acquaintance</article-title><source>Nat Immunol</source><year>2001</year><volume>2</volume><issue>5</issue><fpage>389</fpage><lpage>396</lpage><pub-id pub-id-type="pmid">11323691</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gronthos</surname><given-names>S</given-names></name><name><surname>Zannettino</surname><given-names>AC</given-names></name><name><surname>Graves</surname><given-names>SE</given-names></name><name><surname>Ohta</surname><given-names>S</given-names></name><name><surname>Hay</surname><given-names>SJ</given-names></name><name><surname>Simmons</surname><given-names>PJ</given-names></name></person-group><article-title>Differential cell surface expression of the STRO-1 and alkaline phosphatase antigens on discrete developmental stages in primary cultures of human bone cells</article-title><source>J Bone Miner Res</source><year>1999</year><volume>14</volume><issue>1</issue><fpage>47</fpage><lpage>56</lpage><pub-id pub-id-type="pmid">9893065</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sabokbar</surname><given-names>A</given-names></name><name><surname>Millett</surname><given-names>P</given-names></name><name><surname>Myer</surname><given-names>B</given-names></name><name><surname>Rushton</surname><given-names>N</given-names></name></person-group><article-title>A rapid, quantitative assay for measuring alkaline phosphatase activity in osteoblastic cells in vitro</article-title><source>Bone Miner</source><year>1994</year><volume>27</volume><issue>1</issue><fpage>57</fpage><lpage>67</lpage><pub-id pub-id-type="pmid">7849547</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Golub</surname><given-names>EE</given-names></name><name><surname>Boesze-Battaglia</surname><given-names>K</given-names></name></person-group><article-title>The role of alkaline phosphatase in mineralization</article-title><source>Curr Opin Orthop</source><year>2007</year><volume>18</volume><fpage>444</fpage><lpage>448</lpage></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Safadi</surname><given-names>FF</given-names></name><name><surname>Barbe</surname><given-names>MF</given-names></name><name><surname>Abdelmagid</surname><given-names>SM</given-names></name><name><surname>Rico</surname><given-names>MC</given-names></name><name><surname>Aswad</surname><given-names>RA</given-names></name><name><surname>Litvin</surname><given-names>J</given-names></name><etal/></person-group><chapter-title>Bone structure, development and bone biology</chapter-title><person-group person-group-type="editor"><name><surname>Khurana</surname><given-names>JS</given-names></name><name><surname>McCarthy</surname><given-names>EF</given-names></name><name><surname>Zhang</surname><given-names>PJ</given-names></name></person-group><source>Essentials in bone and soft-tissue pathology</source><publisher-loc>USA</publisher-loc><publisher-name>Springer US</publisher-name><year>2010</year><fpage>1</fpage><lpage>15</lpage></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>K</given-names></name><name><surname>Dean</surname><given-names>D</given-names></name><name><surname>Mikos</surname><given-names>AG</given-names></name><name><surname>Fisher</surname><given-names>JP</given-names></name></person-group><article-title>Effect of initial cell seeding density on early osteogenic signal expression of rat bone marrow stromal cells cultured on cross-linked poly (propylene fumarate) disks</article-title><source>Biomacromolecules</source><year>2009</year><volume>10</volume><issue>7</issue><fpage>1810</fpage><lpage>1817</lpage><pub-id pub-id-type="pmid">19469498</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kim</surname><given-names>K</given-names></name><name><surname>Dean</surname><given-names>D</given-names></name><name><surname>Lu</surname><given-names>A</given-names></name><name><surname>Mikos</surname><given-names>AG</given-names></name><name><surname>Fisher</surname><given-names>JP</given-names></name></person-group><article-title>Early osteogenic signal expression of rat bone marrow stromal cells is influenced by both hydroxyapatite nanoparticle content and initial cell seeding density in biodegradable nanocomposite scaffolds</article-title><source>Acta Biomater</source><year>2011</year><volume>7</volume><issue>3</issue><fpage>1249</fpage><lpage>1264</lpage><pub-id pub-id-type="pmid">21074640</pub-id></element-citation></ref></ref-list></back></article>

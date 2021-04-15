@@ -1,0 +1,882 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31110694</article-id><article-id pub-id-type="pmc">6509394</article-id><article-id pub-id-type="doi">10.1002/ece3.5140</article-id><article-id pub-id-type="publisher-id">ECE35140</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Sympatry and interference of divergent <italic>Microbotryum</italic> pathogen species</article-title><alt-title alt-title-type="left-running-head">HOOD et al.</alt-title></title-group><contrib-group><contrib id="ece35140-cr-0001" contrib-type="author" corresp="yes"><name><surname>Hood</surname><given-names>Michael E.</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4379-0711</contrib-id><address><email>mhood@amherst.edu</email></address><xref ref-type="aff" rid="ece35140-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35140-cr-0002" contrib-type="author"><name><surname>Antonovics</surname><given-names>Janis</given-names></name><xref ref-type="aff" rid="ece35140-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ece35140-cr-0003" contrib-type="author"><name><surname>Wolf</surname><given-names>Monroe</given-names></name><xref ref-type="aff" rid="ece35140-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35140-cr-0004" contrib-type="author"><name><surname>Stern</surname><given-names>Zachariah L.</given-names></name><xref ref-type="aff" rid="ece35140-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece35140-cr-0005" contrib-type="author"><name><surname>Giraud</surname><given-names>Tatiana</given-names></name><xref ref-type="aff" rid="ece35140-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ece35140-cr-0006" contrib-type="author"><name><surname>Abbate</surname><given-names>Jessica L.</given-names></name><xref ref-type="aff" rid="ece35140-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="ece35140-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="ece35140-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>Amherst College</institution>
+<named-content content-type="city">Amherst</named-content>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="ece35140-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Biology</named-content>
+<institution>University of Virginia</institution>
+<named-content content-type="city">Charlottesville</named-content>
+<named-content content-type="country-part">Virginia</named-content>
+</aff><aff id="ece35140-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Ecologie Systematique et Evolution, Univ. Paris&#x02010;Sud, CNRS, AgroParisTech</named-content>
+<institution>Universit&#x000e9; Paris Saclay</institution>
+<named-content content-type="city">Orsay</named-content>
+<country country="FR">France</country>
+</aff><aff id="ece35140-aff-0004">
+<label><sup>4</sup></label>
+<institution>INRA &#x02010; UMR 1062 CBGP (INRA, IRD, CIRAD, Montpellier SupAgro)</institution>
+<named-content content-type="city">Montferrier&#x02010;sur&#x02010;Lez</named-content>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Michael E. Hood, Department of Biology, Amherst College, Amherst, MA.<break/>
+Email: <email>mhood@amherst.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>4</month><year>2019</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2019</year></pub-date><volume>9</volume><issue>9</issue><issue-id pub-id-type="doi">10.1002/ece3.2019.9.issue-9</issue-id><fpage>5457</fpage><lpage>5467</lpage><history><date date-type="received"><day>16</day><month>1</month><year>2019</year></date><date date-type="rev-recd"><day>05</day><month>3</month><year>2019</year></date><date date-type="accepted"><day>15</day><month>3</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2019 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. <italic>Ecology and Evolution</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ECE3-9-5457.pdf"/><abstract id="ece35140-abs-0001"><title>Abstract</title><p>The impact of infectious diseases in natural ecosystems is strongly influenced by the degree of pathogen specialization and by the local assemblies of potential host species. This study investigated anther&#x02010;smut disease, caused by fungi in the genus <italic>Microbotryum</italic>, among natural populations of plants in the Caryophyllaceae. A broad geographic survey focused on sites of the disease on multiple host species in sympatry. Analysis of molecular identities for the pathogens revealed that sympatric disease was most often due to co&#x02010;occurrence of distinct, host&#x02010;specific anther&#x02010;smut fungi, rather than localized cross&#x02010;species disease transmission. Flowers from sympatric populations showed that the <italic>Microbotryum</italic> spores were frequently moved between host species. Experimental inoculations to simulate cross&#x02010;species exposure to the pathogens in these plant communities showed that the anther&#x02010;smut pathogen was less able to cause disease on its regular host when following exposure of the plants to incompatible pathogens from another host species. These results indicate that multi&#x02010;host/multi&#x02010;pathogen communities are common in this system and they involve a previously hidden mechanism of interference between <italic>Microbotryum</italic> fungi, which likely affects both pathogen and host distributions.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ece35140-kwd-0001">anther&#x02010;smut</kwd><kwd id="ece35140-kwd-0002">disease distributions</kwd><kwd id="ece35140-kwd-0003">host&#x02010;shift</kwd><kwd id="ece35140-kwd-0004">pathogen competition</kwd><kwd id="ece35140-kwd-0005">pathogen competitive interference</kwd><kwd id="ece35140-kwd-0006">systemic acquired resistance</kwd></kwd-group><funding-group><award-group><funding-source>National Science Foundation</funding-source><award-id>DEB-1115765</award-id><award-id>DEB-1115899</award-id></award-group><award-group><funding-source>National Institutes of Health</funding-source><award-id>R15GM119092</award-id></award-group></funding-group><counts><fig-count count="4"/><table-count count="1"/><page-count count="11"/><word-count count="8601"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ece35140</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.2.1 mode:remove_FC converted:10.05.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece35140-cit-1001">
+<string-name>
+<surname>Hood</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Antonovics</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Stern</surname>
+<given-names>ZL</given-names>
+</string-name>, <string-name>
+<surname>Giraud</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Abbate</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Sympatry and interference of divergent <italic>Microbotryum</italic> pathogen species</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2019</year>;<volume>9</volume>:<fpage>5457</fpage>&#x02013;<lpage>5467</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.5140</pub-id>
+</mixed-citation>
+</p></notes></front><body><sec id="ece35140-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Infectious diseases have a major influence on natural communities, and both positive and negative effects on biodiversity have been recorded (Ben&#x000ed;tez, Hersh, Vilgalys, &#x00026; Clark, <xref rid="ece35140-bib-0009" ref-type="ref">2013</xref>; Johnson, Roode, &#x00026; Fenton, <xref rid="ece35140-bib-0045" ref-type="ref">2015</xref>; Mordecai, <xref rid="ece35140-bib-0056" ref-type="ref">2011</xref>; Seabloom et al., <xref rid="ece35140-bib-0068" ref-type="ref">2015</xref>; Young, Parker, Gilbert, Sofiea Guerra, &#x00026; Nunn, <xref rid="ece35140-bib-0079" ref-type="ref">2017</xref>). It is generally expected that diseases with high host specificity should increase diversity by limiting the ecological extent of any one host species, while generalist diseases might have negative overall effects as transmission is not dependent on the abundance of any one host type. However, in many cases uncertainty remains about the specialization of disease interactions, resulting from the lack of morphological traits that readily distinguish related pathogen species. In some cases, observation of a disease affecting multiple, sympatric host species has provided opportunities to study transient host&#x02010;shifts, disease emergence, and pathogen diversification (Antonovics, Hood, &#x00026; Partain, <xref rid="ece35140-bib-0008" ref-type="ref">2002</xref>; Biek et al., <xref rid="ece35140-bib-0010" ref-type="ref">2012</xref>; Craft, Volz, Packer, &#x00026; Meyers, <xref rid="ece35140-bib-0021" ref-type="ref">2009</xref>; Davies &#x00026; Pedersen, <xref rid="ece35140-bib-0022" ref-type="ref">2008</xref>; Fournier &#x00026; Giraud, <xref rid="ece35140-bib-0029" ref-type="ref">2008</xref>; Luis et al., <xref rid="ece35140-bib-0054" ref-type="ref">2015</xref>). In comparison, we know less about the occurrence of disease in a mixed&#x02010;host community when it is the result of each host carrying their own specialized pathogens. If these specialized pathogens do show some level of cross&#x02010;species movement, we still may expect possible consequences varying from cross&#x02010;protection (e.g., due to systemic acquired resistance or pathogen competitive interference), to facilitation (e.g., due to increased susceptibility of previously infected hosts), or to pathogen hybridization (e.g., Shykoff, Meyh&#x000f6;fer, &#x00026; Bucheli, <xref rid="ece35140-bib-0069" ref-type="ref">1999</xref>; Newcombe, Stirling, McDonald, &#x00026; Bradshaw, <xref rid="ece35140-bib-0057" ref-type="ref">2000</xref>; Ricklefs, <xref rid="ece35140-bib-0065" ref-type="ref">2010</xref>; Gladieux et al., <xref rid="ece35140-bib-0033" ref-type="ref">2011</xref>; Kulma, Low, Bensch, &#x00026; Qvarnstr&#x000f6;m, <xref rid="ece35140-bib-0049" ref-type="ref">2013</xref>; Ellis et al., <xref rid="ece35140-bib-0025" ref-type="ref">2015</xref>).</p><p>Anther&#x02010;smut disease, caused by fungi in the genus <italic>Microbotryum</italic>, is one of the most studied host&#x02013;pathogen associations in natural systems (Figure <xref rid="ece35140-fig-0001" ref-type="fig">1</xref>). This disease has been used as a model for pathogen speciation, pollinator&#x02010;mediated dispersal, multiple infection, biological invasion, and competition (Abbate &#x00026; Antonovics, <xref rid="ece35140-bib-0001" ref-type="ref">2014</xref>; Bruns, Antonovics, &#x00026; Hood, <xref rid="ece35140-bib-0014" ref-type="ref">2018</xref>; Fontaine, Gladieux, Hood, &#x00026; Giraud, <xref rid="ece35140-bib-0027" ref-type="ref">2013</xref>; Giraud, Gladieux, &#x00026; Gavrilets, <xref rid="ece35140-bib-0032" ref-type="ref">2010</xref>; Gold, Giraud, &#x00026; Hood, <xref rid="ece35140-bib-0034" ref-type="ref">2009</xref>; Kemler et al., <xref rid="ece35140-bib-0048" ref-type="ref">2013</xref>; Le Gac, Hood, Fournier, &#x00026; Giraud, <xref rid="ece35140-bib-0051" ref-type="ref">2007</xref>; Vercken et al., <xref rid="ece35140-bib-0077" ref-type="ref">2010</xref>). Research has shown that the fungi formerly grouped under the <italic>Microbotryum violaceum</italic> epithet represent a large species complex, consisting of many independent lineages, each specific (i.e., endemic) to only one or a very small number of host species (Kemler et al., <xref rid="ece35140-bib-0048" ref-type="ref">2013</xref>; Le Gac et al., <xref rid="ece35140-bib-0051" ref-type="ref">2007</xref>; Lutz et al., <xref rid="ece35140-bib-0055" ref-type="ref">2005</xref>; Pi&#x00105;tek, Lutz, &#x00026; Kemler, <xref rid="ece35140-bib-0061" ref-type="ref">2013</xref>; de Vienne, Hood, &#x00026; Giraud, <xref rid="ece35140-bib-0023" ref-type="ref">2009</xref>). However, in marked contrast to the strong host specificity generally seen in those phylogenetic studies, several instances of cross&#x02010;species disease transmission have been observed in nature (Antonovics et al., <xref rid="ece35140-bib-0008" ref-type="ref">2002</xref>; Gladieux et al., <xref rid="ece35140-bib-0033" ref-type="ref">2011</xref>; L&#x000f3;pez&#x02010;Villavicencio et al., <xref rid="ece35140-bib-0053" ref-type="ref">2007</xref>; Refr&#x000e9;gier et al., <xref rid="ece35140-bib-0064" ref-type="ref">2008</xref>; Tyson, Antonovics, &#x00026; Bruns, <xref rid="ece35140-bib-0073" ref-type="ref">2018</xref>). Cross&#x02010;inoculations under experimental conditions further support the potential for host&#x02010;shifts in some nonendemic host&#x02013;pathogen combinations (Biere &#x00026; Honders, <xref rid="ece35140-bib-0011" ref-type="ref">1996</xref>; Van Putten, Biere, &#x00026; Damme, <xref rid="ece35140-bib-0075" ref-type="ref">2005</xref>; Shykoff et al., <xref rid="ece35140-bib-0069" ref-type="ref">1999</xref>; Sloan, Giraud, &#x00026; Hood, <xref rid="ece35140-bib-0070" ref-type="ref">2008</xref>; de Vienne et al., <xref rid="ece35140-bib-0023" ref-type="ref">2009</xref>). In particular, the widespread European native host <italic>Silene vulgaris</italic> becomes naturally and experimentally diseased through exposure to <italic>Microbotryum</italic> from the host <italic>Silene latifolia</italic> (Antonovics et al., <xref rid="ece35140-bib-0008" ref-type="ref">2002</xref>; Hood, Antonovics, &#x00026; Heishman, <xref rid="ece35140-bib-0041" ref-type="ref">2003</xref>; de Vienne et al., <xref rid="ece35140-bib-0023" ref-type="ref">2009</xref>), although the generality of these findings to other host species are not known.</p><fig fig-type="Figure" xml:lang="en" id="ece35140-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Anther&#x02010;smut disease caused by fungi in the genus <italic>Microbotryum</italic>, here shown in <italic>Silene vulgaris</italic>. The pollen is replaced by masses of dark pathogen spores</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-9-5457-g001"/></fig><p>In the current study, we analyzed DNA sequence identities of <italic>Microbotryum</italic> samples that were collected from a large number of natural populations, focusing on localities where multiple diseased host species were growing together. Our first goal was to determine whether localities with the disease on multiple host species represented sites of cross&#x02010;species transmission or the sympatry of divergent pathogen lineages each specialized to their co&#x02010;occurring host species. Our second goal was to investigate the movement of <italic>Microbotryum</italic> spores between sympatric host species by microscopic examination of spore deposition on flowers. Our third goal addressed a potential consequence of sympatry of pathogen lineages, experimentally investigating the potential for interference (direct or indirect) among divergently specialized pathogens, noting that the topic of hybridization in <italic>Microbotryum</italic> has been addressed elsewhere (Abbate et al., <xref rid="ece35140-bib-0002" ref-type="ref">2018</xref>; Gladieux et al., <xref rid="ece35140-bib-0033" ref-type="ref">2011</xref>; Petit et al., <xref rid="ece35140-bib-0060" ref-type="ref">2017</xref>; Shykoff et al., <xref rid="ece35140-bib-0069" ref-type="ref">1999</xref>). Specifically, we asked whether the ability of the endemic pathogen of <italic>S.&#x000a0;vulgaris</italic> to infect its natural host was altered by prior exposure of plants with nonendemic pathogens from other host species. This study helps to reveal a complex source of interactions between relatively specialized pathogens on multiple host species and their potential impact on the occurrence of disease in natural populations.</p></sec><sec id="ece35140-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec id="ece35140-sec-0003"><label>2.1</label><title>Study system</title><p>
+<italic>Microbotryum</italic> is a basidiomycete genus of anther&#x02010;smut fungi in the Pucciniomycotina subphylum. Taxonomic revisions of the <italic>M.&#x000a0;violaceum</italic> (formerly <italic>Ustilago violacea</italic>) species complex are ongoing (e.g., Le Gac et al., <xref rid="ece35140-bib-0051" ref-type="ref">2007</xref>; Denchev, Giraud, &#x00026; Hood, <xref rid="ece35140-bib-0024" ref-type="ref">2009</xref>; Pi&#x00105;tek et al., <xref rid="ece35140-bib-0061" ref-type="ref">2013</xref>; Ziegler, Lutz, Pi&#x00105;tek, &#x00026; Pi&#x00105;tek, <xref rid="ece35140-bib-0080" ref-type="ref">2018</xref>), and all samples will be referred to here by the genus <italic>Microbotryum</italic> and the host&#x02010;of&#x02010;origin (e.g., <italic>Mv &#x02013; S.&#x000a0;latifolia</italic>); where available, Latin binomials are given in Supporting Information Table <xref rid="ece35140-sup-0001" ref-type="supplementary-material">S1</xref>. The disease is spread by insect pollinators that transmit the fungal spores produced in the anthers of infected plants (Figure <xref rid="ece35140-fig-0001" ref-type="fig">1</xref>). Transmission between host species is favored by shared flowering times and generalist pollinator guilds (Shykoff et al., <xref rid="ece35140-bib-0069" ref-type="ref">1999</xref>; Tang et al., <xref rid="ece35140-bib-0071" ref-type="ref">2019</xref>). However, infection through vegetative parts of juvenile nonflowering plants can also occur (Alexander &#x00026; Antonovics, <xref rid="ece35140-bib-0003" ref-type="ref">1988</xref>; Alexander &#x00026; Maltby, <xref rid="ece35140-bib-0004" ref-type="ref">1990</xref>; Bruns, Antonovics, Carasso, &#x00026; Hood, <xref rid="ece35140-bib-0013" ref-type="ref">2017</xref>).</p><p>As with many diseases, the anther&#x02010;smut life history plays a role in shaping where the pathogen is found in nature. Anther&#x02010;smut fungi in the genus <italic>Microbotryum</italic> are obligate, biotrophic pathogens of perennial plants mainly in the Caryophyllaceae (Hood et al., <xref rid="ece35140-bib-0042" ref-type="ref">2010</xref>; Thrall, Biere, &#x00026; Antonovics, <xref rid="ece35140-bib-0072" ref-type="ref">1993</xref>), where infections cause host sterility, are systemic and persistent, and have the potential to competitively exclude subsequent invasion by other <italic>Microbotryum</italic> pathogens (Gold et al., <xref rid="ece35140-bib-0034" ref-type="ref">2009</xref>; Hood, <xref rid="ece35140-bib-0040" ref-type="ref">2003</xref>; L&#x000f3;pez&#x02010;Villavicencio et al., <xref rid="ece35140-bib-0052" ref-type="ref">2011</xref>). There are many host species for anther smut with broad and overlapping geographic distributions (Hitchcock &#x00026; Maguire, <xref rid="ece35140-bib-0038" ref-type="ref">1847</xref>; Hood et al., <xref rid="ece35140-bib-0042" ref-type="ref">2010</xref>), and disease incidence can be remarkably high in some host species. For example, the typical proportions of disease within host populations are between 0.10 and 0.30 for <italic>S.&#x000a0;latifolia</italic> (Antonovics, <xref rid="ece35140-bib-0006" ref-type="ref">2004</xref>), ca. 0.30 for <italic>S.&#x000a0;vuglaris</italic> in upper elevations (Abbate &#x00026; Antonovics, <xref rid="ece35140-bib-0001" ref-type="ref">2014</xref>), or even &#x0003e;0.50 for <italic>Dianthus furcatus</italic> or <italic>Dianthus pavonius</italic> (Bruns et al., <xref rid="ece35140-bib-0014" ref-type="ref">2018</xref>). Therefore, the potential for frequent contact between <italic>Microbotryum</italic> species on separate host species is high.</p></sec><sec id="ece35140-sec-0004"><label>2.2</label><title>Field specificity on sympatric host species</title><p>The fungus was sampled from natural populations as the spore contents of single diseased flowers, which are expected to contain one fungal genotype (Garber &#x00026; Ruddat, <xref rid="ece35140-bib-0031" ref-type="ref">2002</xref>; Hood, <xref rid="ece35140-bib-0040" ref-type="ref">2003</xref>; Van Putten et al., <xref rid="ece35140-bib-0075" ref-type="ref">2005</xref>). Flowers were sampled at the bud stage whenever possible (i.e., to avoid possible contamination by pollinator visits) and stored under desiccation prior to use.</p><p>Sampling was carried out over several years during the course of fieldwork in many geographic regions and included diseased plants in the genera <italic>Silene</italic>, <italic>Lychnis</italic>, <italic>Atocion</italic>, <italic>Dianthus</italic>, <italic>Saponaria</italic>, <italic>Gypsophila</italic>, and <italic>Petrorhagia</italic> (Figure <xref rid="ece35140-fig-0002" ref-type="fig">2</xref>). Sympatry of <italic>Microbotryum</italic> on two or more host species was defined as when the disease was found on another host within easy search distance (ca. 100&#x000a0;m) of the first&#x02010;found diseased host. A collection of samples where the disease was on only one host species was also included to increase the inference of host&#x02010;specific pathogen lineages when occurring across localities.</p><fig fig-type="Figure" xml:lang="en" id="ece35140-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>The left side shows the neighbor&#x02010;joining tree of the <italic>Microbotryum</italic> samples collected from multiple host species and localities. Collection sites where the disease was on more than one host species are indicated on the right side by vertically arranged dots, connected by vertical bars. Filled dots indicate sympatry of lineages found only on their respective (specific) host species. Open dots indicate instances of a single pathogen lineage infecting multiple sympatric host species. Brackets indicate groups of host species sharing phylogenetically similar pathogens and their source: samples are from Europe (EU) unless otherwise indicated as being from North America (NA)</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-9-5457-g002"/></fig><p>To assessing disease transmission among sympatric host species within localities, we used DNA sequence identity for the pathogens' internal transcribed spacer (ITS) region of the nuclear rDNA. While ITS sequences have utility in resolving fungal lineages (Schoch et al., <xref rid="ece35140-bib-0066" ref-type="ref">2012</xref>; but see Hart et al., <xref rid="ece35140-bib-0037" ref-type="ref">2015</xref>), phylogenetic insights were secondary and need to be interpreted cautiously due to the use of a restricted amount of DNA sequence length and variation in statistical support among nodes. Nevertheless, to display the ITS sequence variation, neighbor&#x02010;joining analysis (Jukes&#x02010;Cantor distances) was performed using the MEGA software (Kumar, Tamura, Jakobsen, &#x00026; Nei, <xref rid="ece35140-bib-0050" ref-type="ref">2001</xref>) with 1,000 bootstrap replications. The smut fungus infecting <italic>Persicaria bistorta</italic> (Syn: <italic>Polygonum bistorta</italic>) in the Polygonaceae was used as an outgroup because it is from outside the <italic>Microbotryum</italic> clade causing anther&#x02010;smut disease on the Caryophyllaceae (Almaraz, Roux, Maumont, &#x00026; Durrieu, <xref rid="ece35140-bib-0005" ref-type="ref">2002</xref>; Kemler, Lutz, G&#x000f6;ker, Oberwinkler, &#x00026; Begerow, <xref rid="ece35140-bib-0047" ref-type="ref">2009</xref>).</p><p>To prepare cultures for DNA extraction, the spores (i.e., teliospores, diploid) were plated on potato dextrose agar at 25&#x000b0;C. Upon germination, the fungus undergoes meiosis, and the resulting haploid sporidia can be grown as yeast&#x02010;like cultures. Colonies derived from single haploid sporidia were obtained by microdissection or by dilution plating. All sporidial cultures were stored under desiccation at &#x02212;20&#x000b0;C.</p><p>DNA was extracted from sporidial cultures using the DNeasy Plant Mini Kit (Qiagen). PCR was used to amplify the ITS region (primers: ITS1 and ITS4 from White, Bruns, Lee, &#x00026; Taylor, <xref rid="ece35140-bib-0078" ref-type="ref">1990</xref>). PCR products were sequenced using Sanger dye termination methods. For some sequences, where the chromatograms contained discrete regions of basepair ambiguities, individual ITS amplicons were cloned using the TA Cloning Kit (Invitrogen) and sequenced. Sequence alignments were prepared using ClustalW (<ext-link ext-link-type="uri" xlink:href="http://www.ebi.ac.uk/clustalw/">www.ebi.ac.uk/clustalw/</ext-link>), with minor adjustments performed manually. DNA sequences are available in GenBank under accession numbers <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KY084313">KY084313</ext-link>&#x02013;<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KY084399">KY084399</ext-link>.</p></sec><sec id="ece35140-sec-0005"><label>2.3</label><title>Spore dispersal among sympatric host species</title><p>The potential for movement of <italic>Microbotryum</italic> spores from the diseased flowers of one host species to another sympatric host species was assessed in natural mixed plant communities. Using sites with two host species, but where only one was diseased, healthy flowers of the unaffected host species were collected in sealed coin envelopes. Distance to nearest disease plant of the other host species was recorded. Various host species combinations were examined (Table <xref rid="ece35140-tbl-0001" ref-type="table">1</xref>), with the co&#x02010;occurrence of healthy <italic>S.&#x000a0;vulgaris</italic> with diseased <italic>Saponaria officinalis</italic> being the most common. Samples were collected within the census region of Bruns et al. (<xref rid="ece35140-bib-0014" ref-type="ref">2018</xref>) in the western Alps, from 21 localities where co&#x02010;occurring hosts were encountered.</p><table-wrap id="ece35140-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Movement of <italic>Microbotryum</italic> spores among sympatric host species</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Diseased source species</th><th align="left" valign="top" rowspan="1" colspan="1">Healthy target species</th><th align="left" valign="top" rowspan="1" colspan="1">Number of target flowers examined</th><th align="left" valign="top" rowspan="1" colspan="1">Number of target flowers containing spores</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>Dianthus pavonius</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Silene campanula</italic>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Dianthus pavonius</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Arenaria sp</italic>.
+</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Knautia arvensis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Dianthus pavonius</italic>
+</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Silene acaulis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Silene campanula</italic>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Saponaria officinalis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Silene latifolia</italic>
+</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">11</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Saponaria officinalis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Silene vulgaris</italic>
+</td><td align="left" rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">49</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Silene campanula</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Silene pusilla</italic>
+</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">5</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Silene campanula</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Silene saxifraga</italic>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Silene latifolia</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Silene vulgaris</italic>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Silene pusilla</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Silene campanula</italic>
+</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Silene saxifraga</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Dianthus pavonius</italic>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>Silene vulgaris</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Saponaria officinalis</italic>
+</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">1</td></tr><tr><td align="left" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">&#x000a0;</td><td align="left" rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">79</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>For spore counting, the flowers were rehydrated in 2&#x000a0;ml microcentrifuge tubes containing 0.7&#x000a0;ml of 0.2% Triton X&#x02010;100 and vortexed vigorously. The flower was removed, and the suspended contents were concentrated by centrifugation and removal of 90% of the supernatant. Microscopic quantification of spores was performed as two full&#x02010;width transects of 10&#x000a0;&#x003bc;l of concentrated flower contents spread under a 22&#x000a0;&#x000d7;&#x000a0;22&#x000a0;mm coverslip for each of two replicates per sample. For calibration, we applied spore concentrations to healthy flowers of <italic>S.&#x000a0;vulgaris</italic>, ranging from 400,000 to 40 spores per flower, in a ten&#x02010;fold dilution series, and followed the same protocol as for field&#x02010;collected flowers. As samples from healthy <italic>S.&#x000a0;vulgaris</italic> with diseased <italic>Sa.&#x000a0;officinalis</italic> were numerous, data from this combination of host species were further analyzed for an effect of proximity to diseased plants upon heterospecific deposition of <italic>Microbotryum</italic> spores, using GLM procedures in SPSS v19 (SPSS, Chicago, Illinois, USA).</p></sec><sec id="ece35140-sec-0006"><label>2.4</label><title>Consequences of cross&#x02010;species pathogen exposure</title><p>To assess whether the ability of <italic>Microbotryum</italic> to cause disease on its host&#x02010;of&#x02010;origin (i.e., endemic host&#x02013;pathogen combination) was affected by prior exposure of the host to <italic>Microbotryum</italic> obtained from another host (i.e., nonendemic pathogen), experimental inoculation of <italic>S.&#x000a0;vulgaris</italic> was designed with treatments including each of three nonendemic pathogens. An initial nonendemic inoculation was followed by inoculation with an endemic pathogen from <italic>S.&#x000a0;vulgaris</italic>, <italic>Microbotryum silenes&#x02010;inflatae</italic>. The time interval between nonendemic and endemic inoculations was varied as second treatments of 7 or 10&#x000a0;days, and the proportions of plants diseased by the endemic pathogen for all treatments were compared to paired sets of plants initially treated with water as a control followed by the endemic pathogen at the same time intervals. After low disease rates in the first run of the experiment, which is usual for this host species (Abbate &#x00026; Antonovics, <xref rid="ece35140-bib-0001" ref-type="ref">2014</xref>), an independent second run of the experiment was performed and combined with the first (following test of run significance, below). All treatments totaled between 107 and 140 plants surviving to flower that were randomized for positions in the greenhouse.</p><p>Seeds of <italic>S.&#x000a0;vulgaris</italic> were collected in natural populations in Berkshire County, Massachusetts. For use as nonendemic pathogens for this experiment, <italic>Microbotryum</italic> samples were obtained from the following hosts in natural populations: <italic>S.&#x000a0;latifolia</italic> (<italic>M.&#x000a0;lychnidis&#x02010;dioicae</italic>, abbreviated MvSl), <italic>Silene paradoxa</italic> (<italic>Microbotryum</italic> sp., abbreviated MvSp), and <italic>S.&#x000a0;officinalis</italic> (<italic>M.&#x000a0;saponariae</italic>, abbreviated MvSap). While the inoculum samples were not from sympatric populations with <italic>S.&#x000a0;vulgaris</italic>, the pathogens were chosen because of the common co&#x02010;occurrence of their host species with the widespread <italic>S.&#x000a0;vulgaris</italic> distribution in Europe and their availability in our prior collections. Also, the pathogens from <italic>S.&#x000a0;paradoxa</italic> and <italic>Sa.&#x000a0;officinalis</italic> were previously shown to be unable to cause anther&#x02010;smut disease on <italic>S.&#x000a0;vulgaris</italic> under experimental inoculation (de Vienne et al., <xref rid="ece35140-bib-0023" ref-type="ref">2009</xref>), while the pathogen from <italic>S.&#x000a0;latifolia</italic> was the source of host&#x02010;shift disease observed in the current and prior studies (Antonovics et al., <xref rid="ece35140-bib-0008" ref-type="ref">2002</xref>; Hood et al., <xref rid="ece35140-bib-0041" ref-type="ref">2003</xref>).</p><p>Seeds of <italic>S.&#x000a0;vulgaris</italic> were surface sterilized (2&#x000a0;min in 2% sodium hypochlorite, 20% ethyl alcohol, and 0.2% Triton X&#x02010;100) and then germinated in soil in 3.81&#x02010;cm Conetainers (Stuewe and Sons, Corvallis, OR) under greenhouse conditions. When the cotyledons had separated, 4&#x000a0;&#x003bc;l of a 500&#x000a0;spore/&#x003bc;l suspension was placed on the apical meristem. For each treatment, a paired set of equal number of plants received either the initial pathogen inoculum or water control. Plants were then covered with plastic wrap to maintain humidity without watering at 15&#x000b0;C. After 7 or after 10&#x000a0;days, these plants were inoculated with the pathogen endemic to <italic>S.&#x000a0;vulgaris</italic>.</p><p>Disease status of plants (i.e., smut spores in the anthers) was scored at flowering. <italic>Microbotryum</italic> infections producing disease in the experimental plants were confirmed to be <italic>M.&#x000a0;silenes&#x02010;inflatae</italic> by phenotypic variation in pathogen culture morphologies; <italic>M.&#x000a0;silenes&#x02010;inflatae</italic> produces colonies in vitro with markedly reduced growth compared to the other species (as assessed in Gold et al., <xref rid="ece35140-bib-0034" ref-type="ref">2009</xref>).</p><p>Proportions of plants that became diseased by the pathogen endemic to <italic>S.&#x000a0;vulgaris</italic> were compared for each nonendemic pathogen treatment to the proportion in their water control treated plants. The effects of host exposure to nonendemic pathogens on the ability of the endemic pathogen to cause disease were assessed using GLM procedures in SPSS v19 following arcsin square&#x02010;root data transformation of the proportions.</p></sec></sec><sec id="ece35140-sec-0007"><label>3</label><title>RESULTS</title><sec id="ece35140-sec-0008"><label>3.1</label><title>Field specificity on sympatric host species</title><p>Samples of <italic>Microbotryum</italic> were obtained in North America and in Europe from 24 localities with anther&#x02010;smut disease on more than one host species and 27 localities containing disease on only one host species. Analysis of the DNA sequences revealed that <italic>Microbotryum</italic> consisted largely of ITS variants specific to one or a very few host species (Figure <xref rid="ece35140-fig-0002" ref-type="fig">2</xref>). Moreover, in 19 of 24 localities with multiple diseased host species, the co&#x02010;occurrence of diseases resulted from the sympatry of divergent lineages of the pathogen that were particular to their hosts&#x02010;of&#x02010;origin.</p><p>The exceptions to this trend of disease on two host species being the result of sympatry between host&#x02010;specific <italic>Microbotryum</italic> lineages were several samples collected from <italic>S.&#x000a0;vulgaris</italic> that resulted from cross&#x02010;species disease transmission. Seven localities were found where <italic>Microbotryum</italic> on <italic>S.&#x000a0;vulgaris</italic> was identical in ITS sequence to the sympatric pathogen known to be specialized on <italic>S.&#x000a0;latifolia</italic> or <italic>Silene dioica</italic>; two of these localities also contained other sympatric <italic>Microbotryum</italic> pathogens (Figure <xref rid="ece35140-fig-0002" ref-type="fig">2</xref>). These instances of cross&#x02010;species transmission were likely independent because they were found to be consistent with slight regional differences in ITS sequence among <italic>Microbotryum</italic> from <italic>S.&#x000a0;latifolia</italic> or were from different geographic locations. Despite evidence from prior reports of cross&#x02010;species disease transmission by <italic>Microbotryum</italic> between <italic>S.&#x000a0;dioica</italic> and <italic>S.&#x000a0;latifolia</italic> (Gladieux et al., <xref rid="ece35140-bib-0033" ref-type="ref">2011</xref>), sympatric diseased populations of these two host species were not obtained in this study (Figure <xref rid="ece35140-fig-0002" ref-type="fig">2</xref>).</p><p>In some sections of the tree, <italic>Microbotryum</italic> from closely related host species were not seen to be host&#x02010;specific (Figure <xref rid="ece35140-fig-0002" ref-type="fig">2</xref>). This was the case for lineages occurring on various <italic>Dianthus</italic> species, similar to prior reports (e.g., Le Gac et al., <xref rid="ece35140-bib-0051" ref-type="ref">2007</xref>; Kemler et al., <xref rid="ece35140-bib-0048" ref-type="ref">2013</xref>; Petit et al., <xref rid="ece35140-bib-0060" ref-type="ref">2017</xref>). Large genetic distances in ITS sequences were observed among samples of <italic>Microbotryum</italic> from <italic>Dianthus&#x000a0;carthusianorum</italic>, and similarly from <italic>D.&#x000a0;pavonius</italic> (Figure <xref rid="ece35140-fig-0002" ref-type="fig">2</xref>), in agreement with multiple, less specialized pathogen species infecting <italic>Dianthus</italic> hosts (Le Gac et al., <xref rid="ece35140-bib-0051" ref-type="ref">2007</xref>; Petit et al., <xref rid="ece35140-bib-0060" ref-type="ref">2017</xref>). Moreover, ITS of <italic>Microbotryum</italic> from several <italic>Dianthus</italic> species carried discrete regions of basepair ambiguities in the chromatograms, indicative of intragenomic heterogeneity in this multi&#x02010;copy gene that is consistent with prior reports on hybridization (Petit et al., <xref rid="ece35140-bib-0060" ref-type="ref">2017</xref>). Cloning of PCR products from one such sample revealed distinct ITS amplicons, which each fell among other <italic>Microbotryum</italic> samples from <italic>Dianthus</italic> species.</p><p>Samples of <italic>Microbotryum</italic> from <italic>S.&#x000a0;caroliniana</italic> and <italic>S.&#x000a0;virginica</italic> were interdigitated on the tree, but this may result from insufficient resolution to detect distinct <italic>Microbotryum</italic> lineages. Samples of <italic>Microbotryum</italic> from <italic>Sa.&#x000a0;ocymoides</italic> and <italic>Sa.&#x000a0;officinalis</italic> were also intermingled across a large geographic range in agreement with studies of microsatellite markers that could not differentiate host&#x02010;specialized lineages on these two hosts (Fortuna et al., <xref rid="ece35140-bib-0028" ref-type="ref">2018</xref>).</p><p>Comparison of samples from Europe and North America revealed that divergent lineages of <italic>Microbotryum</italic> broadly overlapped in geographic range. Some samples native to North America had DNA sequences similar to <italic>Microbotryum</italic> from the previously described European clade of <italic>Microbotryum</italic> (Lutz et al., <xref rid="ece35140-bib-0055" ref-type="ref">2005</xref>). Specifically, <italic>Microbotryum</italic> from <italic>S.&#x000a0;douglasii</italic> and <italic>S.&#x000a0;lemmonii</italic> on the west coast of North America and from <italic>S.&#x000a0;acaulis</italic> in the Rocky Mountains clustered with the remaining samples from Europe. However, <italic>Microbotryum</italic> from <italic>S.&#x000a0;paryii</italic>, also on the west coast of North America, more closely resembled the fungus from <italic>S.&#x000a0;caroliniana</italic> and <italic>S.&#x000a0;virginica</italic> from the east coast of the continent.</p></sec><sec id="ece35140-sec-0009"><label>3.2</label><title>Spore dispersal among sympatric host species</title><p>
+<italic>Microbotryum</italic> spores are readily found on the flowers of nondiseased species when they occur in mixed&#x02010;host communities. Examination of flowers from the host species that was only healthy in a locality (target flowers) but co&#x02010;occurring with another diseased host species (disease sources) revealed cross&#x02010;species spore deposition in 96% of target flowers (Table <xref rid="ece35140-tbl-0001" ref-type="table">1</xref>). Additionally, in the target:source pair of healthy <italic>S.&#x000a0;vulgaris</italic> in sympatry with disease on <italic>Sa.&#x000a0;officinalis</italic>, the distance between the healthy host species and a heterospecific source of <italic>Microbotryum</italic> spores was significantly negatively related to the amount of spores deposited (Figure <xref rid="ece35140-fig-0003" ref-type="fig">3</xref>; SPSS linear regression, 2&#x02010;tailed <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;0.010, <italic>y</italic>&#x000a0;=&#x000a0;&#x02212;25585<italic>x</italic>&#x000a0;+&#x000a0;29307, <italic>R</italic>
+<sup>2</sup>&#x000a0;=&#x000a0;0.13).</p><fig fig-type="Figure" xml:lang="en" id="ece35140-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Movement of <italic>Microbotryum</italic> spores between the host species <italic>Saponaria officinalis</italic> and <italic>Silene vulgaris</italic>. Samples were from sites containing diseased <italic>Sa.&#x000a0;officinalis</italic> and healthy <italic>S.&#x000a0;vulgaris</italic>. Spores per flower were estimated based upon a dilution factor and standardization with experimental flowers containing spores applied at known concentrations</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-9-5457-g003"/></fig></sec><sec id="ece35140-sec-0010"><label>3.3</label><title>Consequences of cross&#x02010;species pathogen exposure</title><p>The experimental prior exposure of plants to <italic>Microbotryum</italic> pathogens specialized to another host species negatively affected the ability of the endemic pathogen, <italic>M.&#x000a0;silenes&#x02010;inflatae</italic>, to subsequently cause disease on its natural host, <italic>S.&#x000a0;vulgaris</italic>. The proportions of plants that became diseased were consistently lower when plants received prior inoculation with a nonendemic pathogen in comparison with paired sets of plants having received only water prior to the inoculation with the endemic <italic>M.&#x000a0;silenes&#x02010;inflatae</italic> (Figure <xref rid="ece35140-fig-0004" ref-type="fig">4</xref>; prior inoculum vs. water control treatments <italic>F</italic>
+<sub>1,6</sub>&#x000a0;=&#x000a0;28.606, <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;0.003). Proportions of plants that became diseased by <italic>M.&#x000a0;silenes&#x02010;inflatae</italic> were also lower when the inoculum was applied to older seedlings (i.e., at 10&#x000a0;days vs. 7&#x000a0;days after the initial treatment; <italic>F</italic>
+<sub>1,6</sub>&#x000a0;=&#x000a0;74.07, <italic>p</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;0.001). The nonendemic pathogen type, replicate inoculation series, and interaction terms were each nonsignificant.</p><fig fig-type="Figure" xml:lang="en" id="ece35140-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Reduced disease of <italic>Silene vulgaris</italic> by endemic pathogen, <italic>Microbotryum silenes&#x02010;inflatae</italic>, following exposure of the host to nonendemic <italic>Microbotryum</italic> lineages. Proportions of plants diseased by <italic>M.&#x000a0;silenes&#x02010;inflatae</italic> are shown for plants treated with either a nonendemic pathogen (black columns) or water (white columns) prior to the inoculation with the pathogen endemic to <italic>S.&#x000a0;vulgaris</italic>. Numbers represent sample size. Data are grouped by the nonendemic pathogen type for the initial inoculation and their paired water controls and by the separation time between the initial treatment and inoculation with the endemic <italic>M.&#x000a0;silenes&#x02010;inflatae</italic>. <italic>Microbotryum</italic> from other host species are abbreviated by the <italic>Mv</italic> followed by the host initials as indicated in the text</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-9-5457-g004"/></fig><p>Characterization of the pathogen on diseased experimental plants showed that no disease was produced by the preinoculation with <italic>Microbotryum</italic> from <italic>S.&#x000a0;paradoxa</italic> or <italic>Sa.&#x000a0;officinalis</italic>. However, three percent of <italic>S.&#x000a0;vulgaris</italic> plants initially preinoculated with the <italic>Microbotryum</italic> lineage from <italic>S.&#x000a0;latifolia</italic> became diseased with this nonendemic pathogen. Even though the statistical test above only considered the proportions of plants diseased by the endemic <italic>M.&#x000a0;silenes&#x02010;inflatae</italic> pathogen, successful infection caused by the nonendemic <italic>S.&#x000a0;latifolia</italic> pathogen may have affected the overall results. However, analysis based on only the nonendemic pathogens from <italic>S.&#x000a0;paradoxa</italic> and <italic>Sa.&#x000a0;officinalis</italic> still showed significantly reduced infection by the endemic <italic>M.&#x000a0;silenes&#x02010;inflatae</italic> pathogen (prior inoculum vs. water control treatments <italic>F</italic>
+<sub>1,4</sub>&#x000a0;=&#x000a0;16.233, <italic>p</italic>&#x02010;value&#x000a0;=&#x000a0;0.027).</p></sec></sec><sec id="ece35140-sec-0011"><label>4</label><title>DISCUSSION</title><p>In a broadly distributed multi&#x02010;host/multi&#x02010;pathogen system, this study revealed the co&#x02010;occurrence of anther&#x02010;smut diseases on sympatric host species and significant pathogen interactions that may impact disease and host distributions in natural populations. In a very early observation of disease ecology, Schr&#x000f6;ter (<xref rid="ece35140-bib-0067" ref-type="ref">1877</xref>) suggested that host sympatry can be used to assess pathogen specialization, saying of anther smut that &#x0201c;<italic>Ustilago violacea</italic> [=<italic>Microbotryum</italic>] has been found on so many plants of the <italic>Melandrium</italic> [=<italic>Silene</italic>] family that one is tempted to assume that it lets itself be transferred to all its representatives,&#x0201d; while &#x0201c;very often one finds large stretches [of roadside] covered with <italic>Saponaria</italic>, their blossoms stricken with <italic>Ustilago</italic>, though in between are completely healthy stems of <italic>M.&#x000a0;album</italic>, [=<italic>S.&#x000a0;latifolia</italic>] although this plant is often enough infected with the fungus.&#x0201d; Restriction of the pathogen to one host while in sympatry with other potential host species is indicative of parasitic specialization, as Schr&#x000f6;ter suggests. Host species of <italic>Microbotryum</italic> have broadly overlapping geographic ranges (Hood et al., <xref rid="ece35140-bib-0042" ref-type="ref">2010</xref>), and many hosts can be found growing intermixed. Flowering times are often fully or partially concurrent, and pollinator guilds generally lack the strict specificity to prevent <italic>Microbotryum</italic> spores from being vectored between host species (e.g., this study, and Goulson &#x00026; Jerrim, <xref rid="ece35140-bib-0035" ref-type="ref">1997</xref>; Shykoff et al., <xref rid="ece35140-bib-0069" ref-type="ref">1999</xref>; J&#x000fc;rgens, <xref rid="ece35140-bib-0046" ref-type="ref">2006</xref>; Tang et al., <xref rid="ece35140-bib-0071" ref-type="ref">2019</xref>; but see Van Putten, Elzinga, &#x00026; Biere, <xref rid="ece35140-bib-0076" ref-type="ref">2007</xref>). Therefore, despite ample opportunity for host&#x02010;shifts to occur, the apparent field specificity of <italic>Microbotryum</italic> likely reflects trade&#x02010;offs in performance on particular plant species, as seen from experimental cross&#x02010;species inoculation (e.g., de Vienne et al., <xref rid="ece35140-bib-0023" ref-type="ref">2009</xref>; Sloan et al., <xref rid="ece35140-bib-0070" ref-type="ref">2008</xref>).</p><p>Our study shows that the alternative to Schr&#x000f6;ter's scenario, that is, the presence of anther smut on multiple sympatric host species, was rarely indicative of cross&#x02010;species transmission and a breakdown in host specificity. The great majority of cases were co&#x02010;occurrence of divergent <italic>Microbotryum</italic> lineages, each particular to one host species within the local plant community. It remains possible that our sampling may have missed some cross&#x02010;species disease transmission in localities where multiple <italic>Microbotryum</italic> lineages co&#x02010;occurred on different host species. However, even in cases where ecological circumstances were suggestive of host&#x02010;shifts (e.g., high frequency of disease on one host with very rare disease on a second intermixed host, such as involving <italic>S.&#x000a0;vulgaris</italic> and <italic>S.&#x000a0;nutans</italic> at Col du Lautaret; data not shown), sympatry of specialized <italic>Microbotryum</italic> lineages was observed. Our sampling was inadequate to assess probabilities of co&#x02010;occurrence based on disease incidence, but Hood et al. (<xref rid="ece35140-bib-0042" ref-type="ref">2010</xref>) observed a positive relationship between regions of high host species richness and those host species with the highest within&#x02010;species prevalence of anther&#x02010;smut disease. Thus, where host sympatries are frequent, the probabilities of disease occurrence within host species are also high and could positively contribute to the type of multi&#x02010;pathogen/multi&#x02010;host assemblies observed here.</p><p>The co&#x02010;occurrence of multiple pathogen and multiple host species is reported to yield complex interactions and interference among pathogens that affect their community structure (Fenton, Streicker, Petchey, &#x00026; Pedersen, <xref rid="ece35140-bib-0026" ref-type="ref">2015</xref>; Halliday, Heckman, Wilfahrt, &#x00026; Mitchell, <xref rid="ece35140-bib-0036" ref-type="ref">2019</xref>; Johnson et al., <xref rid="ece35140-bib-0045" ref-type="ref">2015</xref>; Parker &#x00026; Gilbert, <xref rid="ece35140-bib-0059" ref-type="ref">2018</xref>; Seabloom et al., <xref rid="ece35140-bib-0068" ref-type="ref">2015</xref>). We showed that cross&#x02010;species movement of <italic>Microbotryum</italic> spores is very common in mixed&#x02010;host communities and that prior exposure to incompatible, nonendemic pathogens reduced the ability of the adapted pathogen to cause disease in its host. A predicted impact of cross&#x02010;species spore movement on the <italic>Microbotryum</italic> community may be to limit the occurrence of multi&#x02010;host/multi&#x02010;pathogen assemblies. The mechanisms would be analogous to the &#x0201c;inhibitory host&#x0201d; model of Holt, Dobson, Begon, Bowers, and Schauber (<xref rid="ece35140-bib-0039" ref-type="ref">2003</xref>). This model describes the situation where a second host offers no contribution to a pathogen's reproduction but diminishes a pathogen's persistence on the endemic host species, either because the second host serves as an inoculum sink or reduces visitation rates in the case of vector&#x02010;transmitted diseases (i.e., a dilution effect; Ostfeld &#x00026; Keesing, <xref rid="ece35140-bib-0058" ref-type="ref">2000</xref>). In <italic>Microbotryum</italic>, however, our results suggest the inhibitory effect may be mediated by a &#x0201c;spill&#x02010;over&#x0201d; type of cross&#x02010;protection, such that <italic>Microbotryum</italic> pathogens may be less able to invade or to be maintained at as high a prevalence in host populations that are sympatric with anther&#x02010;smut disease on other host species. Whether the protection is long&#x02010;lasting, and whether it is due to competitive exclusion by asymptomatic infections or inducible host resistance mechanisms, is not yet known. Anther&#x02010;smut inoculation has been shown to induce some changes to host growth even in the absence of symptoms at flowering (Antonovics et al., <xref rid="ece35140-bib-0007" ref-type="ref">2018</xref>), but the possibility of persistent asymptomatic infections has not been investigated. Intrahost competitive exclusion may also be important and is well documented among <italic>Microbotryum</italic> strains, including within&#x02010; and among&#x02010;species interactions (Fortuna et al., <xref rid="ece35140-bib-0028" ref-type="ref">2018</xref>; Gold et al., <xref rid="ece35140-bib-0034" ref-type="ref">2009</xref>; Hood, <xref rid="ece35140-bib-0040" ref-type="ref">2003</xref>). Studies have indicated heritable variation in anther&#x02010;smut disease resistance (Alexander &#x00026; Maltby, <xref rid="ece35140-bib-0004" ref-type="ref">1990</xref>; Cafuir, Antonovics, &#x00026; Hood, <xref rid="ece35140-bib-0016" ref-type="ref">2007</xref>; Carlsson&#x02010;Gran&#x000e9;r &#x00026; Pettersson, <xref rid="ece35140-bib-0017" ref-type="ref">2005</xref>; Chung, Petit, Antonovics, Pedersen, &#x00026; Hood, <xref rid="ece35140-bib-0018" ref-type="ref">2012</xref>), but the mechanisms of resistance and whether it is inducible have not been determined.</p><p>While such cross&#x02010;species protection can potentially limit local pathogen diversity, the effects on the host diversity might be in the opposite direction. Where a diseased host is common, introduction of a competing host species would be facilitated because the diseased host (acting as an &#x0201c;inhibitory host&#x0201d;) protects the introduced host against pathogen infection. In this way, the disease may contribute positively to host diversity, in a manner enhancing the density&#x02010;dependent and species&#x02010;specific feedbacks of the Janzen&#x02013;Connell effect (Comita et al., <xref rid="ece35140-bib-0019" ref-type="ref">2014</xref>; Connell, <xref rid="ece35140-bib-0020" ref-type="ref">1970</xref>; Janzen, <xref rid="ece35140-bib-0044" ref-type="ref">1970</xref>). More extensive field surveys combined with experimental studies would be needed to directly investigate <italic>Microbotryum</italic> co&#x02010;occurrence and its impact on host and pathogen assemblages.</p><p>Exceptions to the general pattern of host specificity of <italic>Microbotryum</italic> included a number of cross&#x02010;species transmissions to <italic>S.&#x000a0;vulgaris</italic> from either sympatric <italic>S.&#x000a0;latifolia</italic> or <italic>S.&#x000a0;dioica</italic>. Such host&#x02010;shifts to <italic>S.&#x000a0;vulgaris</italic> have been confirmed by other genetic approaches and experimental studies (Antonovics et al., <xref rid="ece35140-bib-0008" ref-type="ref">2002</xref>; Hood et al., <xref rid="ece35140-bib-0041" ref-type="ref">2003</xref>; de Vienne et al., <xref rid="ece35140-bib-0023" ref-type="ref">2009</xref>). It remains to be determined whether <italic>S.&#x000a0;vulgaris</italic> is predisposed to receiving host&#x02010;shifts due to its susceptibility or whether the ecology of being weedy and very widespread creates more opportunities for host&#x02010;shifts to occur and to be observed. Moreover, in the current and previous studies (Abbate &#x00026; Antonovics, <xref rid="ece35140-bib-0001" ref-type="ref">2014</xref>; Abbate et al., <xref rid="ece35140-bib-0002" ref-type="ref">2018</xref>; Bucheli, Gautschi, &#x00026; Shykoff, <xref rid="ece35140-bib-0015" ref-type="ref">2000</xref>; Le Gac et al., <xref rid="ece35140-bib-0051" ref-type="ref">2007</xref>), <italic>S.&#x000a0;vulgaris</italic> from high elevations (&#x0003e;ca. 1,300&#x000a0;m) was found infected by multiple distinct, endemic, and apparently self&#x02010;sustaining lineages of <italic>Microbotryum</italic>, which is also consistent with a greater propensity for host&#x02010;shifts and perhaps new disease emergence onto this species. Additional exceptions to host specificity include historic host&#x02010;shifts that have been inferred from the incongruence of the host and pathogen phylogenies (Refr&#x000e9;gier et al., <xref rid="ece35140-bib-0064" ref-type="ref">2008</xref>). Also, in the current study and previous ones (Kemler et al., <xref rid="ece35140-bib-0048" ref-type="ref">2013</xref>; Le Gac et al., <xref rid="ece35140-bib-0051" ref-type="ref">2007</xref>; Petit et al., <xref rid="ece35140-bib-0060" ref-type="ref">2017</xref>), sequence variation indicated that several lineages of <italic>Microbotryum</italic> from <italic>Dianthus</italic> can share host species of this genus, suggesting less strict pathogen specificity on this recently radiated plant genus (Valente, Savolainen, &#x00026; Vargas, <xref rid="ece35140-bib-0074" ref-type="ref">2010</xref>).</p><p>At a broader scale, this study supported patterns in the geographic overlap of <italic>Microbotryum</italic> lineages, including samples from European and North American host species. It was previously suggested that North America contains <italic>Microbotryum</italic> lineages that are highly divergent from those found in Europe (Freeman, Kellye Duong, Shi, Hughes, &#x00026; Perlin, <xref rid="ece35140-bib-0030" ref-type="ref">2002</xref>; Hood, Rocha, 0. J., &#x00026; Antonovics, J., <xref rid="ece35140-bib-0043" ref-type="ref">2001</xref>). However, on the west coast of North America occur members of both the previously described North American clade (i.e., <italic>Microbotryum</italic> from <italic>S.&#x000a0;parryi</italic>) and members of the European clade (i.e., <italic>Microbotryum</italic> from <italic>S.&#x000a0;lemmonii</italic> and <italic>S.&#x000a0;douglasii</italic>; see also Lutz et al., <xref rid="ece35140-bib-0055" ref-type="ref">2005</xref>). It is remarkable that such great variation in <italic>Microbotryum</italic> would be found in North America because the history of the genus <italic>Silene</italic> has a Eurasian origin followed by migration with reduced species diversity into the Americas via the Beringian region (Popp, Erixon, Eggens, &#x00026; Oxelman, <xref rid="ece35140-bib-0062" ref-type="ref">2005</xref>; Popp &#x00026; Oxelman, <xref rid="ece35140-bib-0063" ref-type="ref">2007</xref>). Further studies (e.g., incorporating genomic&#x02010;scale data; Branco et al., <xref rid="ece35140-bib-0012" ref-type="ref">2018</xref>) are warranted to address the large&#x02010;scale phylogeographic diversification of <italic>Microbotryum</italic>, and the potential impact on the co&#x02010;occurrence and interactions of pathogen lineages.</p><p>In summary, this study confirms that the host specificity seen in broad&#x02010;scale phylogenetic and experimental inoculation studies of <italic>Microbotryum</italic> generally reflects specialization at an ecological level and that such specialization holds true even when host species are in close sympatry. This expectation needs to be tested in any particular case, as there are exceptions, especially in hosts such as <italic>S.&#x000a0;vulgaris</italic> or <italic>Dianthus</italic> species. However, even in a community assemblage where there is apparent host specificity, cross&#x02010;species exposure to multiple pathogen lineages is likely to occur, with consequences that may be overt or may be &#x0201c;cryptic,&#x0201d; yet still may influence dynamics of the species assemblage. This study identified one such mechanism&#x02014;inhibition of endemic pathogens by prior exposure to nonendemic ones&#x02014;but further effects on occurrence and distribution of the multi&#x02010;host/multi&#x02010;pathogen communities are likely and deserve further investigation.</p></sec><sec sec-type="COI-statement" id="ece35140-sec-0012"><title>CONFLICT OF INTEREST</title><p>None declared.</p></sec><sec id="ece35140-sec-0013"><title>AUTHOR CONTRIBUTIONS</title><p>Hood and Antonovics conceptualized the project. Hood, Antonovics, Abbate, and Stern contributed to field collection and their assessment. Hood and Wolf contributed experimental studies. Hood, Antonovics, and Giraud wrote and revised the manuscript, with contribution also from Wolf and Stern.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="ece35140-sup-0001"><caption><p>&#x000a0;</p></caption><media xlink:href="ECE3-9-5457-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ece35140-sec-0015"><title>ACKNOWLEDGMENTS</title><p>We acknowledge grant support from the National Science Foundation DEB&#x02010; 1115765 to MEH, DEB&#x02010;1115899 to JA, and the National Institutes of Health R15GM119092 to JA. We thank Noah Lerner and Philip Crystal for research assistance.</p></ack><sec sec-type="data-availability" id="ece35140-sec-0014"><title>DATA ACCESSIBILITY</title><p>DNA sequences: GenBank accession numbers <ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KY084313">KY084313</ext-link>&#x02013;<ext-link ext-link-type="DDBJ/EMBL/GenBank" xlink:href="KY084399">KY084399</ext-link>.</p><p>Sample locations: Dryad <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.5g8h6f6">https://doi.org/10.5061/dryad.5g8h6f6</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece35140-bibl-0001"><title>REFERENCES</title><ref id="ece35140-bib-0001"><mixed-citation publication-type="journal" id="ece35140-cit-0001">
+<string-name>
+<surname>Abbate</surname>, <given-names>J. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name> (<year>2014</year>). <article-title>Elevational disease distribution in a natural plant&#x02013;pathogen system: Insights from changes across host populations and climate</article-title>. <source xml:lang="en">Oikos</source>, <volume>123</volume>, <fpage>1126</fpage>&#x02013;<lpage>1136</lpage>. <pub-id pub-id-type="doi">10.1111/oik.01001</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0002"><mixed-citation publication-type="journal" id="ece35140-cit-0002">
+<string-name>
+<surname>Abbate</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Gladieux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>de Vienne</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Snirc</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2018</year>). <article-title>Co&#x02010;occurrence among three divergent plant&#x02010;castrating fungi in the same <italic>Silene</italic> host species</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>27</volume>, <fpage>3357</fpage>&#x02013;<lpage>3370</lpage>. <pub-id pub-id-type="doi">10.1111/mec.14805</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0003"><mixed-citation publication-type="journal" id="ece35140-cit-0003">
+<string-name>
+<surname>Alexander</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name> (<year>1988</year>). <article-title>Disease spread and population dynamics of anther&#x02010;smut infection of <italic>Silene alba</italic> caused by the fungus <italic>Ustilago violacea</italic>
+</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>76</volume>, <fpage>91</fpage>&#x02013;<lpage>104</lpage>. <pub-id pub-id-type="doi">10.2307/2260456</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0004"><mixed-citation publication-type="journal" id="ece35140-cit-0004">
+<string-name>
+<surname>Alexander</surname>, <given-names>H. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Maltby</surname>, <given-names>A.</given-names>
+</string-name> (<year>1990</year>). <article-title>Anther&#x02010;smut infection of <italic>Silene alba</italic> caused by <italic>Ustilago violacea</italic>: Factors determining fungal reproduction</article-title>. <source xml:lang="en">Oecologia</source>, <volume>84</volume>, <fpage>249</fpage>&#x02013;<lpage>253</lpage>. <pub-id pub-id-type="doi">10.1007/bf00318280</pub-id>
+<pub-id pub-id-type="pmid">28312761</pub-id></mixed-citation></ref><ref id="ece35140-bib-0005"><mixed-citation publication-type="journal" id="ece35140-cit-0005">
+<string-name>
+<surname>Almaraz</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Roux</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Maumont</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Durrieu</surname>, <given-names>G.</given-names>
+</string-name> (<year>2002</year>). <article-title>Phylogenetic relationships among smut fungi parasitizing dicotyledons based on ITS sequence analysis</article-title>. <source xml:lang="en">Mycological Research</source>, <volume>106</volume>, <fpage>541</fpage>&#x02013;<lpage>548</lpage>. <pub-id pub-id-type="doi">10.1017/S0953756202006019</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0006"><mixed-citation publication-type="book" id="ece35140-cit-0006">
+<string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name> (<year>2004</year>). <chapter-title>Long term study of a plant&#x02010;pathogen metapopulation</chapter-title> In <person-group person-group-type="editor"><name><surname>Hanski</surname><given-names>I.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Gaggiotti</surname><given-names>O.</given-names></name></person-group>, (eds.) <source xml:lang="en">Ecology, Genetics, and Evolution of Metapopulations</source>. (pp. <fpage>471</fpage>&#x02013;<lpage>488</lpage>). <publisher-loc>Elsevier, Amsterdam</publisher-loc>: <publisher-name>Academic Press</publisher-name>.</mixed-citation></ref><ref id="ece35140-bib-0007"><mixed-citation publication-type="journal" id="ece35140-cit-0007">
+<string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Abbate</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Bruns</surname>, <given-names>E. L.</given-names>
+</string-name>, <string-name>
+<surname>Fields</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Forrester</surname>, <given-names>N. J.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>K.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Taylor</surname>, <given-names>D.</given-names>
+</string-name> (<year>2018</year>). <article-title>Effect of the anther&#x02010;smut fungus <italic>Microbotryum</italic> on the juvenile growth of its host <italic>Silene latifolia</italic>
+</article-title>. <source xml:lang="en">American Journal of Botany</source>, <volume>105</volume>, <fpage>1088</fpage>&#x02013;<lpage>1095</lpage>.<pub-id pub-id-type="pmid">29995339</pub-id></mixed-citation></ref><ref id="ece35140-bib-0008"><mixed-citation publication-type="journal" id="ece35140-cit-0008">
+<string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Partain</surname>, <given-names>J.</given-names>
+</string-name> (<year>2002</year>). <article-title>The ecology and genetics of a host shift: <italic>Microbotryum</italic> as a model system</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>160</volume>, <fpage>S40</fpage>&#x02013;<lpage>S53</lpage>. <pub-id pub-id-type="doi">10.1086/342143</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0009"><mixed-citation publication-type="journal" id="ece35140-cit-0009">
+<string-name>
+<surname>Ben&#x000ed;tez</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<surname>Hersh</surname>, <given-names>M. H.</given-names>
+</string-name>, <string-name>
+<surname>Vilgalys</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Clark</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2013</year>). <article-title>Pathogen regulation of plant diversity via effective specialization</article-title>. <source xml:lang="en">Trends in Ecology and Evolution</source>, <volume>28</volume>, <fpage>705</fpage>&#x02013;<lpage>711</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2013.09.005</pub-id>
+<pub-id pub-id-type="pmid">24091206</pub-id></mixed-citation></ref><ref id="ece35140-bib-0010"><mixed-citation publication-type="journal" id="ece35140-cit-0010">
+<string-name>
+<surname>Biek</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>O'Hare</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Mallon</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>McCormick</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Orton</surname>, <given-names>R. J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Kao</surname>, <given-names>R. R.</given-names>
+</string-name> (<year>2012</year>). <article-title>Whole genome sequencing reveals local transmission patterns of <italic>Mycobacterium bovis</italic> in sympatric cattle and badger populations</article-title>. <source xml:lang="en">PLoS Pathog</source>, <volume>8</volume>, <fpage>e1003008</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.ppat.1003008</pub-id>
+<pub-id pub-id-type="pmid">23209404</pub-id></mixed-citation></ref><ref id="ece35140-bib-0011"><mixed-citation publication-type="journal" id="ece35140-cit-0011">
+<string-name>
+<surname>Biere</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Honders</surname>, <given-names>S.</given-names>
+</string-name> (<year>1996</year>). <article-title>Host adaptation in the anther smut fungus <italic>Ustilago violacea</italic> (<italic>Microbotryum violaceum</italic>): Infection success, spore production and alteration of floral traits on two host species and their F1&#x02010;hybrid</article-title>. <source xml:lang="en">Oecologia</source>, <volume>107</volume>, <fpage>307</fpage>&#x02013;<lpage>320</lpage>. <pub-id pub-id-type="doi">10.1007/BF00328447</pub-id>
+<pub-id pub-id-type="pmid">28307259</pub-id></mixed-citation></ref><ref id="ece35140-bib-0012"><mixed-citation publication-type="journal" id="ece35140-cit-0012">
+<string-name>
+<surname>Branco</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Carpentier</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez de la Vega</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name>
+<surname>Badouin</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Snirc</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Le Prieur</surname>, <given-names>S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2018</year>). <article-title>Multiple convergent supergene evolution events in mating&#x02010;type chromosomes</article-title>. <source xml:lang="en">Nature Communications</source>, <volume>9</volume>, <fpage>2000</fpage>.</mixed-citation></ref><ref id="ece35140-bib-0013"><mixed-citation publication-type="journal" id="ece35140-cit-0013">
+<string-name>
+<surname>Bruns</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Carasso</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2017</year>). <article-title>Transmission and temporal dynamics of anther&#x02010;smut disease (<italic>Microbotryum</italic>) on alpine carnation (<italic>Dianthus pavonius</italic>)</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>105</volume>, <fpage>1413</fpage>&#x02013;<lpage>1424</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.12751</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0014"><mixed-citation publication-type="journal" id="ece35140-cit-0014">
+<string-name>
+<surname>Bruns</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2018</year>). <article-title>Is there a disease&#x02010;free halo at species range limits? The co&#x02010;distribution of anther&#x02010;smut disease and its host species</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>107</volume>, <fpage>5457</fpage>&#x02013;<lpage>5467</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.13009</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0015"><mixed-citation publication-type="journal" id="ece35140-cit-0015">
+<string-name>
+<surname>Bucheli</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Gautschi</surname>, <given-names>B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Shykoff</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>2000</year>). <article-title>Host&#x02010;specific differentiation in the anther smut fungus <italic>Microbotryum violaceum</italic> as revealed by microsatellites</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>13</volume>, <fpage>188</fpage>&#x02013;<lpage>198</lpage>. <pub-id pub-id-type="doi">10.1046/j.1420-9101.2000.00160.x</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0016"><mixed-citation publication-type="journal" id="ece35140-cit-0016">
+<string-name>
+<surname>Cafuir</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2007</year>). <article-title>Tissue culture and quantification of individual&#x02010;level resistance to anther&#x02010;smut disease in <italic>Silene vulgaris</italic>
+</article-title>. <source xml:lang="en">International Journal of Plant Sciences</source>, <volume>168</volume>, <fpage>415</fpage>&#x02013;<lpage>419</lpage>. <pub-id pub-id-type="doi">10.1086/511754</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0017"><mixed-citation publication-type="journal" id="ece35140-cit-0017">
+<string-name>
+<surname>Carlsson&#x02010;Gran&#x000e9;r</surname>, <given-names>U.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pettersson</surname>, <given-names>T. M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Host susceptibility and spread of disease in a metapopulation of <italic>Silene dioica</italic>
+</article-title>. <source xml:lang="en">Evolutionary Ecology Research</source>, <volume>7</volume>, <fpage>353</fpage>&#x02013;<lpage>369</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0018"><mixed-citation publication-type="journal" id="ece35140-cit-0018">
+<string-name>
+<surname>Chung</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Petit</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>, <given-names>A. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Variation in resistance to multiple pathogen species: Anther smuts of <italic>Silene uniflora</italic>
+</article-title>. <source xml:lang="en">Ecology and Evolution</source>, <volume>2</volume>, <fpage>2304</fpage>&#x02013;<lpage>2314</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.346</pub-id>
+<pub-id pub-id-type="pmid">23139888</pub-id></mixed-citation></ref><ref id="ece35140-bib-0019"><mixed-citation publication-type="journal" id="ece35140-cit-0019">
+<string-name>
+<surname>Comita</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name>
+<surname>Queenborough</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Murphy</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Eck</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Krishnadas</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Zhu</surname>, <given-names>Y.</given-names>
+</string-name> (<year>2014</year>). <article-title>Testing predictions of the Janzen&#x02010;Connell hypothesis: A meta&#x02010;analysis of experimental evidence for distance&#x02010; and density&#x02010;dependent seed and seedling survival</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>102</volume>, <fpage>845</fpage>&#x02013;<lpage>856</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.12232</pub-id>
+<pub-id pub-id-type="pmid">25253908</pub-id></mixed-citation></ref><ref id="ece35140-bib-0020"><mixed-citation publication-type="book" id="ece35140-cit-0020">
+<string-name>
+<surname>Connell</surname>, <given-names>J. H.</given-names>
+</string-name> (<year>1970</year>). <chapter-title>On the role of natural enemies in preventing competitive exclusion in some marine animals and in rain forest trees</chapter-title> In <person-group person-group-type="editor"><name><surname>Den Boer</surname><given-names>P. J.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>Gradwell</surname><given-names>G. R.</given-names></name></person-group> (Eds.), <source xml:lang="en">Dynamics of population</source>. <series>Pudoc, proceedings of the advanced study institute on dynamics of numbers in populations</series> (pp. <fpage>298</fpage>&#x02013;<lpage>312</lpage>). <publisher-loc>Wageningen, The Netherlands</publisher-loc>: <publisher-name>Centre for Agricultural Publishing and Documentation</publisher-name>
+</mixed-citation></ref><ref id="ece35140-bib-0021"><mixed-citation publication-type="journal" id="ece35140-cit-0021">
+<string-name>
+<surname>Craft</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Volz</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Packer</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Meyers</surname>, <given-names>L. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Distinguishing epidemic waves from disease spillover in a wildlife population</article-title>. <source xml:lang="en">Proceedings of the Royal Society B</source>, <volume>276</volume>, <fpage>1777</fpage>&#x02013;<lpage>1785</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2008.1636</pub-id>
+<pub-id pub-id-type="pmid">19324800</pub-id></mixed-citation></ref><ref id="ece35140-bib-0022"><mixed-citation publication-type="journal" id="ece35140-cit-0022">
+<string-name>
+<surname>Davies</surname>, <given-names>T. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pedersen</surname>, <given-names>A. B.</given-names>
+</string-name> (<year>2008</year>). <article-title>Phylogeny and geography predict pathogen community similarity in wild primates and humans</article-title>. <source xml:lang="en">Proceedings of the Royal Society B</source>, <volume>275</volume>, <fpage>1695</fpage>&#x02013;<lpage>1701</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2008.0284</pub-id>
+<pub-id pub-id-type="pmid">18445561</pub-id></mixed-citation></ref><ref id="ece35140-bib-0023"><mixed-citation publication-type="journal" id="ece35140-cit-0023">
+<string-name>
+<surname>de Vienne</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2009</year>). <article-title>Phylogenetic determinants of potential host shifts in fungal pathogens</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>22</volume>, <fpage>2532</fpage>&#x02013;<lpage>2541</lpage>.<pub-id pub-id-type="pmid">19878406</pub-id></mixed-citation></ref><ref id="ece35140-bib-0024"><mixed-citation publication-type="journal" id="ece35140-cit-0024">
+<string-name>
+<surname>Denchev</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2009</year>). <article-title>Three new species of anthericolous smut fungi on Caryophyllaceae</article-title>. <source xml:lang="en">Mycologica Balcanica</source>, <volume>6</volume>, <fpage>79</fpage>&#x02013;<lpage>84</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0025"><mixed-citation publication-type="journal" id="ece35140-cit-0025">
+<string-name>
+<surname>Ellis</surname>, <given-names>V. A.</given-names>
+</string-name>, <string-name>
+<surname>Collins</surname>, <given-names>M. D.</given-names>
+</string-name>, <string-name>
+<surname>Medeiros</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Sari</surname>, <given-names>E. H.</given-names>
+</string-name>, <string-name>
+<surname>Coffey</surname>, <given-names>E. D.</given-names>
+</string-name>, <string-name>
+<surname>Dickerson</surname>, <given-names>R. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Matthews</surname>, <given-names>A. E.</given-names>
+</string-name> (<year>2015</year>). <article-title>Local host specialization, host&#x02010;switching, and dispersal shape the regional distributions of avian haemosporidian parasites</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>112</volume>, <fpage>11294</fpage>&#x02013;<lpage>11299</lpage>.<pub-id pub-id-type="pmid">26305975</pub-id></mixed-citation></ref><ref id="ece35140-bib-0026"><mixed-citation publication-type="journal" id="ece35140-cit-0026">
+<string-name>
+<surname>Fenton</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Streicker</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name>
+<surname>Petchey</surname>, <given-names>O. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pedersen</surname>, <given-names>A. B.</given-names>
+</string-name> (<year>2015</year>). <article-title>Are all Hosts created equal? Partitioning host species contributions to parasite persistence in multihost communities</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>186</volume>, <fpage>610</fpage>&#x02013;<lpage>622</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0027"><mixed-citation publication-type="journal" id="ece35140-cit-0027">
+<string-name>
+<surname>Fontaine</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Gladieux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2013</year>). <article-title>History of the invasion of the anther&#x02010;smut pathogen on <italic>Silene latifolia</italic> in North America</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>198</volume>, <fpage>946</fpage>&#x02013;<lpage>956</lpage>.<pub-id pub-id-type="pmid">23406496</pub-id></mixed-citation></ref><ref id="ece35140-bib-0028"><mixed-citation publication-type="journal" id="ece35140-cit-0028">
+<string-name>
+<surname>Fortuna</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Namias</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Snirc</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Branca</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Raquin</surname>, <given-names>C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2018</year>). <article-title>Multiple infections, relatedness and virulence in the anther&#x02010;smut fungus castrating <italic>Saponaria</italic> plants</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>27</volume>, <fpage>4947</fpage>&#x02013;<lpage>4959</lpage>.<pub-id pub-id-type="pmid">30372557</pub-id></mixed-citation></ref><ref id="ece35140-bib-0029"><mixed-citation publication-type="journal" id="ece35140-cit-0029">
+<string-name>
+<surname>Fournier</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Sympatric genetic differentiation of a generalist pathogenic fungus, <italic>Botrytis cinerea</italic>, on two different host plants, grapevine and bramble</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>21</volume>, <fpage>122</fpage>&#x02013;<lpage>132</lpage>.<pub-id pub-id-type="pmid">18028352</pub-id></mixed-citation></ref><ref id="ece35140-bib-0030"><mixed-citation publication-type="journal" id="ece35140-cit-0030">
+<string-name>
+<surname>Freeman</surname>, <given-names>A. B.</given-names>
+</string-name>, <string-name>
+<surname>Kellye Duong</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>, <given-names>T. L.</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>, <given-names>C. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Perlin</surname>, <given-names>M. H.</given-names>
+</string-name> (<year>2002</year>). <article-title>Isolates of <italic>Microbotryum violaceum</italic> from North American host species are phylogenetically distinct from their European host&#x02010;derived counterparts</article-title>. <source xml:lang="en">Molecular Phylogenetics and Evolution</source>, <volume>23</volume>, <fpage>158</fpage>&#x02013;<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1016/S1055-7903(02)00003-9</pub-id>
+<pub-id pub-id-type="pmid">12069548</pub-id></mixed-citation></ref><ref id="ece35140-bib-0031"><mixed-citation publication-type="journal" id="ece35140-cit-0031">
+<string-name>
+<surname>Garber</surname>, <given-names>E. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Ruddat</surname>, <given-names>M.</given-names>
+</string-name> (<year>2002</year>). <article-title>Transmission genetics of <italic>Microbotryum violaceum</italic> (<italic>Ustilago violacea</italic>): A case history</article-title>. <source xml:lang="en">Advances in Applied Microbiology</source>, <volume>51</volume>, <fpage>107</fpage>&#x02013;<lpage>128</lpage>.<pub-id pub-id-type="pmid">12236055</pub-id></mixed-citation></ref><ref id="ece35140-bib-0032"><mixed-citation publication-type="journal" id="ece35140-cit-0032">
+<string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Gladieux</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gavrilets</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>Linking the emergence of fungal plant diseases with ecological speciation</article-title>. <source xml:lang="en">Trends in Ecology and Evolution</source>, <volume>25</volume>, <fpage>387</fpage>&#x02013;<lpage>395</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2010.03.006</pub-id>
+<pub-id pub-id-type="pmid">20434790</pub-id></mixed-citation></ref><ref id="ece35140-bib-0033"><mixed-citation publication-type="journal" id="ece35140-cit-0033">
+<string-name>
+<surname>Gladieux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Vercken</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fontaine</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Jonot</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Couloux</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2011</year>). <article-title>Maintenance of fungal pathogen species that are specialized to different hosts: Allopatric divergence and introgression through secondary contact</article-title>. <source xml:lang="en">Molecular Biology and Evolution</source>, <volume>28</volume>, <fpage>459</fpage>&#x02013;<lpage>471</lpage>. <pub-id pub-id-type="doi">10.1093/molbev/msq235</pub-id>
+<pub-id pub-id-type="pmid">20837605</pub-id></mixed-citation></ref><ref id="ece35140-bib-0034"><mixed-citation publication-type="journal" id="ece35140-cit-0034">
+<string-name>
+<surname>Gold</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2009</year>). <article-title>Within&#x02010;host competitive exclusion among species of the anther&#x02010;smut pathogen</article-title>. <source xml:lang="en">BMC Ecology</source>, <volume>9</volume>, <fpage>11</fpage>.<pub-id pub-id-type="pmid">19422703</pub-id></mixed-citation></ref><ref id="ece35140-bib-0035"><mixed-citation publication-type="journal" id="ece35140-cit-0035">
+<string-name>
+<surname>Goulson</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Jerrim</surname>, <given-names>K.</given-names>
+</string-name> (<year>1997</year>). <article-title>Maintenance of the species boundary between <italic>Silene dioica</italic> and <italic>S. latifolia</italic> (red and white campion)</article-title>. <source xml:lang="en">Oikos</source>, <volume>79</volume>, <fpage>115</fpage>&#x02013;<lpage>126</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0036"><mixed-citation publication-type="journal" id="ece35140-cit-0036">
+<string-name>
+<surname>Halliday</surname>, <given-names>F. W.</given-names>
+</string-name>, <string-name>
+<surname>Heckman</surname>, <given-names>R. W.</given-names>
+</string-name>, <string-name>
+<surname>Wilfahrt</surname>, <given-names>P. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mitchell</surname>, <given-names>C. E.</given-names>
+</string-name> (<year>2019</year>). <article-title>Past is prologue: Host community assembly and the risk of infectious disease over time</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>22</volume>, <fpage>138</fpage>&#x02013;<lpage>148</lpage>. <pub-id pub-id-type="doi">10.1111/ele.13176</pub-id>
+<pub-id pub-id-type="pmid">30403005</pub-id></mixed-citation></ref><ref id="ece35140-bib-0037"><mixed-citation publication-type="journal" id="ece35140-cit-0037">
+<string-name>
+<surname>Hart</surname>, <given-names>M. M.</given-names>
+</string-name>, <string-name>
+<surname>Aleklett</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Chagnon</surname>, <given-names>P. L.</given-names>
+</string-name>, <string-name>
+<surname>Egan</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ghignone</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Helgason</surname>, <given-names>T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Waller</surname>, <given-names>L.</given-names>
+</string-name> (<year>2015</year>). <article-title>Navigating the labyrinth: A guide to sequence&#x02010;based, community ecology of arbuscular mycorrhizal fungi</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>207</volume>, <fpage>235</fpage>&#x02013;<lpage>247</lpage>. <pub-id pub-id-type="doi">10.1111/nph.13340</pub-id>
+<pub-id pub-id-type="pmid">25737096</pub-id></mixed-citation></ref><ref id="ece35140-bib-0038"><mixed-citation publication-type="book" id="ece35140-cit-0038">
+<string-name>
+<surname>Hitchcock</surname>, <given-names>C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Maguire</surname>, <given-names>B.</given-names>
+</string-name> (<year>1847</year>). <source xml:lang="en">A revision of the North American species of <italic>Silene</italic></source>. (Vol. <volume>13</volume>, pp. <fpage>5457</fpage>&#x02013;<lpage>73</lpage>) <publisher-loc>Seattle, WA</publisher-loc>: <publisher-name>University of Washington Publications in Biology</publisher-name>.</mixed-citation></ref><ref id="ece35140-bib-0039"><mixed-citation publication-type="journal" id="ece35140-cit-0039">
+<string-name>
+<surname>Holt</surname>, <given-names>R. D.</given-names>
+</string-name>, <string-name>
+<surname>Dobson</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Begon</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bowers</surname>, <given-names>R. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schauber</surname>, <given-names>E. M.</given-names>
+</string-name> (<year>2003</year>). <article-title>Parasite establishment in host communities</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>6</volume>, <fpage>837</fpage>&#x02013;<lpage>842</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0040"><mixed-citation publication-type="journal" id="ece35140-cit-0040">
+<string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2003</year>). <article-title>Dynamics of multiple infection and within&#x02010;host competition by the anther&#x02010;smut pathogen</article-title>. <source xml:lang="en">American Naturalist</source>, <volume>162</volume>, <fpage>122</fpage>&#x02013;<lpage>133</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0041"><mixed-citation publication-type="journal" id="ece35140-cit-0041">
+<string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Heishman</surname>, <given-names>H.</given-names>
+</string-name> (<year>2003</year>). <article-title>Karyotypic similarity identifies multiple host&#x02010;shifts of a pathogenic fungus in natural populations</article-title>. <source xml:lang="en">Infection, Genetics, and Evolution</source>, <volume>2</volume>, <fpage>167</fpage>&#x02013;<lpage>172</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0042"><mixed-citation publication-type="journal" id="ece35140-cit-0042">
+<string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Mena&#x02010;Al&#x000ed;</surname>, <given-names>J. I.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Oxelman</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Yockyeng</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Distribution of the anther&#x02010;smut pathogen <italic>Microbotryum</italic> on species of the Caryophyllaceae</article-title>. <source xml:lang="en">New Phytologist</source>, <volume>187</volume>, <fpage>217</fpage>&#x02013;<lpage>229</lpage>.<pub-id pub-id-type="pmid">20406409</pub-id></mixed-citation></ref><ref id="ece35140-bib-0043"><mixed-citation publication-type="journal" id="ece35140-cit-0043">
+<string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Rocha</surname>, <given-names>O. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name> (<year>2001</year>). <article-title>Differences in teliospore germination patterns of <italic>Microbotryum violaceum</italic> on European and North American <italic>Silene</italic> species</article-title>. <source xml:lang="en">Mycological Research</source>, <volume>105</volume>, <fpage>532</fpage>&#x02013;<lpage>536</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0044"><mixed-citation publication-type="journal" id="ece35140-cit-0044">
+<string-name>
+<surname>Janzen</surname>, <given-names>D. H.</given-names>
+</string-name> (<year>1970</year>). <article-title>Herbivores and the number of tree species in tropical forests</article-title>. <source xml:lang="en">The American Naturalist</source>, <volume>104</volume>, <fpage>501</fpage>&#x02013;<lpage>528</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0045"><mixed-citation publication-type="journal" id="ece35140-cit-0045">
+<string-name>
+<surname>Johnson</surname>, <given-names>P. T. J.</given-names>
+</string-name>, <string-name>
+<surname>de Roode</surname>, <given-names>J. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fenton</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>). <article-title>Why infectious disease research needs community ecology</article-title>. <source xml:lang="en">Science</source>, <volume>349</volume>, <fpage>1259504</fpage>.<pub-id pub-id-type="pmid">26339035</pub-id></mixed-citation></ref><ref id="ece35140-bib-0046"><mixed-citation publication-type="journal" id="ece35140-cit-0046">
+<string-name>
+<surname>J&#x000fc;rgens</surname>, <given-names>A.</given-names>
+</string-name> (<year>2006</year>). <article-title>Comparative floral morphometrics in day&#x02010;flowering, night&#x02010;flowering and self&#x02010;pollinated <italic>Caryophylloideae</italic> (<italic>Agrostemma</italic>, <italic>Dianthus</italic>, <italic>Saponaria</italic>, <italic>Silene</italic>, and <italic>Vaccaria</italic>)</article-title>. <source xml:lang="en">Plant Systematics and Evolution</source>, <volume>257</volume>, <fpage>233</fpage>&#x02013;<lpage>250</lpage>. <pub-id pub-id-type="doi">10.1007/s00606-005-0379-4</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0047"><mixed-citation publication-type="journal" id="ece35140-cit-0047">
+<string-name>
+<surname>Kemler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lutz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f6;ker</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Oberwinkler</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Begerow</surname>, <given-names>D.</given-names>
+</string-name> (<year>2009</year>). <article-title>Hidden diversity in the non&#x02010;caryophyllaceous plant&#x02010;parasitic members of <italic>Microbotryum</italic> (Pucciniomycotina: Microbotryales)</article-title>. <source xml:lang="en">Systematics and Biodiversity</source>, <volume>7</volume>, <fpage>297</fpage>&#x02013;<lpage>306</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0048"><mixed-citation publication-type="journal" id="ece35140-cit-0048">
+<string-name>
+<surname>Kemler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Telleria</surname>, <given-names>M. T.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;fer</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name>
+<surname>Yurkov</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Begerow</surname>, <given-names>D.</given-names>
+</string-name> (<year>2013</year>). <article-title>Contrasting phylogenetic patterns of anther smuts (Pucciniomycotina: <italic>Microbotryum</italic>) reflect phylogenetic patterns of their caryophyllaceous hosts</article-title>. <source xml:lang="en">Organisms Diversity and Evolution</source>, <volume>13</volume>, <fpage>111</fpage>&#x02013;<lpage>126</lpage>. <pub-id pub-id-type="doi">10.1007/s13127-012-0115-1</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0049"><mixed-citation publication-type="journal" id="ece35140-cit-0049">
+<string-name>
+<surname>Kulma</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Low</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Bensch</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Qvarnstr&#x000f6;m</surname>, <given-names>A.</given-names>
+</string-name> (<year>2013</year>). <article-title>Malaria infections reinforce competitive asymmetry between two Ficedula flycatchers in a recent contact zone</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>22</volume>, <fpage>4591</fpage>&#x02013;<lpage>4601</lpage>.<pub-id pub-id-type="pmid">23980765</pub-id></mixed-citation></ref><ref id="ece35140-bib-0050"><mixed-citation publication-type="journal" id="ece35140-cit-0050">
+<string-name>
+<surname>Kumar</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Tamura</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Jakobsen</surname>, <given-names>I. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nei</surname>, <given-names>M.</given-names>
+</string-name> (<year>2001</year>). <article-title>MEGA2: Molecular evolutionary genetics analysis software</article-title>. <source xml:lang="en">Bioinformatics</source>, <volume>17</volume>, <fpage>1244</fpage>&#x02013;<lpage>1245</lpage>. <pub-id pub-id-type="doi">10.1093/bioinformatics/17.12.1244</pub-id>
+<pub-id pub-id-type="pmid">11751241</pub-id></mixed-citation></ref><ref id="ece35140-bib-0051"><mixed-citation publication-type="journal" id="ece35140-cit-0051">
+<string-name>
+<surname>Le Gac</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Fournier</surname>, <given-names>E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2007</year>). <article-title>Phylogenetic evidence of host&#x02010;specific cryptic species in the anther smut fungus</article-title>. <source xml:lang="en">Evolution</source>, <volume>61</volume>, <fpage>15</fpage>&#x02013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1111/j.1558-5646.2007.00002.x</pub-id>
+<pub-id pub-id-type="pmid">17300424</pub-id></mixed-citation></ref><ref id="ece35140-bib-0052"><mixed-citation publication-type="journal" id="ece35140-cit-0052">
+<string-name>
+<surname>L&#x000f3;pez&#x02010;Villavicencio</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Courjol</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>, <given-names>A. K.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Jonot</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Shykoff</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2011</year>). <article-title>Competition, cooperation among kin and virulence in multiple infections</article-title>. <source xml:lang="en">Evolution</source>, <volume>65</volume>, <fpage>1357</fpage>&#x02013;<lpage>1366</lpage>.<pub-id pub-id-type="pmid">21121914</pub-id></mixed-citation></ref><ref id="ece35140-bib-0053"><mixed-citation publication-type="journal" id="ece35140-cit-0053">
+<string-name>
+<surname>L&#x000f3;pez&#x02010;Villavicencio</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jonot</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Coantic</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Enjalbert</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2007</year>). <article-title>Multiple infections by the anther smut pathogen are frequent and involve related strains</article-title>. <source xml:lang="en">PLoS Pathogen</source>, <volume>3</volume>, <fpage>e176</fpage>.<pub-id pub-id-type="pmid">18020704</pub-id></mixed-citation></ref><ref id="ece35140-bib-0054"><mixed-citation publication-type="journal" id="ece35140-cit-0054">
+<string-name>
+<surname>Luis</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>O'Shea</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Hayman</surname>, <given-names>D. T.</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Cunningham</surname>, <given-names>A. A.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>A. T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Webb</surname>, <given-names>C. T.</given-names>
+</string-name> (<year>2015</year>). <article-title>Network analysis of host&#x02013;virus communities in bats and rodents reveals determinants of cross&#x02010;species transmission</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>18</volume>, <fpage>1153</fpage>&#x02013;<lpage>1162</lpage>.<pub-id pub-id-type="pmid">26299267</pub-id></mixed-citation></ref><ref id="ece35140-bib-0055"><mixed-citation publication-type="journal" id="ece35140-cit-0055">
+<string-name>
+<surname>Lutz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f6;ker</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Piatek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Kemler</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Begerow</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Oberwinkler</surname>, <given-names>F.</given-names>
+</string-name> (<year>2005</year>). <article-title>Anther smuts of Caryophyllaceae: Molecular characters indicate host&#x02010;dependent species delimitation</article-title>. <source xml:lang="en">Mycological Progress</source>, <volume>4</volume>, <fpage>225</fpage>&#x02013;<lpage>238</lpage>. <pub-id pub-id-type="doi">10.1007/s11557-006-0126-4</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0056"><mixed-citation publication-type="journal" id="ece35140-cit-0056">
+<string-name>
+<surname>Mordecai</surname>, <given-names>E. A.</given-names>
+</string-name> (<year>2011</year>). <article-title>Pathogen impacts on plant communities: Unifying theory, concepts, and empirical work</article-title>. <source xml:lang="en">Ecological Monographs</source>, <volume>81</volume>, <fpage>429</fpage>&#x02013;<lpage>441</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0057"><mixed-citation publication-type="journal" id="ece35140-cit-0057">
+<string-name>
+<surname>Newcombe</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Stirling</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bradshaw</surname>, <given-names>H. D.</given-names>
+</string-name> (<year>2000</year>). <article-title>
+<italic>Melampsora</italic> &#x000d7;columbiana, a natural hybrid of <italic>M. medusae</italic> and <italic>M. occidentalis</italic>
+</article-title>. <source xml:lang="en">Mycological Research</source>, <volume>104</volume>, <fpage>261</fpage>&#x02013;<lpage>274</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0058"><mixed-citation publication-type="journal" id="ece35140-cit-0058">
+<string-name>
+<surname>Ostfeld</surname>, <given-names>R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Keesing</surname>, <given-names>F.</given-names>
+</string-name> (<year>2000</year>). <article-title>The function of biodiversity in the ecology of vector&#x02010;borne zoonotic diseases</article-title>. <source xml:lang="en">Canadian Journal of Zoology</source>, <volume>78</volume>, <fpage>2061</fpage>&#x02013;<lpage>2078</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0059"><mixed-citation publication-type="journal" id="ece35140-cit-0059">
+<string-name>
+<surname>Parker</surname>, <given-names>I. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gilbert</surname>, <given-names>G. S.</given-names>
+</string-name> (<year>2018</year>). <article-title>Density&#x02010;dependent disease, life&#x02010;history trade&#x02010;offs, and the effect of leaf pathogens on a suite of co&#x02010;occurring close relatives</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>106</volume>, <fpage>1829</fpage>&#x02013;<lpage>1838</lpage>. <pub-id pub-id-type="doi">10.1111/1365-2745.13024</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0060"><mixed-citation publication-type="journal" id="ece35140-cit-0060">
+<string-name>
+<surname>Petit</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Silver</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Cornille</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Gladieux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Bruns</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2017</year>). <article-title>Co&#x02010;occurrence and hybridization of anther&#x02010;smut pathogens specialized on <italic>Dianthus hosts</italic>
+</article-title>. <source xml:lang="en">Molecular Ecology</source>, <volume>26</volume>, <fpage>1877</fpage>&#x02013;<lpage>1890</lpage>.<pub-id pub-id-type="pmid">28231407</pub-id></mixed-citation></ref><ref id="ece35140-bib-0061"><mixed-citation publication-type="journal" id="ece35140-cit-0061">
+<string-name>
+<surname>Pi&#x00105;tek</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Lutz</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Kemler</surname>, <given-names>M.</given-names>
+</string-name> (<year>2013</year>). <article-title>
+<italic>Microbotryum silenes&#x02010;saxifragae</italic> sp. nov. sporulating in the anthers of <italic>Silene saxifraga</italic> in southern European mountains</article-title>. <source xml:lang="en">IMA Fungus</source>, <volume>4</volume>, <fpage>29</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">23898410</pub-id></mixed-citation></ref><ref id="ece35140-bib-0062"><mixed-citation publication-type="journal" id="ece35140-cit-0062">
+<string-name>
+<surname>Popp</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Erixon</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Eggens</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Oxelman</surname>, <given-names>B.</given-names>
+</string-name> (<year>2005</year>). <article-title>Origin and evolution of a circumpolar polyploid species complex in <italic>Silene</italic> (Caryophyllaceae) inferred from low copy nuclear RNA polymerase introns, rDNA, and chloroplast DNA</article-title>. <source xml:lang="en">Systematic Botany</source>, <volume>30</volume>, <fpage>302</fpage>&#x02013;<lpage>313</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0063"><mixed-citation publication-type="journal" id="ece35140-cit-0063">
+<string-name>
+<surname>Popp</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Oxelman</surname>, <given-names>B.</given-names>
+</string-name> (<year>2007</year>). <article-title>Origin and evolution of North American polyploid <italic>Silene</italic> (Caryophyllaceae)</article-title>. <source xml:lang="en">American Journal of Botany</source>, <volume>94</volume>, <fpage>330</fpage>&#x02013;<lpage>349</lpage>. <pub-id pub-id-type="doi">10.3732/ajb.94.3.330</pub-id>
+<pub-id pub-id-type="pmid">21636405</pub-id></mixed-citation></ref><ref id="ece35140-bib-0064"><mixed-citation publication-type="journal" id="ece35140-cit-0064">
+<string-name>
+<surname>Refr&#x000e9;gier</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Le Gac</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Jabbour</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Widmer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Shykoff</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Yockteng</surname>, <given-names>R.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2008</year>). <article-title>Cophylogeny of the anther smut fungi and their caryophyllaceous hosts: Prevalence of host shifts and importance of delimiting parasite species for inferring cospeciation</article-title>. <source xml:lang="en">BMC Evolutionary Biology</source>, <volume>8</volume>, <fpage>100</fpage>.<pub-id pub-id-type="pmid">18371215</pub-id></mixed-citation></ref><ref id="ece35140-bib-0065"><mixed-citation publication-type="journal" id="ece35140-cit-0065">
+<string-name>
+<surname>Ricklefs</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2010</year>). <article-title>Host&#x02013;pathogen coevolution, secondary sympatry and species diversification</article-title>. <source xml:lang="en">Philosophical Transactions of the Royal Society of London B: Biological Sciences</source>, <volume>365</volume>, <fpage>1139</fpage>&#x02013;<lpage>1147</lpage>.<pub-id pub-id-type="pmid">20194175</pub-id></mixed-citation></ref><ref id="ece35140-bib-0066"><mixed-citation publication-type="journal" id="ece35140-cit-0066">
+<string-name>
+<surname>Schoch</surname>, <given-names>C. L.</given-names>
+</string-name>, <string-name>
+<surname>Seifert</surname>, <given-names>K. A.</given-names>
+</string-name>, <string-name>
+<surname>Huhndorf</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Robert</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Spouge</surname>, <given-names>J. L.</given-names>
+</string-name>, <string-name>
+<surname>Levesque</surname>, <given-names>C. A.</given-names>
+</string-name>, et al. (<year>2012</year>). <article-title>Nuclear ribosomal internal transcribed spacer (ITS) region as a universal DNA barcode marker for <italic>Fungi</italic>
+</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the United States of America</source>, <volume>109</volume>, <fpage>6241</fpage>&#x02013;<lpage>6246</lpage>.<pub-id pub-id-type="pmid">22454494</pub-id></mixed-citation></ref><ref id="ece35140-bib-0067"><mixed-citation publication-type="journal" id="ece35140-cit-0067">
+<string-name>
+<surname>Schr&#x000f6;ter</surname>, <given-names>J.</given-names>
+</string-name> (<year>1877</year>). <article-title>Bemerkungen and Beobachtungen uber einige Ustilagineen</article-title>. <source xml:lang="en">Beitr&#x000e4;ge Zur Biologie Der Pflanzen</source>, <volume>2</volume>, <fpage>349</fpage>&#x02013;<lpage>383</lpage>.</mixed-citation></ref><ref id="ece35140-bib-0068"><mixed-citation publication-type="journal" id="ece35140-cit-0068">
+<string-name>
+<surname>Seabloom</surname>, <given-names>E. W.</given-names>
+</string-name>, <string-name>
+<surname>Borer</surname>, <given-names>E. T.</given-names>
+</string-name>, <string-name>
+<surname>Gross</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Kendig</surname>, <given-names>A. E.</given-names>
+</string-name>, <string-name>
+<surname>Lacroix</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>, <given-names>C. E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Power</surname>, <given-names>A. G.</given-names>
+</string-name> (<year>2015</year>). <article-title>The community ecology of pathogens: Coinfection, coexistence and community composition</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>18</volume>, <fpage>401</fpage>&#x02013;<lpage>415</lpage>.<pub-id pub-id-type="pmid">25728488</pub-id></mixed-citation></ref><ref id="ece35140-bib-0069"><mixed-citation publication-type="journal" id="ece35140-cit-0069">
+<string-name>
+<surname>Shykoff</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Meyh&#x000f6;fer</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bucheli</surname>, <given-names>E.</given-names>
+</string-name> (<year>1999</year>). <article-title>Genetic isolation among host races of the anther smut fungus <italic>Microbotryum violaceum</italic> on three host plant species</article-title>. <source xml:lang="en">International Journal of Plant Sciences</source>, <volume>160</volume>, <fpage>907</fpage>&#x02013;<lpage>916</lpage>. <pub-id pub-id-type="doi">10.1086/314179</pub-id>
+<pub-id pub-id-type="pmid">10506472</pub-id></mixed-citation></ref><ref id="ece35140-bib-0070"><mixed-citation publication-type="journal" id="ece35140-cit-0070">
+<string-name>
+<surname>Sloan</surname>, <given-names>D. B.</given-names>
+</string-name>, <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name> (<year>2008</year>). <article-title>Maximized virulence in a sterilizing pathogen: The anther&#x02010;smut fungus and its co&#x02010;evolved hosts</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>21</volume>, <fpage>1544</fpage>&#x02013;<lpage>1554</lpage>. <pub-id pub-id-type="doi">10.1111/j.1420-9101.2008.01604.x</pub-id>
+<pub-id pub-id-type="pmid">18717748</pub-id></mixed-citation></ref><ref id="ece35140-bib-0071"><mixed-citation publication-type="journal" id="ece35140-cit-0071">
+<string-name>
+<surname>Tang</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Ren</surname>, <given-names>Z.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Wolfe</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wang</surname>, <given-names>H.</given-names>
+</string-name> (<year>2019</year>). <article-title>Specificity and seasonal prevalence of anther&#x02010;smut disease <italic>Microbotryum</italic> on sympatric Himalayan <italic>Silene</italic> species</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>. <pub-id pub-id-type="doi">10.1111/jeb.13427</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0072"><mixed-citation publication-type="journal" id="ece35140-cit-0072">
+<string-name>
+<surname>Thrall</surname>, <given-names>P. H.</given-names>
+</string-name>, <string-name>
+<surname>Biere</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name> (<year>1993</year>). <article-title>Plant life&#x02010;history and disease susceptibility &#x02013; The occurrence of <italic>Ustilago violacea</italic> on different species within the Caryophyllaceae</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>81</volume>, <fpage>489</fpage>&#x02013;<lpage>498</lpage>. <pub-id pub-id-type="doi">10.2307/2261527</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0073"><mixed-citation publication-type="journal" id="ece35140-cit-0073">
+<string-name>
+<surname>Tyson</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Antonovics</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Bruns</surname>, <given-names>E. L.</given-names>
+</string-name> (<year>2018</year>). <article-title>Anther smut disease caused by <italic>Microbotryum</italic> on berry campion <italic>Silene baccifera</italic>: Endemic pathogen or host shift?</article-title>
+<source xml:lang="en">Plant Pathology</source>, <volume>67</volume>, <fpage>1850</fpage>&#x02013;<lpage>1856</lpage>. <pub-id pub-id-type="doi">10.1111/ppa.12910</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0074"><mixed-citation publication-type="journal" id="ece35140-cit-0074">
+<string-name>
+<surname>Valente</surname>, <given-names>L. M.</given-names>
+</string-name>, <string-name>
+<surname>Savolainen</surname>, <given-names>V.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vargas</surname>, <given-names>P.</given-names>
+</string-name> (<year>2010</year>). <article-title>Unparalleled rates of species diversification in Europe</article-title>. <source xml:lang="en">Proceedings of the Royal Society B</source>, <volume>277</volume>, <fpage>1489</fpage>&#x02013;<lpage>1496</lpage>. <pub-id pub-id-type="doi">10.1098/rspb.2009.2163</pub-id>
+<pub-id pub-id-type="pmid">20106850</pub-id></mixed-citation></ref><ref id="ece35140-bib-0075"><mixed-citation publication-type="journal" id="ece35140-cit-0075">
+<string-name>
+<surname>Van Putten</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Biere</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Damme</surname>, <given-names>J. M. M.</given-names>
+</string-name> (<year>2005</year>). <article-title>Host&#x02010;related genetic differentiation in the anther smut fungus <italic>Microbotryum violaceum</italic> in sympatric, parapatric and allopatric populations of two host species <italic>Silene latifolia</italic> and <italic>S. dioica</italic>
+</article-title>. <source xml:lang="en">Journal of Evolutionary Biology</source>, <volume>18</volume>, <fpage>203</fpage>&#x02013;<lpage>212</lpage>. <pub-id pub-id-type="doi">10.1111/j.1420-9101.2004.00771.x</pub-id>
+<pub-id pub-id-type="pmid">15669977</pub-id></mixed-citation></ref><ref id="ece35140-bib-0076"><mixed-citation publication-type="journal" id="ece35140-cit-0076">
+<string-name>
+<surname>Van Putten</surname>, <given-names>W. F.</given-names>
+</string-name>, <string-name>
+<surname>Elzinga</surname>, <given-names>J. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Biere</surname>, <given-names>A.</given-names>
+</string-name> (<year>2007</year>). <article-title>Host fidelity of the pollinator guilds of Silene dioica and Silene latifolia: Possible consequences for sympatric host race differentiation of a vectored plant disease</article-title>. <source xml:lang="en">International Journal of Plant Sciences</source>, <volume>168</volume>, <fpage>421</fpage>&#x02013;<lpage>434</lpage>. <pub-id pub-id-type="doi">10.1086/511050</pub-id>
+</mixed-citation></ref><ref id="ece35140-bib-0077"><mixed-citation publication-type="journal" id="ece35140-cit-0077">
+<string-name>
+<surname>Vercken</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Fontaine</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Gladieux</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Hood</surname>, <given-names>M. E.</given-names>
+</string-name>, <string-name>
+<surname>Jont</surname>, <given-names>O.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Giraud</surname>, <given-names>T.</given-names>
+</string-name> (<year>2010</year>). <article-title>Glacial refugia in pathogens: European genetic structure of anther smut pathogens on <italic>Silene latifolia</italic> and <italic>Silene dioica</italic>
+</article-title>. <source xml:lang="en">PLoS Pathogen</source>, <volume>6</volume>, <fpage>e1001229</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.ppat.1001229</pub-id>
+<pub-id pub-id-type="pmid">21187901</pub-id></mixed-citation></ref><ref id="ece35140-bib-0078"><mixed-citation publication-type="book" id="ece35140-cit-0078">
+<string-name>
+<surname>White</surname>, <given-names>T. J.</given-names>
+</string-name>, <string-name>
+<surname>Bruns</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>, <given-names>S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Taylor</surname>, <given-names>J. W.</given-names>
+</string-name> (<year>1990</year>). <chapter-title>Amplification and direct sequencing of fungal ribosomal RNA genes for phylogenetics</chapter-title> In <person-group person-group-type="editor"><name><surname>Innis</surname><given-names>M. A.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Gelfand</surname><given-names>D. H.</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Sninsky</surname><given-names>J. J.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name><surname>White</surname><given-names>T. J.</given-names></name></person-group> (Eds.), <source xml:lang="en">PCR protocols: A guide to methods and applications</source> (pp. <fpage>315</fpage>&#x02013;<lpage>322</lpage>). <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Academic Press Inc</publisher-name>.</mixed-citation></ref><ref id="ece35140-bib-0079"><mixed-citation publication-type="journal" id="ece35140-cit-0079">
+<string-name>
+<surname>Young</surname>, <given-names>H. S.</given-names>
+</string-name>, <string-name>
+<surname>Parker</surname>, <given-names>I. M.</given-names>
+</string-name>, <string-name>
+<surname>Gilbert</surname>, <given-names>G. S.</given-names>
+</string-name>, <string-name>
+<surname>Sofiea Guerra</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Nunn</surname>, <given-names>C. L.</given-names>
+</string-name> (<year>2017</year>). <article-title>Introduced species, disease ecology, and biodiversity&#x02010;disease relationships</article-title>. <source xml:lang="en">Trends in Ecology and Evolution</source>, <volume>32</volume>, <fpage>41</fpage>&#x02013;<lpage>54</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2016.09.008</pub-id>
+<pub-id pub-id-type="pmid">28029377</pub-id></mixed-citation></ref><ref id="ece35140-bib-0080"><mixed-citation publication-type="journal" id="ece35140-cit-0080">
+<string-name>
+<surname>Ziegler</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Lutz</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Pi&#x00105;tek</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pi&#x00105;tek</surname>, <given-names>M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Dismantling a complex of anther smuts (<italic>Microbotryum</italic>) on carnivorous plants in the genus <italic>Pinguicula</italic>
+</article-title>. <source xml:lang="en">Mycologia</source>, <volume>110</volume>, <fpage>361</fpage>&#x02013;<lpage>374</lpage>. <pub-id pub-id-type="doi">10.1080/00275514.2018.1451697</pub-id>
+<pub-id pub-id-type="pmid">29792777</pub-id></mixed-citation></ref></ref-list></back></article>

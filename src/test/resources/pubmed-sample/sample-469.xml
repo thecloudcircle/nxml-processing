@@ -1,0 +1,566 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">21789211</article-id><article-id pub-id-type="pmc">3137627</article-id><article-id pub-id-type="publisher-id">PONE-D-11-05809</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0022057</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Biology</subject><subj-group><subject>Model Organisms</subject><subj-group><subject>Animal Models</subject><subj-group><subject>Rat</subject></subj-group></subj-group></subj-group><subj-group><subject>Molecular Cell Biology</subject><subj-group><subject>Cell Death</subject></subj-group></subj-group></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Neurology</subject><subj-group><subject>Cerebrovascular Diseases</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Activation of Protein Kinase C Delta following Cerebral Ischemia Leads to Release of Cytochrome <italic>C</italic> from the Mitochondria via Bad Pathway</article-title><alt-title alt-title-type="running-head">PKC Delta and Post-Ischemic Cytochrome <italic>C</italic> Release</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Dave</surname><given-names>Kunjan R.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Bhattacharya</surname><given-names>Sanjoy K.</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Saul</surname><given-names>Isabel</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>DeFazio</surname><given-names>R. Anthony</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Dezfulian</surname><given-names>Cameron</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Lin</surname><given-names>Hung Wen</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Raval</surname><given-names>Ami P.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Perez-Pinzon</surname><given-names>Miguel A.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Cerebral Vascular Disease Research Center, Department of Neurology, Leonard M. Miller School of Medicine, University of Miami, Miami, Florida, United States of America</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Neuroscience Program, Leonard M. Miller School of Medicine, University of Miami, Miami, Florida, United States of America</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Bascom Palmer Eye Institute, Leonard M. Miller School of Medicine, University of Miami, Miami, Florida, United States of America</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Department of Medicine, Leonard M. Miller School of Medicine, University of Miami, Miami, Florida, United States of America</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Kleinschnitz</surname><given-names>Christoph</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Julius-Maximilians-Universit&#x000e4;t W&#x000fc;rzburg, Germany</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>MPerez18@med.miami.edu</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: KRD SKB RAD CD MAPP. Performed the experiments: KRD SKB IS. Analyzed the data: KRD CD MAPP. Wrote the paper: KRD SKB RAD CD HWL APR MAPP.</p></fn></author-notes><pub-date pub-type="collection"><year>2011</year></pub-date><pub-date pub-type="epub"><day>15</day><month>7</month><year>2011</year></pub-date><volume>6</volume><issue>7</issue><elocation-id>e22057</elocation-id><history><date date-type="received"><day>29</day><month>3</month><year>2011</year></date><date date-type="accepted"><day>14</day><month>6</month><year>2011</year></date></history><permissions><copyright-statement>Dave et al.</copyright-statement><copyright-year>2011</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>The release of cytochrome <italic>c</italic> from the mitochondria following cerebral ischemia is a key event leading to cell death. The goal of the present study was to determine the mechanisms involved in post-ischemic activation of protein kinase c delta (&#x003b4;PKC) that lead to cytochrome <italic>c</italic> release.</p></sec><sec><title>Methods/Findings</title><p>We used a rat model of cardiac arrest as an <italic>in vivo</italic> model, and an <italic>in vitro</italic> analog, oxygen glucose deprivation (OGD) in rat hippocampal synaptosomes. Cardiac arrest triggered translocation of &#x003b4;PKC to the mitochondrial fraction at 1 h reperfusion. In synaptosomes, the peptide inhibitor of &#x003b4;PKC blocked OGD-induced translocation to the mitochondria. We tested two potential pathways by which &#x003b4;PKC activation could lead to cytochrome <italic>c</italic> release: phosphorylation of phospholipid scramblase-3 (PLSCR3) and/or protein phosphatase 2A (PP2A). Cardiac arrest increased levels of phosphorlyated PLSCR3; however, inhibition of &#x003b4;PKC translocation failed to affect the OGD-induced increase in PLSCR3 in synaptosomal mitochondria suggesting the post-ischemic phosphorylation of PLSCR3 is not mediated by &#x003b4;PKC. Inhibition of either &#x003b4;PKC or PP2A decreased cytochrome <italic>c</italic> release from synaptosomal mitochondria. Cardiac arrest results in the dephosphorylation of Bad and Bax, both downstream targets of PP2A promoting apoptosis. Inhibition of &#x003b4;PKC or PP2A prevented OGD-induced Bad, but not Bax, dephosphorylation. To complement these studies, we used proteomics to identify novel mitochondrial substrates of &#x003b4;PKC.</p></sec><sec><title>Conclusions</title><p>We conclude that &#x003b4;PKC initiates cytochrome <italic>c</italic> release via phosphorylation of PP2A and subsequent dephosphorylation of Bad and identified &#x003b4;PKC, PP2A and additional mitochondrial proteins as potential therapeutic targets for ischemic neuroprotection.</p></sec></abstract><counts><page-count count="9"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>The release of mitochondrial cytochrome <italic>c</italic> into the cytosol following cerebral ischemia was first observed in the late 1990's <xref rid="pone.0022057-Fujimura1" ref-type="bibr">[1]</xref>, <xref rid="pone.0022057-PerezPinzon1" ref-type="bibr">[2]</xref>, and is a key event that initiates the apoptotic cell death pathway while indirectly participating in the necrotic pathway leading to neuronal death <xref rid="pone.0022057-Fiskum1" ref-type="bibr">[3]</xref>. Besides activating the apoptotic cascade, release of mitochondrial cytochrome <italic>c</italic> can also contribute to mitochondrial dysfunction including lower activity of mitochondrial respiratory chain complex IV <xref rid="pone.0022057-PerezPinzon2" ref-type="bibr">[4]</xref>. The factors that contribute to mitochondrial cytochrome <italic>c</italic> release following cerebral ischemia include activation of pro-apoptotic Bcl-2 family of proteins (e.g Bad Bax, and Bak), opening of the mitochondrial permeability transition pore, activation of heat shock proteins, and increases in calcium levels, among others (see recent reviews for details: <xref rid="pone.0022057-Niizuma1" ref-type="bibr">[5]</xref>). However, the precise mechanism by which cytochrome <italic>c</italic> is released from the mitochondria following cerebral ischemia is not fully understood <xref rid="pone.0022057-Endo1" ref-type="bibr">[6]</xref>.</p><p>Protein kinase c delta (&#x003b4;PKC) can initiate pro-apoptotic pathways by direct effects on the mitochondria <xref rid="pone.0022057-Brodie1" ref-type="bibr">[7]</xref>, <xref rid="pone.0022057-Majumder1" ref-type="bibr">[8]</xref>. For example, &#x003b4;PKC phosphorylates mitochondrial phospolipid scramblase 3 (PLSCR3), resulting in increased cardiolipin expression on the mitochondrial outer membrane which facilitates apoptosis in HeLa cells <xref rid="pone.0022057-He1" ref-type="bibr">[9]</xref>. Increased cardiolipin presence on the mitochondrial outer membrane recruits t-Bid (truncated BH3 interacting domain death agonist) which in turn results in formation of Bax/Bak pores through which cytochrome <italic>c</italic> release may occur <xref rid="pone.0022057-He1" ref-type="bibr">[9]</xref>, <xref rid="pone.0022057-Gonzalvez1" ref-type="bibr">[10]</xref>, <xref rid="pone.0022057-Ghibelli1" ref-type="bibr">[11]</xref>. Another target of &#x003b4;PKC phosphorylation is protein phosphatase 2A (PP2A) which may contribute to apoptosis by dephosphorylating Bad resulting in heterodimer formation and inactivation of Bcl-2 and Bcl-xL <xref rid="pone.0022057-Zhang1" ref-type="bibr">[12]</xref>. The inactivation of Bcl-2 and Bcl-xL permit the release of Bax which, when dephosphorylated by PP2A, can form a mitochondrial pore with Bak permitting cytochrome <italic>c</italic> release <xref rid="pone.0022057-Ghibelli1" ref-type="bibr">[11]</xref>, <xref rid="pone.0022057-Gardai1" ref-type="bibr">[13]</xref>. Thus &#x003b4;PKC activation may result in phosphorylation of targets both within and outside the mitochondria resulting in cytochrome <italic>c</italic> release and apoptosis.</p><p>By utilizing <italic>in vivo</italic> and <italic>in vitro</italic> models of cerebral ischemia, we and others have demonstrated that &#x003b4;PKC is activated (translocated from soluble to the particulate membrane fraction) following cerebral ischemia <xref rid="pone.0022057-Bright1" ref-type="bibr">[14]</xref>, <xref rid="pone.0022057-Raval1" ref-type="bibr">[15]</xref>, <xref rid="pone.0022057-Zablocka1" ref-type="bibr">[16]</xref>. When activation of &#x003b4;PKC is attenuated with a &#x003b4;PKC-specific peptide inhibitor (&#x003b4;V1-1), the brain is protected from ischemic neuronal damage <xref rid="pone.0022057-Bright1" ref-type="bibr">[14]</xref>, <xref rid="pone.0022057-Raval1" ref-type="bibr">[15]</xref>. &#x003b4;PKC activation has been implicated in ischemia/reperfusion-induced injuries such as oxidative stress, apoptosis, and inflammation <xref rid="pone.0022057-Brodie1" ref-type="bibr">[7]</xref>, <xref rid="pone.0022057-Majumder1" ref-type="bibr">[8]</xref>, <xref rid="pone.0022057-Churchill1" ref-type="bibr">[17]</xref>. In previous studies, we observed that release of cytochrome <italic>c</italic> and activation of &#x003b4;PKC following cerebral ischemia were closely correlated <xref rid="pone.0022057-Bright1" ref-type="bibr">[14]</xref>, <xref rid="pone.0022057-Raval1" ref-type="bibr">[15]</xref>. However, whether ischemia-induced &#x003b4;PKC translocation participates in the release of cytochrome <italic>c</italic> from mitochondria has not been defined.</p><p>The goal of the present study was to first test the hypothesis that &#x003b4;PKC translocation/activation after cerebral ischemia could result in cytochrome <italic>c</italic> release. We next tested two mechanistic hypotheses whereby &#x003b4;PKC may mediate cytochrome c release by: 1) phosphorylation/activation of PLSCR3 leading to targeting of t-Bid and downstream cytochrome <italic>c</italic> release, and 2) activation of &#x003b4;PKC phosphorylates PP2A leading to de-phosphorylation of pro-apoptotic factors Bad and Bax. Finally, we used proteomics to identify additional mitochondrial targets of &#x003b4;PKC which may be phosphorylated upon its translocation.</p></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>&#x003b4;PKC translocates to the mitochondria following <italic>in vivo</italic> and <italic>in vitro</italic> cerebral ischemia</title><p>We first tested the hypothesis that cerebral ischemia results in &#x003b4;PKC translocation from the cytosol to the mitochondria. Previously, we had observed in this model of cardiac arrest (CA) that cytochrome <italic>c</italic> is released at 1 h of reperfusion. Therefore, we examined &#x003b4;PKC translocation to hippocampal mitochondria at this time <xref rid="pone.0022057-Raval1" ref-type="bibr">[15]</xref>. After 8 min of CA, hippocampal mitochondrial fraction of &#x003b4;PKC was enhanced by 99&#x00025; (n&#x0200a;=&#x0200a;4, <italic>p</italic>&#x0003c;0.05) as compared to sham-operated animals (<xref ref-type="fig" rid="pone-0022057-g001">Figure 1A</xref>). To test whether CA induced &#x003b4;PKC translocation is recapitulated in our <italic>in vitro</italic> system, we induced OGD in synaptosomes in the presence of tat carrier peptide (control vehicle for the &#x003b4;PKC inhibitor peptide) and compared it with control (no ischemia) synaptosomes (<xref ref-type="fig" rid="pone-0022057-g001">Figure 1B</xref>). OGD in synaptosomes doubled &#x003b4;PKC protein levels in the mitochondrial fraction (n&#x0200a;=&#x0200a;5, <italic>p</italic>&#x0003c;0.05). This increase in &#x003b4;PKC translocation was reversed by 85&#x00025; (n&#x0200a;=&#x0200a;5, <italic>p</italic>&#x0003c;0.05) upon OGD induction in the presence of &#x003b4;V1-1. Thus, &#x003b4;PKC translocates to the mitochondria during the first hour of reperfusion following <italic>in vivo</italic> and <italic>in vitro</italic> hippocampal neuronal ischemia. The translocation was abolished <italic>in vitro</italic> using &#x003b4;V1-1.</p><fig id="pone-0022057-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0022057.g001</object-id><label>Figure 1</label><caption><title>&#x003b4;PKC translocates to the mitochondria following CA and &#x003b4;PKC activation following OGD increases cytochrome <italic>c</italic> release.</title><p>A) Immunoblot of &#x003b4;PKC in hippocampal mitochondria of a rat subjected to 8 min of CA and 1 h of reperfusion. Levels of &#x003b4;PKC normalized against COXIV for loading control are expressed as percentage from sham-operated (control) group. B) Immunoblots of &#x003b4;PKC in mitochondria isolated from hippocampal synaptosomes without ischemia or following 1 h oxygen glucose deprivation (OGD) in presence of tat (control) or &#x003b4;PKC inhibitor (&#x003b4;V1-1). Levels of &#x003b4;PKC normalized against COXIV for loading control are expressed as percentage of control &#x003b4;PKC protein expression. C) Immunoblot of cytochrome <italic>c</italic> in the soluble fraction of hippocampal synaptosomes subjected to oxygen glucose deprivation (OGD) in the presence of tat, &#x003b4;V1-1 or okadaic acid. Levels of cytochrome <italic>c</italic> normalized against &#x003b2;-actin for loading control are expressed as percentage of OGD in the presence of tat (control) group. &#x0002a;, <italic>p</italic>&#x0003c;0.05 v. sham or tat treated group.</p></caption><graphic xlink:href="pone.0022057.g001"/></fig></sec><sec id="s2b"><title>&#x003b4;PKC mediates the release of cytochrome <italic>c</italic> following OGD</title><p>Since we demonstrated &#x003b4;PKC translocation at 1 h of reperfusion when cytochrome <italic>c</italic> release plateaus, we next sought to determine if inhibition of translocation prevents cytochrome <italic>c</italic> release. Rat hippocampal synaptosomes underwent 60 min of OGD in the presence of &#x003b4;V1-1 or tat peptide with subsequent measurements of cytosolic cytochrome <italic>c</italic>. These levels were normalized to the cytosolic cytochrome <italic>c</italic> levels of control synaptosomes incubated in glucose containing solution with room air insufflation. OGD of the synaptosomes in the presence of tat peptide resulted in a 268&#x00025; increase in cytochrome <italic>c</italic> release from the mitochondria (n&#x0200a;=&#x0200a;5) as compared to control. Inhibition of &#x003b4;PKC translocation (via &#x003b4;V1-1) resulted in cytochrome <italic>c</italic> release similar to control and significantly less than untreated OGD synaptosomes (n&#x0200a;=&#x0200a;5, p&#x0003c;0.05; <xref ref-type="fig" rid="pone-0022057-g001">Figure 1C</xref>). Thus, &#x003b4;PKC inhibition prevents cytochrome <italic>c</italic> release favoring neuronal survival.</p></sec><sec id="s2c"><title>Phospholipid scramblase 3 (PLSCR3) phosphorylation following cerebral ischemia is not due to &#x003b4;PKC activation/translocation</title><p>We hypothesized that post-ischemic &#x003b4;PKC phosphorylation of PLSCR3 could increase cardiolipin availability on the outer membrane of the mitochondria facilitating cytochrome <italic>c</italic> release through targeting of t-Bid and subsequent activation of Bax and Bak <xref rid="pone.0022057-Gonzalvez1" ref-type="bibr">[10]</xref>. Indeed, CA led to a 56&#x00025; (n&#x0200a;=&#x0200a;4, p&#x0003c;0.05) increase in phospho-PLSCR3 (p-PLSCR3) in mitochondrial fraction as compared to sham-operated rats (<xref ref-type="fig" rid="pone-0022057-g002">Figure 2A</xref>) and an even larger increase in PLSCR3 phosphorylation (110&#x00025; compared to control, p&#x0003c;0.05; <xref ref-type="fig" rid="pone-0022057-g002">Figure 2B</xref>) was noted <italic>in vitro</italic>. However, PLSCR3 phosphorylation did not change significantly when &#x003b4;PKC was inhibited during OGD (<xref ref-type="fig" rid="pone-0022057-g002">Figure 2B</xref>). Thus, &#x003b4;PKC activation/translocation was dissociated from phosphorylation of PLSCR3 and fails to mechanistically explain the increase in cytochrome <italic>c</italic> release following cerebral ischemia (<xref ref-type="fig" rid="pone-0022057-g001">Figure 1C</xref>).</p><fig id="pone-0022057-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0022057.g002</object-id><label>Figure 2</label><caption><title>Phospholipid scramblase 3 (PLSCR3), Bad and Bax phosphorylation following cerebral ischemia.</title><p>A) Immunoblot of p-PLSCR3 and PLSCR3 in hippocampal mitochondria of a rat subjected to 8 min of CA and 1 h of reperfusion. B) Immunoblot of p-PLSCR3 and PLSCR3 in synaptosomes subjected to oxygen glucose deprivation (OGD) in the presence of tat or &#x003b4;V1-1. Immunoblots (representative images are shown at the top of each bar) were subjected to densitometric analyses, and levels of p-PLSCR3 were normalized against PLSCR3 for loading control is expressed as percentage of OGD in the presence of tat (control) group. Immunoblot of (C) p-Bad and (D) p-Bax in hippocampal homogenate of a rat subjected to 8 min of CA and 1 h of reperfusion. Levels of p-Bad and p-Bax normalized against total-Bad and total-Bax, respectively are expressed as percentage of sham operated (control) group. &#x0002a;, <italic>p</italic>&#x0003c;0.01 v. sham. &#x0002a;, <italic>p</italic>&#x0003c;0.05 v. sham or tat treated group.</p></caption><graphic xlink:href="pone.0022057.g002"/></fig></sec><sec id="s2d"><title>Protein Phosphatase 2A activation leads to release of cytochrome <italic>c</italic>
+</title><p>&#x003b4;PKC activates PP2A via phosphorylation <xref rid="pone.0022057-Zhang1" ref-type="bibr">[12]</xref> although it is unclear whether this is due to &#x003b4;PKC translocation to yet uncharacterized cytoskeletal receptors in close proximity to PP2A. PP2A has a number of known downstream targets, which we hypothesized could modulate cytochrome <italic>c</italic> release. To test this hypothesis, synaptosomes were subjected to 60 min of OGD in the presence of two protein phosphatase inhibitors in separate experiments: okadaic acid 0.1 nM) and calyculin (10 nM), which are potent inhibitors of both PP1 and PP2A <xref rid="pone.0022057-Liedtke1" ref-type="bibr">[18]</xref>. The K<sub>i</sub> of okadaic acid is 0.1 nM for PP2A vs. 10 nM for PP1, making it more specific for PP2A, whereas the K<sub>i</sub> of calyculin is 10-fold higher for PP1 as compared to PP2A <xref rid="pone.0022057-Liedtke1" ref-type="bibr">[18]</xref>, <xref rid="pone.0022057-Shenolikar1" ref-type="bibr">[19]</xref>. Okadaic acid lowered OGD-induced cytochrome <italic>c</italic> release by 52&#x00025; (n&#x0200a;=&#x0200a;5, p&#x0003c;0.05) (<xref ref-type="fig" rid="pone-0022057-g001">Figure 1C</xref>) as compared to vehicle OGD group. In contrast, calyculin lowered OGD-induced cytochrome <italic>c</italic> release by an insignificant 15&#x00025; (n&#x0200a;=&#x0200a;5) (<xref ref-type="fig" rid="pone-0022057-g001">Figure 1C</xref>) as compared to vehicle OGD group. These results suggest that cerebral ischemia-induced PP2A activation triggers cytochrome <italic>c</italic> release most likely via dephosphorylation of downstream targets.</p></sec><sec id="s2e"><title>PP2A activation leads to release of cytochrome <italic>c</italic> via Bad and Bax pathway</title><p>We next hypothesized that PP2A activation following &#x003b4;PKC-mediated phosphorylation could result in dephosphorylation of pro-apoptotic proteins Bad and Bax, both of which would be expected to result in increased cytochrome <italic>c</italic> release <xref rid="pone.0022057-Xin1" ref-type="bibr">[20]</xref>, <xref rid="pone.0022057-Chiang1" ref-type="bibr">[21]</xref>. The level of Bad and Bax phosphorylation was determined at 1 h of reperfusion in rat hippocampal homogenates subjected to CA (<xref ref-type="fig" rid="pone-0022057-g002">Figure 2C and D</xref>). We observed that the levels of phospho-Bad and phospho-Bax were decreased by 46&#x00025; (n&#x0200a;=&#x0200a;4, p&#x0003c;0.01) and 49&#x00025; (n&#x0200a;=&#x0200a;4, p&#x0003c;0.05), respectively as compared to sham-operated rats. To test whether the Bad and Bax de-phosphorylation observed <italic>in vivo</italic> resulted from &#x003b4;PKC induced phosphorylation/activation of PP2A, we tested the impact of synaptosomal OGD in the presence of either &#x003b4;V1-1 or the PP2A inhibitor okadaic acid (0.1 nM). Both inhibitors (&#x003b4;V1-1 and okadaic acid) decreased OGD-induced Bad de-phosphorylation (i.e. led to increased phosphorylation) by 170&#x00025; (n&#x0200a;=&#x0200a;5, p&#x0003c;0.05) and 101&#x00025; (n&#x0200a;=&#x0200a;5), respectively as compared to OGD in the presence of tat peptide group (<xref ref-type="fig" rid="pone-0022057-g003">Figure 3A</xref>). Calyculin had a less significant (54&#x00025;) effect on Bad de-phosphorylation. However, the effect of all inhibitors on Bax phosphorylation was marginal and insignificant (<xref ref-type="fig" rid="pone-0022057-g003">Figure 3B</xref>). These results suggest that &#x003b4;PKC activation following cerebral ischemia phosphorylates PP2A resulting in subsequent Bad, but not Bax, de-phosphorylation ultimately resulting in increased release of cytochrome <italic>c</italic>.</p><fig id="pone-0022057-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0022057.g003</object-id><label>Figure 3</label><caption><title>&#x003b4;PKC activation following OGD decreases Bad phosphorylation via PP2A activation.</title><p>A) Immunoblot of p-Bad in hippocampal synaptosomes subjected to oxygen glucose deprivation (OGD) in the presence of tat, &#x003b4;V1-1 or okadaic acid. Immunoblots (representative images are shown at top of each bar) were subjected to densitometric analyses, and levels of p-Bad were normalized against total-Bad for loading control is expressed as percentage of OGD in the presence of tat (control) group. B) Immunoblot of p-Bax in hippocampal synaptosomes subjected to oxygen glucose deprivation (OGD) in the presence of tat, &#x003b4;V1-1 or okadaic acid. Immunoblots (representative images are shown at top of each bar) were subjected to densitometric analyses, and levels of p-Bax were normalized against total-Bax for loading control is expressed as percentage of OGD in the presence of tat (control) group. &#x0002a; <italic>p</italic>&#x0003c;0.05 v. tat treated group.</p></caption><graphic xlink:href="pone.0022057.g003"/></fig></sec><sec id="s2f"><title>Additional substrates for &#x003b4;PKC within the mitochondria</title><p>Although it is established that &#x003b4;PKC initiates apoptosis via the mitochondrial pathway <xref rid="pone.0022057-Raval1" ref-type="bibr">[15]</xref>, <xref rid="pone.0022057-Humphries1" ref-type="bibr">[22]</xref>, <xref rid="pone.0022057-Leitges1" ref-type="bibr">[23]</xref>, until now only four mitochondrial substrates (d subunit of Fo-F1 ATPase, pyruvate dehydrogenase kinase -2, phospholipid scramblase 3 and acid sphingomyelinase) for &#x003b4;PKC have been identified. Since PLSCR3 did not appear to be an important mitochondrial target of translocated &#x003b4;PKC, we sought to identify additional potential mitochondrial substrates for &#x003b4;PKC. Additional phospho-proteins were identified in mitochondria isolated from synaptosomes treated with &#x003b4;PKC activator peptide (&#x003c8;&#x003b4;RACK) or tat carrier peptide (control). &#x003b4;PKC can translocate to membrane/particulate fraction by &#x003c8;&#x003b4;RACK induced &#x003b4;PKC activation <xref rid="pone.0022057-Chen1" ref-type="bibr">[24]</xref>. Using the Pro-Q Diamond phospho-protein gel stain, we noticed distinct bands of molecular weight &#x0223c;45, 30 and 7 kDa which were enriched by 48&#x00025; (p&#x0003c;0.05), 45&#x00025; (p&#x0003c;0.05) and 199&#x00025; (p&#x0003c;0.001) (n&#x0200a;=&#x0200a;4 each) with &#x003c8;&#x003b4;RACK treatment as compared to control (<xref ref-type="fig" rid="pone-0022057-g004">Figure 4</xref>). Protein identification was performed using MS/MS analysis which identified numerous mitochondrial proteins in the first two bands (&#x0223c;45 and 30 kDa) which are listed in <xref ref-type="table" rid="pone-0022057-t001">Table 1</xref>. Owing to technical challenges we were unable to identify proteins present in the third band (&#x0223c;7 kDa). This list serves as a source for future investigations regarding mitochondrial targets of &#x003b4;PKC activated by cerebral ischemia.</p><fig id="pone-0022057-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0022057.g004</object-id><label>Figure 4</label><caption><title>&#x003b4;PKC induced increased protein phosphorylation.</title><p>Mitochondria were isolated from hippocampal synaptosomes treated with tat or &#x003c8;&#x003b4;RACK. Mitochondrial proteins were separated on a 4&#x02013;20&#x00025; polyacrylamide gel. (A) Images of gels stained with ProQ diamond or Coomassie blue to detect phosphoproteins or total proteins, respectively. (B) Gel images were subjected to densitometric analysis for 5 bands (50 kDa, 45 kDa, 30 kDa, 25 kDa, and 7 kDa). Phosphoprotein signal was normalized against Coomassie blue stained gel signal. The results are expressed as percent of tat treated group. &#x0002a;, p&#x0003c;0.05 v. tat treated group.</p></caption><graphic xlink:href="pone.0022057.g004"/></fig><table-wrap id="pone-0022057-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0022057.t001</object-id><label>Table 1</label><caption><title>List of proteins identified in the proteomics study.</title></caption><alternatives><graphic id="pone-0022057-t001-1" xlink:href="pone.0022057.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Accession NCBI NR</td><td align="left" rowspan="1" colspan="1">Protein</td><td align="left" rowspan="1" colspan="1">MW kDa</td><td align="left" rowspan="1" colspan="1">Peptides identified</td><td align="left" rowspan="1" colspan="1">Score Xcalibur</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Band 45 kDa</bold>
+</td><td align="left" rowspan="1" colspan="1">55741544</td><td align="left" rowspan="1" colspan="1">Ubiquinol cytochrome c reductase core protein 2</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">100.19</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">58865384</td><td align="left" rowspan="1" colspan="1">NADH dehydrogenase (ubiquinone) Fe-S protein 2</td><td align="left" rowspan="1" colspan="1">53</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">70.26</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">60678254</td><td align="left" rowspan="1" colspan="1">Creatine kinase, mitochondrial 1, ubiquitous</td><td align="left" rowspan="1" colspan="1">47</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">40.24</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">158749584</td><td align="left" rowspan="1" colspan="1">Succinate-Coenzyme A ligase, beta subunit</td><td align="left" rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">40.21</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">57657</td><td align="left" rowspan="1" colspan="1">Pyruvate dehydrogenase E1 alpha form 1 subunit</td><td align="left" rowspan="1" colspan="1">43</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">40.19</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">54792127</td><td align="left" rowspan="1" colspan="1">Mitochondrial ATP synthase beta subunit</td><td align="left" rowspan="1" colspan="1">56</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">20.17</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">149029485</td><td align="left" rowspan="1" colspan="1">ATP synthase, alpha subunit,</td><td align="left" rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">20.15</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">18543177</td><td align="left" rowspan="1" colspan="1">Citrate synthase</td><td align="left" rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">10.15</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Band 30 kDa</bold>
+</td><td align="left" rowspan="1" colspan="1">32189350</td><td align="left" rowspan="1" colspan="1">Solute carrier family 25, member 5</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1">100.22</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">6679299</td><td align="left" rowspan="1" colspan="1">Prohibitin</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">80.27</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">47718004</td><td align="left" rowspan="1" colspan="1">Slc25a3 protein</td><td align="left" rowspan="1" colspan="1">40</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">60.20</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1580888</td><td align="left" rowspan="1" colspan="1">2116232A 2-oxoglutarate carrier protein</td><td align="left" rowspan="1" colspan="1">34</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">52.24</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">157817227</td><td align="left" rowspan="1" colspan="1">NADH dehydrogenase (ubiquinone) Fe-S protein 3</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">40.21</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">9507245</td><td align="left" rowspan="1" colspan="1">Tyrosine 3-monooxygenase</td><td align="left" rowspan="1" colspan="1">28</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">20.24</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">157817027</td><td align="left" rowspan="1" colspan="1">Coiled-coil-helix-coiled-coil-helix domain containing 3</td><td align="left" rowspan="1" colspan="1">26</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">20.19</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">59808764</td><td align="left" rowspan="1" colspan="1">Nipsnap1 protein</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">20.18</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">51092268</td><td align="left" rowspan="1" colspan="1">NADH dehydrogenase (ubiquinone) flavoprotein 2</td><td align="left" rowspan="1" colspan="1">27</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">20.17</td></tr><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">89573817</td><td align="left" rowspan="1" colspan="1">Succinate dehydrogenase complex subunit B</td><td align="left" rowspan="1" colspan="1">27</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">20.13</td></tr></tbody></table></alternatives></table-wrap></sec></sec><sec id="s3"><title>Discussion</title><p>The precise signaling pathways that lead to cyotochrome <italic>c</italic> release from mitochondria after ischemia have not been fully elucidated. In the present study, we demonstrate that cerebral ischemia induces mitochondrial translocation of &#x003b4;PKC associated with cytochrome <italic>c</italic> release and that inhibition of &#x003b4;PKC translocation prevents this pro-apoptotic event. We next evaluated 4 distinct mechanistic hypotheses to explain this finding as summarized in <xref ref-type="fig" rid="pone-0022057-g005">Figure 5</xref>.</p><fig id="pone-0022057-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0022057.g005</object-id><label>Figure 5</label><caption><title>Schematic diagram of the mechanism by which cerebral ischemia-induced &#x003b4;PKC activation leads to cytochrome <italic>c</italic> release.</title><p>Post-ischemic &#x003b4;PKC activation leads to activation of PP2A. Activated PP2A dephosphorylates Bad, but not Bax, which in turn release cytochrome <italic>c</italic> from mitochondria. In addition, &#x003b4;PKC can also contribute to mitochondrial dysfunction by phosphorylating other mitochondrial target proteins.</p></caption><graphic xlink:href="pone.0022057.g005"/></fig><p>We had initially hypothesized that activated mitochondrial &#x003b4;PKC would phosphorylate PLSCR3 thereby increasing outer membrane cardiolipin which would recruit t-Bid and subsequently Bax and Bak, permitting pore formation and cytochrome <italic>c</italic> extrusion <xref rid="pone.0022057-Gonzalvez1" ref-type="bibr">[10]</xref>. However, our results do not support this mechanism. Rather, we have identified a number of additional mitochondrial targets of &#x003b4;PKC translocation/activation which may explain the mechanism of cytochrome <italic>c</italic> release and apoptosis. Since &#x003b4;PKC is capable of targeting additional proteins outside the mitochondria, we chose to examine a pathway known to be regulated in neurons by &#x003b4;PKC and important in the control of apoptosis. Our results demonstrate that cerebral ischemia dephosphorylates Bad and Bax, events that promote apoptosis through formation of a mitochondrial pore to permit the release of cytochrome <italic>c</italic>. We demonstrate that the dephosphorylation of Bad but not Bax appears to be under the control of &#x003b4;PKC and PP2A activation.</p><p>In the present study, we used asphyxial CA in rats to model cerebral ischemia and demonstrated at each step that <italic>in vitro</italic> OGD using the synaptosome preparation recapitulates our <italic>in vivo</italic> results. Synaptosomes are considered to be the simplest possible anucleated, neuronally derived mammalian &#x0201c;mini-cell&#x0201d; (see review for details <xref rid="pone.0022057-Nicholls1" ref-type="bibr">[25]</xref>). Synaptic mitochondria play a significant role in neurotransmitter release by regulation of cytosolic calcium <xref rid="pone.0022057-David1" ref-type="bibr">[26]</xref> and thus would be expected to be highly susceptible to cerebral ischemia/reperfusion. In the present study, we observed that &#x003b4;PKC translocated to the synaptic mitochondria with <italic>in vitro</italic> ischemia and that this process could be efficiently inhibited with &#x003b4;V1-1. Since synaptic mitochondria are neuronally derived (excluding mitochondria from glia and neuronal body), we are limited in our ability to extrapolate our findings to the whole brain.</p><p>In earlier studies we reported that &#x003b4;PKC is activated (translocated from soluble to particulate fraction) following cerebral ischemia <xref rid="pone.0022057-Bright1" ref-type="bibr">[14]</xref>, <xref rid="pone.0022057-Raval1" ref-type="bibr">[15]</xref>. In the present study, we demonstrate that mitochondria are one of the particulate fractions to which &#x003b4;PKC translocates following cerebral ischemia. This translocation may be initiated by the formation of reactive oxygen species, reactive nitrogen species and diacylglycerol formation <xref rid="pone.0022057-PerezPinzon3" ref-type="bibr">[27]</xref>. Non-specific translocation of &#x003b4;PKC to mitochondria as a result of the isolation procedure may be ruled out due to the presence of lower levels of &#x003b4;PKC in shams <italic>in vivo</italic> and control synaptosomes <italic>in vitro</italic>. Oxidative stress-induced translocation of &#x003b4;PKC to mitochondria has been shown to be associated with loss of mitochondrial membrane potential and mitochondrial cytochrome <italic>c</italic> release <xref rid="pone.0022057-Majumder1" ref-type="bibr">[8]</xref>, <xref rid="pone.0022057-Bouwman1" ref-type="bibr">[28]</xref>, <xref rid="pone.0022057-Harada1" ref-type="bibr">[29]</xref>, <xref rid="pone.0022057-Lothstein1" ref-type="bibr">[30]</xref>. In the heart, ischemia/reperfusion results in diminished mitochondrial respiration which is restored by reperfusion in the presence of &#x003b4;PKC inhibitor. This contention is supported by our earlier study where we found that suppressed rate of respiration in presence of complex IV substrates at early reperfusion (30 min) following global cerebral ischemia was due to the release of mitochondrial cytochrome <italic>c</italic>
+<xref rid="pone.0022057-PerezPinzon2" ref-type="bibr">[4]</xref>. We observed similar results using a rat model of asphyxial cardiac arrest, where we found that mitochondrial cytochrome <italic>c</italic> was released at 1 h of reperfusion following 8 min of cardiac arrest <xref rid="pone.0022057-Raval1" ref-type="bibr">[15]</xref>. The present study thus provides potential targets for &#x003b4;PKC whose translocation to mitochondria early after ischemia is associated with mitochondrial dysfunction and mitochondrial cytochrome <italic>c</italic> release.</p><p>Since we observed that OGD-induced cytochrome <italic>c</italic> release was prevented by inhibition of &#x003b4;PKC, we explored possible pathways by which cerebral ischemia-induced &#x003b4;PKC activation led to the release of cytochrome <italic>c</italic>. First we determined whether &#x003b4;PKC exerted its effect by direct interaction with mitochondrial targets. Our first candidate was the phospholipid scramblase &#x02013; 3 (PLSCR3), a known mitochondrial target of &#x003b4;PKC phosphorylation <xref rid="pone.0022057-Liu1" ref-type="bibr">[31]</xref>, <xref rid="pone.0022057-Liu2" ref-type="bibr">[32]</xref>. PLSCR3, a member of phospholipid scramblase family of proteins, transports cardiolipin from the inner to the outer membrane of the mitochondria. Cytochrome <italic>c</italic> is bound to the outer surface of the inner mitochondrial membrane by associating with cardiolipin <xref rid="pone.0022057-McMillin1" ref-type="bibr">[33]</xref>. PLSCR3 had also been identified as a regulator of cardiolipin <italic>de novo</italic> biosynthesis <xref rid="pone.0022057-Van1" ref-type="bibr">[34]</xref>. Previous studies demonstrated that cardiolipin and cytochrome <italic>c</italic> interaction is a critical factor determining the amount of cytochrome <italic>c</italic> release during apoptotic stimuli <xref rid="pone.0022057-Iverson1" ref-type="bibr">[35]</xref>, <xref rid="pone.0022057-Ott1" ref-type="bibr">[36]</xref>. It is possible that following cerebral ischemia, PLSCR3, modified by &#x003b4;PKC, may result in impaired cardiolipin &#x02013; cytochrome <italic>c</italic> interaction leading to cytochrome <italic>c</italic> release.</p><p>We observed that PLSCR3 phosphorylation was indeed increased following <italic>in vivo</italic> cerebral ischemia. However, in our synaptosomal model, we were unable to block OGD-induced increase in PLSCR3 phosphorylation by &#x003b4;V1-1 (&#x003b4;PKC-specific inhibitor peptide) at the same dose that inhibited cytochrome <italic>c</italic> release. Although previous studies concluded that PLSCR3 can be phosphorylated by &#x003b4;PKC; however, these studies used either general PKC activators (phorbol ester) or CMV promoter-driven &#x003b4;PKC overexpression (supra-physiological levels of &#x003b4;PKC) <xref rid="pone.0022057-Liu1" ref-type="bibr">[31]</xref>, <xref rid="pone.0022057-Liu2" ref-type="bibr">[32]</xref>. No information is available on the effect of &#x003b4;PKC on PLSCR3 phosphorylation under physiological levels of &#x003b4;PKC or specific activation of &#x003b4;PKC without affecting other PKC isoforms. It is plausible that &#x003b4;PKC phosphorylates PLSCR3 in other cell types or neuronal compartments outside the synaptosome, as suggested by these studies, or that other PKC isoforms participate in PLSCR3 phosphorylation with ischemia. Our results suggest that PLSCR3 phosphorylation does occur in hippocampus <italic>in vivo</italic> but that &#x003b4;PKC inhibition does not block this process based on our <italic>in vitro</italic> data. Limitations exist when extrapolating an <italic>in vitro</italic> model results to <italic>in vivo</italic> findings, even when the <italic>in vitro</italic> model correlates well with the <italic>in vivo</italic> findings as we have already demonstrated.</p><p>Because &#x003b4;PKC-induced cytochrome <italic>c</italic> release was independent of mitochondrial PLSCR3 phosphorylation, we next examined other mitochondrial targets for &#x003b4;PKC phosphorylation. We demonstrated that the phospho-protein signal of three protein bands were increased in mitochondria isolated from synaptosomes treated with &#x003c8;&#x003b4;RACK. Proteomics analyses of these bands revealed the presence of the following phosphoproteins: ubiquinol cytochrome <italic>c</italic> reductase core protein 2, Fe-S protein 2, 3 and flavoprotein 2 of NADH dehydrogenase, creatine kinase, beta subunit of succinate-coenzyme A ligase, E1 alpha form 1 subunit of pyruvate dehydrogenase (PDH), alpha and beta subunits of ATP synthase, citrate synthase, and prohibitin <xref rid="pone.0022057-Aponte1" ref-type="bibr">[37]</xref>, <xref rid="pone.0022057-Deng1" ref-type="bibr">[38]</xref>.</p><p>An earlier study using <italic>in vivo</italic> models of cardiac ischemia/reperfusion demonstrated that &#x003b4;PKC activation (translocation to mitochondria) was responsible for decreased pyruvate dehydrogenase (PDH) activity following ischemia/reperfusion <xref rid="pone.0022057-Churchill2" ref-type="bibr">[39]</xref>. Their results support the hypothesis that activated &#x003b4;PKC interacts with and phosphorylates pyruvate dehydrogenase kinase (PDK)-2, which in turn phosphorylates the alphaE1 subunit of PDH, resulting in lower PDH activity. Based on our results and the earlier study, we hypothesize that the E1 alpha subunit of PDH is phosphorylated after ischemia/reperfusion-induced &#x003b4;PKC activation resulting in lower PDH activity in the brain <xref rid="pone.0022057-Bogaert1" ref-type="bibr">[40]</xref>, <xref rid="pone.0022057-Lai1" ref-type="bibr">[41]</xref>, <xref rid="pone.0022057-Zaidan1" ref-type="bibr">[42]</xref>. Earlier studies demonstrated that ischemia/reperfusion resulted in lower ATP synthase and citrate synthase activities in the brain <xref rid="pone.0022057-Allen1" ref-type="bibr">[43]</xref>, <xref rid="pone.0022057-Clarkson1" ref-type="bibr">[44]</xref>, <xref rid="pone.0022057-Iijima1" ref-type="bibr">[45]</xref>. It is possible that ischemia/reperfusion-induced phosphorylation of ATP synthase (alpha and/or beta subunit) and citrate synthase via &#x003b4;PKC activation may be responsible for lower activities of these two enzymes. However, further investigation is required to support this hypothesis.</p><p>Our results suggest that prohibitin could be one of the mitochondrial substrates for &#x003b4;PKC <xref rid="pone.0022057-Osman1" ref-type="bibr">[46]</xref>. Prohibitins are present in inner membrane of the mitochondria and forms multimeric ring complexes. Prohibits regulates mitochondrial fusion by regulating processing of the dynamin-like GTPase OPA1 <xref rid="pone.0022057-Osman1" ref-type="bibr">[46]</xref>, <xref rid="pone.0022057-Strub1" ref-type="bibr">[47]</xref>. It is possible that &#x003b4;PKC-induced prohibitin phosphorylation may be responsible for cerebral ischemia-induced mitochondrial fission and suppressed mitochondrial respiration.</p><p>Mitochondrial cytochrome <italic>c</italic> release and apoptosis are also modulated by proteins located outside the mitochondrion. A prime example are the bcl-2 family proteins such as Bad and Bax whose activation and mitochondrial translocation are shown to induce cytochrome <italic>c</italic> release following apoptotic stimuli after cerebral ischemia <xref rid="pone.0022057-Abe1" ref-type="bibr">[48]</xref>, <xref rid="pone.0022057-Cao1" ref-type="bibr">[49]</xref>, <xref rid="pone.0022057-Chan1" ref-type="bibr">[50]</xref>, <xref rid="pone.0022057-Hetz1" ref-type="bibr">[51]</xref>, <xref rid="pone.0022057-Liu3" ref-type="bibr">[52]</xref>, <xref rid="pone.0022057-Miyawaki1" ref-type="bibr">[53]</xref>. One potential pathway by which these molecules are activated is by de-phosphorylation via phosphatase <xref rid="pone.0022057-Xin1" ref-type="bibr">[20]</xref>, <xref rid="pone.0022057-Chiang1" ref-type="bibr">[21]</xref> such as PP2A. Zhang and colleagues demonstrated that PP2A activity is enhanced up to 3.4 fold following cerebral ischemia <xref rid="pone.0022057-Zhang2" ref-type="bibr">[54]</xref>. PP2A can also be activated by &#x003b4;PKC-induced phosphorylation <xref rid="pone.0022057-Zhang1" ref-type="bibr">[12]</xref>. PP2A is present in cytosol, membrane, cytoskeleton, and nuclear compartments, while &#x003b4;PKC is present in cytosol and translocates to particulate/membrane/cytoskeleton fraction following activation <xref rid="pone.0022057-McCright1" ref-type="bibr">[55]</xref>, <xref rid="pone.0022057-Truttmann1" ref-type="bibr">[56]</xref>, <xref rid="pone.0022057-Strack1" ref-type="bibr">[57]</xref>. In which sub-cellular compartments &#x003b4;PKC interacts with PP2A is not known. In the present study, we were able to inhibit cerebral ischemia-induced Bad dephosphorylation as well as cytochrome <italic>c</italic> release by inhibiting &#x003b4;PKC or PP2A but not PP1 during ischemia. The slight inhibition observed with calyculin may be the result of PP2A effects, although 10-fold less than PP1. Our findings, therefore, support our proposed mechanism that &#x003b4;PKC activation via phosphorylation of PP2A results in cytochrome <italic>c</italic> release through the dephosphorylation of Bad.</p><p>In conclusion, our study demonstrated that &#x003b4;PKC translocated to mitochondria following cerebral ischemia/OGD. Post-ischemic activation of &#x003b4;PKC was not responsible for increased PLSCR3 phosphorylation but may target other mitochondrial proteins resulting in mitochondrial dysfunction and/or cytochrome <italic>c</italic> release. &#x003b4;PKC activation following cerebral ischemia led to the release of mitochondrial cytochrome <italic>c</italic> via the PP2A &#x02013; Bad pathway.</p></sec><sec sec-type="materials|methods" id="s4"><title>Materials and Methods</title><sec id="s4a"><title>Animals and Induction of cardiac arrest</title><p>All animal procedures were carried out in accordance with the Guide for the Care and Use of Laboratory Animals published by the National Institutes of Health and approved by the Animal Care and Use Committee of the University of Miami (protocol # 09-050). For experiments with hippocampus from na&#x000ef;ve animals, male Sprague Dawley rats weighing 250&#x02013;300 g were used. They were sacrificed under isoflurane anesthesia and the hippocampi were dissected out for further analyses. Asphyxial cardiac arrest was induced as described earlier <xref rid="pone.0022057-Dave1" ref-type="bibr">[58]</xref>, <xref rid="pone.0022057-Katz1" ref-type="bibr">[59]</xref>. Head and body temperature, and blood gases were maintained in the normal range throughout the experiment. Sham animals were exposed to isoflurane identical to the experimental groups. Rats were sacrificed at 1 h post-ROSC and the hippocampus was dissected out and used for further analysis.</p></sec><sec id="s4b"><title>Preparation of homogenate and isolation of mitochondria from rat hippocampus</title><p>Hippocampal mitochondria were isolated as described earlier with minor modifications <xref rid="pone.0022057-PerezPinzon2" ref-type="bibr">[4]</xref>. Total mitochondria were isolated from the last pellet using nitrogen compression <xref rid="pone.0022057-Dave2" ref-type="bibr">[60]</xref>. All mitochondrial isolation procedures were carried out at 4&#x000b0;C. Hippocampal synaptosomes were isolated as described earlier <xref rid="pone.0022057-Dave2" ref-type="bibr">[60]</xref>, <xref rid="pone.0022057-Dunkley1" ref-type="bibr">[61]</xref>. Percoll density gradient was used to separate synaptosomes. Oxygen glucose deprivation (an <italic>in vitro</italic> model of ischemia) was induced by incubating synaptosomes in glucose deprived medium as described earlier <xref rid="pone.0022057-Dave2" ref-type="bibr">[60]</xref>, <xref rid="pone.0022057-Seyedi1" ref-type="bibr">[62]</xref>. During standardization, we induced OGD of 30, 60 and 90 min and measured cytochrome <italic>c</italic>. We used 60 min of OGD for all experiments since cytochrome <italic>c</italic> release reached plateau at 60 min (80&#x00025;, 114&#x00025; and 110&#x00025; at 30, 60 and 90 min of OGD, respectively). At the end of 60 min of OGD, mitochondria were isolated from synaptosomes using a nitrogen bomb <xref rid="pone.0022057-Brown1" ref-type="bibr">[63]</xref>. Control synaptosomes were incubated in glucose medium containing bubbled with air at 30&#x000b0;C.</p></sec><sec id="s4c"><title>
+<italic>Ex vivo</italic> &#x003b4;PKC activation and inhibition</title><p>Inhibition of &#x003b4;PKC was induced by pre-incubating synaptosomes with either tat carrier peptide or &#x003b4;V1-1 (&#x003b4;PKC inhibitor) (1 &#x000b5;M final concentration) for 15 min at room temperature (KAI Pharmaceuticals Inc., South San Francisco, CA, USA) <xref rid="pone.0022057-Dorn1" ref-type="bibr">[64]</xref>, <xref rid="pone.0022057-Schwarze1" ref-type="bibr">[65]</xref>. Tat carrier peptide or &#x003b4;V1-1 was also present during OGD. Activation of &#x003b4;PKC was induced by pre-incubating synaptosomes with either tat carrier peptide or &#x003c8;&#x003b4;RACK (&#x003b4;PKC activator) (1 &#x000b5;M final concentration) for 15 min at room temperature.</p></sec><sec id="s4d"><title>Immunoprecipitation and Western blotting</title><p>Immunoprecipitation was carried out using rabbit polyclonal anti-PLS3 (Imgenex, San Diego, CA, USA) or rabbit polyclonal anti- Bax (Santa Cruz biotechnology, Santa Cruz, CA, USA) and protein A sepharose beads (Sigma, St. Louis, MO, USA) as per manufacturer's instructions. The resulting immunoprecipitate was used for immunoblotting (see below) with subsequent probing using mouse monoclonal anti-phosphothreonine (Cell Signaling Technology, Danvers, MA, USA) with normalization to total protein levels using the primary antibody. Antibodies used were rabbit polyclonal anti-&#x003b4;PKC (Calbiochem, Gibbstown, NJ, USA), mouse monoclonal anti-cytochrome <italic>c</italic> (BD Pharmingen, San Jose, CA, USA), mouse monoclonal anti-cytochrome <italic>c</italic> oxidase subunit IV (Invitrogen, Carlsbad, CA, USA), or mouse monoclonal anti-&#x003b2;-actin (Sigma, St. Louis, MO, USA) antibodies and species specific secondary antibodies. The digitized immunoblots were subjected to densitometric analyses <xref rid="pone.0022057-Dave2" ref-type="bibr">[60]</xref>.</p></sec><sec id="s4e"><title>Phosphoprotein staining, sample extraction from gel, and mass spectrometry</title><p>Proteins were separated from mitochondrial samples on a 4&#x02013;20&#x00025; acrylamide gel (Invitrogen Corporation, Carlsbad, CA). Phosphoproteins in the gradient gel were identified using Pro-Q Diamond Phosphoprotein Gel Stain (Molecular Probes Inc., Carlsbad, CA) as per manufacturer's instructions and subsequently stained with Coomassie blue (Pierce Biotechnology, Rockford, IL) to confirm equal protein loading. For protein identification, gel slices were excised and digested <italic>in situ</italic> with sequencing-grade trypsin (Promega Biosciences, Inc., Madison, WI). Samples were then processed for protein identification as described earlier <xref rid="pone.0022057-Sloley1" ref-type="bibr">[66]</xref>.</p></sec><sec id="s4f"><title>Statistical analysis</title><p>The results are expressed as mean &#x000b1; SEM. Statistical significance was determined with Student's t-test when there were two experimental groups. For more than two groups, statistical evaluation of the data was performed using ANOVA test, followed by Dunnett's post hoc test with <italic>p</italic>&#x0003c;0.05 considered significant.</p></sec></sec></body><back><ack><p>Tat and &#x003b4;V1-1 were purchased from KAI Pharmaceuticals Inc., South San Francisco, CA. We thank Dr. Brant Watson for critical reading of the manuscript.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This study was supported by National Institutes of Health grants NS34773, NS045676 and NS054147 (MAPP), and AHA grant 0735106N (KRD). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0022057-Fujimura1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fujimura</surname><given-names>M</given-names></name><name><surname>Morita-Fujimura</surname><given-names>Y</given-names></name><name><surname>Murakami</surname><given-names>K</given-names></name><name><surname>Kawase</surname><given-names>M</given-names></name><name><surname>Chan</surname><given-names>PH</given-names></name></person-group>
+<year>1998</year>
+<article-title>Cytosolic redistribution of cytochrome c after transient focal cerebral ischemia in rats.</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>18</volume>
+<fpage>1239</fpage>
+<lpage>1247</lpage>
+<pub-id pub-id-type="pmid">9809513</pub-id></element-citation></ref><ref id="pone.0022057-PerezPinzon1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perez-Pinzon</surname><given-names>MA</given-names></name><name><surname>Xu</surname><given-names>GP</given-names></name><name><surname>Born</surname><given-names>J</given-names></name><name><surname>Lorenzo</surname><given-names>J</given-names></name><name><surname>Busto</surname><given-names>R</given-names></name><etal/></person-group>
+<year>1999</year>
+<article-title>Cytochrome C is released from mitochondria into the cytosol after cerebral anoxia or ischemia.</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>19</volume>
+<fpage>39</fpage>
+<lpage>43</lpage>
+<pub-id pub-id-type="pmid">9886353</pub-id></element-citation></ref><ref id="pone.0022057-Fiskum1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fiskum</surname><given-names>G</given-names></name><name><surname>Murphy</surname><given-names>AN</given-names></name><name><surname>Beal</surname><given-names>MF</given-names></name></person-group>
+<year>1999</year>
+<article-title>Mitochondria in neurodegeneration: acute ischemia and chronic neurodegenerative diseases.</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>19</volume>
+<fpage>351</fpage>
+<lpage>369</lpage>
+<pub-id pub-id-type="pmid">10197505</pub-id></element-citation></ref><ref id="pone.0022057-PerezPinzon2"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perez-Pinzon</surname><given-names>MA</given-names></name><name><surname>Basit</surname><given-names>A</given-names></name><name><surname>Dave</surname><given-names>KR</given-names></name><name><surname>Busto</surname><given-names>R</given-names></name><name><surname>Veauvy</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Effect of the first window of ischemic preconditioning on mitochondrial dysfunction following global cerebral ischemia.</article-title>
+<source>Mitochondrion</source>
+<volume>2</volume>
+<fpage>181</fpage>
+<lpage>189</lpage>
+<pub-id pub-id-type="pmid">16120319</pub-id></element-citation></ref><ref id="pone.0022057-Niizuma1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Niizuma</surname><given-names>K</given-names></name><name><surname>Endo</surname><given-names>H</given-names></name><name><surname>Chan</surname><given-names>PH</given-names></name></person-group>
+<year>2009</year>
+<article-title>Oxidative stress and mitochondrial dysfunction as determinants of ischemic neuronal death and survival.</article-title>
+<source>J Neurochem</source>
+<volume>109</volume>
+<issue>Suppl 1</issue>
+<fpage>133</fpage>
+<lpage>138</lpage>
+<pub-id pub-id-type="pmid">19393019</pub-id></element-citation></ref><ref id="pone.0022057-Endo1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Endo</surname><given-names>H</given-names></name><name><surname>Kamada</surname><given-names>H</given-names></name><name><surname>Nito</surname><given-names>C</given-names></name><name><surname>Nishi</surname><given-names>T</given-names></name><name><surname>Chan</surname><given-names>PH</given-names></name></person-group>
+<year>2006</year>
+<article-title>Mitochondrial translocation of p53 mediates release of cytochrome c and hippocampal CA1 neuronal death after transient global cerebral ischemia in rats.</article-title>
+<source>J Neurosci</source>
+<volume>26</volume>
+<fpage>7974</fpage>
+<lpage>7983</lpage>
+<pub-id pub-id-type="pmid">16870742</pub-id></element-citation></ref><ref id="pone.0022057-Brodie1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brodie</surname><given-names>C</given-names></name><name><surname>Blumberg</surname><given-names>PM</given-names></name></person-group>
+<year>2003</year>
+<article-title>Regulation of cell apoptosis by protein kinase c delta.</article-title>
+<source>Apoptosis</source>
+<volume>8</volume>
+<fpage>19</fpage>
+<lpage>27</lpage>
+<pub-id pub-id-type="pmid">12510148</pub-id></element-citation></ref><ref id="pone.0022057-Majumder1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Majumder</surname><given-names>PK</given-names></name><name><surname>Mishra</surname><given-names>NC</given-names></name><name><surname>Sun</surname><given-names>X</given-names></name><name><surname>Bharti</surname><given-names>A</given-names></name><name><surname>Kharbanda</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Targeting of protein kinase C delta to mitochondria in the oxidative stress response.</article-title>
+<source>Cell Growth Differ</source>
+<volume>12</volume>
+<fpage>465</fpage>
+<lpage>470</lpage>
+<pub-id pub-id-type="pmid">11571229</pub-id></element-citation></ref><ref id="pone.0022057-He1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>Y</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Grossman</surname><given-names>D</given-names></name><name><surname>Durrant</surname><given-names>D</given-names></name><name><surname>Sweatman</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Phosphorylation of mitochondrial phospholipid scramblase 3 by protein kinase C-delta induces its activation and facilitates mitochondrial targeting of tBid.</article-title>
+<source>J Cell Biochem</source>
+<volume>101</volume>
+<fpage>1210</fpage>
+<lpage>1221</lpage>
+<pub-id pub-id-type="pmid">17226776</pub-id></element-citation></ref><ref id="pone.0022057-Gonzalvez1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gonzalvez</surname><given-names>F</given-names></name><name><surname>Pariselli</surname><given-names>F</given-names></name><name><surname>Dupaigne</surname><given-names>P</given-names></name><name><surname>Budihardjo</surname><given-names>I</given-names></name><name><surname>Lutter</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>tBid interaction with cardiolipin primarily orchestrates mitochondrial dysfunctions and subsequently activates Bax and Bak.</article-title>
+<source>Cell Death Differ</source>
+<volume>12</volume>
+<fpage>614</fpage>
+<lpage>626</lpage>
+<pub-id pub-id-type="pmid">15818416</pub-id></element-citation></ref><ref id="pone.0022057-Ghibelli1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ghibelli</surname><given-names>L</given-names></name><name><surname>Diederich</surname><given-names>M</given-names></name></person-group>
+<year>2010</year>
+<article-title>Multistep and multitask Bax activation.</article-title>
+<source>Mitochondrion</source>
+<volume>10</volume>
+<fpage>604</fpage>
+<lpage>613</lpage>
+<pub-id pub-id-type="pmid">20709625</pub-id></element-citation></ref><ref id="pone.0022057-Zhang1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>D</given-names></name><name><surname>Kanthasamy</surname><given-names>A</given-names></name><name><surname>Yang</surname><given-names>Y</given-names></name><name><surname>Anantharam</surname><given-names>V</given-names></name><name><surname>Kanthasamy</surname><given-names>A</given-names></name></person-group>
+<year>2007</year>
+<article-title>Protein kinase C delta negatively regulates tyrosine hydroxylase activity and dopamine synthesis by enhancing protein phosphatase-2A activity in dopaminergic neurons.</article-title>
+<source>J Neurosci</source>
+<volume>27</volume>
+<fpage>5349</fpage>
+<lpage>5362</lpage>
+<pub-id pub-id-type="pmid">17507557</pub-id></element-citation></ref><ref id="pone.0022057-Gardai1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gardai</surname><given-names>SJ</given-names></name><name><surname>Whitlock</surname><given-names>BB</given-names></name><name><surname>Xiao</surname><given-names>YQ</given-names></name><name><surname>Bratton</surname><given-names>DB</given-names></name><name><surname>Henson</surname><given-names>PM</given-names></name></person-group>
+<year>2004</year>
+<article-title>Oxidants inhibit ERK/MAPK and prevent its ability to delay neutrophil apoptosis downstream of mitochondrial changes and at the level of XIAP.</article-title>
+<source>J Biol Chem</source>
+<volume>279</volume>
+<fpage>44695</fpage>
+<lpage>44703</lpage>
+<pub-id pub-id-type="pmid">15292176</pub-id></element-citation></ref><ref id="pone.0022057-Bright1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bright</surname><given-names>R</given-names></name><name><surname>Raval</surname><given-names>AP</given-names></name><name><surname>Dembner</surname><given-names>JM</given-names></name><name><surname>Perez-Pinzon</surname><given-names>MA</given-names></name><name><surname>Steinberg</surname><given-names>GK</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Protein kinase C delta mediates cerebral reperfusion injury in vivo.</article-title>
+<source>J Neurosci</source>
+<volume>24</volume>
+<fpage>6880</fpage>
+<lpage>6888</lpage>
+<pub-id pub-id-type="pmid">15295022</pub-id></element-citation></ref><ref id="pone.0022057-Raval1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Raval</surname><given-names>AP</given-names></name><name><surname>Dave</surname><given-names>KR</given-names></name><name><surname>Prado</surname><given-names>R</given-names></name><name><surname>Katz</surname><given-names>LM</given-names></name><name><surname>Busto</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Protein kinase C delta cleavage initiates an aberrant signal transduction pathway after cardiac arrest and oxygen glucose deprivation.</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>25</volume>
+<fpage>730</fpage>
+<lpage>741</lpage>
+<pub-id pub-id-type="pmid">15716854</pub-id></element-citation></ref><ref id="pone.0022057-Zablocka1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zablocka</surname><given-names>B</given-names></name><name><surname>Gajkowska</surname><given-names>B</given-names></name><name><surname>Czechmanska</surname><given-names>T</given-names></name><name><surname>Domanska-Janik</surname><given-names>K</given-names></name></person-group>
+<year>2001</year>
+<article-title>Isoforms of protein kinase C in postsynaptic densities after cerebral ischemia.</article-title>
+<source>Brain Res</source>
+<volume>889</volume>
+<fpage>105</fpage>
+<lpage>111</lpage>
+<pub-id pub-id-type="pmid">11166693</pub-id></element-citation></ref><ref id="pone.0022057-Churchill1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Churchill</surname><given-names>EN</given-names></name><name><surname>Szweda</surname><given-names>LI</given-names></name></person-group>
+<year>2005</year>
+<article-title>Translocation of deltaPKC to mitochondria during cardiac reperfusion enhances superoxide anion production and induces loss in mitochondrial function.</article-title>
+<source>Arch Biochem Biophys</source>
+<volume>439</volume>
+<fpage>194</fpage>
+<lpage>199</lpage>
+<pub-id pub-id-type="pmid">15963450</pub-id></element-citation></ref><ref id="pone.0022057-Liedtke1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liedtke</surname><given-names>CM</given-names></name><name><surname>Wang</surname><given-names>X</given-names></name><name><surname>Smallwood</surname><given-names>ND</given-names></name></person-group>
+<year>2005</year>
+<article-title>Role for protein phosphatase 2A in the regulation of Calu-3 epithelial Na&#x0002b;-K&#x0002b;-2Cl-, type 1 co-transport function.</article-title>
+<source>J Biol Chem</source>
+<volume>280</volume>
+<fpage>25491</fpage>
+<lpage>25498</lpage>
+<pub-id pub-id-type="pmid">15899883</pub-id></element-citation></ref><ref id="pone.0022057-Shenolikar1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shenolikar</surname><given-names>S</given-names></name></person-group>
+<year>1994</year>
+<article-title>Protein serine/threonine phosphatases&#x02013;new avenues for cell regulation.</article-title>
+<source>Annu Rev Cell Biol</source>
+<volume>10</volume>
+<fpage>55</fpage>
+<lpage>86</lpage>
+<pub-id pub-id-type="pmid">7888183</pub-id></element-citation></ref><ref id="pone.0022057-Xin1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xin</surname><given-names>M</given-names></name><name><surname>Deng</surname><given-names>X</given-names></name></person-group>
+<year>2006</year>
+<article-title>Protein phosphatase 2A enhances the proapoptotic function of Bax through dephosphorylation.</article-title>
+<source>J Biol Chem</source>
+<volume>281</volume>
+<fpage>18859</fpage>
+<lpage>18867</lpage>
+<pub-id pub-id-type="pmid">16679323</pub-id></element-citation></ref><ref id="pone.0022057-Chiang1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chiang</surname><given-names>CW</given-names></name><name><surname>Harris</surname><given-names>G</given-names></name><name><surname>Ellig</surname><given-names>C</given-names></name><name><surname>Masters</surname><given-names>SC</given-names></name><name><surname>Subramanian</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Protein phosphatase 2A activates the proapoptotic function of BAD in interleukin- 3-dependent lymphoid cells by a mechanism requiring 14-3-3 dissociation.</article-title>
+<source>Blood</source>
+<volume>97</volume>
+<fpage>1289</fpage>
+<lpage>1297</lpage>
+<pub-id pub-id-type="pmid">11222372</pub-id></element-citation></ref><ref id="pone.0022057-Humphries1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Humphries</surname><given-names>MJ</given-names></name><name><surname>Limesand</surname><given-names>KH</given-names></name><name><surname>Schneider</surname><given-names>JC</given-names></name><name><surname>Nakayama</surname><given-names>KI</given-names></name><name><surname>Anderson</surname><given-names>SM</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>Suppression of apoptosis in the protein kinase Cdelta null mouse in vivo.</article-title>
+<source>J Biol Chem</source>
+<volume>281</volume>
+<fpage>9728</fpage>
+<lpage>9737</lpage>
+<pub-id pub-id-type="pmid">16452485</pub-id></element-citation></ref><ref id="pone.0022057-Leitges1"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leitges</surname><given-names>M</given-names></name><name><surname>Mayr</surname><given-names>M</given-names></name><name><surname>Braun</surname><given-names>U</given-names></name><name><surname>Mayr</surname><given-names>U</given-names></name><name><surname>Li</surname><given-names>C</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Exacerbated vein graft arteriosclerosis in protein kinase Cdelta-null mice.</article-title>
+<source>J Clin Invest</source>
+<volume>108</volume>
+<fpage>1505</fpage>
+<lpage>1512</lpage>
+<pub-id pub-id-type="pmid">11714742</pub-id></element-citation></ref><ref id="pone.0022057-Chen1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Hahn</surname><given-names>H</given-names></name><name><surname>Wu</surname><given-names>G</given-names></name><name><surname>Chen</surname><given-names>CH</given-names></name><name><surname>Liron</surname><given-names>T</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Opposing cardioprotective actions and parallel hypertrophic effects of delta PKC and epsilon PKC.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>98</volume>
+<fpage>11114</fpage>
+<lpage>11119</lpage>
+<pub-id pub-id-type="pmid">11553773</pub-id></element-citation></ref><ref id="pone.0022057-Nicholls1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nicholls</surname><given-names>DG</given-names></name></person-group>
+<year>2003</year>
+<article-title>Bioenergetics and transmitter release in the isolated nerve terminal.</article-title>
+<source>Neurochem Res</source>
+<volume>28</volume>
+<fpage>1433</fpage>
+<lpage>1441</lpage>
+<pub-id pub-id-type="pmid">14570388</pub-id></element-citation></ref><ref id="pone.0022057-David1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>David</surname><given-names>G</given-names></name><name><surname>Barrett</surname><given-names>EF</given-names></name></person-group>
+<year>2003</year>
+<article-title>Mitochondrial Ca2&#x0002b; uptake prevents desynchronization of quantal release and minimizes depletion during repetitive stimulation of mouse motor nerve terminals.</article-title>
+<source>J Physiol</source>
+<volume>548</volume>
+<fpage>425</fpage>
+<lpage>438</lpage>
+<pub-id pub-id-type="pmid">12588898</pub-id></element-citation></ref><ref id="pone.0022057-PerezPinzon3"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perez-Pinzon</surname><given-names>MA</given-names></name><name><surname>Dave</surname><given-names>KR</given-names></name><name><surname>Raval</surname><given-names>AP</given-names></name></person-group>
+<year>2005</year>
+<article-title>Role of reactive oxygen species and protein kinase C in ischemic tolerance in the brain.</article-title>
+<source>Antioxid Redox Signal</source>
+<volume>7</volume>
+<fpage>1150</fpage>
+<lpage>1157</lpage>
+<pub-id pub-id-type="pmid">16115018</pub-id></element-citation></ref><ref id="pone.0022057-Bouwman1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bouwman</surname><given-names>RA</given-names></name><name><surname>Musters</surname><given-names>RJ</given-names></name><name><surname>van Beek-Harmsen</surname><given-names>BJ</given-names></name><name><surname>de Lange</surname><given-names>JJ</given-names></name><name><surname>Boer</surname><given-names>C</given-names></name></person-group>
+<year>2004</year>
+<article-title>Reactive oxygen species precede protein kinase C-delta activation independent of adenosine triphosphate-sensitive mitochondrial channel opening in sevoflurane-induced cardioprotection.</article-title>
+<source>Anesthesiology</source>
+<volume>100</volume>
+<fpage>506</fpage>
+<lpage>514</lpage>
+<pub-id pub-id-type="pmid">15108962</pub-id></element-citation></ref><ref id="pone.0022057-Harada1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harada</surname><given-names>N</given-names></name><name><surname>Miura</surname><given-names>T</given-names></name><name><surname>Dairaku</surname><given-names>Y</given-names></name><name><surname>Kametani</surname><given-names>R</given-names></name><name><surname>Shibuya</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>NO donor-activated PKC-delta plays a pivotal role in ischemic myocardial protection through accelerated opening of mitochondrial K-ATP channels.</article-title>
+<source>J Cardiovasc Pharmacol</source>
+<volume>44</volume>
+<fpage>35</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="pmid">15175555</pub-id></element-citation></ref><ref id="pone.0022057-Lothstein1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lothstein</surname><given-names>L</given-names></name><name><surname>Savranskaya</surname><given-names>L</given-names></name><name><surname>Barrett</surname><given-names>CM</given-names></name><name><surname>Israel</surname><given-names>M</given-names></name><name><surname>Sweatman</surname><given-names>TW</given-names></name></person-group>
+<year>2006</year>
+<article-title>N-benzyladriamycin-14-valerate (AD 198) activates protein kinase C-delta holoenzyme to trigger mitochondrial depolarization and cytochrome c release independently of permeability transition pore opening and Ca<sup>2&#x0002b;</sup> influx.</article-title>
+<source>Anticancer Drugs</source>
+<volume>17</volume>
+<fpage>495</fpage>
+<lpage>502</lpage>
+<pub-id pub-id-type="pmid">16702805</pub-id></element-citation></ref><ref id="pone.0022057-Liu1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Dai</surname><given-names>Q</given-names></name><name><surname>Lee</surname><given-names>RM</given-names></name></person-group>
+<year>2003</year>
+<article-title>Phospholipid scramblase 3 is the mitochondrial target of protein kinase C delta-induced apoptosis.</article-title>
+<source>Cancer Res</source>
+<volume>63</volume>
+<fpage>1153</fpage>
+<lpage>1156</lpage>
+<pub-id pub-id-type="pmid">12649167</pub-id></element-citation></ref><ref id="pone.0022057-Liu2"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Dai</surname><given-names>Q</given-names></name><name><surname>Chen</surname><given-names>J</given-names></name><name><surname>Durrant</surname><given-names>D</given-names></name><name><surname>Freeman</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Phospholipid scramblase 3 controls mitochondrial structure, function, and apoptotic response.</article-title>
+<source>Mol Cancer Res</source>
+<volume>1</volume>
+<fpage>892</fpage>
+<lpage>902</lpage>
+<pub-id pub-id-type="pmid">14573790</pub-id></element-citation></ref><ref id="pone.0022057-McMillin1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McMillin</surname><given-names>JB</given-names></name><name><surname>Dowhan</surname><given-names>W</given-names></name></person-group>
+<year>2002</year>
+<article-title>Cardiolipin and apoptosis.</article-title>
+<source>Biochim Biophys Acta</source>
+<volume>1585</volume>
+<fpage>97</fpage>
+<lpage>107</lpage>
+<pub-id pub-id-type="pmid">12531542</pub-id></element-citation></ref><ref id="pone.0022057-Van1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van</surname><given-names>Q</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Lu</surname><given-names>B</given-names></name><name><surname>Feingold</surname><given-names>KR</given-names></name><name><surname>Shi</surname><given-names>Y</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Phospholipid scramblase-3 regulates cardiolipin de novo biosynthesis and its resynthesis in growing HeLa cells.</article-title>
+<source>Biochem J</source>
+<volume>401</volume>
+<fpage>103</fpage>
+<lpage>109</lpage>
+<pub-id pub-id-type="pmid">16939411</pub-id></element-citation></ref><ref id="pone.0022057-Iverson1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iverson</surname><given-names>SL</given-names></name><name><surname>Orrenius</surname><given-names>S</given-names></name></person-group>
+<year>2004</year>
+<article-title>The cardiolipin-cytochrome c interaction and the mitochondrial regulation of apoptosis.</article-title>
+<source>Arch Biochem Biophys</source>
+<volume>423</volume>
+<fpage>37</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="pmid">14989263</pub-id></element-citation></ref><ref id="pone.0022057-Ott1"><label>36</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ott</surname><given-names>M</given-names></name><name><surname>Zhivotovsky</surname><given-names>B</given-names></name><name><surname>Orrenius</surname><given-names>S</given-names></name></person-group>
+<year>2007</year>
+<article-title>Role of cardiolipin in cytochrome c release from mitochondria.</article-title>
+<source>Cell Death Differ</source>
+<volume>14</volume>
+<fpage>1243</fpage>
+<lpage>1247</lpage>
+<pub-id pub-id-type="pmid">17431425</pub-id></element-citation></ref><ref id="pone.0022057-Aponte1"><label>37</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aponte</surname><given-names>AM</given-names></name><name><surname>Phillips</surname><given-names>D</given-names></name><name><surname>Hopper</surname><given-names>RK</given-names></name><name><surname>Johnson</surname><given-names>DT</given-names></name><name><surname>Harris</surname><given-names>RA</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Use of (32)P to study dynamics of the mitochondrial phosphoproteome.</article-title>
+<source>J Proteome Res</source>
+<volume>8</volume>
+<fpage>2679</fpage>
+<lpage>2695</lpage>
+<pub-id pub-id-type="pmid">19351177</pub-id></element-citation></ref><ref id="pone.0022057-Deng1"><label>38</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Deng</surname><given-names>N</given-names></name><name><surname>Zhang</surname><given-names>J</given-names></name><name><surname>Zong</surname><given-names>C</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Lu</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Phosphoproteome analysis reveals regulatory sites in major pathways of cardiac mitochondria.</article-title>
+<source>Mol Cell Proteomics</source>
+</element-citation></ref><ref id="pone.0022057-Churchill2"><label>39</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Churchill</surname><given-names>EN</given-names></name><name><surname>Murriel</surname><given-names>CL</given-names></name><name><surname>Chen</surname><given-names>CH</given-names></name><name><surname>Mochly-Rosen</surname><given-names>D</given-names></name><name><surname>Szweda</surname><given-names>LI</given-names></name></person-group>
+<year>2005</year>
+<article-title>Reperfusion-induced translocation of deltaPKC to cardiac mitochondria prevents pyruvate dehydrogenase reactivation.</article-title>
+<source>Circ Res</source>
+<volume>97</volume>
+<fpage>78</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="pmid">15961716</pub-id></element-citation></ref><ref id="pone.0022057-Bogaert1"><label>40</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bogaert</surname><given-names>YE</given-names></name><name><surname>Rosenthal</surname><given-names>RE</given-names></name><name><surname>Fiskum</surname><given-names>G</given-names></name></person-group>
+<year>1994</year>
+<article-title>Postischemic inhibition of cerebral cortex pyruvate dehydrogenase.</article-title>
+<source>Free Radic Biol Med</source>
+<volume>16</volume>
+<fpage>811</fpage>
+<lpage>820</lpage>
+<pub-id pub-id-type="pmid">8070685</pub-id></element-citation></ref><ref id="pone.0022057-Lai1"><label>41</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lai</surname><given-names>JC</given-names></name><name><surname>DiLorenzo</surname><given-names>JC</given-names></name><name><surname>Sheu</surname><given-names>KF</given-names></name></person-group>
+<year>1988</year>
+<article-title>Pyruvate dehydrogenase complex is inhibited in calcium-loaded cerebrocortical mitochondria.</article-title>
+<source>Neurochem Res</source>
+<volume>13</volume>
+<fpage>1043</fpage>
+<lpage>1048</lpage>
+<pub-id pub-id-type="pmid">3237304</pub-id></element-citation></ref><ref id="pone.0022057-Zaidan1"><label>42</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zaidan</surname><given-names>E</given-names></name><name><surname>Sims</surname><given-names>NR</given-names></name></person-group>
+<year>1993</year>
+<article-title>Selective reductions in the activity of the pyruvate dehydrogenase complex in mitochondria isolated from brain subregions following forebrain ischemia in rats.</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>13</volume>
+<fpage>98</fpage>
+<lpage>104</lpage>
+<pub-id pub-id-type="pmid">8417013</pub-id></element-citation></ref><ref id="pone.0022057-Allen1"><label>43</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Allen</surname><given-names>KL</given-names></name><name><surname>Almeida</surname><given-names>A</given-names></name><name><surname>Bates</surname><given-names>TE</given-names></name><name><surname>Clark</surname><given-names>JB</given-names></name></person-group>
+<year>1995</year>
+<article-title>Changes of respiratory chain activity in mitochondrial and synaptosomal fractions isolated from the gerbil brain after graded ischaemia.</article-title>
+<source>J Neurochem</source>
+<volume>64</volume>
+<fpage>2222</fpage>
+<lpage>2229</lpage>
+<pub-id pub-id-type="pmid">7722507</pub-id></element-citation></ref><ref id="pone.0022057-Clarkson1"><label>44</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clarkson</surname><given-names>AN</given-names></name><name><surname>Liu</surname><given-names>H</given-names></name><name><surname>Pearson</surname><given-names>L</given-names></name><name><surname>Kapoor</surname><given-names>M</given-names></name><name><surname>Harrison</surname><given-names>JC</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Neuroprotective effects of spermine following hypoxic-ischemic-induced brain damage: a mechanistic study.</article-title>
+<source>Faseb J</source>
+<volume>18</volume>
+<fpage>1114</fpage>
+<lpage>1116</lpage>
+<pub-id pub-id-type="pmid">15132986</pub-id></element-citation></ref><ref id="pone.0022057-Iijima1"><label>45</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iijima</surname><given-names>T</given-names></name><name><surname>Mishima</surname><given-names>T</given-names></name><name><surname>Tohyama</surname><given-names>M</given-names></name><name><surname>Akagawa</surname><given-names>K</given-names></name><name><surname>Iwao</surname><given-names>Y</given-names></name></person-group>
+<year>2003</year>
+<article-title>Mitochondrial membrane potential and intracellular ATP content after transient experimental ischemia in the cultured hippocampal neuron.</article-title>
+<source>Neurochem Int</source>
+<volume>43</volume>
+<fpage>263</fpage>
+<lpage>269</lpage>
+<pub-id pub-id-type="pmid">12689606</pub-id></element-citation></ref><ref id="pone.0022057-Osman1"><label>46</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Osman</surname><given-names>C</given-names></name><name><surname>Merkwirth</surname><given-names>C</given-names></name><name><surname>Langer</surname><given-names>T</given-names></name></person-group>
+<year>2009</year>
+<article-title>Prohibitins and the functional compartmentalization of mitochondrial membranes.</article-title>
+<source>J Cell Sci</source>
+<volume>122</volume>
+<fpage>3823</fpage>
+<lpage>3830</lpage>
+<pub-id pub-id-type="pmid">19889967</pub-id></element-citation></ref><ref id="pone.0022057-Strub1"><label>47</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strub</surname><given-names>GM</given-names></name><name><surname>Paillard</surname><given-names>M</given-names></name><name><surname>Liang</surname><given-names>J</given-names></name><name><surname>Gomez</surname><given-names>L</given-names></name><name><surname>Allegood</surname><given-names>JC</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Sphingosine-1-phosphate produced by sphingosine kinase 2 in mitochondria interacts with prohibitin 2 to regulate complex IV assembly and respiration.</article-title>
+<source>Faseb J</source>
+</element-citation></ref><ref id="pone.0022057-Abe1"><label>48</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abe</surname><given-names>T</given-names></name><name><surname>Takagi</surname><given-names>N</given-names></name><name><surname>Nakano</surname><given-names>M</given-names></name><name><surname>Furuya</surname><given-names>M</given-names></name><name><surname>Takeo</surname><given-names>S</given-names></name></person-group>
+<year>2004</year>
+<article-title>Altered Bad localization and interaction between Bad and Bcl-xL in the hippocampus after transient global ischemia.</article-title>
+<source>Brain Res</source>
+<volume>1009</volume>
+<fpage>159</fpage>
+<lpage>168</lpage>
+<pub-id pub-id-type="pmid">15120593</pub-id></element-citation></ref><ref id="pone.0022057-Cao1"><label>49</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cao</surname><given-names>G</given-names></name><name><surname>Minami</surname><given-names>M</given-names></name><name><surname>Pei</surname><given-names>W</given-names></name><name><surname>Yan</surname><given-names>C</given-names></name><name><surname>Chen</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Intracellular Bax translocation after transient cerebral ischemia: implications for a role of the mitochondrial apoptotic signaling pathway in ischemic neuronal death.</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>21</volume>
+<fpage>321</fpage>
+<lpage>333</lpage>
+<pub-id pub-id-type="pmid">11323518</pub-id></element-citation></ref><ref id="pone.0022057-Chan1"><label>50</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chan</surname><given-names>PH</given-names></name></person-group>
+<year>2004</year>
+<article-title>Mitochondria and neuronal death/survival signaling pathways in cerebral ischemia.</article-title>
+<source>Neurochem Res</source>
+<volume>29</volume>
+<fpage>1943</fpage>
+<lpage>1949</lpage>
+<pub-id pub-id-type="pmid">15662830</pub-id></element-citation></ref><ref id="pone.0022057-Hetz1"><label>51</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hetz</surname><given-names>C</given-names></name><name><surname>Vitte</surname><given-names>PA</given-names></name><name><surname>Bombrun</surname><given-names>A</given-names></name><name><surname>Rostovtseva</surname><given-names>TK</given-names></name><name><surname>Montessuit</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Bax channel inhibitors prevent mitochondrion-mediated apoptosis and protect neurons in a model of global brain ischemia.</article-title>
+<source>J Biol Chem</source>
+<volume>280</volume>
+<fpage>42960</fpage>
+<lpage>42970</lpage>
+<pub-id pub-id-type="pmid">16219766</pub-id></element-citation></ref><ref id="pone.0022057-Liu3"><label>52</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>D</given-names></name><name><surname>Lu</surname><given-names>C</given-names></name><name><surname>Wan</surname><given-names>R</given-names></name><name><surname>Auyeung</surname><given-names>WW</given-names></name><name><surname>Mattson</surname><given-names>MP</given-names></name></person-group>
+<year>2002</year>
+<article-title>Activation of mitochondrial ATP-dependent potassium channels protects neurons against ischemia-induced death by a mechanism involving suppression of Bax translocation and cytochrome c release.</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>22</volume>
+<fpage>431</fpage>
+<lpage>443</lpage>
+<pub-id pub-id-type="pmid">11919514</pub-id></element-citation></ref><ref id="pone.0022057-Miyawaki1"><label>53</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miyawaki</surname><given-names>T</given-names></name><name><surname>Mashiko</surname><given-names>T</given-names></name><name><surname>Ofengeim</surname><given-names>D</given-names></name><name><surname>Flannery</surname><given-names>RJ</given-names></name><name><surname>Noh</surname><given-names>KM</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Ischemic preconditioning blocks BAD translocation, Bcl-xL cleavage, and large channel activity in mitochondria of postischemic hippocampal neurons.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>105</volume>
+<fpage>4892</fpage>
+<lpage>4897</lpage>
+<pub-id pub-id-type="pmid">18347331</pub-id></element-citation></ref><ref id="pone.0022057-Zhang2"><label>54</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>TT</given-names></name><name><surname>Platholi</surname><given-names>J</given-names></name><name><surname>Heerdt</surname><given-names>PM</given-names></name><name><surname>Hemmings</surname><given-names>HC</given-names><suffix>Jr</suffix></name><name><surname>Tung</surname><given-names>HY</given-names></name></person-group>
+<year>2008</year>
+<article-title>Protein phosphatase-2A is activated in pig brain following cardiac arrest and resuscitation.</article-title>
+<source>Metab Brain Dis</source>
+<volume>23</volume>
+<fpage>95</fpage>
+<lpage>104</lpage>
+<pub-id pub-id-type="pmid">18197471</pub-id></element-citation></ref><ref id="pone.0022057-McCright1"><label>55</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCright</surname><given-names>B</given-names></name><name><surname>Virshup</surname><given-names>DM</given-names></name></person-group>
+<year>1995</year>
+<article-title>Identification of a new family of protein phosphatase 2A regulatory subunits.</article-title>
+<source>J Biol Chem</source>
+<volume>270</volume>
+<fpage>26123</fpage>
+<lpage>26128</lpage>
+<pub-id pub-id-type="pmid">7592815</pub-id></element-citation></ref><ref id="pone.0022057-Truttmann1"><label>56</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Truttmann</surname><given-names>AC</given-names></name><name><surname>Ashraf</surname><given-names>Q</given-names></name><name><surname>Mishra</surname><given-names>OP</given-names></name><name><surname>Delivoria-Papadopoulos</surname><given-names>M</given-names></name></person-group>
+<year>2004</year>
+<article-title>Effect of hypoxia on protein phosphatase 2A activity, subcellular distribution and expression in cerebral cortex of newborn piglets.</article-title>
+<source>Neuroscience</source>
+<volume>127</volume>
+<fpage>355</fpage>
+<lpage>363</lpage>
+<pub-id pub-id-type="pmid">15262326</pub-id></element-citation></ref><ref id="pone.0022057-Strack1"><label>57</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strack</surname><given-names>S</given-names></name><name><surname>Zaucha</surname><given-names>JA</given-names></name><name><surname>Ebner</surname><given-names>FF</given-names></name><name><surname>Colbran</surname><given-names>RJ</given-names></name><name><surname>Wadzinski</surname><given-names>BE</given-names></name></person-group>
+<year>1998</year>
+<article-title>Brain protein phosphatase 2A: developmental regulation and distinct cellular and subcellular localization by B subunits.</article-title>
+<source>J Comp Neurol</source>
+<volume>392</volume>
+<fpage>515</fpage>
+<lpage>527</lpage>
+<pub-id pub-id-type="pmid">9514514</pub-id></element-citation></ref><ref id="pone.0022057-Dave1"><label>58</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dave</surname><given-names>KR</given-names></name><name><surname>Raval</surname><given-names>AP</given-names></name><name><surname>Prado</surname><given-names>R</given-names></name><name><surname>Katz</surname><given-names>LM</given-names></name><name><surname>Sick</surname><given-names>TJ</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Mild cardiopulmonary arrest promotes synaptic dysfunction in rat hippocampus.</article-title>
+<source>Brain Res</source>
+<volume>1024</volume>
+<fpage>89</fpage>
+<lpage>96</lpage>
+<pub-id pub-id-type="pmid">15451369</pub-id></element-citation></ref><ref id="pone.0022057-Katz1"><label>59</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Katz</surname><given-names>L</given-names></name><name><surname>Ebmeyer</surname><given-names>U</given-names></name><name><surname>Safar</surname><given-names>P</given-names></name><name><surname>Radovsky</surname><given-names>A</given-names></name><name><surname>Neumar</surname><given-names>R</given-names></name></person-group>
+<year>1995</year>
+<article-title>Outcome model of asphyxial cardiac arrest in rats.</article-title>
+<source>J Cereb Blood Flow Metab</source>
+<volume>15</volume>
+<fpage>1032</fpage>
+<lpage>1039</lpage>
+<pub-id pub-id-type="pmid">7593335</pub-id></element-citation></ref><ref id="pone.0022057-Dave2"><label>60</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dave</surname><given-names>KR</given-names></name><name><surname>DeFazio</surname><given-names>RA</given-names></name><name><surname>Raval</surname><given-names>AP</given-names></name><name><surname>Torraco</surname><given-names>A</given-names></name><name><surname>Saul</surname><given-names>I</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Ischemic preconditioning targets the respiration of synaptic mitochondria via protein kinase C epsilon.</article-title>
+<source>J Neurosci</source>
+<volume>28</volume>
+<fpage>4172</fpage>
+<lpage>4182</lpage>
+<pub-id pub-id-type="pmid">18417696</pub-id></element-citation></ref><ref id="pone.0022057-Dunkley1"><label>61</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dunkley</surname><given-names>PR</given-names></name><name><surname>Heath</surname><given-names>JW</given-names></name><name><surname>Harrison</surname><given-names>SM</given-names></name><name><surname>Jarvie</surname><given-names>PE</given-names></name><name><surname>Glenfield</surname><given-names>PJ</given-names></name><etal/></person-group>
+<year>1988</year>
+<article-title>A rapid Percoll gradient procedure for isolation of synaptosomes directly from an S1 fraction: homogeneity and morphology of subcellular fractions.</article-title>
+<source>Brain Res</source>
+<volume>441</volume>
+<fpage>59</fpage>
+<lpage>71</lpage>
+<pub-id pub-id-type="pmid">2834006</pub-id></element-citation></ref><ref id="pone.0022057-Seyedi1"><label>62</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Seyedi</surname><given-names>N</given-names></name><name><surname>Koyama</surname><given-names>M</given-names></name><name><surname>Mackins</surname><given-names>CJ</given-names></name><name><surname>Levi</surname><given-names>R</given-names></name></person-group>
+<year>2002</year>
+<article-title>Ischemia promotes renin activation and angiotensin formation in sympathetic nerve terminals isolated from the human heart: contribution to carrier-mediated norepinephrine release.</article-title>
+<source>J Pharmacol Exp Ther</source>
+<volume>302</volume>
+<fpage>539</fpage>
+<lpage>544</lpage>
+<pub-id pub-id-type="pmid">12130713</pub-id></element-citation></ref><ref id="pone.0022057-Brown1"><label>63</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>MR</given-names></name><name><surname>Sullivan</surname><given-names>PG</given-names></name><name><surname>Dorenbos</surname><given-names>KA</given-names></name><name><surname>Modafferi</surname><given-names>EA</given-names></name><name><surname>Geddes</surname><given-names>JW</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Nitrogen disruption of synaptoneurosomes: an alternative method to isolate brain mitochondria.</article-title>
+<source>J Neurosci Methods</source>
+<volume>137</volume>
+<fpage>299</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="pmid">15262074</pub-id></element-citation></ref><ref id="pone.0022057-Dorn1"><label>64</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dorn</surname><given-names>GW</given-names><suffix>2nd</suffix></name><name><surname>Souroujon</surname><given-names>MC</given-names></name><name><surname>Liron</surname><given-names>T</given-names></name><name><surname>Chen</surname><given-names>CH</given-names></name><name><surname>Gray</surname><given-names>MO</given-names></name><etal/></person-group>
+<year>1999</year>
+<article-title>Sustained in vivo cardiac protection by a rationally designed peptide that causes epsilon protein kinase C translocation.</article-title>
+<source>Proc Natl Acad Sci U S A</source>
+<volume>96</volume>
+<fpage>12798</fpage>
+<lpage>12803</lpage>
+<pub-id pub-id-type="pmid">10536002</pub-id></element-citation></ref><ref id="pone.0022057-Schwarze1"><label>65</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwarze</surname><given-names>SR</given-names></name><name><surname>Ho</surname><given-names>A</given-names></name><name><surname>Vocero-Akbani</surname><given-names>A</given-names></name><name><surname>Dowdy</surname><given-names>SF</given-names></name></person-group>
+<year>1999</year>
+<article-title>In vivo protein transduction: delivery of a biologically active protein into the mouse.</article-title>
+<source>Science</source>
+<volume>285</volume>
+<fpage>1569</fpage>
+<lpage>1572</lpage>
+<pub-id pub-id-type="pmid">10477521</pub-id></element-citation></ref><ref id="pone.0022057-Sloley1"><label>66</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sloley</surname><given-names>S</given-names></name><name><surname>Smith</surname><given-names>S</given-names></name><name><surname>Gandhi</surname><given-names>S</given-names></name><name><surname>Busby</surname><given-names>JA</given-names></name><name><surname>London</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Proteomic analyses of zebra finch optic tectum and comparative histochemistry.</article-title>
+<source>J Proteome Res</source>
+<volume>6</volume>
+<fpage>2341</fpage>
+<lpage>2350</lpage>
+<pub-id pub-id-type="pmid">17497909</pub-id></element-citation></ref></ref-list></back></article>

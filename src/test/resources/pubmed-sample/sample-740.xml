@@ -1,0 +1,1172 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Viruses</journal-id><journal-id journal-id-type="iso-abbrev">Viruses</journal-id><journal-id journal-id-type="publisher-id">viruses</journal-id><journal-title-group><journal-title>Viruses</journal-title></journal-title-group><issn pub-type="epub">1999-4915</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">23435240</article-id><article-id pub-id-type="pmc">3640523</article-id><article-id pub-id-type="doi">10.3390/v5020732</article-id><article-id pub-id-type="publisher-id">viruses-05-00732</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Intrathecal Humoral Immunity to Encephalitic RNA Viruses</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Phares</surname><given-names>Timothy W.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Stohlman</surname><given-names>Stephen A.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Bergmann</surname><given-names>Cornelia C.</given-names></name><xref rid="c1-viruses-05-00732" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-viruses-05-00732">Departments of Neurosciences NC30, Lerner Research Institute, Cleveland Clinic Foundation, 9500 Euclid Avenue, Cleveland, OH 44195, USA; E-Mails: <email>pharest@ccf.org</email> (T.W.P.); <email>stohlms2@ccf.org</email> (S.A.S)</aff><author-notes><corresp id="c1-viruses-05-00732"><label>*</label> Author to whom correspondence should be addressed; E-Mail: <email>bergmac@ccf.org</email>; Tel.: +1-216-444-5922; Fax: +1-216-4447927.</corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>2</month><year>2013</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2013</year></pub-date><volume>5</volume><issue>2</issue><fpage>732</fpage><lpage>752</lpage><history><date date-type="received"><day>08</day><month>1</month><year>2013</year></date><date date-type="rev-recd"><day>10</day><month>2</month><year>2013</year></date><date date-type="accepted"><day>11</day><month>2</month><year>2013</year></date></history><permissions><copyright-statement>&#x000a9; 2013 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2013</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/3.0/"><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>The nervous system is the target for acute encephalitic viral infections, as well as a reservoir for persisting viruses. Intrathecal antibody (Ab) synthesis is well documented in humans afflicted by infections associated with neurological complications, as well as the demyelinating disease, multiple sclerosis. This review focuses on the origin, recruitment, maintenance, and biological relevance of Ab-secreting cells (ASC) found in the central nervous system (CNS) following experimental neurotropic RNA virus infections. We will summarize evidence for a highly dynamic, evolving humoral response characterized by temporal alterations in B cell subsets, proliferation, and differentiation. Overall local Ab plays a beneficial role via complement-independent control of virus replication, although cross or self-reactive Ab to CNS antigens may contribute to immune-mediated pathogenesis during some infections. Importantly, protective Ab exert anti-viral activity not only by direct neutralization, but also by binding to cell surface-expressed viral glycoproteins. Ab engagement of viral glycoproteins blocks budding and mediates intracellular signaling leading to restored homeostatic and innate functions. The sustained Ab production by local ASC, as well as chemokines and cytokines associated with ASC recruitment and retention, are highlighted as critical components of immune control. </p></abstract><kwd-group><kwd>antibody</kwd><kwd>antibody-secreting cell</kwd><kwd>B cell</kwd><kwd>central nervous system</kwd><kwd>humoral immunity</kwd><kwd>and RNA viruses</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>The nervous system is a target for acute viral infections, as well as a reservoir of latent and persisting viruses [<xref ref-type="bibr" rid="B1-viruses-05-00732">1</xref>,<xref ref-type="bibr" rid="B2-viruses-05-00732">2</xref>,<xref ref-type="bibr" rid="B3-viruses-05-00732">3</xref>,<xref ref-type="bibr" rid="B4-viruses-05-00732">4</xref>,<xref ref-type="bibr" rid="B5-viruses-05-00732">5</xref>,<xref ref-type="bibr" rid="B6-viruses-05-00732">6</xref>,<xref ref-type="bibr" rid="B7-viruses-05-00732">7</xref>]. In general, the absence of overt neurological deficits or pathology indicates effective immune control of persisting viruses in immunocompetent individuals. However, this balance is highly tenuous, as indicated by cases of JC virus-mediated progressive multifocal leukoencephalopathy (PML) in immunocompromised individuals with acquired immune deficiency syndrome or those receiving treatment for multiple sclerosis (MS) or lymphoma [<xref ref-type="bibr" rid="B3-viruses-05-00732">3</xref>]. Similarly, the activation of herpes simplex virus (HSV) and cytomegalovirus in the nervous system can be devastating in immunocompromised individuals. Moreover, senescent immune responses in an increasingly aging population enhance disease susceptibility to both reactivating persistent viruses in the central nervous system (CNS), as well as to acute encephalitic arboviral infections. Numerous human infections involving the CNS, including those caused by measles, rubella, polio, varicella zoster, mumps, HSV and Japanese encephalitis virus (JEV), as well as lyme neuroborreliosis are characterized by intrathecal antibody (Ab) in the cerebral spinal fluid (CSF) consistent with the presence of local Ab-secreting cells (ASC) [<xref ref-type="bibr" rid="B8-viruses-05-00732">8</xref>,<xref ref-type="bibr" rid="B9-viruses-05-00732">9</xref>,<xref ref-type="bibr" rid="B10-viruses-05-00732">10</xref>,<xref ref-type="bibr" rid="B11-viruses-05-00732">11</xref>]. Although the causative agent still remains unknown in many cases of suspected viral encephalitis, detection of virus-specific immunoglobulin (Ig) in the CSF can be a reliable diagnostic tool to confirm a suspected viral encephalitis indicated by molecular analysis [<xref ref-type="bibr" rid="B12-viruses-05-00732">12</xref>,<xref ref-type="bibr" rid="B13-viruses-05-00732">13</xref>,<xref ref-type="bibr" rid="B14-viruses-05-00732">14</xref>,<xref ref-type="bibr" rid="B15-viruses-05-00732">15</xref>,<xref ref-type="bibr" rid="B16-viruses-05-00732">16</xref>]. For example, acute poliomyelitis or encephalitis mediated by insect-borne viruses such as JEV are associated with virus-specific IgM and IgG in CSF within ~2 weeks of clinical presentation. While Ab persists over several months in the case of JEV [<xref ref-type="bibr" rid="B14-viruses-05-00732">14</xref>], they appear more transient in poliomyelitis [<xref ref-type="bibr" rid="B15-viruses-05-00732">15</xref>]. Overall, Ab detection may be more transient in cases of acute encephalitis, while it persists during chronic disease such as measles virus-associated subacute sclerosing panencephalitis [<xref ref-type="bibr" rid="B17-viruses-05-00732">17</xref>,<xref ref-type="bibr" rid="B18-viruses-05-00732">18</xref>]. A specific protective or detrimental role is often difficult to infer due to difficulties in obtaining longitudinal serum and CSF samples. Even when available, the role of serum <italic>versus</italic> intrathecal Ab cannot be readily distinguished. Overall, intrathecal humoral responses appear to be associated with protective rather than pathogenic functions. Thus, a beneficial outcome of JEV encephalitis is correlated with intrathecal IgG [<xref ref-type="bibr" rid="B19-viruses-05-00732">19</xref>]. Similarly, intrathecal Ab synthesis may be an indicator of protection during CNS retrovirus infection [<xref ref-type="bibr" rid="B16-viruses-05-00732">16</xref>,<xref ref-type="bibr" rid="B20-viruses-05-00732">20</xref>,<xref ref-type="bibr" rid="B21-viruses-05-00732">21</xref>]. Ab also correlates with reduced CNS viral load and milder clinical disease course in patients with tropical spastic paraparesis/HTLV-I-associated myelopathy [<xref ref-type="bibr" rid="B21-viruses-05-00732">21</xref>]. An inverse correlation between intrathecal-neutralizing Ab and macrophage-tropic SIV was also observed in the SIV encephalitis model of HIV [<xref ref-type="bibr" rid="B20-viruses-05-00732">20</xref>]. Lastly, the CSF of MS patients harbors Ab to multiple viruses prevalent in the Western population, e.g. varicella zoster, rubella, HSV-1 and JC viruses [<xref ref-type="bibr" rid="B2-viruses-05-00732">2</xref>,<xref ref-type="bibr" rid="B13-viruses-05-00732">13</xref>]. These Ab appear to be markers of MS and are not indicative of active disease due to virus infection [<xref ref-type="bibr" rid="B2-viruses-05-00732">2</xref>]. Nevertheless, the potential danger of losing control of persisting CNS viruses became apparent by the development of PML following rituximab (anti-CD20 monoclonal Ab) reduction of circulating B cells during therapy for rheumatoid arthritis [<xref ref-type="bibr" rid="B22-viruses-05-00732">22</xref>] and MS [<xref ref-type="bibr" rid="B23-viruses-05-00732">23</xref>]. </p><p>During experimental CNS infections, particularly by RNA viruses such as Sindbis, rabies and corona viruses, ASC play a vital local protective role [<xref ref-type="bibr" rid="B24-viruses-05-00732">24</xref>,<xref ref-type="bibr" rid="B25-viruses-05-00732">25</xref>,<xref ref-type="bibr" rid="B26-viruses-05-00732">26</xref>,<xref ref-type="bibr" rid="B27-viruses-05-00732">27</xref>,<xref ref-type="bibr" rid="B28-viruses-05-00732">28</xref>,<xref ref-type="bibr" rid="B29-viruses-05-00732">29</xref>,<xref ref-type="bibr" rid="B30-viruses-05-00732">30</xref>,<xref ref-type="bibr" rid="B31-viruses-05-00732">31</xref>]. The reliance on local ASC for sustained Ab output provides a potent complement-independent non-lytic mechanism of immune control within the CNS, potentially regulating a variety of neurotropic infections. Despite constituting a critical component controlling viral persistence, little is known about the origin and maintenance of ASC in the CNS or other specialized microenvironments. This review focuses on insights gained throughout the last decade on humoral immune responses within the CNS during encephalitis and persistent infections mediated by RNA viruses.</p></sec><sec><title>2. Development and Maintenance of B Cell Memory</title><p>Following acute viral infection or immunization, antigen (Ag) in lymph nodes induces naive B cells to proliferate and migrate to extrafollicular foci or lymphoid follicles (<xref ref-type="fig" rid="viruses-05-00732-f001">Figure 1</xref>) [<xref ref-type="bibr" rid="B32-viruses-05-00732">32</xref>,<xref ref-type="bibr" rid="B33-viruses-05-00732">33</xref>]. Extrafollicular B cells, which differentiate into short-lived ASC, provide an early source of low-affinity Ab. By contrast, B cells migrating to lymphoid follicles in response to the CXCR5 ligand CXCL13, and CCR7 ligands CCL19 and CCL21, form germinal centers (GC) (<xref ref-type="fig" rid="viruses-05-00732-f001">Figure 1</xref>); these highly dynamic structures consist primarily of activated B cells, follicular dendritic cells (FDC) and T follicular helper (T<sub>F</sub>H) cells. FDC are radiation-resistant stromal cells that retain intact surface Ag and present Ag to the GC-invading B cells [<xref ref-type="bibr" rid="B34-viruses-05-00732">34</xref>]. FDC further support GC formation by secreting CXCL13, a major chemoattractant of GC B cells and T<sub>F</sub>H cells, as well as IL-6 and B cell activating factor (BAFF), both of which promote GC reaction [<xref ref-type="bibr" rid="B34-viruses-05-00732">34</xref>]. Interleukin (IL)-21 producing T<sub>F</sub>H cells constitute a T cell subset essential for GC maintenance and regulation of GC B cell clonal expansion and affinity maturation [<xref ref-type="bibr" rid="B35-viruses-05-00732">35</xref>,<xref ref-type="bibr" rid="B36-viruses-05-00732">36</xref>]. GC reactions lead to B cell differentiation into two distinct Ag specific populations: ASC and non-Ab-secreting memory B cells (B<sub>mem</sub>) [<xref ref-type="bibr" rid="B37-viruses-05-00732">37</xref>]. As infections resolve, ASC egress into the circulation and give rise to long-lived plasma cells (PC) residing primarily in bone marrow (BM) [<xref ref-type="bibr" rid="B32-viruses-05-00732">32</xref>,<xref ref-type="bibr" rid="B33-viruses-05-00732">33</xref>]. ASC emigration from lymphoid follicles is associated with CXCR5 and CCR7 downregulation, resulting in reduced responsiveness to their respective ligands CXCL13 and CCL19/CCL21, which are prominently expressed in lymphoid organs [<xref ref-type="bibr" rid="B32-viruses-05-00732">32</xref>,<xref ref-type="bibr" rid="B38-viruses-05-00732">38</xref>,<xref ref-type="bibr" rid="B39-viruses-05-00732">39</xref>]. By contrast, both CXCR3 and CXCR4 are upregulated during ASC differentiation [<xref ref-type="bibr" rid="B27-viruses-05-00732">27</xref>,<xref ref-type="bibr" rid="B40-viruses-05-00732">40</xref>], with CXCR4&#x02013;CXCL12 interactions mediating homing to, and retention within, BM [<xref ref-type="bibr" rid="B40-viruses-05-00732">40</xref>,<xref ref-type="bibr" rid="B41-viruses-05-00732">41</xref>]. ASC comprise a phenotypically and functionally heterogeneous population of Ag-experienced B cells committed to Ab secretion; they include migration and proliferation-competent, major histocompatibility complex (MHC) class II expressing pre-PC at various differentiation stages, termed plasma blasts (PB), as well as terminally differentiated, sessile, non-dividing PC dedicated to high constitutive Ab secretion [<xref ref-type="bibr" rid="B32-viruses-05-00732">32</xref>,<xref ref-type="bibr" rid="B33-viruses-05-00732">33</xref>,<xref ref-type="bibr" rid="B41-viruses-05-00732">41</xref>,<xref ref-type="bibr" rid="B42-viruses-05-00732">42</xref>]. Sessile long-lived PC within the BM maintain protective serum Ab against re-infection [<xref ref-type="bibr" rid="B41-viruses-05-00732">41</xref>,<xref ref-type="bibr" rid="B42-viruses-05-00732">42</xref>,<xref ref-type="bibr" rid="B43-viruses-05-00732">43</xref>,<xref ref-type="bibr" rid="B44-viruses-05-00732">44</xref>] with an estimated half-life of anti-viral Ab responses in humans ranging from ~50 to 200 years [<xref ref-type="bibr" rid="B45-viruses-05-00732">45</xref>]. The non-Ab-secreting B<sub>mem</sub> are largely retained in lymphoid organs, but are also found in circulation. Ag re-encountered by B<sub>mem</sub> mediate rapid transition into ASC by both GC-dependent and independent pathways [<xref ref-type="bibr" rid="B42-viruses-05-00732">42</xref>,<xref ref-type="bibr" rid="B44-viruses-05-00732">44</xref>,<xref ref-type="bibr" rid="B46-viruses-05-00732">46</xref>]. </p><fig id="viruses-05-00732-f001" position="float"><label>Figure 1</label><caption><p><bold>Development of peripheral humoral responses.</bold> Follicular zone (FZ) B cells in lymph nodes/spleen encounter antigen (Ag), proliferate and migrate to extrafollicular foci or lymphoid follicles. Extrafollicular B cells differentiate into short-lived antibody secreting cells (ASC), producing low-affinity Ab. B cells migrating to lymphoid follicles form germinal centers (GC) and differentiate into high Ab affinity plasma blasts (PB) and non-Ab-secreting memory B cells (B<sub>mem</sub>). ASC egress into the circulation and give rise to long-lived plasma cells (PC) residing primarily in bone marrow (BM). CXCR4&#x02013;CXCL12 interactions mediate ASC homing to, and retention in, BM.</p></caption><graphic xlink:href="viruses-05-00732-g001"/></fig><p>While the events in lymphoid organs are well documented during immunization or infection of visceral organs, numerous studies have also revealed the presence of ASC in other lymphoid and mucosal tissues, as well as the CNS under various inflammatory conditions [<xref ref-type="bibr" rid="B10-viruses-05-00732">10</xref>,<xref ref-type="bibr" rid="B11-viruses-05-00732">11</xref>,<xref ref-type="bibr" rid="B26-viruses-05-00732">26</xref>,<xref ref-type="bibr" rid="B30-viruses-05-00732">30</xref>,<xref ref-type="bibr" rid="B32-viruses-05-00732">32</xref>,<xref ref-type="bibr" rid="B33-viruses-05-00732">33</xref>]. Moreover, expression of CXCL13 and CCL19/21 within the CNS and other non-lymphoid sites has been associated with formation of ectopic follicle-like structures harboring multiple B cell differentiation phenotypes [<xref ref-type="bibr" rid="B47-viruses-05-00732">47</xref>,<xref ref-type="bibr" rid="B48-viruses-05-00732">48</xref>,<xref ref-type="bibr" rid="B49-viruses-05-00732">49</xref>]. <italic>De novo</italic> Ab production at such sites, as well as upregulation of B cell survival factors [<xref ref-type="bibr" rid="B50-viruses-05-00732">50</xref>,<xref ref-type="bibr" rid="B51-viruses-05-00732">51</xref>,<xref ref-type="bibr" rid="B52-viruses-05-00732">52</xref>], is thought to contribute to clonal B cell expansion and local humoral responses distinct from those occurring systemically. The source of Ab and ASC within the CNS during or following viral encephalitis is largely unknown. Direct penetration of Ab from serum is inefficient due to the blood&#x02013;brain barrier (BBB). CSF to serum Ab ratios range from ~1:200&#x02013;1:500 in the healthy CNS [<xref ref-type="bibr" rid="B53-viruses-05-00732">53</xref>,<xref ref-type="bibr" rid="B54-viruses-05-00732">54</xref>], and are only elevated when BBB integrity is compromised (<xref ref-type="fig" rid="viruses-05-00732-f002">Figure 2</xref>A). Therefore, within the CNS, ASC likely provide a more effective and sustained Ab source. These cells can arise from focal ectopic follicle-like structures within the CNS (<xref ref-type="fig" rid="viruses-05-00732-f002">Figure 2</xref>B) and/or via direct migration of ASC activated in the periphery (<xref ref-type="fig" rid="viruses-05-00732-f002">Figure 2</xref>C). </p><fig id="viruses-05-00732-f002" position="float"><label>Figure 2</label><caption><p><bold>Models for sustained humoral response in CNS.</bold> (<bold>A</bold>) Direct penetration of serum Ab into the CNS when blood&#x02013;brain barrier (BBB) integrity is compromised. (<bold>B</bold>) Formation of ectopic follicle-like structures (B cells, T cells, stroma/dendritic cells (DC)) within the subarachnoid space or meninges giving rise to plasma blast (PB) and memory B cells (B<sub>mem</sub>). (<bold>C</bold>) Migration of peripherally activated PB into the CNS that further differentiate into plasma cells (PC).</p></caption><graphic xlink:href="viruses-05-00732-g002"/></fig></sec><sec><title>3. Neurotropic Virus Models</title><p>This review focuses on several neurotropic RNA viruses used as murine models of acute encephalitis, demyelinating disease, as well as persistence within the CNS. A common trait of these infections is the failure of T cells alone to provide sterile immunity, and a necessity for sustained local humoral responses to mediate virus control. Murine coronaviruses, also known as mouse hepatitis viruses (MHV), are positive single-stranded, enveloped RNA viruses comprising several strains and isolates that preferentially infect the gastrointestinal and respiratory tract, liver, and CNS. The dual neuro- and hepato-tropic MHV-A59 strain and prominent neurotropic John Howard Muller (JHM) strain, as well as a variety of variant and recombinant viruses, are commonly used to study acute encephalomyelitis and CNS viral persistence associated with demyelination [<xref ref-type="bibr" rid="B55-viruses-05-00732">55</xref>,<xref ref-type="bibr" rid="B56-viruses-05-00732">56</xref>,<xref ref-type="bibr" rid="B57-viruses-05-00732">57</xref>]. Much of the information available on B cells in the CNS discussed herein is derived from studies with the glia-tropic variant of MHV-JHM, designated 2.2v-1 [<xref ref-type="bibr" rid="B55-viruses-05-00732">55</xref>]. This virus primarily targets oligodendroglia, and, to a lesser extent, microglia/monocytes in the adult CNS. Neurons are sparsely infected and hepatitis is very rare following intracranial infection, contrasting with the MHV-A59 strain. T cell-dependent control of infectious MHV-JHM occurs within two weeks, independent of humoral immunity. However, persisting viral RNA and pro-inflammatory factors within the CNS demonstrate ongoing, low-level infection despite the continued presence of virus-specific T cells [<xref ref-type="bibr" rid="B52-viruses-05-00732">52</xref>,<xref ref-type="bibr" rid="B55-viruses-05-00732">55</xref>,<xref ref-type="bibr" rid="B58-viruses-05-00732">58</xref>]. While persisting viral RNA levels slowly decline in wild-type (WT) mice, the absence of anti-viral Ab results in the re-emergence of infectious virus after initial viral control [<xref ref-type="bibr" rid="B25-viruses-05-00732">25</xref>,<xref ref-type="bibr" rid="B59-viruses-05-00732">59</xref>,<xref ref-type="bibr" rid="B60-viruses-05-00732">60</xref>]. Viral persistence in a replication-competent form in the face of ongoing immune control is also a hallmark of infection by Sindbis virus (SINV), a prototype alphavirus used to study mechanisms of viral control in neurons [<xref ref-type="bibr" rid="B54-viruses-05-00732">54</xref>,<xref ref-type="bibr" rid="B61-viruses-05-00732">61</xref>]. SINV is a positive, single-stranded, enveloped RNA virus in the <italic>Togaviridae</italic> family that causes arthritis and rash in humans. Its ability to induce an acute, non-fatal encephalitis in mice provides a useful model for the arthropod-borne alphavirus-associated encephalitic outbreaks in North and South America [<xref ref-type="bibr" rid="B54-viruses-05-00732">54</xref>,<xref ref-type="bibr" rid="B62-viruses-05-00732">62</xref>,<xref ref-type="bibr" rid="B63-viruses-05-00732">63</xref>,<xref ref-type="bibr" rid="B64-viruses-05-00732">64</xref>,<xref ref-type="bibr" rid="B65-viruses-05-00732">65</xref>]. Like many encephalitic viruses, SINV primarily infects neurons [<xref ref-type="bibr" rid="B66-viruses-05-00732">66</xref>,<xref ref-type="bibr" rid="B67-viruses-05-00732">67</xref>,<xref ref-type="bibr" rid="B68-viruses-05-00732">68</xref>,<xref ref-type="bibr" rid="B69-viruses-05-00732">69</xref>,<xref ref-type="bibr" rid="B70-viruses-05-00732">70</xref>,<xref ref-type="bibr" rid="B71-viruses-05-00732">71</xref>]. In adult mice, infectious virus is cleared within eight days [<xref ref-type="bibr" rid="B71-viruses-05-00732">71</xref>], but viral RNA persists in the CNS up to one year after infection [<xref ref-type="bibr" rid="B54-viruses-05-00732">54</xref>]. Contrasting SINV, Semliki Forest virus (SFV), another alphavirus, primarily targets neurons and oligodendrocytes [<xref ref-type="bibr" rid="B72-viruses-05-00732">72</xref>,<xref ref-type="bibr" rid="B73-viruses-05-00732">73</xref>]. In humans, SFV causes fever, persistent headaches, myalgia, arthralgia and rare cases of meningoencephalomyelitis [<xref ref-type="bibr" rid="B74-viruses-05-00732">74</xref>,<xref ref-type="bibr" rid="B75-viruses-05-00732">75</xref>]. Infection of mice with SFV initiates an acute CNS inflammatory response associated with immune-mediated myelin loss [<xref ref-type="bibr" rid="B73-viruses-05-00732">73</xref>]. However, in contrast to SINV and MHV-induced encephalomyelitis, the relative roles of T and B cells in SFV pathogenesis are not as well defined. Rabies virus (RV), a neurotropic, negative-stranded, enveloped RNA virus in the <italic>Rhabdoviridae</italic> family is invariably lethal in humans without intervention. However, post-exposure prophylaxis is only efficacious upon administration of both RV-neutralizing Ab and active immunization [<xref ref-type="bibr" rid="B76-viruses-05-00732">76</xref>]. The necessity for the combined immunization regimen in post-exposure prophylaxis corroborates the dual requirement of T and B cell responses for efficient RV control in mice. Nevertheless, RV infection of mice is fatal in the absence of humoral immunity [<xref ref-type="bibr" rid="B77-viruses-05-00732">77</xref>], indicating that RV-specific Ab are essential for clearing the virus from the CNS. In contrast to the RNA viruses described above, there is no evidence of persisting viral RNA after clearance of infectious RV. Lastly, Theiler&#x02019;s murine encephalomyelitis virus (TMEV) is a representative of a positive, single-stranded, non-enveloped RNA virus in the <italic>Picornaviridae</italic> family. Atypical of most other picornavirus infections, strains of TMEV can establish CNS persistence. The ability to persist and cause demyelinating disease in susceptible SJL mice provides a well-studied model of MS [<xref ref-type="bibr" rid="B78-viruses-05-00732">78</xref>]. TMEV primarily infects neurons during the acute phase, but establishes persistence in glial cells and macrophages [<xref ref-type="bibr" rid="B79-viruses-05-00732">79</xref>,<xref ref-type="bibr" rid="B80-viruses-05-00732">80</xref>,<xref ref-type="bibr" rid="B81-viruses-05-00732">81</xref>]. However, similar to SFV infection, the role of Ab in anti-viral activity and TMEV persistence, characterized by the presence of infectious virus, remains unresolved. </p></sec><sec><title>4. Protective Mechanisms of Humoral Reponses in the CNS</title><p>Several lines of evidence highlight the essential role of humoral immunity within the CNS to control infections, either in conjunction with T cells or, subsequently, to peak T cell function. Ab-mediated protection generally correlates with the ability to neutralize virus infectivity. This neutralizing mechanism entails Ab binding to antigenic determinants on virions, thereby preventing attachment and subsequent entry into susceptible cells. Additional viral control mechanisms may involve the deposition of complement components on the virion, resulting in lysis, alterations in coat protein alignment or enhanced phagocytosis. Ab can also impede steps in viral entry or arm natural killer cells and macrophages to induce Ab-dependent cell-mediated cytolysis of virus-infected cells. While non-neutralizing Ab may contribute to the control of acute infection, the mechanism(s) and their ability to regulate viral persistence remains unclear. </p><p>During MHV-A59 infection, loss of viral control during persistence in the absence of humoral responses is unique to the CNS; the virus only recrudesces in the CNS, but not the liver [<xref ref-type="bibr" rid="B82-viruses-05-00732">82</xref>]. Moreover, although transfer of immune serum to B cell-deficient mice inhibits recrudescence initially, immune control is lost as Ab wanes [<xref ref-type="bibr" rid="B60-viruses-05-00732">60</xref>]. A similar necessity for sustained local Ab secretion in preventing viral recrudescence is evident during SINV infection. Anti-viral Ab transfer to SINV-infected severe combined immunodeficiency mice is only effective in the short term, thereby indicating that Ab controls a persisting reservoir of replication-competent virus [<xref ref-type="bibr" rid="B29-viruses-05-00732">29</xref>,<xref ref-type="bibr" rid="B83-viruses-05-00732">83</xref>,<xref ref-type="bibr" rid="B84-viruses-05-00732">84</xref>]. Passive transfer of virus-specific Ab to RV-infected B cell-deficient mice prior to peak CNS replication reduces&#x02014;but does not clear&#x02014;the infection [<xref ref-type="bibr" rid="B85-viruses-05-00732">85</xref>], despite access of Ab to the CNS [<xref ref-type="bibr" rid="B26-viruses-05-00732">26</xref>]. This therapeutic window coincides with enhanced BBB permeability early during virus CNS invasion and restoration of the BBB prior to viral clearance and peak virus serum Ab levels [<xref ref-type="bibr" rid="B86-viruses-05-00732">86</xref>]. Moreover, breach of the BBB is only modest, as indicated by the passage of molecules smaller than 4kDa [<xref ref-type="bibr" rid="B87-viruses-05-00732">87</xref>]. BBB integrity during MHV infection is also restored after 14 days (Bergmann CC, unpublished data), potentially contributing to the loss of viral control in the CNS following peripheral Ab transfer. The physiological recovery of BBB integrity following CNS infection highlight a narrow window for serum Ab to contribute to protection once virus infection is established within the CNS. During acute virus encephalitis associated with a breach in BBB integrity, serum Ab may be too low to affect CNS virus control. By contrast, under conditions of minimal sustained infection and inflammation, BBB integrity may be sufficiently restored to exclude circulating protective high affinity neutralizing Ab. </p><p>Passive transfer of virus epitope-specific Ab into humorally impaired mice all reveal viral glycoproteins mediating host cell entry as the crucial targets controlling persistence of enveloped viruses. Thus, only neutralizing Ab directed against the MHV spike (S) protein was efficacious, while Ab blocking fusion or directed against the nucleocapsid (N) protein had no beneficial effects in containing MHV recrudescence [<xref ref-type="bibr" rid="B25-viruses-05-00732">25</xref>]. Ab not only acts via neutralization of free virus, but by suppressing viral replication and/or release from persistently infected glia or neurons. This is supported by severely impaired clearance of infectious SINV from neurons in B cell-deficient mice [<xref ref-type="bibr" rid="B29-viruses-05-00732">29</xref>]. Furthermore, comparison of anti-SINV monoclonal Ab (mAb) directed at the envelope (E)1 and E2 viral glycoprotein revealed that reactivity to E2 most potently inhibits virus replication by a complement-independent mechanisms [<xref ref-type="bibr" rid="B54-viruses-05-00732">54</xref>]. In addition to neutralizing infectious virus, Ab-mediated cross-linking of E2 glycoproteins on the surface of SINV-infected cells prevents virus budding <italic>in vitro</italic> [<xref ref-type="bibr" rid="B29-viruses-05-00732">29</xref>,<xref ref-type="bibr" rid="B88-viruses-05-00732">88</xref>]. Binding of anti-E2 mAb to infected cells also restores membrane potential, host protein synthesis, and type I interferon (IFN) responsiveness [<xref ref-type="bibr" rid="B89-viruses-05-00732">89</xref>,<xref ref-type="bibr" rid="B90-viruses-05-00732">90</xref>]. Although the mechanisms underlying suppression of intracellular virus replication remain unclear, these data support the concept that anti-E2 mAb-mediated signal transduction events sustain cell function in the face of ongoing persisting infection. </p><p>The primary target of protective Ab during RV infection is also the glycoprotein responsible for cell entry [<xref ref-type="bibr" rid="B91-viruses-05-00732">91</xref>] and neutralization appears to be the primary protective mode [<xref ref-type="bibr" rid="B92-viruses-05-00732">92</xref>]. Nevertheless, similar to the SINV E2 glycoprotein, the RV glycoprotein is also expressed on the surface of infected cells, where it may function as a signal-transducing receptor once bound by Ab [<xref ref-type="bibr" rid="B93-viruses-05-00732">93</xref>]. Thus, non-cytolytic mechanisms, including inhibition of viral RNA transcription and prevention of cell-to-cell virus spread, may play additional roles in Ab-mediated protection [<xref ref-type="bibr" rid="B94-viruses-05-00732">94</xref>]. A similar signaling mechanism has yet to be described for cell surface-expressed MHV S protein engagement by exogenous Ab. Nevertheless, culture of MHV-infected cells in the presence of neutralizing Ab results in persistently infected cells, which only produce progeny virions following fusion with cell lines capable of supporting replication [<xref ref-type="bibr" rid="B95-viruses-05-00732">95</xref>]. </p><p>The roles of intrathecal Ab in SFV-induced encephalomyelitis are not as well defined, but studies concur that humoral immunity is required to efficiently control infectious virus [<xref ref-type="bibr" rid="B28-viruses-05-00732">28</xref>,<xref ref-type="bibr" rid="B96-viruses-05-00732">96</xref>]. While B cell-deficient mice cleared infectious virus from the CNS shortly after 21 days in one study [<xref ref-type="bibr" rid="B96-viruses-05-00732">96</xref>], infectious virus remained detectable at eight weeks in another [<xref ref-type="bibr" rid="B28-viruses-05-00732">28</xref>]. The role of Ab in SFV-mediated CNS pathology is also contentious. While SVF-induced demyelination is CD8 T cell dependent [<xref ref-type="bibr" rid="B97-viruses-05-00732">97</xref>], several studies implicate Ab in contributing to myelin pathology. CSF-derived Ab react with both viral and myelin proteins, indicating that molecular mimicry and/or epitope spreading may exacerbate myelin loss [<xref ref-type="bibr" rid="B98-viruses-05-00732">98</xref>]. Consistent with this concept, disease severity is decreased and less white matter vacuolation occurs in SFV-infected B cell-deficient mice compared to WT mice. Moreover, enhanced white matter vacuolation coincides with peak CD19<sup>+</sup> B cell infiltration into the CNS of WT mice [<xref ref-type="bibr" rid="B96-viruses-05-00732">96</xref>]. Pathogenic cross-reactive SFV-induced Ab is also supported by increased ipsilateral turning following microinfusion of serum containing anti-SFV Ab into the rat CNS [<xref ref-type="bibr" rid="B99-viruses-05-00732">99</xref>]. By contrast, other studies report no differences in myelin loss comparing SFV-infected WT and B cell-deficient mice [<xref ref-type="bibr" rid="B28-viruses-05-00732">28</xref>]. Even a beneficial Ab role is indicated by the ability of anti-SFV E2 Ab to promote remyelination in both SFV-infected mice, as well as mice affected by experimental autoimmune encephalomyelitis [<xref ref-type="bibr" rid="B100-viruses-05-00732">100</xref>,<xref ref-type="bibr" rid="B101-viruses-05-00732">101</xref>]. </p><p>A potential protective role of TMEV-specific Ab is not well characterized. B cell-deficient mice on the B6 background, resistant to TMEV-induced demyelinating disease, do not exhibit enhanced susceptibility [<xref ref-type="bibr" rid="B102-viruses-05-00732">102</xref>], consistent with T cell-mediated viral clearance. Only a combined deficiency in B cells, in addition to the CD8 T cells, results in viral encephalitis and neurological disease [<xref ref-type="bibr" rid="B102-viruses-05-00732">102</xref>]. By contrast, viral replication is increased in the CNS of susceptible SJL mice depleted of B cells relative to controls, indicating Ab contributes to TMEV control [<xref ref-type="bibr" rid="B103-viruses-05-00732">103</xref>]. While B cells isolated from the CNS of TMEV-infected mice predominantly secrete Ab specific to viral capsid proteins, Ig reactive to several white matter components are also detected in susceptible SJL mice [<xref ref-type="bibr" rid="B104-viruses-05-00732">104</xref>]. Furthermore, Ab specific to TMEV capsid protein VP1 cross-reacts with galactocerebroside on myelin and oligodendroglia [<xref ref-type="bibr" rid="B105-viruses-05-00732">105</xref>,<xref ref-type="bibr" rid="B106-viruses-05-00732">106</xref>]. Although a pathogenic role of Ab in TMEV-infected mice is suggested by the correlation of neurological disability with accumulation of ASC and production of Ab in the CNS, and not serum Ab titers [<xref ref-type="bibr" rid="B30-viruses-05-00732">30</xref>], these observations are yet to be confirmed. </p></sec><sec><title>5. Kinetics of B Cell CNS Recruitment and Migration Signals</title><p>During MHV infection, virus-specific ASC (vASC) initially accumulate in the CNS 10&#x02013;14 days after infection, peak at three weeks well after the infectious virus is cleared, and slowly decline thereafter [<xref ref-type="bibr" rid="B55-viruses-05-00732">55</xref>]. Nevertheless, vASC are detected for at least 90 days after infection, when viral RNA levels are very low. Peak expansion of vASC in lymphoid organs precedes accumulation in the CNS, indicating activation in the periphery [<xref ref-type="bibr" rid="B107-viruses-05-00732">107</xref>,<xref ref-type="bibr" rid="B108-viruses-05-00732">108</xref>]. All four IgG isotypes are present in the CNS of persistently infected mice with IgG2b &#x0003e; IgG2a &#x0003e; IgG1 &#x0003e; IgG3 [<xref ref-type="bibr" rid="B107-viruses-05-00732">107</xref>]. The majority of vASC in the CNS secrete IgG, while smaller fractions produce IgM and IgA [<xref ref-type="bibr" rid="B107-viruses-05-00732">107</xref>]. Despite their relatively low frequency, neutralizing IgM ASC alone are sufficient to provide long-term protection from virus-induced demyelination following MHV-A59 infection [<xref ref-type="bibr" rid="B109-viruses-05-00732">109</xref>]. ASC accumulating in the CNS within the first two weeks of infection are exclusively specific for the viral S and N proteins; however, they only constitute about 50% of total vASC by day 21 after infection, thus suggesting the emergence of novel ASC specificities during persistence [<xref ref-type="bibr" rid="B107-viruses-05-00732">107</xref>]. </p><p>Following SINV infection, extrafollicularly derived SINV-specific IgM<sup>+</sup> ASC are detected in the CNS by day 3, followed by accumulation and enrichment of SINV-specific IgG<sup>+</sup> and IgA<sup>+</sup> ASC [<xref ref-type="bibr" rid="B83-viruses-05-00732">83</xref>,<xref ref-type="bibr" rid="B110-viruses-05-00732">110</xref>]. SINV-specific IgM in the CNS peaks by day 14, while IgA and IgG are maximal at 1 and 4 months after infection, respectively, at which time IgM has dropped below detection [<xref ref-type="bibr" rid="B71-viruses-05-00732">71</xref>]. The early recruitment of IgM<sup>+</sup> ASC and local IgM production likely cooperate with IFN-&#x003b3;-secreting CD8 T cells to eliminate infectious virus [<xref ref-type="bibr" rid="B61-viruses-05-00732">61</xref>]. Subsequent accumulation of SINV-specific IgG<sup>+</sup> and IgA<sup>+</sup> ASC coincides with persisting viral RNA, suggesting these Ig prevent virus reactivation [<xref ref-type="bibr" rid="B71-viruses-05-00732">71</xref>]. SINV-specific ASC are detected for at least a year after infection. [<xref ref-type="bibr" rid="B83-viruses-05-00732">83</xref>], thereby supporting an essential role for intrathecal Ab production. </p><p>Less is known about the kinetics and isotype specificity of B cells accumulating in the CNS during SFV, RV, and TMEV infections. Following SFV infection, the percentage of CD19<sup>+</sup> B cells within CNS infiltrating lymphocytes increases from ~20% at day 7, to ~75% at day 21, and significantly drops by day 35 [<xref ref-type="bibr" rid="B96-viruses-05-00732">96</xref>]. Furthermore, intrathecal Ab are detected months after infection [<xref ref-type="bibr" rid="B111-viruses-05-00732">111</xref>,<xref ref-type="bibr" rid="B112-viruses-05-00732">112</xref>]. CD19<sup>+</sup> B cells are detected in the CNS of RV-infected mice, while mRNAs specific for &#x003ba;-light chain continue to increase in the CNS weeks after peak viral replication [<xref ref-type="bibr" rid="B86-viruses-05-00732">86</xref>]. Moreover, a significantly higher proportion of RV-specific ASC are present in the CNS than in circulation, suggesting vASC are preferentially recruited to, or expand in, the CNS [<xref ref-type="bibr" rid="B26-viruses-05-00732">26</xref>]. During TMEV infection, ASC are detected in the CNS five weeks after infection and continue to increase with the predominant isotypes being IgG2a and IgG2b followed by IgA &#x0003e; IgG1 &#x0003e; IgG3 &#x0003e; IgM [<xref ref-type="bibr" rid="B104-viruses-05-00732">104</xref>]. Notably, only ~30&#x02013;40% of ASC in the CNS 2&#x02013;3 months after TMEV infection are virus specific [<xref ref-type="bibr" rid="B30-viruses-05-00732">30</xref>], indicating other yet-to-be-defined specificities, perhaps to self-Ag. Overall, the relevance of IgA, normally associated with mucosal immunity [<xref ref-type="bibr" rid="B113-viruses-05-00732">113</xref>] during CNS infections is unclear.</p><p>The signals promoting and sustaining humoral immunity within the CNS are beginning to be defined. Prominent ASC expansion in cervical lymph nodes prior to CNS migration during MHV-JHM infection is accompanied by their expression of CXCR4 and CXCR3. The absence of CXCR3 specifically impairs ASC recruitment to the CNS, but not BM [<xref ref-type="bibr" rid="B27-viruses-05-00732">27</xref>]. CXCR3 thus appears redundant for ASC egress into circulation, but regulates migration to the site of inflammation [<xref ref-type="bibr" rid="B27-viruses-05-00732">27</xref>]. CXCR3 expression is also required for accumulation of IgM<sup>+</sup> ASC in the CNS during MHV-A59 CNS infection [<xref ref-type="bibr" rid="B109-viruses-05-00732">109</xref>]. Furthermore, CXCR3 engagement appears to directly mobilize ASC independent of T cells, as neither T cell recruitment nor their anti-viral activity is affected in CXCR3-deficient mice [<xref ref-type="bibr" rid="B27-viruses-05-00732">27</xref>,<xref ref-type="bibr" rid="B109-viruses-05-00732">109</xref>]. In addition to mediating ASC migration, CXCR3 thus also guides ASC localization within the parenchyma (<xref ref-type="fig" rid="viruses-05-00732-f003">Figure 3</xref>), as indicated by vascular retention of the few ASC detected in the CNS of CXCR3-deficient mice. By contrast, in WT mice, ASC are abundant in the parenchyma and vasculature associated with demyelinated lesions and adjacent white matter [<xref ref-type="bibr" rid="B27-viruses-05-00732">27</xref>,<xref ref-type="bibr" rid="B108-viruses-05-00732">108</xref>]. Importantly, the inability to maintain control of persisting virus in MHV-JHM-infected CXCR3-deficient mice, although anti-viral serum Ab is not impaired [<xref ref-type="bibr" rid="B27-viruses-05-00732">27</xref>], confirms the necessity of intrathecal vASC in preventing viral re-emergence. </p><fig id="viruses-05-00732-f003" position="float"><label>Figure 3</label><caption><p><bold>CNS B cell recruitment/maintenance during glia-tropic MHV infection.</bold> Recruitment of circulating antibody-secreting cells (ASC) into the CNS is CXCR3 dependent (1). While CXCL9 and CXCL10 presentation at the microvasculature may promote initial ASC recruitment, astrocyte-derived CXCL10 mediates ASC entry and parenchymal localization (1 and 2). ASC proliferation/differentiation may be aided by CD4 T cell-derived IL-21 (3). Moreover, sustained elevated expression of astrocyte-derived BAFF and APRIL provides a local niche supporting ASC survival (4). Memory B cell (B<sub>mem</sub>) recruitment and antigen (Ag)-driven differentiation in the inflamed CNS may further contribute to the local ASC population (5). PB = plasma blast; EC = endothelial cell; AST = astrocyte; DC = dendritic cell; PM<inline-graphic xlink:href="viruses-05-00732-i001.jpg"/> = perivasacular macrophage; N = neuron; OLG = oligoendroglia</p></caption><graphic xlink:href="viruses-05-00732-g003"/></fig><p>CXCR3-mediated accumulation of ASC is consistent with the sustained expression of the CXCR3 ligands CXCL9, CXCL10, and CXCL11 throughout CNS MHV-JHM infection [<xref ref-type="bibr" rid="B52-viruses-05-00732">52</xref>,<xref ref-type="bibr" rid="B108-viruses-05-00732">108</xref>]. While CXCL9 expression is strongly dependent on IFN-&#x003b3;, CXCL10 and CXCL11 are additionally upregulated by IFN&#x003b1;/&#x003b2; and tumor necrosis factor (TNF) [<xref ref-type="bibr" rid="B114-viruses-05-00732">114</xref>,<xref ref-type="bibr" rid="B115-viruses-05-00732">115</xref>,<xref ref-type="bibr" rid="B116-viruses-05-00732">116</xref>]. CXCL10 mRNA is predominantly expressed by astrocytes in the vicinity of viral RNA during MHV-JHM persistence <italic>in vivo</italic> [<xref ref-type="bibr" rid="B117-viruses-05-00732">117</xref>]. Analysis of CXCL10 protein localization confirmed astrocytes as the prominent source of CXCL10 [<xref ref-type="bibr" rid="B118-viruses-05-00732">118</xref>] (<xref ref-type="fig" rid="viruses-05-00732-f003">Figure 3</xref>). By contrast, CXCL9 protein is confined to the neurovasculature [<xref ref-type="bibr" rid="B118-viruses-05-00732">118</xref>] (<xref ref-type="fig" rid="viruses-05-00732-f003">Figure 3</xref>). Despite similar migration capacities of ASC to CXCL9 and CXCL10 <italic>in vitro</italic> [<xref ref-type="bibr" rid="B119-viruses-05-00732">119</xref>], ASC accumulation in the CNS was impaired in CXCL10-deficient, but not CXCL9-deficient mice, suggesting CXCL10 is critical to recruit ASC into the CNS during MHV infection [<xref ref-type="bibr" rid="B118-viruses-05-00732">118</xref>]. </p><p>The majority of CD19<sup>+</sup> B cells infiltrating the SINV-infected CNS also express CXCR3 with a smaller proportion expressing CCR5, the receptor for CCL3/CCL5, or CCR7, a receptor for CCL19/CCL2 [<xref ref-type="bibr" rid="B120-viruses-05-00732">120</xref>]. CXCL10 and CXCL13, but not CXCL9 or CXCL12, are elevated by day 4 in the CNS of SINV-infected mice [<xref ref-type="bibr" rid="B121-viruses-05-00732">121</xref>]; however, the chemokines attracting ASC have not been identified. CXCL13 appears redundant, as infection of CXCL13-deficient mice does not affect CNS accumulation of CD19<sup>+</sup> B cells [<xref ref-type="bibr" rid="B121-viruses-05-00732">121</xref>], leaving CXCL10 as a likely candidate to recruit SINV-specific ASC to the CNS. CXCR3 ligands are also induced in the CNS of SFV, RV and TMEV-infected mice, but their roles in ASC recruitment are yet to be assessed. CXCL9 and CXCL10 mRNA are induced by RV infection and remain elevated as &#x003ba;-light chain mRNAs accumulate to high levels in the CNS [<xref ref-type="bibr" rid="B86-viruses-05-00732">86</xref>,<xref ref-type="bibr" rid="B122-viruses-05-00732">122</xref>]. Although RV infection of a microglial cell line directly induces CXCL10 [<xref ref-type="bibr" rid="B123-viruses-05-00732">123</xref>], microglia, as a source of CXCL10 <italic>in vivo</italic>, remains to be confirmed. In the TMEV-infected CNS, the biphasic and regionally restricted CXCL10 expression pattern corresponds to the shift in virus replication from the grey to white matter during chronic demyelination [<xref ref-type="bibr" rid="B124-viruses-05-00732">124</xref>,<xref ref-type="bibr" rid="B125-viruses-05-00732">125</xref>,<xref ref-type="bibr" rid="B126-viruses-05-00732">126</xref>]. However neither the source of CXCL10, nor its relevance to humoral CNS immune responses, is characterized. </p><p>It is intriguing that astrocytes are rarely infected by MHV-JHM [<xref ref-type="bibr" rid="B127-viruses-05-00732">127</xref>] suggesting their CXCL10 expression is driven by T cell-derived IFN-&#x003b3; rather than infection itself. CXCL10 is also induced in primary astrocyte cultures infected with TMEV or treated with IFN-&#x003b3; [<xref ref-type="bibr" rid="B128-viruses-05-00732">128</xref>]. These findings support the notion that astrocytes are main CXCL10 producers under inflammatory conditions where IFN-&#x003b3; levels are high, irrespective of virus tropism. On the other hand, in settings where local IFN-&#x003b3; production is less prominent, the response of infected cells may regulate ASC recruitment and positioning, especially under conditions of potent pattern recognition receptor and/or IFN-&#x003b1;/&#x003b2; signaling. For example, CXCL10 induction in infected neurons [<xref ref-type="bibr" rid="B129-viruses-05-00732">129</xref>] can direct regional migration of T cells and possibly also ASC. Direct comparison of virus variants with distinct tropism, in conjunction with their associated pro-inflammatory responses, may address this question in the future. </p></sec><sec><title>6. ASC Differentiation and Survival in the CNS</title><p>Ectopic lymphoid follicle-like structures replenishing ASC appear to be absent following viral CNS infections, distinct from chronic CNS autoimmune disorders [<xref ref-type="bibr" rid="B130-viruses-05-00732">130</xref>,<xref ref-type="bibr" rid="B131-viruses-05-00732">131</xref>,<xref ref-type="bibr" rid="B132-viruses-05-00732">132</xref>]. Nevertheless, analysis of both the MHV and SINV models indicate that ASC trafficking to the CNS subsequently differentiate and establish residence. ASC initially recruited to the CNS of MHV and SINV-infected WT mice reveal an early, MHC class II positive, PB phenotype. Subsequent differentiation to a more terminally differentiated sessile PC phenotype is indicated by the gradual loss of MHC class II expression [<xref ref-type="bibr" rid="B71-viruses-05-00732">71</xref>,<xref ref-type="bibr" rid="B108-viruses-05-00732">108</xref>]. Nevertheless, although PB are the most abundant B cell population late during SINV infection, only few fully differentiated ASC are evident, while B<sub>mem</sub> cells are readily detectable [<xref ref-type="bibr" rid="B71-viruses-05-00732">71</xref>]. The mechanisms driving ongoing differentiation and activation of PB or B<sub>mem</sub> is unresolved but may reside in CNS chemokines [<xref ref-type="bibr" rid="B133-viruses-05-00732">133</xref>], viral Ag, and/or CD4 T cell help. A role of CD4 T cells during both MHV and SINV persistence is implied by sustained expression of IL-10 and IL-21 cytokines [<xref ref-type="bibr" rid="B52-viruses-05-00732">52</xref>,<xref ref-type="bibr" rid="B120-viruses-05-00732">120</xref>,<xref ref-type="bibr" rid="B134-viruses-05-00732">134</xref>] (<xref ref-type="fig" rid="viruses-05-00732-f003">Figure 3</xref>) promoting B cell proliferation/differentiation [<xref ref-type="bibr" rid="B135-viruses-05-00732">135</xref>,<xref ref-type="bibr" rid="B136-viruses-05-00732">136</xref>,<xref ref-type="bibr" rid="B137-viruses-05-00732">137</xref>]. Furthermore, active <italic>in situ</italic> proliferation is supported by Ki-67<sup>+</sup> and BrdU<sup>+</sup> B cells in the CNS of persistently SINV-infected mice [<xref ref-type="bibr" rid="B120-viruses-05-00732">120</xref>]. </p><p>Irrespective of factors contributing to an increased fraction of differentiated ASC over time, prolonged retention and maintenance of ASC within the CNS is supported by upregulation and sustained expression of BAFF and a proliferating-inducing ligand (APRIL) during infection [<xref ref-type="bibr" rid="B52-viruses-05-00732">52</xref>,<xref ref-type="bibr" rid="B108-viruses-05-00732">108</xref>,<xref ref-type="bibr" rid="B120-viruses-05-00732">120</xref>]. Concomitantly, a portion of B cells infiltrating the SINV-infected CNS express BAFF receptor [<xref ref-type="bibr" rid="B120-viruses-05-00732">120</xref>], and transcripts for B cell maturation Ag and transmembrane activator and calcium modulator ligand interactor increase as ASC accumulate during MHV persistence [<xref ref-type="bibr" rid="B52-viruses-05-00732">52</xref>]. While elevated BAFF expression is observed in both MHV and SINV infection, APRIL upregulation is only evident during MHV-JHM infection [<xref ref-type="bibr" rid="B52-viruses-05-00732">52</xref>,<xref ref-type="bibr" rid="B120-viruses-05-00732">120</xref>], suggesting virus-specific regulation of B cell survival factors. Similar to CXCL10, both BAFF and APRIL localize predominantly to astrocytes [<xref ref-type="bibr" rid="B52-viruses-05-00732">52</xref>], enforcing their prominent role in recruitment, as well as their maintenance of ASC during MHV-JHM infection (<xref ref-type="fig" rid="viruses-05-00732-f003">Figure 3</xref>). </p></sec><sec><title>7. Summary and Future Perspectives</title><p>The inflamed CNS provides a supportive microenvironment for intrathecal Ab production. In fact, the milieu within the CNS associated with RNA viral persistence is characterized by long-term retention of ASC, which appear essential in preventing viral recrudescence. Increasing evidence demonstrates that virus-induced humoral responses within the CNS are highly dynamic with early recruitment of naive B cells, as well as IgM<sup>+</sup> and IgA<sup>+</sup> PB, which are gradually replaced by IgG<sup>+</sup> PB with time. Ongoing local B cell differentiation is further supported by a more differentiated ASC phenotype resembling the long-lived PC found in the BM. However, unlike chronic autoimmune inflammation or neuroborreliosis [<xref ref-type="bibr" rid="B10-viruses-05-00732">10</xref>,<xref ref-type="bibr" rid="B131-viruses-05-00732">131</xref>,<xref ref-type="bibr" rid="B132-viruses-05-00732">132</xref>], there is little evidence for ectopic lymphoid-like follicle formation as a consequence of viral encephalitis or persistence. Rather, ASC appear directly recruited from peripheral lymphoid organs, with CXCR3-mediated signaling providing essential migration cues. The source of CXCR3 ligands within the CNS appears dependent on viral tropism, as well as induction of IFN-&#x003b1;/&#x003b2; and strength of pro-inflammatory signals such as TNF and IFN-&#x003b3;. Astrocytes may be strategically relevant for ASC accumulation and survival based on their integral role in maintaining the glia limitans component of the BBB and bystander capacity to produce the CXCR3 ligand CXCL10, as well as the ASC survival factors BAFF and APRIL. Whether activated astrocytes play additional roles in promoting B cell differentiation via chemokine or cytokine expression remains to be investigated. Similarly, additional roles of dendritic type cells, viral Ag, and CD4 T cells in driving B cell differentiation locally remain to be explored. Overall, the reliance on local ASC for prolonged protective Ab output, under conditions in which the BBB is relatively intact, may be critical in providing sustained immune control of numerous neurotropic infections. The highly tenuous balance in immune control of persisting viruses is revealed by targeted intervention blocking lymphocyte trafficking in MS patients [<xref ref-type="bibr" rid="B23-viruses-05-00732">23</xref>,<xref ref-type="bibr" rid="B138-viruses-05-00732">138</xref>]. Future focus on the factors regulating B cell differentiation and/or CNS entry, such as IL-21 or CXCL10, may lead to more efficacious strategies to enhance protective humoral immunity during viral encephalitis or impede accumulation of detrimental B cells.</p></sec></body><back><ack><title>Acknowledgements</title><p>NIH grants R56 AI047249 and RO1 AI047249 supported this work.</p></ack><notes><title>Conflict of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-viruses-05-00732"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGavern</surname><given-names>D.B.</given-names></name><name><surname>Kang</surname><given-names>S.S.</given-names></name></person-group>
+<article-title>Illuminating viral infections in the nervous system</article-title>
+<source>Nat. Rev. Immunol</source>
+<year>2011</year>
+<volume>11</volume>
+<fpage>318</fpage>
+<lpage>329</lpage>
+<pub-id pub-id-type="doi">10.1038/nri2971</pub-id>
+<pub-id pub-id-type="pmid">21508982</pub-id></element-citation></ref><ref id="B2-viruses-05-00732"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Owens</surname><given-names>G.P.</given-names></name><name><surname>Gilden</surname><given-names>D.</given-names></name><name><surname>Burgoon</surname><given-names>M.P.</given-names></name><name><surname>Yu</surname><given-names>X.</given-names></name><name><surname>Bennett</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>Viruses and multiple sclerosis</article-title>
+<source>Neurosci.</source>
+<year>2011</year>
+<volume>17</volume>
+<fpage>659</fpage>
+<lpage>676</lpage>
+</element-citation></ref><ref id="B3-viruses-05-00732"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weissert</surname><given-names>R.</given-names></name></person-group>
+<article-title>Progressive multifocal leukoencephalopathy</article-title>
+<source>J. Neuroimmunol.</source>
+<year>2011</year>
+<volume>231</volume>
+<fpage>73</fpage>
+<lpage>77</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jneuroim.2010.09.021</pub-id>
+<pub-id pub-id-type="pmid">20937530</pub-id></element-citation></ref><ref id="B4-viruses-05-00732"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wong</surname><given-names>K.T.</given-names></name></person-group>
+<article-title>Emerging epidemic viral encephalitides with a special focus on henipaviruses</article-title>
+<source>Acta Neuropath.</source>
+<year>2010</year>
+<volume>120</volume>
+<fpage>317</fpage>
+<lpage>325</lpage>
+<pub-id pub-id-type="doi">10.1007/s00401-010-0720-z</pub-id>
+<pub-id pub-id-type="pmid">20652579</pub-id></element-citation></ref><ref id="B5-viruses-05-00732"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>N.</given-names></name><name><surname>Cunningham</surname><given-names>A.F.</given-names></name><name><surname>Fooks</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>The immune response to rabies virus infection and vaccination</article-title>
+<source>Vaccine</source>
+<year>2010</year>
+<volume>28</volume>
+<fpage>3896</fpage>
+<lpage>3901</lpage>
+<pub-id pub-id-type="doi">10.1016/j.vaccine.2010.03.039</pub-id>
+<pub-id pub-id-type="pmid">20368119</pub-id></element-citation></ref><ref id="B6-viruses-05-00732"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gonzalez-Scarano</surname><given-names>F.</given-names></name><name><surname>Martin-Garcia</surname><given-names>J.</given-names></name></person-group>
+<article-title>The neuropathogenesis of AIDS</article-title>
+<source>Nat. Rev. Immunol</source>
+<year>2005</year>
+<volume>5</volume>
+<fpage>69</fpage>
+<lpage>81</lpage>
+<pub-id pub-id-type="doi">10.1038/nri1527</pub-id>
+<pub-id pub-id-type="pmid">15630430</pub-id></element-citation></ref><ref id="B7-viruses-05-00732"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Denizot</surname><given-names>M.</given-names></name><name><surname>Neal</surname><given-names>J.W.</given-names></name><name><surname>Gasque</surname><given-names>P.</given-names></name></person-group>
+<article-title>Encephalitis due to emerging viruses: CNS innate immunity and potential therapeutic targets</article-title>
+<source>J. Infect.</source>
+<year>2012</year>
+<volume>65</volume>
+<fpage>1</fpage>
+<lpage>16</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jinf.2012.03.019</pub-id>
+<pub-id pub-id-type="pmid">22484271</pub-id></element-citation></ref><ref id="B8-viruses-05-00732"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skoldenberg</surname><given-names>B.</given-names></name><name><surname>Kalimo</surname><given-names>K.</given-names></name><name><surname>Carlstrom</surname><given-names>A.</given-names></name><name><surname>Forsgren</surname><given-names>M.</given-names></name><name><surname>Halonen</surname><given-names>P.</given-names></name></person-group>
+<article-title>Herpes simplex encephalitis: A serological follow-up study. Synthesis of herpes simplex virus immunoglobulin M, A, and G antibodies and development of oligoclonal immunoglobulin G in the central nervous system</article-title>
+<source>Acta Neurol. Scand.</source>
+<year>1981</year>
+<volume>63</volume>
+<fpage>273</fpage>
+<lpage>285</lpage>
+<pub-id pub-id-type="pmid">7223358</pub-id></element-citation></ref><ref id="B9-viruses-05-00732"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schultze</surname><given-names>D.</given-names></name><name><surname>Weder</surname><given-names>B.</given-names></name><name><surname>Cassinotti</surname><given-names>P.</given-names></name><name><surname>Vitek</surname><given-names>L.</given-names></name><name><surname>Krausse</surname><given-names>K.</given-names></name><name><surname>Fierz</surname><given-names>W.</given-names></name></person-group>
+<article-title>Diagnostic significance of intrathecally produced herpes simplex and varizella-zoster virus-specific antibodies in central nervous system infections</article-title>
+<source>Swiss Med.</source>
+<year>2004</year>
+<volume>134</volume>
+<fpage>700</fpage>
+<lpage>704</lpage>
+</element-citation></ref><ref id="B10-viruses-05-00732"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Narayan</surname><given-names>K.</given-names></name><name><surname>Dail</surname><given-names>D.</given-names></name><name><surname>Li</surname><given-names>L.</given-names></name><name><surname>Cadavid</surname><given-names>D.</given-names></name><name><surname>Amrute</surname><given-names>S.</given-names></name><name><surname>Fitzgerald-Bocarsly</surname><given-names>P.</given-names></name><name><surname>Pachner</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>The nervous system as ectopic germinal center: CXCL13 and IgG in lyme neuroborreliosis</article-title>
+<source>Ann. Neurol.</source>
+<year>2005</year>
+<volume>57</volume>
+<fpage>813</fpage>
+<lpage>823</lpage>
+<pub-id pub-id-type="doi">10.1002/ana.20486</pub-id>
+<pub-id pub-id-type="pmid">15929033</pub-id></element-citation></ref><ref id="B11-viruses-05-00732"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burke</surname><given-names>D.S.</given-names></name><name><surname>Nisalak</surname><given-names>A.</given-names></name><name><surname>Lorsomrudee</surname><given-names>W.</given-names></name><name><surname>Ussery</surname><given-names>M.A.</given-names></name><name><surname>Laorpongse</surname><given-names>T.</given-names></name></person-group>
+<article-title>Virus-specific antibody-producing cells in blood and cerebrospinal fluid in acute Japanese encephalitis</article-title>
+<source>J. Med. Virol.</source>
+<year>1985</year>
+<volume>17</volume>
+<fpage>283</fpage>
+<lpage>292</lpage>
+<pub-id pub-id-type="doi">10.1002/jmv.1890170310</pub-id>
+<pub-id pub-id-type="pmid">2999326</pub-id></element-citation></ref><ref id="B12-viruses-05-00732"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Studahl</surname><given-names>M.</given-names></name><name><surname>Lindquist</surname><given-names>L.</given-names></name><name><surname>Eriksson</surname><given-names>B.M.</given-names></name><name><surname>Gunther</surname><given-names>G.</given-names></name><name><surname>Bengner</surname><given-names>M.</given-names></name><name><surname>Franzen-Rohl</surname><given-names>E.</given-names></name><name><surname>Fohlman</surname><given-names>J.</given-names></name><name><surname>Bergstrom</surname><given-names>T.</given-names></name><name><surname>Aurelius</surname><given-names>E.</given-names></name></person-group>
+<article-title>Acute Viral Infections of the Central Nervous System in Immunocompetent Adults: Diagnosis and Management</article-title>
+<source>Drugs</source>
+<year>2013</year>
+<comment>(in press)</comment>
+</element-citation></ref><ref id="B13-viruses-05-00732"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jacobi</surname><given-names>C.</given-names></name><name><surname>Lange</surname><given-names>P.</given-names></name><name><surname>Reiber</surname><given-names>H.</given-names></name></person-group>
+<article-title>Quantitation of intrathecal antibodies in cerebrospinal fluid of subacute sclerosing panencephalitis, herpes simplex encephalitis and multiple sclerosis: discrimination between microorganism-driven and polyspecific immune response</article-title>
+<source>J. Neuroimmunol.</source>
+<year>2007</year>
+<volume>187</volume>
+<fpage>139</fpage>
+<lpage>146</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jneuroim.2007.04.002</pub-id>
+<pub-id pub-id-type="pmid">17512988</pub-id></element-citation></ref><ref id="B14-viruses-05-00732"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burke</surname><given-names>D.S.</given-names></name><name><surname>Nisalak</surname><given-names>A.</given-names></name><name><surname>Ussery</surname><given-names>M.A.</given-names></name><name><surname>Laorakpongse</surname><given-names>T.</given-names></name><name><surname>Chantavibul</surname><given-names>S.</given-names></name></person-group>
+<article-title>Kinetics of IgM and IgG responses to Japanese encephalitis virus in human serum and cerebrospinal fluid</article-title>
+<source>J. Infect. Dis.</source>
+<year>1985</year>
+<volume>151</volume>
+<fpage>1093</fpage>
+<lpage>1099</lpage>
+<pub-id pub-id-type="doi">10.1093/infdis/151.6.1093</pub-id>
+<pub-id pub-id-type="pmid">2987367</pub-id></element-citation></ref><ref id="B15-viruses-05-00732"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roivainen</surname><given-names>M.</given-names></name><name><surname>Agboatwalla</surname><given-names>M.</given-names></name><name><surname>Stenvik</surname><given-names>M.</given-names></name><name><surname>Rysa</surname><given-names>T.</given-names></name><name><surname>Akram</surname><given-names>D.S.</given-names></name><name><surname>Hovi</surname><given-names>T.</given-names></name></person-group>
+<article-title>Intrathecal immune response and virus-specific immunoglobulin M antibodies in laboratory diagnosis of acute poliomyelitis</article-title>
+<source>J. Clin. Microbiol.</source>
+<year>1993</year>
+<volume>31</volume>
+<fpage>2427</fpage>
+<lpage>2432</lpage>
+<pub-id pub-id-type="pmid">8408567</pub-id></element-citation></ref><ref id="B16-viruses-05-00732"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaiser</surname><given-names>R.</given-names></name><name><surname>Dorries</surname><given-names>R.</given-names></name><name><surname>Luer</surname><given-names>W.</given-names></name><name><surname>Poser</surname><given-names>S.</given-names></name><name><surname>Pohle</surname><given-names>H.D.</given-names></name><name><surname>Felgenhauer</surname><given-names>K.</given-names></name><name><surname>ter Meulen</surname><given-names>V.</given-names></name></person-group>
+<article-title>Analysis of oligoclonal antibody bands against individual HIV structural proteins in the CSF of patients infected with HIV</article-title>
+<source>J. Neurol.</source>
+<year>1989</year>
+<volume>236</volume>
+<fpage>157</fpage>
+<lpage>160</lpage>
+<pub-id pub-id-type="doi">10.1007/BF00314332</pub-id>
+<pub-id pub-id-type="pmid">2709064</pub-id></element-citation></ref><ref id="B17-viruses-05-00732"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vandvik</surname><given-names>B.</given-names></name><name><surname>Weil</surname><given-names>M.L.</given-names></name><name><surname>Grandien</surname><given-names>M.</given-names></name><name><surname>Norrby</surname><given-names>E.</given-names></name></person-group>
+<article-title>Progressive rubella virus panencephalitis: synthesis of oligoclonal virus-specific IgG antibodies and homogeneous free light chains in the central nervous system</article-title>
+<source>Acta Neurol. Scand.</source>
+<year>1978</year>
+<volume>57</volume>
+<fpage>53</fpage>
+<lpage>64</lpage>
+<pub-id pub-id-type="pmid">415504</pub-id></element-citation></ref><ref id="B18-viruses-05-00732"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vandvik</surname><given-names>B.</given-names></name><name><surname>Norrby</surname><given-names>E.</given-names></name></person-group>
+<article-title>Oligoclonal IgG antibody response in the central nervous system to different measles virus antigens in subacute sclerosing panencephalitis</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>1973</year>
+<volume>70</volume>
+<fpage>1060</fpage>
+<lpage>1063</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.70.4.1060</pub-id>
+<pub-id pub-id-type="pmid">4515604</pub-id></element-citation></ref><ref id="B19-viruses-05-00732"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thakare</surname><given-names>J.P.</given-names></name><name><surname>Gore</surname><given-names>M.M.</given-names></name><name><surname>Risbud</surname><given-names>A.R.</given-names></name><name><surname>Banerjee</surname><given-names>K.</given-names></name><name><surname>Ghosh</surname><given-names>S.N.</given-names></name></person-group>
+<article-title>Detection of virus specific IgG subclasses in Japanese encephalitis patients</article-title>
+<source>Indian J. Med. Res.</source>
+<year>1991</year>
+<volume>93</volume>
+<fpage>271</fpage>
+<lpage>276</lpage>
+<pub-id pub-id-type="pmid">1663915</pub-id></element-citation></ref><ref id="B20-viruses-05-00732"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ryzhova</surname><given-names>E.</given-names></name><name><surname>Aye</surname><given-names>P.</given-names></name><name><surname>Harvey</surname><given-names>T.</given-names></name><name><surname>Cao</surname><given-names>W.</given-names></name><name><surname>Lackner</surname><given-names>A.</given-names></name><name><surname>Gonzalez-Scarano</surname><given-names>F.</given-names></name></person-group>
+<article-title>Intrathecal humoral responses are inversely associated with the frequency of simian immunodeficiency virus macrophage-tropic variants in the central nervous system</article-title>
+<source>J. Virol.</source>
+<year>2009</year>
+<volume>83</volume>
+<fpage>8282</fpage>
+<lpage>8288</lpage>
+<pub-id pub-id-type="doi">10.1128/JVI.00235-09</pub-id>
+<pub-id pub-id-type="pmid">19494009</pub-id></element-citation></ref><ref id="B21-viruses-05-00732"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Puccioni-Sohler</surname><given-names>M.</given-names></name><name><surname>Rios</surname><given-names>M.</given-names></name><name><surname>Bianco</surname><given-names>C.</given-names></name><name><surname>Zhu</surname><given-names>S.W.</given-names></name><name><surname>Oliveira</surname><given-names>C.</given-names></name><name><surname>Novis</surname><given-names>S.A.</given-names></name><name><surname>Pombo-de-Oliveira</surname><given-names>M.S.</given-names></name></person-group>
+<article-title>An inverse correlation of HTLV-I viral load in CSF and intrathecal synthesis of HTLV-I antibodies in TSP/HAM</article-title>
+<source>Neurology</source>
+<year>1999</year>
+<volume>53</volume>
+<fpage>1335</fpage>
+<lpage>1339</lpage>
+<pub-id pub-id-type="doi">10.1212/WNL.53.6.1335</pub-id>
+<pub-id pub-id-type="pmid">10522895</pub-id></element-citation></ref><ref id="B22-viruses-05-00732"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clifford</surname><given-names>D.B.</given-names></name><name><surname>Ances</surname><given-names>B.</given-names></name><name><surname>Costello</surname><given-names>C.</given-names></name><name><surname>Rosen-Schmidt</surname><given-names>S.</given-names></name><name><surname>Andersson</surname><given-names>M.</given-names></name><name><surname>Parks</surname><given-names>D.</given-names></name><name><surname>Perry</surname><given-names>A.</given-names></name><name><surname>Yerra</surname><given-names>R.</given-names></name><name><surname>Schmidt</surname><given-names>R.</given-names></name><name><surname>Alvarez</surname><given-names>E.</given-names></name><name><surname>Tyler</surname><given-names>K.L.</given-names></name></person-group>
+<article-title>Rituximab-associated progressive multifocal leukoencephalopathy in rheumatoid arthritis</article-title>
+<source>Arch. Neurol.</source>
+<year>2011</year>
+<volume>68</volume>
+<fpage>1156</fpage>
+<lpage>1164</lpage>
+<pub-id pub-id-type="doi">10.1001/archneurol.2011.103</pub-id>
+<pub-id pub-id-type="pmid">21555606</pub-id></element-citation></ref><ref id="B23-viruses-05-00732"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tavazzi</surname><given-names>E.</given-names></name><name><surname>Ferrante</surname><given-names>P.</given-names></name><name><surname>Khalili</surname><given-names>K.</given-names></name></person-group>
+<article-title>Progressive multifocal leukoencephalopathy: An unexpected complication of modern therapeutic monoclonal antibody therapies</article-title>
+<source>Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases</source>
+<year>2011</year>
+<volume>17</volume>
+<fpage>1776</fpage>
+<lpage>1780</lpage>
+<pub-id pub-id-type="pmid">22082208</pub-id></element-citation></ref><ref id="B24-viruses-05-00732"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Griffin</surname><given-names>D.</given-names></name><name><surname>Levine</surname><given-names>B.</given-names></name><name><surname>Tyor</surname><given-names>W.</given-names></name><name><surname>Ubol</surname><given-names>S.</given-names></name><name><surname>Despres</surname><given-names>P.</given-names></name></person-group>
+<article-title>The role of antibody in recovery from alphavirus encephalitis</article-title>
+<source>Immunol. Rev.</source>
+<year>1997</year>
+<volume>159</volume>
+<fpage>155</fpage>
+<lpage>161</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-065X.1997.tb01013.x</pub-id>
+<pub-id pub-id-type="pmid">9416509</pub-id></element-citation></ref><ref id="B25-viruses-05-00732"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramakrishna</surname><given-names>C.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name><name><surname>Atkinson</surname><given-names>R.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>Control of central nervous system viral persistence by neutralizing antibody</article-title>
+<source>J. Virol</source>
+<year>2003</year>
+<volume>77</volume>
+<fpage>4670</fpage>
+<lpage>4678</lpage>
+<pub-id pub-id-type="doi">10.1128/JVI.77.8.4670-4678.2003</pub-id>
+<pub-id pub-id-type="pmid">12663773</pub-id></element-citation></ref><ref id="B26-viruses-05-00732"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hooper</surname><given-names>D.C.</given-names></name><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Fabis</surname><given-names>M.J.</given-names></name><name><surname>Roy</surname><given-names>A.</given-names></name></person-group>
+<article-title>The production of antibody by invading B cells is required for the clearance of rabies virus from the central nervous system</article-title>
+<source>PLoS Negl. Trop. Dis.</source>
+<year>2009</year>
+<volume>3</volume>
+<fpage>e535</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pntd.0000535</pub-id>
+<pub-id pub-id-type="pmid">19806203</pub-id></element-citation></ref><ref id="B27-viruses-05-00732"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marques</surname><given-names>C.P.</given-names></name><name><surname>Kapil</surname><given-names>P.</given-names></name><name><surname>Hinton</surname><given-names>D.R.</given-names></name><name><surname>Hindinger</surname><given-names>C.</given-names></name><name><surname>Nutt</surname><given-names>S.L.</given-names></name><name><surname>Ransohoff</surname><given-names>R.M.</given-names></name><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>CXCR3-dependent plasma blast migration to the central nervous system during viral encephalomyelitis</article-title>
+<source>J. Virol.</source>
+<year>2011</year>
+<volume>85</volume>
+<fpage>6136</fpage>
+<lpage>6147</lpage>
+<pub-id pub-id-type="pmid">21507985</pub-id></element-citation></ref><ref id="B28-viruses-05-00732"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fragkoudis</surname><given-names>R.</given-names></name><name><surname>Ballany</surname><given-names>C.M.</given-names></name><name><surname>Boyd</surname><given-names>A.</given-names></name><name><surname>Fazakerley</surname><given-names>J.K.</given-names></name></person-group>
+<article-title>In Semliki Forest virus encephalitis, antibody rapidly clears infectious virus and is required to eliminate viral material from the brain, but is not required to generate lesions of demyelination</article-title>
+<source>J. Gen. Virol.</source>
+<year>2008</year>
+<volume>89</volume>
+<fpage>2565</fpage>
+<lpage>2568</lpage>
+<pub-id pub-id-type="doi">10.1099/vir.0.2008/002238-0</pub-id>
+<pub-id pub-id-type="pmid">18796725</pub-id></element-citation></ref><ref id="B29-viruses-05-00732"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levine</surname><given-names>B.</given-names></name><name><surname>Hardwick</surname><given-names>J.M.</given-names></name><name><surname>Trapp</surname><given-names>B.D.</given-names></name><name><surname>Crawford</surname><given-names>T.O.</given-names></name><name><surname>Bollinger</surname><given-names>R.C.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Antibody-mediated clearance of alphavirus infection from neurons</article-title>
+<source>Science</source>
+<year>1991</year>
+<volume>254</volume>
+<fpage>856</fpage>
+<lpage>860</lpage>
+<pub-id pub-id-type="pmid">1658936</pub-id></element-citation></ref><ref id="B30-viruses-05-00732"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pachner</surname><given-names>A.R.</given-names></name><name><surname>Brady</surname><given-names>J.</given-names></name><name><surname>Narayan</surname><given-names>K.</given-names></name></person-group>
+<article-title>Antibody-secreting cells in the central nervous system in an animal model of MS: Phenotype, association with disability, and <italic>in vitro</italic> production of antibody</article-title>
+<source>J. Neuroimmunol.</source>
+<year>2007</year>
+<volume>190</volume>
+<fpage>112</fpage>
+<lpage>120</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jneuroim.2007.09.001</pub-id>
+<pub-id pub-id-type="pmid">17919740</pub-id></element-citation></ref><ref id="B31-viruses-05-00732"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>H.</given-names></name><name><surname>Sunden</surname><given-names>Y.</given-names></name><name><surname>Ochiai</surname><given-names>K.</given-names></name><name><surname>Umemura</surname><given-names>T.</given-names></name></person-group>
+<article-title>Experimental intracerebral vaccination protects mouse from a neurotropic virus by attracting antibody secreting cells to the CNS</article-title>
+<source>Immunol. Lett.</source>
+<year>2011</year>
+<volume>139</volume>
+<fpage>102</fpage>
+<lpage>109</lpage>
+<pub-id pub-id-type="doi">10.1016/j.imlet.2011.05.008</pub-id>
+<pub-id pub-id-type="pmid">21645547</pub-id></element-citation></ref><ref id="B32-viruses-05-00732"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Manz</surname><given-names>R.A.</given-names></name><name><surname>Hauser</surname><given-names>A.E.</given-names></name><name><surname>Hiepe</surname><given-names>F.</given-names></name><name><surname>Radbruch</surname><given-names>A.</given-names></name></person-group>
+<article-title>Maintenance of serum antibody levels</article-title>
+<source>Annu. Rev. Immunol.</source>
+<year>2005</year>
+<volume>23</volume>
+<fpage>367</fpage>
+<lpage>386</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.immunol.23.021704.115723</pub-id>
+<pub-id pub-id-type="pmid">15771575</pub-id></element-citation></ref><ref id="B33-viruses-05-00732"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shapiro-Shelef</surname><given-names>M.</given-names></name><name><surname>Calame</surname><given-names>K.</given-names></name></person-group>
+<article-title>Regulation of plasma-cell development</article-title>
+<source>Nat. Rev. Immunol</source>
+<year>2005</year>
+<volume>5</volume>
+<fpage>230</fpage>
+<lpage>242</lpage>
+<pub-id pub-id-type="doi">10.1038/nri1572</pub-id>
+<pub-id pub-id-type="pmid">15738953</pub-id></element-citation></ref><ref id="B34-viruses-05-00732"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Victora</surname><given-names>G.D.</given-names></name><name><surname>Nussenzweig</surname><given-names>M.C.</given-names></name></person-group>
+<article-title>Germinal centers</article-title>
+<source>Annu. Rev. Immunol.</source>
+<year>2012</year>
+<volume>30</volume>
+<fpage>429</fpage>
+<lpage>457</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-immunol-020711-075032</pub-id>
+<pub-id pub-id-type="pmid">22224772</pub-id></element-citation></ref><ref id="B35-viruses-05-00732"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zotos</surname><given-names>D.</given-names></name><name><surname>Tarlinton</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>Determining germinal centre B cell fate</article-title>
+<source>Trends Immunol.</source>
+<year>2012</year>
+<volume>33</volume>
+<fpage>281</fpage>
+<lpage>288</lpage>
+<pub-id pub-id-type="doi">10.1016/j.it.2012.04.003</pub-id>
+<pub-id pub-id-type="pmid">22595532</pub-id></element-citation></ref><ref id="B36-viruses-05-00732"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Crotty</surname><given-names>S.</given-names></name></person-group>
+<article-title>The 1&#x02013;1-1 fallacy</article-title>
+<source>Immunol. Rev.</source>
+<year>2012</year>
+<volume>247</volume>
+<fpage>133</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-065X.2012.01117.x</pub-id>
+<pub-id pub-id-type="pmid">22500837</pub-id></element-citation></ref><ref id="B37-viruses-05-00732"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shlomchik</surname><given-names>M.J.</given-names></name><name><surname>Weisel</surname><given-names>F.</given-names></name></person-group>
+<article-title>Germinal center selection and the development of memory B and plasma cells</article-title>
+<source>Immunol. Rev.</source>
+<year>2012</year>
+<volume>247</volume>
+<fpage>52</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-065X.2012.01124.x</pub-id>
+<pub-id pub-id-type="pmid">22500831</pub-id></element-citation></ref><ref id="B38-viruses-05-00732"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cyster</surname><given-names>J.G.</given-names></name></person-group>
+<article-title>Chemokines, sphingosine-1-phosphate, and cell migration in secondary lymphoid organs</article-title>
+<source>Annu. Rev. Immunol.</source>
+<year>2005</year>
+<volume>23</volume>
+<fpage>127</fpage>
+<lpage>159</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.immunol.23.021704.115628</pub-id>
+<pub-id pub-id-type="pmid">15771568</pub-id></element-citation></ref><ref id="B39-viruses-05-00732"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Okada</surname><given-names>T.</given-names></name><name><surname>Cyster</surname><given-names>J.G.</given-names></name></person-group>
+<article-title>B cell migration and interactions in the early phase of antibody responses</article-title>
+<source>Curr. Opin. Immunol.</source>
+<year>2006</year>
+<volume>18</volume>
+<fpage>278</fpage>
+<lpage>285</lpage>
+<pub-id pub-id-type="doi">10.1016/j.coi.2006.02.005</pub-id>
+<pub-id pub-id-type="pmid">16516453</pub-id></element-citation></ref><ref id="B40-viruses-05-00732"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Muehlinghaus</surname><given-names>G.</given-names></name><name><surname>Cigliano</surname><given-names>L.</given-names></name><name><surname>Huehn</surname><given-names>S.</given-names></name><name><surname>Peddinghaus</surname><given-names>A.</given-names></name><name><surname>Leyendeckers</surname><given-names>H.</given-names></name><name><surname>Hauser</surname><given-names>A.E.</given-names></name><name><surname>Hiepe</surname><given-names>F.</given-names></name><name><surname>Radbruch</surname><given-names>A.</given-names></name><name><surname>Arce</surname><given-names>S.</given-names></name><name><surname>Manz</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Regulation of CXCR3 and CXCR4 expression during terminal differentiation of memory B cells into plasma cells</article-title>
+<source>Blood</source>
+<year>2005</year>
+<volume>105</volume>
+<fpage>3965</fpage>
+<lpage>3971</lpage>
+<pub-id pub-id-type="pmid">15687242</pub-id></element-citation></ref><ref id="B41-viruses-05-00732"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Radbruch</surname><given-names>A.</given-names></name><name><surname>Muehlinghaus</surname><given-names>G.</given-names></name><name><surname>Luger</surname><given-names>E.O.</given-names></name><name><surname>Inamine</surname><given-names>A.</given-names></name><name><surname>Smith</surname><given-names>K.G.</given-names></name><name><surname>Dorner</surname><given-names>T.</given-names></name><name><surname>Hiepe</surname><given-names>F.</given-names></name></person-group>
+<article-title>Competence and competition: The challenge of becoming a long-lived plasma cell</article-title>
+<source>Nat. Rev. Immunol.</source>
+<year>2006</year>
+<volume>6</volume>
+<fpage>741</fpage>
+<lpage>750</lpage>
+<pub-id pub-id-type="doi">10.1038/nri1886</pub-id>
+<pub-id pub-id-type="pmid">16977339</pub-id></element-citation></ref><ref id="B42-viruses-05-00732"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dorner</surname><given-names>T.</given-names></name><name><surname>Radbruch</surname><given-names>A.</given-names></name></person-group>
+<article-title>Antibodies and B cell memory in viral immunity</article-title>
+<source>Immunity</source>
+<year>2007</year>
+<volume>27</volume>
+<fpage>384</fpage>
+<lpage>392</lpage>
+<pub-id pub-id-type="doi">10.1016/j.immuni.2007.09.002</pub-id>
+<pub-id pub-id-type="pmid">17892847</pub-id></element-citation></ref><ref id="B43-viruses-05-00732"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slifka</surname><given-names>M.K.</given-names></name><name><surname>Antia</surname><given-names>R.</given-names></name><name><surname>Whitmire</surname><given-names>J.K.</given-names></name><name><surname>Ahmed</surname><given-names>R.</given-names></name></person-group>
+<article-title>Humoral immunity due to long-lived plasma cells</article-title>
+<source>Immunity</source>
+<year>1998</year>
+<volume>8</volume>
+<fpage>363</fpage>
+<lpage>372</lpage>
+<pub-id pub-id-type="pmid">9529153</pub-id></element-citation></ref><ref id="B44-viruses-05-00732"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elgueta</surname><given-names>R.</given-names></name><name><surname>de Vries</surname><given-names>V.C.</given-names></name><name><surname>Noelle</surname><given-names>R.J.</given-names></name></person-group>
+<article-title>The immortality of humoral immunity</article-title>
+<source>Immunol. Rev</source>
+<year>2010</year>
+<volume>236</volume>
+<fpage>139</fpage>
+<lpage>150</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-065X.2010.00924.x</pub-id>
+<pub-id pub-id-type="pmid">20636814</pub-id></element-citation></ref><ref id="B45-viruses-05-00732"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amanna</surname><given-names>I.J.</given-names></name><name><surname>Carlson</surname><given-names>N.E.</given-names></name><name><surname>Slifka</surname><given-names>M.K.</given-names></name></person-group>
+<article-title>Duration of humoral immunity to common viral and vaccine antigens</article-title>
+<source>New. Engl. J. Med.</source>
+<year>2007</year>
+<volume>357</volume>
+<fpage>1903</fpage>
+<lpage>1915</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMoa066092</pub-id>
+<pub-id pub-id-type="pmid">17989383</pub-id></element-citation></ref><ref id="B46-viruses-05-00732"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dogan</surname><given-names>I.</given-names></name><name><surname>Bertocci</surname><given-names>B.</given-names></name><name><surname>Vilmont</surname><given-names>V.</given-names></name><name><surname>Delbos</surname><given-names>F.</given-names></name><name><surname>Megret</surname><given-names>J.</given-names></name><name><surname>Storck</surname><given-names>S.</given-names></name><name><surname>Reynaud</surname><given-names>C.A.</given-names></name><name><surname>Weill</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Multiple layers of B cell memory with different effector functions</article-title>
+<source>Nat. Immunol.</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>1292</fpage>
+<lpage>1299</lpage>
+<pub-id pub-id-type="doi">10.1038/ni.1814</pub-id>
+<pub-id pub-id-type="pmid">19855380</pub-id></element-citation></ref><ref id="B47-viruses-05-00732"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Corcione</surname><given-names>A.</given-names></name><name><surname>Casazza</surname><given-names>S.</given-names></name><name><surname>Ferretti</surname><given-names>E.</given-names></name><name><surname>Giunti</surname><given-names>D.</given-names></name><name><surname>Zappia</surname><given-names>E.</given-names></name><name><surname>Pistorio</surname><given-names>A.</given-names></name><name><surname>Gambini</surname><given-names>C.</given-names></name><name><surname>Mancardi</surname><given-names>G.L.</given-names></name><name><surname>Uccelli</surname><given-names>A.</given-names></name><name><surname>Pistoia</surname><given-names>V.</given-names></name></person-group>
+<article-title>Recapitulation of B cell differentiation in the central nervous system of patients with multiple sclerosis</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2004</year>
+<volume>101</volume>
+<fpage>11064</fpage>
+<lpage>11069</lpage>
+<pub-id pub-id-type="pmid">15263096</pub-id></element-citation></ref><ref id="B48-viruses-05-00732"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Owens</surname><given-names>G.P.</given-names></name><name><surname>Bennett</surname><given-names>J.L.</given-names></name><name><surname>Gilden</surname><given-names>D.H.</given-names></name><name><surname>Burgoon</surname><given-names>M.P.</given-names></name></person-group>
+<article-title>The B cell response in multiple sclerosis</article-title>
+<source>Neurol. Res.</source>
+<year>2006</year>
+<volume>28</volume>
+<fpage>236</fpage>
+<lpage>244</lpage>
+<pub-id pub-id-type="doi">10.1179/016164106X98099</pub-id>
+<pub-id pub-id-type="pmid">16687047</pub-id></element-citation></ref><ref id="B49-viruses-05-00732"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Owens</surname><given-names>G.P.</given-names></name><name><surname>Ritchie</surname><given-names>A.M.</given-names></name><name><surname>Burgoon</surname><given-names>M.P.</given-names></name><name><surname>Williamson</surname><given-names>R.A.</given-names></name><name><surname>Corboy</surname><given-names>J.R.</given-names></name><name><surname>Gilden</surname><given-names>D.H.</given-names></name></person-group>
+<article-title>Single-cell repertoire analysis demonstrates that clonal expansion is a prominent feature of the B cell response in multiple sclerosis cerebrospinal fluid</article-title>
+<source>J. Immunol</source>
+<year>2003</year>
+<volume>171</volume>
+<fpage>2725</fpage>
+<lpage>2733</lpage>
+<pub-id pub-id-type="pmid">12928426</pub-id></element-citation></ref><ref id="B50-viruses-05-00732"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Krumbholz</surname><given-names>M.</given-names></name><name><surname>Theil</surname><given-names>D.</given-names></name><name><surname>Derfuss</surname><given-names>T.</given-names></name><name><surname>Rosenwald</surname><given-names>A.</given-names></name><name><surname>Schrader</surname><given-names>F.</given-names></name><name><surname>Monoranu</surname><given-names>C.M.</given-names></name><name><surname>Kalled</surname><given-names>S.L.</given-names></name><name><surname>Hess</surname><given-names>D.M.</given-names></name><name><surname>Serafini</surname><given-names>B.</given-names></name><name><surname>Aloisi</surname><given-names>F.</given-names></name><name><surname>Wekerle</surname><given-names>H.</given-names></name><name><surname>Hohlfeld</surname><given-names>R.</given-names></name><name><surname>Meinl</surname><given-names>E.</given-names></name></person-group>
+<article-title>BAFF is produced by astrocytes and up-regulated in multiple sclerosis lesions and primary central nervous system lymphoma</article-title>
+<source>J. Exp. Med.</source>
+<year>2005</year>
+<volume>201</volume>
+<fpage>195</fpage>
+<lpage>200</lpage>
+<pub-id pub-id-type="doi">10.1084/jem.20041674</pub-id>
+<pub-id pub-id-type="pmid">15642740</pub-id></element-citation></ref><ref id="B51-viruses-05-00732"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thangarajh</surname><given-names>M.</given-names></name><name><surname>Masterman</surname><given-names>T.</given-names></name><name><surname>Hillert</surname><given-names>J.</given-names></name><name><surname>Moerk</surname><given-names>S.</given-names></name><name><surname>Jonsson</surname><given-names>R.</given-names></name></person-group>
+<article-title>A proliferation-inducing ligand (APRIL) is expressed by astrocytes and is increased in multiple sclerosis</article-title>
+<source>Scand. J. Immunol.</source>
+<year>2007</year>
+<volume>65</volume>
+<fpage>92</fpage>
+<lpage>98</lpage>
+<pub-id pub-id-type="pmid">17212772</pub-id></element-citation></ref><ref id="B52-viruses-05-00732"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Marques</surname><given-names>C.P.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name><name><surname>Hinton</surname><given-names>D.R.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Factors supporting intrathecal humoral responses following viral encephalomyelitis</article-title>
+<source>J. Virol.</source>
+<year>2011</year>
+<volume>85</volume>
+<fpage>2589</fpage>
+<lpage>2598</lpage>
+<pub-id pub-id-type="doi">10.1128/JVI.02260-10</pub-id>
+<pub-id pub-id-type="pmid">21191015</pub-id></element-citation></ref><ref id="B53-viruses-05-00732"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reiber</surname><given-names>H.</given-names></name><name><surname>Peter</surname><given-names>J.B.</given-names></name></person-group>
+<article-title>Cerebrospinal fluid analysis: Disease-related data patterns and evaluation programs</article-title>
+<source>J. Neurol. Sci.</source>
+<year>2001</year>
+<volume>184</volume>
+<fpage>101</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="doi">10.1016/S0022-510X(00)00501-3</pub-id>
+<pub-id pub-id-type="pmid">11239944</pub-id></element-citation></ref><ref id="B54-viruses-05-00732"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Recovery from viral encephalomyelitis: immune-mediated noncytolytic virus clearance from neurons</article-title>
+<source>Immunol. Res.</source>
+<year>2010</year>
+<volume>47</volume>
+<fpage>123</fpage>
+<lpage>133</lpage>
+<pub-id pub-id-type="doi">10.1007/s12026-009-8143-4</pub-id>
+<pub-id pub-id-type="pmid">20087684</pub-id></element-citation></ref><ref id="B55-viruses-05-00732"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bergmann</surname><given-names>C.C.</given-names></name><name><surname>Lane</surname><given-names>T.E.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>Coronavirus infection of the central nervous system: host-virus stand-off</article-title>
+<source>Nature Reviews. Microbiol.</source>
+<year>2006</year>
+<volume>4</volume>
+<fpage>121</fpage>
+<lpage>132</lpage>
+<pub-id pub-id-type="doi">10.1038/nrmicro1343</pub-id>
+</element-citation></ref><ref id="B56-viruses-05-00732"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lane</surname><given-names>T.E.</given-names></name><name><surname>Hosking</surname><given-names>M.P.</given-names></name></person-group>
+<article-title>The pathogenesis of murine coronavirus infection of the central nervous system</article-title>
+<source>Crit. Rev. Immunol.</source>
+<year>2010</year>
+<volume>30</volume>
+<fpage>119</fpage>
+<lpage>130</lpage>
+<pub-id pub-id-type="doi">10.1615/CritRevImmunol.v30.i2.20</pub-id>
+<pub-id pub-id-type="pmid">20370625</pub-id></element-citation></ref><ref id="B57-viruses-05-00732"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bender</surname><given-names>S.J.</given-names></name><name><surname>Weiss</surname><given-names>S.R.</given-names></name></person-group>
+<article-title>Pathogenesis of murine coronavirus in the central nervous system</article-title>
+<source>J Neuroimmune. Pharmacol.</source>
+<year>2010</year>
+<volume>5</volume>
+<fpage>336</fpage>
+<lpage>354</lpage>
+<pub-id pub-id-type="doi">10.1007/s11481-010-9202-2</pub-id>
+<pub-id pub-id-type="pmid">20369302</pub-id></element-citation></ref><ref id="B58-viruses-05-00732"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name><name><surname>Hinton</surname><given-names>D.R.</given-names></name><name><surname>Atkinson</surname><given-names>R.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Enhanced antiviral T cell function in the absence of B7-H1 is insufficient to prevent persistence but exacerbates axonal bystander damage during viral encephalomyelitis</article-title>
+<source>J. Immunol.</source>
+<year>2010</year>
+<volume>185</volume>
+<fpage>5607</fpage>
+<lpage>5618</lpage>
+<pub-id pub-id-type="doi">10.4049/jimmunol.1001984</pub-id>
+<pub-id pub-id-type="pmid">20876353</pub-id></element-citation></ref><ref id="B59-viruses-05-00732"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name><name><surname>Hwang</surname><given-names>M.</given-names></name><name><surname>Min</surname><given-names>B.</given-names></name><name><surname>Hinton</surname><given-names>D.R.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>CD4 T cells promote CD8 T cell immunity at the priming and effector site during viral encephalitis</article-title>
+<source>J. Virol.</source>
+<year>2012</year>
+<volume>86</volume>
+<fpage>2416</fpage>
+<lpage>2427</lpage>
+<pub-id pub-id-type="doi">10.1128/JVI.06797-11</pub-id>
+<pub-id pub-id-type="pmid">22205741</pub-id></element-citation></ref><ref id="B60-viruses-05-00732"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ramakrishna</surname><given-names>C.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name><name><surname>Atkinson</surname><given-names>R.D.</given-names></name><name><surname>Shlomchik</surname><given-names>M.J.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Mechanisms of central nervous system viral persistence: the critical role of antibody and B cells</article-title>
+<source>J. Immunol.</source>
+<year>2002</year>
+<volume>168</volume>
+<fpage>1204</fpage>
+<lpage>1211</lpage>
+<pub-id pub-id-type="pmid">11801656</pub-id></element-citation></ref><ref id="B61-viruses-05-00732"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Griffin</surname><given-names>D.E.</given-names></name><name><surname>Metcalf</surname><given-names>T.</given-names></name></person-group>
+<article-title>Clearance of virus infection from the CNS</article-title>
+<source>Curr. Opin. Virol.</source>
+<year>2011</year>
+<volume>1</volume>
+<fpage>216</fpage>
+<lpage>221</lpage>
+<pub-id pub-id-type="pmid">21927638</pub-id></element-citation></ref><ref id="B62-viruses-05-00732"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kurkela</surname><given-names>S.</given-names></name><name><surname>Manni</surname><given-names>T.</given-names></name><name><surname>Vaheri</surname><given-names>A.</given-names></name><name><surname>Vapalahti</surname><given-names>O.</given-names></name></person-group>
+<article-title>Causative agent of Pogosta disease isolated from blood and skin lesions</article-title>
+<source>Emerg. Infect. Dis.</source>
+<year>2004</year>
+<volume>10</volume>
+<fpage>889</fpage>
+<lpage>894</lpage>
+<pub-id pub-id-type="doi">10.3201/eid1005.030689</pub-id>
+<pub-id pub-id-type="pmid">15200824</pub-id></element-citation></ref><ref id="B63-viruses-05-00732"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malherbe</surname><given-names>H.</given-names></name><name><surname>Strickland-Cholmley</surname><given-names>M.</given-names></name><name><surname>Jackson</surname><given-names>A.L.</given-names></name></person-group>
+<article-title>Sindbis virus infection in man. Report of a case with recovery of virus from skin lesions</article-title>
+<source>S. Afr. Med. J.</source>
+<year>1963</year>
+<volume>37</volume>
+<fpage>547</fpage>
+<lpage>552</lpage>
+<pub-id pub-id-type="pmid">13932506</pub-id></element-citation></ref><ref id="B64-viruses-05-00732"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luukkainen</surname><given-names>R.</given-names></name><name><surname>Laine</surname><given-names>M.</given-names></name><name><surname>Nirhamo</surname><given-names>J.</given-names></name></person-group>
+<article-title>Chronic arthritis after Sindbis-related (Pogosta) virus infection</article-title>
+<source>Scand. J. Rheumatol.</source>
+<year>2000</year>
+<volume>29</volume>
+<fpage>399</fpage>
+<lpage>400</lpage>
+<pub-id pub-id-type="doi">10.1080/030097400447633</pub-id>
+<pub-id pub-id-type="pmid">11132212</pub-id></element-citation></ref><ref id="B65-viruses-05-00732"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jackson</surname><given-names>A.C.</given-names></name><name><surname>Moench</surname><given-names>T.R.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name><name><surname>Johnson</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>The pathogenesis of spinal cord involvement in the encephalomyelitis of mice caused by neuroadapted Sindbis virus infection</article-title>
+<source>Lab. Invest.</source>
+<year>1987</year>
+<volume>56</volume>
+<fpage>418</fpage>
+<lpage>423</lpage>
+<pub-id pub-id-type="pmid">3031369</pub-id></element-citation></ref><ref id="B66-viruses-05-00732"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Role of the immune response in age-dependent resistance of mice to encephalitis due to Sindbis virus</article-title>
+<source>J. Infect. Dis.</source>
+<year>1976</year>
+<volume>133</volume>
+<fpage>456</fpage>
+<lpage>464</lpage>
+<pub-id pub-id-type="doi">10.1093/infdis/133.4.456</pub-id>
+<pub-id pub-id-type="pmid">1262711</pub-id></element-citation></ref><ref id="B67-viruses-05-00732"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Havert</surname><given-names>M.B.</given-names></name><name><surname>Schofield</surname><given-names>B.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name><name><surname>Irani</surname><given-names>D.N.</given-names></name></person-group>
+<article-title>Activation of divergent neuronal cell death pathways in different target cell populations during neuroadapted sindbis virus infection of mice</article-title>
+<source>J. Virol.</source>
+<year>2000</year>
+<volume>74</volume>
+<fpage>5352</fpage>
+<lpage>5356</lpage>
+<pub-id pub-id-type="doi">10.1128/JVI.74.11.5352-5356.2000</pub-id>
+<pub-id pub-id-type="pmid">10799613</pub-id></element-citation></ref><ref id="B68-viruses-05-00732"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lewis</surname><given-names>J.</given-names></name><name><surname>Wesselingh</surname><given-names>S.L.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name><name><surname>Hardwick</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Alphavirus-induced apoptosis in mouse brains correlates with neurovirulence</article-title>
+<source>J. Virol.</source>
+<year>1996</year>
+<volume>70</volume>
+<fpage>1828</fpage>
+<lpage>1835</lpage>
+<pub-id pub-id-type="pmid">8627707</pub-id></element-citation></ref><ref id="B69-viruses-05-00732"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burdeinick-Kerr</surname><given-names>R.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Gamma interferon-dependent, noncytolytic clearance of sindbis virus infection from neurons <italic>in vitro</italic></article-title>
+<source>J. Virol.</source>
+<year>2005</year>
+<volume>79</volume>
+<fpage>5374</fpage>
+<lpage>5385</lpage>
+<pub-id pub-id-type="doi">10.1128/JVI.79.9.5374-5385.2005</pub-id>
+<pub-id pub-id-type="pmid">15827152</pub-id></element-citation></ref><ref id="B70-viruses-05-00732"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nava</surname><given-names>V.E.</given-names></name><name><surname>Rosen</surname><given-names>A.</given-names></name><name><surname>Veliuona</surname><given-names>M.A.</given-names></name><name><surname>Clem</surname><given-names>R.J.</given-names></name><name><surname>Levine</surname><given-names>B.</given-names></name><name><surname>Hardwick</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Sindbis virus induces apoptosis through a caspase-dependent, CrmA-sensitive pathway</article-title>
+<source>J. Virol.</source>
+<year>1998</year>
+<volume>72</volume>
+<fpage>452</fpage>
+<lpage>459</lpage>
+<pub-id pub-id-type="pmid">9420245</pub-id></element-citation></ref><ref id="B71-viruses-05-00732"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Metcalf</surname><given-names>T.U.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Alphavirus-induced encephalomyelitis: Antibody-secreting cells and viral clearance from the nervous system</article-title>
+<source>J. Virol.</source>
+<year>2011</year>
+<volume>85</volume>
+<fpage>11490</fpage>
+<lpage>11501</lpage>
+<pub-id pub-id-type="doi">10.1128/JVI.05379-11</pub-id>
+<pub-id pub-id-type="pmid">21865385</pub-id></element-citation></ref><ref id="B72-viruses-05-00732"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balluz</surname><given-names>I.M.</given-names></name><name><surname>Glasgow</surname><given-names>G.M.</given-names></name><name><surname>Killen</surname><given-names>H.M.</given-names></name><name><surname>Mabruk</surname><given-names>M.J.</given-names></name><name><surname>Sheahan</surname><given-names>B.J.</given-names></name><name><surname>Atkins</surname><given-names>G.J.</given-names></name></person-group>
+<article-title>Virulent and avirulent strains of Semliki Forest virus show similar cell tropism for the murine central nervous system but differ in the severity and rate of induction of cytolytic damage</article-title>
+<source>Neuropathol. Appl. Neurobiol.</source>
+<year>1993</year>
+<volume>19</volume>
+<fpage>233</fpage>
+<lpage>239</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2990.1993.tb00433.x</pub-id>
+<pub-id pub-id-type="pmid">8395026</pub-id></element-citation></ref><ref id="B73-viruses-05-00732"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fazakerley</surname><given-names>J.K.</given-names></name></person-group>
+<article-title>Pathogenesis of Semliki Forest virus encephalitis</article-title>
+<source>J. Neurovirol.</source>
+<year>2002</year>
+<volume>2</volume>
+<fpage>66</fpage>
+<lpage>74</lpage>
+<pub-id pub-id-type="doi">10.1080/135502802901068000</pub-id>
+<pub-id pub-id-type="pmid">12491154</pub-id></element-citation></ref><ref id="B74-viruses-05-00732"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mathiot</surname><given-names>C.C.</given-names></name><name><surname>Grimaud</surname><given-names>G.</given-names></name><name><surname>Garry</surname><given-names>P.</given-names></name><name><surname>Bouquety</surname><given-names>J.C.</given-names></name><name><surname>Mada</surname><given-names>A.</given-names></name><name><surname>Daguisy</surname><given-names>A.M.</given-names></name><name><surname>Georges</surname><given-names>A.J.</given-names></name></person-group>
+<article-title>An outbreak of human Semliki Forest virus infections in Central African Republic</article-title>
+<source>Am. J. Trop. Med. Hyg.</source>
+<year>1990</year>
+<volume>42</volume>
+<fpage>386</fpage>
+<lpage>3893</lpage>
+<pub-id pub-id-type="pmid">2158754</pub-id></element-citation></ref><ref id="B75-viruses-05-00732"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Willems</surname><given-names>W.R.</given-names></name><name><surname>Kaluza</surname><given-names>G.</given-names></name><name><surname>Boschek</surname><given-names>C.B.</given-names></name><name><surname>Bauer</surname><given-names>H.</given-names></name><name><surname>Hager</surname><given-names>H.</given-names></name><name><surname>Schutz</surname><given-names>H.J.</given-names></name><name><surname>Feistner</surname><given-names>H.</given-names></name></person-group>
+<article-title>Semliki forest virus: Cause of a fatal case of human encephalitis</article-title>
+<source>Science</source>
+<year>1979</year>
+<volume>203</volume>
+<fpage>1127</fpage>
+<lpage>1129</lpage>
+<pub-id pub-id-type="pmid">424742</pub-id></element-citation></ref><ref id="B76-viruses-05-00732"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Warrell</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Current rabies vaccines and prophylaxis schedules: preventing rabies before and after exposure</article-title>
+<source>Travel. Med. Infect. Dis.</source>
+<year>2012</year>
+<volume>10</volume>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tmaid.2011.12.005</pub-id>
+<pub-id pub-id-type="pmid">22342356</pub-id></element-citation></ref><ref id="B77-viruses-05-00732"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hooper</surname><given-names>D.C.</given-names></name><name><surname>Morimoto</surname><given-names>K.</given-names></name><name><surname>Bette</surname><given-names>M.</given-names></name><name><surname>Weihe</surname><given-names>E.</given-names></name><name><surname>Koprowski</surname><given-names>H.</given-names></name><name><surname>Dietzschold</surname><given-names>B.</given-names></name></person-group>
+<article-title>Collaboration of antibody and inflammation in clearance of rabies virus from the central nervous system</article-title>
+<source>J. Virol.</source>
+<year>1998</year>
+<volume>72</volume>
+<fpage>3711</fpage>
+<lpage>3719</lpage>
+<pub-id pub-id-type="pmid">9557653</pub-id></element-citation></ref><ref id="B78-viruses-05-00732"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsunoda</surname><given-names>I.</given-names></name><name><surname>Fujinami</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Two models for multiple sclerosis: experimental allergic encephalomyelitis and Theiler's murine encephalomyelitis virus</article-title>
+<source>J. Neuropathol. Exp. Neurol.</source>
+<year>1996</year>
+<volume>55</volume>
+<fpage>673</fpage>
+<lpage>686</lpage>
+<pub-id pub-id-type="doi">10.1097/00005072-199606000-00001</pub-id>
+<pub-id pub-id-type="pmid">8642393</pub-id></element-citation></ref><ref id="B79-viruses-05-00732"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aubert</surname><given-names>C.</given-names></name><name><surname>Brahic</surname><given-names>M.</given-names></name></person-group>
+<article-title>Early infection of the central nervous system by the GDVII and DA strains of Theiler's virus</article-title>
+<source>J. Virol.</source>
+<year>1995</year>
+<volume>69</volume>
+<fpage>3197</fpage>
+<lpage>3200</lpage>
+<pub-id pub-id-type="pmid">7707550</pub-id></element-citation></ref><ref id="B80-viruses-05-00732"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simas</surname><given-names>J.P.</given-names></name><name><surname>Dyson</surname><given-names>H.</given-names></name><name><surname>Fazakerley</surname><given-names>J.K.</given-names></name></person-group>
+<article-title>The neurovirulent GDVII strain of Theiler's virus can replicate in glial cells</article-title>
+<source>J. Virol.</source>
+<year>1995</year>
+<volume>69</volume>
+<fpage>5599</fpage>
+<lpage>5606</lpage>
+<pub-id pub-id-type="pmid">7637006</pub-id></element-citation></ref><ref id="B81-viruses-05-00732"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lipton</surname><given-names>H.L.</given-names></name><name><surname>Kumar</surname><given-names>A.S.</given-names></name><name><surname>Trottier</surname><given-names>M.</given-names></name></person-group>
+<article-title>Theiler's virus persistence in the central nervous system of mice is associated with continuous viral replication and a difference in outcome of infection of infiltrating macrophages <italic>versus</italic> oligodendrocytes</article-title>
+<source>Virus. Res.</source>
+<year>2005</year>
+<volume>111</volume>
+<fpage>214</fpage>
+<lpage>223</lpage>
+<pub-id pub-id-type="doi">10.1016/j.virusres.2005.04.010</pub-id>
+<pub-id pub-id-type="pmid">15893838</pub-id></element-citation></ref><ref id="B82-viruses-05-00732"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matthews</surname><given-names>A.E.</given-names></name><name><surname>Weiss</surname><given-names>S.R.</given-names></name><name><surname>Shlomchik</surname><given-names>M.J.</given-names></name><name><surname>Hannum</surname><given-names>L.G.</given-names></name><name><surname>Gombold</surname><given-names>J.L.</given-names></name><name><surname>Paterson</surname><given-names>Y.</given-names></name></person-group>
+<article-title>Antibody is required for clearance of infectious murine hepatitis virus A59 from the central nervous system, but not the liver</article-title>
+<source>J. Immunol.</source>
+<year>2001</year>
+<volume>167</volume>
+<fpage>5254</fpage>
+<lpage>5263</lpage>
+<pub-id pub-id-type="pmid">11673540</pub-id></element-citation></ref><ref id="B83-viruses-05-00732"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tyor</surname><given-names>W.R.</given-names></name><name><surname>Wesselingh</surname><given-names>S.</given-names></name><name><surname>Levine</surname><given-names>B.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Long term intraparenchymal Ig secretion after acute viral encephalitis in mice</article-title>
+<source>J. Immunol.</source>
+<year>1992</year>
+<volume>149</volume>
+<fpage>4016</fpage>
+<lpage>4020</lpage>
+<pub-id pub-id-type="pmid">1334109</pub-id></element-citation></ref><ref id="B84-viruses-05-00732"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levine</surname><given-names>B.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Persistence of viral RNA in mouse brains after recovery from acute alphavirus encephalitis</article-title>
+<source>J. Virol.</source>
+<year>1992</year>
+<volume>66</volume>
+<fpage>6429</fpage>
+<lpage>6435</lpage>
+<pub-id pub-id-type="pmid">1383564</pub-id></element-citation></ref><ref id="B85-viruses-05-00732"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hooper</surname><given-names>D.C.</given-names></name><name><surname>Roy</surname><given-names>A.</given-names></name><name><surname>Kean</surname><given-names>R.B.</given-names></name><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Barkhouse</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>Therapeutic immune clearance of rabies virus from the CNS</article-title>
+<source>Future Virol.</source>
+<year>2011</year>
+<volume>6</volume>
+<fpage>387</fpage>
+<lpage>397</lpage>
+<pub-id pub-id-type="doi">10.2217/fvl.10.88</pub-id>
+<pub-id pub-id-type="pmid">21686076</pub-id></element-citation></ref><ref id="B86-viruses-05-00732"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Kean</surname><given-names>R.B.</given-names></name><name><surname>Mikheeva</surname><given-names>T.</given-names></name><name><surname>Hooper</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>Regional differences in blood-brain barrier permeability changes and inflammation in the apathogenic clearance of virus from the central nervous system</article-title>
+<source>J. Immunol.</source>
+<year>2006</year>
+<volume>176</volume>
+<fpage>7666</fpage>
+<lpage>7675</lpage>
+<pub-id pub-id-type="pmid">16751414</pub-id></element-citation></ref><ref id="B87-viruses-05-00732"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fabis</surname><given-names>M.J.</given-names></name><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Kean</surname><given-names>R.B.</given-names></name><name><surname>Koprowski</surname><given-names>H.</given-names></name><name><surname>Hooper</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>Blood-brain barrier changes and cell invasion differ between therapeutic immune clearance of neurotrophic virus and CNS autoimmunity</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2008</year>
+<volume>105</volume>
+<fpage>15511</fpage>
+<lpage>15516</lpage>
+<pub-id pub-id-type="pmid">18829442</pub-id></element-citation></ref><ref id="B88-viruses-05-00732"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ubol</surname><given-names>S.</given-names></name><name><surname>Levine</surname><given-names>B.</given-names></name><name><surname>Lee</surname><given-names>S.H.</given-names></name><name><surname>Greenspan</surname><given-names>N.S.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Roles of immunoglobulin valency and the heavy-chain constant domain in antibody-mediated downregulation of Sindbis virus replication in persistently infected neurons</article-title>
+<source>J. Virol.</source>
+<year>1995</year>
+<volume>69</volume>
+<fpage>1990</fpage>
+<lpage>1993</lpage>
+<pub-id pub-id-type="pmid">7853547</pub-id></element-citation></ref><ref id="B89-viruses-05-00732"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Despres</surname><given-names>P.</given-names></name><name><surname>Griffin</surname><given-names>J.W.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Antiviral activity of alpha interferon in Sindbis virus-infected cells is restored by anti-E2 monoclonal antibody treatment</article-title>
+<source>J. Virol.</source>
+<year>1995</year>
+<volume>69</volume>
+<fpage>7345</fpage>
+<lpage>7348</lpage>
+<pub-id pub-id-type="pmid">7474167</pub-id></element-citation></ref><ref id="B90-viruses-05-00732"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Despres</surname><given-names>P.</given-names></name><name><surname>Griffin</surname><given-names>J.W.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Effects of anti-E2 monoclonal antibody on sindbis virus replication in AT3 cells expressing bcl-2</article-title>
+<source>J. Virol.</source>
+<year>1995</year>
+<volume>69</volume>
+<fpage>7006</fpage>
+<lpage>7014</lpage>
+<pub-id pub-id-type="pmid">7474120</pub-id></element-citation></ref><ref id="B91-viruses-05-00732"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietzschold</surname><given-names>B.</given-names></name><name><surname>Li</surname><given-names>J.</given-names></name><name><surname>Faber</surname><given-names>M.</given-names></name><name><surname>Schnell</surname><given-names>M.</given-names></name></person-group>
+<article-title>Concepts in the pathogenesis of rabies</article-title>
+<source>Future Virol.</source>
+<year>2008</year>
+<volume>3</volume>
+<fpage>481</fpage>
+<lpage>490</lpage>
+<pub-id pub-id-type="doi">10.2217/17460794.3.5.481</pub-id>
+<pub-id pub-id-type="pmid">19578477</pub-id></element-citation></ref><ref id="B92-viruses-05-00732"><label>92.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietzschold</surname><given-names>B.</given-names></name><name><surname>Tollis</surname><given-names>M.</given-names></name><name><surname>Lafon</surname><given-names>M.</given-names></name><name><surname>Wunner</surname><given-names>W.H.</given-names></name><name><surname>Koprowski</surname><given-names>H.</given-names></name></person-group>
+<article-title>Mechanisms of rabies virus neutralization by glycoprotein-specific monoclonal antibodies</article-title>
+<source>Virology</source>
+<year>1987</year>
+<volume>161</volume>
+<fpage>29</fpage>
+<lpage>36</lpage>
+<pub-id pub-id-type="doi">10.1016/0042-6822(87)90167-X</pub-id>
+<pub-id pub-id-type="pmid">3672933</pub-id></element-citation></ref><ref id="B93-viruses-05-00732"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietzschold</surname><given-names>B.</given-names></name></person-group>
+<article-title>Antibody-mediated clearance of viruses from the mammalian central nervous system</article-title>
+<source>T.I.M.</source>
+<year>1993</year>
+<volume>1</volume>
+<issue>(2)</issue>
+<fpage>63</fpage>
+<lpage>66</lpage>
+</element-citation></ref><ref id="B94-viruses-05-00732"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietzschold</surname><given-names>B.</given-names></name><name><surname>Kao</surname><given-names>M.</given-names></name><name><surname>Zheng</surname><given-names>Y.M.</given-names></name><name><surname>Chen</surname><given-names>Z.Y.</given-names></name><name><surname>Maul</surname><given-names>G.</given-names></name><name><surname>Fu</surname><given-names>Z.F.</given-names></name><name><surname>Rupprecht</surname><given-names>C.E.</given-names></name><name><surname>Koprowski</surname><given-names>H.</given-names></name></person-group>
+<article-title>Delineation of putative mechanisms involved in antibody-mediated clearance of rabies virus from the central nervous system</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>1992</year>
+<volume>89</volume>
+<fpage>7252</fpage>
+<lpage>7256</lpage>
+<pub-id pub-id-type="pmid">1496020</pub-id></element-citation></ref><ref id="B95-viruses-05-00732"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leibowitz</surname><given-names>J.L.</given-names></name><name><surname>Bond</surname><given-names>C.W.</given-names></name><name><surname>Anderson</surname><given-names>K.</given-names></name><name><surname>Goss</surname><given-names>S.</given-names></name></person-group>
+<article-title>Biological and macromolecular properties of murine cells persistently infected with MHV-JHM</article-title>
+<source>Arch. Virol.</source>
+<year>1984</year>
+<volume>80</volume>
+<fpage>315</fpage>
+<lpage>332</lpage>
+<pub-id pub-id-type="doi">10.1007/BF01311222</pub-id>
+<pub-id pub-id-type="pmid">6329142</pub-id></element-citation></ref><ref id="B96-viruses-05-00732"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith-Norowitz</surname><given-names>T.A.</given-names></name><name><surname>Sobel</surname><given-names>R.A.</given-names></name><name><surname>Mokhtarian</surname><given-names>F.</given-names></name></person-group>
+<article-title>B cells and antibodies in the pathogenesis of myelin injury in Semliki Forest Virus encephalomyelitis</article-title>
+<source>Cell. Immunol.</source>
+<year>2000</year>
+<volume>200</volume>
+<fpage>27</fpage>
+<lpage>35</lpage>
+<pub-id pub-id-type="doi">10.1006/cimm.2000.1613</pub-id>
+<pub-id pub-id-type="pmid">10716880</pub-id></element-citation></ref><ref id="B97-viruses-05-00732"><label>97.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Subak-Sharpe</surname><given-names>I.</given-names></name><name><surname>Dyson</surname><given-names>H.</given-names></name><name><surname>Fazakerley</surname><given-names>J.</given-names></name></person-group>
+<article-title><italic>In vivo</italic> depletion of CD8+ T cells prevents lesions of demyelination in Semliki Forest virus infection</article-title>
+<source>J. Virol.</source>
+<year>1993</year>
+<volume>67</volume>
+<fpage>7629</fpage>
+<lpage>7633</lpage>
+<pub-id pub-id-type="pmid">7901429</pub-id></element-citation></ref><ref id="B98-viruses-05-00732"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mokhtarian</surname><given-names>F.</given-names></name><name><surname>Huan</surname><given-names>C.M.</given-names></name><name><surname>Roman</surname><given-names>C.</given-names></name><name><surname>Raine</surname><given-names>C.S.</given-names></name></person-group>
+<article-title>Semliki Forest virus-induced demyelination and remyelination--involvement of B cells and anti-myelin antibodies</article-title>
+<source>J. Neuroimmunol.</source>
+<year>2003</year>
+<volume>137</volume>
+<fpage>19</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="doi">10.1016/S0165-5728(03)00039-0</pub-id>
+<pub-id pub-id-type="pmid">12667644</pub-id></element-citation></ref><ref id="B99-viruses-05-00732"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Knopf</surname><given-names>P.M.</given-names></name><name><surname>Harling-Berg</surname><given-names>C.J.</given-names></name><name><surname>Lee</surname><given-names>D.J.</given-names></name><name><surname>Hallett</surname><given-names>J.J.</given-names></name><name><surname>Stopa</surname><given-names>E.G.</given-names></name><name><surname>Mokhtarian</surname><given-names>F.</given-names></name></person-group>
+<article-title>Microinfusion into the rat brain of antibodies against Semliki Forest Virus produces changes in behavioral response to apomorphine</article-title>
+<source>J. Neuroimmunol.</source>
+<year>2007</year>
+<volume>184</volume>
+<fpage>149</fpage>
+<lpage>155</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jneuroim.2006.12.004</pub-id>
+<pub-id pub-id-type="pmid">17257687</pub-id></element-citation></ref><ref id="B100-viruses-05-00732"><label>100.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mokhtarian</surname><given-names>F.</given-names></name><name><surname>Safavi</surname><given-names>F.</given-names></name><name><surname>Sarafraz-Yazdi</surname><given-names>E.</given-names></name></person-group>
+<article-title>Immunization with a peptide of Semliki Forest virus promotes remyelination in experimental autoimmune encephalomyelitis</article-title>
+<source>Brain Res.</source>
+<year>2012</year>
+<volume>1488</volume>
+<fpage>92</fpage>
+<lpage>103</lpage>
+<pub-id pub-id-type="doi">10.1016/j.brainres.2012.09.038</pub-id>
+<pub-id pub-id-type="pmid">23031637</pub-id></element-citation></ref><ref id="B101-viruses-05-00732"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Safavi</surname><given-names>F.</given-names></name><name><surname>Feliberti</surname><given-names>J.P.</given-names></name><name><surname>Raine</surname><given-names>C.S.</given-names></name><name><surname>Mokhtarian</surname><given-names>F.</given-names></name></person-group>
+<article-title>Role of gammadelta T cells in antibody production and recovery from SFV demyelinating disease</article-title>
+<source>J. Neuroimmunol.</source>
+<year>2011</year>
+<volume>235</volume>
+<fpage>18</fpage>
+<lpage>26</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jneuroim.2011.02.013</pub-id>
+<pub-id pub-id-type="pmid">21612829</pub-id></element-citation></ref><ref id="B102-viruses-05-00732"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kang</surname><given-names>B.S.</given-names></name><name><surname>Palma</surname><given-names>J.P.</given-names></name><name><surname>Lyman</surname><given-names>M.A.</given-names></name><name><surname>Dal Canto</surname><given-names>M.</given-names></name><name><surname>Kim</surname><given-names>B.S.</given-names></name></person-group>
+<article-title>Antibody response is required for protection from Theiler's virus-induced encephalitis in C57BL/6 mice in the absence of CD8+ T cells</article-title>
+<source>Virology</source>
+<year>2005</year>
+<volume>340</volume>
+<fpage>84</fpage>
+<lpage>94</lpage>
+<pub-id pub-id-type="doi">10.1016/j.virol.2005.06.028</pub-id>
+<pub-id pub-id-type="pmid">16039687</pub-id></element-citation></ref><ref id="B103-viruses-05-00732"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kurtz</surname><given-names>C.I.</given-names></name><name><surname>Sun</surname><given-names>X.M.</given-names></name><name><surname>Fujinami</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>B-lymphocyte requirement for vaccine-mediated protection from Theiler's murine encephalomyelitis virus-induced central nervous system disease</article-title>
+<source>J. Virol.</source>
+<year>1995</year>
+<volume>69</volume>
+<fpage>5152</fpage>
+<lpage>5155</lpage>
+<pub-id pub-id-type="pmid">7609086</pub-id></element-citation></ref><ref id="B104-viruses-05-00732"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cash</surname><given-names>E.</given-names></name><name><surname>Bandeira</surname><given-names>A.</given-names></name><name><surname>Chirinian</surname><given-names>S.</given-names></name><name><surname>Brahic</surname><given-names>M.</given-names></name></person-group>
+<article-title>Characterization of B lymphocytes present in the demyelinating lesions induced by Theiler's virus</article-title>
+<source>J. Immunol.</source>
+<year>1989</year>
+<volume>143</volume>
+<fpage>984</fpage>
+<lpage>988</lpage>
+<pub-id pub-id-type="pmid">2545781</pub-id></element-citation></ref><ref id="B105-viruses-05-00732"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dal Canto</surname><given-names>M.C.</given-names></name><name><surname>Barbano</surname><given-names>R.L.</given-names></name></person-group>
+<article-title>Immunocytochemical localization of MAG, MBP and P0 protein in acute and relapsing demyelinating lesions of Theiler's virus infection</article-title>
+<source>J. Neuroimmunol.</source>
+<year>1985</year>
+<volume>10</volume>
+<fpage>129</fpage>
+<lpage>140</lpage>
+<pub-id pub-id-type="doi">10.1016/0165-5728(85)90003-7</pub-id>
+<pub-id pub-id-type="pmid">2415554</pub-id></element-citation></ref><ref id="B106-viruses-05-00732"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dal Canto</surname><given-names>M.C.</given-names></name><name><surname>Barbano</surname><given-names>R.L.</given-names></name></person-group>
+<article-title>Antibody to myelin-associated glycoprotein reacts with plasma cells in mice</article-title>
+<source>J. Neuroimmunol.</source>
+<year>1986</year>
+<volume>10</volume>
+<fpage>279</fpage>
+<lpage>286</lpage>
+<pub-id pub-id-type="doi">10.1016/0165-5728(86)90108-6</pub-id>
+<pub-id pub-id-type="pmid">2416774</pub-id></element-citation></ref><ref id="B107-viruses-05-00732"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tschen</surname><given-names>S.I.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name><name><surname>Ramakrishna</surname><given-names>C.</given-names></name><name><surname>Morales</surname><given-names>S.</given-names></name><name><surname>Atkinson</surname><given-names>R.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>Recruitment kinetics and composition of antibody-secreting cells within the central nervous system following viral encephalomyelitis</article-title>
+<source>J. Immunol.</source>
+<year>2002</year>
+<volume>168</volume>
+<fpage>2922</fpage>
+<lpage>2929</lpage>
+<pub-id pub-id-type="pmid">11884463</pub-id></element-citation></ref><ref id="B108-viruses-05-00732"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tschen</surname><given-names>S.I.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name><name><surname>Ramakrishna</surname><given-names>C.</given-names></name><name><surname>Hinton</surname><given-names>D.R.</given-names></name><name><surname>Atkinson</surname><given-names>R.D.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>CNS viral infection diverts homing of antibody-secreting cells from lymphoid organs to the CNS</article-title>
+<source>Eur. J. Immunol.</source>
+<year>2006</year>
+<volume>36</volume>
+<fpage>603</fpage>
+<lpage>612</lpage>
+<pub-id pub-id-type="doi">10.1002/eji.200535123</pub-id>
+<pub-id pub-id-type="pmid">16437540</pub-id></element-citation></ref><ref id="B109-viruses-05-00732"><label>109.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gil-Cruz</surname><given-names>C.</given-names></name><name><surname>Perez-Shibayama</surname><given-names>C.</given-names></name><name><surname>Firner</surname><given-names>S.</given-names></name><name><surname>Waisman</surname><given-names>A.</given-names></name><name><surname>Bechmann</surname><given-names>I.</given-names></name><name><surname>Thiel</surname><given-names>V.</given-names></name><name><surname>Cervantes-Barragan</surname><given-names>L.</given-names></name><name><surname>Ludewig</surname><given-names>B.</given-names></name></person-group>
+<article-title>T helper cell- and CD40-dependent germline IgM prevents chronic virus-induced demyelinating disease</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2012</year>
+<volume>109</volume>
+<fpage>1233</fpage>
+<lpage>1238</lpage>
+<pub-id pub-id-type="pmid">22232667</pub-id></element-citation></ref><ref id="B110-viruses-05-00732"><label>110.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Immunoglobulins in the cerebrospinal fluid: Changes during acute viral encephalitis in mice</article-title>
+<source>J. Immunol.</source>
+<year>1981</year>
+<volume>126</volume>
+<fpage>27</fpage>
+<lpage>31</lpage>
+<pub-id pub-id-type="pmid">7451970</pub-id></element-citation></ref><ref id="B111-viruses-05-00732"><label>111.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parsons</surname><given-names>L.M.</given-names></name><name><surname>Webb</surname><given-names>H.E.</given-names></name></person-group>
+<article-title>Virus titres and persistently raised white cell counts in cerebrospinal fluid in mice after peripheral infection with demyelinating Semliki Forest virus</article-title>
+<source>Neuropathol. Appl. Neurobiol.</source>
+<year>1982</year>
+<volume>8</volume>
+<fpage>395</fpage>
+<lpage>401</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-2990.1982.tb00307.x</pub-id>
+<pub-id pub-id-type="pmid">6294545</pub-id></element-citation></ref><ref id="B112-viruses-05-00732"><label>112.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Parsons</surname><given-names>L.M.</given-names></name><name><surname>Webb</surname><given-names>H.E.</given-names></name></person-group>
+<article-title>Blood brain barrier disturbance and immunoglobulin G levels in the cerebrospinal fluid of the mouse following peripheral infection with the demyelinating strain of Semliki Forest virus</article-title>
+<source>J. Neurol. Sci.</source>
+<year>1982</year>
+<volume>57</volume>
+<fpage>307</fpage>
+<lpage>318</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-510X(82)90037-5</pub-id>
+<pub-id pub-id-type="pmid">6298371</pub-id></element-citation></ref><ref id="B113-viruses-05-00732"><label>113.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macpherson</surname><given-names>A.J.</given-names></name><name><surname>Geuking</surname><given-names>M.B.</given-names></name><name><surname>McCoy</surname><given-names>K.D.</given-names></name></person-group>
+<article-title>Homeland security: IgA immunity at the frontiers of the body</article-title>
+<source>Trends Immunol.</source>
+<year>2012</year>
+<volume>33</volume>
+<fpage>160</fpage>
+<lpage>167</lpage>
+<pub-id pub-id-type="pmid">22410243</pub-id></element-citation></ref><ref id="B114-viruses-05-00732"><label>114.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oh</surname><given-names>J.W.</given-names></name><name><surname>Schwiebert</surname><given-names>L.M.</given-names></name><name><surname>Benveniste</surname><given-names>E.N.</given-names></name></person-group>
+<article-title>Cytokine regulation of CC and CXC chemokine expression by human astrocytes</article-title>
+<source>J. Neurovirol.</source>
+<year>1999</year>
+<volume>5</volume>
+<fpage>82</fpage>
+<lpage>94</lpage>
+<pub-id pub-id-type="pmid">10190694</pub-id></element-citation></ref><ref id="B115-viruses-05-00732"><label>115.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cole</surname><given-names>K.E.</given-names></name><name><surname>Strick</surname><given-names>C.A.</given-names></name><name><surname>Paradis</surname><given-names>T.J.</given-names></name><name><surname>Ogborne</surname><given-names>K.T.</given-names></name><name><surname>Loetscher</surname><given-names>M.</given-names></name><name><surname>Gladue</surname><given-names>R.P.</given-names></name><name><surname>Lin</surname><given-names>W.</given-names></name><name><surname>Boyd</surname><given-names>J.G.</given-names></name><name><surname>Moser</surname><given-names>B.</given-names></name><name><surname>Wood</surname><given-names>D.E.</given-names></name><name><surname>Sahagan</surname><given-names>B.G.</given-names></name><name><surname>Neote</surname><given-names>K.</given-names></name></person-group>
+<article-title>Interferon-inducible T cell alpha chemoattractant (I-TAC): a novel non-ELR CXC chemokine with potent activity on activated T cells through selective high affinity binding to CXCR3</article-title>
+<source>J. Exp. Med.</source>
+<year>1998</year>
+<volume>187</volume>
+<fpage>2009</fpage>
+<lpage>2021</lpage>
+<pub-id pub-id-type="pmid">9625760</pub-id></element-citation></ref><ref id="B116-viruses-05-00732"><label>116.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luster</surname><given-names>A.D.</given-names></name><name><surname>Ravetch</surname><given-names>J.V.</given-names></name></person-group>
+<article-title>Biochemical characterization of a gamma interferon-inducible cytokine (IP-10)</article-title>
+<source>J. Exp. Med.</source>
+<year>1987</year>
+<volume>166</volume>
+<fpage>1084</fpage>
+<lpage>1097</lpage>
+<pub-id pub-id-type="pmid">2443596</pub-id></element-citation></ref><ref id="B117-viruses-05-00732"><label>117.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lane</surname><given-names>T.E.</given-names></name><name><surname>Asensio</surname><given-names>V.C.</given-names></name><name><surname>Yu</surname><given-names>N.</given-names></name><name><surname>Paoletti</surname><given-names>A.D.</given-names></name><name><surname>Campbell</surname><given-names>I.L.</given-names></name><name><surname>Buchmeier</surname><given-names>M.J.</given-names></name></person-group>
+<article-title>Dynamic regulation of alpha- and beta-chemokine expression in the central nervous system during mouse hepatitis virus-induced demyelinating disease</article-title>
+<source>J. Immunol.</source>
+<year>1998</year>
+<volume>160</volume>
+<fpage>970</fpage>
+<lpage>978</lpage>
+<pub-id pub-id-type="pmid">9551936</pub-id></element-citation></ref><ref id="B118-viruses-05-00732"><label>118.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name><name><surname>Hinton</surname><given-names>D.R.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Astrocyte dervived CXCL10 drives accumulation of antibody secreting cells in the centrtal nervous system during viral encephalomyelitis</article-title>
+<source>J. Virol.</source>
+<year>2013</year>
+<comment>in press</comment>
+</element-citation></ref><ref id="B119-viruses-05-00732"><label>119.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hauser</surname><given-names>A.E.</given-names></name><name><surname>Debes</surname><given-names>G.F.</given-names></name><name><surname>Arce</surname><given-names>S.</given-names></name><name><surname>Cassese</surname><given-names>G.</given-names></name><name><surname>Hamann</surname><given-names>A.</given-names></name><name><surname>Radbruch</surname><given-names>A.</given-names></name><name><surname>Manz</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Chemotactic responsiveness toward ligands for CXCR3 and CXCR4 is regulated on plasma blasts during the time course of a memory immune response</article-title>
+<source>J. Immunol.</source>
+<year>2002</year>
+<volume>169</volume>
+<fpage>1277</fpage>
+<lpage>1282</lpage>
+<pub-id pub-id-type="pmid">12133949</pub-id></element-citation></ref><ref id="B120-viruses-05-00732"><label>120.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Metcalf</surname><given-names>T.U.</given-names></name><name><surname>Baxter</surname><given-names>V.K.</given-names></name><name><surname>Nilaratanakul</surname><given-names>V.</given-names></name><name><surname>Griffin</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Recruitment and Retention of B Cells in the CNS in Response to Alphavirus Encephalomyelitis</article-title>
+<source>J. Virol.</source>
+<year>2013</year>
+<volume>87</volume>
+<fpage>2420</fpage>
+<lpage>2429</lpage>
+<pub-id pub-id-type="pmid">23255791</pub-id></element-citation></ref><ref id="B121-viruses-05-00732"><label>121.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rainey-Barger</surname><given-names>E.K.</given-names></name><name><surname>Rumble</surname><given-names>J.M.</given-names></name><name><surname>Lalor</surname><given-names>S.J.</given-names></name><name><surname>Esen</surname><given-names>N.</given-names></name><name><surname>Segal</surname><given-names>B.M.</given-names></name><name><surname>Irani</surname><given-names>D.N.</given-names></name></person-group>
+<article-title>The lymphoid chemokine, CXCL13, is dispensable for the initial recruitment of B cells to the acutely inflamed central nervous system</article-title>
+<source>Brain Behav. Immun.</source>
+<year>2011</year>
+<volume>25</volume>
+<fpage>922</fpage>
+<lpage>931</lpage>
+<pub-id pub-id-type="pmid">20933590</pub-id></element-citation></ref><ref id="B122-viruses-05-00732"><label>122.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuang</surname><given-names>Y.</given-names></name><name><surname>Lackay</surname><given-names>S.N.</given-names></name><name><surname>Zhao</surname><given-names>L.</given-names></name><name><surname>Fu</surname><given-names>Z.F.</given-names></name></person-group>
+<article-title>Role of chemokines in the enhancement of BBB permeability and inflammatory infiltration after rabies virus infection</article-title>
+<source>Virus Res.</source>
+<year>2009</year>
+<volume>144</volume>
+<fpage>18</fpage>
+<lpage>26</lpage>
+<pub-id pub-id-type="pmid">19720239</pub-id></element-citation></ref><ref id="B123-viruses-05-00732"><label>123.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakamichi</surname><given-names>K.</given-names></name><name><surname>Saiki</surname><given-names>M.</given-names></name><name><surname>Sawada</surname><given-names>M.</given-names></name><name><surname>Takayama-Ito</surname><given-names>M.</given-names></name><name><surname>Yamamuro</surname><given-names>Y.</given-names></name><name><surname>Morimoto</surname><given-names>K.</given-names></name><name><surname>Kurane</surname><given-names>I.</given-names></name></person-group>
+<article-title>Rabies virus-induced activation of mitogen-activated protein kinase and NF-kappaB signaling pathways regulates expression of CXC and CC chemokine ligands in microglia</article-title>
+<source>J. Virol.</source>
+<year>2005</year>
+<volume>79</volume>
+<fpage>11801</fpage>
+<lpage>11812</lpage>
+<pub-id pub-id-type="pmid">16140757</pub-id></element-citation></ref><ref id="B124-viruses-05-00732"><label>124.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoffman</surname><given-names>L.M.</given-names></name><name><surname>Fife</surname><given-names>B.T.</given-names></name><name><surname>Begolka</surname><given-names>W.S.</given-names></name><name><surname>Miller</surname><given-names>S.D.</given-names></name><name><surname>Karpus</surname><given-names>W.J.</given-names></name></person-group>
+<article-title>Central nervous system chemokine expression during Theiler's virus-induced demyelinating disease</article-title>
+<source>J. Neurovirol.</source>
+<year>1999</year>
+<volume>5</volume>
+<fpage>635</fpage>
+<lpage>642</lpage>
+<pub-id pub-id-type="pmid">10602404</pub-id></element-citation></ref><ref id="B125-viruses-05-00732"><label>125.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murray</surname><given-names>P.D.</given-names></name><name><surname>Krivacic</surname><given-names>K.</given-names></name><name><surname>Chernosky</surname><given-names>A.</given-names></name><name><surname>Wei</surname><given-names>T.</given-names></name><name><surname>Ransohoff</surname><given-names>R.M.</given-names></name><name><surname>Rodriguez</surname><given-names>M.</given-names></name></person-group>
+<article-title>Biphasic and regionally-restricted chemokine expression in the central nervous system in the Theiler's virus model of multiple sclerosis</article-title>
+<source>J. Neurovirol.</source>
+<year>2000</year>
+<volume>6</volume>
+<fpage>44</fpage>
+<lpage>52</lpage>
+</element-citation></ref><ref id="B126-viruses-05-00732"><label>126.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsunoda</surname><given-names>I.</given-names></name><name><surname>Lane</surname><given-names>T.E.</given-names></name><name><surname>Blackett</surname><given-names>J.</given-names></name><name><surname>Fujinami</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Distinct roles for IP-10/CXCL10 in three animal models, Theiler's virus infection, EAE, and MHV infection, for multiple sclerosis: implication of differing roles for IP-10</article-title>
+<source>Mult. Scler.</source>
+<year>2004</year>
+<volume>10</volume>
+<fpage>26</fpage>
+<lpage>34</lpage>
+<pub-id pub-id-type="pmid">14760949</pub-id></element-citation></ref><ref id="B127-viruses-05-00732"><label>127.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ireland</surname><given-names>D.D.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name><name><surname>Hinton</surname><given-names>D.R.</given-names></name><name><surname>Atkinson</surname><given-names>R.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name></person-group>
+<article-title>Type I interferons are essential in controlling neurotropic coronavirus infection irrespective of functional CD8 T cells</article-title>
+<source>J. Virol.</source>
+<year>2008</year>
+<volume>82</volume>
+<fpage>300</fpage>
+<lpage>310</lpage>
+<pub-id pub-id-type="pmid">17928334</pub-id></element-citation></ref><ref id="B128-viruses-05-00732"><label>128.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Palma</surname><given-names>J.P.</given-names></name><name><surname>Kim</surname><given-names>B.S.</given-names></name></person-group>
+<article-title>Induction of selected chemokines in glial cells infected with Theiler's virus</article-title>
+<source>J. Neuroimmunol.</source>
+<year>2001</year>
+<volume>117, 1</volume>
+<fpage>166</fpage>
+<lpage>170</lpage>
+<pub-id pub-id-type="pmid">11431017</pub-id></element-citation></ref><ref id="B129-viruses-05-00732"><label>129.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klein</surname><given-names>R.S.</given-names></name><name><surname>Lin</surname><given-names>E.</given-names></name><name><surname>Zhang</surname><given-names>B.</given-names></name><name><surname>Luster</surname><given-names>A.D.</given-names></name><name><surname>Tollett</surname><given-names>J.</given-names></name><name><surname>Samuel</surname><given-names>M.A.</given-names></name><name><surname>Engle</surname><given-names>M.</given-names></name><name><surname>Diamond</surname><given-names>M.S.</given-names></name></person-group>
+<article-title>Neuronal CXCL10 directs CD8+ T-cell recruitment and control of West Nile virus encephalitis</article-title>
+<source>J. Virol.</source>
+<year>2005</year>
+<volume>79</volume>
+<fpage>11457</fpage>
+<lpage>11466</lpage>
+<pub-id pub-id-type="pmid">16103196</pub-id></element-citation></ref><ref id="B130-viruses-05-00732"><label>130.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Magliozzi</surname><given-names>R.</given-names></name><name><surname>Columba-Cabezas</surname><given-names>S.</given-names></name><name><surname>Serafini</surname><given-names>B.</given-names></name><name><surname>Aloisi</surname><given-names>F.</given-names></name></person-group>
+<article-title>Intracerebral expression of CXCL13 and BAFF is accompanied by formation of lymphoid follicle-like structures in the meninges of mice with relapsing experimental autoimmune encephalomyelitis</article-title>
+<source>J. Neuroimmunol.</source>
+<year>2004</year>
+<volume>148</volume>
+<fpage>11</fpage>
+<lpage>23</lpage>
+<pub-id pub-id-type="pmid">14975582</pub-id></element-citation></ref><ref id="B131-viruses-05-00732"><label>131.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Serafini</surname><given-names>B.</given-names></name><name><surname>Rosicarelli</surname><given-names>B.</given-names></name><name><surname>Magliozzi</surname><given-names>R.</given-names></name><name><surname>Stigliano</surname><given-names>E.</given-names></name><name><surname>Aloisi</surname><given-names>F.</given-names></name></person-group>
+<article-title>Detection of ectopic B-cell follicles with germinal centers in the meninges of patients with secondary progressive multiple sclerosis</article-title>
+<source>Brain Pathol.</source>
+<year>2004</year>
+<volume>14</volume>
+<fpage>164</fpage>
+<lpage>174</lpage>
+<pub-id pub-id-type="pmid">15193029</pub-id></element-citation></ref><ref id="B132-viruses-05-00732"><label>132.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Serafini</surname><given-names>B.</given-names></name><name><surname>Severa</surname><given-names>M.</given-names></name><name><surname>Columba-Cabezas</surname><given-names>S.</given-names></name><name><surname>Rosicarelli</surname><given-names>B.</given-names></name><name><surname>Veroni</surname><given-names>C.</given-names></name><name><surname>Chiappetta</surname><given-names>G.</given-names></name><name><surname>Magliozzi</surname><given-names>R.</given-names></name><name><surname>Reynolds</surname><given-names>R.</given-names></name><name><surname>Coccia</surname><given-names>E.M.</given-names></name><name><surname>Aloisi</surname><given-names>F.</given-names></name></person-group>
+<article-title>Epstein-Barr virus latent infection and BAFF expression in B cells in the multiple sclerosis brain: implications for viral persistence and intrathecal B-cell activation</article-title>
+<source>J. Neuropathol. Exp. Neurol.</source>
+<year>2010</year>
+<volume>69</volume>
+<fpage>677</fpage>
+<lpage>693</lpage>
+<pub-id pub-id-type="pmid">20535037</pub-id></element-citation></ref><ref id="B133-viruses-05-00732"><label>133.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>W.</given-names></name><name><surname>Joo</surname><given-names>H.</given-names></name><name><surname>Clayton</surname><given-names>S.</given-names></name><name><surname>Dullaers</surname><given-names>M.</given-names></name><name><surname>Herve</surname><given-names>M.C.</given-names></name><name><surname>Blankenship</surname><given-names>D.</given-names></name><name><surname>De La Morena</surname><given-names>M.T.</given-names></name><name><surname>Balderas</surname><given-names>R.</given-names></name><name><surname>Picard</surname><given-names>C.</given-names></name><name><surname>Casanova</surname><given-names>J.L.</given-names></name><name><surname>Pascual</surname><given-names>V.</given-names></name><name><surname>Oh</surname><given-names>S.</given-names></name><name><surname>Banchereau</surname><given-names>J.</given-names></name></person-group>
+<article-title>Macrophages induce differentiation of plasma cells through CXCL10/IP-10</article-title>
+<source>J. Exp. Med.</source>
+<year>2012</year>
+<volume>209</volume>
+<fpage>1813</fpage>
+<lpage>1823</lpage>
+<pub-id pub-id-type="pmid">22987802</pub-id></element-citation></ref><ref id="B134-viruses-05-00732"><label>134.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Puntambekar</surname><given-names>S.S.</given-names></name><name><surname>Bergmann</surname><given-names>C.C.</given-names></name><name><surname>Savarin</surname><given-names>C.</given-names></name><name><surname>Karp</surname><given-names>C.L.</given-names></name><name><surname>Phares</surname><given-names>T.W.</given-names></name><name><surname>Parra</surname><given-names>G.I.</given-names></name><name><surname>Hinton</surname><given-names>D.R.</given-names></name><name><surname>Stohlman</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>Shifting hierarchies of interleukin-10-producing T cell populations in the central nervous system during acute and persistent viral encephalomyelitis</article-title>
+<source>J. Virol.</source>
+<year>2011</year>
+<volume>85</volume>
+<fpage>6702</fpage>
+<lpage>6713</lpage>
+<pub-id pub-id-type="pmid">21525347</pub-id></element-citation></ref><ref id="B135-viruses-05-00732"><label>135.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linterman</surname><given-names>M.A.</given-names></name><name><surname>Beaton</surname><given-names>L.</given-names></name><name><surname>Yu</surname><given-names>D.</given-names></name><name><surname>Ramiscal</surname><given-names>R.R.</given-names></name><name><surname>Srivastava</surname><given-names>M.</given-names></name><name><surname>Hogan</surname><given-names>J.J.</given-names></name><name><surname>Verma</surname><given-names>N.K.</given-names></name><name><surname>Smyth</surname><given-names>M.J.</given-names></name><name><surname>Rigby</surname><given-names>R.J.</given-names></name><name><surname>Vinuesa</surname><given-names>C.G.</given-names></name></person-group>
+<article-title>IL-21 acts directly on B cells to regulate Bcl-6 expression and germinal center responses</article-title>
+<source>J. Exp. Med.</source>
+<year>2010</year>
+<volume>207</volume>
+<fpage>353</fpage>
+<lpage>363</lpage>
+<pub-id pub-id-type="pmid">20142429</pub-id></element-citation></ref><ref id="B136-viruses-05-00732"><label>136.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zotos</surname><given-names>D.</given-names></name><name><surname>Coquet</surname><given-names>J.M.</given-names></name><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Light</surname><given-names>A.</given-names></name><name><surname>D'Costa</surname><given-names>K.</given-names></name><name><surname>Kallies</surname><given-names>A.</given-names></name><name><surname>Corcoran</surname><given-names>L.M.</given-names></name><name><surname>Godfrey</surname><given-names>D.I.</given-names></name><name><surname>Toellner</surname><given-names>K.M.</given-names></name><name><surname>Smyth</surname><given-names>M.J.</given-names></name><name><surname>Nutt</surname><given-names>S.L.</given-names></name><name><surname>Tarlinton</surname><given-names>D.M.</given-names></name></person-group>
+<article-title>IL-21 regulates germinal center B cell differentiation and proliferation through a B cell-intrinsic mechanism</article-title>
+<source>J. Exp. Med.</source>
+<year>2010</year>
+<volume>207</volume>
+<fpage>365</fpage>
+<lpage>378</lpage>
+<pub-id pub-id-type="pmid">20142430</pub-id></element-citation></ref><ref id="B137-viruses-05-00732"><label>137.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sabat</surname><given-names>R.</given-names></name><name><surname>Grutz</surname><given-names>G.</given-names></name><name><surname>Warszawska</surname><given-names>K.</given-names></name><name><surname>Kirsch</surname><given-names>S.</given-names></name><name><surname>Witte</surname><given-names>E.</given-names></name><name><surname>Wolk</surname><given-names>K.</given-names></name><name><surname>Geginat</surname><given-names>J.</given-names></name></person-group>
+<article-title>Biology of interleukin-10</article-title>
+<source>Cytokine Growth Factor Rev.</source>
+<year>2010</year>
+<volume>21</volume>
+<fpage>331</fpage>
+<lpage>344</lpage>
+<pub-id pub-id-type="pmid">21115385</pub-id></element-citation></ref><ref id="B138-viruses-05-00732"><label>138.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aksamit</surname><given-names>A.J.</given-names></name></person-group>
+<article-title>Review of progressive multifocal leukoencephalopathy and natalizumab</article-title>
+<source>Neurologist</source>
+<year>2006</year>
+<volume>12</volume>
+<fpage>293</fpage>
+<lpage>298</lpage>
+<pub-id pub-id-type="pmid">17122725</pub-id></element-citation></ref></ref-list></back></article>

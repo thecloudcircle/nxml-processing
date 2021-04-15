@@ -1,0 +1,772 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc">F1000Research</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000 Research Limited</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32431803</article-id><article-id pub-id-type="pmc">7205110</article-id><article-id pub-id-type="doi">10.12688/f1000research.19444.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group><subj-group><subject>Articles</subject></subj-group></article-categories><title-group><article-title>Exome sequencing in genetic disease: recent advances and considerations</article-title><fn-group content-type="pub-status"><fn><p>[version 1; peer review: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ross</surname><given-names>Jay P.</given-names></name><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-8183-2524</contrib-id><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Dion</surname><given-names>Patrick A.</given-names></name><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><xref ref-type="aff" rid="a2">2</xref><xref ref-type="aff" rid="a3">3</xref></contrib><contrib contrib-type="author"><name><surname>Rouleau</surname><given-names>Guy A.</given-names></name><role content-type="http://credit.casrai.org/">Funding Acquisition</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Original Draft Preparation</role><role content-type="http://credit.casrai.org/">Writing &#x02013; Review &#x00026; Editing</role><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-8403-1418</contrib-id><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref><xref ref-type="aff" rid="a3">3</xref></contrib><aff id="a1">
+<label>1</label>Department of Human Genetics, McGill University, 3640 University, Montr&#x000e9;al, QC, H3A 0C7, Canada</aff><aff id="a2">
+<label>2</label>Montreal Neurological Institute and Hospital, McGill University, 3801 University, Montr&#x000e9;al, QC, H3A 2B4, Canada</aff><aff id="a3">
+<label>3</label>Department of Neurology and Neurosurgery, McGill University, 3801 University, Montr&#x000e9;al, QC, H3A 2B4, Canada</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:guy.rouleau@mcgill.ca">guy.rouleau@mcgill.ca</email></corresp><fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>6</day><month>5</month><year>2020</year></pub-date><pub-date pub-type="collection"><year>2020</year></pub-date><volume>9</volume><elocation-id>F1000 Faculty Rev-336</elocation-id><history><date date-type="accepted"><day>30</day><month>4</month><year>2020</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2020 Ross JP et al.</copyright-statement><copyright-year>2020</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="f1000research-9-21317.pdf"/><abstract><p>Over the past decade, exome sequencing (ES) has allowed significant advancements to the field of disease research. By targeting the protein-coding regions of the genome, ES combines the depth of knowledge on protein-altering variants with high-throughput data generation and ease of analysis. New discoveries continue to be made using ES, and medical science has benefitted both theoretically and clinically from its continued use. In this review, we describe recent advances and successes of ES in disease research. Through selected examples of recent publications, we explore how ES continues to be a valuable tool to find variants that might explain disease etiology or provide insight into the biology underlying the disease. We then discuss shortcomings of ES in terms of variant discoveries made by other sequencing technologies that would be missed because of the scope and techniques of ES. We conclude with a brief outlook on the future of ES, suggesting that although newer and more thorough sequencing methods will soon supplant ES, its results will continue to be useful for disease research.</p></abstract><kwd-group kwd-group-type="author"><kwd>whole exome sequencing</kwd><kwd>disease research</kwd><kwd>whole genome sequencing</kwd></kwd-group><funding-group><award-group id="fund-1" xlink:href="http://dx.doi.org/10.13039/501100000024"><funding-source>Canadian Institutes of Health Research</funding-source><award-id>FRN159279</award-id></award-group><award-group id="fund-2" xlink:href="http://dx.doi.org/10.13039/100009408"><funding-source>Brain Canada</funding-source></award-group><award-group id="fund-3" xlink:href="http://dx.doi.org/10.13039/100009017"><funding-source>ALS Society of Canada</funding-source></award-group><funding-statement>This work was supported by grants from the ALS Society of Canada, the Canadian Institutes of Health Research (FRN 159279), and Brain Canada. </funding-statement><funding-statement><italic>The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</italic></funding-statement></funding-group></article-meta><notes><sec sec-type="editor-note"><title>Editorial Note on the Review Process</title><p>
+<ext-link ext-link-type="uri" xlink:href="http://f1000research.com/browse/f1000-faculty-reviews">F1000 Faculty Reviews</ext-link> are commissioned from members of the prestigious
+<ext-link ext-link-type="uri" xlink:href="http://f1000.com/prime/thefaculty">F1000 Faculty</ext-link> and are edited as a service to readers. In order to make these reviews as comprehensive and accessible as possible, the referees provide input before publication and only the final, revised version is published. The referees who approved the final version are listed with their names and affiliations but without their reports on earlier versions (any comments will already have been addressed in the published version).</p><p>The referees who approved this article are: </p><list list-type="simple" list-content="reviewer-list"><list-item><p>
+<named-content content-type="reviewer-name">Jan Friedman</named-content>, Department of Medical Genetics, University of British Columbia, Vancouver, BC, Canada
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Murim Choi</named-content>, Department of Biomedical Sciences, Seoul National University College of Medicine, Seoul, South Korea
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item></list></sec></notes></front><body><sec sec-type="intro"><title>Introduction</title><p>The genetic view of disease etiology has historically focused on finding a causal variant for a given phenotype. This approach has worked well for diseases that are ostensibly monogenic, such as cystic fibrosis
+<sup><xref rid="ref-1" ref-type="bibr">1</xref></sup> or Huntington&#x02019;s disease
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>. Within a pedigree, the segregation of genetic variants with a given phenotype was originally studied using linkage analysis
+<sup><xref rid="ref-3" ref-type="bibr">3</xref></sup>. Though instrumental for finding associations of simple genetic factors with disease, early linkage studies typically needed further experiments in fine mapping disease loci in order to find a candidate protein-altering variant within a gene.</p><p>Inherited or acquired protein-coding variants represent the majority of disease-causing variants, accounting for upwards of 60% of all known causative genomic variation
+<sup><xref rid="ref-4" ref-type="bibr">4</xref>,
+<xref rid="ref-5" ref-type="bibr">5</xref></sup>. Exome sequencing (ES) is the targeted sequencing of nearly every protein-coding region of the genome
+<sup><xref rid="ref-6" ref-type="bibr">6</xref>,
+<xref rid="ref-7" ref-type="bibr">7</xref></sup>. Typically, either a hybridization capture or multiplex primer-based amplification is used to generate libraries of exonic sequences that can be mapped to the reference genome to find variants. Given the abundance of knowledge on protein-coding genes compared with other regions of the genome, ES leverages well-sequenced and mapped regions of the genome with
+<italic>in silico</italic> predictions of protein function. The field of genetics was shifted from multi-step loci discovery and subsequent resequencing to testing nearly every protein-coding gene simultaneously.</p><p>The number of diseases and syndromes that are explained by a single variant, or even a single altered gene, becomes smaller and smaller as the field of genetic research progresses. Indeed, even diseases easily defined as monogenic are now being studied in terms of genetic modifiers of severity and age at onset
+<sup><xref rid="ref-8" ref-type="bibr">8</xref>&#x02013;
+<xref rid="ref-10" ref-type="bibr">10</xref></sup>. Monogenic or &#x0201c;familial&#x0201d; forms of a heterogenous disease often account for small proportions of a total disease population
+<sup><xref rid="ref-3" ref-type="bibr">3</xref></sup>. Taking as an example the genetic etiology of amyotrophic lateral sclerosis (ALS), a multi-step model has been proposed to incorporate risk from genetic variants and environmental exposure
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup>. In this model, an apparently monogenic variant would account for several or all &#x0201c;steps&#x0201d; that are necessary to instigate disease. However, the same disease might be acquired through several variants of lower penetrance or through a combination of genetics and environmental factors.</p><p>In this review, we will outline the recent successes and applications of ES and subsequent gene discovery in disease research. We aim to demonstrate the utility and efficacy of ES while giving a perspective on the future of the study of genetic disease etiology, specifically focusing on upcoming techniques and technologies. While ES has been instrumental in broadening our knowledge of disease genetics, the lessons learned from ES studies will bridge the gap into genome sequencing (GS), long-read sequencing (LRS), and beyond.</p></sec><sec><title>Exome techniques and discovery examples</title><sec><title>Early disease gene discovery using exome sequencing</title><p>Early uses of ES in gene discovery focused mainly on segregation of a variant or variants within a gene and the phenotype of interest. Generally, a family containing multiple affected individuals would be subjected to ES in order to find variants that are observed only in affected cases and not in the unaffected relatives or spouses
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup>. Candidate variants that segregated well with the disease phenotype would be screened in other families with the intent to reproduce the same degree of segregation. ES could combine the unbiased approach of genome-wide linkage with the direct observation of protein-altering variants as in Sanger sequencing exons of a candidate gene
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup>. Examples of successful discoveries using this paradigm include rare inherited forms of ALS
+<sup><xref rid="ref-13" ref-type="bibr">13</xref>&#x02013;
+<xref rid="ref-15" ref-type="bibr">15</xref></sup>, Parkinson&#x02019;s disease
+<sup><xref rid="ref-16" ref-type="bibr">16</xref></sup>, epilepsy
+<sup><xref rid="ref-17" ref-type="bibr">17</xref></sup>, and heart diseases
+<sup><xref rid="ref-18" ref-type="bibr">18</xref>,
+<xref rid="ref-19" ref-type="bibr">19</xref></sup>. These examples illustrate the efficiency of ES applied to diseases that are caused by or associated with penetrant and monogenic variants, but it is considerably more analysis-intensive for variants with variable penetrance or private variants observed in only a single pedigree
+<sup><xref rid="ref-20" ref-type="bibr">20</xref></sup>.</p></sec></sec><sec><title>Clinical exome sequencing</title><p>Genetic studies are dependent on the accuracy of diagnosis, the pleiotropy of variants of a given gene, and the prior association of variants with an outcome. Determining a specific diagnosis can be challenging because several diseases and disorders can have similar or overlapping symptoms
+<sup><xref rid="ref-21" ref-type="bibr">21</xref></sup>. Pleiotropic genes, whose variants can result in a variety of diseases, can also lead to lower diagnostic efficacy
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>. Therefore, genetically heterogenous diseases with many known genetic causes benefit more from an unbiased screening of all genes, as in ES or GS
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>.</p><p>ES is now used as a rapid and effective means to diagnose or aid in the diagnosis of disease. ES can be employed at a prenatal period to detect fetal abnormalities
+<sup><xref rid="ref-24" ref-type="bibr">24</xref>&#x02013;
+<xref rid="ref-26" ref-type="bibr">26</xref></sup> and postnatally following a phenotypic observation
+<sup><xref rid="ref-27" ref-type="bibr">27</xref>,
+<xref rid="ref-28" ref-type="bibr">28</xref></sup>. A significant benefit of ES comes from the ability to determine whether genetic abnormalities have been inherited from the parents or whether a variant has occurred spontaneously during gametogenesis or in gestation (
+<italic>de novo</italic> or genetic mosaicism, respectively)
+<sup><xref rid="ref-29" ref-type="bibr">29</xref></sup>. This screening could help to inform current medical intervention or to act as a basis for genetic counselling. While the utility of genetic aid in diagnosis is not limited to ES (GS and panel sequencing are also used), the cost, speed, and ease of interpretation of ES maintain it as a preferred method
+<sup><xref rid="ref-30" ref-type="bibr">30</xref></sup>. As a result of the combined knowledge generated from association studies and further functional validation of variants, the ability to generate diagnoses from ES data will increase. For example, given an uncertain phenotype in a newborn, success rates to provide a diagnosis through ES continue to rise, between about 50 and 80% of all cases depending on phenotypic severity and the range of diagnoses
+<sup><xref rid="ref-24" ref-type="bibr">24</xref>,
+<xref rid="ref-28" ref-type="bibr">28</xref></sup>. The success rate of clinical ES appears to lower for older patients with adult-onset phenotypes, between about 25 and 50%
+<sup><xref rid="ref-31" ref-type="bibr">31</xref>,
+<xref rid="ref-32" ref-type="bibr">32</xref></sup>; the difference in success rate because of age could be due to several factors ranging from probands being presymptomatic until later in life
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup> to the amount of research performed on different diseases.</p><p>The application of ES is dependent on the direction in which the technology is used. Applying ES on a patient with non-specific symptoms or a novel disorder might not be as informative as for a patient with a well-characterized disease with many uniquely associated genes. The average ES results of a patient can generate more than 20,000 variants, of which a median of 21 would be predicted as loss of function
+<sup><xref rid="ref-33" ref-type="bibr">33</xref></sup>. Determining the genetic cause of a rare disease proves difficult as observed variants in an individual may be either coincidental or, if truly causal, private to a family. Interpretation of these variants is critical to filtering out common variants and prioritizing candidate variants.</p><p>Whether testing during the pre- or post-natal period or testing relatives of a proband for potentially associated variants, there is always the risk of incidental genetics findings. Variants are sought after clinically for an involvement in the phenotype or disease of interest, but as ES allows the discovery of potentially all coding variants, this can result in the discovery of variants that are not related to the clinical testing
+<sup><xref rid="ref-34" ref-type="bibr">34</xref></sup>. Additionally, incidental issues with relatedness testing can arise
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup> and could affect both clinical efficacy and personal aspects. As ES data become accessible from open-science initiatives and data sharing across consortia, reanalysis of data should also be undertaken following qualified guidelines (for example, from the Canadian College of Medical Geneticists)
+<sup><xref rid="ref-35" ref-type="bibr">35</xref></sup>. New techniques and analysis paradigms will continue to be generated, and ES data should be reanalyzed with the newest information in order to best utilize the data generated
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>. As ES is also expanded into industry settings, ethical care and legal preventions must be taken to avoid the improper dissemination of incidental findings to patients and customers alike.</p></sec><sec><title>
+<italic>De novo</italic> variants and pooled-parent exome sequencing</title><p>Genetic variants that are not present in the genomes of the parents of the proband arise
+<italic>de novo</italic>. ES of both unaffected parents and the affected individual, known as &#x0201c;trio sequencing&#x0201d;, has been successful to find genes in which these
+<italic>de novo</italic> variants are associated with disease
+<sup><xref rid="ref-21" ref-type="bibr">21</xref>,
+<xref rid="ref-37" ref-type="bibr">37</xref>&#x02013;
+<xref rid="ref-39" ref-type="bibr">39</xref></sup>. Although certain specific disease-related variants tend to arise
+<italic>de novo</italic>, such as the p.P525L variant in
+<italic>FUS</italic> associated with ALS
+<sup><xref rid="ref-40" ref-type="bibr">40</xref>,
+<xref rid="ref-41" ref-type="bibr">41</xref></sup>, an unbiased approach to finding
+<italic>de novo</italic> variants is required in most cases.</p><p>A recent innovation in the detection of
+<italic>de novo</italic> variants has been the &#x0201c;pooled parent&#x0201d; approach
+<sup><xref rid="ref-42" ref-type="bibr">42</xref></sup>. Because detection of
+<italic>de novo</italic> variants necessitates knowing the genetic status of both parents of a proband, sequencing can be more costly than simply screening a proband with ES. By fully sequencing the proband with ES, detailed and high-fidelity information about variants is acquired; as parents are used only to filter out non-
+<italic>de novo</italic> variants, less information is required on their genetic status. Therefore, in this method, the parents of all sequenced probands are pooled into a single ES sample and used to test for the presence of any candidate
+<italic>de novo</italic> alleles in the parent generation. The impetus for this approach was to use the lower cost of the singleton approach (that is, screening only the proband for likely causal variants) while using a population of parent genomes to increase diagnostic yield. However, the necessity of collecting and sequencing parental DNA applies to both traditional trio sequencing and pooled-parent sequencing, which is often a difficult task in late-onset disease research. The study also uses the gnomAD public database
+<sup><xref rid="ref-43" ref-type="bibr">43</xref></sup> to filter variants that are observed in a significant proportion of the general population and likely not a
+<italic>de novo</italic> cause of disease
+<sup><xref rid="ref-42" ref-type="bibr">42</xref></sup>. However, as not every ethnicity or population is represented in gnomAD, it is essential to sequence both parents of a given proband in the pooled-parent technique, as the absence of a variant in gnomAD is not adequate to conclude that a
+<italic>de novo</italic> variant has occurred.</p><p>The pooled-parent approach to ES demonstrates that an established technique can be refined. Although the same conclusions are reached after applying traditional or pooled-parent trio sequencing, a larger diagnostic yield can be achieved, enabling lower-cost and more efficient processing of genetic analysis.</p></sec><sec><title>Studying rare variation</title><p>Many exome variants have a low allelic frequency in the general population. If a variant alters the coding sequence of a protein (that is, if the variant is non-synonymous or induces a premature termination of the protein), the effect on the translated protein may be significant. In genes intolerant to loss-of-function variants, protein-truncating variants are often associated with diseases and functional consequences
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup>. If a disease is associated with a single penetrant variant or with several variants in the same gene, less effort is required to find the association. However, diseases can be due to a combination of alleles with incomplete penetrance, often across several genes
+<sup><xref rid="ref-45" ref-type="bibr">45</xref></sup>; a clear association may be difficult to determine in this case. This situation is especially difficult when the variants are observed at a low frequency, as the power to detect an association is higher when variants are common
+<sup><xref rid="ref-45" ref-type="bibr">45</xref>,
+<xref rid="ref-46" ref-type="bibr">46</xref></sup>.</p><p>Standard statistical genetic techniques, such as the chi-squared test, Fisher&#x02019;s exact test, or logistic regression, are often not able to detect associations of a very low frequency variant with a disease phenotype and this is simply because of lack of observations in a sample cohort. However, by aggregating these variants within a given genomic window or functional region (for example, a gene), variants that might individually cause or generate risk for a disease are used to generate a &#x0201c;gene-based association&#x0201d; signal. Such statistical tests, such as the sequence kernel association test (SKAT)
+<sup><xref rid="ref-47" ref-type="bibr">47</xref></sup>, combined multivariate and collapsing (CMC)
+<sup><xref rid="ref-48" ref-type="bibr">48</xref></sup>, or custom enrichment algorithms
+<sup><xref rid="ref-49" ref-type="bibr">49</xref></sup>, combine the signal from individual variants of a given interval into a single score that can be tested against a null model (generally the same score in unaffected controls).</p><p>In a study of underlying genetic risk factors for generalized epilepsy, May
+<italic>et al</italic>. used multiple collapsing statistical methods to test variants within gene sets, namely CMC and SKAT (optimal)
+<sup><xref rid="ref-50" ref-type="bibr">50</xref></sup>. Although epilepsies tend to have high heritability
+<sup><xref rid="ref-51" ref-type="bibr">51</xref></sup>, few genetic associations have been found. As with other complex disorders, it may be that several concurrent variants are required to increase risk or that variants are rare and perhaps unique to each phenotypic subset. Even if the study by May
+<italic>et al</italic>. did not find a single gene that had an enrichment of variants in epilepsy cases, the authors observed a significant association of variants in genes that encode for GABAA receptors
+<sup><xref rid="ref-37" ref-type="bibr">37</xref></sup>. Only by grouping several genes together into a &#x0201c;gene set&#x0201d; were the authors able to find an association signal; this suggests that any or all of the genes within the set might be associated with the phenotype but that individual variants within genes are too rare or not sufficiently penetrant to generate associations
+<sup><xref rid="ref-50" ref-type="bibr">50</xref></sup>.</p><p>Although this example highlights the success of collapsing statistics to study rare variants, caution must be stressed in terms of limitations. In order to reach the required power both to observe enough rare variation and to detect a substantial difference between cases and controls, considerable sample sizes are required
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup>. Furthermore, these sample sizes depend on phenotypic severity and the relative risk to be detected
+<sup><xref rid="ref-52" ref-type="bibr">52</xref></sup>. In addition, such findings are of limited value for individual diagnosis and predictive testing.</p></sec><sec><title>Shortcomings of exome sequencing and targeted amplified sequencing</title><p>The major downside to ES is the unanalyzed portion of the genome. Increasingly, regulatory, intronic, and intergenic regions are being considered for relevance in biology and disease
+<sup><xref rid="ref-53" ref-type="bibr">53</xref>&#x02013;
+<xref rid="ref-56" ref-type="bibr">56</xref></sup>. Although there exist some ES kits that enrich for regions outside the strict definition of the exome, a considerable amount of genomic variation is simply not targeted by standard ES. Typically, ES does not target regions of the genome outside of coding exons, although variants within 200 base pairs (bp) of the coding region can be informative variants
+<sup><xref rid="ref-53" ref-type="bibr">53</xref></sup>.</p><p>Disease genetics research and genetic diagnosis will likely move away from ES once cost and ease of analysis for GS are acceptable. A similar number of variants in coding regions are captured by both ES and GS, and generally the variants observed are of equal or higher sequencing quality
+<sup><xref rid="ref-57" ref-type="bibr">57</xref></sup>. Included in GS results are non-coding variants, those outside of gene-coding regions. However, despite significant effort to categorize the effect of non-coding variants, the effect of non-coding variants generally is not as well known as that of protein-altering exonic variants
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. Nonetheless, GS and other extra-exonic technologies are becoming more widely used in genetic disease research.</p></sec><sec><title>Variant burden</title><p>Burden studies using ES have focused mainly on the amount of potentially deleterious variants across samples. However, much of the variation in the genome is not apparently deleterious, and although generally there is not a singular cause of disease, these variants might be enriched under certain phenotypes. Although non-coding variants generally do not alter protein structure or function, they may be critical to splicing, regulation, isoform usage, or other functions
+<sup><xref rid="ref-53" ref-type="bibr">53</xref>,
+<xref rid="ref-54" ref-type="bibr">54</xref>,
+<xref rid="ref-56" ref-type="bibr">56</xref>,
+<xref rid="ref-58" ref-type="bibr">58</xref></sup>. Variants altering the coding sequence of an RNA/DNA-binding protein may affect the affinity of the protein to bind its targets
+<sup><xref rid="ref-59" ref-type="bibr">59</xref></sup>. Conversely, if the target of one of these binding proteins is altered, a similar loss of affinity might occur
+<sup><xref rid="ref-60" ref-type="bibr">60</xref></sup>.</p><p>An example of the efficacy of GS to study non-coding variation outside the exome is shown in CTCF/cohesin-binding site variants
+<sup><xref rid="ref-55" ref-type="bibr">55</xref></sup>. Somatic variants occur throughout the genome as a function of DNA replication and repair
+<sup><xref rid="ref-61" ref-type="bibr">61</xref></sup>; however, the signature and location of these variants may be informative to disease genetic etiology. No single variant in these binding sites was causal per se for colorectal cancers. However, when the focus was on variants across the genome that fall within regions where CTCF and cohesin bind to DNA, a striking number of somatic variants were observed at specific points of the binding sites. This finding was further used to differentiate between subsets of these tumors: the aggregation of somatic variants within CTCF-binding sites was observed only in microsatellite-stable tumors, whereas microsatellite-instable and
+<italic>POLE</italic> variant-related tumors showed no such enrichment. This finding could be generalized to any transcription factor&#x02013; or DNA&#x02013;binding sites
+<sup><xref rid="ref-60" ref-type="bibr">60</xref></sup> but would require GS, as ES would not sequence many of the binding sites.</p></sec><sec><title>Copy number variation detection</title><p>Many copy number variation (CNV) callers have been created for ES data to varying degrees of accuracy and usage
+<sup><xref rid="ref-62" ref-type="bibr">62</xref></sup>. A recent refinement of ES CNV calling showed that information from multiple callers and quality-control metrics could increase ES CNV accuracy substantially
+<sup><xref rid="ref-63" ref-type="bibr">63</xref></sup>. However, CNV detection will suffer from the limited target regions of ES
+<sup><xref rid="ref-64" ref-type="bibr">64</xref></sup>. Furthermore, more sophisticated tools accurately resolve small CNV across the genome, using deviations from GS coverage uniformity
+<sup><xref rid="ref-65" ref-type="bibr">65</xref></sup> or using reads that align to a given motif sequence
+<sup><xref rid="ref-64" ref-type="bibr">64</xref></sup>.</p><p>The shortcomings of ES to find repetitive pathogenic variants can be seen in the identification of repeat expansions. A striking example is the recent discovery of a novel genetic cause of glutamine deficiency
+<sup><xref rid="ref-66" ref-type="bibr">66</xref></sup>. Three unrelated patients were screened using traditional ES in order to find protein-altering variants in the glutaminase (
+<italic>GLS</italic>) gene. As any identified variants were also observed in the unaffected parents, GS was used to test for additional variation near the gene. A trinucleotide repeat expansion in the 5&#x02032; untranslated region of
+<italic>GLS</italic> was identified as a disease-causing variant; patients either carried a non-synonymous
+<italic>GLS</italic> variant in trans with the expansion or carried two expanded alleles. The expanded repeat resulted in decreased expression of
+<italic>GLS</italic>, possibly through modified chromatin
+<sup><xref rid="ref-66" ref-type="bibr">66</xref></sup>. This finding relied on another recent advancement in repeat detection, the software Expansion Hunter
+<sup><xref rid="ref-64" ref-type="bibr">64</xref></sup>, which allows local discovery and estimation of repeat sequence deviation using observed repeats within sequencing reads.</p><p>This example highlights the added benefit of studying the genome outside the exome. A variant of incomplete segregation or penetrance was observed, and had the study been conducted prior to the ability to perform GS, this might have been the conclusion of the study. However, by analyzing outside the regions targeted in ES, a non-coding repeat variant was able to explain the disease in these patients and explain the inability of the missense variant to cause disease alone
+<sup><xref rid="ref-66" ref-type="bibr">66</xref></sup>.</p></sec><sec><title>Long-read sequencing</title><p>There are genomic regions that owing to technical limitations are not studied and that could have implications for clinical genetics
+<sup><xref rid="ref-67" ref-type="bibr">67</xref></sup>. These regions could be categorized as difficult to sequence because of nucleotide composition and as possible to sequence but difficult to confidently place in the genome because of sequence complexity
+<sup><xref rid="ref-67" ref-type="bibr">67</xref></sup>. Both ES and GS rely on the speed and ease of generating fragmented genomic sequences that can be aligned back to the reference genome. However, these genomic regions that are difficult to sequence or align create major problems in fully assessing genetic risk, as they are not included in association studies or clinical genomics
+<sup><xref rid="ref-68" ref-type="bibr">68</xref></sup>. Furthermore, genotyping errors can result in ES if large structural variants (SVs) are not detected by short-read sequencing
+<sup><xref rid="ref-69" ref-type="bibr">69</xref></sup>. SVs themselves are important with regard to disease etiology: ES and GS have difficulty resolving both simple SV and complex SV (multiple genomic breakpoints) and these variants can have marked effects on individual disease progression
+<sup><xref rid="ref-70" ref-type="bibr">70</xref></sup>.</p><p>The genetic etiology of an unknown number of diseases might lie in these genomic regions that are difficult to examine. GS and ES can estimate the probable number of repeats in a repeat expansion but this is by inference of the number of reads with a repetitive sequence and the composition of the region of interest
+<sup><xref rid="ref-64" ref-type="bibr">64</xref></sup>. Because the repeat expansion can exceed the number of bases in a short read (typically between 50 and 150 bp), the repeat is not directly observed. LRS allows direct study of high-molecular-weight DNA samples
+<sup><xref rid="ref-71" ref-type="bibr">71</xref></sup> either through recording current changes induced by the passage of a DNA molecule through a channel (Oxford Nanopore Technologies, Oxford, UK)
+<sup><xref rid="ref-72" ref-type="bibr">72</xref></sup> or through imaging of an anchored polymerase and fluorescent nucleotide additions (PacBio, Menlo Park, CA, USA)
+<sup><xref rid="ref-73" ref-type="bibr">73</xref></sup>. Both technologies allow the sequencing of several kilobase-long genomic fragments
+<sup><xref rid="ref-72" ref-type="bibr">72</xref>,
+<xref rid="ref-73" ref-type="bibr">73</xref></sup>.</p><p>A more recent example of the utility of LRS of an intronic repeat expansion is that of the gene sterile alpha motif domain-containing protein 12 (
+<italic>SAMD12</italic>) in familial cortical myoclonic tremor with epilepsy (FCMTE)
+<sup><xref rid="ref-74" ref-type="bibr">74</xref>,
+<xref rid="ref-75" ref-type="bibr">75</xref></sup>. Several loci associated with FCMTE have been reported which were found through classic linkage studies and ES
+<sup><xref rid="ref-76" ref-type="bibr">76</xref></sup>. Despite the existence of several genes in each locus, no causal variants had been discovered for one of the loci (FCMTE1), even after having applied ES
+<sup><xref rid="ref-76" ref-type="bibr">76</xref></sup>. Using nanopore sequencing, two independent groups were able to describe an expanded repeat and insertion of a separate motif within the
+<italic>SAMD12</italic> gene that associated with FCMTE1
+<sup><xref rid="ref-74" ref-type="bibr">74</xref>,
+<xref rid="ref-75" ref-type="bibr">75</xref></sup>. This repeat expansion would not be found using ES, as it was intronic and not covered by conventional ES. CNV detection methods in GS may not have observed the expansion, as repetitive reads did not align well to the reference and were problematic to test using polymerase chain reaction (PCR)
+<sup><xref rid="ref-74" ref-type="bibr">74</xref></sup>.</p><p>Although LRS has helped our understanding of regions that are difficult to test using conventional ES or GS, it has been used mainly in a targeted manner
+<sup><xref rid="ref-77" ref-type="bibr">77</xref>&#x02013;
+<xref rid="ref-79" ref-type="bibr">79</xref></sup>. The throughput of this technology does not allow deep, high-fidelity sequencing of the entire human genome, and repeat discovery methods using long-read genome sequencing are lacking. However, as technologies become more refined in the future, high-depth and high-fidelity LRS may become the new standard for ES or GS analyses.</p></sec><sec sec-type="conclusions"><title>Conclusions</title><p>A plethora of ES data has been generated in the past decade. New technologies and sequencing methods will eventually supplant ES, but the data it generated will continue to be useful in disease research. With the shift to more collaborative and open science, smaller-scale ES studies will contribute to large-scale consortium ES studies, using very large cohort sizes to detect very rare variants. The success of this paradigm shift has been seen in undertakings such as the Simons Simplex Collection
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup>, the ALS exome collaboration
+<sup><xref rid="ref-81" ref-type="bibr">81</xref></sup>, or the UK Biobank
+<sup><xref rid="ref-82" ref-type="bibr">82</xref></sup>.</p><p>Despite its shortcomings, ES will continue to be used in disease research and its applications. Its ease of generation and interpretation allow rapid analysis. Until GS can be performed and analyzed for equal or lesser cost than ES and unless significant progress is made in understanding non-exonic variants, ES will continue to be used to study disease. Clinical screening of potential genetic causes of disease can be easily performed using ES. As our knowledge of the exome remains incomplete, we will continue to study the protein-coding regions. However, much variation outside of the exome must account for genetic causes of disease and therefore research must strive to understand the entire genome.</p></sec><sec><title>Abbreviations</title><p>ALS, amyotrophic lateral sclerosis; CMC, combined multivariate and collapsing; CNV, copy number variant; ES, exome sequencing; FCMTE, familial cortical myoclonic tremor with epilepsy; GLS, glutaminase; GS, genome sequencing; LRS, long-read sequencing; SAMD12, sterile alpha motif domain-containing protein 12; SKAT, sequence kernel association test; SV, structural variant</p></sec></body><back><ack><title>Acknowledgments</title><p>We thank Zoe Schmilovich (Department of Human Genetics and Montr&#x000e9;al Neurological Institute and Hospital, McGill University), Cynthia Bourassa (Department of Neurology and Neurosurgery and Montr&#x000e9;al Neurological Institute and Hospital, McGill University), and Fulya Ak&#x000e7;imen (Department of Human Genetics and Montr&#x000e9;al Neurological Institute and Hospital, McGill University) for their assistance in manuscript review. JPR has received a doctoral student fellowship from the ALS Society of Canada and a Canadian Institutes of Health Research Frederick Banting &#x00026; Charles Best Canada Graduate Scholarship (FRN 159279).</p></ack><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elborn</surname><given-names>JS</given-names></name></person-group>:
+<article-title>Cystic fibrosis.</article-title>
+<source><italic toggle="yes">Lancet.</italic></source>
+<year>2016</year>;<volume>388</volume>(<issue>10059</issue>):<fpage>2519</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(16)00576-6</pub-id>
+<pub-id pub-id-type="pmid">27140670</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Walker</surname><given-names>FO</given-names></name></person-group>:
+<article-title>Huntington's disease.</article-title>
+<source><italic toggle="yes">Lancet.</italic></source>
+<year>2007</year>;<volume>369</volume>(<issue>9557</issue>):<fpage>218</fpage>&#x02013;<lpage>28</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(07)60111-1</pub-id>
+<pub-id pub-id-type="pmid">17240289</pub-id></mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peltonen</surname><given-names>L</given-names></name><name><surname>Perola</surname><given-names>M</given-names></name><name><surname>Naukkarinen</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Lessons from studying monogenic disease for common disease.</article-title>
+<source><italic toggle="yes">Hum Mol Genet.</italic></source>
+<year>2006</year>;<volume>15 Spec No 1</volume>:<fpage>R67</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1093/hmg/ddl060</pub-id>
+<pub-id pub-id-type="pmid">16651371</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Petersen</surname><given-names>BS</given-names></name><name><surname>Fredrich</surname><given-names>B</given-names></name><name><surname>Hoeppner</surname><given-names>MP</given-names></name><etal/></person-group>:
+<article-title>Opportunities and challenges of whole-genome and -exome sequencing.</article-title>
+<source><italic toggle="yes">BMC Genet.</italic></source>
+<year>2017</year>;<volume>18</volume>(<issue>1</issue>):<fpage>14</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12863-017-0479-5</pub-id>
+<!--<pub-id pub-id-type="pmcid">5307692</pub-id>-->
+<pub-id pub-id-type="pmid">28193154</pub-id></mixed-citation></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Botstein</surname><given-names>D</given-names></name><name><surname>Risch</surname><given-names>N</given-names></name></person-group>:
+<article-title>Discovering genotypes underlying human phenotypes: Past successes for mendelian disease, future approaches for complex disease.</article-title>
+<source><italic toggle="yes">Nat Genet.</italic></source>
+<year>2003</year>;<volume>33 Suppl</volume>:<fpage>228</fpage>&#x02013;<lpage>37</lpage>.
+<pub-id pub-id-type="doi">10.1038/ng1090</pub-id>
+<pub-id pub-id-type="pmid">12610532</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ng</surname><given-names>SB</given-names></name><name><surname>Turner</surname><given-names>EH</given-names></name><name><surname>Robertson</surname><given-names>PD</given-names></name><etal/></person-group>:
+<article-title>Targeted capture and massively parallel sequencing of 12 human exomes.</article-title>
+<source><italic toggle="yes">Nature.</italic></source>
+<year>2009</year>;<volume>461</volume>(<issue>7261</issue>):<fpage>272</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature08250</pub-id>
+<!--<pub-id pub-id-type="pmcid">2844771</pub-id>-->
+<pub-id pub-id-type="pmid">19684571</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1163732">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodges</surname><given-names>E</given-names></name><name><surname>Xuan</surname><given-names>Z</given-names></name><name><surname>Balija</surname><given-names>V</given-names></name><etal/></person-group>:
+<article-title>Genome-wide in situ exon capture for selective resequencing.</article-title>
+<source><italic toggle="yes">Nat Genet.</italic></source>
+<year>2007</year>;<volume>39</volume>(<issue>12</issue>):<fpage>1522</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1038/ng.2007.42</pub-id>
+<pub-id pub-id-type="pmid">17982454</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1098026">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woolston</surname><given-names>AL</given-names></name><name><surname>Hsiao</surname><given-names>PC</given-names></name><name><surname>Kuo</surname><given-names>PH</given-names></name><etal/></person-group>:
+<article-title>Genetic loci associated with an earlier age at onset in multiplex schizophrenia.</article-title>
+<source><italic toggle="yes">Sci Rep.</italic></source>
+<year>2017</year>;<volume>7</volume>(<issue>1</issue>):<fpage>6486</fpage>.
+<pub-id pub-id-type="doi">10.1038/s41598-017-06795-8</pub-id>
+<!--<pub-id pub-id-type="pmcid">5527118</pub-id>-->
+<pub-id pub-id-type="pmid">28744025</pub-id></mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<collab>Genetic Modifiers of Huntington&#x02019;s Disease (GeM-HD) Consortium</collab>:
+<article-title>Identification of Genetic Factors that Modify Clinical Onset of Huntington's Disease.</article-title>
+<source><italic toggle="yes">Cell.</italic></source>
+<year>2015</year>;<volume>162</volume>(<issue>3</issue>):<fpage>516</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cell.2015.07.003</pub-id>
+<!--<pub-id pub-id-type="pmcid">4524551</pub-id>-->
+<pub-id pub-id-type="pmid">26232222</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/725690862">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>G&#x000e9;nin</surname><given-names>E</given-names></name><name><surname>Feingold</surname><given-names>J</given-names></name><name><surname>Clerget-Darpoux</surname><given-names>F</given-names></name></person-group>:
+<article-title>Identifying modifier genes of monogenic disease: Strategies and difficulties.</article-title>
+<source><italic toggle="yes">Hum Genet.</italic></source>
+<year>2008</year>;<volume>124</volume>(<issue>4</issue>):<fpage>357</fpage>&#x02013;<lpage>68</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00439-008-0560-2</pub-id>
+<!--<pub-id pub-id-type="pmcid">2911473</pub-id>-->
+<pub-id pub-id-type="pmid">18784943</pub-id></mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chi&#x000f2;</surname><given-names>A</given-names></name><name><surname>Mazzini</surname><given-names>L</given-names></name><name><surname>D'Alfonso</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>The multistep hypothesis of ALS revisited: The role of genetic mutations.</article-title>
+<source><italic toggle="yes">Neurology.</italic></source>
+<year>2018</year>;<volume>91</volume>(<issue>7</issue>):<fpage>e635</fpage>&#x02013;<lpage>e642</lpage>.
+<pub-id pub-id-type="doi">10.1212/WNL.0000000000005996</pub-id>
+<!--<pub-id pub-id-type="pmcid">6105040</pub-id>-->
+<pub-id pub-id-type="pmid">30045958</pub-id></mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gilissen</surname><given-names>C</given-names></name><name><surname>Hoischen</surname><given-names>A</given-names></name><name><surname>Brunner</surname><given-names>HG</given-names></name><etal/></person-group>:
+<article-title>Disease gene identification strategies for exome sequencing.</article-title>
+<source><italic toggle="yes">Eur J Hum Genet.</italic></source>
+<year>2012</year>;<volume>20</volume>(<issue>5</issue>):<fpage>490</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1038/ejhg.2011.258</pub-id>
+<!--<pub-id pub-id-type="pmcid">3330229</pub-id>-->
+<pub-id pub-id-type="pmid">22258526</pub-id></mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>JO</given-names></name><name><surname>Mandrioli</surname><given-names>J</given-names></name><name><surname>Benatar</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Exome sequencing reveals
+<italic>VCP</italic> mutations as a cause of familial ALS.</article-title>
+<source><italic toggle="yes">Neuron.</italic></source>
+<year>2010</year>;<volume>68</volume>(<issue>5</issue>):<fpage>857</fpage>&#x02013;<lpage>64</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuron.2010.11.036</pub-id>
+<!--<pub-id pub-id-type="pmcid">3032425</pub-id>-->
+<pub-id pub-id-type="pmid">21145000</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/7862957">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Daoud</surname><given-names>H</given-names></name><name><surname>Zhou</surname><given-names>S</given-names></name><name><surname>Noreau</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Exome sequencing reveals
+<italic>SPG11</italic> mutations causing juvenile ALS.</article-title>
+<source><italic toggle="yes">Neurobiol Aging.</italic></source>
+<year>2012</year>;<volume>33</volume>(<issue>4</issue>):<fpage>839.e5</fpage>&#x02013;<lpage>839.e9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neurobiolaging.2011.11.012</pub-id>
+<pub-id pub-id-type="pmid">22154821</pub-id></mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>Y</given-names></name><name><surname>Fukuda</surname><given-names>Y</given-names></name><name><surname>Yoshimura</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>
+<italic>ERBB4</italic> mutations that disrupt the neuregulin-ErbB4 pathway cause amyotrophic lateral sclerosis type 19.</article-title>
+<source><italic toggle="yes">Am J Hum Genet.</italic></source>
+<year>2013</year>;<volume>93</volume>(<issue>5</issue>):<fpage>900</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ajhg.2013.09.008</pub-id>
+<!--<pub-id pub-id-type="pmcid">3824132</pub-id>-->
+<pub-id pub-id-type="pmid">24119685</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vilari&#x000f1;o-G&#x000fc;ell</surname><given-names>C</given-names></name><name><surname>Rajput</surname><given-names>A</given-names></name><name><surname>Milnerwood</surname><given-names>AJ</given-names></name><etal/></person-group>:
+<article-title>DNAJC13 mutations in Parkinson disease.</article-title>
+<source><italic toggle="yes">Hum Mol Genet.</italic></source>
+<year>2014</year>;<volume>23</volume>(<issue>7</issue>):<fpage>1794</fpage>&#x02013;<lpage>801</lpage>.
+<pub-id pub-id-type="doi">10.1093/hmg/ddt570</pub-id>
+<!--<pub-id pub-id-type="pmcid">3999380</pub-id>-->
+<pub-id pub-id-type="pmid">24218364</pub-id></mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dibbens</surname><given-names>LM</given-names></name><name><surname>de Vries</surname><given-names>B</given-names></name><name><surname>Donatello</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Mutations in
+<italic>DEPDC5</italic> cause familial focal epilepsy with variable foci.</article-title>
+<source><italic toggle="yes">Nat Genet.</italic></source>
+<year>2013</year>;<volume>45</volume>(<issue>5</issue>):<fpage>546</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1038/ng.2599</pub-id>
+<pub-id pub-id-type="pmid">23542697</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718001858">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Norton</surname><given-names>N</given-names></name><name><surname>Li</surname><given-names>D</given-names></name><name><surname>Rieder</surname><given-names>MJ</given-names></name><etal/></person-group>:
+<article-title>Genome-wide studies of copy number variation and exome sequencing identify rare variants in
+<italic>BAG3</italic> as a cause of dilated cardiomyopathy.</article-title>
+<source><italic toggle="yes">Am J Hum Genet.</italic></source>
+<year>2011</year>;<volume>88</volume>(<issue>3</issue>):<fpage>273</fpage>&#x02013;<lpage>82</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ajhg.2011.01.016</pub-id>
+<!--<pub-id pub-id-type="pmcid">3059419</pub-id>-->
+<pub-id pub-id-type="pmid">21353195</pub-id></mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chauveau</surname><given-names>C</given-names></name><name><surname>Bonnemann</surname><given-names>CG</given-names></name><name><surname>Julien</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Recessive
+<italic>TTN</italic> truncating mutations define novel forms of core myopathy with heart disease.</article-title>
+<source><italic toggle="yes">Hum Mol Genet.</italic></source>
+<year>2014</year>;<volume>23</volume>(<issue>4</issue>):<fpage>980</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1093/hmg/ddt494</pub-id>
+<!--<pub-id pub-id-type="pmcid">3954110</pub-id>-->
+<pub-id pub-id-type="pmid">24105469</pub-id></mixed-citation></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Posey</surname><given-names>JE</given-names></name><name><surname>O'Donnell-Luria</surname><given-names>AH</given-names></name><name><surname>Chong</surname><given-names>JX</given-names></name><etal/></person-group>:
+<article-title>Insights into genetics, human biology and disease gleaned from family based genomic studies.</article-title>
+<source><italic toggle="yes">Genet Med.</italic></source>
+<year>2019</year>;<volume>21</volume>(<issue>4</issue>):<fpage>798</fpage>&#x02013;<lpage>812</lpage>.
+<pub-id pub-id-type="doi">10.1038/s41436-018-0408-7</pub-id>
+<!--<pub-id pub-id-type="pmcid">6691975</pub-id>-->
+<pub-id pub-id-type="pmid">30655598</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/734881195">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Y</given-names></name><name><surname>Muzny</surname><given-names>DM</given-names></name><name><surname>Reid</surname><given-names>JG</given-names></name><etal/></person-group>:
+<article-title>Clinical whole-exome sequencing for the diagnosis of mendelian disorders.</article-title>
+<source><italic toggle="yes">N Engl J Med.</italic></source>
+<year>2013</year>;<volume>369</volume>(<issue>16</issue>):<fpage>1502</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMoa1306555</pub-id>
+<!--<pub-id pub-id-type="pmcid">4211433</pub-id>-->
+<pub-id pub-id-type="pmid">24088041</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/718131259">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O'Donovan</surname><given-names>MC</given-names></name><name><surname>Owen</surname><given-names>MJ</given-names></name></person-group>:
+<article-title>The implications of the shared genetics of psychiatric disorders.</article-title>
+<source><italic toggle="yes">Nat Med.</italic></source>
+<year>2016</year>;<volume>22</volume>(<issue>11</issue>):<fpage>1214</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1038/nm.4196</pub-id>
+<pub-id pub-id-type="pmid">27783064</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726889119">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lionel</surname><given-names>AC</given-names></name><name><surname>Costain</surname><given-names>G</given-names></name><name><surname>Monfared</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Improved diagnostic yield compared with targeted gene sequencing panels suggests a role for whole-genome sequencing as a first-tier genetic test.</article-title>
+<source><italic toggle="yes">Genet Med.</italic></source>
+<year>2018</year>;<volume>20</volume>(<issue>4</issue>):<fpage>435</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1038/gim.2017.119</pub-id>
+<!--<pub-id pub-id-type="pmcid">5895460</pub-id>-->
+<pub-id pub-id-type="pmid">28771251</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727875122">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chandler</surname><given-names>N</given-names></name><name><surname>Best</surname><given-names>S</given-names></name><name><surname>Hayward</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Rapid prenatal diagnosis using targeted exome sequencing: A cohort study to assess feasibility and potential impact on prenatal counseling and pregnancy management.</article-title>
+<source><italic toggle="yes">Genet Med.</italic></source>
+<year>2018</year>;<volume>20</volume>(<issue>11</issue>):<fpage>1430</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1038/gim.2018.30</pub-id>
+<pub-id pub-id-type="pmid">29595812</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732925641">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vora</surname><given-names>NL</given-names></name><name><surname>Powell</surname><given-names>B</given-names></name><name><surname>Brandt</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Prenatal exome sequencing in anomalous fetuses: New opportunities and challenges.</article-title>
+<source><italic toggle="yes">Genet Med.</italic></source>
+<year>2017</year>;<volume>19</volume>(<issue>11</issue>):<fpage>1207</fpage>&#x02013;<lpage>16</lpage>.
+<pub-id pub-id-type="doi">10.1038/gim.2017.33</pub-id>
+<!--<pub-id pub-id-type="pmcid">5675748</pub-id>-->
+<pub-id pub-id-type="pmid">28518170</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727623554">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lei</surname><given-names>TY</given-names></name><name><surname>Fu</surname><given-names>F</given-names></name><name><surname>Li</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Whole-exome sequencing for prenatal diagnosis of fetuses with congenital anomalies of the kidney and urinary tract.</article-title>
+<source><italic toggle="yes">Nephrol Dial Transplant.</italic></source>
+<year>2017</year>;<volume>32</volume>(<issue>10</issue>):<fpage>1665</fpage>&#x02013;<lpage>75</lpage>.
+<pub-id pub-id-type="doi">10.1093/ndt/gfx031</pub-id>
+<pub-id pub-id-type="pmid">28387813</pub-id></mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Valencia</surname><given-names>CA</given-names></name><name><surname>Husami</surname><given-names>A</given-names></name><name><surname>Holle</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Clinical Impact and Cost-Effectiveness of Whole Exome Sequencing as a Diagnostic Tool: A Pediatric Center&#x02019;s Experience.</article-title>
+<source><italic toggle="yes">Front Pediatr.</italic></source>
+<year>2015</year>;<volume>3</volume>:<fpage>67</fpage>.
+<pub-id pub-id-type="doi">10.3389/fped.2015.00067</pub-id>
+<!--<pub-id pub-id-type="pmcid">4522872</pub-id>-->
+<pub-id pub-id-type="pmid">26284228</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meng</surname><given-names>L</given-names></name><name><surname>Pammi</surname><given-names>M</given-names></name><name><surname>Saronwala</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Use of Exome Sequencing for Infants in Intensive Care Units: Ascertainment of Severe Single-Gene Disorders and Effect on Medical Management.</article-title>
+<source><italic toggle="yes">JAMA Pediatr.</italic></source>
+<year>2017</year>;<volume>171</volume>(<issue>12</issue>):<fpage>e173438</fpage>.
+<pub-id pub-id-type="doi">10.1001/jamapediatrics.2017.3438</pub-id>
+<!--<pub-id pub-id-type="pmcid">6359927</pub-id>-->
+<pub-id pub-id-type="pmid">28973083</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/731685427">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Petrovski</surname><given-names>S</given-names></name><name><surname>Aggarwal</surname><given-names>V</given-names></name><name><surname>Giordano</surname><given-names>JL</given-names></name><etal/></person-group>:
+<article-title>Whole-exome sequencing in the evaluation of fetal structural anomalies: A prospective cohort study.</article-title>
+<source><italic toggle="yes">Lancet.</italic></source>
+<year>2019</year>;<volume>393</volume>(<issue>10173</issue>):<fpage>758</fpage>&#x02013;<lpage>67</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(18)32042-7</pub-id>
+<pub-id pub-id-type="pmid">30712878</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/734961716">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Best</surname><given-names>S</given-names></name><name><surname>Wou</surname><given-names>K</given-names></name><name><surname>Vora</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>Promises, pitfalls and practicalities of prenatal whole exome sequencing.</article-title>
+<source><italic toggle="yes">Prenat Diagn.</italic></source>
+<year>2018</year>;<volume>38</volume>(<issue>1</issue>):<fpage>10</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1002/pd.5102</pub-id>
+<!--<pub-id pub-id-type="pmcid">5745303</pub-id>-->
+<pub-id pub-id-type="pmid">28654730</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727752835">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Posey</surname><given-names>JE</given-names></name><name><surname>Harel</surname><given-names>T</given-names></name><name><surname>Liu</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>Resolution of Disease Phenotypes Resulting from Multilocus Genomic Variation.</article-title>
+<source><italic toggle="yes">N Engl J Med.</italic></source>
+<year>2017</year>;<volume>376</volume>:<fpage>21</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMoa1516767</pub-id>
+<pub-id pub-id-type="pmid">27959697</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727103208">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Y</given-names></name><name><surname>Muzny</surname><given-names>DM</given-names></name><name><surname>Xia</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Molecular findings among patients referred for clinical whole-exome sequencing.</article-title>
+<source><italic toggle="yes">JAMA.</italic></source>
+<year>2014</year>;<volume>312</volume>(<issue>18</issue>):<fpage>1870</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1001/jama.2014.14601</pub-id>
+<!--<pub-id pub-id-type="pmcid">4326249</pub-id>-->
+<pub-id pub-id-type="pmid">25326635</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/722811639">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dewey</surname><given-names>FE</given-names></name><name><surname>Murray</surname><given-names>MF</given-names></name><name><surname>Overton</surname><given-names>JD</given-names></name><etal/></person-group>:
+<article-title>Distribution and clinical impact of functional variants in 50,726 whole-exome sequences from the DiscovEHR study.</article-title>
+<source><italic toggle="yes">Science.</italic></source>
+<year>2016</year>;<volume>354</volume>(<issue>6319</issue>):<fpage>aaf6814</fpage>.
+<pub-id pub-id-type="doi">10.1126/science.aaf6814</pub-id>
+<pub-id pub-id-type="pmid">28008009</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727137225">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bertier</surname><given-names>G</given-names></name><name><surname>H&#x000e9;tu</surname><given-names>M</given-names></name><name><surname>Joly</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Unsolved challenges of clinical whole-exome sequencing: A systematic literature review of end-users&#x02019; views.</article-title>
+<source><italic toggle="yes">BMC Med Genomics.</italic></source>
+<year>2016</year>;<volume>9</volume>(<issue>1</issue>):<fpage>52</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12920-016-0213-6</pub-id>
+<!--<pub-id pub-id-type="pmcid">4982236</pub-id>-->
+<pub-id pub-id-type="pmid">27514372</pub-id></mixed-citation></ref><ref id="ref-35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boycott</surname><given-names>K</given-names></name><name><surname>Hartley</surname><given-names>T</given-names></name><name><surname>Adam</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>The clinical application of genome-wide sequencing for monogenic diseases in Canada: Position Statement of the Canadian College of Medical Geneticists.</article-title>
+<source><italic toggle="yes">J Med Genet.</italic></source>
+<year>2015</year>;<volume>52</volume>(<issue>7</issue>):<fpage>431</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1136/jmedgenet-2015-103144</pub-id>
+<!--<pub-id pub-id-type="pmcid">4501167</pub-id>-->
+<pub-id pub-id-type="pmid">25951830</pub-id></mixed-citation></ref><ref id="ref-36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>P</given-names></name><name><surname>Meng</surname><given-names>L</given-names></name><name><surname>Normand</surname><given-names>EA</given-names></name><etal/></person-group>:
+<article-title>Reanalysis of Clinical Exome Sequencing Data.</article-title>
+<source><italic toggle="yes">N Engl J Med.</italic></source>
+<year>2019</year>;<volume>380</volume>:<fpage>2478</fpage>&#x02013;<lpage>80</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMc1812033</pub-id>
+<pub-id pub-id-type="pmid">31216405</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/736011175">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ambalavanan</surname><given-names>A</given-names></name><name><surname>Girard</surname><given-names>SL</given-names></name><name><surname>Ahn</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>
+<italic>De novo</italic> variants in sporadic cases of childhood onset schizophrenia.</article-title>
+<source><italic toggle="yes">Eur J Hum Genet.</italic></source>
+<year>2016</year>;<volume>24</volume>(<issue>6</issue>):<fpage>944</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1038/ejhg.2015.218</pub-id>
+<!--<pub-id pub-id-type="pmcid">4867457</pub-id>-->
+<pub-id pub-id-type="pmid">26508570</pub-id></mixed-citation></ref><ref id="ref-38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Doormaal</surname><given-names>PTC</given-names></name><name><surname>Ticozzi</surname><given-names>N</given-names></name><name><surname>Weishaupt</surname><given-names>JH</given-names></name><etal/></person-group>:
+<article-title>The role of de novo mutations in the development of amyotrophic lateral sclerosis.</article-title>
+<source><italic toggle="yes">Hum Mutat.</italic></source>
+<year>2017</year>;<volume>38</volume>(<issue>11</issue>):<fpage>1534</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="doi">10.1002/humu.23295</pub-id>
+<!--<pub-id pub-id-type="pmcid">6599399</pub-id>-->
+<pub-id pub-id-type="pmid">28714244</pub-id></mixed-citation></ref><ref id="ref-39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Francioli</surname><given-names>LC</given-names></name><name><surname>Cretu-Stancu</surname><given-names>M</given-names></name><name><surname>Garimella</surname><given-names>KV</given-names></name><etal/></person-group>:
+<article-title>A framework for the detection of
+<italic>de novo</italic> mutations in family-based sequencing data.</article-title>
+<source><italic toggle="yes">Eur J Hum Genet.</italic></source>
+<year>2017</year>;<volume>25</volume>(<issue>2</issue>):<fpage>227</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.1038/ejhg.2016.147</pub-id>
+<!--<pub-id pub-id-type="pmcid">5255947</pub-id>-->
+<pub-id pub-id-type="pmid">27876817</pub-id></mixed-citation></ref><ref id="ref-40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Conte</surname><given-names>A</given-names></name><name><surname>Lattante</surname><given-names>S</given-names></name><name><surname>Zollino</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>P525L
+<italic>FUS</italic> mutation is consistently associated with a severe form of juvenile amyotrophic lateral sclerosis.</article-title>
+<source><italic toggle="yes">Neuromuscul Disord.</italic></source>
+<year>2012</year>;<volume>22</volume>(<issue>1</issue>):<fpage>73</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.nmd.2011.08.003</pub-id>
+<pub-id pub-id-type="pmid">21907581</pub-id></mixed-citation></ref><ref id="ref-41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leblond</surname><given-names>CS</given-names></name><name><surname>Webber</surname><given-names>A</given-names></name><name><surname>Gan-Or</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>
+<italic>De novo FUS P525L</italic> mutation in Juvenile amyotrophic lateral sclerosis with dysphonia and diplopia.</article-title>
+<source><italic toggle="yes">Neurol Genet.</italic></source>
+<year>2016</year>;<volume>2</volume>(<issue>2</issue>):<fpage>e63</fpage>.
+<pub-id pub-id-type="doi">10.1212/NXG.0000000000000063</pub-id>
+<!--<pub-id pub-id-type="pmcid">4830191</pub-id>-->
+<pub-id pub-id-type="pmid">27123482</pub-id></mixed-citation></ref><ref id="ref-42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dashnow</surname><given-names>H</given-names></name><name><surname>Bell</surname><given-names>KM</given-names></name><name><surname>Stark</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>Pooled-parent exome sequencing to prioritise
+<italic>de novo</italic> variants in genetic disease.</article-title>
+<source><italic toggle="yes">bioRxiv.</italic></source>
+<year>2019</year>
+<pub-id pub-id-type="doi">10.1101/601740</pub-id>
+</mixed-citation></ref><ref id="ref-43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lek</surname><given-names>M</given-names></name><name><surname>Karczewski</surname><given-names>KJ</given-names></name><name><surname>Minikel</surname><given-names>EV</given-names></name><etal/></person-group>:
+<article-title>Analysis of protein-coding genetic variation in 60,706 humans.</article-title>
+<source><italic toggle="yes">Nature.</italic></source>
+<year>2016</year>;<volume>536</volume>(<issue>7616</issue>):<fpage>285</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature19057</pub-id>
+<!--<pub-id pub-id-type="pmcid">5018207</pub-id>-->
+<pub-id pub-id-type="pmid">27535533</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/726646180">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ganna</surname><given-names>A</given-names></name><name><surname>Satterstrom</surname><given-names>FK</given-names></name><name><surname>Zekavat</surname><given-names>SM</given-names></name><etal/></person-group>:
+<article-title>Quantifying the Impact of Rare and Ultra-rare Coding Variation across the Phenotypic Spectrum.</article-title>
+<source><italic toggle="yes">Am J Hum Genet.</italic></source>
+<year>2018</year>;<volume>102</volume>(<issue>6</issue>):<fpage>1204</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ajhg.2018.05.002</pub-id>
+<!--<pub-id pub-id-type="pmcid">5992130</pub-id>-->
+<pub-id pub-id-type="pmid">29861106</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/733320749">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Auer</surname><given-names>PL</given-names></name><name><surname>Stitziel</surname><given-names>NO</given-names></name></person-group>:
+<article-title>Genetic association studies in cardiovascular diseases: Do we have enough power?.</article-title>
+<source><italic toggle="yes">Trends Cardiovasc Med.</italic></source>
+<year>2017</year>;<volume>27</volume>(<issue>6</issue>):<fpage>397</fpage>&#x02013;<lpage>404</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tcm.2017.03.005</pub-id>
+<!--<pub-id pub-id-type="pmcid">5642948</pub-id>-->
+<pub-id pub-id-type="pmid">28456354</pub-id></mixed-citation></ref><ref id="ref-46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sham</surname><given-names>PC</given-names></name><name><surname>Purcell</surname><given-names>SM</given-names></name></person-group>:
+<article-title>Statistical power and significance testing in large-scale genetic studies.</article-title>
+<source><italic toggle="yes">Nat Rev Genet.</italic></source>
+<year>2014</year>;<volume>15</volume>(<issue>5</issue>):<fpage>335</fpage>&#x02013;<lpage>46</lpage>.
+<pub-id pub-id-type="doi">10.1038/nrg3706</pub-id>
+<pub-id pub-id-type="pmid">24739678</pub-id></mixed-citation></ref><ref id="ref-47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>S</given-names></name><name><surname>Emond</surname><given-names>MJ</given-names></name><name><surname>Bamshad</surname><given-names>MJ</given-names></name><etal/></person-group>:
+<article-title>Optimal unified approach for rare-variant association testing with application to small-sample case-control whole-exome sequencing studies.</article-title>
+<source><italic toggle="yes">Am J Hum Genet.</italic></source>
+<year>2012</year>;<volume>91</volume>(<issue>2</issue>):<fpage>224</fpage>&#x02013;<lpage>37</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ajhg.2012.06.007</pub-id>
+<!--<pub-id pub-id-type="pmcid">3415556</pub-id>-->
+<pub-id pub-id-type="pmid">22863193</pub-id></mixed-citation></ref><ref id="ref-48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>B</given-names></name><name><surname>Leal</surname><given-names>SM</given-names></name></person-group>:
+<article-title>Methods for detecting associations with rare variants for common diseases: Application to analysis of sequence data.</article-title>
+<source><italic toggle="yes">Am J Hum Genet.</italic></source>
+<year>2008</year>;<volume>83</volume>(<issue>3</issue>):<fpage>311</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ajhg.2008.06.024</pub-id>
+<!--<pub-id pub-id-type="pmcid">2842185</pub-id>-->
+<pub-id pub-id-type="pmid">18691683</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/1122807">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gelfman</surname><given-names>S</given-names></name><name><surname>Dugger</surname><given-names>S</given-names></name><name><surname>de Araujo Martins Moreno</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>A new approach for rare variation collapsing on functional protein domains implicates specific genic regions in ALS.</article-title>
+<source><italic toggle="yes">Genome Res.</italic></source>
+<year>2019</year>;<volume>29</volume>(<issue>5</issue>):<fpage>809</fpage>&#x02013;<lpage>18</lpage>.
+<pub-id pub-id-type="doi">10.1101/gr.243592.118</pub-id>
+<!--<pub-id pub-id-type="pmcid">6499321</pub-id>-->
+<pub-id pub-id-type="pmid">30940688</pub-id></mixed-citation></ref><ref id="ref-50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>May</surname><given-names>P</given-names></name><name><surname>Girard</surname><given-names>S</given-names></name><name><surname>Harrer</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Rare coding variants in genes encoding GABA
+<sub>A</sub> receptors in genetic generalised epilepsies: An exome-based case-control study.</article-title>
+<source><italic toggle="yes">Lancet Neurol.</italic></source>
+<year>2018</year>;<volume>17</volume>(<issue>8</issue>):<fpage>699</fpage>&#x02013;<lpage>708</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1474-4422(18)30215-1</pub-id>
+<pub-id pub-id-type="pmid">30033060</pub-id></mixed-citation></ref><ref id="ref-51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koeleman</surname><given-names>BPC</given-names></name></person-group>:
+<article-title>What do genetic studies tell us about the heritable basis of common epilepsy? Polygenic or complex epilepsy?</article-title>
+<source><italic toggle="yes">Neurosci Lett.</italic></source>
+<year>2018</year>;<volume>667</volume>:<fpage>10</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neulet.2017.03.042</pub-id>
+<pub-id pub-id-type="pmid">28347857</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727469317">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>S</given-names></name><name><surname>Abecasis</surname><given-names>GR</given-names></name><name><surname>Boehnke</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Rare-Variant Association Analysis: Study Designs and Statistical Tests.</article-title>
+<source><italic toggle="yes">Am J Hum Genet.</italic></source>
+<year>2014</year>;<volume>95</volume>(<issue>1</issue>):<fpage>5</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ajhg.2014.06.009</pub-id>
+<!--<pub-id pub-id-type="pmcid">4085641</pub-id>-->
+<pub-id pub-id-type="pmid">24995866</pub-id></mixed-citation></ref><ref id="ref-53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Devanna</surname><given-names>P</given-names></name><name><surname>Chen</surname><given-names>XS</given-names></name><name><surname>Ho</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Next-gen sequencing identifies non-coding variation disrupting miRNA-binding sites in neurological disorders.</article-title>
+<source><italic toggle="yes">Mol Psychiatry.</italic></source>
+<year>2018</year>;<volume>23</volume>(<issue>5</issue>):<fpage>1375</fpage>&#x02013;<lpage>84</lpage>.
+<pub-id pub-id-type="doi">10.1038/mp.2017.30</pub-id>
+<!--<pub-id pub-id-type="pmcid">5474318</pub-id>-->
+<pub-id pub-id-type="pmid">28289279</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/727408638">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ionita-Laza</surname><given-names>I</given-names></name><name><surname>McCallum</surname><given-names>K</given-names></name><name><surname>Xu</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>A spectral approach integrating functional genomic annotations for coding and noncoding variants.</article-title>
+<source><italic toggle="yes">Nat Genet.</italic></source>
+<year>2016</year>;<volume>48</volume>(<issue>2</issue>):<fpage>214</fpage>&#x02013;<lpage>20</lpage>.
+<pub-id pub-id-type="doi">10.1038/ng.3477</pub-id>
+<!--<pub-id pub-id-type="pmcid">4731313</pub-id>-->
+<pub-id pub-id-type="pmid">26727659</pub-id></mixed-citation></ref><ref id="ref-55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Katainen</surname><given-names>R</given-names></name><name><surname>Dave</surname><given-names>K</given-names></name><name><surname>Pitk&#x000e4;nen</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>CTCF/cohesin-binding sites are frequently mutated in cancer.</article-title>
+<source><italic toggle="yes">Nat Genet.</italic></source>
+<year>2015</year>;<volume>47</volume>(<issue>7</issue>):<fpage>818</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1038/ng.3335</pub-id>
+<pub-id pub-id-type="pmid">26053496</pub-id></mixed-citation></ref><ref id="ref-56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Singh</surname><given-names>B</given-names></name><name><surname>Trincado</surname><given-names>JL</given-names></name><name><surname>Tatlow</surname><given-names>PJ</given-names></name><etal/></person-group>:
+<article-title>Genome Sequencing and RNA-Motif Analysis Reveal Novel Damaging Noncoding Mutations in Human Tumors.</article-title>
+<source><italic toggle="yes">Mol Cancer Res.</italic></source>
+<year>2018</year>;<volume>16</volume>(<issue>7</issue>):<fpage>1112</fpage>&#x02013;<lpage>24</lpage>.
+<pub-id pub-id-type="doi">10.1158/1541-7786.MCR-17-0601</pub-id>
+<pub-id pub-id-type="pmid">29592900</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732926373">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Belkadi</surname><given-names>A</given-names></name><name><surname>Bolze</surname><given-names>A</given-names></name><name><surname>Itan</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Whole-genome sequencing is more powerful than whole-exome sequencing for detecting exome variants.</article-title>
+<source><italic toggle="yes">Proc Natl Acad Sci U S A.</italic></source>
+<year>2015</year>;<volume>112</volume>(<issue>17</issue>):<fpage>5473</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1418631112</pub-id>
+<!--<pub-id pub-id-type="pmcid">4418901</pub-id>-->
+<pub-id pub-id-type="pmid">25827230</pub-id></mixed-citation></ref><ref id="ref-58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schierding</surname><given-names>W</given-names></name><name><surname>Cutfield</surname><given-names>WS</given-names></name><name><surname>O'Sullivan</surname><given-names>JM</given-names></name></person-group>:
+<article-title>The missing story behind Genome Wide Association Studies: Single nucleotide polymorphisms in gene deserts have a story to tell.</article-title>
+<source><italic toggle="yes">Front Genet.</italic></source>
+<year>2014</year>;<volume>5</volume>:<fpage>39</fpage>.
+<pub-id pub-id-type="doi">10.3389/fgene.2014.00039</pub-id>
+<!--<pub-id pub-id-type="pmcid">3927098</pub-id>-->
+<pub-id pub-id-type="pmid">24600475</pub-id></mixed-citation></ref><ref id="ref-59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barrera</surname><given-names>LA</given-names></name><name><surname>Vedenko</surname><given-names>A</given-names></name><name><surname>Kurland</surname><given-names>JV</given-names></name><etal/></person-group>:
+<article-title>Survey of variation in human transcription factors reveals prevalent DNA binding changes.</article-title>
+<source><italic toggle="yes">Science.</italic></source>
+<year>2016</year>;<volume>351</volume>(<issue>6280</issue>):<fpage>1450</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.aad2257</pub-id>
+<!--<pub-id pub-id-type="pmcid">4825693</pub-id>-->
+<pub-id pub-id-type="pmid">27013732</pub-id></mixed-citation></ref><ref id="ref-60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cheng</surname><given-names>SJ</given-names></name><name><surname>Jiang</surname><given-names>S</given-names></name><name><surname>Shi</surname><given-names>FY</given-names></name><etal/></person-group>:
+<article-title>Systematic identification and annotation of multiple-variant compound effects at transcription factor binding sites in human genome.</article-title>
+<source><italic toggle="yes">J Genet Genomics.</italic></source>
+<year>2018</year>;<volume>45</volume>(<issue>7</issue>):<fpage>373</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jgg.2018.05.005</pub-id>
+<pub-id pub-id-type="pmid">30054217</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/733620689">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leija-Salazar</surname><given-names>M</given-names></name><name><surname>Piette</surname><given-names>C</given-names></name><name><surname>Proukakis</surname><given-names>C</given-names></name></person-group>:
+<article-title>Review: Somatic mutations in neurodegeneration.</article-title>
+<source><italic toggle="yes">Neuropathol Appl Neurobiol.</italic></source>
+<year>2018</year>;<volume>44</volume>(<issue>3</issue>):<fpage>267</fpage>&#x02013;<lpage>85</lpage>.
+<pub-id pub-id-type="doi">10.1111/nan.12465</pub-id>
+<pub-id pub-id-type="pmid">29369391</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732569845">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yao</surname><given-names>R</given-names></name><name><surname>Zhang</surname><given-names>C</given-names></name><name><surname>Yu</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Evaluation of three read-depth based CNV detection tools using whole-exome sequencing data.</article-title>
+<source><italic toggle="yes">Mol Cytogenet.</italic></source>
+<year>2017</year>;<volume>10</volume>: 30.
+<pub-id pub-id-type="doi">10.1186/s13039-017-0333-5</pub-id>
+<!--<pub-id pub-id-type="pmcid">5569469</pub-id>-->
+<pub-id pub-id-type="pmid">28852425</pub-id></mixed-citation></ref><ref id="ref-63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pounraja</surname><given-names>VK</given-names></name><name><surname>Jayakar</surname><given-names>G</given-names></name><name><surname>Jensen</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>A machine-learning approach for accurate detection of copy number variants from exome sequencing.</article-title>
+<source><italic toggle="yes">Genome Res.</italic></source>
+<year>2019</year>;<volume>29</volume>(<issue>7</issue>):<fpage>1134</fpage>&#x02013;<lpage>43</lpage>.
+<pub-id pub-id-type="doi">10.1101/gr.245928.118</pub-id>
+<!--<pub-id pub-id-type="pmcid">6633262</pub-id>-->
+<pub-id pub-id-type="pmid">31171634</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/735919354">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dolzhenko</surname><given-names>E</given-names></name><name><surname>van Vugt</surname><given-names>JF</given-names></name><name><surname>Shaw</surname><given-names>RJ</given-names></name><etal/></person-group>:
+<article-title>Detection of long repeat expansions from PCR-free whole-genome sequence data.</article-title>
+<source><italic toggle="yes">Genome Res.</italic></source>
+<year>2017</year>;<volume>27</volume>(<issue>11</issue>):<fpage>1895</fpage>&#x02013;<lpage>903</lpage>.
+<pub-id pub-id-type="doi">10.1101/gr.225672.117</pub-id>
+<!--<pub-id pub-id-type="pmcid">5668946</pub-id>-->
+<pub-id pub-id-type="pmid">28887402</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/730933359">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Monlong</surname><given-names>J</given-names></name><name><surname>Girard</surname><given-names>SL</given-names></name><name><surname>Meloche</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Global characterization of copy number variants in epilepsy patients from whole genome sequencing.</article-title>
+<source><italic toggle="yes">PLoS Genet.</italic></source>
+<year>2018</year>;<volume>14</volume>(<issue>4</issue>):<fpage>e1007285</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pgen.1007285</pub-id>
+<!--<pub-id pub-id-type="pmcid">5978987</pub-id>-->
+<pub-id pub-id-type="pmid">29649218</pub-id></mixed-citation></ref><ref id="ref-66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Kuilenburg</surname><given-names>AB</given-names></name><name><surname>Tarailo-Graovac</surname><given-names>M</given-names></name><name><surname>Richmond</surname><given-names>PA</given-names></name><etal/></person-group>:
+<article-title>Glutaminase Deficiency Caused by Short Tandem Repeat Expansion in
+<italic>GLS</italic>.</article-title>
+<source><italic toggle="yes">N Engl J Med.</italic></source>
+<year>2019</year>;<volume>380</volume>(<issue>15</issue>):<fpage>1433</fpage>&#x02013;<lpage>1441</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMoa1806627</pub-id>
+<pub-id pub-id-type="pmid">30970188</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/735525724">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanghvi</surname><given-names>RV</given-names></name><name><surname>Buhay</surname><given-names>CJ</given-names></name><name><surname>Powell</surname><given-names>BC</given-names></name><etal/></person-group>:
+<article-title>Characterizing reduced coverage regions through comparison of exome and genome sequencing data across 10 centers.</article-title>
+<source><italic toggle="yes">Genet Med.</italic></source>
+<year>2018</year>;<volume>20</volume>(<issue>8</issue>):<fpage>855</fpage>&#x02013;<lpage>66</lpage>.
+<pub-id pub-id-type="doi">10.1038/gim.2017.192</pub-id>
+<!--<pub-id pub-id-type="pmcid">6456263</pub-id>-->
+<pub-id pub-id-type="pmid">29144510</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732122504">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rexach</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>H</given-names></name><name><surname>Martinez-Agosto</surname><given-names>JA</given-names></name><etal/></person-group>:
+<article-title>Clinical application of next-generation sequencing to the practice of neurology.</article-title>
+<source><italic toggle="yes">Lancet Neurol.</italic></source>
+<year>2019</year>;<volume>18</volume>(<issue>5</issue>):<fpage>492</fpage>&#x02013;<lpage>503</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1474-4422(19)30033-X</pub-id>
+<!--<pub-id pub-id-type="pmcid">7055532</pub-id>-->
+<pub-id pub-id-type="pmid">30981321</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/735524844">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miao</surname><given-names>H</given-names></name><name><surname>Zhou</surname><given-names>J</given-names></name><name><surname>Yang</surname><given-names>Q</given-names></name><etal/></person-group>:
+<article-title>Long-read sequencing identified a causal structural variant in an exome-negative case and enabled preimplantation genetic diagnosis.</article-title>
+<source><italic toggle="yes">Hereditas.</italic></source>
+<year>2018</year>;<volume>155</volume>: 32.
+<pub-id pub-id-type="doi">10.1186/s41065-018-0069-1</pub-id>
+<!--<pub-id pub-id-type="pmcid">6162922</pub-id>-->
+<pub-id pub-id-type="pmid">30279644</pub-id></mixed-citation></ref><ref id="ref-70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanchis-Juan</surname><given-names>A</given-names></name><name><surname>Stephens</surname><given-names>J</given-names></name><name><surname>French</surname><given-names>CE</given-names></name><etal/></person-group>:
+<article-title>Complex structural variants in Mendelian disorders: Identification and breakpoint resolution using short- and long-read genome sequencing.</article-title>
+<source><italic toggle="yes">Genome Med.</italic></source>
+<year>2018</year>;<volume>10</volume>(<issue>1</issue>): 95.
+<pub-id pub-id-type="doi">10.1186/s13073-018-0606-6</pub-id>
+<!--<pub-id pub-id-type="pmcid">6286558</pub-id>-->
+<pub-id pub-id-type="pmid">30526634</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/734615989">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pollard</surname><given-names>MO</given-names></name><name><surname>Gurdasani</surname><given-names>D</given-names></name><name><surname>Mentzer</surname><given-names>AJ</given-names></name><etal/></person-group>:
+<article-title>Long reads: Their purpose and place.</article-title>
+<source><italic toggle="yes">Hum Mol Genet.</italic></source>
+<year>2018</year>;<volume>27</volume>(<issue>R2</issue>):<fpage>R234</fpage>&#x02013;<lpage>R241</lpage>.
+<pub-id pub-id-type="doi">10.1093/hmg/ddy177</pub-id>
+<pub-id pub-id-type="pmid">29767702</pub-id></mixed-citation></ref><ref id="ref-72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jain</surname><given-names>M</given-names></name><name><surname>Olsen</surname><given-names>HE</given-names></name><name><surname>Paten</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>The Oxford Nanopore MinION: Delivery of nanopore sequencing to the genomics community.</article-title>
+<source><italic toggle="yes">Genome Biol.</italic></source>
+<year>2016</year>;<volume>17</volume>(<issue>1</issue>): 239.
+<pub-id pub-id-type="doi">10.1186/s13059-016-1103-0</pub-id>
+<!--<pub-id pub-id-type="pmcid">5124260</pub-id>-->
+<pub-id pub-id-type="pmid">27887629</pub-id></mixed-citation></ref><ref id="ref-73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rhoads</surname><given-names>A</given-names></name><name><surname>Au</surname><given-names>KF</given-names></name></person-group>:
+<article-title>PacBio Sequencing and Its Applications.</article-title>
+<source><italic toggle="yes">Genomics Proteomics Bioinformatics.</italic></source>
+<year>2015</year>;<volume>13</volume>(<issue>5</issue>):<fpage>278</fpage>&#x02013;<lpage>89</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.gpb.2015.08.002</pub-id>
+<!--<pub-id pub-id-type="pmcid">4678779</pub-id>-->
+<pub-id pub-id-type="pmid">26542840</pub-id></mixed-citation></ref><ref id="ref-74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ishiura</surname><given-names>H</given-names></name><name><surname>Doi</surname><given-names>K</given-names></name><name><surname>Mitsui</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Expansions of intronic TTTCA and TTTTA repeats in benign adult familial myoclonic epilepsy.</article-title>
+<source><italic toggle="yes">Nat Genet.</italic></source>
+<year>2018</year>;<volume>50</volume>(<issue>4</issue>):<fpage>581</fpage>&#x02013;<lpage>90</lpage>.
+<pub-id pub-id-type="doi">10.1038/s41588-018-0067-2</pub-id>
+<pub-id pub-id-type="pmid">29507423</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/732796809">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cen</surname><given-names>Z</given-names></name><name><surname>Jiang</surname><given-names>Z</given-names></name><name><surname>Chen</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Intronic pentanucleotide TTTCA repeat insertion in the
+<italic>SAMD12</italic> gene causes familial cortical myoclonic tremor with epilepsy type 1.</article-title>
+<source><italic toggle="yes">Brain.</italic></source>
+<year>2018</year>;<volume>141</volume>(<issue>8</issue>):<fpage>2280</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1093/brain/awy160</pub-id>
+<pub-id pub-id-type="pmid">29939203</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/733506657">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cen</surname><given-names>Zd</given-names></name><name><surname>Xie</surname><given-names>F</given-names></name><name><surname>Lou</surname><given-names>Dn</given-names></name><etal/></person-group>:
+<article-title>Fine mapping and whole-exome sequencing of a familial cortical myoclonic tremor with epilepsy family.</article-title>
+<source><italic toggle="yes">Am J Med Genet B Neuropsychiatr Genet.</italic></source>
+<year>2015</year>;<volume>168</volume>(<issue>7</issue>):<fpage>595</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1002/ajmg.b.32337</pub-id>
+<pub-id pub-id-type="pmid">26130016</pub-id></mixed-citation></ref><ref id="ref-77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ebbert</surname><given-names>MTW</given-names></name><name><surname>Farrugia</surname><given-names>SL</given-names></name><name><surname>Sens</surname><given-names>JP</given-names></name><etal/></person-group>:
+<article-title>Long-read sequencing across the
+<italic>C9orf72</italic> 'GGGGCC' repeat expansion: Implications for clinical use and genetic discovery efforts in human disease.</article-title>
+<source><italic toggle="yes">Mol Neurodegener.</italic></source>
+<year>2018</year>;<volume>13</volume>(<issue>1</issue>): 46.
+<pub-id pub-id-type="doi">10.1186/s13024-018-0274-4</pub-id>
+<!--<pub-id pub-id-type="pmcid">6102925</pub-id>-->
+<pub-id pub-id-type="pmid">30126445</pub-id></mixed-citation></ref><ref id="ref-78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Loomis</surname><given-names>EW</given-names></name><name><surname>Eid</surname><given-names>JS</given-names></name><name><surname>Peluso</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>Sequencing the unsequenceable: Expanded CGG-repeat alleles of the fragile X gene.</article-title>
+<source><italic toggle="yes">Genome Res.</italic></source>
+<year>2013</year>;<volume>23</volume>(<issue>1</issue>):<fpage>121</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1101/gr.141705.112</pub-id>
+<!--<pub-id pub-id-type="pmcid">3530672</pub-id>-->
+<pub-id pub-id-type="pmid">23064752</pub-id></mixed-citation></ref><ref id="ref-79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McFarland</surname><given-names>KN</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Landrian</surname><given-names>I</given-names></name><etal/></person-group>:
+<article-title>SMRT Sequencing of Long Tandem Nucleotide Repeats in SCA10 Reveals Unique Insight of Repeat Expansion Structure.</article-title>
+<source><italic toggle="yes">PLoS One.</italic></source>
+<year>2015</year>;<volume>10</volume>(<issue>8</issue>):<fpage>e0135906</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0135906</pub-id>
+<!--<pub-id pub-id-type="pmcid">4546671</pub-id>-->
+<pub-id pub-id-type="pmid">26295943</pub-id></mixed-citation></ref><ref id="ref-80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O'Roak</surname><given-names>BJ</given-names></name><name><surname>Deriziotis</surname><given-names>P</given-names></name><name><surname>Lee</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Exome sequencing in sporadic autism spectrum disorders identifies severe de novo mutations.</article-title>
+<source><italic toggle="yes">Nat Genet.</italic></source>
+<year>2011</year>;<volume>43</volume>(<issue>6</issue>):<fpage>585</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1038/ng.835</pub-id>
+<!--<pub-id pub-id-type="pmcid">3115696</pub-id>-->
+<pub-id pub-id-type="pmid">21572417</pub-id></mixed-citation><note><p>
+<ext-link ext-link-type="uri" xlink:href="https://f1000.com/prime/10819956">F1000 Recommendation</ext-link>
+</p></note></ref><ref id="ref-81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cirulli</surname><given-names>ET</given-names></name><name><surname>Lasseigne</surname><given-names>BN</given-names></name><name><surname>Petrovski</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Exome sequencing in amyotrophic lateral sclerosis identifies risk genes and pathways.</article-title>
+<source><italic toggle="yes">Science.</italic></source>
+<year>2015</year>;<volume>347</volume>(<issue>6229</issue>):<fpage>1436</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="doi">10.1126/science.aaa3650</pub-id>
+<!--<pub-id pub-id-type="pmcid">4437632</pub-id>-->
+<pub-id pub-id-type="pmid">25700176</pub-id></mixed-citation></ref><ref id="ref-82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Hout</surname><given-names>CV</given-names></name><name><surname>Tachmazidou</surname><given-names>I</given-names></name><name><surname>Backman</surname><given-names>JD</given-names></name><etal/></person-group>:
+<article-title>Whole exome sequencing and characterization of coding variation in 49,960 individuals in the UK Biobank</article-title>.
+<source><italic toggle="yes">BioRxiv.</italic></source>
+<year>2019</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.biorxiv.org/content/10.1101/572347v1">Reference Source</ext-link>
+</mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,955 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ecol Evol</journal-id><journal-id journal-id-type="iso-abbrev">Ecol Evol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2045-7758</journal-id><journal-id journal-id-type="publisher-id">ECE3</journal-id><journal-title-group><journal-title>Ecology and Evolution</journal-title></journal-title-group><issn pub-type="epub">2045-7758</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32953055</article-id><article-id pub-id-type="pmc">7487257</article-id><article-id pub-id-type="doi">10.1002/ece3.6597</article-id><article-id pub-id-type="publisher-id">ECE36597</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>Hotspots of species loss do not vary across future climate scenarios in a drought&#x02010;prone river basin</article-title><alt-title alt-title-type="left-running-head">GILL et al.</alt-title></title-group><contrib-group><contrib id="ece36597-cr-0001" contrib-type="author"><name><surname>Gill</surname><given-names>Kenneth C.</given-names></name><xref ref-type="aff" rid="ece36597-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece36597-cr-0002" contrib-type="author"><name><surname>Fovargue</surname><given-names>Rachel E.</given-names></name><xref ref-type="aff" rid="ece36597-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ece36597-cr-0003" contrib-type="author" corresp="yes"><name><surname>Neeson</surname><given-names>Thomas M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6758-0511</contrib-id><xref ref-type="aff" rid="ece36597-aff-0001">
+<sup>1</sup>
+</xref><address><email>neeson@ou.edu</email></address></contrib></contrib-group><aff id="ece36597-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Geography and Environmental Sustainability</named-content>
+<institution>University of Oklahoma</institution>
+<city>Norman</city>
+<named-content content-type="country-part">OK</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Thomas M. Neeson, Department of Geography and Environmental Sustainability, University of Oklahoma, 100 East Boyd Street, Norman, OK 73019, USA.<break/>
+Email: <email>neeson@ou.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>8</month><year>2020</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2020</year></pub-date><volume>10</volume><issue>17</issue><issue-id pub-id-type="doi">10.1002/ece3.v10.17</issue-id><fpage>9200</fpage><lpage>9213</lpage><history><date date-type="received"><day>05</day><month>11</month><year>2019</year></date><date date-type="rev-recd"><day>21</day><month>1</month><year>2020</year></date><date date-type="accepted"><day>01</day><month>7</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2020 Published by John Wiley & Sons Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. Ecology and Evolution published by John Wiley &#x00026; Sons Ltd</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:ECE3-10-9200.pdf"/><abstract id="ece36597-abs-0001"><title>Abstract</title><p>Climate change is expected to alter the distributions of species around the world, but estimates of species&#x02019; outcomes vary widely among competing climate scenarios. Where should conservation resources be directed to maximize expected conservation benefits given future climate uncertainty? Here, we explore this question by quantifying variation in fish species&#x02019; distributions across future climate scenarios in the Red River basin south&#x02010;central United States. We modeled historical and future stream fish distributions using a suite of environmental covariates derived from high&#x02010;resolution hydrologic and climatic modeling of the basin. We quantified variation in outcomes for individual species across climate scenarios and across space, and identified hotspots of species loss by summing changes in probability of occurrence across species. Under all climate scenarios, we find that the distribution of most fish species in the Red River Basin will contract by 2050. However, the variability across climate scenarios was more than 10 times higher for some species than for others. Despite this uncertainty in outcomes for individual species, hotspots of species loss tended to occur in the same portions of the basin across all climate scenarios. We also find that the most common species are projected to experience the greatest range contractions, underscoring the need for directing conservation resources toward both common and rare species. Our results suggest that while it may be difficult to predict which species will be most impacted by climate change, it may nevertheless be possible to identify spatial priorities for climate mitigation actions that are robust to future climate uncertainty. These findings are likely to be generalizable to other ecosystems around the world where future climate conditions follow prevailing historical patterns of key environmental covariates.</p></abstract><abstract abstract-type="graphical" id="ece36597-abs-0002"><p>Expected change in the number of species within the Red River basin by the year 2050 across nine future climate scenarios, as projected by Maxent. The value for each raster 1/8&#x000b0; cell represents the difference in species&#x02019; probability of occurrence between the historical period and the year 2050, summed across all species.
+<boxed-text position="anchor" content-type="graphic" id="ece36597-blkfxd-0001" orientation="portrait"><graphic xlink:href="ECE3-10-9200-g008.jpg" position="anchor" id="nlm-graphic-1" orientation="portrait"/></boxed-text>
+</p></abstract><kwd-group><kwd id="ece36597-kwd-0001">climate</kwd><kwd id="ece36597-kwd-0002">commonness</kwd><kwd id="ece36597-kwd-0003">conservation</kwd><kwd id="ece36597-kwd-0004">freshwater</kwd><kwd id="ece36597-kwd-0005">prioritization</kwd><kwd id="ece36597-kwd-0006">rarity</kwd><kwd id="ece36597-kwd-0007">uncertainty</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>U.S. Fish and Wildlife Service </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000202</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source><institution-wrap><institution>U.S. Geological Survey </institution><institution-id institution-id-type="open-funder-registry">10.13039/100000203</institution-id></institution-wrap></funding-source><award-id>G17AP00120</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="3"/><page-count count="14"/><word-count count="10150"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.0 mode:remove_FC converted:13.09.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ece36597-cit-1001">
+<string-name>
+<surname>Gill</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Fovargue</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Neeson</surname>
+<given-names>TM</given-names>
+</string-name>. <article-title>Hotspots of species loss do not vary across future climate scenarios in a drought&#x02010;prone river basin</article-title>. <source xml:lang="en">Ecol Evol</source>. <year>2020</year>;<volume>10</volume>:<fpage>9200</fpage>&#x02013;<lpage>9213</lpage>. <pub-id pub-id-type="doi">10.1002/ece3.6597</pub-id>
+</mixed-citation>
+</p><fn-group id="ece36597-ntgp-0001"><fn fn-type="funding" id="ece36597-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>The project described in this publication was supported by the Science Applications division of the Southwest Region of the U.S. Fish and Wildlife Service, and by Grant No. G17AP00120, Balancing Water Usage and Ecosystem Outcomes Under Drought and Climate Change: Enhancing an Optimization Model for the Red River, from the United States Geological Survey. Its contents are solely the responsibility of the authors and do not necessarily represent the views of the South Central Climate Adaptation Science Center or the National Climate Adaptation Science Center or the USGS. This manuscript is submitted for publication with the understanding that the United States Government is authorized to reproduce and distribute reprints for Governmental purposes.</p></fn></fn-group></notes></front><body id="ece36597-body-0001"><sec id="ece36597-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Climate change is widely expected to alter the distributions and abundances of species around the world (Chen, Hill, Ohlem&#x000fc;ller, Roy, &#x00026; Thomas,&#x000a0;<xref rid="ece36597-bib-0013" ref-type="ref">2011</xref>; Thomas et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0075" ref-type="ref">2004</xref>; Thuiller,&#x000a0;<xref rid="ece36597-bib-0076" ref-type="ref">2004</xref>), and there is growing interest in conservation strategies that buffer species against potential climate impacts. These strategies include a range of direct and indirect mitigation efforts, including the identification of climate refugia (Ashcroft,&#x000a0;<xref rid="ece36597-bib-0004" ref-type="ref">2010</xref>; Keppel et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0040" ref-type="ref">2012</xref>), the establishment or maintenance of migration corridors (Neeson et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0055" ref-type="ref">2015</xref>; Nu&#x000f1;ez et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0057" ref-type="ref">2013</xref>; Sawyer, Kauffman, Nielson, &#x00026; Horne,&#x000a0;<xref rid="ece36597-bib-0070" ref-type="ref">2009</xref>), efforts to predict which ecosystems may be most at risk of being impacted by climate&#x02010;related species invasions or pathogens (Scholze, Knorr, Arnell, &#x00026; Prentice,&#x000a0;<xref rid="ece36597-bib-0071" ref-type="ref">2006</xref>), and the identification of consistent patterns of range distribution shifts under climatic uncertainty (Lawler &#x00026; Michalak, <xref rid="ece36597-bib-0043" ref-type="ref">2018</xref>; Morin &#x00026; Thuiller,&#x000a0;<xref rid="ece36597-bib-0053" ref-type="ref">2009</xref>; Wiens, Stralberg, Jongsomjit, Howell, &#x00026; Snyder,&#x000a0;<xref rid="ece36597-bib-0077" ref-type="ref">2009</xref>). At a fundamental level, all of these conservation strategies depend on an ability to predict how species&#x02019; distributions and abundances may shift under future climate scenarios.</p><p>To estimate how climate change may alter the distributions and abundances of species, researchers often use future climate projections to drive mathematical models of species distributions and abundances (Ara&#x000fa;jo &#x00026; New, <xref rid="ece36597-bib-0002" ref-type="ref">2007</xref>; Fitzpatrick &#x00026; Hargrove,&#x000a0;<xref rid="ece36597-bib-0025" ref-type="ref">2009</xref>; Pearson &#x00026; Dawson,&#x000a0;<xref rid="ece36597-bib-0060" ref-type="ref">2003</xref>). Uncertainty and variability in these projections stem from several sources. Nearly all climate projections are generated using a general circulation model (GCM) parameterized with a particular representative concentration pathway (RCP), that is, a future greenhouse gas scenario. A wide range of GCMs is available (Hayhoe et al., <xref rid="ece36597-bib-0035" ref-type="ref">2017</xref>); while they differ in their projections and biases, there is widespread agreement that multiple GCMs may be equally valid or appropriate for a given geographic region. For regional analyses, gridded GCM predictions are often mathematically downscaled to create higher resolution gridded projections of temperature, precipitation and runoff. As with GCMs, there is a wide range of mathematical downscaling techniques in use, and the strengths, weaknesses, and biases differ among downscaling methods (Wilby &#x00026; Wigley,&#x000a0;<xref rid="ece36597-bib-0078" ref-type="ref">1997</xref>; Wilby et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0079" ref-type="ref">1998</xref>). Thus, the combination of multiple GCMs, RCPs, and downscaling technique creates a wide range of future climate projections for any region. Species distribution models (SDMs) add further variability and uncertainty into projections of species&#x02019; outcomes. SDMs use a suite of environmental covariates from a given climate scenario to produce a probability of occurrence map for a species (Austin &#x00026; Van Niel,&#x000a0;<xref rid="ece36597-bib-0005" ref-type="ref">2011</xref>; Elith et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0020" ref-type="ref">2006</xref>). As with GCMs, there are a number of different SDM approaches, and they too differ in their projections and biases (Beaumont, Hughes, &#x00026; Pitman,&#x000a0;<xref rid="ece36597-bib-0006" ref-type="ref">2008</xref>; Elith, Kearney, &#x00026; Phillips,&#x000a0;<xref rid="ece36597-bib-0021" ref-type="ref">2010</xref>). Thus, projections of species&#x02019; distributions may vary widely across future climate scenarios, with the range in outcomes stemming from a combination of exogenous driving variables (e.g., RCPs) and choice of modeling technique and variables (i.e., choice of GCM, downscaling method, and SDM).</p><p>Given the considerable uncertainty in projected species&#x02019; outcomes across climate scenarios, conservation practitioners are divided as to how to best plan for potential future climate impacts. Indeed, some researchers advocate forecast&#x02010;free approaches to conservation planning, arguing that climate projections are best ignored given the uncertainty associated with them (Game, Lipsett&#x02010;Moore, Saxon, Peterson, &#x00026; Sheppard,&#x000a0;<xref rid="ece36597-bib-0027" ref-type="ref">2011</xref>; Groves et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0032" ref-type="ref">2012</xref>). However, an alternative approach is to focus on what conclusions might be drawn despite this uncertainty (Lawler &#x00026; Michalak,&#x000a0;<xref rid="ece36597-bib-0043" ref-type="ref">2018</xref>). At the species level, conservation practitioners might focus on identifying the species most at risk (Dirnb&#x000f6;ck, Essl, &#x00026; Rabitsch, <xref rid="ece36597-bib-0016" ref-type="ref">2011</xref>; Lawler, White, Neilson, &#x00026; Blaustein,&#x000a0;<xref rid="ece36597-bib-0044" ref-type="ref">2006</xref>; Ohlem&#x000fc;ller et al., <xref rid="ece36597-bib-0058" ref-type="ref">2008</xref>), or quantifying the mean and variability of range width shifts for each species across climate scenarios (Cheaib et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0012" ref-type="ref">2012</xref>; Morin &#x00026; Thuiller,&#x000a0;<xref rid="ece36597-bib-0053" ref-type="ref">2009</xref>; Thuiller,&#x000a0;<xref rid="ece36597-bib-0076" ref-type="ref">2004</xref>). In a spatial planning framework, researchers might focus on identifying specific locations that are likely to be hotspots of species loss across a wide range of scenarios (Beaumont et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0007" ref-type="ref">2011</xref>; Thomas et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0075" ref-type="ref">2004</xref>). In this application, a key challenge is to identify specific locations that have consistent biological outcomes (e.g., species loss) across a range of future climate scenarios.</p><p>Arid and semi&#x02010;arid river basins are a good model system for exploring these problems, because the key factors that control stream fish species distributions (water availability and temperature) often vary widely among future climate scenarios (Zamani Sabzi, Moreno, et al., <xref rid="ece36597-bib-0082" ref-type="ref">2019</xref>; Zamani Sabzi, Rezapour, Fovargue, Moreno, &#x00026; Neeson, <xref rid="ece36597-bib-0083" ref-type="ref">2019</xref>; Zhang, Xu, Tao, Jiang, &#x00026; Chen,&#x000a0;<xref rid="ece36597-bib-0084" ref-type="ref">2010</xref>). We focus on the Red River of the South, a large drought&#x02010;prone river basin in the southern Great Plains of the United States (Figure&#x000a0;<xref rid="ece36597-fig-0001" ref-type="fig">1</xref>). Like many Great Plains rivers, the Red River exhibits a dramatic east&#x02013;west gradient in water availability: The western portion of the basin is very arid, while the eastern portion receives much more precipitation (Matthews, Vaughn, Gido, &#x00026; Marsh&#x02010;Matthews,&#x000a0;<xref rid="ece36597-bib-0046" ref-type="ref">2005</xref>).</p><fig fig-type="Figure" xml:lang="en" id="ece36597-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Main stem and major tributaries of the Red River basin. Inset gives the location of the river basin with the continental United States</p></caption><graphic id="nlm-graphic-3" xlink:href="ECE3-10-9200-g001"/></fig><p>The impacts of climate change are likely to differ among fish species in the Red River basin, with consequences for conservation and management. Stream fishes in the basin are impacted by a wide range of stressors including declining water availability, habitat fragmentation, water quality, and potential climate impacts (Annis, Diamond, Garringer, Hanberry, &#x00026; Morey,&#x000a0;<xref rid="ece36597-bib-0001" ref-type="ref">2012</xref>; Labay &#x00026; Hendrickson,&#x000a0;<xref rid="ece36597-bib-0042" ref-type="ref">2014</xref>; Perkin &#x00026; Gido,&#x000a0;<xref rid="ece36597-bib-0061" ref-type="ref">2011</xref>), but the relative importance of each stressor varies among species. Thus, the potential effects of climate change on species&#x02019; distributions likely vary widely among species. We hypothesize that species whose distributions are constrained by nonclimate factors (e.g., habitat fragmentation) may exhibit smaller distributional changes due to climate change than those species whose distributions are constrained by climate&#x02010;driven stressors (e.g., water availability or stream temperatures). We also hypothesize that spatial patterns of climate change are independent of spatial patterns of species&#x02019; commonness and rarity across the basin. As a result, we expect that common and rare species will on average experience similar proportional changes to their distributions due to climate change, with the result that absolute change will be higher for common (i.e., widespread) species than for narrowly distributed ones. Understanding how absolute and proportional changes in distribution might differ between common versus rare species is of growing interest given recent calls for directing conservation resources toward both common and rare species (Gaston,&#x000a0;<xref rid="ece36597-bib-0028" ref-type="ref">2010</xref>).</p><p>Here, we investigate two questions related to conservation planning for climate mitigation in the Red River: which fish species are most likely to be impacted by climate change, and where are the hotspots of highest species loss across future climate scenarios? For both questions, our aim was to quantify species&#x02019; outcomes both within and across climate projections, with a focus on quantifying uncertainty and variability in species&#x02019; outcomes. To answer these questions, we first fit SDMs for 31 riverine fish species using historical environmental covariates for the Red River basin. We then used these fitted species distribution models to project the distribution of each species under a range of future climate conditions derived from recent high&#x02010;resolution climatic and hydrologic modeling of the basin. Using these projected future distributions, we summarized inter&#x02010; and intraspecies variability in future stream fish distributions across climate scenarios and quantified hotspots of species loss across future climate scenarios.</p></sec><sec sec-type="methods" id="ece36597-sec-0002"><label>2</label><title>METHODS</title><p>There are over 150 species of fish in the Red River Basin (Annis et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0001" ref-type="ref">2012</xref>). For our analysis, we selected a subset of 31 of these species that collectively span a range of spawning modalities, distributional extent, conservation status, and recreational value (Table&#x000a0;<xref rid="ece36597-tbl-0001" ref-type="table">1</xref>). These 31 species were chosen to be generally representative of the management priorities of regional conservation practitioners and fisheries agencies based on consultation with K. Kuklinski and T. Sparks, OK Dept. of Wildlife Conservation; and with B. Matthews and E. Marsh&#x02010;Matthews, U. Oklahoma.</p><table-wrap id="ece36597-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>The 31 stream fish species used in this analysis. For each species, column headings give common and scientific name; spawning mode (as given by Hoagstrom, Brooks &#x00026; Davenport, <xref rid="ece36597-bib-0137" ref-type="ref">2011</xref>; Perkin &#x00026; Gido,&#x000a0;<xref rid="ece36597-bib-0061" ref-type="ref">2011</xref>; Hoagstrom &#x00026; Turner, <xref rid="ece36597-bib-0138" ref-type="ref">2015</xref>); and conservation status according to the state&#x02010;level Species of Greatest Conservation Need (SGCN) lists (any tier), IUCN Red List and NatureServe conservation status assessments</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Common name</th><th align="left" valign="top" rowspan="1" colspan="1">Scientific name</th><th align="left" valign="top" rowspan="1" colspan="1">Spawning mode</th><th align="left" valign="top" rowspan="1" colspan="1">SGCN Listing</th><th align="left" valign="top" rowspan="1" colspan="1">IUCN Red List</th><th align="left" valign="top" rowspan="1" colspan="1">NatureServe</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Plains Minnow</td><td align="left" rowspan="1" colspan="1">
+<italic>Hybognathus placitus</italic>
+</td><td align="left" rowspan="1" colspan="1">Pelagic&#x02010;broadcast</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Apparently Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Prairie chub</td><td align="left" rowspan="1" colspan="1">
+<italic>Macrhybopsis australis</italic>
+</td><td align="left" rowspan="1" colspan="1">Pelagic&#x02010;broadcast</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Vulnerable</td><td align="left" rowspan="1" colspan="1">Vulnerable</td></tr><tr><td align="left" rowspan="1" colspan="1">Red River Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis bairdi</italic>
+</td><td align="left" rowspan="1" colspan="1">Pelagic&#x02010;broadcast</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Apparently Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Shoal Chub</td><td align="left" rowspan="1" colspan="1">
+<italic>Macrhybopsis hyostoma</italic>
+</td><td align="left" rowspan="1" colspan="1">Pelagic&#x02010;broadcast</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Silver Chub</td><td align="left" rowspan="1" colspan="1">
+<italic>Macrhybopsis storeriana</italic>
+</td><td align="left" rowspan="1" colspan="1">Pelagic&#x02010;broadcast</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Bigeye Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis boops</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Blackspot Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis atrocaudalis</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Apparently Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Bluehead Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Pteronotropis hubbsi</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Near Threatened</td><td align="left" rowspan="1" colspan="1">Vulnerable</td></tr><tr><td align="left" rowspan="1" colspan="1">Chub Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis potteri</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Apparently Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Emerald Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis atherinoides</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Kiamichi Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis ortenburgeri</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">Vulnerable</td></tr><tr><td align="left" rowspan="1" colspan="1">Ouachita Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Lythrurus snelsoni</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Vulnerable</td></tr><tr><td align="left" rowspan="1" colspan="1">Peppered Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis perpallidus</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Vulnerable</td><td align="left" rowspan="1" colspan="1">Vulnerable</td></tr><tr><td align="left" rowspan="1" colspan="1">Plains Killifish</td><td align="left" rowspan="1" colspan="1">
+<italic>Fundulus zebrinus</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Red Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Cyprinella lutrensis</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Rocky Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis suttkusi</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">
+<italic>N</italic>/A</td><td align="left" rowspan="1" colspan="1">Vulnerable</td></tr><tr><td align="left" rowspan="1" colspan="1">Sand Shiner</td><td align="left" rowspan="1" colspan="1">
+<italic>Notropis stramineus</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Suckermouth Minnow</td><td align="left" rowspan="1" colspan="1">
+<italic>Phenacobius mirabilis</italic>
+</td><td align="left" rowspan="1" colspan="1">Riverine</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Channel Darter</td><td align="left" rowspan="1" colspan="1">
+<italic>Percina copelandi</italic>
+</td><td align="left" rowspan="1" colspan="1">Egg burrier or attacher</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Apparently Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Creole Darter</td><td align="left" rowspan="1" colspan="1">
+<italic>Etheostoma collettei</italic>
+</td><td align="left" rowspan="1" colspan="1">Egg burrier or attacher</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Apparently Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Leopard Darter</td><td align="left" rowspan="1" colspan="1">
+<italic>Percina pantherina</italic>
+</td><td align="left" rowspan="1" colspan="1">Egg burrier or attacher</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Endangered</td><td align="left" rowspan="1" colspan="1">Imperiled</td></tr><tr><td align="left" rowspan="1" colspan="1">Orangebelly Darter</td><td align="left" rowspan="1" colspan="1">
+<italic>Etheostoma radiosum</italic>
+</td><td align="left" rowspan="1" colspan="1">Egg burrier or attacher</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Red River Pupfish</td><td align="left" rowspan="1" colspan="1">
+<italic>Cyprinodon rubrofluviatilis</italic>
+</td><td align="left" rowspan="1" colspan="1">Egg burrier or attacher</td><td align="left" rowspan="1" colspan="1">Species of Concern</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Blue Catfish</td><td align="left" rowspan="1" colspan="1">
+<italic>Ictalurus furcatus</italic>
+</td><td align="left" rowspan="1" colspan="1">Nesting</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Black Bullhead</td><td align="left" rowspan="1" colspan="1">
+<italic>Ameiurus melas</italic>
+</td><td align="left" rowspan="1" colspan="1">Nesting</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Green Sunfish</td><td align="left" rowspan="1" colspan="1">
+<italic>Lepomis cyanellus</italic>
+</td><td align="left" rowspan="1" colspan="1">Nesting</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Largemouth Bass</td><td align="left" rowspan="1" colspan="1">
+<italic>Micropterus salmoides</italic>
+</td><td align="left" rowspan="1" colspan="1">Nesting</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Smallmouth Bass</td><td align="left" rowspan="1" colspan="1">
+<italic>Micropterus dolomieu</italic>
+</td><td align="left" rowspan="1" colspan="1">Nesting</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Spotted Bass</td><td align="left" rowspan="1" colspan="1">
+<italic>Micropterus punctulatus</italic>
+</td><td align="left" rowspan="1" colspan="1">Nesting</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Striped Bass</td><td align="left" rowspan="1" colspan="1">
+<italic>Morone saxatilis</italic>
+</td><td align="left" rowspan="1" colspan="1">Nesting</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr><tr><td align="left" rowspan="1" colspan="1">Western Mosquitofish</td><td align="left" rowspan="1" colspan="1">
+<italic>Gambusia affinis</italic>
+</td><td align="left" rowspan="1" colspan="1">Livebearer</td><td align="left" rowspan="1" colspan="1">Not listed</td><td align="left" rowspan="1" colspan="1">Least Concern</td><td align="left" rowspan="1" colspan="1">Secure</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>For each of the 31 species, we gathered historical occurrence records from the Global Biodiversity Information Facility (GBIF, <ext-link ext-link-type="uri" xlink:href="http://www.gbif.org">www.gbif.org</ext-link>). GBIF serves as one of the most extensive biogeographical resources in the world (Beck, B&#x000f6;ller, Erhardt, &#x00026; Schwanghart,&#x000a0;<xref rid="ece36597-bib-0008" ref-type="ref">2014</xref>) and collates species occurrence records from peer&#x02010;reviewed research articles and agency and museum collections. We automated the collection of species occurrence records from GBIF using the R package &#x0201c;dismo&#x0201d; (Hijmans, Phillips, Leathwick, Elith, &#x00026; Maintainer,&#x000a0;<xref rid="ece36597-bib-0038" ref-type="ref">2017</xref>), which includes automated removal of duplicate records. Because our intent was to focus on stream fish distributions, we also excluded occurrence records from reservoirs. The temporal range of occurrence records spanned the years 1919&#x02013;2010; however, only about 1% of occurrence records predate 1960. Verifying that each species&#x02019; occurrence points are statistically random (ROR) is a necessary step in production of unbiased MaxEnt models (Merow, Smith, &#x00026; Silander,&#x000a0;<xref rid="ece36597-bib-0050" ref-type="ref">2013</xref>). Our initial analysis of these historical occurrence data revealed that they have a statistically random relative occurrence rate (ROR), which ranges from 30 to 1,576 historical records per species.</p><sec id="ece36597-sec-0003"><label>2.1</label><title>Overview of modeling approach</title><p>Our modeling approach proceeded in three steps. First, we used historical occurrence records and a suite of spatial covariates describing the recent historical environment to fit a species distribution model (SDM) for each species. These fitted SDMs describe the historical probability of occurrence of each species across the Red River basin. Second, we projected the future distribution of each species under a range of potential climate scenarios by coupling our fitted species distribution models with projected values of climatic and hydrologic variables under future climate scenarios. Third, we summarized inter&#x02010; and intraspecies variability in future stream fish distributions across these climate scenarios.</p><p>We selected covariates for our SDM analysis by choosing environmental factors within the Red River Basin which are known to drive the distribution of stream fish species and are commonly used for modeling stream fish distributions (Annis et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0001" ref-type="ref">2012</xref>; Bond, Thomson, Reich, &#x00026; Stein,&#x000a0;<xref rid="ece36597-bib-0010" ref-type="ref">2011</xref>; Labay &#x00026; Hendrickson,&#x000a0;<xref rid="ece36597-bib-0042" ref-type="ref">2014</xref>). Our analysis includes two classes of covariates (Table&#x000a0;<xref rid="ece36597-tbl-0002" ref-type="table">2</xref>). One set of covariates is temporally dynamic and includes those that vary among historical and future climate scenarios. The other set of covariates is temporally static; these covariates were assumed to be constant across both historical and future climate scenarios.</p><table-wrap id="ece36597-tbl-0002" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 2</label><caption><p>Bioclimatic variables used as predictors in species distribution models. Columns give the data sources; and whether the variable is temporally static or dynamic (i.e., differs among climate scenarios)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Covariate name</th><th align="left" valign="top" rowspan="1" colspan="1">Source</th><th align="left" valign="top" rowspan="1" colspan="1">Covariate type</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Annual mean temperature</td><td align="left" rowspan="1" colspan="1">SC&#x02010;CASC</td><td align="left" rowspan="1" colspan="1">Dynamic</td></tr><tr><td align="left" rowspan="1" colspan="1">Annual mean rainfall</td><td align="left" rowspan="1" colspan="1">SC&#x02010;CASC</td><td align="left" rowspan="1" colspan="1">Dynamic</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean temperature of wettest quarter</td><td align="left" rowspan="1" colspan="1">SC&#x02010;CASC</td><td align="left" rowspan="1" colspan="1">Dynamic</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean temperature of driest quarter</td><td align="left" rowspan="1" colspan="1">SC&#x02010;CASC</td><td align="left" rowspan="1" colspan="1">Dynamic</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean annual flow</td><td align="left" rowspan="1" colspan="1">SC&#x02010;CASC</td><td align="left" rowspan="1" colspan="1">Dynamic</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean flow of wettest quarter</td><td align="left" rowspan="1" colspan="1">SC&#x02010;CASC</td><td align="left" rowspan="1" colspan="1">Dynamic</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean flow of driest quarter</td><td align="left" rowspan="1" colspan="1">SC&#x02010;CASC</td><td align="left" rowspan="1" colspan="1">Dynamic</td></tr><tr><td align="left" rowspan="1" colspan="1">Strahler stream order</td><td align="left" rowspan="1" colspan="1">NHD</td><td align="left" rowspan="1" colspan="1">Static</td></tr><tr><td align="left" rowspan="1" colspan="1">Anthropogenic barrier density</td><td align="left" rowspan="1" colspan="1">NABD</td><td align="left" rowspan="1" colspan="1">Static</td></tr><tr><td align="left" rowspan="1" colspan="1">Elevation</td><td align="left" rowspan="1" colspan="1">USGS</td><td align="left" rowspan="1" colspan="1">Static</td></tr><tr><td align="left" rowspan="1" colspan="1">Lithology class</td><td align="left" rowspan="1" colspan="1">USGS</td><td align="left" rowspan="1" colspan="1">Static</td></tr><tr><td align="left" rowspan="1" colspan="1">Land cover class</td><td align="left" rowspan="1" colspan="1">NLCD</td><td align="left" rowspan="1" colspan="1">Static</td></tr><tr><td align="left" rowspan="1" colspan="1">Habitat disturbance index</td><td align="left" rowspan="1" colspan="1">NFHAP</td><td align="left" rowspan="1" colspan="1">Static</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Temporally dynamic covariates were drawn from recent high&#x02010;resolution climatic and hydrologic modeling of the basin (Bertrand &#x00026; McPherson,&#x000a0;<xref rid="ece36597-bib-0009" ref-type="ref">2018</xref>; McPherson, <xref rid="ece36597-bib-0049" ref-type="ref">2016</xref>; Xue et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0081" ref-type="ref">2015</xref>). McPherson et&#x000a0;al.&#x000a0;(<xref rid="ece36597-bib-0049" ref-type="ref">2016</xref>) used statistical downscaling of global climate model outputs to create estimates of air temperature and precipitation across the basin at a 1/8&#x000b0; raster resolution for both historical time series (the years 1961&#x02013;2010) and for future climate scenarios (the years 2010&#x02013;2099). McPherson et al. created these downscaled air temperature and precipitation estimates for a total of nine climate scenarios, which resulted from taking all combinations of three general circulation models (GCMs; CCSM4, MIROC5, and MPI_ESM_LR) and three representative concentration pathways (RCPs; 2.6, 4.5, and 8.5&#x000a0;W/m<sup>2</sup>). These nine scenarios were selected based on air temperature and precipitation biases over the south&#x02010;central United States (McPherson et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0049" ref-type="ref">2016</xref>) following the recommendations of Sheffield et&#x000a0;al.&#x000a0;(<xref rid="ece36597-bib-0072" ref-type="ref">2013</xref>). Air temperature and precipitation estimates for each of these nine climate scenarios were then used to drive a Variable Infiltration Capacity (VIC) hydrologic model to simulate surface runoff, streamflow, and reservoir storages for both historical and future time periods using the same 1/8&#x000b0; resolution raster grid used for climate projections. VIC is a rainfall&#x02010;runoff model that uses climate variable inputs (precipitation, temperature), estimates of infiltration and soil moisture, and reservoir storages to estimate evapotranspiration and surface runoff at a daily time step across the basin (Liang, Wood, &#x00026; Lettenmaier,&#x000a0;<xref rid="ece36597-bib-0045" ref-type="ref">1996</xref>). Details of the VIC model calibration process for the Red River basin are given by Xue et&#x000a0;al.&#x000a0;(<xref rid="ece36597-bib-0081" ref-type="ref">2015</xref>). For each of the nine climate scenarios, we calculated climatic and hydrologic covariates from the VIC model output with a focus on temperature, streamflow, and drought covariates hypothesized to influence stream fish distributions in the region (Table&#x000a0;<xref rid="ece36597-tbl-0002" ref-type="table">2</xref>; Labay &#x00026; Hendrickson, <xref rid="ece36597-bib-0042" ref-type="ref">2014</xref>). Specifically, we calculated annual mean air temperature, annual mean precipitation, mean temperatures of the driest and wettest quarters, mean annual surface flow, and the mean flows of the wettest and driest quarter for each 1/8&#x000b0; resolution raster grid cell in the basin.</p><p>Temporally static covariates were drawn from a range of widely available spatial data sets and spatially averaged over each 1/8&#x000b0; resolution raster grid used for climate and VIC model outputs. We extracted Strahler stream order from the National Hydrography Dataset, elevation from the USGS 30&#x000a0;m DEM, and categorical land cover data from the 2011 National Land Cover Data Set. We included lithology (soil type) to serve as a proxy for conductivity, which is known to be an important driver of fish assemblages in portions of the Red River basin (Pyron &#x00026; Taylor,&#x000a0;<xref rid="ece36597-bib-0067" ref-type="ref">1993</xref>). Because stream fragmentation is widely acknowledged to be a key driver of stream fish assemblages (Perkin &#x00026; Gido,&#x000a0;<xref rid="ece36597-bib-0061" ref-type="ref">2011</xref>), we included an index of anthropogenic barrier density as a covariate in our SDMs. Specifically, we calculated the density of anthropogenic barriers in each 1/8&#x000b0; raster cell using the National Anthropogenic Barrier Dataset. We also included the disturbance index from the National Fish Habitat Action Plan (Crawford et al., <xref rid="ece36597-bib-0015" ref-type="ref">2016</xref>) to account for habitat condition and nonfragmentation anthropogenic disturbances on each stream reach.</p></sec><sec id="ece36597-sec-0004"><label>2.2</label><title>Species distribution models</title><p>Commonly used methods for fitting species distribution models include generalized linear models (GLMs), generalized additive models (GAMs), boosted regression trees (BRTs), and the MaxEnt maximum entropy model (Elith et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0021" ref-type="ref">2010</xref>). We chose to use MaxEnt for our species distribution modeling for two reasons. First, our species data contain only historical occurrence points (not absences), and MaxEnt is the most appropriate choice for modeling presence&#x02010;only data (Elith &#x00026; Graham,&#x000a0;<xref rid="ece36597-bib-0019" ref-type="ref">2009</xref>). Second, a key objective of our study was to use the fitted species distribution models to project species&#x02019; distributions under future climate scenarios. MaxEnt is the preferred model for extrapolating species&#x02019; distributions to new environments because it is &#x0201c;clamped,&#x0201d; that is, it extrapolates in a horizontal line from the most extreme environmental values in the training data set (Elith &#x00026; Graham,&#x000a0;<xref rid="ece36597-bib-0019" ref-type="ref">2009</xref>; Elith et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0022" ref-type="ref">2011</xref>). Furthermore, MaxEnt models are commonly used for modeling stream fish distributions (Annis et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0001" ref-type="ref">2012</xref>; Bond et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0010" ref-type="ref">2011</xref>; Labay &#x00026; Hendrickson,&#x000a0;<xref rid="ece36597-bib-0042" ref-type="ref">2014</xref>).</p><p>For each of the 31 species in our data set, we fit a MaxEnt model using all temporally static covariates and historical period temporally dynamic covariates (Table&#x000a0;<xref rid="ece36597-tbl-0002" ref-type="table">2</xref>). Our spatial unit of analysis for the MaxEnt modeling was the 1/8&#x000b0; resolution raster grid cells used for climate and hydrological modeling. We aggregated point records of historical species&#x02019; occurrences to these grid cells by assuming that a species was present in a grid cell if that grid cell contained at least one historical occurrence record.</p><p>A previous analysis isolating the Bluehead Shiner (<italic>Pteronotropis hubbsi</italic>) in the Red River Basin found that optimizing the regularization multiplier between 1.5&#x000d7; and 2.0&#x000d7; was necessary to prevent over&#x02010;prediction while staying under the target training omission rate of 30% (Hernandez,&#x000a0;<xref rid="ece36597-bib-0036" ref-type="ref">2015</xref>). Thus, we optimized the regularization multiplier within MaxEnt to give more predictive power to the covariates that have the most influence and to penalize the variables which do not influence the model outputs. Additionally, we used a jackknife approach in our MaxEnt model to quantitatively identify the most influential covariates. By increasing the regularization multiplier, our model generally produced a broader range of projected occurrence probabilities and is better fitted with respect to model area under the curve (AUC) values (Hernandez,&#x000a0;<xref rid="ece36597-bib-0036" ref-type="ref">2015</xref>; Radosavljevic &#x00026; Anderson,&#x000a0;<xref rid="ece36597-bib-0069" ref-type="ref">2014</xref>). We assessed model fit by focusing on AUC values for the fitted models. Values between 0.7 and 0.9 are considered &#x0201c;usable&#x0201d; while values above 0.9 are considered excellent (Swets,&#x000a0;<xref rid="ece36597-bib-0074" ref-type="ref">1988</xref>).</p><p>To project fish distributions under each of the nine future climate scenarios, we used projected future values of all environmental covariates (Table&#x000a0;<xref rid="ece36597-tbl-0002" ref-type="table">2</xref>) as drivers to the fitted MaxEnt models. Thus, our projections of fish distributions represent an extrapolation of the fitted MaxEnt models (i.e., the models parameterized with historical covariates) into each of the nine future climate scenarios. We summarized projected species&#x02019; distributions within and across climate scenarios in several ways. First, we calculated the projected change in the distribution of each species in each climate scenario by comparing projected to historical distributional extents. For this calculation, we used a projected probability of occurrence of 0.5 as a threshold for determining whether a raster cell should be included in each species&#x02019; range. While this choice of threshold may not maximize prediction accuracy for every species (Freeman &#x00026; Moisen,&#x000a0;<xref rid="ece36597-bib-0026" ref-type="ref">2008</xref>), our priority was to use an identical threshold for all species to enable us to compare habitat gains and losses across species in an even&#x02010;handed way. Thus, we chose to use 0.5 as an occurrence threshold because it is a traditional default choice (Freeman &#x00026; Moisen,&#x000a0;<xref rid="ece36597-bib-0026" ref-type="ref">2008</xref>). Second, we estimated hotspots of species loss or gain in each climate scenario by summing the change in probability of occurrence across all species for each raster cell. The resulting output is a raster map for each climate scenario that highlights locations of species loss or gain. Finally, we created a single map to summarize outcomes across climate scenarios by summing all changes in probability of occurrence for each raster cell across all species and across all climate scenarios.</p></sec></sec><sec sec-type="results" id="ece36597-sec-0005"><label>3</label><title>RESULTS</title><p>Environmental covariates related to air temperature, flow, lithology, and elevation had the greatest influence on species&#x02019; distributions (Table&#x000a0;<xref rid="ece36597-tbl-0003" ref-type="table">3</xref>), as measured by percent contribution in the fitted MaxEnt models (Phillips, Anderson, &#x00026; Schapire,&#x000a0;<xref rid="ece36597-bib-0063" ref-type="ref">2006</xref>). Among covariates that change across future climate scenarios, temperature and streamflow during the driest quarter of the year (i.e., summer) were particularly important: the mean temperature of the driest quarter of the year had the second greatest average influence across all species, and the mean streamflow during the driest quarter had the third greatest influence overall. The two most important static covariates (i.e., those did not vary among climate scenarios) were lithology (highest influence overall) and elevation (4th overall). In terms of overall model fit, we found that historical distributions of stream fishes were well explained by MaxEnt models; the majority of models (22 of 31 species) had an area under the curve (AUC) value of 0.85 or greater, indicating near&#x02010;excellent fits.</p><table-wrap id="ece36597-tbl-0003" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 3</label><caption><p>Average percent contribution of each covariate within fitted historical MaxEnt models, with the average percent contribution taken across all species</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Covariate name</th><th align="left" valign="top" rowspan="1" colspan="1">Average percent contribution</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Lithology type</td><td align="char" char="." rowspan="1" colspan="1">29.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean air temperature of driest quarter</td><td align="char" char="." rowspan="1" colspan="1">21.37</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean flow of driest quarter</td><td align="char" char="." rowspan="1" colspan="1">12.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Elevation</td><td align="char" char="." rowspan="1" colspan="1">9.46</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean annual rainfall</td><td align="char" char="." rowspan="1" colspan="1">8.03</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean annual air temperature</td><td align="char" char="." rowspan="1" colspan="1">4.74</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean air temperature of wettest quarter</td><td align="char" char="." rowspan="1" colspan="1">4.64</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean annual flow</td><td align="char" char="." rowspan="1" colspan="1">2.63</td></tr><tr><td align="left" rowspan="1" colspan="1">Land cover</td><td align="char" char="." rowspan="1" colspan="1">2.35</td></tr><tr><td align="left" rowspan="1" colspan="1">NFHAP disturbance index</td><td align="char" char="." rowspan="1" colspan="1">1.93</td></tr><tr><td align="left" rowspan="1" colspan="1">NABD density</td><td align="char" char="." rowspan="1" colspan="1">1.87</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean flow of wettest quarter</td><td align="char" char="." rowspan="1" colspan="1">1.09</td></tr><tr><td align="left" rowspan="1" colspan="1">Strahler stream order</td><td align="char" char="." rowspan="1" colspan="1">0.66</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Species differed markedly in projected changes to their distributional range under future climate scenarios, and also in the variability of these projected outcomes across climate scenarios (Figure&#x000a0;<xref rid="ece36597-fig-0002" ref-type="fig">2</xref>). For example, the MaxEnt model suggests that the distributional range of <italic>Notropis atrocaudalis</italic> and <italic>P.&#x000a0;hubbsi</italic> will increase or remain similar in the future in all nine future climate scenarios. Conversely, MaxEnt suggests that <italic>Ameiurus melas</italic>, <italic>Micropterus salmoides</italic>, and others will be more narrowly distributed in the future. For some species, projected changes to their distribution are similar across all nine climate scenarios. In the case of <italic>Morone saxatilis</italic>, for example, the most optimistic and pessimistic climate scenarios are similar (expanding to an additional 0.52% of the basin versus. disappearing from 1.59% of the basin, respectively). For other species, like <italic>Gambusia affinis</italic> and <italic>Lepomis cyanellus</italic>, changes to their projected distributional extent vary widely across the nine climate scenarios. For <italic>G.&#x000a0;affinis</italic>, its distribution is projected to increase to encompass an additional 7.6% of the basin under the most optimistic climate scenario (under GCM MIROC5 and RCP 4.5) in 2050 under MaxEnt. However, the most pessimistic climate scenario is dramatically different and suggests that its future distribution will contract and fail to include 34% of the basin where it historically occurred (under GCM MPI_ESM_LR and RCP 4.5).</p><fig fig-type="Figure" xml:lang="en" id="ece36597-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Variability in changes to species&#x02019; distributional extents among nine future climate scenarios in the Red River basin, as predicted by MaxEnt. For each species, the horizontal axis gives the difference in the proportion of the basin where that species is projected to occur (based on a threshold probability of occurrence of 0.5) between the historical period and the year 2050. The endpoints of each bar give the minimum and maximum observed range shifts across nine climate scenarios</p></caption><graphic id="nlm-graphic-5" xlink:href="ECE3-10-9200-g002"/></fig><p>We also found that the greatest absolute changes in distribution under future climate scenarios are projected to occur for the most widely distributed species (Figure&#x000a0;<xref rid="ece36597-fig-0003" ref-type="fig">3</xref>). Across eight of nine climate scenarios, we found a statistically significant negative correlation between historical distributional extent and the absolute change in distributional extent in 2050. For example, <italic>G.&#x000a0;affinis</italic>, <italic>L.&#x000a0;cyanellus</italic>, and <italic>Cyprinella lutrensis</italic> are all historically widely distributed across the basin, but are projected to occupy a much narrower portion of the basin in all future climate scenarios. Conversely, absolute changes to the distributional range of several species that were historically narrowly distributed (e.g., <italic>Percina pantherina</italic>, <italic>Notropis ortenburgeri</italic>, and <italic>Macrhybopsis australis</italic>) were small because those species were rare to begin with. However, we did not find a significant correlation between historical distributional extent and proportional change in distributional extent in 2050 (Figure&#x000a0;<xref rid="ece36597-fig-0004" ref-type="fig">4</xref>); thus, we could not reject a null hypothesis that changes to species&#x02019; distributional extents were proportional to their historical distributional extent.</p><fig fig-type="Figure" xml:lang="en" id="ece36597-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Comparison of historical range extent (as proportion of the Red River basin [RRB]; horizontal axis) versus absolute change in range extent in the year 2050 (as proportion of the Red River basin; vertical axis) for nine climate scenarios, as predicted by MaxEnt. Each point represents one species. Colored points highlight species that were historically common (blue) or rare (red) and are discussed in the main text</p></caption><graphic id="nlm-graphic-7" xlink:href="ECE3-10-9200-g003"/></fig><fig fig-type="Figure" xml:lang="en" id="ece36597-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Comparison of historical range extent (as proportion of the Red River basin [RRB]; horizontal axis) versus proportional change in range extent in the year 2050 (compared to historical distribution; vertical axis) for nine climate scenarios, as predicted by MaxEnt. Each point represents one species. Colored points highlight species that were historically common (blue) or rare (red) and are discussed in the main text</p></caption><graphic id="nlm-graphic-9" xlink:href="ECE3-10-9200-g004"/></fig><p>We observed significant differences in distributional changes among groups of species. The median outcome across climate scenarios (i.e., the midpoint of outcomes for each species in Figure&#x000a0;<xref rid="ece36597-fig-0002" ref-type="fig">2</xref>) was significantly better for species of greatest conservation need (mean change in distribution&#x000a0;=&#x000a0;&#x02212;1.1% of basin; <italic>n</italic>&#x000a0;=&#x000a0;12 species) than for species that were not SGCN listed (mean&#x000a0;=&#x000a0;&#x02212;5.2%; <italic>n</italic>&#x000a0;=&#x000a0;19; <italic>t</italic> test, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). We also found that the median outcome across climate scenarios was significantly better for pelagic&#x02010;broadcast spawners (mean change in distribution&#x000a0;=&#x000a0;&#x02212;0.3% of basin; <italic>n</italic>&#x000a0;=&#x000a0;5 species) than for all other species (mean&#x000a0;=&#x000a0;&#x02212;4.2%; <italic>n</italic>&#x000a0;=&#x000a0;26; <italic>t</italic> test, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;.05). However, we did not find significant differences in outcomes among species when comparing all spawning modes (ANOVA; <italic>p</italic>&#x000a0;&#x0003e;&#x000a0;.05); here, we compared pelagic&#x02010;broadcast spawners (mean change in distribution&#x000a0;=&#x000a0;&#x02212;0.3% of basin; <italic>n</italic>&#x000a0;=&#x000a0;5 species), riverine spawners (mean&#x000a0;=&#x000a0;&#x02212;3.2%; <italic>n</italic>&#x000a0;=&#x000a0;13), egg burriers or attachers (mean&#x000a0;=&#x000a0;&#x02212;4.5%; <italic>n</italic>&#x000a0;=&#x000a0;5 species), and nesting species (mean&#x000a0;=&#x000a0;&#x02212;4.7%; <italic>n</italic>&#x000a0;=&#x000a0;7 species).</p><p>While there were large differences in how individual species fared among climate scenarios (Figure&#x000a0;<xref rid="ece36597-fig-0002" ref-type="fig">2</xref>), the average change in range width across the entire fish community was similar across climate scenarios (Figure&#x000a0;<xref rid="ece36597-fig-0005" ref-type="fig">5</xref>). The effects of RCP emission scenario and GCM model choice appeared to be modest. For example, most species experienced the best outcomes (i.e., least amount of range contraction) in the RCP 2.6 and the CCSM4 GCM, but differences were small relative to the other 8 eight climate scenarios. Similarly, the RCP 8.5 scenarios included the highest number of species that were projected to disappear from more than 20% of the basin; however, average outcomes for all three RCP 8.5 scenarios were still similar to the remaining six climate scenarios.</p><fig fig-type="Figure" xml:lang="en" id="ece36597-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Boxplots summarizing variation among species in projected changes to their distributional extent across nine climate scenarios, as predicted by MaxEnt models. For each species, change in distribution is the difference in the proportion of the Red River basin where that species is projected to occur (based on a threshold probability of occurrence of 0.5) between the historical period and the year 2050</p></caption><graphic id="nlm-graphic-11" xlink:href="ECE3-10-9200-g005"/></fig><p>Despite high variability in outcomes for individual species across climate scenarios (Figures&#x000a0;<xref rid="ece36597-fig-0002" ref-type="fig">2</xref> and <xref rid="ece36597-fig-0003" ref-type="fig">3</xref>), we found that the spatial hotspots of greatest species loss tended to occur in the same locations in all nine climate scenarios (Figure&#x000a0;<xref rid="ece36597-fig-0006" ref-type="fig">6</xref>). Specifically, we found that the change in probability of occurrence summed across all species was highest in the north&#x02010;central portion of the RRB across scenarios. Aggregate outcomes in other portions of the basin varied among climate scenarios. In the southeast corner of the RRB, for example, our models predicted no net change in aggregate probability of occurrence under two scenarios (CCSM4 and MPI_ESM_LR GCMs under RCP 8.5) and an increase in aggregate probability of occurrence in the region for the remaining seven climate scenarios. Taking the average of these scenario&#x02010;specific maps (i.e., panels in Figure&#x000a0;<xref rid="ece36597-fig-0006" ref-type="fig">6</xref>) resulted in a single map (Figure&#x000a0;<xref rid="ece36597-fig-0007" ref-type="fig">7</xref>) that highlights locations in the basin with high average species loss across all climate projections. Spatial trends in this figure mirror those in panels of Figure&#x000a0;<xref rid="ece36597-fig-0006" ref-type="fig">6</xref>, such that hotspots of species loss are concentrated in the north&#x02010;central portion of the basin.</p><fig fig-type="Figure" xml:lang="en" id="ece36597-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Expected change in the number of species within the Red River basin by the year 2050 across nine future climate scenarios, as projected by MaxEnt. The value for each raster 1/8&#x000b0; cell represents the difference in species&#x02019; probability of occurrence between the historical period and the year 2050, summed across all species</p></caption><graphic id="nlm-graphic-13" xlink:href="ECE3-10-9200-g006"/></fig><fig fig-type="Figure" xml:lang="en" id="ece36597-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Mean expected change in the number of species within the Red River basin by the year 2050, averaged across nine future climate scenarios, as projected by MaxEnt. The value for each raster 1/8&#x000b0; cell represents the difference in species&#x02019; probability of occurrence between the historical period and the year 2050, summed across all species and then averaged across nine climate scenarios (i.e., raster cell values are an average of the nine maps in Figure&#x000a0;<xref rid="ece36597-fig-0006" ref-type="fig">6</xref>)</p></caption><graphic id="nlm-graphic-15" xlink:href="ECE3-10-9200-g007"/></fig></sec><sec sec-type="discussion" id="ece36597-sec-0006"><label>4</label><title>DISCUSSION</title><p>Our analysis of fish species distributions under nine future climate scenarios highlights a wide range of outcomes across species and across scenarios in the Red River. We found that the range extent of most fish species in the Red River Basin will contract over the next few decades across all GCM/RCP scenarios (Figure&#x000a0;<xref rid="ece36597-fig-0002" ref-type="fig">2</xref>). Species listed as Species of Greatest Conservation Need experienced less habitat loss, on average, than nonlisted species. We also found that pelagic&#x02010;broadcast spawners experienced less habitat loss, on average, than species with other spawning habits. Conversely, species varied dramatically in the uncertainty associated with their future distributions, with the range in outcomes across climate scenarios being more than 10 times greater for some species than for others. Our analysis also revealed that the greatest absolute changes in range width are projected to occur for those species which have been the most widespread historically (Figure&#x000a0;<xref rid="ece36597-fig-0003" ref-type="fig">3</xref>).</p><p>Despite this variability in how individual species fared across climate scenarios, we also found that the hotspots of greatest species loss were consistent across climate scenarios (Figure&#x000a0;<xref rid="ece36597-fig-0006" ref-type="fig">6</xref>). Overall, then, we find that there is high uncertainty regarding outcomes for individual species, but lower uncertainty regarding spatial hotspots where the negative impacts of climate change are likely to be greatest. Furthermore, our aggregate map of changes to species&#x02019; probabilities of occurrence (Figure&#x000a0;<xref rid="ece36597-fig-0007" ref-type="fig">7</xref>) provides a spatial summary of these hotspots of projected species loss in future climate scenarios.</p><p>Our finding that the most common (i.e., widespread) species are projected to face the largest absolute changes in distributional extent (Figure&#x000a0;<xref rid="ece36597-fig-0003" ref-type="fig">3</xref>) also underscores arguments for including common species in conservation and climate mitigation initiatives. Indeed, there is growing awareness that many common species play key roles in maintaining ecosystem structure and function (Geider et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0030" ref-type="ref">2001</xref>; Grime,&#x000a0;<xref rid="ece36597-bib-0031" ref-type="ref">1998</xref>; Winfree, W. Fox, Williams, Reilly, &#x00026; Cariveau,&#x000a0;<xref rid="ece36597-bib-0080" ref-type="ref">2015</xref>), and efforts to conserve rare species can easily lead to neglect of common species (Gaston,&#x000a0;<xref rid="ece36597-bib-0028" ref-type="ref">2010</xref>; Gaston &#x00026; Fuller,&#x000a0;<xref rid="ece36597-bib-0029" ref-type="ref">2008</xref>). Furthermore, conservation investments in common species are often more cost&#x02010;effective, because their wide distributional range enables conservation practitioners to choose among many candidate projects, some of which will offer high benefit per dollar spent (Gaston,&#x000a0;<xref rid="ece36597-bib-0028" ref-type="ref">2010</xref>; Neeson et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0054" ref-type="ref">2018</xref>). At the same time, investments in rare species are critical: our models also suggest that several regionally imperiled species are likely to be further impacted by climate change. For example, all climate projections suggest some degree of range contraction for the federally endangered Leopard Darter (<italic>P.&#x000a0;pantherina</italic>). In other cases, species considered as vulnerable by NatureServe (e.g., the Rocky Shiner, <italic>Notropis suttkusi</italic>), experienced dramatic range contraction across all climate scenarios. When considering conservation actions for imperiled species, conservation practitioners should recognize that future climate projections and SDM outputs entail multiple sources of error, and for some species model fit (as measured by AUC) was relatively lower. Thus, the precautionary principle (Kriebel et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0041" ref-type="ref">2001</xref>) might be a basis for directing climate mitigation resources toward imperiled species even if they show few climate impacts in most future scenarios.</p><p>In most cases, the relative importance of environmental covariates in our models (Table&#x000a0;<xref rid="ece36597-tbl-0003" ref-type="table">3</xref>) mirrors empirical work on stream fish ecology in the south&#x02010;central United States. For example, the mean air temperature of the driest quarter (i.e., summer) was on average the most important covariate in our models. This finding is in line with a wealth of empirical work on the role of summer stream temperatures in structuring stream fish distributions (Eaton &#x00026; Scheller,&#x000a0;<xref rid="ece36597-bib-0018" ref-type="ref">1996</xref>; Matthews &#x00026; Zimmerman,&#x000a0;<xref rid="ece36597-bib-0047" ref-type="ref">1990</xref>; Ostrand &#x00026; Wilde,&#x000a0;<xref rid="ece36597-bib-0059" ref-type="ref">2001</xref>). Similarly, mean flow in summer, our third most important covariate, is also widely acknowledged to be an important control on stream fish distributions (Dodds, Gido, Whiles, Fritz, &#x00026; Matthews,&#x000a0;<xref rid="ece36597-bib-0017" ref-type="ref">2004</xref>; Falke, Bestgen, &#x00026; Fausch,&#x000a0;<xref rid="ece36597-bib-0023" ref-type="ref">2010</xref>; Perkin et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0062" ref-type="ref">2015</xref>). Important static landscape covariates (e.g., lithology and elevation) capture the roles of salinity (Higgins &#x00026; Wilde,&#x000a0;<xref rid="ece36597-bib-0037" ref-type="ref">2005</xref>; Ostrand &#x00026; Wilde,&#x000a0;<xref rid="ece36597-bib-0059" ref-type="ref">2001</xref>) and local topography (e.g., the extent of the central interior highlands; Mayden,&#x000a0;<xref rid="ece36597-bib-0048" ref-type="ref">1985</xref>). However, we did not find that the density of anthropogenic barriers (i.e., habitat fragmentation) was an important covariate, despite recent empirical evidence that anthropogenic barriers have a strong influence on regional fish communities (Perkin &#x00026; Gido,&#x000a0;<xref rid="ece36597-bib-0061" ref-type="ref">2011</xref>; Perkin et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0062" ref-type="ref">2015</xref>; Sleight &#x00026; Neeson,&#x000a0;<xref rid="ece36597-bib-0073" ref-type="ref">2018</xref>). Alternative measures of fragmentation (e.g., the dendritic connectivity index; Cote, Kehler, Bourne, &#x00026; Wiersma,&#x000a0;<xref rid="ece36597-bib-0014" ref-type="ref">2009</xref>) may have had different influence on the SDM models. Our historical occurrence data spanned a range of decades and included fish occurrence records both before and after construction of many of the reservoirs in the basin; thus, this temporal mismatch may have made it difficult for our SDMs to correctly identify the role of habitat fragmentation in structuring fish communities (Milt et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0051" ref-type="ref">2018</xref>). Finally, we recognize that our approach to estimating species richness at a site by summing independent SDMs tends to over&#x02010;estimate species richness (Calabrese, Certain, Kraan, &#x00026; Dormann,&#x000a0;<xref rid="ece36597-bib-0011" ref-type="ref">2014</xref>) because it does not consider upper limits on the number of species that may occur at a single position.</p><p>Our analysis of projected fish species distributions under future climate scenarios highlights opportunities for conservation practitioners and decision makers to make pro&#x02010;active investments in fish conservation to mitigate potential climate impacts. Given the importance of stream temperature and flow, conservation practitioners might use our SDM projections to identify specific locations where species&#x02019; distributions are likely to contract due to unfavorable stream temperature and flow. In these locations, practitioners may consider strategies to mitigate climate impacts by ensuring adequate instream flows (Arthington, Bunn, Poff, &#x00026; Naiman,&#x000a0;<xref rid="ece36597-bib-0003" ref-type="ref">2006</xref>; Poff et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0064" ref-type="ref">2010</xref>) and by ensuring that reservoir releases maintain adequate stream temperatures and flows where possible (Guo, Zamanisabzi, Neeson, Allen, &#x00026; Mistree,&#x000a0;<xref rid="ece36597-bib-0034" ref-type="ref">2019</xref>; Poff &#x00026; Zimmerman,&#x000a0;<xref rid="ece36597-bib-0065" ref-type="ref">2010</xref>; Zamani Sabzi, Moreno, et al., <xref rid="ece36597-bib-0082" ref-type="ref">2019</xref>; Zamani Sabzi, Rezapour, et al., <xref rid="ece36597-bib-0083" ref-type="ref">2019</xref>). In locations where multiple concurrent stressors are projected to drive species losses, conservation actors may need to evaluate multiple types of conservation actions (Fitzpatrick &#x00026; Neeson,&#x000a0;<xref rid="ece36597-bib-0024" ref-type="ref">2018</xref>; Neeson, Smith, Allan, &#x00026; McIntyre,&#x000a0;<xref rid="ece36597-bib-0056" ref-type="ref">2016</xref>; Radeloff et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0068" ref-type="ref">2015</xref>) and coordinate investments in stream restoration across the basin (Kark, Levin, Grantham, &#x00026; Possingham,&#x000a0;<xref rid="ece36597-bib-0039" ref-type="ref">2009</xref>; Milt et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0052" ref-type="ref">2017</xref>; Neeson et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0055" ref-type="ref">2015</xref>). In some of these locations, mitigation of nonclimate stressors may not pay dividends because future climate conditions will be beyond the tolerance of resident species or otherwise infeasible (Popejoy, Randklev, Neeson, &#x00026; Vaughn,&#x000a0;<xref rid="ece36597-bib-0066" ref-type="ref">2018</xref>). In this case, SDM projections might be used to identify locations for facilitating dispersal or passive migration management to locations with more favorable future climate conditions (Guisan et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0033" ref-type="ref">2013</xref>).</p><p>Climate change is projected to impact species in ecosystems around the world (Chen et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0013" ref-type="ref">2011</xref>; Thomas et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0075" ref-type="ref">2004</xref>; Thuiller,&#x000a0;<xref rid="ece36597-bib-0076" ref-type="ref">2004</xref>), but the projected impacts to individual species vary widely among future scenarios. Our work demonstrates how conservation practitioners might seek to both identify those species at greatest risk of climate change (Dirnb&#x000f6;ck et al., <xref rid="ece36597-bib-0016" ref-type="ref">2011</xref>; Morin &#x00026; Thuiller,&#x000a0;<xref rid="ece36597-bib-0053" ref-type="ref">2009</xref>; Ohlem&#x000fc;ller et al., <xref rid="ece36597-bib-0058" ref-type="ref">2008</xref>; Thuiller,&#x000a0;<xref rid="ece36597-bib-0076" ref-type="ref">2004</xref>) and also work to identify locations that appear to be hotspots of species loss across a wide range of scenarios (Beaumont et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0007" ref-type="ref">2011</xref>; Thomas et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0075" ref-type="ref">2004</xref>). Conversely, locations that remain within the range of many species across a wide range of future climate scenarios may be good candidate locations for the establishment of climate refugia (Ashcroft,&#x000a0;<xref rid="ece36597-bib-0004" ref-type="ref">2010</xref>; Keppel et&#x000a0;al.,&#x000a0;<xref rid="ece36597-bib-0040" ref-type="ref">2012</xref>). These multiple perspectives underscore how conservation actors might work to pro&#x02010;actively mitigate the potential impacts of climate change despite multiple sources of uncertainty in both climate projections and species distribution models (Lawler &#x00026; Michalak,&#x000a0;<xref rid="ece36597-bib-0043" ref-type="ref">2018</xref>).</p></sec><sec sec-type="COI-statement" id="ece36597-sec-0008"><title>CONFLICT OF INTEREST</title><p>The authors declare that they have no competing interests.</p></sec><sec id="ece36597-sec-0009"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Kenneth C Gill:</bold> Conceptualization (equal); Data curation (lead); Formal analysis (lead); Methodology (equal); Validation (equal); Visualization (equal); Writing&#x02010;original draft (lead); Writing&#x02010;review &#x00026; editing (equal). <bold>Rachel E Fovargue:</bold> Conceptualization (equal); Formal analysis (equal); Methodology (equal); Visualization (equal); Writing&#x02010;review &#x00026; editing (equal). <bold>Thomas Neeson:</bold> Conceptualization (equal); Formal analysis (equal); Funding acquisition (lead); Methodology (equal); Supervision (lead); Writing&#x02010;review &#x00026; editing (equal).</p></sec></body><back><ack id="ece36597-sec-0007"><title>ACKNOWLEDGMENTS</title><p>We thank K. Kuklinski, E. Marsh&#x02010;Matthews, B. Matthews, and T. Starks for guidance on the selection of fish species for our analysis, and B. Hoagland and R. Loraamm for constructive comments on earlier drafts of this manuscript.</p></ack><sec sec-type="data-availability" id="ece36597-sec-0011"><title>DATA AVAILABILITY STATEMENT</title><p>Data used for this study are available for download from Dryad at <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5061/dryad.1g1jwstsn" specific-use="dataset is-supplemented-by">https://doi.org/10.5061/dryad.1g1jwstsn</ext-link>.</p></sec><ref-list content-type="cited-references" id="ece36597-bibl-0001"><title>REFERENCES</title><ref id="ece36597-bib-0001"><mixed-citation publication-type="book" id="ece36597-cit-0001">
+<string-name>
+<surname>Annis</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Diamond</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Garringer</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hanberry</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Morey</surname>, <given-names>M.</given-names>
+</string-name> (<year>2012</year>). <source xml:lang="en">Modeling fish species distributions throughout the Arkansas, Red, and White river basins</source>. Final report to the Missouri Resource Assessment Partnership. Retrieved from <ext-link ext-link-type="uri" xlink:href="https://morap.missouri.edu/wp-content/uploads/2018/12/AWR_Final_Report.pdf">https://morap.missouri.edu/wp-content/uploads/2018/12/AWR_Final_Report.pdf</ext-link>
+</mixed-citation></ref><ref id="ece36597-bib-0002"><mixed-citation publication-type="journal" id="ece36597-cit-0002">
+<string-name>
+<surname>Ara&#x000fa;jo</surname>, <given-names>M. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>New</surname>, <given-names>M.</given-names>
+</string-name> (<year>2007</year>). <article-title>Ensemble forecasting of species distributions</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>22</volume>(<issue>1</issue>), <fpage>42</fpage>&#x02013;<lpage>47</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2006.09.010</pub-id>
+<pub-id pub-id-type="pmid">17011070</pub-id></mixed-citation></ref><ref id="ece36597-bib-0003"><mixed-citation publication-type="journal" id="ece36597-cit-0003">
+<string-name>
+<surname>Arthington</surname>, <given-names>A. H.</given-names>
+</string-name>, <string-name>
+<surname>Bunn</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Poff</surname>, <given-names>N. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Naiman</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2006</year>). <article-title>The challenge of providing environmental flow rules to sustain river ecosystems</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>16</volume>(<issue>4</issue>), <fpage>1311</fpage>&#x02013;<lpage>1318</lpage>. <pub-id pub-id-type="doi">10.1890/1051-0761(2006)016[1311:TCOPEF]2.0.CO;2</pub-id>
+<pub-id pub-id-type="pmid">16937799</pub-id></mixed-citation></ref><ref id="ece36597-bib-0004"><mixed-citation publication-type="journal" id="ece36597-cit-0004">
+<string-name>
+<surname>Ashcroft</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>2010</year>). <article-title>Identifying refugia from climate change</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>37</volume>(<issue>8</issue>), <fpage>1407</fpage>&#x02013;<lpage>1413</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2699.2010.02300.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0005"><mixed-citation publication-type="journal" id="ece36597-cit-0005">
+<string-name>
+<surname>Austin</surname>, <given-names>M. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Van Niel</surname>, <given-names>K. P.</given-names>
+</string-name> (<year>2011</year>). <article-title>Improving species distribution models for climate change studies: Variable selection and scale</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>38</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2699.2010.02416.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0006"><mixed-citation publication-type="journal" id="ece36597-cit-0006">
+<string-name>
+<surname>Beaumont</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Hughes</surname>, <given-names>L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Pitman</surname>, <given-names>A. J.</given-names>
+</string-name> (<year>2008</year>). <article-title>Why is the choice of future climate scenarios for species distribution modelling important?</article-title>
+<source xml:lang="en">Ecology Letters</source>, <volume>11</volume>(<issue>11</issue>), <fpage>1135</fpage>&#x02013;<lpage>1146</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2008.01231.x</pub-id>
+<pub-id pub-id-type="pmid">18713269</pub-id></mixed-citation></ref><ref id="ece36597-bib-0007"><mixed-citation publication-type="journal" id="ece36597-cit-0007">
+<string-name>
+<surname>Beaumont</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Pitman</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Perkins</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Zimmermann</surname>, <given-names>N. E.</given-names>
+</string-name>, <string-name>
+<surname>Yoccoz</surname>, <given-names>N. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thuiller</surname>, <given-names>W.</given-names>
+</string-name> (<year>2011</year>). <article-title>Impacts of climate change on the world's most exceptional ecoregions</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>108</volume>(<issue>6</issue>), <fpage>2306</fpage>&#x02013;<lpage>2311</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1007217108</pub-id>
+<pub-id pub-id-type="pmid">21262825</pub-id></mixed-citation></ref><ref id="ece36597-bib-0008"><mixed-citation publication-type="journal" id="ece36597-cit-0008">
+<string-name>
+<surname>Beck</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>B&#x000f6;ller</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Erhardt</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schwanghart</surname>, <given-names>W.</given-names>
+</string-name> (<year>2014</year>). <article-title>Spatial bias in the GBIF database and its effect on modeling species' geographic distributions</article-title>. <source xml:lang="en">Ecological Informatics</source>, <volume>19</volume>, <fpage>10</fpage>&#x02013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecoinf.2013.11.002</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0009"><mixed-citation publication-type="journal" id="ece36597-cit-0009">
+<string-name>
+<surname>Bertrand</surname>, <given-names>D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McPherson</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2018</year>). <article-title>Future hydrologic extremes of the Red River Basin</article-title>. <source xml:lang="en">Journal of Applied Meteorology and Climatology</source>, <volume>57</volume>(<issue>6</issue>), <fpage>1321</fpage>&#x02013;<lpage>1336</lpage>. <pub-id pub-id-type="doi">10.1175/JAMC-D-17-0346.1</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0010"><mixed-citation publication-type="journal" id="ece36597-cit-0010">
+<string-name>
+<surname>Bond</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Thomson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Reich</surname>, <given-names>P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Stein</surname>, <given-names>J.</given-names>
+</string-name> (<year>2011</year>). <article-title>Using species distribution models to infer potential climate change&#x02010;induced range shifts of freshwater fish in south&#x02010;eastern Australia</article-title>. <source xml:lang="en">Marine and Freshwater Research</source>, <volume>62</volume>(<issue>9</issue>), <fpage>1043</fpage>&#x02013;<lpage>1061</lpage>. <pub-id pub-id-type="doi">10.1071/MF10286</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0011"><mixed-citation publication-type="journal" id="ece36597-cit-0011">
+<string-name>
+<surname>Calabrese</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Certain</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Kraan</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dormann</surname>, <given-names>C. F.</given-names>
+</string-name> (<year>2014</year>). <article-title>Stacking species distribution models and adjusting bias by linking them to macroecological models</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>23</volume>(<issue>1</issue>), <fpage>99</fpage>&#x02013;<lpage>112</lpage>. <pub-id pub-id-type="doi">10.1111/geb.12102</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0012"><mixed-citation publication-type="journal" id="ece36597-cit-0012">
+<string-name>
+<surname>Cheaib</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Badeau</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Boe</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Chuine</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Delire</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Dufr&#x000ea;ne</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Leadley</surname>, <given-names>P.</given-names>
+</string-name> (<year>2012</year>). <article-title>Climate change impacts on tree ranges: Model intercomparison facilitates understanding and quantification of uncertainty</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>15</volume>(<issue>6</issue>), <fpage>533</fpage>&#x02013;<lpage>544</lpage>. <pub-id pub-id-type="doi">10.1111/j.1461-0248.2012.01764.x</pub-id>
+<pub-id pub-id-type="pmid">22433068</pub-id></mixed-citation></ref><ref id="ece36597-bib-0013"><mixed-citation publication-type="journal" id="ece36597-cit-0013">
+<string-name>
+<surname>Chen</surname>, <given-names>I. C.</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>, <given-names>J. K.</given-names>
+</string-name>, <string-name>
+<surname>Ohlem&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Roy</surname>, <given-names>D. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>C. D.</given-names>
+</string-name> (<year>2011</year>). <article-title>Rapid range shifts of species associated with high levels of climate warming</article-title>. <source xml:lang="en">Science</source>, <volume>333</volume>(<issue>6045</issue>), <fpage>1024</fpage>&#x02013;<lpage>1026</lpage>. <pub-id pub-id-type="doi">10.1126/science.1206432</pub-id>
+<pub-id pub-id-type="pmid">21852500</pub-id></mixed-citation></ref><ref id="ece36597-bib-0014"><mixed-citation publication-type="journal" id="ece36597-cit-0014">
+<string-name>
+<surname>Cote</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kehler</surname>, <given-names>D. G.</given-names>
+</string-name>, <string-name>
+<surname>Bourne</surname>, <given-names>C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wiersma</surname>, <given-names>Y. F.</given-names>
+</string-name> (<year>2009</year>). <article-title>A new measure of longitudinal connectivity for stream networks</article-title>. <source xml:lang="en">Landscape Ecology</source>, <volume>24</volume>(<issue>1</issue>), <fpage>101</fpage>&#x02013;<lpage>113</lpage>. <pub-id pub-id-type="doi">10.1007/s10980-008-9283-y</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0015"><mixed-citation publication-type="book" id="ece36597-cit-0015">
+<string-name>
+<surname>Crawford</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Whelan</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Infante</surname>, <given-names>D. M.</given-names>
+</string-name>, <string-name>
+<surname>Blackhart</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Daniel</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Fuller</surname>, <given-names>P. L.</given-names>
+</string-name>, <string-name>
+<surname>Herreman</surname>, <given-names>K.</given-names>
+</string-name> (<year>2016</year>). <source xml:lang="en">Through a fish's eye: the status of fish habitats in the United States 2015</source>. National Fish Habitat Partnership.</mixed-citation></ref><ref id="ece36597-bib-0016"><mixed-citation publication-type="journal" id="ece36597-cit-0016">
+<string-name>
+<surname>Dirnb&#x000f6;ck</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Essl</surname>, <given-names>F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Rabitsch</surname>, <given-names>W.</given-names>
+</string-name> (<year>2011</year>). <article-title>Disproportional risk for habitat loss of high&#x02010;altitude endemic species under climate change</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>17</volume>(<issue>2</issue>), <fpage>990</fpage>&#x02013;<lpage>996</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2010.02266.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0017"><mixed-citation publication-type="journal" id="ece36597-cit-0017">
+<string-name>
+<surname>Dodds</surname>, <given-names>W. K.</given-names>
+</string-name>, <string-name>
+<surname>Gido</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Whiles</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Fritz</surname>, <given-names>K. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Matthews</surname>, <given-names>W. J.</given-names>
+</string-name> (<year>2004</year>). <article-title>Life on the edge: The ecology of Great Plains prairie streams</article-title>. <source xml:lang="en">BioScience</source>, <volume>54</volume>(<issue>3</issue>), <fpage>205</fpage>&#x02013;<lpage>216</lpage>. <pub-id pub-id-type="doi">10.1641/0006-3568(2004)054[0205:LOTETE]2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0018"><mixed-citation publication-type="journal" id="ece36597-cit-0018">
+<string-name>
+<surname>Eaton</surname>, <given-names>J. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Scheller</surname>, <given-names>R. M.</given-names>
+</string-name> (<year>1996</year>). <article-title>Effects of climate warming on fish thermal habitat in streams of the United States</article-title>. <source xml:lang="en">Limnology and Oceanography</source>, <volume>41</volume>(<issue>5</issue>), <fpage>1109</fpage>&#x02013;<lpage>1115</lpage>. <pub-id pub-id-type="doi">10.4319/lo.1996.41.5.1109</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0019"><mixed-citation publication-type="journal" id="ece36597-cit-0019">
+<string-name>
+<surname>Elith</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Graham</surname>, <given-names>C. H.</given-names>
+</string-name> (<year>2009</year>). <article-title>Do they? How do they? WHY do they differ? On finding reasons for differing performances of species distribution models</article-title>. <source xml:lang="en">Ecography</source>, <volume>32</volume>(<issue>1</issue>), <fpage>66</fpage>&#x02013;<lpage>77</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0587.2008.05505.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0020"><mixed-citation publication-type="journal" id="ece36597-cit-0020">
+<string-name>
+<surname>Elith</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>H. Graham</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>P. Anderson</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Dud&#x000ed;k</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Ferrier</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Guisan</surname>, <given-names>A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>E. Zimmermann</surname>, <given-names>N.</given-names>
+</string-name> (<year>2006</year>). <article-title>Novel methods improve prediction of species&#x02019; distributions from occurrence data</article-title>. <source xml:lang="en">Ecography</source>, <volume>29</volume>(<issue>2</issue>), <fpage>129</fpage>&#x02013;<lpage>151</lpage>. <pub-id pub-id-type="doi">10.1111/j.2006.0906-7590.04596.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0021"><mixed-citation publication-type="journal" id="ece36597-cit-0021">
+<string-name>
+<surname>Elith</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kearney</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Phillips</surname>, <given-names>S.</given-names>
+</string-name> (<year>2010</year>). <article-title>The art of modelling range&#x02010;shifting species</article-title>. <source xml:lang="en">Methods in Ecology and Evolution</source>, <volume>1</volume>(<issue>4</issue>), <fpage>330</fpage>&#x02013;<lpage>342</lpage>. <pub-id pub-id-type="doi">10.1111/j.2041-210X.2010.00036.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0022"><mixed-citation publication-type="journal" id="ece36597-cit-0022">
+<string-name>
+<surname>Elith</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Hastie</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Dud&#x000ed;k</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Chee</surname>, <given-names>Y. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Yates</surname>, <given-names>C. J.</given-names>
+</string-name> (<year>2011</year>). <article-title>A statistical explanation of MaxEnt for ecologists</article-title>. <source xml:lang="en">Diversity and Distributions</source>, <volume>17</volume>(<issue>1</issue>), <fpage>43</fpage>&#x02013;<lpage>57</lpage>. <pub-id pub-id-type="doi">10.1111/j.1472-4642.2010.00725.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0023"><mixed-citation publication-type="journal" id="ece36597-cit-0023">
+<string-name>
+<surname>Falke</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Bestgen</surname>, <given-names>K. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fausch</surname>, <given-names>K. D.</given-names>
+</string-name> (<year>2010</year>). <article-title>Streamflow reductions and habitat drying affect growth, survival, and recruitment of brassy minnow across a Great Plains riverscape</article-title>. <source xml:lang="en">Transactions of the American Fisheries Society</source>, <volume>139</volume>(<issue>5</issue>), <fpage>1566</fpage>&#x02013;<lpage>1583</lpage>. <pub-id pub-id-type="doi">10.1577/T09-143.1</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0024"><mixed-citation publication-type="journal" id="ece36597-cit-0024">
+<string-name>
+<surname>Fitzpatrick</surname>, <given-names>K. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Aligning dam removals and road culvert upgrades boosts conservation return&#x02010;on&#x02010;investment</article-title>. <source xml:lang="en">Ecological Modelling</source>, <volume>368</volume>, <fpage>198</fpage>&#x02013;<lpage>204</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2017.11.018</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0025"><mixed-citation publication-type="journal" id="ece36597-cit-0025">
+<string-name>
+<surname>Fitzpatrick</surname>, <given-names>M. C.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hargrove</surname>, <given-names>W. W.</given-names>
+</string-name> (<year>2009</year>). <article-title>The projection of species distribution models and the problem of non&#x02010;analog climate</article-title>. <source xml:lang="en">Biodiversity and Conservation</source>, <volume>18</volume>(<issue>8</issue>), <fpage>2255</fpage>
+<pub-id pub-id-type="doi">10.1007/s10531-009-9584-8</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0026"><mixed-citation publication-type="journal" id="ece36597-cit-0026">
+<string-name>
+<surname>Freeman</surname>, <given-names>E. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Moisen</surname>, <given-names>G. G.</given-names>
+</string-name> (<year>2008</year>). <article-title>A comparison of the performance of threshold criteria for binary classification in terms of predicted prevalence and kappa</article-title>. <source xml:lang="en">Ecological Modelling</source>, <volume>217</volume>(<issue>1&#x02013;2</issue>), <fpage>48</fpage>&#x02013;<lpage>58</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2008.05.015</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0027"><mixed-citation publication-type="journal" id="ece36597-cit-0027">
+<string-name>
+<surname>Game</surname>, <given-names>E. T.</given-names>
+</string-name>, <string-name>
+<surname>Lipsett&#x02010;Moore</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Saxon</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Sheppard</surname>, <given-names>S.</given-names>
+</string-name> (<year>2011</year>). <article-title>Incorporating climate change adaptation into national conservation assessments</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>17</volume>(<issue>10</issue>), <fpage>3150</fpage>&#x02013;<lpage>3160</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2011.02457.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0028"><mixed-citation publication-type="journal" id="ece36597-cit-0028">
+<string-name>
+<surname>Gaston</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2010</year>). <article-title>Valuing common species</article-title>. <source xml:lang="en">Science</source>, <volume>327</volume>(<issue>5962</issue>), <fpage>154</fpage>&#x02013;<lpage>155</lpage>.<pub-id pub-id-type="pmid">20056880</pub-id></mixed-citation></ref><ref id="ece36597-bib-0029"><mixed-citation publication-type="journal" id="ece36597-cit-0029">
+<string-name>
+<surname>Gaston</surname>, <given-names>K. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Fuller</surname>, <given-names>R. A.</given-names>
+</string-name> (<year>2008</year>). <article-title>Commonness, population depletion and conservation biology</article-title>. <source xml:lang="en">Trends in Ecology &#x00026; Evolution</source>, <volume>23</volume>(<issue>1</issue>), <fpage>14</fpage>&#x02013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1016/j.tree.2007.11.001</pub-id>
+<pub-id pub-id-type="pmid">18037531</pub-id></mixed-citation></ref><ref id="ece36597-bib-0030"><mixed-citation publication-type="journal" id="ece36597-cit-0030">
+<string-name>
+<surname>Geider</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Delucia</surname>, <given-names>E. H.</given-names>
+</string-name>, <string-name>
+<surname>Falkowski</surname>, <given-names>P. G.</given-names>
+</string-name>, <string-name>
+<surname>Finzi</surname>, <given-names>A. C.</given-names>
+</string-name>, <string-name>
+<surname>Grime</surname>, <given-names>J. P.</given-names>
+</string-name>, <string-name>
+<surname>Grace</surname>, <given-names>J.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Woodward</surname>, <given-names>F. I.</given-names>
+</string-name> (<year>2001</year>). <article-title>Primary productivity of planet earth: Biological determinants and physical constraints in terrestrial and aquatic habitats</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>7</volume>(<issue>8</issue>), <fpage>849</fpage>&#x02013;<lpage>882</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2486.2001.00448.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0031"><mixed-citation publication-type="journal" id="ece36597-cit-0031">
+<string-name>
+<surname>Grime</surname>, <given-names>J. P.</given-names>
+</string-name> (<year>1998</year>). <article-title>Benefits of plant diversity to ecosystems: Immediate, filter and founder effects</article-title>. <source xml:lang="en">Journal of Ecology</source>, <volume>86</volume>(<issue>6</issue>), <fpage>902</fpage>&#x02013;<lpage>910</lpage>. <pub-id pub-id-type="doi">10.1046/j.1365-2745.1998.00306.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0032"><mixed-citation publication-type="journal" id="ece36597-cit-0032">
+<string-name>
+<surname>Groves</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Game</surname>, <given-names>E. T.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>M. G.</given-names>
+</string-name>, <string-name>
+<surname>Cross</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Enquist</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Ferda&#x000f1;a</surname>, <given-names>Z.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Shafer</surname>, <given-names>S. L.</given-names>
+</string-name> (<year>2012</year>). <article-title>Incorporating climate change into systematic conservation planning</article-title>. <source xml:lang="en">Biodiversity and Conservation</source>, <volume>21</volume>(<issue>7</issue>), <fpage>1651</fpage>&#x02013;<lpage>1671</lpage>. <pub-id pub-id-type="doi">10.1007/s10531-012-0269-3</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0033"><mixed-citation publication-type="journal" id="ece36597-cit-0033">
+<string-name>
+<surname>Guisan</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Tingley</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Baumgartner</surname>, <given-names>J. B.</given-names>
+</string-name>, <string-name>
+<surname>Naujokaitis&#x02010;Lewis</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<surname>Sutcliffe</surname>, <given-names>P. R.</given-names>
+</string-name>, <string-name>
+<surname>Tulloch</surname>, <given-names>A. I. T.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Buckley</surname>, <given-names>Y. M.</given-names>
+</string-name> (<year>2013</year>). <article-title>Predicting species distributions for conservation decisions</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>16</volume>(<issue>12</issue>), <fpage>1424</fpage>&#x02013;<lpage>1435</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12189</pub-id>
+<pub-id pub-id-type="pmid">24134332</pub-id></mixed-citation></ref><ref id="ece36597-bib-0034"><mixed-citation publication-type="journal" id="ece36597-cit-0034">
+<string-name>
+<surname>Guo</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Zamanisabzi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>, <given-names>J. K.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mistree</surname>, <given-names>F.</given-names>
+</string-name> (<year>2019</year>). <article-title>Managing Conflicting Water Resource Goals and Uncertainties in a Dam Network by Exploring the Solution Space</article-title>. <source xml:lang="en">Journal of Mechanical Design</source>, <volume>141</volume>(<issue>3</issue>), <elocation-id>031702</elocation-id>
+<pub-id pub-id-type="doi">10.1115/1.4042211</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0035"><mixed-citation publication-type="book" id="ece36597-cit-0035">
+<string-name>
+<surname>Hayhoe</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Edmonds</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Kopp</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>LeGrande</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Sanderson</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Wehner</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wuebbles</surname>, <given-names>D.</given-names>
+</string-name> (<year>2017</year>). <source xml:lang="en">Climate models, scenarios, and projections</source>.</mixed-citation></ref><ref id="ece36597-bib-0036"><mixed-citation publication-type="book" id="ece36597-cit-0036">
+<string-name>
+<surname>Hernandez</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2015</year>). <source xml:lang="en">Ecological Niche modeling of <italic toggle="yes">Pteronotropis hubbsi</italic>, the Bluehead Shiner: Evaluating the effects of spatial filtering and maxent features across various spacial extents</source>. M.S. Thesis, <publisher-name>University of Texas &#x02013; Tyler</publisher-name>.</mixed-citation></ref><ref id="ece36597-bib-0037"><mixed-citation publication-type="journal" id="ece36597-cit-0037">
+<string-name>
+<surname>Higgins</surname>, <given-names>C. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilde</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>2005</year>). <article-title>The role of salinity in structuring fish assemblages in a prairie stream system</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>549</volume>(<issue>1</issue>), <fpage>197</fpage>&#x02013;<lpage>203</lpage>. <pub-id pub-id-type="doi">10.1007/s10750-005-0844-7</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0038"><mixed-citation publication-type="journal" id="ece36597-cit-0038">
+<string-name>
+<surname>Hijmans</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Leathwick</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Elith</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Maintainer</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2017</year>). <article-title>Hijmans. "Package &#x02018;dismo&#x02019;."</article-title>. <source xml:lang="en">Circles</source>, <volume>9</volume>(<issue>1</issue>), <fpage>1</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="ece36597-bib-0137"><mixed-citation publication-type="journal" id="ece36597-cit-0137">
+<string-name>
+<surname>Hoagstrom</surname>, <given-names>C. W.</given-names>
+</string-name>, <string-name>
+<surname>Brooks</surname>, <given-names>J. E.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Davenport</surname>, <given-names>S. R.</given-names>
+</string-name> (<year>2011</year>). <article-title>A large&#x02010;scale conservation perspective considering endemic fishes of the North American plains</article-title>. <source xml:lang="en">Biological Conservation</source>, <volume>144</volume>(<issue>1</issue>), <fpage>21</fpage>&#x02013;<lpage>34</lpage>.</mixed-citation></ref><ref id="ece36597-bib-0138"><mixed-citation publication-type="journal" id="ece36597-cit-0138">
+<string-name>
+<surname>Hoagstrom</surname>, <given-names>C. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Turner</surname>, <given-names>T. F.</given-names>
+</string-name> (<year>2015</year>). <article-title>Recruitment ecology of pelagic&#x02010;broadcast spawning minnows: paradigms from the ocean advance science and conservation of an imperilled freshwater fauna</article-title>. <source xml:lang="en">Fish and Fisheries</source>, <volume>16</volume>(<issue>2</issue>), <fpage>282</fpage>&#x02013;<lpage>299</lpage>.</mixed-citation></ref><ref id="ece36597-bib-0039"><mixed-citation publication-type="journal" id="ece36597-cit-0039">
+<string-name>
+<surname>Kark</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Grantham</surname>, <given-names>H. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Possingham</surname>, <given-names>H. P.</given-names>
+</string-name> (<year>2009</year>). <article-title>Between&#x02010;country collaboration and consideration of costs increase conservation planning efficiency in the Mediterranean Basin</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>106</volume>(<issue>36</issue>), <fpage>15368</fpage>&#x02013;<lpage>15373</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0901001106</pub-id>
+<pub-id pub-id-type="pmid">19717457</pub-id></mixed-citation></ref><ref id="ece36597-bib-0040"><mixed-citation publication-type="journal" id="ece36597-cit-0040">
+<string-name>
+<surname>Keppel</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Van Niel</surname>, <given-names>K. P.</given-names>
+</string-name>, <string-name>
+<surname>Wardell&#x02010;Johnson</surname>, <given-names>G. W.</given-names>
+</string-name>, <string-name>
+<surname>Yates</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Byrne</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Mucina</surname>, <given-names>L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Franklin</surname>, <given-names>S. E.</given-names>
+</string-name> (<year>2012</year>). <article-title>Refugia: Identifying and understanding safe havens for biodiversity under climate change</article-title>. <source xml:lang="en">Global Ecology and Biogeography</source>, <volume>21</volume>(<issue>4</issue>), <fpage>393</fpage>&#x02013;<lpage>404</lpage>. <pub-id pub-id-type="doi">10.1111/j.1466-8238.2011.00686.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0041"><mixed-citation publication-type="journal" id="ece36597-cit-0041">
+<string-name>
+<surname>Kriebel</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Tickner</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Epstein</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Lemons</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Levins</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Loechler</surname>, <given-names>E. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Stoto</surname>, <given-names>M.</given-names>
+</string-name> (<year>2001</year>). <article-title>The precautionary principle in environmental science</article-title>. <source xml:lang="en">Environmental Health Perspectives</source>, <volume>109</volume>(<issue>9</issue>), <fpage>871</fpage>&#x02013;<lpage>876</lpage>. <pub-id pub-id-type="doi">10.1289/ehp.01109871</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0042"><mixed-citation publication-type="book" id="ece36597-cit-0042">
+<string-name>
+<surname>Labay</surname>, <given-names>B. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Hendrickson</surname>, <given-names>D. A.</given-names>
+</string-name> (<year>2014</year>). <source xml:lang="en">Final Report: Conservation assessment and mapping products for GPLCC priority fish taxa</source>. Submitted to the United States Department of Interior, Fish &#x00026; Wildlife Service, Great Plains Landscape Conservation Cooperative; The University of Texas at Austin, December 31st, 2014. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/2152/27744">http://hdl.handle.net/2152/27744</ext-link>
+</mixed-citation></ref><ref id="ece36597-bib-0043"><mixed-citation publication-type="book" id="ece36597-cit-0043">
+<string-name>
+<surname>Lawler</surname>, <given-names>J. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Michalak</surname>, <given-names>J.</given-names>
+</string-name> (<year>2018</year>). <chapter-title>Planning for climate change without climate projections?</chapter-title> In <person-group person-group-type="editor"><name name-style="western"><surname>Kareiva</surname><given-names>P.</given-names></name></person-group>, <person-group person-group-type="editor"><name name-style="western"><surname>Marvier</surname><given-names>M.</given-names></name></person-group>, &#x00026; <person-group person-group-type="editor"><name name-style="western"><surname>Silliman</surname><given-names>B.</given-names></name></person-group> (Eds.), <source xml:lang="en">Effective conservation science: Data not dogma</source>, <publisher-loc>Oxford, UK</publisher-loc>: . <publisher-name>Oxford University Press</publisher-name>.</mixed-citation></ref><ref id="ece36597-bib-0044"><mixed-citation publication-type="journal" id="ece36597-cit-0044">
+<string-name>
+<surname>Lawler</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>White</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Neilson</surname>, <given-names>R. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Blaustein</surname>, <given-names>A. R.</given-names>
+</string-name> (<year>2006</year>). <article-title>Predicting climate&#x02010;induced range shifts: Model differences and model reliability</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>12</volume>(<issue>8</issue>), <fpage>1568</fpage>&#x02013;<lpage>1584</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2006.01191.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0045"><mixed-citation publication-type="journal" id="ece36597-cit-0045">
+<string-name>
+<surname>Liang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>, <given-names>E. F.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Lettenmaier</surname>, <given-names>D. P.</given-names>
+</string-name> (<year>1996</year>). <article-title>Surface soil moisture parameterization of the VIC&#x02010;2L model: Evaluation and modification</article-title>. <source xml:lang="en">Global and Planetary Change</source>, <volume>13</volume>(<issue>1&#x02013;4</issue>), <fpage>195</fpage>&#x02013;<lpage>206</lpage>. <pub-id pub-id-type="doi">10.1016/0921-8181(95)00046-1</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0046"><mixed-citation publication-type="journal" id="ece36597-cit-0046">
+<string-name>
+<surname>Matthews</surname>, <given-names>W. J.</given-names>
+</string-name>, <string-name>
+<surname>Vaughn</surname>, <given-names>C. C.</given-names>
+</string-name>, <string-name>
+<surname>Gido</surname>, <given-names>K. B.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Marsh&#x02010;Matthews</surname>, <given-names>E. D. I. E.</given-names>
+</string-name> (<year>2005</year>). <article-title>Southern plains rivers</article-title>. <source xml:lang="en">Rivers of North America</source>, <fpage>282</fpage>&#x02013;<lpage>325</lpage>.</mixed-citation></ref><ref id="ece36597-bib-0047"><mixed-citation publication-type="journal" id="ece36597-cit-0047">
+<string-name>
+<surname>Matthews</surname>, <given-names>W. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zimmerman</surname>, <given-names>E. G.</given-names>
+</string-name> (<year>1990</year>). <article-title>Potential effects of global warming on native fishes of the southern Great Plains and the Southwest</article-title>. <source xml:lang="en">Fisheries</source>, <volume>15</volume>(<issue>6</issue>), <fpage>26</fpage>&#x02013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1577/1548-8446(1990)015&#x0003c;0026:PEOGWO&#x0003e;2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0048"><mixed-citation publication-type="journal" id="ece36597-cit-0048">
+<string-name>
+<surname>Mayden</surname>, <given-names>R. L.</given-names>
+</string-name> (<year>1985</year>). <article-title>Biogeography of Ouachita highland fishes</article-title>. <source xml:lang="en">The Southwestern Naturalist</source>, <fpage>195</fpage>&#x02013;<lpage>211</lpage>. <pub-id pub-id-type="doi">10.2307/3670734</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0049"><mixed-citation publication-type="book" id="ece36597-cit-0049">
+<string-name>
+<surname>McPherson</surname>, <given-names>R.</given-names>
+</string-name> et al. (<year>2016</year>). <source xml:lang="en">Impacts of Climate Change on Flows in the Red River Basin</source>. Final Report to the South Central Climate Science Center, Norman, OK, Report, (G13AC00386).</mixed-citation></ref><ref id="ece36597-bib-0050"><mixed-citation publication-type="journal" id="ece36597-cit-0050">
+<string-name>
+<surname>Merow</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>M. J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Silander</surname>, <given-names>J. A.</given-names>
+<suffix>Jr</suffix>
+</string-name> (<year>2013</year>). <article-title>A practical guide to MaxEnt for modeling species&#x02019; distributions: What it does, and why inputs and settings matter</article-title>. <source xml:lang="en">Ecography</source>, <volume>36</volume>(<issue>10</issue>), <fpage>1058</fpage>&#x02013;<lpage>1069</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0587.2013.07872.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0051"><mixed-citation publication-type="journal" id="ece36597-cit-0051">
+<string-name>
+<surname>Milt</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name>
+<surname>Diebel</surname>, <given-names>M. W.</given-names>
+</string-name>, <string-name>
+<surname>Doran</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Ferris</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Herbert</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Khoury</surname>, <given-names>M. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>McIntyre</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Minimizing opportunity costs to aquatic connectivity restoration while controlling an invasive species</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>32</volume>(<issue>4</issue>), <fpage>894</fpage>&#x02013;<lpage>904</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.13105</pub-id>
+<pub-id pub-id-type="pmid">29813172</pub-id></mixed-citation></ref><ref id="ece36597-bib-0052"><mixed-citation publication-type="journal" id="ece36597-cit-0052">
+<string-name>
+<surname>Milt</surname>, <given-names>A. W.</given-names>
+</string-name>, <string-name>
+<surname>Doran</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Ferris</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Moody</surname>, <given-names>A. T.</given-names>
+</string-name>, <string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McIntyre</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2017</year>). <article-title>Local&#x02010;scale benefits of river connectivity restoration planning beyond jurisdictional boundaries</article-title>. <source xml:lang="en">River Research and Applications</source>, <volume>33</volume>(<issue>5</issue>), <fpage>788</fpage>&#x02013;<lpage>795</lpage>. <pub-id pub-id-type="doi">10.1002/rra.3135</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0053"><mixed-citation publication-type="journal" id="ece36597-cit-0053">
+<string-name>
+<surname>Morin</surname>, <given-names>X.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thuiller</surname>, <given-names>W.</given-names>
+</string-name> (<year>2009</year>). <article-title>Comparing niche&#x02010;and process&#x02010;based models to reduce prediction uncertainty in species range shifts under climate change</article-title>. <source xml:lang="en">Ecology</source>, <volume>90</volume>(<issue>5</issue>), <fpage>1301</fpage>&#x02013;<lpage>1313</lpage>. <pub-id pub-id-type="doi">10.1890/08-0134.1</pub-id>
+<pub-id pub-id-type="pmid">19537550</pub-id></mixed-citation></ref><ref id="ece36597-bib-0054"><mixed-citation publication-type="journal" id="ece36597-cit-0054">
+<string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Doran</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>Ferris</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Fitzpatrick</surname>, <given-names>K. B.</given-names>
+</string-name>, <string-name>
+<surname>Herbert</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Khoury</surname>, <given-names>M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>McIntyre</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2018</year>). <article-title>Conserving rare species can have high opportunity costs for common species</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>24</volume>(<issue>8</issue>), <fpage>3862</fpage>&#x02013;<lpage>3872</lpage>. <pub-id pub-id-type="doi">10.1111/gcb.14162</pub-id>
+<pub-id pub-id-type="pmid">29654612</pub-id></mixed-citation></ref><ref id="ece36597-bib-0055"><mixed-citation publication-type="journal" id="ece36597-cit-0055">
+<string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Ferris</surname>, <given-names>M. C.</given-names>
+</string-name>, <string-name>
+<surname>Diebel</surname>, <given-names>M. W.</given-names>
+</string-name>, <string-name>
+<surname>Doran</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name>
+<surname>O&#x02019;Hanley</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McIntyre</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2015</year>). <article-title>Enhancing ecosystem restoration efficiency through spatial and temporal coordination</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>112</volume>(<issue>19</issue>), <fpage>6236</fpage>&#x02013;<lpage>6241</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.1423812112</pub-id>
+<pub-id pub-id-type="pmid">25918378</pub-id></mixed-citation></ref><ref id="ece36597-bib-0056"><mixed-citation publication-type="journal" id="ece36597-cit-0056">
+<string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>S. D.</given-names>
+</string-name>, <string-name>
+<surname>Allan</surname>, <given-names>J. D.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>McIntyre</surname>, <given-names>P. B.</given-names>
+</string-name> (<year>2016</year>). <article-title>Prioritizing ecological restoration among sites in multi&#x02010;stressor landscapes</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>26</volume>(<issue>6</issue>), <fpage>1785</fpage>&#x02013;<lpage>1796</lpage>. <pub-id pub-id-type="doi">10.1890/15-0948.1</pub-id>
+<pub-id pub-id-type="pmid">27755704</pub-id></mixed-citation></ref><ref id="ece36597-bib-0057"><mixed-citation publication-type="journal" id="ece36597-cit-0057">
+<string-name>
+<surname>Nu&#x000f1;ez</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Lawler</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Mcrae</surname>, <given-names>B. H.</given-names>
+</string-name>, <string-name>
+<surname>Pierce</surname>, <given-names>D. J.</given-names>
+</string-name>, <string-name>
+<surname>Krosby</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Kavanagh</surname>, <given-names>D. M.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Tewksbury</surname>, <given-names>J. J.</given-names>
+</string-name> (<year>2013</year>). <article-title>Connectivity planning to address climate change</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>27</volume>(<issue>2</issue>), <fpage>407</fpage>&#x02013;<lpage>416</lpage>. <pub-id pub-id-type="doi">10.1111/cobi.12014</pub-id>
+<pub-id pub-id-type="pmid">23410037</pub-id></mixed-citation></ref><ref id="ece36597-bib-0058"><mixed-citation publication-type="journal" id="ece36597-cit-0058">
+<string-name>
+<surname>Ohlem&#x000fc;ller</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>B. J.</given-names>
+</string-name>, <string-name>
+<surname>Ara&#x000fa;jo</surname>, <given-names>M. B.</given-names>
+</string-name>, <string-name>
+<surname>Butchart</surname>, <given-names>S. H.</given-names>
+</string-name>, <string-name>
+<surname>Kudrna</surname>, <given-names>O.</given-names>
+</string-name>, <string-name>
+<surname>Ridgely</surname>, <given-names>R. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Thomas</surname>, <given-names>C. D.</given-names>
+</string-name> (<year>2008</year>). <article-title>The coincidence of climatic and species rarity: High risk to small&#x02010;range species from climate change</article-title>. <source xml:lang="en">Biology Letters</source>, <volume>4</volume>(<issue>5</issue>), <fpage>568</fpage>&#x02013;<lpage>572</lpage>. <pub-id pub-id-type="doi">10.1098/rsbl.2008.0097</pub-id>
+<pub-id pub-id-type="pmid">18664421</pub-id></mixed-citation></ref><ref id="ece36597-bib-0059"><mixed-citation publication-type="journal" id="ece36597-cit-0059">
+<string-name>
+<surname>Ostrand</surname>, <given-names>K. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilde</surname>, <given-names>G. R.</given-names>
+</string-name> (<year>2001</year>). <article-title>Temperature, dissolved oxygen, and salinity tolerances of five prairie stream fishes and their role in explaining fish assemblage patterns</article-title>. <source xml:lang="en">Transactions of the American Fisheries Society</source>, <volume>130</volume>(<issue>5</issue>), <fpage>742</fpage>&#x02013;<lpage>749</lpage>. <pub-id pub-id-type="doi">10.1577/1548-8659(2001)130&#x0003c;0742:TDOAST&#x0003e;2.0.CO;2</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0060"><mixed-citation publication-type="journal" id="ece36597-cit-0060">
+<string-name>
+<surname>Pearson</surname>, <given-names>R. G.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Dawson</surname>, <given-names>T. P.</given-names>
+</string-name> (<year>2003</year>). <article-title>Predicting the impacts of climate change on the distribution of species: Are bioclimate envelope models useful?</article-title>
+<source xml:lang="en">Global Ecology and Biogeography</source>, <volume>12</volume>(<issue>5</issue>), <fpage>361</fpage>&#x02013;<lpage>371</lpage>. <pub-id pub-id-type="doi">10.1046/j.1466-822X.2003.00042.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0061"><mixed-citation publication-type="journal" id="ece36597-cit-0061">
+<string-name>
+<surname>Perkin</surname>, <given-names>J. S.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Gido</surname>, <given-names>K. B.</given-names>
+</string-name> (<year>2011</year>). <article-title>Stream fragmentation thresholds for a reproductive guild of Great Plains fishes</article-title>. <source xml:lang="en">Fisheries</source>, <volume>36</volume>(<issue>8</issue>), <fpage>371</fpage>&#x02013;<lpage>383</lpage>. <pub-id pub-id-type="doi">10.1080/03632415.2011.597666</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0062"><mixed-citation publication-type="journal" id="ece36597-cit-0062">
+<string-name>
+<surname>Perkin</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name>
+<surname>Gido</surname>, <given-names>K. B.</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>, <given-names>T. F.</given-names>
+</string-name>, <string-name>
+<surname>Osborne</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>E. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Mayes</surname>, <given-names>K. B.</given-names>
+</string-name> (<year>2015</year>). <article-title>Fragmentation and dewatering transform Great Plains stream fish communities</article-title>. <source xml:lang="en">Ecological Monographs</source>, <volume>85</volume>(<issue>1</issue>), <fpage>73</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1890/14-0121.1</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0063"><mixed-citation publication-type="journal" id="ece36597-cit-0063">
+<string-name>
+<surname>Phillips</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>, <given-names>R. P.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Schapire</surname>, <given-names>R. E.</given-names>
+</string-name> (<year>2006</year>). <article-title>Maximum entropy modeling of species geographic distributions</article-title>. <source xml:lang="en">Ecological Modelling</source>, <volume>190</volume>(<issue>3&#x02013;4</issue>), <fpage>231</fpage>&#x02013;<lpage>259</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2005.03.026</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0064"><mixed-citation publication-type="journal" id="ece36597-cit-0064">
+<string-name>
+<surname>Poff</surname>, <given-names>N. L.</given-names>
+</string-name>, <string-name>
+<surname>Richter</surname>, <given-names>B. D.</given-names>
+</string-name>, <string-name>
+<surname>Arthington</surname>, <given-names>A. H.</given-names>
+</string-name>, <string-name>
+<surname>Bunn</surname>, <given-names>S. E.</given-names>
+</string-name>, <string-name>
+<surname>Naiman</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name>
+<surname>Kendy</surname>, <given-names>E.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Warner</surname>, <given-names>A.</given-names>
+</string-name> (<year>2010</year>). <article-title>The ecological limits of hydrologic alteration (ELOHA): A new framework for developing regional environmental flow standards</article-title>. <source xml:lang="en">Freshwater Biology</source>, <volume>55</volume>(<issue>1</issue>), <fpage>147</fpage>&#x02013;<lpage>170</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2427.2009.02204.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0065"><mixed-citation publication-type="journal" id="ece36597-cit-0065">
+<string-name>
+<surname>Poff</surname>, <given-names>N. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Zimmerman</surname>, <given-names>J. K.</given-names>
+</string-name> (<year>2010</year>). <article-title>Ecological responses to altered flow regimes: A literature review to inform the science and management of environmental flows</article-title>. <source xml:lang="en">Freshwater Biology</source>, <volume>55</volume>(<issue>1</issue>), <fpage>194</fpage>&#x02013;<lpage>205</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2427.2009.02272.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0066"><mixed-citation publication-type="journal" id="ece36597-cit-0066">
+<string-name>
+<surname>Popejoy</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Randklev</surname>, <given-names>C. R.</given-names>
+</string-name>, <string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Vaughn</surname>, <given-names>C. C.</given-names>
+</string-name> (<year>2018</year>). <article-title>Prioritizing mussel beds for conservation based on similarity to historical baselines and feasibility of protection</article-title>. <source xml:lang="en">Conservation Biology</source>, <volume>32</volume>, <fpage>1118</fpage>&#x02013;<lpage>1127</lpage>.<pub-id pub-id-type="pmid">29738619</pub-id></mixed-citation></ref><ref id="ece36597-bib-0067"><mixed-citation publication-type="journal" id="ece36597-cit-0067">
+<string-name>
+<surname>Pyron</surname>, <given-names>M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Taylor</surname>, <given-names>C. M.</given-names>
+</string-name> (<year>1993</year>). <article-title>Fish community structure of Oklahoma gulf coastal plains</article-title>. <source xml:lang="en">Hydrobiologia</source>, <volume>257</volume>(<issue>1</issue>), <fpage>29</fpage>&#x02013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.1007/BF00013994</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0068"><mixed-citation publication-type="journal" id="ece36597-cit-0068">
+<string-name>
+<surname>Radeloff</surname>, <given-names>V. C.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Bateman</surname>, <given-names>B. L.</given-names>
+</string-name>, <string-name>
+<surname>Burke</surname>, <given-names>K. D.</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>, <given-names>S. K.</given-names>
+</string-name>, <string-name>
+<surname>Childress</surname>, <given-names>E. S.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Usinowicz</surname>, <given-names>J.</given-names>
+</string-name> (<year>2015</year>). <article-title>The rise of novelty in ecosystems</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>25</volume>(<issue>8</issue>), <fpage>2051</fpage>&#x02013;<lpage>2068</lpage>. <pub-id pub-id-type="doi">10.1890/14-1781.1</pub-id>
+<pub-id pub-id-type="pmid">26910939</pub-id></mixed-citation></ref><ref id="ece36597-bib-0069"><mixed-citation publication-type="journal" id="ece36597-cit-0069">
+<string-name>
+<surname>Radosavljevic</surname>, <given-names>A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Anderson</surname>, <given-names>R. P.</given-names>
+</string-name> (<year>2014</year>). <article-title>Making better Maxent models of species distributions: Complexity, overfitting and evaluation</article-title>. <source xml:lang="en">Journal of Biogeography</source>, <volume>41</volume>(<issue>4</issue>), <fpage>629</fpage>&#x02013;<lpage>643</lpage>.</mixed-citation></ref><ref id="ece36597-bib-0070"><mixed-citation publication-type="journal" id="ece36597-cit-0070">
+<string-name>
+<surname>Sawyer</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Kauffman</surname>, <given-names>M. J.</given-names>
+</string-name>, <string-name>
+<surname>Nielson</surname>, <given-names>R. M.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Horne</surname>, <given-names>J. S.</given-names>
+</string-name> (<year>2009</year>). <article-title>Identifying and prioritizing ungulate migration routes for landscape&#x02010;level conservation</article-title>. <source xml:lang="en">Ecological Applications</source>, <volume>19</volume>(<issue>8</issue>), <fpage>2016</fpage>&#x02013;<lpage>2025</lpage>. <pub-id pub-id-type="doi">10.1890/08-2034.1</pub-id>
+<pub-id pub-id-type="pmid">20014575</pub-id></mixed-citation></ref><ref id="ece36597-bib-0071"><mixed-citation publication-type="journal" id="ece36597-cit-0071">
+<string-name>
+<surname>Scholze</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Knorr</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Arnell</surname>, <given-names>N. W.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Prentice</surname>, <given-names>I. C.</given-names>
+</string-name> (<year>2006</year>). <article-title>A climate&#x02010;change risk analysis for world ecosystems</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>103</volume>(<issue>35</issue>), <fpage>13116</fpage>&#x02013;<lpage>13120</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0601816103</pub-id>
+<pub-id pub-id-type="pmid">16924112</pub-id></mixed-citation></ref><ref id="ece36597-bib-0072"><mixed-citation publication-type="journal" id="ece36597-cit-0072">
+<string-name>
+<surname>Sheffield</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Barrett</surname>, <given-names>A. P.</given-names>
+</string-name>, <string-name>
+<surname>Colle</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Nelun Fernando</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Geil</surname>, <given-names>K. L.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Lombardo</surname>, <given-names>K.</given-names>
+</string-name> (<year>2013</year>). <article-title>North American climate in CMIP5 experiments. Part I: Evaluation of historical simulations of continental and regional climatology</article-title>. <source xml:lang="en">Journal of Climate</source>, <volume>26</volume>(<issue>23</issue>), <fpage>9209</fpage>&#x02013;<lpage>9245</lpage>.</mixed-citation></ref><ref id="ece36597-bib-0073"><mixed-citation publication-type="journal" id="ece36597-cit-0073">
+<string-name>
+<surname>Sleight</surname>, <given-names>N.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name> (<year>2018</year>). <article-title>Opportunities for collaboration between infrastructure agencies and conservation groups: Road&#x02010;stream crossings in Oklahoma</article-title>. <source xml:lang="en">Transportation Research Part D: Transport and Environment</source>, <volume>63</volume>, <fpage>622</fpage>&#x02013;<lpage>631</lpage>. <pub-id pub-id-type="doi">10.1016/j.trd.2018.07.002</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0074"><mixed-citation publication-type="journal" id="ece36597-cit-0074">
+<string-name>
+<surname>Swets</surname>, <given-names>J. A.</given-names>
+</string-name> (<year>1988</year>). <article-title>Measuring the accuracy of diagnostic systems</article-title>. <source xml:lang="en">Science</source>, <volume>240</volume>(<issue>4857</issue>), <fpage>1285</fpage>&#x02013;<lpage>1293</lpage>. <pub-id pub-id-type="doi">10.1126/science.3287615</pub-id>
+<pub-id pub-id-type="pmid">3287615</pub-id></mixed-citation></ref><ref id="ece36597-bib-0075"><mixed-citation publication-type="journal" id="ece36597-cit-0075">
+<string-name>
+<surname>Thomas</surname>, <given-names>C. D.</given-names>
+</string-name>, <string-name>
+<surname>Cameron</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Bakkenes</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Beaumont</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name>
+<surname>Collingham</surname>, <given-names>Y. C.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Hughes</surname>, <given-names>L.</given-names>
+</string-name> (<year>2004</year>). <article-title>Extinction risk from climate change</article-title>. <source xml:lang="en">Nature</source>, <volume>427</volume>(<issue>6970</issue>), <fpage>145</fpage>.<pub-id pub-id-type="pmid">14712274</pub-id></mixed-citation></ref><ref id="ece36597-bib-0076"><mixed-citation publication-type="journal" id="ece36597-cit-0076">
+<string-name>
+<surname>Thuiller</surname>, <given-names>W.</given-names>
+</string-name> (<year>2004</year>). <article-title>Patterns and uncertainties of species' range shifts under climate change</article-title>. <source xml:lang="en">Global Change Biology</source>, <volume>10</volume>(<issue>12</issue>), <fpage>2020</fpage>&#x02013;<lpage>2027</lpage>. <pub-id pub-id-type="doi">10.1111/j.1365-2486.2004.00859.x</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0077"><mixed-citation publication-type="journal" id="ece36597-cit-0077">
+<string-name>
+<surname>Wiens</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Stralberg</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jongsomjit</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Howell</surname>, <given-names>C. A.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Snyder</surname>, <given-names>M. A.</given-names>
+</string-name> (<year>2009</year>). <article-title>Niches, models, and climate change: Assessing the assumptions and uncertainties</article-title>. <source xml:lang="en">Proceedings of the National Academy of Sciences of the USA</source>, <volume>106</volume>(<issue>Supplement 2</issue>), <fpage>19729</fpage>&#x02013;<lpage>19736</lpage>. <pub-id pub-id-type="doi">10.1073/pnas.0901639106</pub-id>
+<pub-id pub-id-type="pmid">19822750</pub-id></mixed-citation></ref><ref id="ece36597-bib-0078"><mixed-citation publication-type="journal" id="ece36597-cit-0078">
+<string-name>
+<surname>Wilby</surname>, <given-names>R. L.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wigley</surname>, <given-names>T. M. L.</given-names>
+</string-name> (<year>1997</year>). <article-title>Downscaling general circulation model output: A review of methods and limitations</article-title>. <source xml:lang="en">Progress in Physical Geography</source>, <volume>21</volume>(<issue>4</issue>), <fpage>530</fpage>&#x02013;<lpage>548</lpage>. <pub-id pub-id-type="doi">10.1177/030913339702100403</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0079"><mixed-citation publication-type="journal" id="ece36597-cit-0079">
+<string-name>
+<surname>Wilby</surname>, <given-names>R. L.</given-names>
+</string-name>, <string-name>
+<surname>Wigley</surname>, <given-names>T. M. L.</given-names>
+</string-name>, <string-name>
+<surname>Conway</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Jones</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<surname>Hewitson</surname>, <given-names>B. C.</given-names>
+</string-name>, <string-name>
+<surname>Main</surname>, <given-names>J.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Wilks</surname>, <given-names>D. S.</given-names>
+</string-name> (<year>1998</year>). <article-title>Statistical downscaling of general circulation model output: A comparison of methods</article-title>. <source xml:lang="en">Water Resources Research</source>, <volume>34</volume>(<issue>11</issue>), <fpage>2995</fpage>&#x02013;<lpage>3008</lpage>. <pub-id pub-id-type="doi">10.1029/98WR02577</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0080"><mixed-citation publication-type="journal" id="ece36597-cit-0080">
+<string-name>
+<surname>Winfree</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>W. Fox</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Reilly</surname>, <given-names>J. R.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Cariveau</surname>, <given-names>D. P.</given-names>
+</string-name> (<year>2015</year>). <article-title>Abundance of common species, not species richness, drives delivery of a real&#x02010;world ecosystem service</article-title>. <source xml:lang="en">Ecology Letters</source>, <volume>18</volume>(<issue>7</issue>), <fpage>626</fpage>&#x02013;<lpage>635</lpage>. <pub-id pub-id-type="doi">10.1111/ele.12424</pub-id>
+<pub-id pub-id-type="pmid">25959973</pub-id></mixed-citation></ref><ref id="ece36597-bib-0081"><mixed-citation publication-type="journal" id="ece36597-cit-0081">
+<string-name>
+<surname>Xue</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Gourley</surname>, <given-names>J. J.</given-names>
+</string-name>, <string-name>
+<surname>Kellogg</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>McPherson</surname>, <given-names>R. A.</given-names>
+</string-name>, &#x02026; <string-name>
+<surname>Austin</surname>, <given-names>B. N.</given-names>
+</string-name> (<year>2015</year>). <article-title>New multisite cascading calibration approach for hydrological models: Case study in the red river basin using the VIC model</article-title>. <source xml:lang="en">Journal of Hydrologic Engineering</source>, <volume>21</volume>(<issue>2</issue>), <elocation-id>05015019</elocation-id>
+<pub-id pub-id-type="doi">10.1061/(ASCE)HE.1943-5584.0001282</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0082"><mixed-citation publication-type="journal" id="ece36597-cit-0082">
+<string-name>
+<surname>Zamani Sabzi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>, <given-names>H. A.</given-names>
+</string-name>, <string-name>
+<surname>Fovargue</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Xue</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Hong</surname>, <given-names>Y.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Comparison of projected water availability and demand reveals future hotspots of water stress in the Red River basin, USA</article-title>. <source xml:lang="en">Journal of Hydrology: Regional Studies</source>, <volume>26</volume>, <elocation-id>100638</elocation-id>
+<pub-id pub-id-type="doi">10.1016/j.ejrh.2019.100638</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0083"><mixed-citation publication-type="journal" id="ece36597-cit-0083">
+<string-name>
+<surname>Zamani Sabzi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Rezapour</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Fovargue</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Moreno</surname>, <given-names>H.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Neeson</surname>, <given-names>T. M.</given-names>
+</string-name> (<year>2019</year>). <article-title>Strategic allocation of water conservation incentives to balance environmental flows and societal outcomes</article-title>. <source xml:lang="en">Ecological Engineering</source>, <volume>127</volume>, <fpage>160</fpage>&#x02013;<lpage>169</lpage>. <pub-id pub-id-type="doi">10.1016/j.ecoleng.2018.11.005</pub-id>
+</mixed-citation></ref><ref id="ece36597-bib-0084"><mixed-citation publication-type="journal" id="ece36597-cit-0084">
+<string-name>
+<surname>Zhang</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>, <given-names>C. Y.</given-names>
+</string-name>, <string-name>
+<surname>Tao</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>, <given-names>T.</given-names>
+</string-name>, &#x00026; <string-name>
+<surname>Chen</surname>, <given-names>Y. D.</given-names>
+</string-name> (<year>2010</year>). <article-title>Climate changes and their impacts on water resources in the arid regions: A case study of the Tarim River basin, China</article-title>. <source xml:lang="en">Stochastic Environmental Research and Risk Assessment</source>, <volume>24</volume>(<issue>3</issue>), <fpage>349</fpage>&#x02013;<lpage>358</lpage>. <pub-id pub-id-type="doi">10.1007/s00477-009-0324-0</pub-id>
+</mixed-citation></ref></ref-list></back></article>

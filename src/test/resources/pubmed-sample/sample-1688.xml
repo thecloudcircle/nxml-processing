@@ -1,0 +1,1043 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1582-4934</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">31240820</article-id><article-id pub-id-type="pmc">6714214</article-id><article-id pub-id-type="doi">10.1111/jcmm.14510</article-id><article-id pub-id-type="publisher-id">JCMM14510</article-id><article-categories><subj-group subj-group-type="overline"><subject>Review</subject></subj-group><subj-group subj-group-type="heading"><subject>Reviews</subject></subj-group></article-categories><title-group><article-title>Non&#x02010;coding RNA involvement in the pathogenesis of diabetic cardiomyopathy</article-title><alt-title alt-title-type="left-running-head">ZHANG et al.</alt-title></title-group><contrib-group><contrib id="jcmm14510-cr-0001" contrib-type="author"><name><surname>Zhang</surname><given-names>Wei</given-names></name><xref ref-type="aff" rid="jcmm14510-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14510-cr-0002" contrib-type="author"><name><surname>Xu</surname><given-names>Weiting</given-names></name><xref ref-type="aff" rid="jcmm14510-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm14510-cr-0003" contrib-type="author"><name><surname>Feng</surname><given-names>Yu</given-names></name><xref ref-type="aff" rid="jcmm14510-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm14510-cr-0004" contrib-type="author" corresp="yes"><name><surname>Zhou</surname><given-names>Xiang</given-names></name><contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6722-5800</contrib-id><address><email>zhou-xiang@suda.edu.cn</email></address><xref ref-type="aff" rid="jcmm14510-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jcmm14510-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Cardiology</named-content>
+<institution>The Second Affiliated Hospital of Soochow University</institution>
+<named-content content-type="city">Suzhou</named-content>
+<country country="CN">China</country>
+</aff><aff id="jcmm14510-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Endocrinology</named-content>
+<institution>The Second Affiliated Hospital of Soochow University</institution>
+<named-content content-type="city">Suzhou</named-content>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Xiang Zhou, Department of Cardiology, The Second Affiliated Hospital of Soochow University, No. 1055 Sanxiang Road, Suzhou 215004, China.<break/>
+Email: <email>zhou-xiang@suda.edu.cn</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>6</month><year>2019</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2019</year></pub-date><volume>23</volume><issue>9</issue><issue-id pub-id-type="doi">10.1111/jcmm.v23.9</issue-id><fpage>5859</fpage><lpage>5867</lpage><history><date date-type="received"><day>14</day><month>5</month><year>2019</year></date><date date-type="rev-recd"><day>02</day><month>6</month><year>2019</year></date><date date-type="accepted"><day>11</day><month>6</month><year>2019</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2019 Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2019 The Authors. Journal of Cellular and Molecular Medicine published by John Wiley &#x00026; Sons Ltd and Foundation for Cellular and Molecular Medicine.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JCMM-23-5859.pdf"/><abstract id="jcmm14510-abs-0001"><title>Abstract</title><p>In recent years, the incidence of diabetes has been increasing rapidly, which seriously endangers human health. Diabetic cardiomyopathy, an important cardiovascular complication of diabetes, is characterized by myocardial fibrosis, ventricular remodelling and cardiac dysfunction. It has been documented that mitochondrial dysfunction, oxidative stress, inflammatory response, autophagy, apoptosis, diabetic microangiopathy and myocardial fibrosis are implicated in the pathogenesis of diabetic cardiomyopathy. With the development of molecular biology technology, accumulating evidence demonstrates that non&#x02010;coding RNAs (ncRNAs) are critically involved in the molecular mechanisms of diabetic cardiomyopathy. In this review, we summarize the pathological roles of three types of ncRNAs (microRNA, long ncRNA and circular RNA) in the progression of diabetic cardiomyopathy, which may provide valuable insights into the pathogenesis of diabetic cardiovascular complications.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jcmm14510-kwd-0001">diabetic cardiomyopathy</kwd><kwd id="jcmm14510-kwd-0002">non&#x02010;coding RNA</kwd><kwd id="jcmm14510-kwd-0003">pathogenesis</kwd></kwd-group><funding-group><award-group><funding-source>National Natural Science Foundation of China</funding-source><award-id>81770370</award-id></award-group><award-group><funding-source>Scientific Research Program for Young Talents of China National Nuclear Corporation</funding-source><award-id>51001</award-id></award-group></funding-group><counts><fig-count count="2"/><table-count count="1"/><page-count count="9"/><word-count count="5860"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jcmm14510</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2019</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.6.8 mode:remove_FC converted:29.08.2019</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm14510-cit-1001">
+<string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Non&#x02010;coding RNA involvement in the pathogenesis of diabetic cardiomyopathy</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2019</year>;<volume>23</volume>:<fpage>5859</fpage>&#x02013;<lpage>5867</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.14510</pub-id>
+</mixed-citation>
+</p><fn-group id="jcmm14510-ntgp-0001"><fn fn-type="equal" id="jcmm14510-note-0001"><p>Wei Zhang and Weiting Xu contributed equally to this work.</p></fn></fn-group></notes></front><body><sec id="jcmm14510-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Diabetic cardiomyopathy is a type of cardiac dysfunction that develops in the absence of hypertensive heart disease, coronary artery disease and valvular heart disease.<xref rid="jcmm14510-bib-0001" ref-type="ref">1</xref> It is characterized by myocardial fibrosis, ventricular enlargement and cardiac dysfunction that ultimately leads to heart failure. Emerging evidence implicates that mitochondrial dysfunction, oxidative stress, inflammatory response, autophagy, apoptosis, diabetic microangiopathy and myocardial metabolic abnormalities are involved in the development of diabetic cardiomyopathy.<xref rid="jcmm14510-bib-0002" ref-type="ref">2</xref> Hyperglycaemia can exert adverse effects on myocardial tissue through various mechanisms, including metabolic disturbance, microvascular impairment and subcellular structure abnormalities.</p><p>In recent years, non&#x02010;coding RNAs (ncRNAs) have important functional implications for human health and disease.<xref rid="jcmm14510-bib-0003" ref-type="ref">3</xref> There are many types of ncRNAs,<xref rid="jcmm14510-bib-0004" ref-type="ref">4</xref> and the main classes of functional ncRNAs that are not translated into proteins include microRNA (miRNA), long ncRNA (lncRNA) and circular RNA (circRNA). The biogenesis of ncRNAs is complex, and the specific process is shown in Figure <xref rid="jcmm14510-fig-0001" ref-type="fig">1</xref>. It has been reported that ncRNAs participate in the pathogenesis of multiple cardiovascular diseases by both transcriptional and post&#x02010;transcriptional regulation.<xref rid="jcmm14510-bib-0005" ref-type="ref">5</xref>, <xref rid="jcmm14510-bib-0006" ref-type="ref">6</xref>, <xref rid="jcmm14510-bib-0007" ref-type="ref">7</xref> In the present review, we summarize the important roles of miRNA, lncRNA and circRNA in the pathogenesis of diabetic cardiomyopathy.</p><fig fig-type="Figure" xml:lang="en" id="jcmm14510-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>A, The biogenesis of miRNA and lncRNA. The miRNA is transcribed as primary miRNA (pri&#x02010;miRNA) by RNA polymerase II (RNAPII). Following processing by the Drosha and DRCG8, precursor miRNA (pre&#x02010;miRNA) is exported from the nucleus by exportin 5. Then, it undergoes further processing by Dicer and TAR RNA&#x02010;binding protein (TRBP) to generate mature miRNA loaded into the RNA&#x02010;induced silencing complex (RISC). The lncRNA is transcribed mostly by RNAPII, and its biogenesis process is similar to miRNA. B, The biogenesis of circRNA. a, e. circRNA by direct back&#x02010;splicing; b. circular intronic RNA (ciRNA) by back&#x02010;splicing; c. mRNA by canonical splicing; d. exon&#x02010;intron circRNA (EIciRNA) by lariat&#x02010;driven circularization</p></caption><graphic id="nlm-graphic-1" xlink:href="JCMM-23-5859-g001"/></fig></sec><sec id="jcmm14510-sec-0002"><label>2</label><title>miRNAs</title><p>miRNAs are highly conserved and single&#x02010;stranded ncRNAs that include 20&#x02010;22 nucleotides. Their primary function is to negatively modulate gene expression through binding to the target mRNA and subsequently inducing its degradation or suppressing the translation.<xref rid="jcmm14510-bib-0008" ref-type="ref">8</xref> miRNAs can regulate the translation of more than 60% of protein&#x02010;coding genes. The available evidence indicates that miRNAs can regulate cardiac hypertrophy,<xref rid="jcmm14510-bib-0009" ref-type="ref">9</xref> myocardial fibrosis,<xref rid="jcmm14510-bib-0010" ref-type="ref">10</xref> oxidative stress and apoptosis,<xref rid="jcmm14510-bib-0011" ref-type="ref">11</xref> mitochondrial dysfunction,<xref rid="jcmm14510-bib-0012" ref-type="ref">12</xref> epigenetic modification,<xref rid="jcmm14510-bib-0013" ref-type="ref">13</xref> cardiac electrical remodelling <xref rid="jcmm14510-bib-0014" ref-type="ref">14</xref> and other pathophysiological changes,<xref rid="jcmm14510-bib-0015" ref-type="ref">15</xref> which are associated with diabetic cardiomyopathy.</p><sec id="jcmm14510-sec-0003"><label>2.1</label><title>Cardiac hypertrophy</title><p>Multiple miRNAs have been reported to modulate cardiac hypertrophy in diabetic cardiomyopathy. Antihypertrophic miRNAs include miR&#x02010;1,<xref rid="jcmm14510-bib-0016" ref-type="ref">16</xref> miR&#x02010;30c,<xref rid="jcmm14510-bib-0017" ref-type="ref">17</xref> miR&#x02010;181a,<xref rid="jcmm14510-bib-0018" ref-type="ref">18</xref> miR&#x02010;150,<xref rid="jcmm14510-bib-0009" ref-type="ref">9</xref> miR&#x02010;133a <xref rid="jcmm14510-bib-0019" ref-type="ref">19</xref> and miR&#x02010;373.<xref rid="jcmm14510-bib-0020" ref-type="ref">20</xref> Prohypertrophic miRNAs include miR&#x02010;208a,<xref rid="jcmm14510-bib-0021" ref-type="ref">21</xref> miR&#x02010;451<xref rid="jcmm14510-bib-0022" ref-type="ref">22</xref> and miR&#x02010;195.<xref rid="jcmm14510-bib-0023" ref-type="ref">23</xref> Raut et al<xref rid="jcmm14510-bib-0018" ref-type="ref">18</xref> indicated that miR&#x02010;30c and miR&#x02010;181a could synergistically regulate p53&#x02010;p21 pathway in cardiac hypertrophy induced by diabetes. Feng et al<xref rid="jcmm14510-bib-0019" ref-type="ref">19</xref> reported that miR&#x02010;133a was downregulated in hypertrophic cardiac tissue under high glucose conditions and miR&#x02010;133a overexpression prevented hypertrophic changes in cardiomyocytes. Ikeda et al<xref rid="jcmm14510-bib-0016" ref-type="ref">16</xref> showed that miR&#x02010;1 attenuated cardiomyocyte hypertrophy by negative regulation of calcium signalling components calmodulin, Gata4 and Mef2a. The miR&#x02010;1/ mitochondrial calcium uniporter (MCU) axis is involved in the dynamic adaptation of cardiomyocytes to hypertrophy.<xref rid="jcmm14510-bib-0024" ref-type="ref">24</xref> Involvement of miR&#x02010;1 in cardiomyocyte development and hypertrophic remodelling is indicated by the inverse correlation of MCU expression with muscle&#x02010;specific miR&#x02010;1. miR&#x02010;150 can inhibit cardiomyocyte hypertrophy induced by high glucose through targeting the transcriptional coactivator p300.<xref rid="jcmm14510-bib-0009" ref-type="ref">9</xref> In addition, miR&#x02010;208a was found to promote cardiac hypertrophy by inhibiting myostatin and GATA4 expression and upregulating &#x003b2;&#x02010;myosin heavy chain.<xref rid="jcmm14510-bib-0021" ref-type="ref">21</xref>
+</p></sec><sec id="jcmm14510-sec-0004"><label>2.2</label><title>Cardiomyocyte apoptosis, autophagy and pyroptosis</title><p>Some miRNAs have been identified to modulate cardiomyocyte apoptosis, autophagy and pyroptosis, which are responsible for the pathogenesis of diabetic cardiomyopathy. Increased expression of miR&#x02010;1,<xref rid="jcmm14510-bib-0025" ref-type="ref">25</xref> miR&#x02010;30b,<xref rid="jcmm14510-bib-0026" ref-type="ref">26</xref> miR&#x02010;206,<xref rid="jcmm14510-bib-0027" ref-type="ref">27</xref> miR&#x02010;144,<xref rid="jcmm14510-bib-0011" ref-type="ref">11</xref> miR&#x02010;195,<xref rid="jcmm14510-bib-0023" ref-type="ref">23</xref> miR&#x02010;208a,<xref rid="jcmm14510-bib-0028" ref-type="ref">28</xref> miR&#x02010;320,<xref rid="jcmm14510-bib-0029" ref-type="ref">29</xref> miR&#x02010;378,<xref rid="jcmm14510-bib-0030" ref-type="ref">30</xref> miR&#x02010;483&#x02010;3p<xref rid="jcmm14510-bib-0031" ref-type="ref">31</xref> and miR&#x02010;34a<xref rid="jcmm14510-bib-0032" ref-type="ref">32</xref> can promote apoptosis in diabetic cardiomyopathy. In addition, miR&#x02010;30c,<xref rid="jcmm14510-bib-0033" ref-type="ref">33</xref> miR&#x02010;221,<xref rid="jcmm14510-bib-0034" ref-type="ref">34</xref> miR&#x02010;30a, miR&#x02010;133a and miR&#x02010;212<xref rid="jcmm14510-bib-0035" ref-type="ref">35</xref> are associated with autophagy regulation in the diabetic heart. Qiao et al<xref rid="jcmm14510-bib-0031" ref-type="ref">31</xref> indicated that miR&#x02010;483&#x02010;3p overexpression promoted cardiomyocyte apoptosis in diabetic mice by suppressing the expression of insulin&#x02010;like growth factor&#x02010;1 (IGF&#x02010;1). Zheng et al<xref rid="jcmm14510-bib-0023" ref-type="ref">23</xref> revealed that silencing of miR&#x02010;195 could inhibit myocardial hypertrophy and improve cardiac function in diabetes by reducing cardiomyocytes apoptosis and promoting angiogenesis in cardiac endothelial cells. Shan et al<xref rid="jcmm14510-bib-0027" ref-type="ref">27</xref> showed that miR&#x02010;1 and miR&#x02010;206 post&#x02010;transcriptionally modulated Hsp60 expression, which consequently resulted in cardiomyocyte apoptosis induced by high glucose. Recently, miR&#x02010;30c overexpression was found to inhibit BECN1 induction and the subsequent autophagy in diabetic myocardium and improve cardiac structure and function in diabetic mice.<xref rid="jcmm14510-bib-0033" ref-type="ref">33</xref> Su et al<xref rid="jcmm14510-bib-0034" ref-type="ref">34</xref> revealed that miR&#x02010;221 could inhibit autophagy and promote heart failure by modulating p27/CDK2/mTOR pathway. Pyroptosis is a pro&#x02010;inflammatory programmed cell death and plays important roles in the pathogenesis of diabetic cardiomyopathy. Li et al<xref rid="jcmm14510-bib-0015" ref-type="ref">15</xref> reported that miR&#x02010;30d could promote cardiomyocyte pyroptosis in diabetic cardiomyopathy by regulating foxo3a. Moreover, miR&#x02010;9 was found to reduce cardiomyocyte pyroptosis induced by hyperglycaemia through targeting ELAV&#x02010;like protein 1.<xref rid="jcmm14510-bib-0036" ref-type="ref">36</xref>
+</p></sec><sec id="jcmm14510-sec-0005"><label>2.3</label><title>Myocardial fibrosis</title><p>Myocardial fibrosis is a typical pathological characteristic of diabetic cardiomyopathy, and it is regulated by miR&#x02010;133a,<xref rid="jcmm14510-bib-0010" ref-type="ref">10</xref> miR&#x02010;15a/b,<xref rid="jcmm14510-bib-0037" ref-type="ref">37</xref> miR&#x02010;21,<xref rid="jcmm14510-bib-0038" ref-type="ref">38</xref> miR&#x02010;29<xref rid="jcmm14510-bib-0039" ref-type="ref">39</xref> and miR&#x02010;200b.<xref rid="jcmm14510-bib-0040" ref-type="ref">40</xref> Liu et al<xref rid="jcmm14510-bib-0038" ref-type="ref">38</xref> revealed that miR&#x02010;21 was upregulated in cardiac fibroblasts exposed to high glucose and could accelerate collagen synthesis through the c&#x02010;Jun N&#x02010;terminal kinase and p38 signalling pathways. miR&#x02010;15a/b were found to be downregulated in the myocardium of diabetic patients and consequently activate fibrotic signalling of transforming growth factor&#x02010;&#x003b2; receptor&#x02010;1 and connective tissue growth factor (CTGF).<xref rid="jcmm14510-bib-0037" ref-type="ref">37</xref> In addition, van Rooij et al<xref rid="jcmm14510-bib-0039" ref-type="ref">39</xref> showed that the miR&#x02010;29 family targeted a series of mRNAs encoding proteins such as multiple collagens, fibrillins and elastin, which are involved in the process of fibrosis. Recently, Feng et al<xref rid="jcmm14510-bib-0040" ref-type="ref">40</xref> demonstrated that miR&#x02010;200b mediated endothelial&#x02010;to&#x02010;mesenchymal transition in diabetic mice and contributed to increased myocardial fibrosis in diabetic cardiomyopathy.</p></sec><sec id="jcmm14510-sec-0006"><label>2.4</label><title>Oxidative stress</title><p>Oxidative stress is critically involved in the pathogenesis of diabetic cardiomyopathy. It has been documented that miR&#x02010;1,<xref rid="jcmm14510-bib-0041" ref-type="ref">41</xref> miR&#x02010;22,<xref rid="jcmm14510-bib-0042" ref-type="ref">42</xref> miR&#x02010;144,<xref rid="jcmm14510-bib-0011" ref-type="ref">11</xref> miR&#x02010;195,<xref rid="jcmm14510-bib-0023" ref-type="ref">23</xref> miR&#x02010;200c<xref rid="jcmm14510-bib-0043" ref-type="ref">43</xref> and miR&#x02010;503<xref rid="jcmm14510-bib-0044" ref-type="ref">44</xref> are involved in the regulation of hyperglycaemia&#x02010;induced oxidative stress. Yildirim et al<xref rid="jcmm14510-bib-0041" ref-type="ref">41</xref> indicated that miR&#x02010;1 expression in cardiomyocytes was decreased under high glucose treatment, and overexpression of miR&#x02010;1 protected against diabetes&#x02010;induced cardiac oxidative damage. Through in vivo and in vitro experiments, Tang et al<xref rid="jcmm14510-bib-0042" ref-type="ref">42</xref> found that enforced expression of miR&#x02010;22 could attenuate oxidative injury by upregulating Sirt 1 in diabetic cardiomyopathy. Zhang et al<xref rid="jcmm14510-bib-0043" ref-type="ref">43</xref> showed that miR&#x02010;200c increased COX&#x02010;2 expression in endothelial cells by suppressing ZEB1 expression and promoting prostaglandin E2 production, thus reducing endothelium&#x02010;dependent relaxation. Furthermore, Miao et al<xref rid="jcmm14510-bib-0044" ref-type="ref">44</xref> demonstrated that miR&#x02010;503 expression was upregulated in diabetic cardiomyopathy, and miR&#x02010;503 participated in the protective effects of Phase II Enzyme Inducer CPDT by regulating nuclear factor erythroid 2&#x02010;related factor 2/antioxidant response elements, which is the critical antioxidant signalling pathway in the body and can regulate the gene expression of several antioxidative enzymes.<xref rid="jcmm14510-bib-0045" ref-type="ref">45</xref>
+</p></sec><sec id="jcmm14510-sec-0007"><label>2.5</label><title>Other pathophysiological processes</title><p>miRNAs can also actively participate in the pathogenesis of cardiac structural damage,<xref rid="jcmm14510-bib-0046" ref-type="ref">46</xref> mitochondrial dysfunction,<xref rid="jcmm14510-bib-0047" ref-type="ref">47</xref> inflammatory response,<xref rid="jcmm14510-bib-0048" ref-type="ref">48</xref>, <xref rid="jcmm14510-bib-0049" ref-type="ref">49</xref> angiogenic regulation<xref rid="jcmm14510-bib-0050" ref-type="ref">50</xref> and myocardial electrical remodelling.<xref rid="jcmm14510-bib-0014" ref-type="ref">14</xref> Arnold et al<xref rid="jcmm14510-bib-0046" ref-type="ref">46</xref> reported that miR&#x02010;29 overexpression in a diabetes model was associated with cardiac structural damage and accompanied by decreased expression of myeloid cell leukaemia 1, a protein that promotes cell survival. In another diabetes model, increased miR&#x02010;141 expression affected ATP production by decreasing mitochondrial phosphate transport.<xref rid="jcmm14510-bib-0047" ref-type="ref">47</xref> Reddy et al<xref rid="jcmm14510-bib-0048" ref-type="ref">48</xref> indicated that disruption of the negative regulatory loop involving miR&#x02010;200 and Zeb1 increased inflammatory response in vascular smooth muscle cells under diabetic conditions. In the diabetic heart, miR&#x02010;146a was associated with elevated inflammatory factor and extracellular matrix protein production and cardiac functional alterations.<xref rid="jcmm14510-bib-0049" ref-type="ref">49</xref> In addition, miR&#x02010;193&#x02010;5p was found to be actively involved in the development of diabetic cardiomyopathy, possibly through negatively regulating its downstream gene IGF2.<xref rid="jcmm14510-bib-0050" ref-type="ref">50</xref> Panguluri et al<xref rid="jcmm14510-bib-0014" ref-type="ref">14</xref> suggested that miR&#x02010;301a mediated regulation of voltage&#x02010;gated potassium channel Kv4.2 and participated in the electrical remodelling in diabetic cardiomyopathy.</p><p>Taken together, a number of miRNAs have been identified to be involved in the pathogenesis of diabetic cardiomyopathy via different signalling pathways. Future research should focus on the interaction of miRNAs with the regulatory network, which may help to further understand the molecular mechanisms of diabetic cardiomyopathy. In addition, some circulating miRNAs have the potential to be used as biomarkers in the diagnosis and prognosis of diabetic cardiovascular complications.<xref rid="jcmm14510-bib-0051" ref-type="ref">51</xref>, <xref rid="jcmm14510-bib-0052" ref-type="ref">52</xref> Furthermore, the current research on miRNAs may provide valuable insight into the future treatment of diabetic cardiomyopathy.</p></sec></sec><sec id="jcmm14510-sec-0008"><label>3</label><title>lncRNAs</title><p>lncRNAs, a class of transcripts which are longer than 200 nucleotides without protein&#x02010;coding potential, have been implicated in multiple biological processes, including genomic imprinting, transcriptional regulation, nuclear organization and compartmentalization, RNA splicing and nuclear&#x02010;cytoplasmic trafficking.<xref rid="jcmm14510-bib-0053" ref-type="ref">53</xref>, <xref rid="jcmm14510-bib-0054" ref-type="ref">54</xref>, <xref rid="jcmm14510-bib-0055" ref-type="ref">55</xref>, <xref rid="jcmm14510-bib-0056" ref-type="ref">56</xref> In recent years, growing evidence has suggested that lncRNAs can actively participate in the pathogenesis of diverse cardiovascular diseases, including diabetic cardiomyopathy.<xref rid="jcmm14510-bib-0057" ref-type="ref">57</xref>
+</p><sec id="jcmm14510-sec-0009"><label>3.1</label><title>Myocardial fibrosis</title><p>Myocardial fibrosis is an important pathological change in diabetic cardiomyopathy. Zhang et al<xref rid="jcmm14510-bib-0058" ref-type="ref">58</xref> reported that lncRNA&#x02010;AK081284 expression was increased in cardiac fibroblasts exposed to high glucose, while IL&#x02010;17 knockdown abrogated the upregulation of AK081284 induced by high glucose. In addition, AK081284 overexpression was found to promote the production of collagen and transforming growth factor &#x003b2;1 (TGF&#x003b2;1) in cardiac fibroblasts. Thus, the IL&#x02010;17/AK081284/TGF&#x003b2;1 pathway is involved in collagen production induced by high glucose. Thomas et al<xref rid="jcmm14510-bib-0059" ref-type="ref">59</xref> showed that lncRNA&#x02010;ANRIL regulated structural and functional abnormalities in the diabetic hearts by regulating the expression of extracellular matrix (ECM) protein and vascular endothelial growth factor (VEGF). These alterations modulated by ANRIL might be mediated by epigenetic modifier p300 and polycomb repressive complex 2 complex. Tao et al<xref rid="jcmm14510-bib-0060" ref-type="ref">60</xref> suggested that H19 negatively modulated DUSP5 expression in cardiac fibroblast and fibrosis tissues. H19 was found to promote cardiac fibroblast proliferation via inhibition of DUSP5/ERK1/2 axis. In addition, a recent study by Piccoli et al<xref rid="jcmm14510-bib-0061" ref-type="ref">61</xref> demonstrated that silencing of lncRNA&#x02010;Meg3 could inhibit the production of matrix metalloproteinase&#x02010;2 (MMP&#x02010;2), leading to reduced myocardial fibrosis and improved cardiac dysfunction.</p><p>The competing endogenous RNA (ceRNA) theory has been proposed that protein&#x02010;coding RNAs and ncRNAs can communicate with each other to modulate gene expression by competing for binding to shared miRNAs.<xref rid="jcmm14510-bib-0062" ref-type="ref">62</xref> Tao et al<xref rid="jcmm14510-bib-0063" ref-type="ref">63</xref> suggested that lncRNA&#x02010;GAS5 could function as a ceRNA to regulate PTEN/MMP&#x02010;2 signalling pathway by sponging miR&#x02010;21, thus playing a suppressive role in cardiac fibrosis. Liang et al<xref rid="jcmm14510-bib-0064" ref-type="ref">64</xref> revealed that lncRNA&#x02010;PFL contributed to cardiac fibrosis through promoting fibroblast&#x02010;myofibroblast transition via competitively binding to let&#x02010;7d.</p></sec><sec id="jcmm14510-sec-0010"><label>3.2</label><title>Cardiomyocyte apoptosis and autophagy</title><p>Some lncRNAs have been identified to be correlated with cardiomyocyte apoptosis and autophagy during the process of diabetic cardiomyopathy.<xref rid="jcmm14510-bib-0065" ref-type="ref">65</xref> Recently, our research group found that myocardial infarction&#x02013;associated transcript (MIAT) was upregulated in the diabetic myocardium, while MIAT knockdown could reduce cardiomyocyte apoptosis and improve cardiac dysfunction.<xref rid="jcmm14510-bib-0066" ref-type="ref">66</xref> We then further investigated the molecular mechanisms involved and found that MIAT acted as a ceRNA to increase DAPK2 expression by sponging miR&#x02010;22&#x02010;3p, thus leading to elevated cardiomyocyte apoptosis.<xref rid="jcmm14510-bib-0066" ref-type="ref">66</xref> Moreover, we generated a diabetic rat model induced by streptozocin and found that metastasis&#x02010;associated lung adenocarcinoma transcript 1 (MALAT1) expression was increased in the diabetic heart. MALAT1 knockdown was associated with improved cardiac function, partly through the suppression of cardiomyocyte apoptosis.<xref rid="jcmm14510-bib-0067" ref-type="ref">67</xref>
+</p><p>The lncRNA&#x02010;H19 is a member of conserved imprinted gene family and participates in embryonic development and growth regulation. In the previous study, we investigated the pathological roles of H19 in the development of diabetic cardiomyopathy. The results indicated that H19 was downregulated in the diabetic myocardium and high glucose treatment contributed to cardiomyocyte apoptosis by modulating H19/miR&#x02010;675/VDAC1 pathway.<xref rid="jcmm14510-bib-0068" ref-type="ref">68</xref> In addition, another study by Zhuo et al<xref rid="jcmm14510-bib-0069" ref-type="ref">69</xref> revealed that high glucose could downregulate H19 expression and promote autophagy in myocardial cells. H19 overexpression could reduce DIRAS3 expression, increase mTOR phosphorylation and suppress autophagy activation. Thus, H19 is involved in the modulation of autophagy in diabetic cardiomyopathy by epigenetically silencing of DIRAS3.</p></sec><sec id="jcmm14510-sec-0011"><label>3.3</label><title>Inflammation</title><p>Inflammation has a significant involvement in the progression of diabetic cardiomyopathy.<xref rid="jcmm14510-bib-0065" ref-type="ref">65</xref> Our research group previously found that MALAT1 expression was increased in the diabetic heart, and its knockdown could improve cardiac systolic function and reduce the levels of inflammatory cytokines such as TNF&#x02010;&#x003b1;, IL&#x02010;6 and IL&#x02010;1&#x003b2; in the diabetic myocardium, thus indicating that MALAT1 might be related to the inflammatory response in diabetic cardiomyopathy.<xref rid="jcmm14510-bib-0070" ref-type="ref">70</xref> Moreover, another study by Puthanveetil et al<xref rid="jcmm14510-bib-0071" ref-type="ref">71</xref> reported that MALAT1 upregulated inflammatory mediators TNF&#x02010;&#x003b1; and IL&#x02010;6 in endothelial cells treated with high glucose through activation of serum amyloid antigen 3.</p><p>In previous studies, our research group generated a rat model of diabetic cardiomyopathy and conducted a microarray to determine the differentially expressed lncRNAs in cardiac tissue. We then investigated the pathological effects of MIAT, MALAT1 and H19 in the development of diabetic cardiomyopathy, mainly focusing on the mechanisms of apoptosis and inflammation.<xref rid="jcmm14510-bib-0066" ref-type="ref">66</xref>, <xref rid="jcmm14510-bib-0067" ref-type="ref">67</xref>, <xref rid="jcmm14510-bib-0068" ref-type="ref">68</xref>, <xref rid="jcmm14510-bib-0070" ref-type="ref">70</xref> However, it remains a challenge to translate basic research results into clinical practice. Recently, it has been documented that circulating lncRNAs such as LIPCAR, SENCR and MIAT are valuable predictors of left ventricular diastolic function and remodelling in diabetic patients.<xref rid="jcmm14510-bib-0072" ref-type="ref">72</xref>
+</p></sec></sec><sec id="jcmm14510-sec-0012"><label>4</label><title>circRNAs</title><p>circRNAs are produced from precursor mRNAs by the back&#x02010;splicing of exons in eukaryotes and are widely expressed in a tissue&#x02010;specific and developmental stage&#x02013;specific pattern.<xref rid="jcmm14510-bib-0073" ref-type="ref">73</xref> circRNAs differ from linear RNAs in that they are circular molecules with covalently closed loop structures and lack 5&#x02032;&#x02010;3&#x02032; polarity or a polyadenylated tail. circRNAs may function as miRNA sponges to inhibit the translation of mRNAs, which is the most common regulatory mechanism. In addition, circRNAs can alter gene expression by regulating splicing or transcription and by interacting with RNA&#x02010;binding proteins.<xref rid="jcmm14510-bib-0074" ref-type="ref">74</xref>
+</p><p>The development of cardiac fibrosis is a key event in the pathogenesis of diabetic cardiomyopathy. Tang et al<xref rid="jcmm14510-bib-0075" ref-type="ref">75</xref> revealed that circRNA_000203 was upregulated in diabetic myocardium and was correlated with increased expression of &#x003b1;&#x02010;SMA, Col1a2 and Col3a1 in cardiac fibroblasts. Moreover, circRNA_000203 could sponge miR&#x02010;26b&#x02010;5p to derepress the downstream targets of Col1a2 and CTGF, which contributes to the expression of fibrosis&#x02010;associated genes in cardiac fibroblasts. Similarly, Zhou et al<xref rid="jcmm14510-bib-0076" ref-type="ref">76</xref> showed the involvement of another circRNA in the regulation of diabetic myocardial fibrosis. They found that circRNA_010567 modulated miR&#x02010;141 and its target gene TGF&#x02010;&#x003b2;1 and mediated fibrosis&#x02010;associated protein resection. Thus, circRNA_010567/miR&#x02010;141/TGF&#x02010;&#x003b2;1 pathway plays a critical regulatory role in myocardial fibrosis, promoting the development of diabetic cardiomyopathy.</p><p>circHIPK3 is a particularly abundant circRNA involved in the metabolic dysregulation and tumorigenesis.<xref rid="jcmm14510-bib-0077" ref-type="ref">77</xref>, <xref rid="jcmm14510-bib-0078" ref-type="ref">78</xref>, <xref rid="jcmm14510-bib-0079" ref-type="ref">79</xref> Combined with circRNA screening and functional confirmation, our research group suggested that circHIPK3 was significantly upregulated in the diabetic myocardium, and circHIPK3 might act as a ceRNA to increase VAMP7 expression by sponging miR&#x02010;143&#x02010;5p, which resulted in elevated cardiomyocyte autophagy and contributed to the development of diabetic cardiomyopathy (unpublished data).</p><p>Compared with miRNAs and lncRNAs, the understanding of circRNAs in the molecular mechanisms of diabetic cardiomyopathy is still limited. circRNAs can modulate gene expression by functioning as RNA&#x02010;binding protein sequestering agents, nuclear transcriptional regulators and miRNA sponges.<xref rid="jcmm14510-bib-0074" ref-type="ref">74</xref> Emerging evidence has shown that circRNAs play crucial roles in multiple cardiovascular diseases and may serve as useful biomarkers due to their abundance and stability.<xref rid="jcmm14510-bib-0080" ref-type="ref">80</xref> Future research will focus on two directions. Firstly, to further investigate the pathological roles of circRNAs in the development of diabetic cardiomyopathy. Secondly, to identify more circulating circRNAs as biomarkers for the diagnosis and prognosis of diabetic cardiomyopathy.</p></sec><sec sec-type="conclusions" id="jcmm14510-sec-0013"><label>5</label><title>CONCLUSION</title><p>In the present review, we summarize the recent progress in the involvement of ncRNAs in the pathogenesis of diabetic cardiomyopathy. As shown in Table <xref rid="jcmm14510-tbl-0001" ref-type="table">1</xref>, we present a variety of miRNAs responsible for the regulation of cardiomyocyte hypertrophy, apoptosis and autophagy, myocardial fibrosis, oxidative stress and inflammatory response, which are important mechanisms associated with diabetic cardiomyopathy. Unlike miRNAs, there are fewer studies on lncRNAs and circRNAs involved in the molecular mechanisms of diabetic cardiomyopathy (Figure <xref rid="jcmm14510-fig-0002" ref-type="fig">2</xref>). In our previous studies, several ncRNAs including MIAT, MALAT1, H19 and circHIPK3 have been suggested to participate in the modulation of cardiomyocyte apoptosis and autophagy and consequently result in the development of diabetic cardiomyopathy.</p><table-wrap id="jcmm14510-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>The role of miRNA in the pathogenesis of diabetic cardiomyopathy</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">miRNAs</th><th align="left" valign="top" rowspan="1" colspan="1">Expression</th><th align="left" valign="top" rowspan="1" colspan="1">Target genes</th><th align="left" valign="top" rowspan="1" colspan="1">Pathological mechanism</th><th align="left" valign="top" rowspan="1" colspan="1">Reference</th></tr></thead><tbody><tr><td align="left" rowspan="3" colspan="1">miR&#x02010;1</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">Mef2a/Gata4</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;hypertrophy</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0016" ref-type="ref">16</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">IGF&#x02010;1</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0025" ref-type="ref">25</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">RyR2</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;oxidative stress</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0041" ref-type="ref">41</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;30c/181a</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">p53/p21</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;hypertrophy/anti&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0018" ref-type="ref">18</xref>
+</td></tr><tr><td align="left" rowspan="2" colspan="1">miR&#x02010;133a</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">SGK1/IGF1R</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;hypertrophy</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0019" ref-type="ref">19</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">CTGF/TGF&#x02010;&#x003b2;1/ FGF1</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;fibrosis/DNA methylation</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0010" ref-type="ref">10</xref>, <xref rid="jcmm14510-bib-0013" ref-type="ref">13</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;150</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">p300</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;hypertrophy/anti&#x02010;oxidative stress</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0009" ref-type="ref">9</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;373</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">MEF2C</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;hypertrophy/anti&#x02010;oxidative stress</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0020" ref-type="ref">20</xref>
+</td></tr><tr><td align="left" rowspan="2" colspan="1">miR&#x02010;208a</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">Myostatin/GATA4</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;hypertrophy</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0021" ref-type="ref">21</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">pim&#x02010;1</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0028" ref-type="ref">28</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;451</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">CAB39</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;hypertrophy</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0022" ref-type="ref">22</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;195</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">BCL&#x02010;2/Sirt1</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis/pro&#x02010;hypertrophy/pro&#x02010;oxidative stress</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0023" ref-type="ref">23</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;30b</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">Bcl2</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0026" ref-type="ref">26</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;206</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">Hsp60</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0027" ref-type="ref">27</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;144</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">Nrf2</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis/pro&#x02010;oxidative stress</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0011" ref-type="ref">11</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;320</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">VEGF&#x02010;c/Flk&#x02010;1/IGF&#x02010;1/IGF&#x02010;1R/FGFs</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0029" ref-type="ref">29</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;378</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">IGFR1</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0030" ref-type="ref">30</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR483&#x02010;3p</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">IGF1</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0031" ref-type="ref">31</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;34a</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">Bcl&#x02010;2</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;apoptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0032" ref-type="ref">32</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;221</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">p27</td><td align="left" rowspan="1" colspan="1">Impaired autophagy</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0034" ref-type="ref">34</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;30c</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">BECN1</td><td align="left" rowspan="1" colspan="1">Inhibited autophagy</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0033" ref-type="ref">33</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;9</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">ELAVL1</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;pyroptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0036" ref-type="ref">36</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;30d</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">foxo3a</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;pyroptosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0015" ref-type="ref">15</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;15a/b</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">TGFaR1/CTGF</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;fibrosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0037" ref-type="ref">37</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;21</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">DUSP8</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;fibrosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0038" ref-type="ref">38</xref>
+</td></tr><tr><td align="left" rowspan="2" colspan="1">miR&#x02010;29</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">COL1A1/1A2/3A1</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;fibrosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0039" ref-type="ref">39</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">MCL&#x02010;1</td><td align="left" rowspan="1" colspan="1">Cardiac structural damage</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0046" ref-type="ref">46</xref>
+</td></tr><tr><td align="left" rowspan="2" colspan="1">miR&#x02010;200b</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">VEGF/p300</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;fibrosis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0040" ref-type="ref">40</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">ZEB1/2</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;inflammation</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0048" ref-type="ref">48</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;22</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">Sirt1</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;oxidative stress</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0042" ref-type="ref">42</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;200c</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">COX&#x02010;2/ZEB1/2</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;oxidative stress/pro&#x02010;inflammation</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0043" ref-type="ref">43</xref>, <xref rid="jcmm14510-bib-0048" ref-type="ref">48</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;503</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">CPDT</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;oxidative stress</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0044" ref-type="ref">44</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;141</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">Slc25a3</td><td align="left" rowspan="1" colspan="1">Mitochondrial dysfunction</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0047" ref-type="ref">47</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;146a</td><td align="left" rowspan="1" colspan="1">Downregulated</td><td align="left" rowspan="1" colspan="1">IL6, TNF&#x003b1;, IL&#x02010;1&#x003b2;, MCP&#x02010;1, NF&#x02010;&#x003ba;B, Col1&#x003b1;1, Col4&#x003b1;1</td><td align="left" rowspan="1" colspan="1">Anti&#x02010;inflammation</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0049" ref-type="ref">49</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR&#x02010;301a</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">Kv4.2</td><td align="left" rowspan="1" colspan="1">Electrical remodelling</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0014" ref-type="ref">14</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">miR193&#x02010;5p</td><td align="left" rowspan="1" colspan="1">Upregulated</td><td align="left" rowspan="1" colspan="1">IGF2</td><td align="left" rowspan="1" colspan="1">Pro&#x02010;angiogenesis</td><td align="left" rowspan="1" colspan="1">
+<xref rid="jcmm14510-bib-0050" ref-type="ref">50</xref>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="jcmm14510-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>A, Involvement of lncRNA in the pathogenesis of diabetic cardiomyopathy; B, involvement of circRNA in the pathogenesis of diabetic cardiomyopathy</p></caption><graphic id="nlm-graphic-3" xlink:href="JCMM-23-5859-g002"/></fig><p>The available evidence indicates that ncRNAs mainly function as ceRNAs to modulate the expression of target genes by sponging miRNAs. However, there are several other mechanisms such as transcriptional modulation, post&#x02010;transcriptional processing and interaction with RNA&#x02010;binding proteins. In the future work, we should further clarify the molecular mechanisms of ncRNAs in the development of diabetic cardiomyopathy. Compared with miRNAs, current studies on lncRNAs and circRNAs in diabetic cardiomyopathy are relatively fewer because they were discovered later. Therefore, it is urgent for us to elucidate the pathological mechanisms of lncRNAs and circRNAs in diabetic cardiovascular complications.</p><p>Recently, cumulative evidence has demonstrated that circulating ncRNAs are potential biomarkers for the diagnosis and prognosis of various cardiovascular diseases. In the future, more clinical research should be conducted to evaluate the diagnostic and prognostic value of circulating ncRNAs in diabetic cardiomyopathy. In addition, some ncRNAs are emerging as novel therapeutic targets in the treatment of diabetic cardiovascular complications. RNA interference drugs and antisense oligonucleotides are well&#x02010;known molecular tools for regulating gene expression through sequence&#x02010;specific interactions with RNA. Furthermore, recent research evidence suggests that CRISPR genome editing technology is able to effectively modify the expression of ncRNAs and has a broad application prospect in the treatment of diabetic cardiomyopathy.</p></sec><sec sec-type="COI-statement" id="jcmm14510-sec-0014"><title>CONFLICTS OF INTEREST</title><p>The authors declare that there are no conflicts of interest.</p></sec><sec id="jcmm14510-sec-0015"><title>AUTHOR CONTRIBUTIONS</title><p>Wei Zhang and Weiting Xu wrote the manuscript; Yu Feng and Xiang Zhou revised the manuscript.</p></sec></body><back><ack id="jcmm14510-sec-0018"><title>ACKNOWLEDGEMENTS</title><p>This study was financially supported by the National Natural Science Foundation of China (81770370) and Scientific Research Program for Young Talents of China National Nuclear Corporation (51001).</p></ack><sec sec-type="data-availability" id="jcmm14510-sec-0017"><title>DATA ACCESSIBILITY</title><p>I confirm that I have included a citation for available data in my references section.</p></sec><ref-list content-type="cited-references" id="jcmm14510-bibl-0001"><title>REFERENCES</title><ref id="jcmm14510-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0001">
+<string-name>
+<surname>Rubler</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dlugash</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yuceoglu</surname>
+<given-names>YZ</given-names>
+</string-name>, <string-name>
+<surname>Kumral</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Branwood</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Grishman</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>New type of cardiomyopathy associated with diabetic glomerulosclerosis</article-title>. <source xml:lang="en">Am J Cardiol</source>. <year>1972</year>;<volume>30</volume>:<fpage>595</fpage>&#x02010;<lpage>602</lpage>.<pub-id pub-id-type="pmid">4263660</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0002">
+<string-name>
+<surname>Jia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Sowers</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Diabetic cardiomyopathy: an update of mechanisms contributing to this clinical entity</article-title>. <source xml:lang="en">Circ Res</source>. <year>2018</year>;<volume>122</volume>:<fpage>624</fpage>&#x02010;<lpage>638</lpage>.<pub-id pub-id-type="pmid">29449364</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0003">
+<string-name>
+<surname>Esteller</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Non&#x02010;coding RNAs in human disease</article-title>. <source xml:lang="en">Nat Rev Genet</source>. <year>2011</year>;<volume>12</volume>:<fpage>861</fpage>&#x02010;<lpage>874</lpage>.<pub-id pub-id-type="pmid">22094949</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0004">
+<string-name>
+<surname>Eddy</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Non&#x02010;coding RNA genes and the modern RNA world</article-title>. <source xml:lang="en">Nat Rev Genet</source>. <year>2001</year>;<volume>2</volume>:<fpage>919</fpage>&#x02010;<lpage>929</lpage>.<pub-id pub-id-type="pmid">11733745</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0005">
+<string-name>
+<surname>Barwari</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Joshi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mayr</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>MicroRNAs in cardiovascular disease</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2016</year>;<volume>68</volume>:<fpage>2577</fpage>&#x02010;<lpage>2584</lpage>.<pub-id pub-id-type="pmid">27931616</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0006">
+<string-name>
+<surname>B&#x000e4;r</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chatterjee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Thum</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Long noncoding RNAs in cardiovascular pathology, diagnosis, and therapy</article-title>. <source xml:lang="en">Circulation</source>. <year>2016</year>;<volume>134</volume>:<fpage>1484</fpage>&#x02010;<lpage>1499</lpage>.<pub-id pub-id-type="pmid">27821419</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0007">
+<string-name>
+<surname>Zhou</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>
+<given-names>XD</given-names>
+</string-name>. <article-title>The emerging landscape of circular RNA in cardiovascular diseases</article-title>. <source xml:lang="en">J Mol Cell Cardiol</source>. <year>2018</year>;<volume>122</volume>:<fpage>134</fpage>&#x02010;<lpage>139</lpage>.<pub-id pub-id-type="pmid">30118789</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0008">
+<string-name>
+<surname>Ha</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>VN</given-names>
+</string-name>. <article-title>Regulation of microRNA biogenesis</article-title>. <source xml:lang="en">Nat Rev Mol Cell Biol</source>. <year>2014</year>;<volume>15</volume>:<fpage>509</fpage>&#x02010;<lpage>524</lpage>.<pub-id pub-id-type="pmid">25027649</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0009">
+<string-name>
+<surname>Duan</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>BO</given-names>
+</string-name>, <string-name>
+<surname>Su</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>miR&#x02010;150 regulates high glucose&#x02010;induced cardiomyocyte hypertrophy by targeting the transcriptional co&#x02010;activator p300</article-title>. <source xml:lang="en">Exp Cell Res</source>. <year>2013</year>;<volume>319</volume>:<fpage>173</fpage>&#x02010;<lpage>184</lpage>.<pub-id pub-id-type="pmid">23211718</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0010">
+<string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Puthanveetil</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Matkovich</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Dorn</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Chakrabarti</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Cardiac miR&#x02010;133a overexpression prevents early cardiac fibrosis in diabetes</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2014</year>;<volume>18</volume>:<fpage>415</fpage>&#x02010;<lpage>421</lpage>.<pub-id pub-id-type="pmid">24428157</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0011">
+<string-name>
+<surname>Yu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>YU</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Inhibiting microRNA&#x02010;144 abates oxidative stress and reduces apoptosis in hearts of streptozotocin&#x02010;induced diabetic mice</article-title>. <source xml:lang="en">Cardiovasc Pathol</source>. <year>2015</year>;<volume>24</volume>:<fpage>375</fpage>&#x02010;<lpage>381</lpage>.<pub-id pub-id-type="pmid">26164195</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0012">
+<string-name>
+<surname>Das</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ferlito</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kent</surname>
+<given-names>OA</given-names>
+</string-name>, et al. <article-title>Nuclear miRNA regulates the mitochondrial genome in the heart</article-title>. <source xml:lang="en">Circ Res</source>. <year>2012</year>;<volume>110</volume>:<fpage>1596</fpage>&#x02010;<lpage>1603</lpage>.<pub-id pub-id-type="pmid">22518031</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0013">
+<string-name>
+<surname>Chavali</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Tyagi</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Mishra</surname>
+<given-names>PK</given-names>
+</string-name>. <article-title>MicroRNA&#x02010;133a regulates DNA methylation in diabetic cardiomyocytes</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2012</year>;<volume>425</volume>:<fpage>668</fpage>&#x02010;<lpage>672</lpage>.<pub-id pub-id-type="pmid">22842467</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0014">
+<string-name>
+<surname>Panguluri</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Tur</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chapalamadugu</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Katnik</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Cuevas</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tipparaju</surname>
+<given-names>SM</given-names>
+</string-name>. <article-title>MicroRNA&#x02010;301a mediated regulation of Kv4.2 in diabetes: identification of key modulators</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2013</year>;<volume>8</volume>:<fpage>e60545</fpage>.<pub-id pub-id-type="pmid">23573265</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0015">
+<string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>MicroRNA&#x02010;30d regulates cardiomyocyte pyroptosis by directly targeting foxo3a in diabetic cardiomyopathy</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2014</year>;<volume>5</volume>:<fpage>e1479</fpage>.<pub-id pub-id-type="pmid">25341033</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0016">
+<string-name>
+<surname>Ikeda</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>SW</given-names>
+</string-name>, et al. <article-title>MicroRNA&#x02010;1 negatively regulates expression of the hypertrophy&#x02010;associated calmodulin and Mef2a genes</article-title>. <source xml:lang="en">Mol Cell Biol</source>. <year>2009</year>;<volume>29</volume>:<fpage>2193</fpage>&#x02010;<lpage>2204</lpage>.<pub-id pub-id-type="pmid">19188439</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0017">
+<string-name>
+<surname>Raut</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>GB</given-names>
+</string-name>, et al. <article-title>miR&#x02010;30c mediates upregulation of Cdc42 and Pak1 in diabetic cardiomyopathy</article-title>. <source xml:lang="en">Cardiovasc Ther</source>. <year>2015</year>;<volume>33</volume>:<fpage>89</fpage>&#x02010;<lpage>97</lpage>.<pub-id pub-id-type="pmid">25781190</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0018">
+<string-name>
+<surname>Raut</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name>
+<surname>Rastogi</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>miR&#x02010;30c and miR&#x02010;181a synergistically modulate p53&#x02013;p21 pathway in diabetes induced cardiac hypertrophy</article-title>. <source xml:lang="en">Mol Cell Biochem</source>. <year>2016</year>;<volume>417</volume>:<fpage>191</fpage>&#x02010;<lpage>203</lpage>.<pub-id pub-id-type="pmid">27221738</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0019">
+<string-name>
+<surname>Feng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>George</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Chakrabarti</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>miR133a regulates cardiomyocyte hypertrophy in diabetes</article-title>. <source xml:lang="en">Diabetes Metab Res Rev</source>. <year>2010</year>;<volume>26</volume>:<fpage>40</fpage>&#x02010;<lpage>49</lpage>.<pub-id pub-id-type="pmid">20013939</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0020">
+<string-name>
+<surname>Shen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Diao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>MicroRNAs involved in the mitogen&#x02010;activated protein kinase cascades pathway during glucose&#x02010;induced cardiomyocyte hypertrophy</article-title>. <source xml:lang="en">Am J Pathol</source>. <year>2011</year>;<volume>179</volume>:<fpage>639</fpage>&#x02010;<lpage>650</lpage>.<pub-id pub-id-type="pmid">21704010</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0021">
+<string-name>
+<surname>Callis</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Pandya</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Seok</surname>
+<given-names>HY</given-names>
+</string-name>, et al. <article-title>MicroRNA&#x02010;208a is a regulator of cardiac hypertrophy and conduction in mice</article-title>. <source xml:lang="en">J Clin Invest</source>. <year>2009</year>;<volume>119</volume>:<fpage>2772</fpage>&#x02010;<lpage>2786</lpage>.<pub-id pub-id-type="pmid">19726871</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0022">
+<string-name>
+<surname>Kuwabara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Horie</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Baba</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>MicroRNA&#x02010;451 exacerbates lipotoxicity in cardiac myocytes and high&#x02010;fat diet&#x02010;induced cardiac hypertrophy in mice through suppression of the LKB1/AMPK pathway</article-title>. <source xml:lang="en">Circ Res</source>. <year>2015</year>;<volume>116</volume>:<fpage>279</fpage>&#x02010;<lpage>288</lpage>.<pub-id pub-id-type="pmid">25362209</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0023">
+<string-name>
+<surname>Zheng</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Silencing of miR&#x02010;195 reduces diabetic cardiomyopathy in C57BL/6 mice</article-title>. <source xml:lang="en">Diabetologia</source>. <year>2015</year>;<volume>58</volume>:<fpage>1949</fpage>&#x02010;<lpage>1958</lpage>.<pub-id pub-id-type="pmid">25994075</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0024">
+<string-name>
+<surname>Zaglia</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ceriotti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Campo</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Content of mitochondrial calcium uniporter (MCU) in cardiomyocytes is regulated by microRNA&#x02010;1 in physiologic and pathologic hypertrophy</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2017</year>;<volume>114</volume>:<fpage>E9006</fpage>&#x02010;<lpage>E9015</lpage>.<pub-id pub-id-type="pmid">29073097</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0025">
+<string-name>
+<surname>Yu</surname>
+<given-names>X&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>Y&#x02010;H</given-names>
+</string-name>, <string-name>
+<surname>Geng</surname>
+<given-names>Y&#x02010;J</given-names>
+</string-name>, et al. <article-title>Glucose induces apoptosis of cardiomyocytes via microRNA&#x02010;1 and IGF&#x02010;1</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2008</year>;<volume>376</volume>:<fpage>548</fpage>&#x02010;<lpage>552</lpage>.<pub-id pub-id-type="pmid">18801338</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0026">
+<string-name>
+<surname>Diao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Down&#x02010;regulation of miR&#x02010;30b reduces cardiomyocyte apoptosis by targeting Bcl&#x02010;2 in diabetic cardiomyopathy</article-title>. <source xml:lang="en">Int J Clin Exp Pathol</source>. <year>2017</year>;<volume>10</volume>:<fpage>5296</fpage>&#x02010;<lpage>5305</lpage>.</mixed-citation></ref><ref id="jcmm14510-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0027">
+<string-name>
+<surname>Shan</surname>
+<given-names>Z&#x02010;X</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>Q&#x02010;X</given-names>
+</string-name>, <string-name>
+<surname>Deng</surname>
+<given-names>C&#x02010;Y</given-names>
+</string-name>, et al. <article-title>miR&#x02010;1/miR&#x02010;206 regulate Hsp60 expression contributing to glucose&#x02010;mediated apoptosis in cardiomyocytes</article-title>. <source xml:lang="en">FEBS Lett</source>. <year>2010</year>;<volume>584</volume>:<fpage>3592</fpage>&#x02010;<lpage>3600</lpage>.<pub-id pub-id-type="pmid">20655308</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0028">
+<string-name>
+<surname>Moore</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shindikar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fomison&#x02010;Nurse</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Rapid onset of cardiomyopathy in STZ&#x02010;induced female diabetic mice involves the downregulation of pro&#x02010;survival Pim&#x02010;1</article-title>. <source xml:lang="en">Cardiovasc Diabetol</source>. <year>2014</year>;<volume>13</volume>:<fpage>68</fpage>.<pub-id pub-id-type="pmid">24685144</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0029">
+<string-name>
+<surname>Wang</surname>
+<given-names>XH</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>RZ</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>MicroRNA&#x02010;320 expression in myocardial microvascular endothelial cells and its relationship with insulin&#x02010;like growth factor&#x02010;1 in type 2 diabetic rats</article-title>. <source xml:lang="en">Clin Exp Pharmacol Physiol</source>. <year>2009</year>;<volume>36</volume>:<fpage>181</fpage>&#x02010;<lpage>188</lpage>.<pub-id pub-id-type="pmid">18986336</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0030">
+<string-name>
+<surname>Knezevic</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sundaresan</surname>
+<given-names>NR</given-names>
+</string-name>, et al. <article-title>A novel cardiomyocyte&#x02010;enriched microRNA, miR&#x02010;378, targets insulin&#x02010;like growth factor 1 receptor: implications in postnatal cardiac remodeling and cell survival</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2012</year>;<volume>287</volume>:<fpage>12913</fpage>&#x02010;<lpage>12926</lpage>.<pub-id pub-id-type="pmid">22367207</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0031">
+<string-name>
+<surname>Qiao</surname>
+<given-names>YU</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>miR&#x02010;483&#x02010;3p regulates hyperglycaemia&#x02010;induced cardiomyocyte apoptosis in transgenic mice</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2016</year>;<volume>477</volume>:<fpage>541</fpage>&#x02010;<lpage>547</lpage>.<pub-id pub-id-type="pmid">27346130</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0032">
+<string-name>
+<surname>Zhao</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>BO</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>Y&#x02010;Z</given-names>
+</string-name>, et al. <article-title>MicroRNA&#x02010;34a regulates high glucose&#x02010;induced apoptosis in H9c2 cardiomyocytes</article-title>. <source xml:lang="en">J Huazhong Univ Sci Technolog Med Sci</source>. <year>2013</year>;<volume>33</volume>:<fpage>834</fpage>&#x02010;<lpage>839</lpage>.<pub-id pub-id-type="pmid">24337844</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0033">
+<string-name>
+<surname>Chen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Mir30c is involved in diabetic cardiomyopathy through regulation of cardiac autophagy via BECN1</article-title>. <source xml:lang="en">Mol Ther Nucleic Acids</source>. <year>2017</year>;<volume>7</volume>:<fpage>127</fpage>&#x02010;<lpage>139</lpage>.<pub-id pub-id-type="pmid">28624189</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0034">
+<string-name>
+<surname>Su</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>MicroRNA&#x02010;221 inhibits autophagy and promotes heart failure by modulating the p27/CDK2/mTOR axis</article-title>. <source xml:lang="en">Cell Death Differ</source>. <year>2015</year>;<volume>22</volume>:<fpage>986</fpage>&#x02010;<lpage>999</lpage>.<pub-id pub-id-type="pmid">25394488</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0035">
+<string-name>
+<surname>Costantino</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Paneni</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>L&#x000fc;scher</surname>
+<given-names>TF</given-names>
+</string-name>, <string-name>
+<surname>Cosentino</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>MicroRNA profiling unveils hyperglycaemic memory in the diabetic heart</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2016</year>;<volume>37</volume>:<fpage>572</fpage>&#x02010;<lpage>576</lpage>.<pub-id pub-id-type="pmid">26553540</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0036">
+<string-name>
+<surname>Jeyabal</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Thandavarayan</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Joladarashi</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>MicroRNA&#x02010;9 inhibits hyperglycemia&#x02010;induced pyroptosis in human ventricular cardiomyocytes by targeting ELAVL1</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2016</year>;<volume>471</volume>:<fpage>423</fpage>&#x02010;<lpage>429</lpage>.<pub-id pub-id-type="pmid">26898797</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0037">
+<string-name>
+<surname>Rawal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Munasinghe</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name>
+<surname>Nagesh</surname>
+<given-names>PT</given-names>
+</string-name>, et al. <article-title>Down&#x02010;regulation of miR&#x02010;15a/b accelerates fibrotic remodelling in the Type 2 diabetic human and mouse heart</article-title>. <source xml:lang="en">Clin Sci (Lond)</source>. <year>2017</year>;<volume>131</volume>:<fpage>847</fpage>&#x02010;<lpage>863</lpage>.<pub-id pub-id-type="pmid">28289072</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0038">
+<string-name>
+<surname>Liu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Micro&#x02010;RNA 21 Targets dual specific phosphatase 8 to promote collagen synthesis in high glucose&#x02010;treated primary cardiac fibroblasts</article-title>. <source xml:lang="en">Can J Cardiol</source>. <year>2014</year>;<volume>30</volume>:<fpage>1689</fpage>&#x02010;<lpage>1699</lpage>.<pub-id pub-id-type="pmid">25418215</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0039">
+<string-name>
+<surname>van Rooij</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sutherland</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Thatcher</surname>
+<given-names>JE</given-names>
+</string-name>, et al. <article-title>Dysregulation of microRNAs after myocardial infarction reveals a role of miR&#x02010;29 in cardiac fibrosis</article-title>. <source xml:lang="en">Proc Natl Acad Sci USA</source>. <year>2008</year>;<volume>105</volume>:<fpage>13027</fpage>&#x02010;<lpage>13032</lpage>.<pub-id pub-id-type="pmid">18723672</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0040">
+<string-name>
+<surname>Feng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Chakrabarti</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>miR&#x02010;200b mediates endothelial&#x02010;to&#x02010;mesenchymal transition in diabetic cardiomyopathy</article-title>. <source xml:lang="en">Diabetes</source>. <year>2016</year>;<volume>65</volume>:<fpage>768</fpage>&#x02010;<lpage>779</lpage>.<pub-id pub-id-type="pmid">26718496</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0041">
+<string-name>
+<surname>Yildirim</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Akman</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Catalucci</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Turan</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Relationship between downregulation of miRNAs and increase of oxidative stress in the development of diabetic cardiac dysfunction: junctin as a target protein of miR&#x02010;1</article-title>. <source xml:lang="en">Cell Biochem Biophys</source>. <year>2013</year>;<volume>67</volume>:<fpage>1397</fpage>&#x02010;<lpage>1408</lpage>.<pub-id pub-id-type="pmid">23723006</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0042">
+<string-name>
+<surname>Tang</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Len</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Overexpression of miR&#x02010;22 attenuates oxidative stress injury in diabetic cardiomyopathy via Sirt 1</article-title>. <source xml:lang="en">Cardiovasc Ther</source>. <year>2018</year>;<volume>36</volume>:<fpage>e12318</fpage>.</mixed-citation></ref><ref id="jcmm14510-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0043">
+<string-name>
+<surname>Zhang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Qu</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Inhibition of miR&#x02010;200c restores endothelial function in diabetic mice through suppression of COX&#x02010;2</article-title>. <source xml:lang="en">Diabetes</source>. <year>2016</year>;<volume>65</volume>:<fpage>1196</fpage>&#x02010;<lpage>1207</lpage>.<pub-id pub-id-type="pmid">26822089</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0044">
+<string-name>
+<surname>Miao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wan</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>miR&#x02010;503 is involved in the protective effect of phase II enzyme inducer (CPDT) in diabetic cardiomyopathy via Nrf2/ARE signaling pathway</article-title>. <source xml:lang="en">Biomed Res Int</source>. <year>2017</year>;<volume>2017</volume>:<fpage>9167450</fpage>.<pub-id pub-id-type="pmid">29404371</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0045">
+<string-name>
+<surname>Nguyen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nioi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Pickett</surname>
+<given-names>CB</given-names>
+</string-name>. <article-title>The Nrf2&#x02010;antioxidant response element signaling pathway and its activation by oxidative stress</article-title>. <source xml:lang="en">J Biol Chem</source>. <year>2009</year>;<volume>284</volume>:<fpage>13291</fpage>&#x02010;<lpage>13295</lpage>.<pub-id pub-id-type="pmid">19182219</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0046">
+<string-name>
+<surname>Arnold</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Koppula</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Gul</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Luck</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pulakat</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Regulation of cardiac expression of the diabetic marker microRNA miR&#x02010;29</article-title>. <source xml:lang="en">PLoS ONE</source>. <year>2014</year>;<volume>9</volume>:<fpage>e103284</fpage>.<pub-id pub-id-type="pmid">25062042</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0047">
+<string-name>
+<surname>Baseler</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Thapa</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Jagannathan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dabkowski</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Croston</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Hollander</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>miR&#x02010;141 as a regulator of the mitochondrial phosphate carrier (Slc25a3) in the type 1 diabetic heart</article-title>. <source xml:lang="en">Am J Physiol Cell Physiol</source>. <year>2012</year>;<volume>303</volume>:<fpage>C1244</fpage>&#x02010;<lpage>C1251</lpage>.<pub-id pub-id-type="pmid">23034391</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0048">
+<string-name>
+<surname>Reddy</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Villeneuve</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Pro&#x02010;inflammatory role of microrna&#x02010;200 in vascular smooth muscle cells from diabetic mice</article-title>. <source xml:lang="en">Arterioscler Thromb Vasc Biol</source>. <year>2012</year>;<volume>32</volume>:<fpage>721</fpage>&#x02010;<lpage>729</lpage>.<pub-id pub-id-type="pmid">22247255</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0049">
+<string-name>
+<surname>Feng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gordon</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Chakrabarti</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>miR&#x02010;146a mediates inflammatory changes and fibrosis in the heart in diabetes</article-title>. <source xml:lang="en">J Mol Cell Cardiol</source>. <year>2017</year>;<volume>105</volume>:<fpage>70</fpage>&#x02010;<lpage>76</lpage>.<pub-id pub-id-type="pmid">28279663</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0050">
+<string-name>
+<surname>Yi</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Shang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>MicroRNA&#x02010;193&#x02010;5p modulates angiogenesis through IGF2 in type 2 diabetic cardiomyopathy</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2017</year>;<volume>491</volume>:<fpage>876</fpage>&#x02010;<lpage>882</lpage>.<pub-id pub-id-type="pmid">28735866</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0051">
+<string-name>
+<surname>Tijsen</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Pinto</surname>
+<given-names>YM</given-names>
+</string-name>, <string-name>
+<surname>Creemers</surname>
+<given-names>EE</given-names>
+</string-name>. <article-title>Circulating microRNAs as diagnostic biomarkers for cardiovascular diseases</article-title>. <source xml:lang="en">Am J Physiol Heart Circ Physiol</source>. <year>2012</year>;<volume>303</volume>:<fpage>H1085</fpage>&#x02010;<lpage>H1095</lpage>.<pub-id pub-id-type="pmid">22942181</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0052">
+<string-name>
+<surname>Rawal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Manning</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Katare</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Cardiovascular microRNAs: as modulators and diagnostic biomarkers of diabetic heart disease</article-title>. <source xml:lang="en">Cardiovasc Diabetol</source>. <year>2014</year>;<volume>13</volume>:<fpage>44</fpage>.<pub-id pub-id-type="pmid">24528626</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0053">
+<string-name>
+<surname>Moran</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Perera</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Khalil</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Emerging functional and mechanistic paradigms of mammalian long non&#x02010;coding RNAs</article-title>. <source xml:lang="en">Nucleic Acids Res</source>. <year>2012</year>;<volume>40</volume>:<fpage>6391</fpage>&#x02010;<lpage>6400</lpage>.<pub-id pub-id-type="pmid">22492512</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0054">
+<string-name>
+<surname>Wang</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>HY</given-names>
+</string-name>. <article-title>Molecular mechanisms of long noncoding RNAs</article-title>. <source xml:lang="en">Mol Cell</source>. <year>2011</year>;<volume>43</volume>:<fpage>904</fpage>&#x02010;<lpage>914</lpage>.<pub-id pub-id-type="pmid">21925379</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0055">
+<string-name>
+<surname>Mercer</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Dinger</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Mattick</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Long non&#x02010;coding RNAs: insights into functions</article-title>. <source xml:lang="en">Nat Rev Genet</source>. <year>2009</year>;<volume>10</volume>:<fpage>155</fpage>&#x02010;<lpage>159</lpage>.<pub-id pub-id-type="pmid">19188922</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0056">
+<string-name>
+<surname>Clark</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Mattick</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Long noncoding RNAs in cell biology</article-title>. <source xml:lang="en">Semin Cell Dev Biol</source>. <year>2011</year>;<volume>22</volume>:<fpage>366</fpage>&#x02010;<lpage>376</lpage>.<pub-id pub-id-type="pmid">21256239</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0057">
+<string-name>
+<surname>Uchida</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dimmeler</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Long noncoding RNAs in cardiovascular diseases</article-title>. <source xml:lang="en">Circ Res</source>. <year>2015</year>;<volume>116</volume>:<fpage>737</fpage>&#x02010;<lpage>750</lpage>.<pub-id pub-id-type="pmid">25677520</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0058">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Y&#x02010;Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>T&#x02010;T</given-names>
+</string-name>, et al. <article-title>Ablation of interleukin&#x02010;17 alleviated cardiac interstitial fibrosis and improved cardiac function via inhibiting long non&#x02010;coding RNA&#x02010;AK081284 in diabetic mice</article-title>. <source xml:lang="en">J Mol Cell Cardiol</source>. <year>2018</year>;<volume>115</volume>:<fpage>64</fpage>&#x02010;<lpage>72</lpage>.<pub-id pub-id-type="pmid">29305939</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0059">
+<string-name>
+<surname>Thomas</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Chakrabarti</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>ANRIL regulates production of extracellular matrix proteins and vasoactive factors in diabetic complications</article-title>. <source xml:lang="en">Am J Physiol Endocrinol Metab</source>. <year>2018</year>;<volume>314</volume>:<fpage>E191</fpage>&#x02010;<lpage>E200</lpage>.<pub-id pub-id-type="pmid">29118015</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0060">
+<string-name>
+<surname>Tao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>J&#x02010;J</given-names>
+</string-name>, et al. <article-title>Long noncoding RNA H19 controls DUSP5/ERK1/2 axis in cardiac fibroblast proliferation and fibrosis</article-title>. <source xml:lang="en">Cardiovasc Pathol</source>. <year>2016</year>;<volume>25</volume>:<fpage>381</fpage>&#x02010;<lpage>389</lpage>.<pub-id pub-id-type="pmid">27318893</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0061">
+<string-name>
+<surname>Piccoli</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Viereck</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Inhibition of the cardiac fibroblast&#x02010;enriched lncRNA Meg3 prevents cardiac fibrosis and diastolic dysfunction</article-title>. <source xml:lang="en">Circ Res</source>. <year>2017</year>;<volume>121</volume>:<fpage>575</fpage>&#x02010;<lpage>583</lpage>.<pub-id pub-id-type="pmid">28630135</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0062">
+<string-name>
+<surname>Tay</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Rinn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pandolfi</surname>
+<given-names>PP</given-names>
+</string-name>. <article-title>The multilayered complexity of ceRNA crosstalk and competition</article-title>. <source xml:lang="en">Nature</source>. <year>2014</year>;<volume>505</volume>:<fpage>344</fpage>&#x02013;<lpage>352</lpage>.<pub-id pub-id-type="pmid">24429633</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0063">
+<string-name>
+<surname>Tao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J&#x02010;G</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>R&#x02010;H</given-names>
+</string-name>, et al. <article-title>LncRNA GAS5 controls cardiac fibroblast activation and fibrosis by targeting miR&#x02010;21 via PTEN/MMP&#x02010;2 signaling pathway</article-title>. <source xml:lang="en">Toxicology</source>. <year>2017</year>;<volume>386</volume>:<fpage>11</fpage>&#x02010;<lpage>18</lpage>.<pub-id pub-id-type="pmid">28526319</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0064">
+<string-name>
+<surname>Liang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>LncRNA PFL contributes to cardiac fibrosis by acting as a competing endogenous RNA of let&#x02010;7d</article-title>. <source xml:lang="en">Theranostics</source>. <year>2018</year>;<volume>8</volume>:<fpage>1180</fpage>&#x02010;<lpage>1194</lpage>.<pub-id pub-id-type="pmid">29464008</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0065">
+<string-name>
+<surname>Ma</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Luo</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tsch&#x000f6;pe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fa</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Long noncoding RNAs: A new player in the prevention and treatment of diabetic cardiomyopathy?</article-title>
+<source xml:lang="en">Diabetes Metab Res Rev</source>. <year>2018</year>;<volume>34</volume>:<fpage>e3056</fpage>.<pub-id pub-id-type="pmid">30160026</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0066">
+<string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Kong</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>lncRNA MIAT functions as a competing endogenous RNA to upregulate DAPK2 by sponging miR&#x02010;22&#x02010;3p in diabetic cardiomyopathy</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2017</year>;<volume>8</volume>:<fpage>e2929</fpage>.<pub-id pub-id-type="pmid">28703801</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0067">
+<string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Down&#x02010;regulation of lncRNA MALAT1 reduces cardiomyocyte apoptosis and improves left ventricular function in diabetic rats</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2016</year>;<volume>203</volume>:<fpage>214</fpage>&#x02010;<lpage>216</lpage>.<pub-id pub-id-type="pmid">26512840</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0068">
+<string-name>
+<surname>Li</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>lncRNA H19/miR&#x02010;675 axis regulates cardiomyocyte apoptosis by targeting VDAC1 in diabetic cardiomyopathy</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>36340</fpage>.<pub-id pub-id-type="pmid">27796346</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0069">
+<string-name>
+<surname>Zhuo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Shao</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>LncRNA H19 inhibits autophagy by epigenetically silencing of DIRAS3 in diabetic cardiomyopathy</article-title>. <source xml:lang="en">Oncotarget</source>. <year>2017</year>;<volume>8</volume>:<fpage>1429</fpage>&#x02010;<lpage>1437</lpage>.<pub-id pub-id-type="pmid">27903964</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0070">
+<string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Involvement of long noncoding RNA MALAT1 in the pathogenesis of diabetic cardiomyopathy</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2016</year>;<volume>202</volume>:<fpage>753</fpage>&#x02010;<lpage>755</lpage>.<pub-id pub-id-type="pmid">26476026</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0071">
+<string-name>
+<surname>Puthanveetil</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gautam</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chakrabarti</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Long non&#x02010;coding RNA MALAT1 regulates hyperglycaemia induced inflammatory process in the endothelial cells</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2015</year>;<volume>19</volume>:<fpage>1418</fpage>&#x02010;<lpage>1425</lpage>.<pub-id pub-id-type="pmid">25787249</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0072">
+<string-name>
+<surname>de Gonzalo&#x02010;Calvo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kenneweg</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bang</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Circulating long&#x02010;non coding RNAs as biomarkers of left ventricular diastolic function and remodelling in patients with well&#x02010;controlled type 2 diabetes</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>37354</fpage>.<pub-id pub-id-type="pmid">27874027</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0073">
+<string-name>
+<surname>Chen</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Regulation of circRNA biogenesis</article-title>. <source xml:lang="en">RNA Biol</source>. <year>2015</year>;<volume>12</volume>:<fpage>381</fpage>&#x02010;<lpage>388</lpage>.<pub-id pub-id-type="pmid">25746834</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0074">
+<string-name>
+<surname>Chen</surname>
+<given-names>LL</given-names>
+</string-name>. <article-title>The biogenesis and emerging roles of circular RNAs</article-title>. <source xml:lang="en">Nat Rev Mol Cell Biol</source>. <year>2016</year>;<volume>17</volume>:<fpage>205</fpage>&#x02010;<lpage>211</lpage>.<pub-id pub-id-type="pmid">26908011</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0075">
+<string-name>
+<surname>Tang</surname>
+<given-names>C&#x02010;M</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>CircRNA_000203 enhances the expression of fibrosis&#x02010;associated genes by derepressing targets of miR&#x02010;26b&#x02010;5p, Col1a2 and CTGF, in cardiac fibroblasts</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2017</year>;<volume>7</volume>:<fpage>40342</fpage>.<pub-id pub-id-type="pmid">28079129</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0076">
+<string-name>
+<surname>Zhou</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>A novel identified circular RNA, circRNA_010567, promotes myocardial fibrosis via suppressing miR&#x02010;141 by targeting TGF&#x02010;&#x003b2;1</article-title>. <source xml:lang="en">Biochem Biophys Res Commun</source>. <year>2017</year>;<volume>487</volume>:<fpage>769</fpage>&#x02010;<lpage>775</lpage>.<pub-id pub-id-type="pmid">28412345</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0077">
+<string-name>
+<surname>Shan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>B&#x02010;H</given-names>
+</string-name>, et al. <article-title>Circular noncoding RNA HIPK3 mediates retinal vascular dysfunction in diabetes mellitus</article-title>. <source xml:lang="en">Circulation</source>. <year>2017</year>;<volume>136</volume>:<fpage>1629</fpage>&#x02010;<lpage>1642</lpage>.<pub-id pub-id-type="pmid">28860123</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0078">
+<string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Xiao</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>CircHIPK3 sponges miR&#x02010;558 to suppress heparanase expression in bladder cancer cells</article-title>. <source xml:lang="en">EMBO Rep</source>. <year>2017</year>;<volume>18</volume>:<fpage>1646</fpage>&#x02010;<lpage>1659</lpage>.<pub-id pub-id-type="pmid">28794202</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0079">
+<string-name>
+<surname>Chen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>circHIPK3 regulates cell proliferation and migration by sponging miR&#x02010;124 and regulating AQP3 expression in hepatocellular carcinoma</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2018</year>;<volume>9</volume>:<fpage>175</fpage>.<pub-id pub-id-type="pmid">29415990</pub-id></mixed-citation></ref><ref id="jcmm14510-bib-0080"><label>80</label><mixed-citation publication-type="journal" id="jcmm14510-cit-0080">
+<string-name>
+<surname>Gomes</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Salgado&#x02010;Somoza</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Creemers</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Dieterich</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lustrek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Devaux</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Circular RNAs in the cardiovascular system</article-title>. <source xml:lang="en">Noncoding RNA Res</source>. <year>2018</year>;<volume>3</volume>:<fpage>1</fpage>&#x02010;<lpage>11</lpage>.<pub-id pub-id-type="pmid">30159434</pub-id></mixed-citation></ref></ref-list></back></article>

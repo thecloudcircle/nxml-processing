@@ -1,0 +1,618 @@
+
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Antioxidants (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Antioxidants (Basel)</journal-id><journal-id journal-id-type="publisher-id">antioxidants</journal-id><journal-title-group><journal-title>Antioxidants</journal-title></journal-title-group><issn pub-type="epub">2076-3921</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26950157</article-id><article-id pub-id-type="pmc">4808757</article-id><article-id pub-id-type="doi">10.3390/antiox5010008</article-id><article-id pub-id-type="publisher-id">antioxidants-05-00008</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>PP2A Phosphatase as a Regulator of ROS Signaling in Plants</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Rahikainen</surname><given-names>Moona</given-names></name><xref ref-type="aff" rid="af1-antioxidants-05-00008">1</xref><xref ref-type="author-notes" rid="fn1-antioxidants-05-00008">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Pascual</surname><given-names>Jes&#x000fa;s</given-names></name><xref ref-type="aff" rid="af2-antioxidants-05-00008">2</xref><xref ref-type="author-notes" rid="fn1-antioxidants-05-00008">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Alegre</surname><given-names>Sara</given-names></name><xref ref-type="aff" rid="af1-antioxidants-05-00008">1</xref><xref ref-type="author-notes" rid="fn1-antioxidants-05-00008">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Durian</surname><given-names>Guido</given-names></name><xref ref-type="aff" rid="af1-antioxidants-05-00008">1</xref><xref ref-type="author-notes" rid="fn1-antioxidants-05-00008">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Kangasj&#x000e4;rvi</surname><given-names>Saijaliisa</given-names></name><xref ref-type="aff" rid="af1-antioxidants-05-00008">1</xref><xref rid="c1-antioxidants-05-00008" ref-type="corresp">*</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Burritt</surname><given-names>David</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-antioxidants-05-00008"><label>1</label>Department of Biochemistry, Molecular Plant Biology, University of Turku, FI-20014 Turku, Finland; <email>moona.rahikainen@utu.fi</email> (M.R.); <email>sara.alegregarcia@utu.fi</email> (S.A.); <email>guido.durian@utu.fi</email> (G.D.)</aff><aff id="af2-antioxidants-05-00008"><label>2</label>Plant Physiology Lab, Organisms and Systems Biology, Faculty of Biology, University of Oviedo, 33006 Oviedo, Spain; <email>pascualjesus@uniovi.es</email></aff><author-notes><corresp id="c1-antioxidants-05-00008"><label>*</label>Correspondence: <email>saijaliisa.kangasjarvi@utu.fi</email>; Tel.: +358-2333-8580</corresp><fn id="fn1-antioxidants-05-00008"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>02</day><month>3</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2016</year></pub-date><volume>5</volume><issue>1</issue><elocation-id>8</elocation-id><history><date date-type="received"><day>29</day><month>1</month><year>2016</year></date><date date-type="accepted"><day>29</day><month>2</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Reactive oxygen species (ROS) carry out vital functions in determining appropriate stress reactions in plants, but the molecular mechanisms underlying the sensing, signaling and response to ROS as signaling molecules are not yet fully understood. Recent studies have underscored the role of Protein Phosphatase 2A (PP2A) in ROS-dependent responses involved in light acclimation and pathogenesis responses in <italic>Arabidopsis thaliana</italic>. Genetic, proteomic and metabolomic studies have demonstrated that trimeric PP2A phosphatases control metabolic changes and cell death elicited by intracellular and extracellular ROS signals. Associated with this, PP2A subunits contribute to transcriptional and post-translational regulation of pro-oxidant and antioxidant enzymes. This review highlights the emerging role of PP2A phosphatases in the regulatory ROS signaling networks in plants.</p></abstract><kwd-group><kwd>plant</kwd><kwd>reactive oxygen species (ROS)</kwd><kwd>signaling</kwd><kwd>protein phosphorylation</kwd><kwd>Protein Phosphatase 2A (PP2A)</kwd></kwd-group></article-meta></front><body><sec id="sec1-antioxidants-05-00008"><title>1. Introduction</title><p>Plants are frequently challenged by changing weather conditions and the presence of detrimental biotic stress factors, including microbial pathogens and insect herbivores. To cope with the ever-changing natural circumstances, plants have evolved mechanisms to sense and respond to the external factors to optimize their fitness. To achieve this, stress-exposed plant tissues must decide whether it is advisable to sacrifice the tissue through a tightly regulated process of programmed cell death, or whether it is more beneficial to invest in energy-consuming acclimation processes in order to ensure seed production. The &#x0201c;choice&#x0201d; is the outcome of signal integration from multiple sources, and deploys signaling pathways elicited by reactive oxygen species (ROS) in different cellular compartments [<xref rid="B1-antioxidants-05-00008" ref-type="bibr">1</xref>,<xref rid="B2-antioxidants-05-00008" ref-type="bibr">2</xref>]. Analysis of cross-communication among different pathways is a modern trend in plant biology [<xref rid="B3-antioxidants-05-00008" ref-type="bibr">3</xref>]. This review focuses on the emerging role of PP2A phosphatases as a regulator of antioxidant activities and ROS signaling in plants.</p><p>During the past decade, intensive research has demonstrated that ROS signaling is a common factor in biotic and abiotic stress responses. In biotic interactions, recognition of external factors by plasma membrane receptor kinases leads to activation of plasma membrane NADPH oxidases causing an ROS burst in the apoplast, with a consequent activation of phosphorylation-relay cascades that trigger the first line of defense gene expression in the nucleus [<xref rid="B4-antioxidants-05-00008" ref-type="bibr">4</xref>,<xref rid="B5-antioxidants-05-00008" ref-type="bibr">5</xref>,<xref rid="B6-antioxidants-05-00008" ref-type="bibr">6</xref>]. Abiotic stresses in turn are generally considered to involve alterations in organellar redox biology and ROS signaling, albeit the exact mechanisms remain unsolved [<xref rid="B2-antioxidants-05-00008" ref-type="bibr">2</xref>]. Various combinations of light stress, heat and drought are, however, well known to promote increased formation of ROS, and the photosynthetic machinery is generally considered the major site of this ROS production [<xref rid="B7-antioxidants-05-00008" ref-type="bibr">7</xref>,<xref rid="B8-antioxidants-05-00008" ref-type="bibr">8</xref>,<xref rid="B9-antioxidants-05-00008" ref-type="bibr">9</xref>,<xref rid="B10-antioxidants-05-00008" ref-type="bibr">10</xref>]. While harsh abiotic stress conditions may cause oxidative damage to the photosystems [<xref rid="B11-antioxidants-05-00008" ref-type="bibr">11</xref>,<xref rid="B12-antioxidants-05-00008" ref-type="bibr">12</xref>], studies have demonstrated that ROS-induced signals also essentially regulate the expression of nuclear-encoded genes responsible for defensive measures and antioxidant functions, thereby triggering acquired stress resistance in aboveground organs [<xref rid="B10-antioxidants-05-00008" ref-type="bibr">10</xref>,<xref rid="B13-antioxidants-05-00008" ref-type="bibr">13</xref>,<xref rid="B14-antioxidants-05-00008" ref-type="bibr">14</xref>,<xref rid="B15-antioxidants-05-00008" ref-type="bibr">15</xref>,<xref rid="B16-antioxidants-05-00008" ref-type="bibr">16</xref>].</p><p>More recently, the role of organellar ROS signaling in plant biotic interactions has also been recognized [<xref rid="B17-antioxidants-05-00008" ref-type="bibr">17</xref>,<xref rid="B18-antioxidants-05-00008" ref-type="bibr">18</xref>]. Recognition of a presence of a pathogen in the apoplast is rapidly relayed into the chloroplasts, where Ca<sup>2+</sup>-dependent signaling interactions are needed to trigger additional signaling events, which further modulate immunity-related gene expression in the nucleus ([<xref rid="B19-antioxidants-05-00008" ref-type="bibr">19</xref>,<xref rid="B20-antioxidants-05-00008" ref-type="bibr">20</xref>], <xref ref-type="fig" rid="antioxidants-05-00008-f001">Figure 1</xref>). The importance of chloroplast ROS burst in plant immunity is also reflected by a recent report by Zabala <italic>et al.</italic> [<xref rid="B21-antioxidants-05-00008" ref-type="bibr">21</xref>], who showed that the bacterial pathogen <italic>Pseudomonas syringae</italic> secretes pathogen effectors that are targeted to chloroplasts, where they prevent the organellar ROS burst by modulating the function of the photosynthetic electron transfer chain.</p><p>Even though it is evident that plants can sense the chemical nature (superoxide, hydrogen peroxide, singlet oxygen and hydroxyl radical) and sub-cellular localization of ROS, and trigger defense reactions accordingly, the signaling networks determining the acclimation response remain poorly understood [<xref rid="B22-antioxidants-05-00008" ref-type="bibr">22</xref>]. Even so, it is clear that evolution of mechanisms to sensitively respond to ROS as signaling molecules has provided significant competitiveness to plants in different ecological niches.</p><p>Since redox regulation is a key component in plant acclimation to varying light conditions, particularly in high light stress, light-dependent changes in gene expression may partially overlap with those induced by pathogens [<xref rid="B2-antioxidants-05-00008" ref-type="bibr">2</xref>]. Besides light intensity, the duration of the photoperiod has proved to be a key component that modulates both the availability of ROS [<xref rid="B23-antioxidants-05-00008" ref-type="bibr">23</xref>] as well as plant responses to elevated ROS levels [<xref rid="B24-antioxidants-05-00008" ref-type="bibr">24</xref>,<xref rid="B25-antioxidants-05-00008" ref-type="bibr">25</xref>,<xref rid="B26-antioxidants-05-00008" ref-type="bibr">26</xref>]. Yet another layer of cross-communication is commonly observed as acquired cross-tolerance. Plants pre-exposed to high levels of light, for example, display increased resistance to virulent strains of the bacterial hemibiotrophic pathogen <italic>Pseudomonas syringae</italic> or green peach aphid (<italic>Myzus persicae</italic>) [<xref rid="B27-antioxidants-05-00008" ref-type="bibr">27</xref>,<xref rid="B28-antioxidants-05-00008" ref-type="bibr">28</xref>]. Such cross-tolerance commonly associates with enhanced production of ROS and consequent oxidative signaling [<xref rid="B29-antioxidants-05-00008" ref-type="bibr">29</xref>]. To keep the oxidative signals in balance, plants deploy a multi-layered antioxidant network, including enzymes such as catalases (CAT), superoxide dismutases (SOD), ascorbate peroxidases (APX), peroxiredoxins (PRX) and thioredoxins (TRX) as well as the low-molecular-weight antioxidants ascorbate and glutathione, which maintain ROS balance and metabolic homeostasis in different cellular compartments [<xref rid="B30-antioxidants-05-00008" ref-type="bibr">30</xref>].</p><p>Beside antioxidant activities, post-translational regulation that modulates the activation state of signaling proteins is an important level of regulation in ROS signaling. Reversible phosphorylation of signaling proteins is an evolutionarily conserved mechanism that drives phosphorylation-relay cascades and their signaling interactions in animals and plants. Controlled activities among mitogen-activated protein kinases (MPKs) and Ca<sup>2+</sup>-dependent protein kinases (CDPKs, or CPKs in <italic>Arabidopsis thaliana</italic>) are well known for their importance in cellular stress signaling [<xref rid="B31-antioxidants-05-00008" ref-type="bibr">31</xref>,<xref rid="B32-antioxidants-05-00008" ref-type="bibr">32</xref>]. Here, we focus on the emerging role of type 2A protein phosphatases in these interactions.</p></sec><sec id="sec2-antioxidants-05-00008"><title>2. PP2A Phosphatase as a Regulatory Enzyme in Plant Stress</title><p>Trimeric type 2A protein phosphatases, composed of a catalytic subunit C, scaffold subunit A and regulatory subunit B, are evolutionarily conserved signaling components that regulate stress signaling in both animals and plants [<xref rid="B33-antioxidants-05-00008" ref-type="bibr">33</xref>]. The regulatory B subunit is commonly referred to as the &#x0201c;specificity unit&#x0201d; that determines the target specificity of the trimeric PP2A holoenzyme [<xref rid="B33-antioxidants-05-00008" ref-type="bibr">33</xref>,<xref rid="B34-antioxidants-05-00008" ref-type="bibr">34</xref>]. The <italic>Arabidopsis thaliana</italic> genome contains five different genes encoding C subunits, three genes for the A subunits and 17 genes encoding the variable regulatory B subunits, which are further divided into B, B&#x02032; and B&#x02019;&#x02019; families [<xref rid="B35-antioxidants-05-00008" ref-type="bibr">35</xref>]. The trimeric holoenzyme compositions therefore provide extensive variability and versatility for PP2A in regulatory networks. Besides the regulatory B subunit, PP2A function is further regulated by reversible methylation of a conserved C-terminal leucine residue [<xref rid="B36-antioxidants-05-00008" ref-type="bibr">36</xref>]. Moreover, both animals and plants possess regulatory components that further modulate the phosphatase activity as has been shown e.g., for the regulatory TAP46 protein in <italic>Arabidopsis</italic> [<xref rid="B37-antioxidants-05-00008" ref-type="bibr">37</xref>].</p><p>Recent studies have assigned functions for PP2A in plant stress signaling in several different model crop species. The potato PP2A catalytic subunit StPP2Ac2 and the tomato subunits LePP2Ac1 and LePP2Ac2 mediate jasmonic acid signaling after wounding [<xref rid="B38-antioxidants-05-00008" ref-type="bibr">38</xref>], while the tomato subunits LePP2Ac1, LePP2Ac2 and LePP2Ac3 operate in cold stress [<xref rid="B38-antioxidants-05-00008" ref-type="bibr">38</xref>]. Studies have also shown that the rice PP2A catalytic subunit OsPP2A-1-5 as well as the potato subunits StPP2Ac1, StPP2Ac2a, StPP2Ac2b and StPP2Ac3 become transcriptionally upregulated under salinity stress [<xref rid="B38-antioxidants-05-00008" ref-type="bibr">38</xref>,<xref rid="B39-antioxidants-05-00008" ref-type="bibr">39</xref>,<xref rid="B40-antioxidants-05-00008" ref-type="bibr">40</xref>]. Moreover, in wheat, TaPP2Ac-1 acts as a positive regulator of salt stress responses [<xref rid="B41-antioxidants-05-00008" ref-type="bibr">41</xref>]. Most of the research efforts have focused on unraveling the roles of the catalytic C-subunits, whereas little is known about the regulatory B-subunits. In wheat, B&#x02032;&#x02032;&#x003b1; subunit has been shown to positively regulate lateral root formation under osmotic stress conditions [<xref rid="B42-antioxidants-05-00008" ref-type="bibr">42</xref>]. Identification and characterization of other PP2A subunits in crop species will help in interpreting how PP2A regulates abiotic stress responses in useful plants.</p><p>In the model plant <italic>Arabidopsis thaliana</italic>, a recessive mutation of the catalytic subunit PP2A-C2 leads to enhanced sensitivity to abscisic acid (ABA), suggesting that this subunit is a negative regulator of ABA-mediated responses [<xref rid="B43-antioxidants-05-00008" ref-type="bibr">43</xref>]. The scaffold subunit PP2A-A1, or ROOTS CURL IN NAPHTHYLPHTHALAMIC ACID1 (RCN1), in turn acts as a positive regulator in ABA-related pathways, and <italic>rcn1</italic> mutants additionally display pleiotropic phenotypes in other phytohormone signaling pathways as well [<xref rid="B44-antioxidants-05-00008" ref-type="bibr">44</xref>,<xref rid="B45-antioxidants-05-00008" ref-type="bibr">45</xref>]. PP2A-A3 has been identified as an important element in the low-temperature signaling pathway in <italic>Arabidopsis</italic>, inhibiting the cold adaptative response [<xref rid="B46-antioxidants-05-00008" ref-type="bibr">46</xref>]. Regarding the regulatory B-subunits, B&#x02032;&#x02032;&#x003b1; and B&#x02032;&#x02032;&#x003b2; have been shown to modulate plant isoprenoid biosynthesis pathway, B&#x02032;&#x02032;&#x003b1; playing a distinct role in plants under salt stress [<xref rid="B47-antioxidants-05-00008" ref-type="bibr">47</xref>]. The regulatory subunit PP2A-B&#x02032;&#x003b3;, in turn, seems to be present in heterotrimers involved in heat stress response [<xref rid="B48-antioxidants-05-00008" ref-type="bibr">48</xref>]. A <italic>pp2a-b&#x02032;&#x003b3;&#x003b6;</italic> double mutant, deficient in two highly similar subunits B&#x02032;&#x003b3; and B&#x02032;&#x003b6; showed increased resistance towards photo-oxidative stress under a stress-combination of high light, elevated temperature and limited water availability [<xref rid="B49-antioxidants-05-00008" ref-type="bibr">49</xref>]. Hence, different PP2A subunits, presumably operating in different trimeric PP2A holoenzymes, mediate both positive and negative regulation of abiotic stress responses, allowing delicate fine-tuning of responses under a range of environmental challenges.</p><p>PP2A has also been shown to function in plant-biotic interactions. Catalytic PP2A subunits of tobacco have been related to effector-triggered immunity (ETI) [<xref rid="B50-antioxidants-05-00008" ref-type="bibr">50</xref>], a defense response which commonly includes a hypersensitive response, a particular type of cell death in plants. In <italic>Arabidopsis</italic>, the subunit B&#x02032;&#x003b3; negatively regulates defense against green peach aphids and is required for transcriptional and post-translational control of immune processes [<xref rid="B28-antioxidants-05-00008" ref-type="bibr">28</xref>,<xref rid="B51-antioxidants-05-00008" ref-type="bibr">51</xref>]. Moreover, mutants deficient in B&#x02032;&#x003b3; and B&#x02032;&#x003b8; were shown to display lowered susceptibility towards the bacterial pathogen <italic>Pseudomonas syringae pv. tomato</italic> [<xref rid="B52-antioxidants-05-00008" ref-type="bibr">52</xref>]. Mechanistic insights into PP2A-dependent regulation were recently provided by Segonzac <italic>et al.</italic> [<xref rid="B53-antioxidants-05-00008" ref-type="bibr">53</xref>], who showed that a trimeric PP2A protein phosphatase composed of the catalytic subunit C4, the scaffold subunit A1 and regulatory B subunits B&#x02032;&#x003b7; or B&#x02032;&#x003b6; binds and limits the autophosphorylation, and hence activity, of the plasma membrane receptor kinase BAK1. These protein interactions also negatively regulate the flagellin-induced ROS burst into the apoplast [<xref rid="B53-antioxidants-05-00008" ref-type="bibr">53</xref>]. Consequently, <italic>pp2a-c4</italic> and <italic>pp2a-a1</italic> knock-out lines are more resistant to the virulent bacterial pathogen <italic>Pseudomonas syringae pv. tomato</italic> [<xref rid="B53-antioxidants-05-00008" ref-type="bibr">53</xref>]. Taken together, PP2A subunits respond to and mediate various stress signaling effects in different plant species, but the molecular mechanisms are only starting to emerge.</p><p>PP2A mutant lines with deficiencies in the regulation of stress responses may show simultaneous changes both in hormone and ROS signaling. This stems from the fact that ROS signaling and hormonal signaling pathways are tightly connected, not only in eliciting stress resistance but also in determining developmental processes [<xref rid="B54-antioxidants-05-00008" ref-type="bibr">54</xref>]. ROS act as secondary messengers in many hormone-signaling pathways, but, in the case of stress signaling, ROS work also upstream by eliciting hormonal signals. In <italic>Arabidopsis</italic>, PP2A-B&#x02032;&#x003b3; has been shown to be a negative regulator of organellar ROS accumulation and the consequent salicylic acid (SA) signaling elicited by these ROS [<xref rid="B55-antioxidants-05-00008" ref-type="bibr">55</xref>]. In ABA signaling, PP2A-B&#x02032;&#x003b1;, B&#x02032;&#x003b2; and B&#x02032;&#x003b4; are direct interactors of the protein kinase OPEN STOMATA 1 (OST1), which is a major component of ABA signaling in guard cells and has been shown to regulate apoplastic ROS production through phosphorylation of the NADPH oxidase RbohF [<xref rid="B56-antioxidants-05-00008" ref-type="bibr">56</xref>,<xref rid="B57-antioxidants-05-00008" ref-type="bibr">57</xref>]. However, the physiological role of PP2A in these interactions remains unclear. Altogether, further studies are needed to pinpoint the specific regulatory nodes in the stress signaling networks governed by PP2A.</p></sec><sec id="sec3-antioxidants-05-00008"><title>3. PP2A-B&#x02032;&#x003b3; as a Regulator of ROS Signaling and Cell Death</title><p>Attempts to understand the role of PP2A in stress resistance led to the identification of PP2AB&#x02032;&#x003b3; as a putative component in light acclimation and defense signaling in <italic>Arabidopsis</italic> [<xref rid="B51-antioxidants-05-00008" ref-type="bibr">51</xref>]. When grown under 50% humidity and moderate light intensity, <italic>pp2a-b&#x02032;&#x003b3;</italic> mutant displayed premature yellowing and constitutive activation of salicylic acid-(SA-) and jasmonic acid-(JA-) dependent pathogenesis responses, whereas growth under high levels of light abolished the yellowing phenotype and also the immune reactions become alleviated. Notably, even slight variations in the growth conditions, such as growth under 65% humidity at 200 &#x000b5;mol&#x000b7;m<sup>&#x02212;2</sup>&#x000b7;s<sup>&#x02212;1</sup> [<xref rid="B50-antioxidants-05-00008" ref-type="bibr">50</xref>] was sufficient to rescue the yellowing <italic>pp2a-b&#x02032;&#x003b3;</italic> mutant phenotype, which makes it a tricky tool for analysis of PP2A mediated phenotypes by mutant approaches. The yellowing <italic>pp2a-b&#x02032;&#x003b3;</italic> mutant phenotype was accompanied by elevated foliar ROS levels and eventually cell death under moderate light intensities, but significant alterations in the redox status of the main antioxidants ascorbate and glutathione were not observed [<xref rid="B51-antioxidants-05-00008" ref-type="bibr">51</xref>,<xref rid="B55-antioxidants-05-00008" ref-type="bibr">55</xref>,<xref rid="B58-antioxidants-05-00008" ref-type="bibr">58</xref>].</p><p>Recently, by taking advantage of selective reaction monitoring (SRM) mass spectrometry, Konert <italic>et al.</italic> [<xref rid="B58-antioxidants-05-00008" ref-type="bibr">58</xref>] showed that <italic>pp2a-b&#x02032;&#x003b3;</italic> may partially circumvent the constitutive ROS accumulation through a feedback loop where ROS induce up-regulation of the mitochondrial bypass pathways employing alternative oxidases AOX1A and AOX1D. AOX1A has been extensively studied and shown to operate in diverting excess reducing equivalents and hence in minimizing the formation of ROS within the photosynthetic and mitochondrial electron transfer chains [<xref rid="B59-antioxidants-05-00008" ref-type="bibr">59</xref>,<xref rid="B60-antioxidants-05-00008" ref-type="bibr">60</xref>]. The other AOX isoforms have remained less well characterized and their importance in stress responses is not well understood. Shuttling of redox-active intermediates between the organelles and the cytoplasm has a very likely impact on the formation of ROS in different cellular compartments and hence modulate redox signaling effects within the entire cell [<xref rid="B59-antioxidants-05-00008" ref-type="bibr">59</xref>,<xref rid="B61-antioxidants-05-00008" ref-type="bibr">61</xref>].</p><p>To promote organellar ROS signaling effects and to stabilize the <italic>pp2a-b&#x02032;&#x003b3;</italic> mutant phenotype, Li <italic>et al.</italic> [<xref rid="B55-antioxidants-05-00008" ref-type="bibr">55</xref>] took advantage of the <italic>catalase 2</italic> (<italic>cat2</italic>) mutant as a tool to trigger oxidative signaling in the <italic>pp2a-b&#x02032;&#x003b3;</italic> mutant background. CATALASE 2 (CAT2) is the major antioxidant enzyme that quenches photorespiratory H<sub>2</sub>O<sub>2</sub> in peroxisomes, and hence provides a highly informative system to study factors involved in intracellular ROS signaling [<xref rid="B62-antioxidants-05-00008" ref-type="bibr">62</xref>]. Intriguingly, however, SA-induced cell death of <italic>cat2</italic> is conditioned by day length and becomes observable only under long-day conditions, even though oxidative stress in the <italic>cat2</italic> mutant prevails also under short photoperiods [<xref rid="B24-antioxidants-05-00008" ref-type="bibr">24</xref>,<xref rid="B25-antioxidants-05-00008" ref-type="bibr">25</xref>,<xref rid="B63-antioxidants-05-00008" ref-type="bibr">63</xref>]. Recently, Li <italic>et al.</italic> [<xref rid="B55-antioxidants-05-00008" ref-type="bibr">55</xref>] showed that, under short photoperiods, the ROS-induced cell death becomes suppressed through pathways that require the activity of PP2AB&#x02032;&#x003b3;. This conclusion was supported by proteomic analysis, which showed that PP2A-B&#x02032;&#x003b3; is required to control ROS-induced changes in the abundance and phosphorylation of the key pathogenesis-associated marker proteins PATHPGENESIS-RELATED PROTEIN 2 (PR2) and PATHOGENESIS-RELATED PROTEIN 5 (PR5) in short-day conditions [<xref rid="B55-antioxidants-05-00008" ref-type="bibr">55</xref>].</p><p>Even though PP2A-B&#x02032;&#x003b3; is required to control intracellular oxidative stress responses and associated cell death in <italic>Arabidopsis</italic> [<xref rid="B55-antioxidants-05-00008" ref-type="bibr">55</xref>], analysis of PP2A-B&#x02032;&#x003b3; and the highly similar PP2A-B&#x02032;&#x003b6; in stress responses revealed that deficiencies in these PP2A subunits lead to alleviation of biotic stress responses and induction of photoprotective mechanisms and enhanced tolerance against abiotic stress [<xref rid="B28-antioxidants-05-00008" ref-type="bibr">28</xref>,<xref rid="B49-antioxidants-05-00008" ref-type="bibr">49</xref>]. Hence, PP2A-B&#x02032;&#x003b3; and PP2A-B&#x02032;&#x003b6; appear to mediate opposing effects on cell death regulation and impact the decision between ROS-induced cell death and acclimation [<xref rid="B49-antioxidants-05-00008" ref-type="bibr">49</xref>]. However, the underlying mechanisms remain to be established, and hence what determines the threshold is not well understood. It has been suggested that the ultimate outcome of ROS-induced responses, which may lead to activation of a strictly controlled cascade of programmed cell death or elicit protective mechanisms and acclimation, becomes determined by opposing actions of pro-cell death and anti-cell death signaling mechanisms [<xref rid="B22-antioxidants-05-00008" ref-type="bibr">22</xref>]. Intriguingly, the outcomes of the genetic interactions in the <italic>cat2 pp2a-b&#x02032;&#x003b3;</italic> double mutant and in the <italic>pp2a-b&#x02032;&#x003b3;&#x003b6;</italic> are very different. While salicylic acid signaling and cell death are promoted in the <italic>cat2 pp2a-b&#x02032;&#x003b3;</italic> double mutant that experiences oxidative stress [<xref rid="B55-antioxidants-05-00008" ref-type="bibr">55</xref>], in the double mutant combination <italic>pp2a-b&#x02032;&#x003b3;&#x003b6;</italic>, protective photo-oxidative stress responses are activated at an increased level, resulting in an enhanced activation of light acclimation [<xref rid="B49-antioxidants-05-00008" ref-type="bibr">49</xref>]. Signaling in plant cells is characterized by interplay between different signal transduction pathways, often also such diverse ones as biotic and abiotic stress response pathways. PP2A-B&#x02032;&#x003b3; and PP2A-B&#x02032;&#x003b6; control intracellular ROS homeostasis and signaling and thereby influence the plants different physiological outcomes, comprising cell death, growth and acclimation upon environmental perturbations.</p></sec><sec id="sec4-antioxidants-05-00008"><title>4. PP2A as a Regulator of Antioxidant Activities</title><p>Proteomic studies suggested that PP2A-B&#x02032;&#x003b3; is required to control the abundance of antioxidant enzymes, such as the chloroplastic copper/zinc SOD 2 (CSD2) and monodehydroascorbate reductase 2 (MDAR2), as well as the mitochondrial AOX1A and 1D, all of which have well-known roles in the maintenance of cellular ROS homeostasis [<xref rid="B51-antioxidants-05-00008" ref-type="bibr">51</xref>,<xref rid="B55-antioxidants-05-00008" ref-type="bibr">55</xref>,<xref rid="B58-antioxidants-05-00008" ref-type="bibr">58</xref>]. The AOX1A gene is a target for ANAC013-mediated transcriptional activation in response to mitochondrial stress signals [<xref rid="B64-antioxidants-05-00008" ref-type="bibr">64</xref>]. ANAC013 is an important regulator of mitochondrial retrograde regulation/signaling, since it controls a set of genes that are common and robust candidates for mitochondrial retrograde regulation under different types of stresses (denoted Mitochondrion Dysfunction Stimulon Genes) [<xref rid="B64-antioxidants-05-00008" ref-type="bibr">64</xref>]. Indeed, Giraud <italic>et al.</italic> [<xref rid="B65-antioxidants-05-00008" ref-type="bibr">65</xref>] showed that AOX1A is required for full tolerance against combined effects of light stress and drought.</p><p>While the <italic>pp2a-b&#x02032;&#x003b3;</italic> mutant may partially circumvent ROS accumulation through enhanced quenching of redox equivalents by mitochondrial AOX activity [<xref rid="B58-antioxidants-05-00008" ref-type="bibr">58</xref>], transcript profiling of high light acclimated <italic>pp2a-b&#x02032;&#x003b3;&#x003b6;</italic> double mutants did not show up-regulation of AOX1A gene expression [<xref rid="B49-antioxidants-05-00008" ref-type="bibr">49</xref>]. Instead, <italic>pp2a-b&#x02032;&#x003b3;&#x003b6;</italic> double mutants displayed increased transcript abundance for the H<sub>2</sub>O<sub>2</sub> scavenging enzyme ascorbate peroxidase 2 (APX2), heat shock transcription factor A3 (HSFA3) and the heat shock proteins HSP18.2, HSP21 and HSP22, which are transcriptionally co-regulated targets of HSFs [<xref rid="B49-antioxidants-05-00008" ref-type="bibr">49</xref>]. The APX2 gene is transcriptionally highly responsive to a number of factors, including reduction state of the photosynthetic electron transfer chain, ABA signaling, chloroplastic and apoplastic ROS, and metabolic signals exemplified by accumulation of phosphoadenosine 5&#x02032;-phosphate (PAP) in stress-exposed leaves [<xref rid="B13-antioxidants-05-00008" ref-type="bibr">13</xref>,<xref rid="B66-antioxidants-05-00008" ref-type="bibr">66</xref>,<xref rid="B67-antioxidants-05-00008" ref-type="bibr">67</xref>,<xref rid="B68-antioxidants-05-00008" ref-type="bibr">68</xref>]. Jung <italic>et al.</italic> [<xref rid="B69-antioxidants-05-00008" ref-type="bibr">69</xref>] suggested, that HSFA3 would modulate APX2 expression under high levels of light and high temperature but would not mediate signals arising from reduction of the plastoquinone pool in the photosynthetic thylakoid membranes. A good candidate for mediating the HSFA3-dependent activation of APX2 is H<sub>2</sub>O<sub>2</sub>, which is generated in both heat- and light-induced stresses [<xref rid="B70-antioxidants-05-00008" ref-type="bibr">70</xref>]. Through a yet unidentified mechanism, PP2A-B&#x02032;&#x003b3; is required to control the extent of photo-oxidative stress responses, exemplified here by enhanced expression of APX2 in <italic>Arabidopsis</italic> leaves.</p></sec><sec id="sec5-antioxidants-05-00008"><title>5. Conclusions</title><p>PP2A phosphatases appear to control multiple targets in the stress signaling networks in plants. Such modulation of different signaling nodes is likely to involve PP2A phosphatases with different heterotrimeric compositions. Besides resolving the identity of the regulatory PP2A holoenzymes and the functional redundancy among individual PP2A subunits, the key research questions still to be resolved include elucidation of the PP2A target phosphoproteins and their functional significance and co-operation in the stress resistance in plants.</p></sec></body><back><ack><title>Acknowledgments</title><p>This work was supported by Academy of Finland Center of Excellence project 271832 and University of Turku Doctoral Programme in Molecular Life Sciences. Guido Durian was supported by Academy of Finland post-doctoral fellowship (289687). Jes&#x000fa;s Pascual was supported by a fellowship from the Formaci&#x000f3;n de Profesorado Universitario (FPU) program (AP2010-5857, Ministry of Education, Spain).</p></ack><notes><title>Author Contributions</title><p>Saijaliisa Kangasj&#x000e4;rvi conceived the idea; Moona Rahikainen, Jes&#x000fa;s Pascual, Sara Alegre, Guido Durian and Saijaliisa Kangasj&#x000e4;rvi designed and wrote the paper.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><glossary><title>Abbreviations</title><p>The following abbreviations are used in this manuscript:</p><array><tbody><tr><td align="left" valign="middle" rowspan="1" colspan="1">ABA</td><td align="left" valign="middle" rowspan="1" colspan="1">abscisic acid</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">AOX</td><td align="left" valign="middle" rowspan="1" colspan="1">alternative oxidase</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">APX</td><td align="left" valign="middle" rowspan="1" colspan="1">ascorbate peroxidases</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">CAT</td><td align="left" valign="middle" rowspan="1" colspan="1">catalase</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">CDPK, CPK</td><td align="left" valign="middle" rowspan="1" colspan="1">calcium-dependent protein kinase</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">CSD</td><td align="left" valign="middle" rowspan="1" colspan="1">copper/zinc superoxide dismutase</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ETI</td><td align="left" valign="middle" rowspan="1" colspan="1">effector-triggered immunity</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">H<sub>2</sub>O<sub>2</sub></td><td align="left" valign="middle" rowspan="1" colspan="1">hydrogen peroxide</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">HSF</td><td align="left" valign="middle" rowspan="1" colspan="1">heat shock factor</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">HSP</td><td align="left" valign="middle" rowspan="1" colspan="1">heat shock protein</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">JA</td><td align="left" valign="middle" rowspan="1" colspan="1">jasmonic acid</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">MDAR</td><td align="left" valign="middle" rowspan="1" colspan="1">monodehydroascorbate reductase</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">MPK</td><td align="left" valign="middle" rowspan="1" colspan="1">mitogen activated protein kinase</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PAP</td><td align="left" valign="middle" rowspan="1" colspan="1">phosphoadenosine 5&#x02032;-phosphate</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PP2A</td><td align="left" valign="middle" rowspan="1" colspan="1">Protein Phosphatase 2A</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">PRX</td><td align="left" valign="middle" rowspan="1" colspan="1">peroxiredoxin</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">ROS</td><td align="left" valign="middle" rowspan="1" colspan="1">Reactive oxygen species</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">SA</td><td align="left" valign="middle" rowspan="1" colspan="1">salicylic acid</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">SOD</td><td align="left" valign="middle" rowspan="1" colspan="1">superoxide dismutase</td></tr><tr><td align="left" valign="middle" rowspan="1" colspan="1">TRX</td><td align="left" valign="middle" rowspan="1" colspan="1">thioredoxin</td></tr></tbody></array></glossary><ref-list><title>References</title><ref id="B1-antioxidants-05-00008"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mullineaux</surname><given-names>P.</given-names></name><name><surname>Ball</surname><given-names>L.</given-names></name><name><surname>Escobar</surname><given-names>C.</given-names></name><name><surname>Karpinska</surname><given-names>B.</given-names></name><name><surname>Creissen</surname><given-names>G.</given-names></name><name><surname>Karpinski</surname><given-names>S.</given-names></name></person-group>
+<article-title>Are diverse signaling pathways integrated in the regulation of <italic>Arabidopsis</italic> antioxidant defence gene expression in response to excess excitation energy?</article-title>
+<source>Phil. Trans. R. Soc. B</source>
+<year>2000</year>
+<volume>355</volume>
+<fpage>1531</fpage>
+<lpage>1540</lpage>
+<pub-id pub-id-type="doi">10.1098/rstb.2000.0713</pub-id>
+<pub-id pub-id-type="pmid">11128006</pub-id></element-citation></ref><ref id="B2-antioxidants-05-00008"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sierla</surname><given-names>M.</given-names></name><name><surname>Rahikainen</surname><given-names>M.</given-names></name><name><surname>Saloj&#x000e4;rvi</surname><given-names>J.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>J.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name></person-group>
+<article-title>Apoplastic and chloroplastic redox signaling networks in plant stress responses</article-title>
+<source>Antioxid. Redox Signal.</source>
+<year>2013</year>
+<volume>18</volume>
+<fpage>2220</fpage>
+<lpage>2239</lpage>
+<pub-id pub-id-type="doi">10.1089/ars.2012.5016</pub-id>
+<pub-id pub-id-type="pmid">23157163</pub-id></element-citation></ref><ref id="B3-antioxidants-05-00008"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Allahverdiyeva</surname><given-names>Y.</given-names></name><name><surname>Battchikova</surname><given-names>N.</given-names></name><name><surname>Brosch&#x000e9;</surname><given-names>M.</given-names></name><name><surname>Fujii</surname><given-names>H.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name><name><surname>Mulo</surname><given-names>P.</given-names></name><name><surname>M&#x000e4;h&#x000f6;nen</surname><given-names>A.P.</given-names></name><name><surname>Nieminen</surname><given-names>K.</given-names></name><name><surname>Overmyer</surname><given-names>K.</given-names></name><name><surname>Saloj&#x000e4;rvi</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title>Integration of photosynthesis, development and stress as an opportunity for plant biology</article-title>
+<source>New Phytol.</source>
+<year>2015</year>
+<volume>208</volume>
+<fpage>647</fpage>
+<lpage>655</lpage>
+<pub-id pub-id-type="doi">10.1111/nph.13549</pub-id>
+<pub-id pub-id-type="pmid">26174112</pub-id></element-citation></ref><ref id="B4-antioxidants-05-00008"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Asai</surname><given-names>T.</given-names></name><name><surname>Tena</surname><given-names>G.</given-names></name><name><surname>Plotnikova</surname><given-names>J.</given-names></name><name><surname>Willmann</surname><given-names>M.R.</given-names></name><name><surname>Chiu</surname><given-names>W.L.</given-names></name><name><surname>Gomez-Gomez</surname><given-names>L.</given-names></name><name><surname>Boller</surname><given-names>T.</given-names></name><name><surname>Ausubel</surname><given-names>F.M.</given-names></name><name><surname>Sheen</surname><given-names>J.</given-names></name></person-group>
+<article-title>MAP kinase signaling cascade in <italic>Arabidopsis</italic> innate immunity</article-title>
+<source>Nature</source>
+<year>2002</year>
+<volume>415</volume>
+<fpage>977</fpage>
+<lpage>983</lpage>
+<pub-id pub-id-type="doi">10.1038/415977a</pub-id>
+<pub-id pub-id-type="pmid">11875555</pub-id></element-citation></ref><ref id="B5-antioxidants-05-00008"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>J.</given-names></name><name><surname>Shao</surname><given-names>F.</given-names></name><name><surname>Li</surname><given-names>Y.</given-names></name><name><surname>Cui</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>L.</given-names></name><name><surname>Li</surname><given-names>H.</given-names></name><name><surname>Zou</surname><given-names>Y.</given-names></name><name><surname>Long</surname><given-names>C.</given-names></name><name><surname>Lan</surname><given-names>L.</given-names></name><name><surname>Chai</surname><given-names>J.</given-names></name><name><surname>Chen</surname><given-names>S.</given-names></name><name><surname>Tang</surname><given-names>X.</given-names></name><name><surname>Zhou</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>A Pseudomonas syringae effector inactivates MAPKs to suppress PAMP-induced immunity in plants</article-title>
+<source>Cell Host. Microb.</source>
+<year>2007</year>
+<volume>1</volume>
+<fpage>175</fpage>
+<lpage>185</lpage>
+<pub-id pub-id-type="doi">10.1016/j.chom.2007.03.006</pub-id>
+<pub-id pub-id-type="pmid">18005697</pub-id></element-citation></ref><ref id="B6-antioxidants-05-00008"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Savatin</surname><given-names>D.V.</given-names></name><name><surname>Bisceglia</surname><given-names>N.G.</given-names></name><name><surname>Marti</surname><given-names>L.</given-names></name><name><surname>Fabbri</surname><given-names>C.</given-names></name><name><surname>Cervone</surname><given-names>F.</given-names></name><name><surname>de Lorenzo</surname><given-names>G.</given-names></name></person-group>
+<article-title>The Arabidopsis NUCLEUS-AND PHRAGMOPLAST-LOCALIZED KINASE1-related protein kinases are required for elicitor-induced oxidative burst and immunity</article-title>
+<source>Plant Physiol.</source>
+<year>2014</year>
+<volume>165</volume>
+<fpage>1188</fpage>
+<lpage>1202</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.114.236901</pub-id>
+<pub-id pub-id-type="pmid">24812107</pub-id></element-citation></ref><ref id="B7-antioxidants-05-00008"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hideg</surname><given-names>&#x000c9;.</given-names></name><name><surname>K&#x000e1;lai</surname><given-names>T.</given-names></name><name><surname>Vass</surname><given-names>I.</given-names></name></person-group>
+<article-title>Photoinhibition of photosynthesis <italic>in vivo</italic> results in singlet oxygen production detection via nitroxide-induced fluorescence quenching in broad bean leaves</article-title>
+<source>Biochemistry</source>
+<year>1998</year>
+<volume>37</volume>
+<fpage>11405</fpage>
+<lpage>11411</lpage>
+<pub-id pub-id-type="doi">10.1021/bi972890+</pub-id>
+<pub-id pub-id-type="pmid">9708975</pub-id></element-citation></ref><ref id="B8-antioxidants-05-00008"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Foyer</surname><given-names>C.H.</given-names></name><name><surname>Noctor</surname><given-names>G.</given-names></name></person-group>
+<article-title>Redox sensing and signaling associated with reactive oxygen in chloroplasts, peroxisomes and mitochondria</article-title>
+<source>Physiol. Plant.</source>
+<year>2003</year>
+<volume>119</volume>
+<fpage>355</fpage>
+<lpage>364</lpage>
+<pub-id pub-id-type="doi">10.1034/j.1399-3054.2003.00223.x</pub-id>
+</element-citation></ref><ref id="B9-antioxidants-05-00008"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karpinski</surname><given-names>S.</given-names></name><name><surname>Szechynska-Hebda</surname><given-names>M.</given-names></name></person-group>
+<article-title>Cellular light memory, photo-electrochemical and redox retrograde signaling in plants</article-title>
+<source>Biotechnologia</source>
+<year>2012</year>
+<volume>93</volume>
+<fpage>27</fpage>
+<lpage>39</lpage>
+<pub-id pub-id-type="doi">10.5114/bta.2012.46566</pub-id>
+</element-citation></ref><ref id="B10-antioxidants-05-00008"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karpinski</surname><given-names>S.</given-names></name><name><surname>Szechy&#x00144;ska-Hebda</surname><given-names>M.</given-names></name><name><surname>Wituszy&#x00144;ska</surname><given-names>W.</given-names></name><name><surname>Burdiak</surname><given-names>P.</given-names></name></person-group>
+<article-title>Light acclimation, retrograde signaling, cell death and immune defences in plants</article-title>
+<source>Plant. Cell Environ.</source>
+<year>2013</year>
+<volume>36</volume>
+<fpage>736</fpage>
+<lpage>744</lpage>
+<pub-id pub-id-type="doi">10.1111/pce.12018</pub-id>
+<pub-id pub-id-type="pmid">23046215</pub-id></element-citation></ref><ref id="B11-antioxidants-05-00008"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Suorsa</surname><given-names>M.</given-names></name><name><surname>J&#x000e4;rvi</surname><given-names>S.</given-names></name><name><surname>Grieco</surname><given-names>M.</given-names></name><name><surname>Nurmi</surname><given-names>M.</given-names></name><name><surname>Pietrzykowska</surname><given-names>M.</given-names></name><name><surname>Rantala</surname><given-names>M.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name><name><surname>Paakkarinen</surname><given-names>V.</given-names></name><name><surname>Tikkanen</surname><given-names>M.</given-names></name><name><surname>Jansson</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>PROTON GRADIENT REGULATION5 is essential for proper acclimation of <italic>Arabidopsis</italic> photosystem I to naturally and artificially fluctuating light conditions</article-title>
+<source>Plant Cell</source>
+<year>2012</year>
+<volume>24</volume>
+<fpage>2934</fpage>
+<lpage>2948</lpage>
+<pub-id pub-id-type="doi">10.1105/tpc.112.097162</pub-id>
+<pub-id pub-id-type="pmid">22822205</pub-id></element-citation></ref><ref id="B12-antioxidants-05-00008"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tyystj&#x000e4;rvi</surname><given-names>E.</given-names></name></person-group>
+<article-title>Photoinhibition of Photosystem II</article-title>
+<source>Int. Rev. Cell Mol. Biol.</source>
+<year>2013</year>
+<volume>300</volume>
+<fpage>243</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="pmid">23273864</pub-id></element-citation></ref><ref id="B13-antioxidants-05-00008"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karpinski</surname><given-names>S.</given-names></name><name><surname>Reynolds</surname><given-names>H.</given-names></name><name><surname>Karpinska</surname><given-names>B.</given-names></name><name><surname>Wingsle</surname><given-names>G.</given-names></name><name><surname>Creissen</surname><given-names>G.</given-names></name><name><surname>Mullineaux</surname><given-names>P.M.</given-names></name></person-group>
+<article-title>Systemic signaling and acclimation in response to excess excitation energy in <italic>Arabidopsis</italic></article-title>
+<source>Science</source>
+<year>1999</year>
+<volume>284</volume>
+<fpage>654</fpage>
+<lpage>657</lpage>
+<pub-id pub-id-type="doi">10.1126/science.284.5414.654</pub-id>
+<pub-id pub-id-type="pmid">10213690</pub-id></element-citation></ref><ref id="B14-antioxidants-05-00008"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karpinski</surname><given-names>S.</given-names></name><name><surname>Gabrys</surname><given-names>H.</given-names></name><name><surname>Mateo</surname><given-names>A.</given-names></name><name><surname>Karpinska</surname><given-names>B.</given-names></name><name><surname>Mullineaux</surname><given-names>P.M.</given-names></name></person-group>
+<article-title>Light perception in plant disease defence signaling</article-title>
+<source>Curr. Opin. Plant Biol.</source>
+<year>2003</year>
+<volume>6</volume>
+<fpage>390</fpage>
+<lpage>396</lpage>
+<pub-id pub-id-type="doi">10.1016/S1369-5266(03)00061-X</pub-id>
+<pub-id pub-id-type="pmid">12873535</pub-id></element-citation></ref><ref id="B15-antioxidants-05-00008"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pogson</surname><given-names>B.J.</given-names></name><name><surname>Woo</surname><given-names>N.S.</given-names></name><name><surname>F&#x000f6;rster</surname><given-names>B.</given-names></name><name><surname>Small</surname><given-names>I.D.</given-names></name></person-group>
+<article-title>Plastid signaling to the nucleus and beyond</article-title>
+<source>Trends Plant Sci.</source>
+<year>2008</year>
+<volume>13</volume>
+<fpage>602</fpage>
+<lpage>609</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tplants.2008.08.008</pub-id>
+<pub-id pub-id-type="pmid">18838332</pub-id></element-citation></ref><ref id="B16-antioxidants-05-00008"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name><name><surname>Tikkanen</surname><given-names>M.</given-names></name><name><surname>Durian</surname><given-names>G.</given-names></name><name><surname>Aro</surname><given-names>E.-M.</given-names></name></person-group>
+<article-title>Photosynthetic light reactions&#x02014;An adjustable hub in basic production and plant immunity signaling</article-title>
+<source>Plant Physiol. Biochem.</source>
+<year>2014</year>
+<volume>81</volume>
+<fpage>128</fpage>
+<lpage>134</lpage>
+<pub-id pub-id-type="doi">10.1016/j.plaphy.2013.12.004</pub-id>
+<pub-id pub-id-type="pmid">24361390</pub-id></element-citation></ref><ref id="B17-antioxidants-05-00008"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trotta</surname><given-names>A.</given-names></name><name><surname>Rahikainen</surname><given-names>M.</given-names></name><name><surname>Konert</surname><given-names>G.</given-names></name><name><surname>Finazzi</surname><given-names>G.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name></person-group>
+<article-title>Signalling crosstalk in light stress and immune reactions in plants</article-title>
+<source>Phil. Trans. R. Soc. B</source>
+<year>2014</year>
+<volume>369</volume>
+<pub-id pub-id-type="doi">10.1098/rstb.2013.0235</pub-id>
+<pub-id pub-id-type="pmid">24591720</pub-id></element-citation></ref><ref id="B18-antioxidants-05-00008"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stael</surname><given-names>S.</given-names></name><name><surname>Kmiecik</surname><given-names>P.</given-names></name><name><surname>Willems</surname><given-names>P.</given-names></name><name><surname>van der Kelen</surname><given-names>K.</given-names></name><name><surname>Coll</surname><given-names>N.S.</given-names></name><name><surname>Teige</surname><given-names>M.</given-names></name><name><surname>van Breusegem</surname><given-names>F.</given-names></name></person-group>
+<article-title>Plant innate immunity&#x02014;Sunny side up?</article-title>
+<source>Trends Plant Sci.</source>
+<year>2015</year>
+<volume>20</volume>
+<fpage>3</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tplants.2014.10.002</pub-id>
+<pub-id pub-id-type="pmid">25457110</pub-id></element-citation></ref><ref id="B19-antioxidants-05-00008"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nomura</surname><given-names>H.</given-names></name><name><surname>Komori</surname><given-names>T.</given-names></name><name><surname>Uemura</surname><given-names>S.</given-names></name><name><surname>Kanda</surname><given-names>Y.</given-names></name><name><surname>Shimotani</surname><given-names>K.</given-names></name><name><surname>Nakai</surname><given-names>K.</given-names></name><name><surname>Furuichi</surname><given-names>T.</given-names></name><name><surname>Takebayashi</surname><given-names>K.</given-names></name><name><surname>Sugimoto</surname><given-names>T.</given-names></name><name><surname>Sano</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Chloroplast-mediated activation of plant immune signaling in <italic>Arabidopsis</italic></article-title>
+<source>Nat. Commun.</source>
+<year>2012</year>
+<volume>3</volume>
+<elocation-id>8</elocation-id>
+<pub-id pub-id-type="doi">10.1038/ncomms1926</pub-id>
+<pub-id pub-id-type="pmid">22735454</pub-id></element-citation></ref><ref id="B20-antioxidants-05-00008"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Caplan</surname><given-names>J.L.</given-names></name><name><surname>Kumar</surname><given-names>A.S.</given-names></name><name><surname>Park</surname><given-names>E.</given-names></name><name><surname>Padmanabhan</surname><given-names>M.S.</given-names></name><name><surname>Hoban</surname><given-names>K.</given-names></name><name><surname>Modla</surname><given-names>S.</given-names></name><name><surname>Czymmek</surname><given-names>K.</given-names></name><name><surname>Dinesh-Kumar</surname><given-names>S.P.</given-names></name></person-group>
+<article-title>Chloroplast stromules function during innate immunity</article-title>
+<source>Dev. Cell</source>
+<year>2015</year>
+<volume>34</volume>
+<fpage>45</fpage>
+<lpage>57</lpage>
+<pub-id pub-id-type="doi">10.1016/j.devcel.2015.05.011</pub-id>
+<pub-id pub-id-type="pmid">26120031</pub-id></element-citation></ref><ref id="B21-antioxidants-05-00008"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zabala</surname><given-names>M.</given-names></name><name><surname>Littlejohn</surname><given-names>G.</given-names></name><name><surname>Jayaraman</surname><given-names>S.</given-names></name><name><surname>Studholme</surname><given-names>D.</given-names></name><name><surname>Bailey</surname><given-names>D.</given-names></name><name><surname>Lawson</surname><given-names>T.</given-names></name><name><surname>Tillich</surname><given-names>M.</given-names></name><name><surname>Licht</surname><given-names>D.</given-names></name><name><surname>B&#x000f6;lter</surname><given-names>B.</given-names></name><name><surname>Delfino</surname><given-names>L.</given-names></name><etal/></person-group>
+<article-title>Chloroplasts play a central role in plant defence and are targeted by pathogen effectors</article-title>
+<source>Nat. Plants</source>
+<year>2015</year>
+<volume>1</volume>
+<elocation-id>8</elocation-id>
+<pub-id pub-id-type="doi">10.1038/nplants.2015.74</pub-id>
+</element-citation></ref><ref id="B22-antioxidants-05-00008"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mullineaux</surname><given-names>P.M.</given-names></name><name><surname>Baker</surname><given-names>N.R.</given-names></name></person-group>
+<article-title>Oxidative stress: Antagonistic signaling for acclimation or cell death?</article-title>
+<source>Plant Physiol.</source>
+<year>2010</year>
+<volume>154</volume>
+<fpage>521</fpage>
+<lpage>525</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.110.161406</pub-id>
+<pub-id pub-id-type="pmid">20921177</pub-id></element-citation></ref><ref id="B23-antioxidants-05-00008"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lepist&#x000f6;</surname><given-names>A.</given-names></name><name><surname>Rintam&#x000e4;ki</surname><given-names>E.</given-names></name></person-group>
+<article-title>Coordination of plastid and light signaling pathways upon development of <italic>Arabidopsis</italic> leaves under various photoperiods</article-title>
+<source>Mol. Plant</source>
+<year>2012</year>
+<volume>5</volume>
+<fpage>799</fpage>
+<lpage>816</lpage>
+<pub-id pub-id-type="doi">10.1093/mp/ssr106</pub-id>
+<pub-id pub-id-type="pmid">22199239</pub-id></element-citation></ref><ref id="B24-antioxidants-05-00008"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chaouch</surname><given-names>S.</given-names></name><name><surname>Queval</surname><given-names>G.</given-names></name><name><surname>Vanderauwera</surname><given-names>S.</given-names></name><name><surname>Mhamdi</surname><given-names>A.</given-names></name><name><surname>Vandorpe</surname><given-names>M.</given-names></name><name><surname>Langlois-Meurinne</surname><given-names>M.</given-names></name><name><surname>Van Breusegem</surname><given-names>F.</given-names></name><name><surname>Saindrenan</surname><given-names>P.</given-names></name><name><surname>Noctor</surname><given-names>G.</given-names></name></person-group>
+<article-title>Peroxisomal hydrogen peroxide is coupled to biotic defense responses by ISOCHORISMATE SYNTHASE1 in a daylength-related manner</article-title>
+<source>Plant Physiol.</source>
+<year>2010</year>
+<volume>153</volume>
+<fpage>1692</fpage>
+<lpage>1705</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.110.153957</pub-id>
+<pub-id pub-id-type="pmid">20543092</pub-id></element-citation></ref><ref id="B25-antioxidants-05-00008"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Queval</surname><given-names>G.</given-names></name><name><surname>Issakidis-Bourguet</surname><given-names>E.</given-names></name><name><surname>Hoeberichts</surname><given-names>F.A.</given-names></name><name><surname>Vandorpe</surname><given-names>M.</given-names></name><name><surname>Gaki&#x000e8;re</surname><given-names>B.</given-names></name><name><surname>Vanacker</surname><given-names>H.</given-names></name><name><surname>Miginiac-Maslow</surname><given-names>M.</given-names></name><name><surname>van Breusegem</surname><given-names>F.</given-names></name><name><surname>Noctor</surname><given-names>G.</given-names></name></person-group>
+<article-title>Conditional oxidative stress responses in the <italic>Arabidopsis</italic> photorespiratory mutant cat2 demonstrate that redox state is a key modulator of daylength-dependent gene expression, and define photoperiod as a crucial factor in the regulation of H<sub>2</sub>O<sub>2</sub>-induced cell death</article-title>
+<source>Plant J.</source>
+<year>2007</year>
+<volume>52</volume>
+<fpage>640</fpage>
+<lpage>657</lpage>
+<pub-id pub-id-type="pmid">17877712</pub-id></element-citation></ref><ref id="B26-antioxidants-05-00008"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Perez-Perez</surname><given-names>J.M.</given-names></name><name><surname>Esteve-Bruna</surname><given-names>D.</given-names></name><name><surname>Gonzalez-Bayon</surname><given-names>R.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name><name><surname>Caldana</surname><given-names>C.</given-names></name><name><surname>Hannah</surname><given-names>M.A.</given-names></name><name><surname>Willmitzer</surname><given-names>L.</given-names></name><name><surname>Ponce</surname><given-names>M.R.</given-names></name><name><surname>Micol</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>Functional redundancy and divergence within the <italic>Arabidopsis</italic> RETICULATA-RELATED gene family</article-title>
+<source>Plant Physiol.</source>
+<year>2013</year>
+<volume>162</volume>
+<fpage>589</fpage>
+<lpage>603</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.113.217323</pub-id>
+<pub-id pub-id-type="pmid">23596191</pub-id></element-citation></ref><ref id="B27-antioxidants-05-00008"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>M&#x000fc;hlenbock</surname><given-names>P.</given-names></name><name><surname>Szechynska-Hebda</surname><given-names>M.</given-names></name><name><surname>Plaszczyca</surname><given-names>M.</given-names></name><name><surname>Baudo</surname><given-names>M.</given-names></name><name><surname>Mateo</surname><given-names>A.</given-names></name><name><surname>Mullineaux</surname><given-names>P.M.</given-names></name><name><surname>Parker</surname><given-names>J.E.</given-names></name><name><surname>Karpinska</surname><given-names>B.</given-names></name><name><surname>Karpinski</surname><given-names>S.</given-names></name></person-group>
+<article-title>Chloroplast signaling and LESION SIMULATING DISEASE1 regulate crosstalk between light acclimation and immunity in <italic>Arabidopsis</italic></article-title>
+<source>Plant Cell</source>
+<year>2008</year>
+<volume>20</volume>
+<fpage>2339</fpage>
+<lpage>2356</lpage>
+<pub-id pub-id-type="doi">10.1105/tpc.108.059618</pub-id>
+<pub-id pub-id-type="pmid">18790826</pub-id></element-citation></ref><ref id="B28-antioxidants-05-00008"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rasool</surname><given-names>B.</given-names></name><name><surname>Karpinska</surname><given-names>B.</given-names></name><name><surname>Konert</surname><given-names>G.</given-names></name><name><surname>Durian</surname><given-names>G.</given-names></name><name><surname>Denessiouk</surname><given-names>K.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name><name><surname>Foyer</surname><given-names>C.H.</given-names></name></person-group>
+<article-title>Effects of light and the regulatory B-subunit composition of protein phosphatase 2A on the susceptibility of <italic>Arabidopsis thaliana</italic> to aphid (<italic>Myzus persicae</italic>) infestation</article-title>
+<source>Front. Plant Sci.</source>
+<year>2014</year>
+<pub-id pub-id-type="doi">10.3389/fpls.2014.00405</pub-id>
+<pub-id pub-id-type="pmid">25191331</pub-id></element-citation></ref><ref id="B29-antioxidants-05-00008"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bostock</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Signal crosstalk and induced resistance: Straddling the line between cost and benefit</article-title>
+<source>Annu. Rev. Phytopathol.</source>
+<year>2005</year>
+<volume>43</volume>
+<fpage>545</fpage>
+<lpage>580</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.phyto.41.052002.095505</pub-id>
+<pub-id pub-id-type="pmid">16078895</pub-id></element-citation></ref><ref id="B30-antioxidants-05-00008"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Foyer</surname><given-names>C.H.</given-names></name><name><surname>Noctor</surname><given-names>G.</given-names></name></person-group>
+<article-title>Redox regulation in photosynthetic organisms: Signaling, acclimation, and practical implications</article-title>
+<source>Antioxid. Redox Sign.</source>
+<year>2009</year>
+<volume>11</volume>
+<fpage>861</fpage>
+<lpage>905</lpage>
+<pub-id pub-id-type="doi">10.1089/ars.2008.2177</pub-id>
+<pub-id pub-id-type="pmid">19239350</pub-id></element-citation></ref><ref id="B31-antioxidants-05-00008"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boudsocq</surname><given-names>M.</given-names></name><name><surname>Willmann</surname><given-names>M.R.</given-names></name><name><surname>McCormack</surname><given-names>M.</given-names></name><name><surname>Lee</surname><given-names>H.</given-names></name><name><surname>Shan</surname><given-names>L.</given-names></name><name><surname>He</surname><given-names>P.</given-names></name><name><surname>Bush</surname><given-names>J.</given-names></name><name><surname>Cheng</surname><given-names>S.H.</given-names></name><name><surname>Sheen</surname><given-names>J.</given-names></name></person-group>
+<article-title>Differential innate immune signaling via Ca<sup>2+</sup> sensor protein kinases</article-title>
+<source>Nature</source>
+<year>2010</year>
+<volume>464</volume>
+<fpage>418</fpage>
+<lpage>422</lpage>
+<pub-id pub-id-type="doi">10.1038/nature08794</pub-id>
+<pub-id pub-id-type="pmid">20164835</pub-id></element-citation></ref><ref id="B32-antioxidants-05-00008"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vogel</surname><given-names>M.O.</given-names></name><name><surname>Moore</surname><given-names>M.</given-names></name><name><surname>K&#x000f6;nig</surname><given-names>K.</given-names></name><name><surname>Pecher</surname><given-names>P.</given-names></name><name><surname>Alsharafa</surname><given-names>K.</given-names></name><name><surname>Lee</surname><given-names>J.</given-names></name><name><surname>Dietz</surname><given-names>K.J.</given-names></name></person-group>
+<article-title>Fast retrograde signaling in response to high light involves metabolite export, MITOGEN-ACTIVATED PROTEIN KINASE6, and AP2/ERF transcription factors in <italic>Arabidopsi</italic>s</article-title>
+<source>Plant Cell</source>
+<year>2014</year>
+<volume>26</volume>
+<fpage>1151</fpage>
+<lpage>1165</lpage>
+<pub-id pub-id-type="doi">10.1105/tpc.113.121061</pub-id>
+<pub-id pub-id-type="pmid">24668746</pub-id></element-citation></ref><ref id="B33-antioxidants-05-00008"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Uhrig</surname><given-names>R.G.</given-names></name><name><surname>Labandera</surname><given-names>A.-M.</given-names></name><name><surname>Moorhead</surname><given-names>G.B.</given-names></name></person-group>
+<article-title><italic>Arabidopsis</italic> PPP family of serine/threonine protein phosphatases: Many targets but few engines</article-title>
+<source>Trends Plant Sci.</source>
+<year>2013</year>
+<volume>18</volume>
+<fpage>505</fpage>
+<lpage>513</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tplants.2013.05.004</pub-id>
+<pub-id pub-id-type="pmid">23790269</pub-id></element-citation></ref><ref id="B34-antioxidants-05-00008"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Janssens</surname><given-names>V.</given-names></name><name><surname>Longin</surname><given-names>S.</given-names></name><name><surname>Goris</surname><given-names>J.</given-names></name></person-group>
+<article-title>PP2A holoenzyme assembly: In cauda venenum (the sting is in the tail)</article-title>
+<source>Trends Biochem. Sci.</source>
+<year>2008</year>
+<volume>33</volume>
+<fpage>113</fpage>
+<lpage>121</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tibs.2007.12.004</pub-id>
+<pub-id pub-id-type="pmid">18291659</pub-id></element-citation></ref><ref id="B35-antioxidants-05-00008"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Farkas</surname><given-names>I.</given-names></name><name><surname>Dombradi</surname><given-names>V.</given-names></name><name><surname>Miskei</surname><given-names>M.</given-names></name><name><surname>Szabados</surname><given-names>L.</given-names></name><name><surname>Koncz</surname><given-names>C.</given-names></name></person-group>
+<article-title><italic>Arabidopsis</italic> PPP family of serine/threonine phosphatases</article-title>
+<source>Trends Plant Sci.</source>
+<year>2007</year>
+<volume>12</volume>
+<fpage>169</fpage>
+<lpage>176</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tplants.2007.03.003</pub-id>
+<pub-id pub-id-type="pmid">17368080</pub-id></element-citation></ref><ref id="B36-antioxidants-05-00008"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>G.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Kamiya</surname><given-names>Y.</given-names></name><name><surname>Otegui</surname><given-names>M.S.</given-names></name><name><surname>Chory</surname><given-names>J.</given-names></name></person-group>
+<article-title>Methylation of a phosphatase specifies dephosphorylation and degradation of activated brassinosteroid receptors</article-title>
+<source>Sci. Signal.</source>
+<year>2011</year>
+<pub-id pub-id-type="doi">10.1126/scisignal.2001258</pub-id>
+<pub-id pub-id-type="pmid">21558554</pub-id></element-citation></ref><ref id="B37-antioxidants-05-00008"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>R.</given-names></name><name><surname>Zhu</surname><given-names>Y.</given-names></name><name><surname>Shen</surname><given-names>G.</given-names></name><name><surname>Zhang</surname><given-names>H.</given-names></name></person-group>
+<article-title>TAP46 plays a positive role in the ABSCISIC ACID INSENSITIVE5-regulated gene expression in <italic>Arabidopsis</italic></article-title>
+<source>Plant Physiol.</source>
+<year>2014</year>
+<volume>164</volume>
+<fpage>721</fpage>
+<lpage>734</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.113.233684</pub-id>
+<pub-id pub-id-type="pmid">24357600</pub-id></element-citation></ref><ref id="B38-antioxidants-05-00008"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pa&#x000ed;s</surname><given-names>S.M.</given-names></name><name><surname>Gonz&#x000e1;lez</surname><given-names>M.A.</given-names></name><name><surname>T&#x000e9;llez-I&#x000f1;&#x000f3;n</surname><given-names>M.T.</given-names></name><name><surname>Capiati</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>Characterization of potato (<italic>Solanum tuberosum</italic>) and tomato (<italic>Solanum lycopersicum</italic>) protein phosphatases type 2A catalytic subunits and their involvement in stress responses</article-title>
+<source>Planta</source>
+<year>2009</year>
+<volume>230</volume>
+<fpage>13</fpage>
+<lpage>25</lpage>
+<pub-id pub-id-type="doi">10.1007/s00425-009-0923-5</pub-id>
+<pub-id pub-id-type="pmid">19330349</pub-id></element-citation></ref><ref id="B39-antioxidants-05-00008"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>R.M.</given-names></name><name><surname>Zhou</surname><given-names>Y.</given-names></name><name><surname>Xu</surname><given-names>Z.F.</given-names></name><name><surname>Chye</surname><given-names>M.L.</given-names></name><name><surname>Kong</surname><given-names>R.Y.</given-names></name></person-group>
+<article-title>Two genes encoding protein phosphatase 2A catalytic subunits are differentially expressed in rice</article-title>
+<source>Plant Mol. Biol.</source>
+<year>2003</year>
+<volume>51</volume>
+<fpage>295</fpage>
+<lpage>311</lpage>
+<pub-id pub-id-type="pmid">12602862</pub-id></element-citation></ref><ref id="B40-antioxidants-05-00008"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>R.M.</given-names></name><name><surname>Wong</surname><given-names>M.M.</given-names></name><name><surname>Jack</surname><given-names>R.W.</given-names></name><name><surname>Kong</surname><given-names>R.Y.</given-names></name></person-group>
+<article-title>Structure, evolution and expression of a second subfamily of protein phosphatase 2A catalytic subunit genes in the rice plant (<italic>Oryza sativa</italic> L.)</article-title>
+<source>Planta</source>
+<year>2005</year>
+<volume>222</volume>
+<fpage>757</fpage>
+<lpage>768</lpage>
+<pub-id pub-id-type="doi">10.1007/s00425-005-0018-x</pub-id>
+<pub-id pub-id-type="pmid">16021503</pub-id></element-citation></ref><ref id="B41-antioxidants-05-00008"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>C.</given-names></name><name><surname>Jing</surname><given-names>R.</given-names></name><name><surname>Mao</surname><given-names>X.</given-names></name><name><surname>Jia</surname><given-names>X.</given-names></name><name><surname>Chang</surname><given-names>X.</given-names></name></person-group>
+<article-title>A wheat (<italic>Triticum aestivum</italic>) protein phosphatase 2A catalytic subunit gene provides enhanced drought tolerance in tobacco</article-title>
+<source>Ann. Bot.</source>
+<year>2007</year>
+<volume>99</volume>
+<fpage>439</fpage>
+<lpage>450</lpage>
+<pub-id pub-id-type="doi">10.1093/aob/mcl285</pub-id>
+<pub-id pub-id-type="pmid">17272305</pub-id></element-citation></ref><ref id="B42-antioxidants-05-00008"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>D.</given-names></name><name><surname>Li</surname><given-names>A.</given-names></name><name><surname>Mao</surname><given-names>X.</given-names></name><name><surname>Jing</surname><given-names>R.</given-names></name></person-group>
+<article-title>Cloning and characterization of TaPP2AbB&#x02032;&#x02032;-&#x003b1;, a member of the PP2A regulatory subunit in wheat</article-title>
+<source>PLoS ONE</source>
+<year>2014</year>
+<volume>9</volume>
+<elocation-id>8</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0094430</pub-id>
+<pub-id pub-id-type="pmid">24709994</pub-id></element-citation></ref><ref id="B43-antioxidants-05-00008"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pernas</surname><given-names>M.</given-names></name><name><surname>Garcia-Casado</surname><given-names>G.</given-names></name><name><surname>Rojo</surname><given-names>E.</given-names></name><name><surname>Solano</surname><given-names>R.</given-names></name><name><surname>Sanchez-Serrano</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>A protein phosphatase 2A catalytic subunit is a negative regulator of abscisic acid signaling</article-title>
+<source>Plant. J.</source>
+<year>2007</year>
+<volume>51</volume>
+<fpage>763</fpage>
+<lpage>778</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-313X.2007.03179.x</pub-id>
+<pub-id pub-id-type="pmid">17617176</pub-id></element-citation></ref><ref id="B44-antioxidants-05-00008"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blakeslee</surname><given-names>J.J.</given-names></name><name><surname>Zhou</surname><given-names>H.-W.</given-names></name><name><surname>Heath</surname><given-names>J.T.</given-names></name><name><surname>Skottke</surname><given-names>K.R.</given-names></name><name><surname>Barrios</surname><given-names>J.A.</given-names></name><name><surname>Liu</surname><given-names>S.Y.</given-names></name><name><surname>DeLong</surname><given-names>A.</given-names></name></person-group>
+<article-title>Specificity of RCN1-mediated protein phosphatase 2A regulation in meristem organization and stress response in roots</article-title>
+<source>Plant Physiol.</source>
+<year>2008</year>
+<volume>146</volume>
+<fpage>539</fpage>
+<lpage>553</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.107.112995</pub-id>
+<pub-id pub-id-type="pmid">18162590</pub-id></element-citation></ref><ref id="B45-antioxidants-05-00008"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cutler</surname><given-names>S.R.</given-names></name><name><surname>Rodriguez</surname><given-names>P.L.</given-names></name><name><surname>Finkelstein</surname><given-names>R.R.</given-names></name><name><surname>Abrams</surname><given-names>S.R.</given-names></name></person-group>
+<article-title>Abscisic acid: Emergence of a core signaling network</article-title>
+<source>Annu. Rev. Plant Biol.</source>
+<year>2010</year>
+<volume>61</volume>
+<fpage>651</fpage>
+<lpage>679</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev-arplant-042809-112122</pub-id>
+<pub-id pub-id-type="pmid">20192755</pub-id></element-citation></ref><ref id="B46-antioxidants-05-00008"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luo</surname><given-names>J.H.</given-names></name><name><surname>Shen</surname><given-names>G.X.</given-names></name><name><surname>Yan</surname><given-names>J.Q.</given-names></name><name><surname>He</surname><given-names>C.X.</given-names></name><name><surname>Zhang</surname><given-names>H.</given-names></name></person-group>
+<article-title>AtCHIP functions as an E3 ubiquitin ligase of protein phosphatase 2A subunits and alters plant response to abscisic acid treatment</article-title>
+<source>Plant J.</source>
+<year>2006</year>
+<volume>46</volume>
+<fpage>649</fpage>
+<lpage>657</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-313X.2006.02730.x</pub-id>
+<pub-id pub-id-type="pmid">16640601</pub-id></element-citation></ref><ref id="B47-antioxidants-05-00008"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leivar</surname><given-names>P.</given-names></name><name><surname>Antolin-Llovera</surname><given-names>M.</given-names></name><name><surname>Ferrero</surname><given-names>S.</given-names></name><name><surname>Closa</surname><given-names>M.</given-names></name><name><surname>Arro</surname><given-names>M.</given-names></name><name><surname>Ferrer</surname><given-names>A.</given-names></name><name><surname>Boronat</surname><given-names>A.</given-names></name><name><surname>Camposa</surname><given-names>N.</given-names></name></person-group>
+<article-title>Multilevel control of <italic>Arabidopsis</italic> 3-hydroxy-3-methylglutaryl coenzyme A reductase by protein phosphatase 2A</article-title>
+<source>Plant Cell</source>
+<year>2011</year>
+<volume>23</volume>
+<fpage>1494</fpage>
+<lpage>1511</lpage>
+<pub-id pub-id-type="doi">10.1105/tpc.110.074278</pub-id>
+<pub-id pub-id-type="pmid">21478440</pub-id></element-citation></ref><ref id="B48-antioxidants-05-00008"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Latorre</surname><given-names>K.</given-names></name><name><surname>Harris</surname><given-names>D.M.</given-names></name><name><surname>Rundle</surname><given-names>S.J.</given-names></name></person-group>
+<article-title>Differential expression of three <italic>Arabidopsis</italic> genes encoding the B&#x02032; regulatory subunit of protein phosphatase 2A</article-title>
+<source>Eur. J. Biochem.</source>
+<year>1997</year>
+<volume>245</volume>
+<fpage>156</fpage>
+<lpage>163</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1432-1033.1997.00156.x</pub-id>
+<pub-id pub-id-type="pmid">9128737</pub-id></element-citation></ref><ref id="B49-antioxidants-05-00008"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Konert</surname><given-names>G.</given-names></name><name><surname>Rahikainen</surname><given-names>M.</given-names></name><name><surname>Trotta</surname><given-names>A.</given-names></name><name><surname>Durian</surname><given-names>G.</given-names></name><name><surname>Saloj&#x000e4;rvi</surname><given-names>J.</given-names></name><name><surname>Khorobrykh</surname><given-names>S.</given-names></name><name><surname>Tyystj&#x000e4;rvi</surname><given-names>E.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name></person-group>
+<article-title>Subunits B&#x02032;&#x003b3; and B&#x02032;&#x003b6; of protein phosphatase 2A regulate photo-oxidative stress responses and growth in <italic>Arabidopsis thaliana</italic></article-title>
+<source>Plant Cell Environ.</source>
+<year>2015</year>
+<volume>38</volume>
+<fpage>2641</fpage>
+<lpage>2651</lpage>
+<pub-id pub-id-type="doi">10.1111/pce.12575</pub-id>
+<pub-id pub-id-type="pmid">26012558</pub-id></element-citation></ref><ref id="B50-antioxidants-05-00008"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>He</surname><given-names>X.</given-names></name><name><surname>Anderson</surname><given-names>J.C.</given-names></name><name><surname>del Pozo</surname><given-names>O.</given-names></name><name><surname>Gu</surname><given-names>Y.Q.</given-names></name><name><surname>Tang</surname><given-names>X.</given-names></name><name><surname>Martin</surname><given-names>G.B.</given-names></name></person-group>
+<article-title>Silencing of subfamily I of protein phosphatase 2A catalytic subunits results in activation of plant defense responses and localized cell death</article-title>
+<source>Plant J.</source>
+<year>2004</year>
+<volume>38</volume>
+<fpage>563</fpage>
+<lpage>577</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-313X.2004.02073.x</pub-id>
+<pub-id pub-id-type="pmid">15125764</pub-id></element-citation></ref><ref id="B51-antioxidants-05-00008"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trotta</surname><given-names>A.</given-names></name><name><surname>Wrzaczek</surname><given-names>M.</given-names></name><name><surname>Scharte</surname><given-names>J.</given-names></name><name><surname>Tikkanen</surname><given-names>M.</given-names></name><name><surname>Konert</surname><given-names>G.</given-names></name><name><surname>Rahikainen</surname><given-names>M.</given-names></name><name><surname>Holmstr&#x000f6;m</surname><given-names>M.</given-names></name><name><surname>Hiltunen</surname><given-names>H.M.</given-names></name><name><surname>Rips</surname><given-names>S.</given-names></name><name><surname>Sipari</surname><given-names>N.</given-names></name><etal/></person-group>
+<article-title>Regulatory subunit B&#x02032;&#x003b3; of protein phosphatase 2A prevents unnecessary defense reactions under low light in <italic>Arabidopsis</italic></article-title>
+<source>Plant Physiol.</source>
+<year>2011</year>
+<volume>156</volume>
+<fpage>1464</fpage>
+<lpage>1480</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.111.178442</pub-id>
+<pub-id pub-id-type="pmid">21571669</pub-id></element-citation></ref><ref id="B52-antioxidants-05-00008"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kataya</surname><given-names>A.R.A.</given-names></name><name><surname>Behzad</surname><given-names>H.</given-names></name><name><surname>Cathrine</surname><given-names>L.</given-names></name></person-group>
+<article-title>Protein phosphatase 2A regulatory subunits affecting plant innate immunity, energy metabolism, and flowering time&#x02014;Joint functions among B&#x02032;&#x003b7; subfamily members</article-title>
+<source>Plant Signal. Behav.</source>
+<year>2015</year>
+<volume>10</volume>
+<fpage>37</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="doi">10.1080/15592324.2015.1026024</pub-id>
+<pub-id pub-id-type="pmid">26039486</pub-id></element-citation></ref><ref id="B53-antioxidants-05-00008"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Segonzac</surname><given-names>C.</given-names></name><name><surname>Macho</surname><given-names>A.P.</given-names></name><name><surname>Sanmart&#x000ed;n</surname><given-names>M.</given-names></name><name><surname>Ntoukakis</surname><given-names>V.</given-names></name><name><surname>S&#x000e1;nchez-Serrano</surname><given-names>J.J.</given-names></name><name><surname>Zipfel</surname><given-names>C.</given-names></name></person-group>
+<article-title>Negative control of BAK1 by protein phosphatase 2A during plant innate immunity</article-title>
+<source>EMBO J.</source>
+<year>2014</year>
+<volume>33</volume>
+<fpage>1</fpage>
+<lpage>11</lpage>
+<pub-id pub-id-type="doi">10.15252/embj.201488698</pub-id>
+<pub-id pub-id-type="pmid">24399672</pub-id></element-citation></ref><ref id="B54-antioxidants-05-00008"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xia</surname><given-names>X.-J.</given-names></name><name><surname>Zhou</surname><given-names>Y.-H.</given-names></name><name><surname>Shi</surname><given-names>K.</given-names></name><name><surname>Zhou</surname><given-names>J.</given-names></name><name><surname>Foyer</surname><given-names>C.H.</given-names></name><name><surname>Yu</surname><given-names>J.-Q.</given-names></name></person-group>
+<article-title>Interplay between reactive oxygen species and hormones in the control of plant development and stress tolerance</article-title>
+<source>J. Exp. Bot.</source>
+<year>2015</year>
+<volume>66</volume>
+<fpage>2839</fpage>
+<lpage>2856</lpage>
+<pub-id pub-id-type="doi">10.1093/jxb/erv089</pub-id>
+<pub-id pub-id-type="pmid">25788732</pub-id></element-citation></ref><ref id="B55-antioxidants-05-00008"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>S.C.</given-names></name><name><surname>Mhamdi</surname><given-names>A.</given-names></name><name><surname>Trotta</surname><given-names>A.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name><name><surname>Noctor</surname><given-names>G.</given-names></name></person-group>
+<article-title>The protein phosphatase subunit PP2A-B&#x02032;&#x003b3; is required to suppress day length-dependent pathogenesis responses triggered by intracellular oxidative stress</article-title>
+<source>New Phytol.</source>
+<year>2014</year>
+<volume>202</volume>
+<fpage>145</fpage>
+<lpage>160</lpage>
+<pub-id pub-id-type="doi">10.1111/nph.12622</pub-id>
+<pub-id pub-id-type="pmid">24299221</pub-id></element-citation></ref><ref id="B56-antioxidants-05-00008"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sirichandra</surname><given-names>C.</given-names></name><name><surname>Gu</surname><given-names>D.</given-names></name><name><surname>Hu</surname><given-names>H.-C.</given-names></name><name><surname>Davanture</surname><given-names>M.</given-names></name><name><surname>Lee</surname><given-names>S.</given-names></name><name><surname>Djaoui</surname><given-names>M.</given-names></name><name><surname>Valot</surname><given-names>B.</given-names></name><name><surname>Zivy</surname><given-names>M.</given-names></name><name><surname>Leung</surname><given-names>J.</given-names></name><name><surname>Merlot</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Phosphorylation of the <italic>Arabidopsis</italic> AtrbohF NADPH oxidase by OST1 protein kinase</article-title>
+<source>FEBS Lett.</source>
+<year>2009</year>
+<volume>583</volume>
+<fpage>2982</fpage>
+<lpage>2986</lpage>
+<pub-id pub-id-type="doi">10.1016/j.febslet.2009.08.033</pub-id>
+<pub-id pub-id-type="pmid">19716822</pub-id></element-citation></ref><ref id="B57-antioxidants-05-00008"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Waadt</surname><given-names>R.</given-names></name><name><surname>Manalansan</surname><given-names>B.</given-names></name><name><surname>Rauniyar</surname><given-names>N.</given-names></name><name><surname>Munemasa</surname><given-names>S.</given-names></name><name><surname>Booker</surname><given-names>M.A.</given-names></name><name><surname>Brandt</surname><given-names>B.</given-names></name><name><surname>Waadt</surname><given-names>C.</given-names></name><name><surname>Nusinow</surname><given-names>D.A.</given-names></name><name><surname>Kay</surname><given-names>S.A.</given-names></name><name><surname>Kunz</surname><given-names>H.-H.</given-names></name><etal/></person-group>
+<article-title>Identification of open stomata1-interacting proteins reveals interactions with sucrose non-fermenting1-related protein kinases2 and with type 2A protein phosphatases that function in abscisic acid responses</article-title>
+<source>Plant Physiol.</source>
+<year>2015</year>
+<volume>169</volume>
+<fpage>760</fpage>
+<lpage>779</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.15.00575</pub-id>
+<pub-id pub-id-type="pmid">26175513</pub-id></element-citation></ref><ref id="B58-antioxidants-05-00008"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Konert</surname><given-names>G.</given-names></name><name><surname>Trotta</surname><given-names>A.</given-names></name><name><surname>Kouvonen</surname><given-names>P.</given-names></name><name><surname>Rahikainen</surname><given-names>M.</given-names></name><name><surname>Durian</surname><given-names>G.</given-names></name><name><surname>Blokhina</surname><given-names>O.</given-names></name><name><surname>Fagerstedt</surname><given-names>K.</given-names></name><name><surname>Muth</surname><given-names>D.</given-names></name><name><surname>Corthals</surname><given-names>G.L.</given-names></name><name><surname>Kangasj&#x000e4;rvi</surname><given-names>S.</given-names></name></person-group>
+<article-title>Protein phosphatase 2A (PP2A) regulatory subunit B&#x02019; gamma interacts with cytoplasmic ACONITASE 3 and modulates the abundance of AOX1A and AOX1D in <italic>Arabidopsis thaliana</italic></article-title>
+<source>New Phytol.</source>
+<year>2015</year>
+<volume>205</volume>
+<fpage>1250</fpage>
+<lpage>1263</lpage>
+<pub-id pub-id-type="doi">10.1111/nph.13097</pub-id>
+<pub-id pub-id-type="pmid">25307043</pub-id></element-citation></ref><ref id="B59-antioxidants-05-00008"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rhoads</surname><given-names>D.M.</given-names></name><name><surname>Umbach</surname><given-names>A.L.</given-names></name><name><surname>Subbaiah</surname><given-names>C.C.</given-names></name><name><surname>Siedow</surname><given-names>J.N.</given-names></name></person-group>
+<article-title>Mitochondrial reactive oxygen species. Contribution to oxidative stress and interorganellar signaling</article-title>
+<source>Plant Physiol.</source>
+<year>2006</year>
+<volume>141</volume>
+<fpage>357</fpage>
+<lpage>366</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.106.079129</pub-id>
+<pub-id pub-id-type="pmid">16760488</pub-id></element-citation></ref><ref id="B60-antioxidants-05-00008"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Strodtkoetter</surname><given-names>I.</given-names></name><name><surname>Padmasree</surname><given-names>K.</given-names></name><name><surname>Dinakar</surname><given-names>C.</given-names></name><name><surname>Speth</surname><given-names>B.</given-names></name><name><surname>Niazi</surname><given-names>P.S.</given-names></name><name><surname>Wojtera</surname><given-names>J.</given-names></name><name><surname>Voss</surname><given-names>I.</given-names></name><name><surname>Do</surname><given-names>P.T.</given-names></name><name><surname>Nunes-Nesi</surname><given-names>A.</given-names></name><name><surname>Fernie</surname><given-names>A.R.</given-names></name><etal/></person-group>
+<article-title>Induction of the aox1d isoform of alternative oxidase in <italic>A. thaliana</italic> T-DNA insertion lines lacking isoform AOX1A is insufficient to optimize photosynthesis when treated with antimycin A</article-title>
+<source>Mol. Plant</source>
+<year>2009</year>
+<volume>2</volume>
+<fpage>284</fpage>
+<lpage>297</lpage>
+<pub-id pub-id-type="doi">10.1093/mp/ssn089</pub-id>
+<pub-id pub-id-type="pmid">19825614</pub-id></element-citation></ref><ref id="B61-antioxidants-05-00008"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vandenabeele</surname><given-names>S.</given-names></name><name><surname>Vanderauwera</surname><given-names>S.</given-names></name><name><surname>Vuylsteke</surname><given-names>M.</given-names></name><name><surname>Rombauts</surname><given-names>S.</given-names></name><name><surname>Langebartels</surname><given-names>C.</given-names></name><name><surname>Seidlitz</surname><given-names>H.K.</given-names></name><name><surname>Zabeau</surname><given-names>M.</given-names></name><name><surname>van Montagu</surname><given-names>M.</given-names></name><name><surname>Inz&#x000e9;</surname><given-names>D.</given-names></name><name><surname>van Breusegem</surname><given-names>F.</given-names></name></person-group>
+<article-title>Catalase deficiency drastically affects gene expression induced by high light in <italic>Arabidopsis thaliana</italic></article-title>
+<source>Plant J.</source>
+<year>2004</year>
+<volume>39</volume>
+<fpage>45</fpage>
+<lpage>58</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-313X.2004.02105.x</pub-id>
+<pub-id pub-id-type="pmid">15200641</pub-id></element-citation></ref><ref id="B62-antioxidants-05-00008"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mhamdi</surname><given-names>A.</given-names></name><name><surname>Queval</surname><given-names>G.</given-names></name><name><surname>Chaouch</surname><given-names>S.</given-names></name><name><surname>Vanderauwera</surname><given-names>S.</given-names></name><name><surname>van Breusegem</surname><given-names>F.</given-names></name><name><surname>Noctor</surname><given-names>G.</given-names></name></person-group>
+<article-title>Catalase function in plants: A focus on <italic>Arabidopsis</italic> mutants as stress-mimic models</article-title>
+<source>J. Exp. Bot.</source>
+<year>2010</year>
+<volume>61</volume>
+<fpage>4197</fpage>
+<lpage>4220</lpage>
+<pub-id pub-id-type="doi">10.1093/jxb/erq282</pub-id>
+<pub-id pub-id-type="pmid">20876333</pub-id></element-citation></ref><ref id="B63-antioxidants-05-00008"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Queval</surname><given-names>G.</given-names></name><name><surname>Neukermans</surname><given-names>J.</given-names></name><name><surname>Vanderauwera</surname><given-names>S.</given-names></name><name><surname>van Breusegem</surname><given-names>F.</given-names></name><name><surname>Noctor</surname><given-names>G.</given-names></name></person-group>
+<article-title>Day length is a key regulator of transcriptomic responses to both CO<sub>2</sub> and H<sub>2</sub>O<sub>2</sub> in <italic>Arabidopsis</italic></article-title>
+<source>Plant Cell Environ.</source>
+<year>2012</year>
+<volume>35</volume>
+<fpage>374</fpage>
+<lpage>387</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1365-3040.2011.02368.x</pub-id>
+<pub-id pub-id-type="pmid">21631535</pub-id></element-citation></ref><ref id="B64-antioxidants-05-00008"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Clercq</surname><given-names>I.</given-names></name><name><surname>Vermeirssen</surname><given-names>V.</given-names></name><name><surname>van Aken</surname><given-names>O.</given-names></name><name><surname>Vandepoele</surname><given-names>K.</given-names></name><name><surname>Murcha</surname><given-names>M.W.</given-names></name><name><surname>Law</surname><given-names>S.R.</given-names></name><name><surname>Inz&#x000e9;</surname><given-names>A.</given-names></name><name><surname>Ng</surname><given-names>S.</given-names></name><name><surname>Ivanova</surname><given-names>A.</given-names></name><name><surname>Rombaut</surname><given-names>D.</given-names></name><etal/></person-group>
+<article-title>The membrane-bound NAC transcription factor ANAC013 functions in mitochondrial retrograde regulation of the oxidative stress response in <italic>Arabidopsis</italic></article-title>
+<source>Plant Cell</source>
+<year>2013</year>
+<volume>25</volume>
+<fpage>3472</fpage>
+<lpage>3490</lpage>
+<pub-id pub-id-type="doi">10.1105/tpc.113.117168</pub-id>
+<pub-id pub-id-type="pmid">24045019</pub-id></element-citation></ref><ref id="B65-antioxidants-05-00008"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Giraud</surname><given-names>E.</given-names></name><name><surname>Ho</surname><given-names>L.H.</given-names></name><name><surname>Clifton</surname><given-names>R.</given-names></name><name><surname>Carroll</surname><given-names>A.</given-names></name><name><surname>Estavillo</surname><given-names>G.</given-names></name><name><surname>Tan</surname><given-names>Y.F.</given-names></name><name><surname>Howell</surname><given-names>K.A.</given-names></name><name><surname>Ivanova</surname><given-names>A.</given-names></name><name><surname>Pogson</surname><given-names>B.J.</given-names></name><name><surname>Millar</surname><given-names>A.H.</given-names></name><name><surname>Whelan</surname><given-names>J.</given-names></name></person-group>
+<article-title>The absence of alternative oxidase1a in <italic>Arabidopsis</italic> results in acute sensitivity to combined light and drought stress</article-title>
+<source>Plant Physiol.</source>
+<year>2008</year>
+<volume>147</volume>
+<fpage>595</fpage>
+<lpage>610</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.107.115121</pub-id>
+<pub-id pub-id-type="pmid">18424626</pub-id></element-citation></ref><ref id="B66-antioxidants-05-00008"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fryer</surname><given-names>M.J.</given-names></name><name><surname>Ball</surname><given-names>L.</given-names></name><name><surname>Oxborough</surname><given-names>K.</given-names></name><name><surname>Karpinski</surname><given-names>S.</given-names></name><name><surname>Mullineaux</surname><given-names>P.M.</given-names></name><name><surname>Baker</surname><given-names>N.R.</given-names></name></person-group>
+<article-title>Control of Ascorbate Peroxidase 2 expression by hydrogen peroxide and leaf water status during excess light stress reveals a functional organisation of <italic>Arabidopsis</italic> leaves</article-title>
+<source>Plant J.</source>
+<year>2003</year>
+<volume>33</volume>
+<fpage>691</fpage>
+<lpage>705</lpage>
+<pub-id pub-id-type="doi">10.1046/j.1365-313X.2003.01656.x</pub-id>
+<pub-id pub-id-type="pmid">12609042</pub-id></element-citation></ref><ref id="B67-antioxidants-05-00008"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Estavillo</surname><given-names>G.M.</given-names></name><name><surname>Crisp</surname><given-names>P.</given-names></name><name><surname>Pornsiriwong</surname><given-names>W.</given-names></name><name><surname>Wirtz</surname><given-names>M.</given-names></name><name><surname>Collinge</surname><given-names>D.</given-names></name><name><surname>Carrie</surname><given-names>C.</given-names></name><name><surname>Giraud</surname><given-names>E.</given-names></name><name><surname>Whelan</surname><given-names>J.</given-names></name><name><surname>David</surname><given-names>P.</given-names></name><name><surname>Javot</surname><given-names>H.</given-names></name><etal/></person-group>
+<article-title>Evidence for a SAL1-PAP chloroplast retrograde pathway that functions in drought and high light signaling in <italic>Arabidopsis</italic></article-title>
+<source>Plant Cell</source>
+<year>2011</year>
+<volume>23</volume>
+<fpage>3992</fpage>
+<lpage>4012</lpage>
+<pub-id pub-id-type="doi">10.1105/tpc.111.091033</pub-id>
+<pub-id pub-id-type="pmid">22128124</pub-id></element-citation></ref><ref id="B68-antioxidants-05-00008"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rossel</surname><given-names>J.B.</given-names></name><name><surname>Wilson</surname><given-names>I.W.</given-names></name><name><surname>Pogson</surname><given-names>B.J.</given-names></name></person-group>
+<article-title>Global changes in gene expression in response to high light in <italic>Arabidopsis</italic></article-title>
+<source>Plant Physiol.</source>
+<year>2012</year>
+<volume>130</volume>
+<fpage>1109</fpage>
+<lpage>1120</lpage>
+<pub-id pub-id-type="doi">10.1104/pp.005595</pub-id>
+<pub-id pub-id-type="pmid">12427978</pub-id></element-citation></ref><ref id="B69-antioxidants-05-00008"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jung</surname><given-names>H.-S.</given-names></name><name><surname>Crisp</surname><given-names>P.A.</given-names></name><name><surname>Estavillo</surname><given-names>G.M.</given-names></name><name><surname>Cole</surname><given-names>B.</given-names></name><name><surname>Hong</surname><given-names>F.</given-names></name><name><surname>Mockler</surname><given-names>T.C.</given-names></name><name><surname>Pogson</surname><given-names>B.J.</given-names></name><name><surname>Chory</surname><given-names>J.</given-names></name></person-group>
+<article-title>Subset of heat-shock transcription factors required for the early response of <italic>Arabidopsis</italic> to excess light</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2013</year>
+<volume>110</volume>
+<fpage>14474</fpage>
+<lpage>14479</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.1311632110</pub-id>
+<pub-id pub-id-type="pmid">23918368</pub-id></element-citation></ref><ref id="B70-antioxidants-05-00008"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Volkov</surname><given-names>R.</given-names></name><name><surname>Panchuk</surname><given-names>I.I.</given-names></name><name><surname>Mullineaux</surname><given-names>P.M.</given-names></name><name><surname>Sch&#x000f6;ffl</surname><given-names>F.</given-names></name></person-group>
+<article-title>Heat stress-induced H<sub>2</sub>O<sub>2</sub> is required for effective expression of heat shock genes in <italic>Arabidopsis</italic></article-title>
+<source>Plant Mol. Biol.</source>
+<year>2006</year>
+<volume>61</volume>
+<fpage>733</fpage>
+<lpage>746</lpage>
+<pub-id pub-id-type="doi">10.1007/s11103-006-0045-4</pub-id>
+<pub-id pub-id-type="pmid">16897488</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="antioxidants-05-00008-f001" position="float"><label>Figure 1</label><caption><p>Protein Phosphatase 2A as a regulator of ROS signaling in plant leaves. In plant biotic interactions, recognition of conserved microbial structures, such as bacterial flagellin, by plasma membrane receptor kinases leads to NADPH oxidase-driven ROS burst in the apoplast and activation of phosphorylation-relay cascades that trigger defence gene expression in the nucleus. Abiotic stresses, such as light stress, in turn promote alterations in organellar redox biology and ROS signaling, which also modulate nuclear gene expression and stress resistance in green plant tissues. Recognition of attempted infection is also rapidly relayed into the chloroplasts, where Ca<sup>2+</sup>-dependent signaling interactions are needed to trigger additional signaling events, which further modulate immunity-related gene expression in the nucleus. PP2A protein phosphatase limits the activity of the plasma membrane receptor kinase BAK1, and, consequently, the flagellin-induced ROS burst into the apoplast. Additionally, PP2A modulates photo-oxidative stress responses by controlling organellar ROS signaling and the abundance of alternative oxidases in leaf mitochondria.</p></caption><graphic xlink:href="antioxidants-05-00008-g001"/></fig></floats-group></article>

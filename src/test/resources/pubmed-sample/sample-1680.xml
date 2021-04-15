@@ -1,0 +1,676 @@
+
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cell Mol Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Cell. Mol. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1582-4934</journal-id><journal-id journal-id-type="publisher-id">JCMM</journal-id><journal-title-group><journal-title>Journal of Cellular and Molecular Medicine</journal-title></journal-title-group><issn pub-type="ppub">1582-1838</issn><issn pub-type="epub">1582-4934</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">32757377</article-id><article-id pub-id-type="pmc">7521313</article-id><article-id pub-id-type="doi">10.1111/jcmm.15688</article-id><article-id pub-id-type="publisher-id">JCMM15688</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Danshen (<italic>Salvia miltiorrhiza</italic>) restricts MD2/TLR4&#x02010;MyD88 complex formation and signalling in acute myocardial infarction&#x02010;induced heart failure</article-title><alt-title alt-title-type="left-running-head">WANG et al.</alt-title></title-group><contrib-group><contrib id="jcmm15688-cr-0001" contrib-type="author"><name><surname>Wang</surname><given-names>Xiaoping</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1370-490X</contrib-id><xref ref-type="aff" rid="jcmm15688-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15688-cr-0002" contrib-type="author"><name><surname>Guo</surname><given-names>Dongqing</given-names></name><xref ref-type="aff" rid="jcmm15688-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15688-cr-0003" contrib-type="author"><name><surname>Li</surname><given-names>Weili</given-names></name><xref ref-type="aff" rid="jcmm15688-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15688-cr-0004" contrib-type="author"><name><surname>Zhang</surname><given-names>Qian</given-names></name><xref ref-type="aff" rid="jcmm15688-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcmm15688-cr-0005" contrib-type="author"><name><surname>Jiang</surname><given-names>Yanyan</given-names></name><xref ref-type="aff" rid="jcmm15688-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15688-cr-0006" contrib-type="author"><name><surname>Wang</surname><given-names>Qiyan</given-names></name><xref ref-type="aff" rid="jcmm15688-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcmm15688-cr-0007" contrib-type="author" corresp="yes"><name><surname>Li</surname><given-names>Chun</given-names></name><xref ref-type="aff" rid="jcmm15688-aff-0004">
+<sup>4</sup>
+</xref><address><email>lichun19850204@163.com</email></address></contrib><contrib id="jcmm15688-cr-0008" contrib-type="author" corresp="yes"><name><surname>Qiu</surname><given-names>Qi</given-names></name><xref ref-type="aff" rid="jcmm15688-aff-0003">
+<sup>3</sup>
+</xref><address><email>anzhenqiuqi@outlook.com</email></address></contrib><contrib id="jcmm15688-cr-0009" contrib-type="author" corresp="yes"><name><surname>Wang</surname><given-names>Yong</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3652-8037</contrib-id><xref ref-type="aff" rid="jcmm15688-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jcmm15688-aff-0002">
+<sup>2</sup>
+</xref><address><email>doctor_wangyong@163.com</email></address></contrib></contrib-group><aff id="jcmm15688-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">School of Life Science</named-content>
+<institution>Beijing University of Chinese Medicine</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm15688-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">School of Traditional Chinese Medicine</named-content>
+<institution>Beijing University of Chinese Medicine</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm15688-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Pharmacy</named-content>
+<institution>Beijing Anzhen Hospital</institution>
+<institution>Capital Medical University</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff id="jcmm15688-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">School of Chinese Materia Medica</named-content>
+<institution>Beijing University of Chinese Medicine</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Chun Li, Modern Research Center for Traditional Chinese Medicine, Beijing University of Chinese Medicine, Beijing 100029, China.<break/>
+Email: <email>lichun19850204@163.com</email><break/>
+Qi Qiu, Department of Pharmacy, Beijing Anzhen Hospital, Capital Medical University, Beijing 100029, China.<break/>
+Email: <email>anzhenqiuqi@outlook.com</email><break/>
+Yong Wang, School of Life Science, Beijing University of Chinese Medicine, Beijing 100029, China.<break/>
+Email: <email>doctor_wangyong@163.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>05</day><month>8</month><year>2020</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2020</year></pub-date><volume>24</volume><issue>18</issue><issue-id pub-id-type="doi">10.1111/jcmm.v24.18</issue-id><fpage>10677</fpage><lpage>10692</lpage><history><date date-type="received"><day>19</day><month>3</month><year>2020</year></date><date date-type="rev-recd"><day>17</day><month>6</month><year>2020</year></date><date date-type="accepted"><day>09</day><month>7</month><year>2020</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2020 Journal of Cellular and Molecular Medicine published by John Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2020 The Authors. <italic>Journal of Cellular and Molecular Medicine</italic> published by Foundation for Cellular and Molecular Medicine and John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:href="file:JCMM-24-10677.pdf"/><abstract id="jcmm15688-abs-0001"><title>Abstract</title><p>Heart failure (HF) represents a major public health burden. Inflammation has been shown to be a critical factor in the progression of HF, regardless of the aetiology. Disappointingly, the majority of clinical trials targeting aspects of inflammation in patients with HF have been largely negative. Many clinical researches demonstrate that danshen has a good efficacy on HF, and however, whether danshen exerts anti&#x02010;inflammatory effects against HF remains unclear. In our study, the employment of a water extracted and alcohol precipitated of danshen extract attenuated cardiac dysfunction and inflammation response in acute myocardial infarction&#x02010;induced HF rats. Transcriptome technique and validation results revealed that TLR4 signalling pathway was involved in the anti&#x02010;inflammation effects of danshen. In vitro, danshen reduced the release of inflammatory mediators in LPS&#x02010;stimulated RAW264.7 macrophage cells. Besides, the LPS&#x02010;stimulated macrophage conditioned media was applied to induce cardiac H9C2 cells injury, which could be attenuated by danshen. Furtherly, knock&#x02010;down and overexpression of TLR4 were utilized to confirm that danshen ameliorated inflammatory injury via MyD88&#x02010;dependent TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B signalling pathway in cardiomyocytes. Furthermore, by utilizing co&#x02010;immunoprecipitation, danshen was proved to suppress MD2/TLR4 complex formation and MyD88 recruitment. In conclusion, our results demonstrated that danshen ameliorates inflammatory injury by controlling MD2/TLR4&#x02010;MyD88 complex formation and TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B signalling pathway in acute myocardial infarction&#x02010;induced HF.</p></abstract><kwd-group><kwd id="jcmm15688-kwd-0001">acute myocardial infarction</kwd><kwd id="jcmm15688-kwd-0002">Danshen</kwd><kwd id="jcmm15688-kwd-0003">heart failure</kwd><kwd id="jcmm15688-kwd-0004">inflammation</kwd><kwd id="jcmm15688-kwd-0005">TLR4</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>National Natural Science Foundation of China </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001809</institution-id></institution-wrap></funding-source><award-id>81822049</award-id><award-id>81673712</award-id><award-id>81673802</award-id></award-group><award-group id="funding-0002"><funding-source>National key new drug creation of Ministry of science and technology</funding-source><award-id>2019ZX09201004&#x02010;001&#x02010;011</award-id><award-id>2017ZX09304017</award-id></award-group><award-group id="funding-0003"><funding-source>Fok Ying Tung Education Foundation</funding-source><award-id>151044</award-id></award-group><award-group id="funding-0004"><funding-source><institution-wrap><institution>Beijing Nova Program </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100005090</institution-id></institution-wrap></funding-source><award-id>Z171100001117028</award-id></award-group><award-group id="funding-0005"><funding-source>Talent Young Scientist of China Association for Science and Technology</funding-source><award-id>CACM&#x02010;2017&#x02010;QNRC2&#x02010;C13</award-id><award-id>CACM&#x02010;2018&#x02010;QNRC2&#x02010;C07</award-id></award-group></funding-group><counts><fig-count count="7"/><table-count count="2"/><page-count count="16"/><word-count count="7565"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.9.1 mode:remove_FC converted:28.09.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcmm15688-cit-1001">
+<string-name>
+<surname>Wang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Danshen (<italic>Salvia miltiorrhiza</italic>) restricts MD2/TLR4&#x02010;MyD88 complex formation and signalling in acute myocardial infarction&#x02010;induced heart failure</article-title>. <source xml:lang="en">J Cell Mol Med</source>. <year>2020</year>;<volume>24</volume>:<fpage>10677</fpage>&#x02013;<lpage>10692</lpage>. <pub-id pub-id-type="doi">10.1111/jcmm.15688</pub-id>
+</mixed-citation>
+</p></notes></front><body id="jcmm15688-body-0001"><sec id="jcmm15688-sec-0001"><label>1</label><title>INTRODUCTION</title><p>As a chronic, progressing and ultimately debilitating syndrome, heart failure (HF) is currently recognized as a major and escalating public health concern worldwide.<xref rid="jcmm15688-bib-0001" ref-type="ref">
+<sup>1</sup>
+</xref> In particular, patients surviving from acute myocardial infarction (AMI) are at a high risk of developing HF, and incidence of HF among patients hospitalized for an AMI differs among studies, ranging from 14% to 36% in the last three decades, indicating that current therapeutic strategies still miss one or more effective pharmacologic interventions.<xref rid="jcmm15688-bib-0002" ref-type="ref">
+<sup>2</sup>
+</xref> Therefore, developing a new therapy to prevent AMI&#x02010;induced HF is urgent.</p><p>Researches suggested that ischaemic injury initiates an excessive or persistent inflammation response that leads to further cardiac tissue destruction, cardiac dysfunction and eventually to HF.<xref rid="jcmm15688-bib-0003" ref-type="ref">
+<sup>3</sup>
+</xref>, <xref rid="jcmm15688-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> Recognizing the regulation of therapeutic drugs on the molecular mechanism of inflammation is crucial for controlling HF progression. Toll&#x02010;like receptors (TLRs), as primary receptors of innate immunity, could initiate innate immune defence by interacting with pro&#x02010;inflammatory pathways, in turn leading to the development and deterioration of inflammatory diseases.<xref rid="jcmm15688-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="jcmm15688-bib-0006" ref-type="ref">
+<sup>6</sup>
+</xref> It is reported that following myocardial infarction, necrotic cardiomyocytes and damaged extracellular matrix release danger signals, binding a variety of TLRs in various tissues and cells of cardiovascular system which aggravate the inflammatory response during HF progress, suggesting the potential use of TLRs in target therapy.<xref rid="jcmm15688-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref>, <xref rid="jcmm15688-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="jcmm15688-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref> In the heart, one of the most highly expressed and the most studied in the context of myocardial injury is Toll&#x02010;like receptor 4 (TLR4).<xref rid="jcmm15688-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref> TLR4 activation requires complex formation with myeloid differentiation protein 2 (MD2). Next, TLR4/MD2 engages with the myeloid differentiation factor 88 adaptor protein (MyD88) directly to trigger receptor complex interactions with TNF receptor&#x02010;associated factor 6 (TRAF6) and transforming growth factor&#x02010;activated kinase 1 (TAK1).<xref rid="jcmm15688-bib-0009" ref-type="ref">
+<sup>9</sup>
+</xref> The signalling cascade ultimately activates the phosphorylation, ubiquitylation and degradation of inhibitor of NF&#x02010;&#x003ba;B (I&#x003ba;B), which further triggers the nuclear transportation of factor&#x02010;kapa B (NF&#x02010;&#x003ba;B) to induce a broad array of pro&#x02010;inflammatory mediators.<xref rid="jcmm15688-bib-0005" ref-type="ref">
+<sup>5</sup>
+</xref> Moreover, p38 MAPK, as a TAK1 downstream kinase, has recently been implied in inflammation.<xref rid="jcmm15688-bib-0010" ref-type="ref">
+<sup>10</sup>
+</xref> Thus, focusing on TLR4/MD2&#x02010;MyD88 complex formation and signalling axis is gaining increasing interest as a potential therapeutic or preventive strategy for the treatment of AMI&#x02010;induced HF. The importance of inflammatory response to stressed cardiomyocytes is well accepted; however, the definite inflammatory mechanisms in cardiomyocytes are not well understood. This research elucidated that to some content, stressed cardiomyocytes may play the role of &#x02018;inflammatory cells&#x02019;.</p><p>
+<italic>Salvia miltiorrhiza Bunge</italic>, also known as danshen (DS) in Chinese, is a star herb in the Traditional Chinese Medicine (TCM) and is demonstrated to exhibit various pharmacological activities, such as anti&#x02010;inflammation, anti&#x02010;atherogenesis, antioxidation, anti&#x02010;diabetes and anti&#x02010;tumour.<xref rid="jcmm15688-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref> The herb has been clinically used for more than 2000&#x000a0;years to treat numerous ailments, especially cardiovascular diseases and has been officially recorded in the Chinese pharmacopoeia since 1953. In the last 2 decades, 39 clinical trials comprised a total of 2431 patients have been conducted where danshen was used alone or in combination with other herbs to treat cardiovascular diseases.<xref rid="jcmm15688-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> Among them, 2 trials used danshen alone showed that danshen has a potential protective effect on the development of cardiovascular disease.<xref rid="jcmm15688-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref>, <xref rid="jcmm15688-bib-0014" ref-type="ref">
+<sup>14</sup>
+</xref> Impressively, a randomized controlled trial demonstrated that danshen was beneficial to the diabetic patients with chronic heart disease.<xref rid="jcmm15688-bib-0013" ref-type="ref">
+<sup>13</sup>
+</xref> Some other clinical trials showed that danshen could also significantly reduce the ventricular hypertrophy index, improve the function of ventricular myocardium and regulate the diastolic function of the ventricle.<xref rid="jcmm15688-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> In general, the results from the clinical trials have demonstrated that danshen is promising for the management of heart failure. However, the underlying mechanism is still blurred.</p><p>In the current study, the highly reproducible rat model of left anterior descending (LAD) ligation is used to mimic myocardial infarction and induce heart failure and evaluate the cardioprotective effects of danshen. Importantly, transcriptome technique was applied to explore potential differential inflammation&#x02010;related genes and pathways. Our studies will elucidate the anti&#x02010;inflammation mechanisms of danshen and provide alternative therapeutic approaches for the treatment of HF.</p></sec><sec sec-type="materials-and-methods" id="jcmm15688-sec-0002"><label>2</label><title>MATERIALS AND METHODS</title><sec sec-type="materials" id="jcmm15688-sec-0003"><label>2.1</label><title>Materials</title><sec id="jcmm15688-sec-0004"><label>2.1.1</label><title>Chemicals</title><p>4% paraformaldehyde and 0.9% saline were purchased from Beijing Applygen Technology Inc (Beijing, China). Foetal bovine serum (FBS), Dulbecco's modified Eagle's medium (DMEM), streptomycin, penicillin, phosphate buffered solution (PBS), DAPI, sterile ultrapure water and LPS were purchased from Beijing BioDee Biotechnology Co., Ltd. (Beijing, China). TLR4 pcDNA 3.1, LipoFiter 3.0, TLR4 siRNA and RNAfit (HB&#x02010;RF&#x02010;1000) were purchased from Hanbio Technology Co., Ltd. (Shanghai, China). All other chemicals were purchased from formal commercial sources.</p></sec><sec id="jcmm15688-sec-0005"><label>2.1.2</label><title>Danshen preparation and quality assessment</title><p>We applied the preparing procedures of water extraction and alcohol precipitation for danshen samples. To ensure stable quality of danshen samples, we established fingerprints by HPLC&#x02010;PDA for discrimination of samples. The standard of quality control referred to China Pharmacopoeia. Briefly, danshen was prepared using the following procedure: accurately weighed lyophilized powder (0.2&#x000a0;g) was thoroughly suspended in 10 volumes of 5% aqueous ACN; followed by centrifugation (9600&#x000a0;rpm) for 10&#x02009;mins, then, the supernatant was filtered through a 0.22&#x000a0;&#x003bc;m membrane before LC&#x02010;MS analysis; finally, the injection volume and other LC conditions were set.</p></sec></sec><sec id="jcmm15688-sec-0006"><label>2.2</label><title>Establishment of AMI rat model and pharmacological treatments</title><p>SPF&#x02010;grade Sprague Dawley (SD) rats (260&#x000a0;&#x000b1;&#x000a0;10&#x000a0;g) were purchased from Beijing SPF Biotechnology Co., Ltd., China (Beijing, China). All rats were housed at 23&#x000a0;&#x000b1;&#x000a0;1&#x000b0;C, with proper humidity and lighting (12&#x000a0;hours light/dark cycle). Forty rats were randomly divided into six groups as below: sham group, model group, DS&#x02010;L; DS&#x02010;M; DS&#x02010;H (with dosages of 3.75; 7.5; 15&#x000a0;&#x003bc;g/kg) group and positive drug trimetazidine (TMZ, with a dosage of 10&#x000a0;mg/kg) group, respectively. Danshen's dosage was given according to its percentage contained in Danqi pill, and the dosage of Danqi pill (Series: 6128006; Beijing Tongren tang, China,) was referring to clinical application and built by the equivalent conversion between rat and people. In our previous study, ligation of left anterior descending (LAD) coronary artery&#x02010;induced AMI rat model was described detailly.<xref rid="jcmm15688-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> Drugs were orally and daily administered for 28&#x000a0;days starting on first day after surgery. Since trimetazidine is conventionally used for cardiovascular diseases especially left ventricular (LV) dysfunction, without relevant side effects, we utilized it as positive drug.<xref rid="jcmm15688-bib-0016" ref-type="ref">
+<sup>16</sup>
+</xref> The sham group and the model group received the same volume of 0.9% saline. All animal procedures were approved by Beijing University of Chinese Medicine&#x02019; Animal Care Committee and confirmed to the guidelines from directive 2010/63/EU of the European Parliament on the protection of animals used for scientific purposes. The approved code for our animal experiment is &#x02018;BUCM&#x02010;4&#x02010;2018101504&#x02010;4068&#x02019;. At the end of experiment, all rats were anaesthetized by isoflurane inhalation 2% and finally euthanized by cervical dislocation.</p></sec><sec id="jcmm15688-sec-0007"><label>2.3</label><title>Echocardiographic assessment of cardiac functions</title><p>After 28&#x000a0;days&#x02019; consecutive administration, cardiac function was examined by Transthoracic Echocardiography (Vevo TM 2100; Visual Sonics, Canada). LV end&#x02010;diastolic diameter (LVEDD) and LV end&#x02010;systolic diameter (LVESD) were assessed for at least three consecutive cardiac cycles. Per cent fractional shortening (FS) and ejection fraction (EF) were calculated.</p></sec><sec id="jcmm15688-sec-0008"><label>2.4</label><title>Histological examination and Masson's trichrome staining</title><p>The hearts were immersed in 4% paraformaldehyde for at least 24&#x000a0;hours, then embedded in paraffin and sectioned into 4&#x000a0;&#x003bc;m slices to be stained with haematoxylin&#x02010;eosin (HE) or Masson's trichrome staining. The images were obtained by optical microscope at 400 x magnification. The semiquantitative results of inflammatory cells and collagen volume fraction (CVF) were presented by using ImageJ software (<ext-link ext-link-type="uri" xlink:href="https://imagej.nih.gov/ij/">https://imagej.nih.gov/ij/</ext-link>).</p></sec><sec id="jcmm15688-sec-0009"><label>2.5</label><title>Detection of biomarkers</title><p>B&#x02010;type natriuretic peptide (BNP) is one of the gold standard biomarkers in determining the diagnosis and prognosis of HF.<xref rid="jcmm15688-bib-0017" ref-type="ref">
+<sup>17</sup>
+</xref> Tumour necrosis factor&#x02010;&#x003b1; (TNF&#x02010;&#x003b1;) and interleukin&#x02010;1&#x003b2; (IL&#x02010;1&#x003b2;) have been demonstrated as inflammatory biomarkers in chronic and acute HF patients.<xref rid="jcmm15688-bib-0018" ref-type="ref">
+<sup>18</sup>
+</xref> LDH locates in the cytoplasm of cardiomyocytes in normal state. The release of LDH into blood is considered diagnostic biomarker of AMI&#x02010;induced HF.<xref rid="jcmm15688-bib-0019" ref-type="ref">
+<sup>19</sup>
+</xref> Levels of BNP, TNF, IL&#x02010;1&#x003b2;, NO and lactate dehydrogenase (LDH) in cardiac tissue or cell supernatant were detected by following the instructions of commercially available kits (Nanjing Jiancheng, China). The content was expressed as pg/mL or &#x003bc;M.</p></sec><sec id="jcmm15688-sec-0010"><label>2.6</label><title>Transcriptome sequencing (RNA&#x02010;seq) analysis</title><sec id="jcmm15688-sec-0011"><label>2.6.1</label><title>RNA Preparation</title><p>Total RNA of the cardiac tissues was extracted using TRIzol Reagent&#x000ae; (Invitrogen, Carlsbad, CA) according to the manufacturer's instruction. Extracted RNA was digested with DNase to remove contaminating genomic DNA, and the quality of RNA was evaluated by RNA Nano 6000 Assay Kit of the Agilent Bioanalyzer 2100 system (Agilent Technologies, CA, USA). RNA was purified using poly&#x02010;T oligo&#x02010;attached magnetic beads, then reverse transcribed into cDNA. After cDNA was ligated with adaptors, PCR amplification was performed using Phusion High&#x02010;Fidelity DNA polymerase, Universal PCR primers and Index (X) Primer and build the library of each sample. The library was sequenced on Illumina Hiseq4000 platform and 150bp paired&#x02010;end reads. Quality control and alignment were performed with rat reference sequences. Subsequently, read counts of each gene were computed as raw gene expression.</p></sec><sec id="jcmm15688-sec-0012"><label>2.6.2</label><title>Differential Expression Analysis and KEGG pathway enrichment</title><p>Using R package &#x02018;DESeq2&#x02019;, differentially expressed genes (DEG) were identified with a <italic>P</italic>&#x02010;value&#x000a0;&#x0003c;&#x000a0;0.05 and |log2(foldchange)|&#x0003e; log2(1.5) in R version 3.5.1 software. Furthermore, KEGG pathway enrichment was performed using R package &#x02018;clusterProfiler&#x02019; with <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05 (R version 3.5.1 software).</p></sec></sec><sec id="jcmm15688-sec-0013"><label>2.7</label><title>Real&#x02010;time quantitative PCR to verify the results of the Transcriptome</title><p>The sequences of primers used for fluorescent quantitative PCR are shown in Table&#x000a0;<xref rid="jcmm15688-tbl-0001" ref-type="table">1</xref>. TRIzol Reagent (Gibco&#x02010;BRL, Paisley, UK) was used to extract the total RNA from each sample. The NanoDrop 2000 (Thermo Scientific, USA) was utilized for measuring the RNA concentration and purity, and then, the Revert Aid First Strand cDNA Synthesis kit (Fermentas, LT) was used to reverse transcribe the cDNAs. The SYBR Select Master MIX (Applied Biosystems, USA) was applied to detect the expression of the target genes through using fluorescent quantitative PCR. Samples were amplified by 95&#x000b0;C for two minutes, 40 cycles of 95&#x000b0;C for 30&#x000a0;seconds, 95&#x000b0;C for five seconds, 60&#x000b0;C for five seconds and 72&#x000b0;C for 10&#x000a0;minutes. Finally, the 2&#x02212;&#x025b3;&#x025b3;CT method was used to analyse the gene expression in each sample.</p><table-wrap id="jcmm15688-tbl-0001" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 1</label><caption><p>Nucleotide sequences of primers used in real&#x02010;time PCR</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Gene</th><th align="left" valign="top" rowspan="1" colspan="1">Primers</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">Tlr4</td><td align="left" rowspan="1" colspan="1">ATTGTATCGCCTTCTTAGCA</td></tr><tr><td align="left" rowspan="1" colspan="1">CTTCTTGTTCTTCCTCTGATG</td></tr><tr><td align="left" rowspan="2" colspan="1">Tlr2</td><td align="left" rowspan="1" colspan="1">GCTGTGGTATCTGAGAATGA</td></tr><tr><td align="left" rowspan="1" colspan="1">GAATCCTGCTCGCTGTAG</td></tr><tr><td align="left" rowspan="2" colspan="1">Tlr9</td><td align="left" rowspan="1" colspan="1">TGGACCTAAGCGAGAACT</td></tr><tr><td align="left" rowspan="1" colspan="1">GAGCAAGCGGAAGAAGAT</td></tr><tr><td align="left" rowspan="2" colspan="1">Cd86</td><td align="left" rowspan="1" colspan="1">AATGAGTATGGCGACAACA</td></tr><tr><td align="left" rowspan="1" colspan="1">AGATAGGCTGATGGAGACA</td></tr><tr><td align="left" rowspan="2" colspan="1">Cd80</td><td align="left" rowspan="1" colspan="1">TGTCCAAGTCGGTGAGAG</td></tr><tr><td align="left" rowspan="1" colspan="1">TGCCAGTAGATTCGGTGTA</td></tr><tr><td align="left" rowspan="2" colspan="1">GAPDH</td><td align="left" rowspan="1" colspan="1">GGATACTGAGAGCAAGAGAGA</td></tr><tr><td align="left" rowspan="1" colspan="1">TTATGGGGTCTGGGATGGAA</td></tr><tr><td align="left" rowspan="2" colspan="1">Tlr8</td><td align="left" rowspan="1" colspan="1">TCAGAGATGGAAGAGTGTCA</td></tr><tr><td align="left" rowspan="1" colspan="1">TGGAGGTGGTAAGGAATGT</td></tr><tr><td align="left" rowspan="2" colspan="1">Irf5</td><td align="left" rowspan="1" colspan="1">AGGAGGAAGAGGAAGATGAA</td></tr><tr><td align="left" rowspan="1" colspan="1">CCAGGTAGCACAGGTTCT</td></tr><tr><td align="left" rowspan="2" colspan="1">Spp1</td><td align="left" rowspan="1" colspan="1">CCATCTCAGAAGCAGAATCT</td></tr><tr><td align="left" rowspan="1" colspan="1">CATCGTCGTCGTCATCAT</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jcmm15688-sec-0014"><label>2.8</label><title>Cell culture</title><p>RAW 264.7 macrophages and rat myocardial H9C2 cell used in the present study were purchased from China Infrastructure of Cell Line Resources and were both cultured at 37 <bold>&#x000b0;C</bold> under 5% CO2 humidified atmosphere, with DMEM supplemented with FBS (10%), Penicillin (100&#x02009;U/mL) and Streptomycin (100&#x000a0;&#x003bc;g/mL). To screen the non&#x02010;toxic concentrations of danshen, H9C2 and RAW264.7 cells were seeded onto 96&#x02010;well plates and incubated with danshen (100&#x000a0;~&#x000a0;1200&#x003bc;g/mL) for 24&#x000a0;hours. Then, Cell Counting Kit&#x02010;8 (CCK8, Dojindo, Kumamoto, Japan) was utilized to assess the cell viabilities by measuring absorbance at 450&#x000a0;nm under Microplate reader (perkin&#x02010;elmer, Waltham, MA and United States).</p><p>To evaluate the effects of danshen on LPS&#x02010;induced macrophages, RAW264.7 cells were exposed to LPS (1&#x000a0;&#x003bc;g/mL) for 24&#x000a0;hours with/without danshen. Cell supernatants for conditioned media (CM) were collected for further experiments. To investigate the effects of danshen on CM&#x02010;stimulated cardiomyocytes, H9C2 cells were pre&#x02010;treated with danshen for 6&#x000a0;hours and then stimulated with CM (with/without danshen) for 24&#x000a0;hours.</p></sec><sec id="jcmm15688-sec-0015"><label>2.9</label><title>Knock&#x02010;down of TLR4 with siRNA</title><p>TLR4 expression was knocked down using TLR4 siRNA (Hanbio Technology, Shanghai, China) according to the manufacturer's instructions. The sequence (5&#x02019;&#x02010;3&#x02019;) is GGAUCAGAAUCUCAGCAAAdTdT; UUUGCUGAGAUUCUGAUCCdTdT. Briefly, H9C2 cells were incubated with 500 &#x003bc;L RNAfit and 10 &#x003bc;L siRNA for 6&#x000a0;hours, and then, the medium was replaced by DMEM (2% FBS; antibiotics&#x02010;free) for another 18&#x000a0;hours. Cells transfected with non&#x02010;specific scramble siRNA (NC siRNA) were used as controls. RNA was extracted to check the knock&#x02010;down efficiency by PCR (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5D</xref>). Cells were subjected to experiment at 40&#x000a0;hours after transfection.</p><sec id="jcmm15688-sec-0016"><label>2.9.1</label><title>Overexpression of TLR4 with pcDNA3.1</title><p>TLR4 was overexpressed by using TLR4 pcDNA3.1 (Hanbio Technology, Shanghai, China) according to the manufacturer's instructions. Briefly, H9C2 cells were plated into 6&#x02010;well plates for 24&#x000a0;hours. The medium was replaced with DMEM (antibiotic&#x02010;free) two hours before transfection. Then, cells were transfected with 1&#x000a0;&#x003bc;g plasmid (pcDNA3.1&#x02010;TLR4 or empty vector pcDNA3.1) and 25&#x000a0;&#x003bc;L LipoFiter 3.0/well. After 24&#x000a0;hours, cells were subjected to experiment.</p></sec><sec id="jcmm15688-sec-0017"><label>2.9.2</label><title>Immunofluorescence</title><p>Firstly, the paraffin&#x02010;embedded sections were inactivated with 0.3% hydrogen peroxide for 15 mins and blocked with goat serum for 10&#x000a0;minutes at room temperature. Then, sections were incubated with anti&#x02010;rabbit IgG polyclonal for 1&#x000a0;hour at room temperature in the dark. Followed by incubation with TLR4 antibody at 4&#x000b0;C overnight, DAPI staining was carried out at room temperature for 5&#x000a0;minutes in the dark. Finally, sections were washed and fixed with antifade mounting medium. The optical microscope was used for photographing at 400&#x000a0;&#x000d7;&#x000a0;magnification (Leica Microsystems GmbH).</p><p>Cells were grown on a laser confocal dish for different treatments and then fixed with 4% paraformaldehyde for 15 mins, followed by permeabilization (0.5% Triton x&#x02010;100 in 0.1&#x000a0;mol/L PBS) for 20 mins and blocking with goat serum for 1&#x000a0;hour. Thereafter, cells were stained with NF&#x02010;&#x003ba;B antibody overnight at 4&#x000b0;C and incubated with anti&#x02010;rabbit IgG antibody in the dark at room temperature for 1&#x000a0;hour, followed by washing three times with PBS and counterstaining with DAPI (10&#x000a0;&#x003bc;g/mL) for 30&#x000a0;minutes.</p></sec><sec id="jcmm15688-sec-0018"><label>2.9.3</label><title>Co&#x02010;immunoprecipitation and Western blots analysis</title><p>Prepared cell extracts from different groups were incubated with 1&#x000a0;&#x003bc;g anti&#x02010;MD2 (R&#x00026;D system) or anti&#x02010;TLR4 (ab8376, Abcam, UK) for 1&#x000a0;hour at 4&#x000b0;C, and immunoprecipitation was made with protein A Agarose Beads (9863T, CST, USA) at 4&#x000b0;C overnight. Finally, samples were immunoblotted for detection of TLR4 or MyD88 as co&#x02010;precipitated protein.</p><p>Myocardial tissues or cells were homogenized with ice&#x02010;cold RIPA lysate (Beijing Applygen Technology Inc, China) containing 1% protease inhibitor and 2% protein phosphatase inhibitor (Beijing Applygen Technology Inc, China) and then centrifuged at 12&#x000a0;000&#x000a0;g for 10&#x000a0;minutes at 4&#x000b0;C. Bicinchoninic Acid (BCA) Protein Assay Kit (Beijing Applygen Technology Inc, China) was used to measure the protein concentration. Quantitative samples were separated on 10% SDS&#x02010;PAGE gels and transferred to polyvinylidene fluoride (PVDF) membranes. The membranes were blocked with 5% skim milk in 1 x Tris&#x02010;buffered saline for 2&#x000a0;hours, followed by incubation with the primary antibodies at 4&#x000b0;C overnight and secondary antibody at room temperature for 1&#x000a0;hour. The membranes were exposed to ECL (ECL Plus Western blotting Detection Reagent, GE Healthcare, United States) in the darkroom for about 10&#x000a0;seconds. Density of bands was quantified by ImageJ. The antibodies we used are listed in Table&#x000a0;<xref rid="jcmm15688-tbl-0002" ref-type="table">2</xref>.</p><table-wrap id="jcmm15688-tbl-0002" xml:lang="en" content-type="Table" orientation="portrait" position="float"><label>Table 2</label><caption><p>Primary antibodies used in Western blot experiment</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Protein</th><th align="left" valign="top" rowspan="1" colspan="1">Primary antibody</th><th align="left" valign="top" rowspan="1" colspan="1">Concentration</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<p>TLR4</p>
+<p>MyD88</p>
+<p>TRAF6</p>
+<p>I&#x003ba;B&#x003b1;</p>
+<p>p&#x02010;I&#x003ba;B&#x003b1;</p>
+<p>MAPK</p>
+<p>p&#x02010;MAPK</p>
+<p>NF&#x02010;&#x003ba;B</p>
+<p>p&#x02010;NF&#x02010;&#x003ba;B</p>
+<p>GAPDH</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>TLR4 Antibody, 19811&#x02010;1&#x02010;AP, Proteintech</p>
+<p>Anti&#x02010;MyD88, ab2064, Abcam</p>
+<p>Anti&#x02010;TRAF6, ab227560, Abcam</p>
+<p>Ant&#x02010;IKB&#x003b1;, ab32518, Abcam</p>
+<p>Phospho&#x02010;I&#x003ba;B&#x003b1; (Ser32), 2859, CST</p>
+<p>p38 MAPK, 2387, CST</p>
+<p>Phospho&#x02010;p38 MAPK (Thr180/Tyr182), 9215, CST</p>
+<p>Anti&#x02010;NF&#x02010;&#x003ba;B p65, ab16502, Abcam</p>
+<p>Anti&#x02010;NF&#x02010;&#x003ba;B p65 (phospho S529), ab97726, Abcam</p>
+<p>Anti&#x02010;GAPDH, ab8246, Abcam</p>
+</td><td align="left" rowspan="1" colspan="1">
+<p>1:1000</p>
+<p>1:1000</p>
+<p>1:1000</p>
+<p>1:1000</p>
+<p>1:1000</p>
+<p>1:1000</p>
+<p>1:1000</p>
+<p>1:1000</p>
+<p>1:1000</p>
+<p>1:2000</p>
+</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jcmm15688-sec-0019"><label>2.9.4</label><title>Data analysis</title><p>Statistical analyses were performed on GraphPad Prism software 6.0 (San Diego, CA, USA). All results are presented as the means&#x000a0;&#x000b1;&#x000a0;SD. Comparisons between two groups were performed with the unpaired two&#x02010;tailed t test. Multiple comparisons were determined using ANOVA followed by Bonferroni&#x02010;corrected post hoc test. The difference was considered statistically significant when <italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05.</p></sec></sec></sec><sec sec-type="results" id="jcmm15688-sec-0020"><label>3</label><title>RESULTS</title><sec id="jcmm15688-sec-0021"><label>3.1</label><title>Formatting of mathematical components</title><p>HPLC&#x02010;PDA was used for the components analysis and 17 characteristic peaks in the danshen&#x02010;fingerprint chromatograms were identified (Figure&#x000a0;<xref rid="jcmm15688-fig-0001" ref-type="fig">1</xref>). By comparing with HPLC retention time of standard danshen according to China Pharmacopoeia (Ministry of Health of the People's Republic of China Pharmacopoeia Committee, 2010), we identified three dominating peaks as danshensu, protocatechuic aldehyde and salvianolic acid B. HPLC&#x02010;PDA chromatograms numbered from 1 to 3 represent danshensu, protocatechuic aldehyde and salvianolic acid B.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15688-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Qualitative analysis on grinding powder of danshen. a, danshen; b/1, danshensu; c/2, protocatechuic aldehyde; d/3, salvianolic acid B</p></caption><graphic id="nlm-graphic-1" xlink:href="JCMM-24-10677-g001"/></fig></sec><sec id="jcmm15688-sec-0022"><label>3.2</label><title>Danshen attenuates left ventricular (LV) dysfunction and reduces inflammation response in HF post&#x02010;AMI rats</title><p>LV function was detected by echocardiography. M&#x02010;mode tracings were analysed at 28&#x000a0;days post&#x02010;AMI (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2A</xref>). AMI increased LVEDD and LVESD and decreased EF and FS (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2B</xref>). Danshen treatment with different dosages improved cardiac dysfunction with significantly lowered LVEDD and LVESD, and increased EF and FS compared to the model group (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2B</xref>). Besides, danshen treatment significantly reduces the release of BNP (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2C</xref>). On Masson's trichrome staining results, the model group showed accumulation of collagen fibres (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2D</xref>). On HE staining results, heart showed normal myocardial morphology in the sham group, whereas some myocardial distortion and mononuclear cell infiltration were noted in the model group (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2E</xref>). Treatment with danshen in different dosages protected hearts against collagen deposition, pathological changes and inflammatory cell infiltration caused by AMI (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2D,E</xref>). In addition, levels of TNF&#x02010;&#x003b1; and IL&#x02010;1&#x003b2; in cardiac tissue were higher in rats of the model group (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2F,G</xref>), whereas danshen treatment with different dosages reversed these changes, respectively (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2F,G</xref>) suggesting a definite anti&#x02010;inflammatory effect on HF which is consistent with the clinical results. Collectively, danshen treatment showed a good cardioprotective effect against HF post&#x02010;AMI rats. Trimetazidine had the similar effects as danshen (Figure&#x000a0;<xref rid="jcmm15688-fig-0002" ref-type="fig">2A</xref>&#x02010;G).</p><fig fig-type="Figure" xml:lang="en" id="jcmm15688-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Danshen is shown to improve heart function and alleviate pathological changes in rats. (A) M&#x02010;mode echocardiographic images obtained from Sham, Mode, DS&#x02010;L, DS&#x02010;M, DS&#x02010;H and TMZ groups 28&#x000a0;days post&#x02010;AMI. (B) Analysis of LV end&#x02010;diastolic diameter (LVEDD) and LV end&#x02010;systolic diameter (LVESD); and per cent fractional shortening (FS) and ejection fraction (EF) calculations. (C) Levels of BNP in plasma from different groups. (D) Representative heart photomicrographs of Masson trichrome staining and semiquantitative results of collagen volume fraction (CVF) from different groups. (E) Representative heart photomicrographs of HE staining from different groups and the inflammatory cells were quantified (%) in the HE staining. Scale bar&#x000a0;=&#x000a0;20&#x000a0;&#x003bc;m. Levels of cytokines including TNF&#x02010;&#x003b1; (F) and IL&#x02010;1&#x003b2; (G) in cardiac tissue from different groups. N&#x000a0;=&#x000a0;5 per group, *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01, ***<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01, ns means <italic>P</italic>&#x000a0;&#x0003e;&#x000a0;.05, that is no significance</p></caption><graphic id="nlm-graphic-3" xlink:href="JCMM-24-10677-g002"/></fig></sec><sec id="jcmm15688-sec-0023"><label>3.3</label><title>Transcriptome results and validation of the key genes in TLR signalling pathway</title><sec id="jcmm15688-sec-0024"><label>3.3.1</label><title>Differential expression analysis</title><p>In order to study transcriptional regulatory networks, transcriptome technique was applied. The results of differential expression analysis are shown in Table <xref rid="jcmm15688-sup-0001" ref-type="supplementary-material">S1</xref>. There are 843 differentially expressed genes between the DS (15&#x000a0;&#x003bc;g/kg) group and the model group including 387 up&#x02010;regulated genes and 456 down&#x02010;regulated genes. The changes in expression of these genes indicated the broad effects of danshen treatment on HF post&#x02010;AMI.</p></sec><sec id="jcmm15688-sec-0025"><label>3.3.2</label><title>Quantitative pathway analysis</title><p>A total of 70 pathways are enriched with the differentially expressed genes between the DS (15&#x000a0;&#x003bc;g/kg) group and the model group. Pathway enrichment results are listed in Table <xref rid="jcmm15688-sup-0002" ref-type="supplementary-material">S2</xref>. The analysis of pathway enrichment demonstrated that the TLR signalling pathway, the chemokine signalling pathway and the natural killer cell&#x02010;mediated cytotoxicity were altered, which are closely related to inflammatory responses. The differentially expressed genes in the TLR signalling pathways are shown in Figure&#x000a0;<xref rid="jcmm15688-fig-0003" ref-type="fig">3A</xref>.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15688-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Danshen is shown to regulate the TLR signalling pathway. (A) The differentially expressed genes between the DS (15&#x000a0;&#x003bc;g/kg) group and the model group in the TLR signalling pathway. The arrows represent the up&#x02010;regulated or down&#x02010;regulated expression of gene. (B) Toll&#x02010;like receptor signalling pathway&#x02014;reference pathway in KEGG. (C) Gene expressions of Tlr4, Cd86, Tlr9, Tlr2, Cd80, Tlr8, Irf5 and Spp1 were validated by using real&#x02010;time fluorescent quantitative PCR. Values were calculated by transforming the estimated marginal means from the RM&#x02010;ANOVA with a fold change&#x000a0;=&#x000a0;2&#x02212;DDCT. N&#x000a0;=&#x000a0;5 per group, *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01</p></caption><graphic id="nlm-graphic-5" xlink:href="JCMM-24-10677-g003"/></fig></sec><sec id="jcmm15688-sec-0026"><label>3.3.3</label><title>Validation of the key genes in TLR signalling pathway</title><p>Based on transcriptome results, we validated eight genes, which are considered to be critical in TLR signalling pathway (Figure&#x000a0;<xref rid="jcmm15688-fig-0003" ref-type="fig">3B</xref>). Figure&#x000a0;<xref rid="jcmm15688-fig-0003" ref-type="fig">3C</xref> showed gene expression results for the different treatment groups from PCR analysis. Based on PCR results, the expressions of the Tlr4, Irf5, Cd86, Tlr9, Tlr2, Spp1, Cd80 and Tlr8 genes significantly increased in the model group when compared with the sham group (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01 vs Sham group). Whereas compared with the model group, the expressions of Tlr4, Cd86, Tlr9, Tlr2, Cd80, Tlr8 genes and Irf5, Spp1 genes in the DS (15&#x000a0;&#x003bc;g/kg) group decreased, respectively.</p></sec></sec><sec id="jcmm15688-sec-0027"><label>3.4</label><title>Danshen regulates the expressions of key signalling molecules of TLR4 signalling pathway in rats</title><p>Effects of danshen on TLR4 signalling pathway&#x02010;related proteins were furtherly investigated by Western blots. The results showed that compared with the sham group, levels of TLR4, MyD88, TRAF6, p&#x02010;p38 MAPK (Figure&#x000a0;<xref rid="jcmm15688-fig-0004" ref-type="fig">4A</xref>) and p&#x02010;I&#x003ba;B, p&#x02010;NF&#x02010;&#x003ba;B (Figure&#x000a0;<xref rid="jcmm15688-fig-0004" ref-type="fig">4A</xref>) were increased in the model group, while danshen treatment (15&#x000a0;&#x003bc;g/kg) down&#x02010;regulated the expressions of these signalling molecules, respectively (Figure&#x000a0;<xref rid="jcmm15688-fig-0004" ref-type="fig">4A</xref>). IHC of TLR4 was assessed, and the result was consistent with Western blots (Figure&#x000a0;<xref rid="jcmm15688-fig-0004" ref-type="fig">4B</xref>). Collectively, these data indicated that danshen exerted marked effects on TLR4 signalling pathway.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15688-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Danshen is shown to regulate critical signalling molecules of TLR4 signalling pathway. (A) Western blots images and analysis of TLR4, MyD88, TRAF6, p&#x02010;I&#x003ba;B, p&#x02010;p38 MAPK and p&#x02010;NF&#x02010;&#x003ba;B. N&#x000a0;=&#x000a0;3. (B) IHC and quantitative result of TLR4 in different treatment groups, scale bar&#x000a0;=&#x000a0;20&#x000a0;&#x003bc;m, N&#x000a0;=&#x000a0;5. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01</p></caption><graphic id="nlm-graphic-7" xlink:href="JCMM-24-10677-g004"/></fig></sec><sec id="jcmm15688-sec-0028"><label>3.5</label><title>Danshen inhibits macrophage conditioned media&#x02010;induced inflammation response in H9C2 cells</title><p>Firstly, we investigated the anti&#x02010;inflammatory effects of danshen on macrophages, and LPS&#x02010;induced RAW264.7 cell model was built. The CCK8 results showed that co&#x02010;treatment of RAW264.7 cells with danshen below 1200&#x000a0;&#x003bc;g/mL was non&#x02010;toxic (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5A</xref>), and danshen could obviously decrease the level of TNF&#x02010;&#x003b1; and NO (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5B,C</xref>). We also found that LPS stimulation promoted p&#x02010;NF&#x02010;&#x003ba;B expression and nuclear translocation, as compared to the untreated cells, while danshen treatment could reverse the changes (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5D</xref>). These in vitro results jointly confirmed that the anti&#x02010;inflammatory effect of danshen was partly exerted by inhibiting activity of macrophages.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15688-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Danshen is shown to protect cardiomyocytes against CM&#x02010;induced inflammation. (A) The CCK8 assay showed that danshen treatment for 24&#x000a0;hours exerted no cytotoxic effect on macrophages below 1200&#x000a0;&#x003bc;g/mL, N&#x000a0;=&#x000a0;12. Levels of TNF&#x02010;&#x003b1; (B) and NO (C) in macrophage supernatants were assessed by Elisa assay, N&#x000a0;=&#x000a0;5. (D) Immunofluorescence images of p&#x02010;NF&#x02010;&#x003ba;B were shown from different groups in macrophage, scale bar&#x000a0;=&#x000a0;50&#x000a0;&#x003bc;m, N&#x000a0;=&#x000a0;12. (E) The CCK8 assay showed that danshen demonstrated no cytotoxic effect on cardiomyocytes below 1200&#x000a0;&#x003bc;g/ml and showed the effective concentrations of danshen, N&#x000a0;=&#x000a0;12. (F) The release of LDH in H9C2 cell supernatants was detected by ELISA assay, N&#x000a0;=&#x000a0;12. (G) RNA was extracted to check the knock&#x02010;down efficiency by PCR, N&#x000a0;=&#x000a0;12. TLR4 siRNA increased the cell viability (G) and reduced the release of LDH, TNF&#x02010;&#x003b1; and IL&#x02010;1&#x003b2; (H) of H9C2 cells, N&#x000a0;=&#x000a0;12. Western blots images (I) and analysis (J) of TLR4, TRAF6 and p&#x02010;NF&#x02010;&#x003ba;B from different groups in H9C2 cells, N&#x000a0;=&#x000a0;3. *<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.05, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01</p></caption><graphic id="nlm-graphic-9" xlink:href="JCMM-24-10677-g005"/></fig><p>We further explored the anti&#x02010;inflammatory effects of danshen on cardiomyocytes. The macrophage condition media (CM)&#x02010;induced inflammatory H9C2 cell model was established in our previous study.<xref rid="jcmm15688-bib-0015" ref-type="ref">
+<sup>15</sup>
+</xref> The CCK8 results showed that pre&#x02010; and co&#x02010;treatment of H9C2 cells with danshen at the concentration of 600&#x02010;1200&#x000a0;&#x003bc;g/mL significantly increased the cell viability (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5E</xref>) and reduced the release of LDH, TNF&#x02010;&#x003b1; and IL&#x02010;1&#x003b2; (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5F,H</xref>). Furthermore, Western blots results showed that the expressions of TLR4, TRAF6 and p&#x02010;NF&#x02010;&#x003ba;B were down&#x02010;regulated by danshen treatment, as compared to CM&#x02010;stimulated H9C2 cells (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5I</xref>). Collectively, these indicated that danshen exerted a good efficacy against inflammatory response and regulated TLR4 signalling pathway in cardiomyocytes.</p></sec><sec id="jcmm15688-sec-0029"><label>3.6</label><title>TLR4 may mediate the inflammatory signalling pathway in cardiomyocytes</title><p>Intriguingly, TLR4 siRNA also increased the cell viability (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5G</xref>) and attenuated release of LDH, TNF&#x02010;&#x003b1; and IL&#x02010;1&#x003b2;, respectively (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5H</xref>), as compared to the CM group. Furthermore, Western blots results showed that the expressions of TLR4, TRAF6 and p&#x02010;NF&#x02010;&#x003ba;B were down&#x02010;regulated by TLR4 siRNA, as compared to CM&#x02010;stimulated H9C2 cells (Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5I</xref>). Collectively, these indicated that TLR4 signalling cascades may be an attractive target against inflammatory injury in cardiomyocytes.</p></sec><sec id="jcmm15688-sec-0030"><label>3.7</label><title>Danshen ameliorates inflammatory injury by inhibiting TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B signalling pathway MD2/TLR4&#x02010;MyD88 complex formation</title><p>To determine whether TLR4 was a direct target of danshen on regulating inflammation, we successfully overexpressed TLR4 by transfection with pcDNA3.1&#x02010;TLR4 plasmid (Figure&#x000a0;<xref rid="jcmm15688-fig-0006" ref-type="fig">6A</xref>). Western blots revealed that TLR4, TFAF6 and activated NF&#x02010;&#x003ba;B were dramatically increased when compared with the pcDNA3.1 negative group, suggesting that TLR4 could trigger the NF&#x02010;&#x003ba;B&#x02010;activated inflammation in a cascade regulation (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001 vs pcDNA3.1 negative group; Figure&#x000a0;<xref rid="jcmm15688-fig-0006" ref-type="fig">6B</xref>). Besides, danshen could inhibit the expressions of TLR4, TFAF6 and activated NF&#x02010;&#x003ba;B, respectively, as compared to pcDNA3.1&#x02010;TLR4 group (Figure&#x000a0;<xref rid="jcmm15688-fig-0006" ref-type="fig">6B,C</xref>). Furthermore, immunofluorescence results showed that TLR4 overexpression (cells were transfected with DsRed2&#x02010;pcDNA3.1&#x02010;TLR4) significantly increased the nuclear translocation of NF&#x02010;&#x003ba;B, as compared with DsRed2&#x02010;pcDNA3.1 transfected cell (Figure&#x000a0;<xref rid="jcmm15688-fig-0006" ref-type="fig">6C</xref>). While danshen treatment inhibited NF&#x02010;&#x003ba;B activation, leading to decreased nuclear content (Figure&#x000a0;<xref rid="jcmm15688-fig-0006" ref-type="fig">6C</xref>). Intriguingly, the lower red fluorescence indicated a reduction of exogenous TLR4 expression in danshen&#x02010;treated cells (Figure&#x000a0;<xref rid="jcmm15688-fig-0006" ref-type="fig">6D</xref>), suggesting that danshen directly contributes to the TLR4 protein degradation or inhibition of promoter. In the current study, CMV promoter and T7 promoter were applied in TLR4 plasmid. And we will furtherly investigate whether danshen directly contributes to the TLR4 protein degradation or inhibition of promoters in future. Taken together, these data indicated that danshen could act on TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B cascade signalling pathway to resist inflammation.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15688-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Danshen is shown to act on TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B signalling pathway and MD2/TLR4&#x02010;MyD88 complex formation. (A) The structure of DsRed2&#x02010;pcDNA3.1&#x02010;TLR4. (B) Western blots images and analysis of TLR4, TRAF6 and p&#x02010;NF&#x02010;&#x003ba;B from different groups, N&#x000a0;=&#x000a0;3. (C) Cardiomyocytes were transfected with DsRed2&#x02010;pcDNA3.1&#x02010;TLR4 to monitor the expression of TLR4. DsRed2&#x02010;pcDNA3.1 transfected cell was set as a negative control. Representative DsRed2 fluorescence and immunofluorescence staining of NF&#x02010;&#x003ba;B were shown from different groups, N&#x000a0;=&#x000a0;15. (D) The quantification of DsRed2 fluorescence, N&#x000a0;=&#x000a0;15. The binding of MD2 and TLR4 (E) and the interaction of TLR4 and MyD88 (F) were detected by immunoprecipitation assay. **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01, **<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;.01</p></caption><graphic id="nlm-graphic-11" xlink:href="JCMM-24-10677-g006"/></fig><p>Furthermore, the binding of MD2 to TLR4 was explored. Meanwhile, TLR4&#x02010;MyD88 interaction was also investigated by co&#x02010;immunoprecipitation. Compared with the control group, CM stimulation increased the binding of MD2 to TLR4 and the interaction of TLR4 and MyD88, whereas danshen treatment significantly attenuated CM&#x02010;induced formation of MD2/TLR4&#x02010;MyD88 complex (Figure&#x000a0;<xref rid="jcmm15688-fig-0006" ref-type="fig">6E,F</xref>).</p></sec></sec><sec sec-type="discussion" id="jcmm15688-sec-0031"><label>4</label><title>DISCUSSION</title><p>Experimental work and clinical trials both showed that danshen have potent cardioprotective effects against HF.<xref rid="jcmm15688-bib-0011" ref-type="ref">
+<sup>11</sup>
+</xref>, <xref rid="jcmm15688-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref>, <xref rid="jcmm15688-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref>, <xref rid="jcmm15688-bib-0022" ref-type="ref">
+<sup>22</sup>
+</xref> However, the protective mechanisms of danshen need to be fully elucidated. Based on transcriptome technique, we explored the regulatory effects of danshen on AMI&#x02010;induced HF by in vivo and in vitro experiments. Our main findings are as below: (1) Danshen with different dosages attenuated cardiac dysfunction and reduced inflammatory response in AMI&#x02010;induced HF rats. (2) Transcriptome analysis and validation results revealed that TLR4 signalling pathway was involved in the anti&#x02010;inflammation effects of danshen. (3) Knock&#x02010;down and overexpression of TLR4 furtherly confirmed that danshen ameliorated inflammatory injury via TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B signalling pathway. (4) Danshen inhibited the formation of MD2/TLR4&#x02010;MyD88 complex.</p><p>Approximately 50% of all HF patients suffer from declined ejection fraction (typically considered as EF &#x0003c;40%).<xref rid="jcmm15688-bib-0023" ref-type="ref">
+<sup>23</sup>
+</xref> This form of HF is characterized by the correlation between adverse clinical events and raised serum/myocardial concentrations of pro&#x02010;inflammatory cytokines.<xref rid="jcmm15688-bib-0024" ref-type="ref">
+<sup>24</sup>
+</xref>, <xref rid="jcmm15688-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> With respect to the pathological mechanism, inflammation has been documented as a critical event in AMI&#x02010;induced HF.<xref rid="jcmm15688-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="jcmm15688-bib-0025" ref-type="ref">
+<sup>25</sup>
+</xref> Following myocardial infarction, the primary objective of the inflammatory response in the heart is to repair tissue injury, thereby allowing the heart to adapt to the bad conditions in the short&#x02010;term and ultimately return to homeostasis and recover cardiovascular function in the long&#x02010;term.<xref rid="jcmm15688-bib-0004" ref-type="ref">
+<sup>4</sup>
+</xref>, <xref rid="jcmm15688-bib-0026" ref-type="ref">
+<sup>26</sup>
+</xref> However, under a sustaining abnormal state, a chronic inflammatory condition persists in cardiac tissue, furtherly causes the deleterious influence on cardiomyocytes and the extracellular matrix, eventually contributes to HF occurrence and development.<xref rid="jcmm15688-bib-0027" ref-type="ref">
+<sup>27</sup>
+</xref>, <xref rid="jcmm15688-bib-0028" ref-type="ref">
+<sup>28</sup>
+</xref> Given that inflammation itself is diverse and complex, anti&#x02010;inflammatory strategies have offered disappointing results so far. In this regard, a number of researches have shown the indispensable role of TLRs in several cardiovascular pathological mechanism, suggesting that the modulation of TLRs signalling pathway will be of great significance for cure.<xref rid="jcmm15688-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="jcmm15688-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> All known human TLRs in the heart have been detected, and foremost is TLR4, whose level is the highest compared to other TLRs in the heart.<xref rid="jcmm15688-bib-0008" ref-type="ref">
+<sup>8</sup>
+</xref>, <xref rid="jcmm15688-bib-0030" ref-type="ref">
+<sup>30</sup>
+</xref> What's more, TLR4 plays a major role in myocardial inflammation, including MI, myocardial I/R injury, myocarditis, aortic valve diseases, hypertension, atherosclerosis and HF.<xref rid="jcmm15688-bib-0029" ref-type="ref">
+<sup>29</sup>
+</xref> Pharmacological intervention using TLR4 antagonists has been a challenging approach for the last two decades; nevertheless, these candidates failed in the stages of clinical trials, and therefore, discovery of new TLR4 modulators is much anticipated.<xref rid="jcmm15688-bib-0031" ref-type="ref">
+<sup>31</sup>
+</xref>, <xref rid="jcmm15688-bib-0032" ref-type="ref">
+<sup>32</sup>
+</xref>
+</p><p>Medicinal herbal products have been applied for healthcare in Asia for over thousands of years. Recently, numerous researches have demonstrated that Chinese herbal medicines and bioactive phytochemicals can be promising cardioprotective therapies.<xref rid="jcmm15688-bib-0033" ref-type="ref">
+<sup>33</sup>
+</xref>, <xref rid="jcmm15688-bib-0034" ref-type="ref">
+<sup>34</sup>
+</xref> Danshen, the dried root or rhizome of Salvia miltiorrhiza Bge, is an ancient antipyretic traditional Chinese medicine and mostly used to ameliorate blood circulation and dispel blood stasis.<xref rid="jcmm15688-bib-0021" ref-type="ref">
+<sup>21</sup>
+</xref> Besides, it also plays beneficial roles in improving cardiovascular diseases, such as myocardial ischaemia, atherosclerosis, hypertension and HF.<xref rid="jcmm15688-bib-0020" ref-type="ref">
+<sup>20</sup>
+</xref> Data about clinical statistics of hospitalized patients and outpatients with cardiovascular diseases have demonstrated that danshen was top&#x02010;ranked (63.10% and 17.1%, respectively) out of all the clinical administered drugs in Beijing, Tianjin and Taiwan.<xref rid="jcmm15688-bib-0012" ref-type="ref">
+<sup>12</sup>
+</xref> These pharmacological activities are associated with inhibiting inflammation, attenuating post&#x02010;infarct remodelling, activating blood circulation, scavenging oxidative stress and improving angiogenesis via regulating multiple pathways. However, whether danshen could exhibit anti&#x02010;inflammatory effect against HF needs to be proved. Intriguingly, the results of our study showed that danshen treatment in different dosages improved LV function, mitigating pathological changes, inflammatory response including inflammatory cells infiltration and inflammatory cytokines releasing in AMI&#x02010;induced HF rats. Then, transcriptome technique was carried out to elucidate potential mechanisms of danshen. The KEGG pathway enrichment analysis as well as the functional analysis indicated that the differently expressed genes between danshen&#x02010;treated group and model group were involved in several pathways, primarily focused on the inflammation&#x02010;related TLRs signalling pathway. Based on differentially expressed genes in TLRs signalling pathway, we validated HF&#x02010;related gene Tlr4, Irf5, Cd86, Tlr9, Tlr2, Spp1, Cd80 and Tlr8. Of the eight genes, Tlr4, Tlr9 and Tlr8 are involved in the progression of HF<xref rid="jcmm15688-bib-0007" ref-type="ref">
+<sup>7</sup>
+</xref>, <xref rid="jcmm15688-bib-0035" ref-type="ref">
+<sup>35</sup>
+</xref>, <xref rid="jcmm15688-bib-0036" ref-type="ref">
+<sup>36</sup>
+</xref>; silencing of the transcription factor Irf5 may be used to ameliorate HF<xref rid="jcmm15688-bib-0037" ref-type="ref">
+<sup>37</sup>
+</xref>; immune response&#x02010;related genes CD80 and CD86 promise to be effective new immunotherapeutic targets in inflammation related to heart<xref rid="jcmm15688-bib-0038" ref-type="ref">
+<sup>38</sup>
+</xref>; MI could induce strong transcriptional activation of Spp1.<xref rid="jcmm15688-bib-0039" ref-type="ref">
+<sup>39</sup>
+</xref> The regulation of danshen on these genes proved that danshen has reliable efficacy in treating HF. Given the significance of TLR4 in myocardial inflammation, we furtherly focused on the downstream molecular pathway of TLR4 signalling. In vivo Western blots showed that the levels of MyD88, TRAF6, p&#x02010;I&#x003ba;B, p&#x02010;p38 MAPK and p&#x02010;NF&#x02010;&#x003ba;B were down&#x02010;regulated by danshen treatment, which indicating that the anti&#x02010;inflammation effect of danshen may exert through the MyD88&#x02010;dependent TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B pathway.</p><p>In addition to immune cells, TLR4 has been detected in various cell types including cardiomyocytes,<xref rid="jcmm15688-bib-0040" ref-type="ref">
+<sup>40</sup>
+</xref> whereas the definite molecular mechanism needs to be fully elucidated in cardiomyocytes. We conducted a CM&#x02010;induced inflammatory H9C2 cell model, and TLR4 siRNA was utilized. Results demonstrated that knock&#x02010;down of TLR4 has a good effect against inflammatory injury, indicating TLR4 signalling pathway holds a great value against inflammation in stressed cardiomyocytes. Besides, in vitro results also showed that danshen protected against inflammatory injury and inhibited the expressions of TLR4, TRAF6 and activated NF&#x02010;&#x003ba;B. To further confirm whether danshen alleviates inflammation via regulating TLR4 signalling pathway directly, overexpression of TLR4 in H9C2 cell was utilized by pcDNA3.1 transient transfection carrying DsRed2. Overexpression of TLR4 impressively increased the levels of TLR4 and TRAF6, induced NF&#x02010;&#x003ba;B activation and nuclear translocation, indicating that TLR4 can induce NF&#x02010;&#x003ba;B&#x02010;mediated inflammation through Myd88&#x02010;dependent TRAF6 signalling pathway. Danshen treatment could down&#x02010;regulate TLR4, TRAF6 and activated NF&#x02010;&#x003ba;B, respectively, demonstrating that danshen exhibited anti&#x02010;inflammation effects through TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B signalling pathway. More importantly, by utilizing co&#x02010;immunoprecipitation, danshen was proved to suppress MD2/TLR4 complex formation and the interaction of TLR4 and MyD88, which consequently regulating the downstream pathways. Intriguingly, results in Figure&#x000a0;<xref rid="jcmm15688-fig-0004" ref-type="fig">4</xref> and Figure&#x000a0;<xref rid="jcmm15688-fig-0005" ref-type="fig">5</xref> showed that danshen decreased TLR4 expression both in vitro and in vivo. Marylene Y. et al demonstrated that the involvement of downstream MAPK signalling in modulation of TLR expression is critical,<xref rid="jcmm15688-bib-0041" ref-type="ref">
+<sup>41</sup>
+</xref> we assumed that the down&#x02010;regulatory effect of danshen on TLR4 expression may be due to the positive control feedback of MAPK signalling on TLR4 transcriptional regulation. More experiments are needed to confirm the assumption. In addition, it has been well established that in HF patients, down&#x02010;regulating pro&#x02010;inflammatory cytokines of macrophages suggest a direct cardioprotective effect.<xref rid="jcmm15688-bib-0042" ref-type="ref">
+<sup>42</sup>
+</xref> Intriguingly, our in vitro results also showed that secretion of pro&#x02010;inflammatory cytokines and activation of NF&#x02010;&#x003ba;B in macrophages were also inhibited by danshen. Collectively, danshen may serve as anti&#x02010;inflammation agents to prevent the development of HF.</p><p>Majority of clinical trials targeting aspects of inflammation in patients with heart failure have been largely negative,<xref rid="jcmm15688-bib-0043" ref-type="ref">
+<sup>43</sup>
+</xref> novel pathological mechanism and the drug targets of heart failure need to be further explored. This experiment elucidated the critical role of MD2/TLR4&#x02010;MyD88 complex formation and TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B signalling pathway in HF. And by targeting this pathway, the anti&#x02010;inflammatory effect of danshen was confirmed and a significant cardioprotective effect was achieved, this will provide alternative therapeutic strategies for the treatment of HF, even other cardiovascular diseases with inflammatory response as the core pathological mechanism.</p><p>There are still some limitations in the current study. The dose of danshen is converted from the Danqi pill, and more concentrations should be included to make the study more comprehensive. Moreover, the major active components of danshen and their binding sites at a structural level in regulating MD2/TLR4&#x02010;MyD88 complex formation and signalling are still unclear and more studies should be conducted to further screen and validate the active ingredients.</p></sec><sec sec-type="conclusions" id="jcmm15688-sec-0032"><label>5</label><title>CONCLUSIONS</title><p>Our research evaluated the anti&#x02010;inflammation effects of danshen in vivo and in vitro. Results showed that danshen ameliorates inflammatory injury via MD2/TLR4&#x02010;MyD88 complex formation and TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B signalling pathway in AMI&#x02010;induced HF (Figure&#x000a0;<xref rid="jcmm15688-fig-0007" ref-type="fig">7</xref>), providing further evidence that TLR4 signalling cascade is an attractive target against AMI&#x02010;induced HF. Besides, discrimination and quality assessment of danshen provided further interpretation of bioactive components. All in all, danshen promises to serve as a natural small molecule inhibitor for resisting inflammation in HF progression.</p><fig fig-type="Figure" xml:lang="en" id="jcmm15688-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Potential mechanism of danshen on heart failure is mediated by MyD88&#x02010;dependent TLR4&#x02010;TRAF6&#x02010;NF&#x02010;&#x003ba;B inflammation pathway&#x02019;</p></caption><graphic id="nlm-graphic-13" xlink:href="JCMM-24-10677-g007"/></fig></sec><sec sec-type="COI-statement" id="jcmm15688-sec-0034"><title>CONFLICT OF INTEREST</title><p>The authors declare no conflict of interest.</p></sec><sec id="jcmm15688-sec-0035"><title>AUTHOR CONTRIBUTION</title><p>Xiaoping Wang: Writing&#x02010;original draft (lead); Writing&#x02010;review &#x00026; editing (lead). Dongqing Guo: Writing&#x02010;review &#x00026; editing (equal). Weili Li: Methodology (equal). Qian Zhang: Methodology (equal). Yanyan Jiang: Visualization (lead). Qiyan Wang: Writing&#x02010;review &#x00026; editing (equal). Chun Li: Funding acquisition (equal). Qi Qiu: Funding acquisition (equal). Yong Wang: Funding acquisition (lead); Writing&#x02010;review &#x00026; editing (equal).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jcmm15688-sup-0001"><caption><p>Table S1</p></caption><media xlink:href="JCMM-24-10677-s001.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="jcmm15688-sup-0002"><caption><p>Table S2</p></caption><media xlink:href="JCMM-24-10677-s002.xlsx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jcmm15688-sec-0033"><title>ACKNOWLEDGEMENTS</title><p>This research was funded by the National Natural Science Foundation of China, grant number 81822049, 81673712 and 81673802; National key new drug creation of Ministry of science and technology, grant number 2019ZX09201004&#x02010;001&#x02010;011 and 2017ZX09304017; the Fok Ying Tung Education Foundation, grant number 151044; the Beijing Nova Program, grant number Z171100001117028; and Talent Young Scientist of China Association for Science and Technology, grant number CACM&#x02010;2017&#x02010;QNRC2&#x02010;C13 and CACM&#x02010;2018&#x02010;QNRC2&#x02010;C07.</p></ack><sec sec-type="data-availability" id="jcmm15688-sec-0037"><title>DATA AVAILABILITY STATEMENT</title><p>The data sets used and/or analysed during the current study are available from the corresponding author on reasonable request.</p></sec><ref-list content-type="cited-references" id="jcmm15688-bibl-0001"><title>REFERENCES</title><ref id="jcmm15688-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0001">
+<string-name>
+<surname>Kalman</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lavandero</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mahfoud</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Nahrendorf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yacoub</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Looking back and thinking forwards &#x02010; 15 years of cardiology and cardiovascular research</article-title>. <source xml:lang="en">Nat Rev Cardiol</source>. <year>2019</year>;<volume>16</volume>:<fpage>651</fpage>&#x02010;<lpage>660</lpage>.<pub-id pub-id-type="pmid">31570832</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0002">
+<string-name>
+<surname>Bahit</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Kochar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>. <article-title>Post&#x02010;Myocardial Infarction Heart Failure</article-title>. <source xml:lang="en">JACC Heart Fail</source>. <year>2018</year>;<volume>6</volume>:<fpage>179</fpage>&#x02010;<lpage>186</lpage>.<pub-id pub-id-type="pmid">29496021</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0003">
+<string-name>
+<surname>Frangogiannis</surname>
+<given-names>NG</given-names>
+</string-name>. <article-title>Pathophysiology of Myocardial Infarction. <italic>Comprehensive</italic>
+</article-title>. <source xml:lang="en">Physiology</source>. <year>2015</year>;<volume>5</volume>:<fpage>1841</fpage>&#x02010;<lpage>1875</lpage>.</mixed-citation></ref><ref id="jcmm15688-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0004">
+<string-name>
+<surname>Prabhu</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Frangogiannis</surname>
+<given-names>NG</given-names>
+</string-name>. <article-title>The Biological Basis for Cardiac Repair After Myocardial Infarction: From Inflammation to Fibrosis</article-title>. <source xml:lang="en">Circ Res</source>. <year>2016</year>;<volume>119</volume>:<fpage>91</fpage>&#x02010;<lpage>112</lpage>.<pub-id pub-id-type="pmid">27340270</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0005">
+<string-name>
+<surname>Sharma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Garg</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ashraf</surname>
+<given-names>MZ</given-names>
+</string-name>. <article-title>TLR signalling and association of TLR polymorphism with cardiovascular diseases</article-title>. <source xml:lang="en">Vascul Pharmacol</source>. <year>2016</year>;<volume>87</volume>:<fpage>30</fpage>&#x02010;<lpage>37</lpage>.<pub-id pub-id-type="pmid">27826031</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0006">
+<string-name>
+<surname>Joosten</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Abdollahi&#x02010;Roodsaz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dinarello</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>O'Neill</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Netea</surname>
+<given-names>MG</given-names>
+</string-name>. <article-title>Toll&#x02010;like receptors and chronic inflammation in rheumatic diseases: new developments</article-title>. <source xml:lang="en">Nat Rev Rheumatol</source>. <year>2016</year>;<volume>12</volume>:<fpage>344</fpage>&#x02010;<lpage>357</lpage>.<pub-id pub-id-type="pmid">27170508</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0007">
+<string-name>
+<surname>Ueda</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yamaguchi</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Taneike</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Administration of a TLR9 Inhibitor Attenuates the Development and Progression of Heart Failure in Mice</article-title>. <source xml:lang="en">JACC Basic to translational science</source>. <year>2019</year>;<volume>4</volume>:<fpage>348</fpage>&#x02010;<lpage>363</lpage>.<pub-id pub-id-type="pmid">31312759</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0008">
+<string-name>
+<surname>Yu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>The Role of Toll&#x02010;Like Receptor Signaling in the Progression of Heart Failure</article-title>. <source xml:lang="en">Mediators Inflamm</source>. <year>2018</year>;<volume>2018</volume>:<fpage>9874109</fpage>.<pub-id pub-id-type="pmid">29576748</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0009">
+<string-name>
+<surname>Hindi</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gallot</surname>
+<given-names>YS</given-names>
+</string-name>, et al. <article-title>MyD88 promotes myoblast fusion in a cell&#x02010;autonomous manner</article-title>. <source xml:lang="en">Nat Commun</source>. <year>2017</year>;<volume>8</volume>:<fpage>1624</fpage>.<pub-id pub-id-type="pmid">29158520</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0010">
+<string-name>
+<surname>Vink</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Smout</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Driessen&#x02010;Engels</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>van Eenennaam H. In vivo knockdown of TAK1 accelerates bone marrow proliferation/differentiation and induces systemic inflammation</article-title>. <source xml:lang="en">PLoS One</source>. <year>2013</year>;<volume>8</volume>:<elocation-id>e57348&#x02010;e</elocation-id>.<pub-id pub-id-type="pmid">23505428</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0011">
+<string-name>
+<surname>Me</surname>
+<given-names>XD</given-names>
+</string-name>, <string-name>
+<surname>Cao</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Che</surname>
+<given-names>YY</given-names>
+</string-name>, et al. <article-title>Danshen: a phytochemical and pharmacological overview</article-title>. <source xml:lang="en">Chin J Nat Med</source>. <year>2019</year>;<volume>17</volume>:<fpage>59</fpage>&#x02010;<lpage>80</lpage>.<pub-id pub-id-type="pmid">30704625</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0012">
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Salvia miltiorrhiza: A Potential Red Light to the Development of Cardiovascular Diseases</article-title>. <source xml:lang="en">Curr Pharm Des</source>. <year>2017</year>;<volume>23</volume>:<fpage>1077</fpage>&#x02010;<lpage>1097</lpage>.<pub-id pub-id-type="pmid">27748194</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0013">
+<string-name>
+<surname>Qian</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Huo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Effect of Salvia miltiorrhiza Hydrophilic Extract on Antioxidant Enzymes in Diabetic Patients with Chronic Heart Disease: A Randomized Controlled Trial</article-title>. <source xml:lang="en">Phytother Res</source>. <year>2012</year>;<volume>26</volume>:<fpage>60</fpage>&#x02010;<lpage>66</lpage>.<pub-id pub-id-type="pmid">21544882</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0014">
+<string-name>
+<surname>Qian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Huo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dai</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Qian</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Effect of Salvia miltiorrhiza Hydrophilic Extract on the Endothelial Biomarkers in Diabetic Patients with Chronic Artery Disease</article-title>. <source xml:lang="en">Phytother Res</source>. <year>2012</year>;<volume>26</volume>:<fpage>1575</fpage>&#x02010;<lpage>1578</lpage>.<pub-id pub-id-type="pmid">22318996</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0015">
+<string-name>
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Qishen granules inhibit myocardial inflammation injury through regulating arachidonic acid metabolism</article-title>. <source xml:lang="en">Sci Rep</source>. <year>2016</year>;<volume>6</volume>:<fpage>36949</fpage>.<pub-id pub-id-type="pmid">27833128</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0016">
+<string-name>
+<surname>Marzilli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vinereanu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lopaschuk</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Trimetazidine in cardiovascular medicine</article-title>. <source xml:lang="en">Int J Cardiol</source>. <year>2019</year>;<volume>293</volume>:<fpage>39</fpage>&#x02010;<lpage>44</lpage>.<pub-id pub-id-type="pmid">31178223</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0017">
+<string-name>
+<surname>Khanam</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Son</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JW</given-names>
+</string-name>, et al. <article-title>Prognostic value of short&#x02010;term follow&#x02010;up BNP in hospitalized patients with heart failure</article-title>. <source xml:lang="en">BMC Cardiovasc Disord</source>. <year>2017</year>;<volume>17</volume>:<fpage>215</fpage>.<pub-id pub-id-type="pmid">28774268</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0018">
+<string-name>
+<surname>Chaikijurajai</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>WHW</given-names>
+</string-name>. <article-title>Reappraisal of Inflammatory Biomarkers in Heart Failure</article-title>. <source xml:lang="en">Curr Heart Fail Rep</source>. <year>2020</year>;<volume>17</volume>:<fpage>9</fpage>&#x02010;<lpage>19</lpage>.<pub-id pub-id-type="pmid">31916187</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0019"><label>19</label><mixed-citation publication-type="miscellaneous" id="jcmm15688-cit-0019">
+<string-name>
+<surname>Yamaguchi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Abe</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Arakaki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Arasaki</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Shimabukuro</surname>
+<given-names>M</given-names>
+</string-name>.<article-title>Prognostic Value of Lactate Dehydrogenase for Mid&#x02010;Term Mortality in Acute Decompensated Heart Failure: A Comparison to Established Biomarkers and Brain Natriuretic Peptide</article-title>. Heart, lung &#x00026; circulation. <year>2019</year>.</mixed-citation></ref><ref id="jcmm15688-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0020">
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ma</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Salvia miltiorrhiza: A potential red light to the development of cardiovascular diseases</article-title>. <source xml:lang="en">Curr Pharm Des</source>. <year>2017</year>;<volume>23</volume>:<fpage>1077</fpage>&#x02010;<lpage>1097</lpage>.<pub-id pub-id-type="pmid">27748194</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0021">
+<string-name>
+<surname>Wang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fordjour</surname>
+<given-names>PA</given-names>
+</string-name>, et al. <article-title>Danshen injection prevents heart failure by attenuating post&#x02010;infarct remodeling</article-title>. <source xml:lang="en">J Ethnopharmacol</source>. <year>2017</year>;<volume>205</volume>:<fpage>22</fpage>&#x02010;<lpage>32</lpage>.<pub-id pub-id-type="pmid">28465251</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0022">
+<string-name>
+<surname>Luo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Compound Danshen (Salvia miltiorrhiza) dripping pill for coronary heart disease: an overview of systematic reviews</article-title>. <source xml:lang="en">Am J Chinese Med</source>. <year>2015</year>;<volume>43</volume>:<fpage>25</fpage>&#x02010;<lpage>43</lpage>.</mixed-citation></ref><ref id="jcmm15688-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0023">
+<string-name>
+<surname>Dunlay</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Roger</surname>
+<given-names>VL</given-names>
+</string-name>, <string-name>
+<surname>Redfield</surname>
+<given-names>MM</given-names>
+</string-name>. <article-title>Epidemiology of heart failure with preserved ejection fraction</article-title>. <source xml:lang="en">Nat Rev Cardiol</source>. <year>2017</year>;<volume>14</volume>:<fpage>591</fpage>&#x02010;<lpage>602</lpage>.<pub-id pub-id-type="pmid">28492288</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0024">
+<string-name>
+<surname>Scally</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Abbas</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ahearn</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Myocardial and Systemic Inflammation in Acute Stress&#x02010;Induced (Takotsubo) Cardiomyopathy</article-title>. <source xml:lang="en">Circulation</source>. <year>2019</year>;<volume>139</volume>:<fpage>1581</fpage>&#x02010;<lpage>1592</lpage>.<pub-id pub-id-type="pmid">30586731</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0025">
+<string-name>
+<surname>Akodad</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lattuca</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Nagot</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>COLIN trial: Value of colchicine in the treatment of patients with acute myocardial infarction and inflammatory response</article-title>. <source xml:lang="en">Arch Cardiovasc Dis</source>. <year>2017</year>;<volume>110</volume>:<fpage>395</fpage>&#x02010;<lpage>402</lpage>.<pub-id pub-id-type="pmid">28065445</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0026">
+<string-name>
+<surname>Ong</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Hern&#x000e1;ndez&#x02010;Res&#x000e9;ndiz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Crespo&#x02010;Avilan</surname>
+<given-names>GE</given-names>
+</string-name>, et al. <article-title>Inflammation following acute myocardial infarction: Multiple players, dynamic roles, and novel therapeutic opportunities</article-title>. <source xml:lang="en">Pharmacol Ther</source>. <year>2018</year>;<volume>186</volume>:<fpage>73</fpage>&#x02010;<lpage>87</lpage>.<pub-id pub-id-type="pmid">29330085</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0027">
+<string-name>
+<surname>Mascherbauer</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Myocardial Inflammation: An Important Pitfall During CMR T1 Mapping for the Quantification of Diffuse Fibrosis in Heart Failure</article-title>. <source xml:lang="en">JACC Cardiovasc Imaging</source>. <year>2018</year>;<volume>11</volume>:<fpage>46</fpage>&#x02010;<lpage>47</lpage>.<pub-id pub-id-type="pmid">28412429</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0028">
+<string-name>
+<surname>Mann</surname>
+<given-names>DL</given-names>
+</string-name>. <article-title>Innate immunity and the failing heart: the cytokine hypothesis revisited</article-title>. <source xml:lang="en">Circ Res</source>. <year>2015</year>;<volume>116</volume>:<fpage>1254</fpage>&#x02010;<lpage>1268</lpage>.<pub-id pub-id-type="pmid">25814686</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0029">
+<string-name>
+<surname>Yang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Lv</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The emerging role of Toll&#x02010;like receptor 4 in myocardial inflammation</article-title>. <source xml:lang="en">Cell Death Dis</source>. <year>2016</year>;<volume>7</volume>:<elocation-id>e2234</elocation-id>.<pub-id pub-id-type="pmid">27228349</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0030">
+<string-name>
+<surname>Mann</surname>
+<given-names>DL</given-names>
+</string-name>. <article-title>The emerging role of innate immunity in the heart and vascular system: for whom the cell tolls</article-title>. <source xml:lang="en">Circ Res</source>. <year>2011</year>;<volume>108</volume>:<fpage>1133</fpage>&#x02010;<lpage>1145</lpage>.<pub-id pub-id-type="pmid">21527743</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0031">
+<string-name>
+<surname>Barochia</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Cui</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Natanson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Eichacker</surname>
+<given-names>PQ</given-names>
+</string-name>. <article-title>Risk of death and the efficacy of eritoran tetrasodium (E5564): design considerations for clinical trials of anti&#x02010;inflammatory agents in sepsis</article-title>. <source xml:lang="en">Crit Care Med</source>. <year>2010</year>;<volume>38</volume>:<fpage>306</fpage>&#x02010;<lpage>308</lpage>.<pub-id pub-id-type="pmid">20023474</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0032">
+<string-name>
+<surname>Opal</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Laterre</surname>
+<given-names>P&#x02010;F</given-names>
+</string-name>, <string-name>
+<surname>Francois</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Effect of eritoran, an antagonist of MD2&#x02010;TLR4, on mortality in patients with severe sepsis: the ACCESS randomized trial</article-title>. <source xml:lang="en">JAMA</source>. <year>2013</year>;<volume>309</volume>:<fpage>1154</fpage>&#x02010;<lpage>1162</lpage>.<pub-id pub-id-type="pmid">23512062</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0033">
+<string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Qin</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>Evaluations of the effect of HuangQi against heart failure based on comprehensive echocardiography index and metabonomics</article-title>. <source xml:lang="en">Phytomedicine: Int J Phytotherapy Phytopharmacol</source>. <year>2018</year>;<volume>50</volume>:<fpage>205</fpage>&#x02010;<lpage>212</lpage>.</mixed-citation></ref><ref id="jcmm15688-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0034">
+<string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Xiong</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Effect of crataegus usage in cardiovascular disease prevention: an evidence&#x02010;based approach</article-title>. <source xml:lang="en">Evid Based Complement Alternat Med</source>. <year>2013</year>;<volume>2013</volume>:<fpage>149363</fpage>.<pub-id pub-id-type="pmid">24459528</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0035">
+<string-name>
+<surname>Shen</surname>
+<given-names>J&#x02010;L</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Y&#x02010;S</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>J&#x02010;Y</given-names>
+</string-name>, et al. <article-title>Neuron Regeneration and Proliferation Effects of Danshen and Tanshinone IIA</article-title>. <source xml:lang="en">Evid Based Complement Alternat Med</source>. <year>2011</year>;<volume>2011</volume>:<fpage>378907</fpage>.<pub-id pub-id-type="pmid">21151668</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0036">
+<string-name>
+<surname>Yu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>The role of toll&#x02010;like receptor signaling in the progression of heart failure</article-title>. <source xml:lang="en">Mediators Inflamm</source>. <year>2018</year>;<volume>2018</volume>:<fpage>9874109</fpage>.<pub-id pub-id-type="pmid">29576748</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0037">
+<string-name>
+<surname>Courties</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Heidt</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sebas</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>In vivo silencing of the transcription factor IRF5 reprograms the macrophage phenotype and improves infarct healing</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>1556</fpage>&#x02010;<lpage>1566</lpage>.<pub-id pub-id-type="pmid">24361318</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0038">
+<string-name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Gao</surname>
+<given-names>X</given-names>
+</string-name>. <article-title>CD80 Regulates Th17 Cell Differentiation in Coxsackie Virus B3&#x02010;Induced Acute Myocarditis</article-title>. <source xml:lang="en">Inflammation</source>. <year>2018</year>;<volume>41</volume>:<fpage>232</fpage>&#x02010;<lpage>239</lpage>.<pub-id pub-id-type="pmid">29039143</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0039">
+<string-name>
+<surname>Shirakawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Endo</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kataoka</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>IL (Interleukin)&#x02010;10&#x02010;STAT3&#x02010;Galectin&#x02010;3 Axis Is Essential for Osteopontin&#x02010;Producing Reparative Macrophage Polarization After Myocardial Infarction</article-title>. <source xml:lang="en">Circulation</source>. <year>2018</year>;<volume>138</volume>:<fpage>2021</fpage>&#x02010;<lpage>2035</lpage>.<pub-id pub-id-type="pmid">29967195</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0040">
+<string-name>
+<surname>Tian</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>XM</given-names>
+</string-name>, et al. <article-title>Extracellular HSP60 induces inflammation through activating and up&#x02010;regulating TLRs in cardiomyocytes</article-title>. <source xml:lang="en">Cardiovasc Res</source>. <year>2013</year>;<volume>98</volume>:<fpage>391</fpage>&#x02010;<lpage>401</lpage>.<pub-id pub-id-type="pmid">23447644</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0041">
+<string-name>
+<surname>Peroval</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Boyd</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>A critical role for MAPK signalling pathways in the transcriptional regulation of toll like receptors</article-title>. <source xml:lang="en">PLoS One</source>. <year>2013</year>;<volume>8</volume>:<elocation-id>e51243&#x02010;e</elocation-id>.<pub-id pub-id-type="pmid">23405061</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0042">
+<string-name>
+<surname>Wan</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Yeap</surname>
+<given-names>XY</given-names>
+</string-name>, <string-name>
+<surname>Dehn</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Enhanced efferocytosis of apoptotic cardiomyocytes through myeloid&#x02010;epithelial&#x02010;reproductive tyrosine kinase links acute inflammation resolution to cardiac repair after infarction</article-title>. <source xml:lang="en">Circ Res</source>. <year>2013</year>;<volume>113</volume>:<fpage>1004</fpage>&#x02010;<lpage>1012</lpage>.<pub-id pub-id-type="pmid">23836795</pub-id></mixed-citation></ref><ref id="jcmm15688-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcmm15688-cit-0043">
+<string-name>
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Jessup</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bozkurt</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>2016 ACC/AHA/HFSA Focused Update on New Pharmacological Therapy for Heart Failure: An Update of the 2013 ACCF/AHA Guideline for the Management of Heart Failure: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Failure Society of America</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2016</year>;<volume>68</volume>:<fpage>1476</fpage>&#x02010;<lpage>1488</lpage>.<pub-id pub-id-type="pmid">27216111</pub-id></mixed-citation></ref></ref-list></back></article>
